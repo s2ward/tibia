@@ -1,0 +1,1280 @@
+
+				<!DOCTYPE html>
+				<html>
+					<head>
+						<meta charset="UTF-8">
+						<link rel="stylesheet" href="pluginAssets/katex/katex.css"><script type="application/javascript" src="pluginAssets/mermaid/mermaid.min.js"></script><script type="application/javascript" src="pluginAssets/mermaid/mermaid_render.js"></script><link rel="stylesheet" href="pluginAssets/highlight.js/atom-one-light.css">
+						<title>5. Complete Madness</title>
+					</head>
+					<body>
+						<div class="exported-note"><div class="exported-note-title">5. Complete Madness</div>
+
+<style>
+		/* https://necolas.github.io/normalize.css/ */
+		html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
+		article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}
+		pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}
+		b,strong{font-weight:bolder}small{font-size:80%}img{border-style:none}
+
+		body {
+			font-size: 15px;
+			color: #32373F;
+			word-wrap: break-word;
+			line-height: 1.6em;
+			background-color: #ffffff;
+			font-family: 'Avenir', 'Arial', sans-serif;
+			padding-bottom: 0px;
+			padding-top: 0px;
+		}
+		strong {
+			color: #000000;
+		}
+		kbd {
+			border: 1px solid rgb(220, 220, 220);
+			box-shadow: inset 0 -1px 0 rgb(220, 220, 220);
+			padding: 2px 4px;
+			border-radius: 3px;
+			background-color: rgb(243, 243, 243);
+		}
+		::-webkit-scrollbar {
+			width: 7px;
+			height: 7px;
+		}
+		::-webkit-scrollbar-corner {
+			background: none;
+		}
+		::-webkit-scrollbar-track {
+			border: none;
+		}
+		::-webkit-scrollbar-thumb {
+			background: rgba(100, 100, 100, 0.3); 
+			border-radius: 5px;
+		}
+		::-webkit-scrollbar-track:hover {
+			background: rgba(0, 0, 0, 0.1); 
+		}
+		::-webkit-scrollbar-thumb:hover {
+			background: rgba(100, 100, 100, 0.7); 
+		}
+
+		/* Remove top padding and margin from first child so that top of rendered text is aligned to top of text editor text */
+
+		#rendered-md > h1:first-child,
+		#rendered-md > h2:first-child,
+		#rendered-md > h3:first-child,
+		#rendered-md > h4:first-child,
+		#rendered-md > ul:first-child,
+		#rendered-md > ol:first-child,
+		#rendered-md > table:first-child,
+		#rendered-md > blockquote:first-child,
+		#rendered-md > img:first-child,
+		#rendered-md > p:first-child {
+			margin-top: 0;
+			padding-top: 0;
+		}
+		
+		p, h1, h2, h3, h4, h5, h6, ul, table {
+			margin-top: .6em;
+			margin-bottom: .65em;
+
+			/*
+				Adds support for RTL text in the note body. It automatically detects the direction using the content.
+				Issue: https://github.com/laurent22/joplin/issues/3991
+			*/
+			unicode-bidi: plaintext;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			line-height: 1.5em;
+		}
+		h1 {
+			font-size: 1.5em;
+			font-weight: bold;
+			border-bottom: 1px solid #dddddd;
+			padding-bottom: .3em;
+		}
+		h2 {
+			font-size: 1.3em;
+			font-weight: bold;
+			padding-bottom: .1em; */
+		}
+		h3 {
+			font-size: 1.1em;
+		}
+		h4, h5, h6 {
+			font-size: 1em;
+			font-weight: bold;
+		}
+
+		.exported-note-title {
+			font-size: 2em;
+			font-weight: bold;
+			margin-bottom: 0.8em;
+			line-height: 1.5em;
+			padding-bottom: .35em;
+			border-bottom: 1px solid #dddddd;
+		}
+
+		a {
+			color: #155BDA;
+		}
+		ul, ol {
+			padding-left: 0;
+			margin-left: 1.7em;
+		}
+		li {
+			margin-bottom: .4em;
+		}
+		li p {
+			margin-top: 0.2em;
+			margin-bottom: 0;
+		}
+
+		.resource-icon {
+			display: inline-block;
+			position: relative;
+			top: 0.3em;
+			text-decoration: none;
+			width: 1.2em;
+			height: 1.4em;
+			margin-right: 0.4em;
+			background-color:  #155BDA;
+		}
+    /* These icons are obtained from the wonderful ForkAwesome project by copying the src svgs 
+     * into the css classes below.
+     * svgs are obtained from https://github.com/ForkAwesome/Fork-Awesome/tree/master/src/icons/svg
+     * instead of the svg width, height property you must use a viewbox here, 0 0 1536 1792 is typically the actual size of the icon
+     * each line begins with the pre-amble -webkit-mask: url("data:image/svg+xml;utf8,
+     * and of course finishes with ");
+     * to precvent artifacts it is also necessary to include -webkit-mask-repeat: no-repeat;
+     * on the following line
+     * */
+		.fa-joplin {
+			/* Awesome Font file */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M373.834 128C168.227 128 0 296.223 0 501.834v788.336C0 1495.778 168.227 1664 373.834 1664h788.336c205.608 0 373.83-168.222 373.83-373.83V501.834C1536 296.224 1367.778 128 1162.17 128zm397.222 205.431h417.424a7.132 7.132 0 0 1 7.132 7.133v132.552c0 4.461-3.619 8.073-8.077 8.073h-57.23c-24.168 0-43.768 19.338-44.284 43.374v2.377h-.017v136.191h-.053l-.466 509.375c-5.02 77.667-39.222 149.056-96.324 201.046-60.28 54.834-141.948 85.017-229.962 85.017-12.45 0-25.208-.61-37.907-1.785-92.157-8.682-181.494-48.601-251.662-112.438-71.99-65.517-117.147-150.03-127.164-238-11.226-98.763 23.42-192.783 95.045-257.937 81.99-74.637 198.185-101.768 316.613-75.704 5.574 1.227 9.55 6.282 9.55 11.997v199.52c-.199 2.625-1.481 6.599-8.183 2.896-.663-.365-1.194-.511-1.653-.531-21.987-10.587-45.159-17.57-68.559-19.916-.38-.04-.757-.124-1.138-.163-.537-.048-1.034-.033-1.556-.075-4.13-.354-8.183-.517-12.203-.58-.87-.011-1.771-.127-2.641-.127-.486 0-.951.05-1.437.057-1.464.011-2.886.115-4.33.163-2.76.102-5.497.211-8.182.448-.273.024-.547.07-.835.097-25.509 2.4-47.864 11.104-65.012 25.47-.954.802-1.974 1.53-2.9 2.36a1.34 1.34 0 0 1-.168.146c-23.96 21.8-34.881 53.872-30.726 90.316 4.62 40.737 26.94 81.156 62.841 113.823 35.908 32.67 80.335 52.977 125.113 57.186 35.118 3.36 66.547-3.919 89.899-20.461a97.255 97.255 0 0 0 9.365-7.501c2.925-2.661 5.569-5.5 8.086-8.416.3-.348.672-.673.975-1.024 8.253-9.864 14.222-21.067 17.996-33.148.639-2.034 1.051-4.148 1.564-6.227.381-1.563.81-3.106 1.112-4.693.555-2.784.923-5.632 1.253-8.49.086-.709.183-1.414.237-2.128.492-4.893.693-9.858.55-14.91h.013V521.623c-2.01-22.626-20.78-40.434-43.928-40.434h-57.23a8.071 8.071 0 0 1-8.077-8.073V340.564a7.132 7.132 0 0 1 7.136-7.133z'/></svg>");
+		}
+		.fa-file-image {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-128-448v320H256v-192l192-192 128 128 384-384zm-832-192c-106 0-192-86-192-192s86-192 192-192 192 86 192 192-86 192-192 192z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-pdf {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-514-593c25 20 53 38 84 56 42-5 81-7 117-7 67 0 152 8 177 49 7 10 13 28 2 52-1 1-2 3-3 4v1c-3 18-18 38-71 38-64 0-161-29-245-73-139 15-285 46-392 83-103 176-182 262-242 262-10 0-19-2-28-7l-24-12c-3-1-4-3-6-5-5-5-9-16-6-36 10-46 64-123 188-188 8-5 18-2 23 6 1 1 2 3 2 4 31-51 67-116 107-197 45-90 80-178 104-262-32-109-42-221-24-287 7-25 22-40 42-40h22c15 0 27 5 35 15 12 14 15 36 9 68-1 3-2 6-4 8 1 3 1 5 1 8v30c-1 63-2 123-14 192 35 105 87 190 146 238zm-576 411c30-14 73-57 137-158-75 58-122 124-137 158zm398-920c-10 28-10 76-2 132 3-16 5-31 7-44 2-17 5-31 7-43 1-3 2-5 4-8-1-1-1-3-2-5-1-18-7-29-13-36 0 2-1 3-1 4zm-124 661c88-35 186-63 284-81-10-8-20-15-29-23-49-43-93-103-127-176-19 61-47 126-83 197-15 28-30 56-45 83zm646-16c-5-5-31-24-140-24 49 18 94 28 124 28 9 0 14 0 18-1 0-1-1-2-2-3z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-word {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM233 768v107h70l164 661h159l128-485c5-15 8-30 10-46 1-8 2-16 2-24h4l3 24c3 14 4 30 9 46l128 485h159l164-661h70V768h-300v107h90l-99 438c-4 16-6 33-7 46l-2 21h-4c0-6-2-14-3-21-3-13-5-30-9-46L825 768H711l-144 545c-4 16-5 33-8 46l-4 21h-4l-2-21c-1-13-3-30-7-46l-99-438h90V768H233z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-powerpoint {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-992-234v106h327v-106h-93v-167h137c43 0 82-2 118-15 90-31 146-124 146-233s-54-193-137-228c-38-15-84-19-130-19H416v107h92v555h-92zm353-280H650V882h120c35 0 62 6 83 18 36 21 56 62 56 115 0 56-20 99-62 120-21 10-47 15-78 15z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-excel {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zm-979-234v106h281v-106h-75l103-161c12-19 18-34 21-34h2c1 4 3 7 5 10 4 8 10 14 17 24l107 161h-76v106h291v-106h-68l-192-273 195-282h67V768H828v107h74l-103 159c-12 19-21 34-21 33h-2c-1-4-3-7-5-10-4-7-9-14-17-23L648 875h76V768H434v107h68l189 272-194 283h-68z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-audio {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM620 850c12 5 20 17 20 30v544c0 13-8 25-20 30-4 1-8 2-12 2-8 0-16-3-23-9l-166-167H288c-18 0-32-14-32-32v-192c0-18 14-32 32-32h131l166-167c10-9 23-12 35-7zm417 689c19 0 37-8 50-24 83-102 129-231 129-363s-46-261-129-363c-22-28-63-32-90-10-28 23-32 63-9 91 65 80 100 178 100 282s-35 202-100 282c-23 28-19 68 9 90 12 10 26 15 40 15zm-211-148c17 0 34-7 47-20 56-60 87-137 87-219s-31-159-87-219c-24-26-65-27-91-3-25 24-27 65-2 91 33 36 52 82 52 131s-19 95-52 131c-25 26-23 67 2 91 13 11 29 17 44 17z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-video {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM768 768c70 0 128 58 128 128v384c0 70-58 128-128 128H384c-70 0-128-58-128-128V896c0-70 58-128 128-128h384zm492 2c12 5 20 17 20 30v576c0 13-8 25-20 30-4 1-8 2-12 2-8 0-17-3-23-9l-265-266v-90l265-266c6-6 15-9 23-9 4 0 8 1 12 2z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-archive {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M640 384V256H512v128h128zm128 128V384H640v128h128zM640 640V512H512v128h128zm128 128V640H640v128h128zm700-388c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H768v128H640V128H128v1536h1280zM781 943c85 287 107 349 107 349 5 17 8 34 8 52 0 111-108 192-256 192s-256-81-256-192c0-18 3-35 8-52 0 0 21-62 120-396V768h128v128h79c29 0 54 19 62 47zm-141 465c71 0 128-29 128-64s-57-64-128-64-128 29-128 64 57 64 128 64z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-code {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM480 768c11-14 31-17 45-6l51 38c14 11 17 31 6 45l-182 243 182 243c11 14 8 34-6 45l-51 38c-14 11-34 8-45-6l-226-301c-8-11-8-27 0-38zm802 301c8 11 8 27 0 38l-226 301c-11 14-31 17-45 6l-51-38c-14-11-17-31-6-45l182-243-182-243c-11-14-8-34 6-45l51-38c14-11 34-8 45 6zm-620 461c-18-3-29-20-26-37l138-831c3-18 20-29 37-26l63 10c18 3 29 20 26 37l-138 831c-3 18-20 29-37 26z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file-alt, .fa-file-csv {
+      /* fork-awesome doesn't have csv so we use the text icon */
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280zM384 800c0-18 14-32 32-32h704c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64zm736 224c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704zm0 256c18 0 32 14 32 32v64c0 18-14 32-32 32H416c-18 0-32-14-32-32v-64c0-18 14-32 32-32h704z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		.fa-file {
+			-webkit-mask: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1536 1792' xmlns='http://www.w3.org/2000/svg'><path d='M1468 380c37 37 68 111 68 164v1152c0 53-43 96-96 96H96c-53 0-96-43-96-96V96C0 43 43 0 96 0h896c53 0 127 31 164 68zm-444-244v376h376c-6-17-15-34-22-41l-313-313c-7-7-24-16-41-22zm384 1528V640H992c-53 0-96-43-96-96V128H128v1536h1280z'/></svg>");
+      -webkit-mask-repeat: no-repeat;
+		}
+		blockquote {
+			border-left: 4px solid rgb(220, 220, 220);
+			padding-left: 1.2em;
+			margin-left: 0;
+			opacity: .7;
+		}
+
+		.jop-tinymce table,
+		table {
+			text-align: left;
+			border-collapse: collapse;
+			border: 1px solid rgb(220, 220, 220);
+			background-color: #ffffff;
+		}
+
+		.jop-tinymce table td, .jop-tinymce table th,
+		table td, th {
+			text-align: left;
+			padding: .5em 1em .5em 1em;
+			font-size: 15;
+			color: #32373F;
+			font-family: 'Avenir', 'Arial', sans-serif;
+		}
+
+		.jop-tinymce table td,
+		table td {
+			border: 1px solid rgb(220, 220, 220);
+		}
+
+		.jop-tinymce table th,
+		table th {
+			border: 1px solid rgb(220, 220, 220);
+			border-bottom: 2px solid rgb(220, 220, 220);
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:nth-child(even),
+		table tr:nth-child(even) {
+			background-color: rgb(247, 247, 247);
+		}
+
+		.jop-tinymce table tr:hover,
+		table tr:hover {
+			background-color: #e5e5e5;
+		}
+
+		hr {
+			border: none;
+			border-bottom: 2px solid #dddddd;
+		}
+		img {
+			max-width: 100%;
+			height: auto;
+		}
+		
+		.inline-code,
+		.mce-content-body code {
+			border: 1px solid rgb(220, 220, 220);
+			background-color: rgb(243, 243, 243);
+			padding-right: .2em;
+			padding-left: .2em;
+			border-radius: .25em;
+			color: rgb(0,0,0);
+			font-size: .9em;
+		}
+
+		.highlighted-keyword {
+			background-color: #F3B717;
+			color: black;
+		}
+
+		.not-loaded-resource img {
+			width: 1.15em;
+			height: 1.15em;
+			background: white;
+			padding: 2px !important;
+			border-radius: 2px;
+			box-shadow: 0 1px 3px #000000aa;
+		}
+
+		a.not-loaded-resource img {
+			margin-right: .2em;
+		}
+
+		a.not-loaded-resource {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+
+		.md-checkbox input[type=checkbox]:checked {
+			opacity: 0.7;
+		}
+
+		.jop-tinymce ul.joplin-checklist .checked,
+		.md-checkbox .checkbox-label-checked {
+			opacity: 0.5;
+		}
+
+		.exported-note {
+			padding: 1em;
+		}
+
+		.joplin-editable .joplin-source {
+			display: none;
+		}
+
+		mark {
+			background: #F7D26E;
+			color: black;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		.mce-content-body {
+			/* Note: we give a bit more padding at the bottom, to allow scrolling past the end of the document */
+			padding: 5px 10px 10em 0;
+		}
+
+		/*
+		.mce-content-body code {
+			background-color: transparent;
+		}
+		*/
+
+		.mce-content-body [data-mce-selected=inline-boundary] {
+			background-color: transparent;
+		}
+
+		.mce-content-body .joplin-editable {
+			cursor: pointer !important;
+		}
+
+		.mce-content-body.mce-content-readonly {
+			opacity: 0.5;
+		}
+
+		/* We need that to make sure click events have the A has a target */
+		.katex a span {
+			pointer-events: none;
+		}
+
+		.media-player {
+			width: 100%;
+			margin-top: 10px;
+		}
+
+		.media-player.media-pdf {
+			min-height: 100vh;
+		}
+
+		/* Clear the CODE style if the element is within a joplin-editable block */
+		.mce-content-body .joplin-editable code {
+			border: none;
+			background: none;
+			padding: 0;
+			color: inherit;
+			font-size: inherit;
+		}
+
+		/* =============================================== */
+		/* For TinyMCE */
+		/* =============================================== */
+
+		@media print {
+			body {
+				height: auto !important;
+			}
+
+			pre {
+				white-space: pre-wrap;
+			}
+
+			.code, .inline-code {
+				border: 1px solid #CBCBCB;
+			}
+
+			#joplin-container-content {
+				/* The height of the content is set dynamically by JavaScript (in updateBodyHeight) to go
+				   around various issues related to scrolling. However when printing we don't want this
+				   fixed size as that would crop the content. So we set it to auto here. "important" is
+				   needed to override the style set by JavaScript at the element-level. */
+				height: auto !important;
+			}
+		}
+	
+
+				/*
+					FOR THE MARKDOWN EDITOR
+				*/
+
+				/* Remove the indentation from the checkboxes at the root of the document
+				   (otherwise they are too far right), but keep it for their children to allow
+				   nested lists. Make sure this value matches the UL margin. */
+
+				li.md-checkbox {
+					list-style-type: none;
+				}
+
+				li.md-checkbox input[type=checkbox] {
+					margin-left: -1.71em;
+					margin-right: 0.7em;
+				}
+				
+				ul.joplin-checklist {
+					list-style:none;
+				}
+
+				/*
+					FOR THE RICH TEXT EDITOR
+				*/
+
+				ul.joplin-checklist li::before {
+					content:"\f14a";
+					font-family:"Font Awesome 5 Free";
+					background-size: 16px 16px;
+					pointer-events: all;
+					cursor: pointer;
+					width: 1em;
+					height: 1em;
+					margin-left: -1.3em;
+					position: absolute;
+					color: #32373F;
+				}
+
+				.joplin-checklist li:not(.checked)::before {
+					content:"\f0c8";
+				}
+.mermaid { background-color: white; width: 640px; }</style><div id="rendered-md"><h1 id="if-you-skipped-to-this-part-you-ruined-your-only-chance-of-learning-469">IF YOU SKIPPED TO THIS PART, YOU RUINED YOUR ONLY CHANCE OF LEARNING 469</h1>
+<h1 id="catastrophe">Catastrophe</h1>
+<p>Fiehonja is so close to Zao that it's almost part of it.  Zecrets of zteel.<br>
+Remember how we teleported using the resonating tune of a small golden anchor on large golden anchor?</p>
+<p><img src="_resources/0603c6cd88864e08a2321d1fd34bd237.png" alt="Blank diagram - Page 1 (8).png"></p>
+<p>The cranky crone is bound, extremely old &amp; at first impression - seems to have a bad memory.<br>
+However, has some vivid memories.</p>
+<p><img src="_resources/e1659a853cd2431091f68ecfdce0d326.png" alt="13bf6fa0f2efd1ebaeb0f8cede86a7b6.png"></p>
+<blockquote>
+<p>Cranky Lizard Crone: Ze... ze zpiritz. Zey are everywhere - and nowhere. In ze morning zey zit on my windowzill, in ze evening zey linger on my very doorztepz. <strong>In ze night I can almozt hear zem calling for me, longing for my... zoul.</strong></p>
+</blockquote>
+<p><img src="_resources/7739cf5bd8744bc68312d0a1b866567f.png" alt="2023-03-14_101251123_Simula_Hotkey.png"></p>
+<blockquote>
+<p>Cranky Lizard Crone: <strong>When everyzing waz ztill bright, ze houzez tidy, ze blozzomz blazing, ze waterz pure</strong>...<br>
+Cranky Lizard Crone: <strong>Zuddenly zomezing happened, ze zky darkened, ze world around me changed, all inhabitantz of ziz poor decal of a village died in ziz horrible cataztrophe</strong>. ...</p>
+</blockquote>
+<p>Another mention of the Catastrophe, and apparently the northen area had wonderful gardens and the waters were clean.</p>
+<p>This is north of the wall, the wall was built by King Chong, before dragons..</p>
+<p>Seems like she has worked with humans before?</p>
+<blockquote>
+<p>Cranky Lizard Crone: Well, on ze ozer hand, I do have zome experienze <strong>from my time working for zeze people</strong>. And zat <strong>hat</strong> surely needz a makeover. Care to give it to me?</p>
+</blockquote>
+<p>These people? Have you ever seen a snakeman with a hat?? or a flying firesnake with a hat??</p>
+<p><img src="_resources/974f5e0e44ee4650b7b7adc2bee3640b.png" alt="a7942cab6ac93ad014d92a5bf305c221.png"></p>
+<p>Detouring back to the Sunken Quarter, we can make some more sense of our surroundings.</p>
+<p>What do you think these could be? Wretched many-eyed horrors? Shadows?</p>
+<p><img src="_resources/60dc57aa2ef24ebf996949db7dc76533.png" alt="da2e51c79858aca6f97f243a74d0b0d8.png"></p>
+<p>What happened to Brandon?</p>
+<p><img src="_resources/d12b8d0b09f8472b9ff8edc6a3f8beec.png" alt="f4444a8ed559ae33c72cbe0b6a8bd1d2.png"></p>
+<p>Through the hidden keywords 'currents' and 'protected', I found that there is an <em>other</em> guardian of the seas, not one but two of them, could it be IT? Or the fire-feathered serpent?  Or an ancient bonelord?</p>
+<p><img src="_resources/5fc5fe0d431744838a96acbe12a8efb0.png" alt="2d5d52b13d5cbea2dde6852b533874e1.png"></p>
+<blockquote>
+<p>Mr Brandon: Urgh... the... THINGS. <strong>I can't forget their horrible sight</strong>.</p>
+</blockquote>
+<p><img src="_resources/a14dc92e9dc34ae7a8a5071be6e1761c.png" alt="bb1789fe0ff96f11ef8b88153c8c19c2.png"></p>
+<p>I'm <em>guessing</em> the statues are our ancient wretched many-eyed horrible thingz.</p>
+<p><img src="_resources/4539224d48c4479da0bbc5570c51d6ea.png" alt="article 469 - rosh (14).png"></p>
+<blockquote>
+<p>Ztiss: <strong>Zen he azcended to ze zky to watch over hiz people from the cloudz for all eternity</strong></p>
+</blockquote>
+<p>To complete the legend told by Ztiss:<br>
+<img src="_resources/7759033ae8264b1784347f67b53c0be6.png" alt="article 469 - rosh (9).png"></p>
+<p>Just like Durin!</p>
+<p>But I have lied.<br>
+When I said that we could connect everthing to something central?<br>
+Then I showed you the Serpentine Tower.<br>
+That was sort of a lie.<br>
+There is something <em>much</em> <em>much</em> more central, and even more relevant, now that we posess the knowledge to tackle one of if not <em>the</em> most cryptic place in Tibia, Roshamuul.</p>
+<p>In the center of Roshamuul, we find the most powerful artifact of otherkind, protected by arguably the strongest monster in all of Tibia, which happens to be tentacled.</p>
+<p>Sometimes 400 tibians die without killing it.</p>
+<p><img src="_resources/598e653c8a7740d99342081346e20965.png" alt="21f1a6bfc7e0e87ec793a2a93a6ae8d2.png"></p>
+<p><img src="_resources/ef8cc42304384c17ac3db2b67f91d09d.png" alt="7648cbfae918274a377423e45858846e.png"></p>
+<p><img src="_resources/54847f98bce548d1adb30be7a19756b3.png" alt="article 469 - rosh (7).png"></p>
+<h1 id="roshamuul">Roshamuul</h1>
+<p><img src="_resources/a68daa68f3de456f8da392e8486ea7cd.png" alt="f60ea99a4e8baa6c56061381a8ef5af0.png"></p>
+<p><img src="_resources/e4368eabe5df4eee8080360ae5d017af.png" alt="article 469 - rosh (10).png"></p>
+<p>Just how central is it?</p>
+<p><img src="_resources/3c9c36f6c25046d0a013e6796d6e94e1.png" alt="article 469 - rosh (1).png"></p>
+<p>Aah, the Heart of Midnight. How does he know?</p>
+<p><img src="_resources/39d87fb21e954049808b3c49a4c0f6a7.png" alt="567295e7d9f98b44cce2469feaf5e327.png"></p>
+<p>With a somewhat blurry memory, he was on his way north - it looks like they are cataloguing various items found throughout Roshamuul.</p>
+<p>In a quest with Morax, we are to bring him tea, and sleep in his bed.</p>
+<p>This leads us to their cistern, which looks like a dream teleporter machine.</p>
+<p><img src="_resources/2a19c3a2ceb74814a0052237900c94ab.png" alt="82bda3508abca034715768b7b1ed7031.png"></p>
+<p>And in the corner, we can even see something.<br>
+<img src="_resources/2f56ec4668524cdbbf240355bf64ef70.png" alt="02329b258f38ce2ab68e7502a567f0fe.png"></p>
+<p>Same thing we find in Morax's dream.<br>
+But do you see that? There is an item that disappears.. i'm talking about the small golden taboret.</p>
+<p><img src="_resources/3cc41944b1fa43afbe919aa9281e268f.gif" alt="rosh.gif"></p>
+<p>This coincides with Morax cataloguing items and the effing Inquisition making this 5000x harder for us.<br>
+We can also see that Morax started to repair his house in two different places.. and is decorating it - completely disregarding his mission.<br>
+When asked about Sandomo or Henricus of the inquisition, Morax doesn't even remember them.</p>
+<p>It's like he wants to rebuild &quot;his&quot; home.</p>
+<p><img src="_resources/86d8bfc5609d41ed80710c988e62470f.png" alt="8d883676d333ca0d4b6812344f1f981e.png"></p>
+<p>These are thin hints, but it's enough to say that the others were from here and what kind of capabilities they had.<br>
+golden taboret is Ankrahmunian and Rathletonian.<br>
+Morax likely got some Essence of Wishful thinking, wishing to see Roshamuul in it's former glory.</p>
+<blockquote>
+<p>Player: Essence of Wishful Thinking<br>
+Morax: Purest essence… very powerful… addictive… steers thoughts and enslaves …<br>
+Morax: <em>mumble</em> … used in the great war to deflect… <em>mumble</em> … our doom… <em>sigh</em><br>
+Player: Essence of Dread<br>
+Morax: Gist of dark dreams… used <em>mumble</em> interrogation of test subjects <em>mumble</em> strong hallucinations <em>mumble</em> poison.</p>
+</blockquote>
+<p>Ring of wishes?</p>
+<p>For a small but extremely important detour to Rathleton:</p>
+<p>Beneath the Glooth Factory, we learn that these mysterious machines are actually 'glooth data machines'</p>
+<p><img src="_resources/719becfa85494fb5967e60d590c356d2.png" alt="c57275bfbe63cf1585d57215bc73416a.png"></p>
+<p>--- ALERT--- 0001110010110011001 --- ALERT ---</p>
+<p>Why is this important?</p>
+<p>I found some books in the glooth factory.</p>
+<p><img src="_resources/fe6f0c13717e4f0591f3b5f7f802bf23.png" alt="34748962e5957f60934d095ab041b749.png"></p>
+<p><img src="_resources/eaa0e4c99def46e78f24135f20b20237.png" alt="49d502ded0354116d05b8b2ff4e7e3e2.png"></p>
+<p>It's funny that they lose their clothes, likely why they go invisible. Imagine that, naked others sneaking around.<br>
+Spoopy ghosts.</p>
+<p>It's highly likely that the power of slime and energy is a catalyst for teleportation, amongst others. This is likely the main purpose Oramond/Rathleton had for the ancients. Slime.</p>
+<p><img src="_resources/aaff094d197144e0a213e2aa924f3a60.gif" alt="slimeenergy.gif"></p>
+<p>Bozo gives us a whoopie cushion, and in Gloud Ship quest we use glooth to fly in a 'ship' using balloonery, go figure. Sky Isles Inc?</p>
+<p>ONE DAY YOU WILL SEE THAT I'M NOT CRAZY! YOU WILL SEE FROM YOU WONDERFUL PARADISE IN HEAVEN!</p>
+<p><img src="_resources/5c0604b901eb41eb944aa17b02ec2dae.gif" alt="shimmying.gif"></p>
+<p>Moving on, I found one single instance of a remnant 'other' talking otherian.</p>
+<p><img src="_resources/3382bf7285d5497a88370fd4bca9c117.png" alt="Magic Web 469 - Page 1 (3).png"></p>
+<p><strong>Aktat Roshok! Marruk!</strong></p>
+<blockquote>
+<p>Their whitish belly is swollen with terror juices that foam up as gooey, frothy saliva hanging in threads and webs from their bared teeth. Touching it instils horrible paranoia and paralyses the victim so that the terrorsleep can devour it.</p>
+</blockquote>
+<p>So the history of ancients, goes something like this:</p>
+<ul>
+<li>Humans in Zao and Tiquanda evolved</li>
+<li>They managed to control the powers of dreams, and could create new beings</li>
+<li>They used snakes, salamanders, frogs, create 'lizards', which are really 'snakemen'/'salamanders'. They also created dworcs, minotaurs..</li>
+<li>They enslaved and created many-eyed horrors.</li>
+<li>Learnt their ways</li>
+<li>They studied science, philosophy, arts</li>
+<li>Were able to fly on the howling winds, which there are plenty of in Svargrond and Nargor - every heard about Chyll? Or the Howling winds of Nargor?  Weskurt?</li>
+<li>Journied far and wide, met with and met with the deeplings/first elves  (Fiehonja is EXTREMELY close to ZAO)</li>
+<li>Some went different ways, constructed Yalahar</li>
+<li>While others and the first elves inhabited the Ankrahmun/Roshamuul/Kilmaresh/Non-shattered isles area.</li>
+<li>Combined the powers of glooth and slime to construct machines.</li>
+<li>Mastered teleportation and the magic web</li>
+<li>Built the Heart of Midnight on the center of the magic web, where the energies are immense.</li>
+<li>They constructed the Dream Catcher</li>
+<li>Built towers and places of importance all over Tibia and its gates.</li>
+<li>A thing, IT, Variphor started clouding the minds all over Tibia.</li>
+<li>Yalaharians went all over the world to try to combat Variphor, the Lightbearers.</li>
+<li>Some of them fled to Beregar and became dwarves (that eventually moved to kazordoon and finally the surface)</li>
+<li>After the catastrophe, dragon emperors started ruling Zao, using their 'web of the dragon kingz'</li>
+<li>1000 years ago, Princess Ramora triggered the exodus of humans, likely the same exodus we read about in Ankrahmun, Banor.</li>
+<li>The isles shattered and the web is in chaotic disarray</li>
+<li>Now, in 1000 p.g. (post genesis) we still feel Variphor all over the world...</li>
+</ul>
+<p>This is not the full picture, there are many more components to the story and this list might not be entirely accurate. It's merely for your recollection.</p>
+<h1 id="the-catastrophe">The Catastrophe</h1>
+<p>Time to read a witness of the catastrophe, and a minion of Zathroth.<br>
+These books gives me the shivers every time. I recommend you to read <a data-from-md title='https://tibia.fandom.com/wiki/Roshamuul_Libraries#Roshamuul' href='https://tibia.fandom.com/wiki/Roshamuul_Libraries#Roshamuul'>them</a>. Everything I have shown you so far is for you to be able to fully understand these books and what comes after.<br>
+For the sake of the length of the article, I will show some excerpts.</p>
+<p>Please take another break, now comes the grand finale. Immerse yourself. Take your time, you only get one shot at understanding <em>everything</em> for the first time.</p>
+<h2 id="1">1</h2>
+<blockquote>
+<p>With <strong>stolen life-force and dreams</strong> I prolonged my life for so long that I often cannot tell what really happened and what I might have imagined, or what is a lie told so often and casually that I forgot the truth.</p>
+<p>I write this down in <strong>the tongue of the gods</strong>, hoping that their vanity alone is enough to ensure that this gift to their followers be preserved.</p>
+<p>I write this down on mere paper instead of using the <strong>dream crystals</strong> of my people. This way it might escape the <strong>watchful eyes of my colleagues</strong> long enough to outlive them.<br>
+Much could be told about my people. It would fill volumes and yet only scratch the surface. But this is nothing I could accomplish at all, and nothing I'd even care to try. If I am right, my people will be dead soon enough and just another side note of history.</p>
+<p>First of all, <strong>the name of my people is nothing meant for vocal chords</strong>. It is a thought pattern, half a dream and untranslatable into any tongue. <strong>As is the language we use with our own people</strong>. It was a <strong>hard thing to learn to communicate with others</strong>. It is somewhat disgusting , <strong>having to rely on grunting and gasping to communicate with our allies</strong>. The latter gave us many names, rarely though to flatter us. <strong>Dreamstealers, dreamvampires, dreamshapers</strong> and so many, many more that I've forgotten them. Most of the times I preferred to refer to us simply as <strong>the dreamers</strong>.</p>
+</blockquote>
+<p>As we've seen throughout, many-eyed horrorz (bonelords) were enslaved by the Zathrothian league.  We have a bonelordian author.</p>
+<p><img src="_resources/a68daa68f3de456f8da392e8486ea7cd.png" alt="f60ea99a4e8baa6c56061381a8ef5af0.png"></p>
+<h2 id="2">2</h2>
+<blockquote>
+<p><strong>My people were always proud and cruel</strong>. Not entirely inhabitants of this world; only the passing to and fro other realms was always natural for us. We were no great warriors, but we served in our own ways in the god wars. In the service of the gods, <strong>we helped those allied to Zathroth</strong>. We were spies, messengers, advisors; and we manufactured weapons of war in our own, special way. <strong>I was one of the first. A leader, a priest, a prophet</strong>. Yet I always let others do the outstanding things. I fancied pulling strings and being the secret initiator of many things; but I'm not sure now how much of this is true or some kind of paltry excuse I convinced myself to believe. <strong>All the great achievements of our race were initiated by others</strong>. But I have been there, and outlived them all. Early on, my people developed a <strong>mastery of dream, unparalleled before</strong>. <strong>We shaped dreams, and dragged them into reality</strong>. We constructed dreams, with the only purpose to use them as facilities to <strong>forge other dreams in them</strong>. The concept has become so natural and trivial to me that it is hard to explain. It is like explaining colours to a blind man.</p>
+</blockquote>
+<p><img src="_resources/da8e6b922cf942d1b834620ee814a375.png" alt="b124e2ac585d612c644ae7d61bafa35d.png"></p>
+<blockquote>
+<p>Suffice it to say that we used dreams, both self-made and stolen, to shape the world and provide us with shelter, sustenance, tools and weapons. <strong>Dreams soon became the currency and life blood of our society</strong>. We were never numerous though, and managed to convince the leaders of our side that we were too valuable to be wasted on the battlefield. So we dwelled in our city made of stolen dreams, and schemed. Sometimes against our mutual foe, sometimes against our allies, and sometimes within our own. For several centuries this kept me occupied and entertained. **We built the great dream catcher, our greatest accomplishment. A monument of our power.</p>
+</blockquote>
+<p><img src="_resources/1300e19d8a3547d6ac437aab45bfbe23.png" alt="aae79ef85298a260a9d4e1893efe4fb0.png"></p>
+<blockquote>
+<p>With its might, incomprehensible to people bound only to one world, our might was amplified in unimaginable ways.** We rose in power, higher and higher; <strong>rivalling that of Zathroth’s favourite pets, the demons</strong>. This led to a few clashes between them and us. We managed to hold our own until now; and this is what probably will lead to our downfall.</p>
+</blockquote>
+<h2 id="3">3</h2>
+<blockquote>
+<p>A short while ago, the council was approached with the request that we use the arts of our race to construct something entirely new: <strong>a prison made of dreams, using the veils and barriers of other worlds to dampen the power of all creatures</strong>, and lock them in and torture them for all eternity. We did not question this request. <strong>It was much too tempting to grow even more powerful, and so we consented. Little did we know that everything was staged and we were purposely misled</strong>.<br>
+My people dived into this new venture with ambition. Resources were sent by other races, even knowledge was reluctantly shared by them. Prisoners and renegades were sent to us to do tests and experiments with them. Little of what we requested was ever denied. Even I was mildly thrilled for a while by the sheer novelty of the enterprise.</p>
+</blockquote>
+<blockquote>
+<p>Then strange things began to happen. <strong>Plans were slightly changed, requests added to projects and the advisors led certain researches onto different paths that were not agreed upon</strong>. I would not have lived that long if I had not developed a sense for things going amiss. It became more and more obvious that we were not aware of the full truth. <strong>The increase of power levels for the prisons, for example, had, step by step, risen enormously. These were no longer prisons meant for some minor captives - these prisons were powerful enough to even give a lesser god some trouble. And there was more. Additions brought in by other races, things we did not even understand, were added. More and more demon 'advisors' stayed in the city all the while we heard about an increased fierceness of the battles elsewhere. I knew something big was happening. I was just undecided what to do with the knowledge</strong>.<br>
+..<br>
+Soon I was more and more convinced that I was right; and when some of the demons approached us for a secret meeting, I was only mildly curious about what might be revealed. However, I can't tell what happened then and there. Gods were involved and binding vows were spoken, so that even now I can't go into details. I can merely circumvent it through stating that most of the secret things spoken about have already happened by now and are common knowledge.<br>
+I had been right that the prison was more than just that. <strong>It was meant to be a trap. And it was meant not primarily for our enemies, but our allies. Well, at least for the traitors amongst them. And who the traitors were, well, that was earth-shaking news</strong>.</p>
+</blockquote>
+<h2 id="4">4</h2>
+<blockquote>
+<p><strong>A cadre of the most powerful demon princes in existence, actually all of them, were declared traitors</strong>. <strong>Seemingly they had not defected to the enemy but a third power, of which nothing was related</strong>. All we had to know was that we had to take out the most formidable force on our own side. <strong>The sheer power of these beings had always been something we feared and coveted</strong>.</p>
+</blockquote>
+<p><img src="_resources/4ca34a806f3d4e33bae534c2d294c176.png" alt="article 469 - Page 2 (3).png"></p>
+<p>Drazzak, Bazir and the 'Princes' were some sort of snake amalgamation.  &quot;Lizard&quot; and Minotaur skulls are the only horned skulls we find.</p>
+<blockquote>
+<p>Much of the plan and its detail were based on a <strong>wretched thing of a demon</strong> who called himself <strong>Bazir</strong>.</p>
+</blockquote>
+<p><img src="_resources/ef95a796c93f4e8fbcbb178673af1a1b.gif" alt="zamulosh.gif"></p>
+<blockquote>
+<p>This Bazir and his about two dozens allies were handpicked from the demon armies; chosen for their diverse talents and unwavering loyalty - and very probably for their lust to replace their former masters.<br>
+We could do nothing but comply. In this stage, no one could have walked out in possession of such information and just stayed out of the whole thing. Now we were bound. Bound to an uneasy alliance at best. <strong>We had always competed with the demons; we never were close friends and in certain areas too similar to get along with each other at all</strong>. But we needed their magic, their knowledge, their sheer power for the trap to work.</p>
+</blockquote>
+<p><img src="_resources/d25d7dfd61f5445aa47bf607e8fbeac2.gif" alt="demons.gif"></p>
+<blockquote>
+<p>Even while we were talking about what we had just learned, my people began to plot and scheme. I kept quiet. <strong>I could imagine the demons we just allied with a few moments ago doing the very same thing</strong>, at the very same time. That was when I knew we were all doomed. Not one of us was going to get out of this alive. Treachery was so natural to us and our allies that there was no other way, no other possibility.<br>
+<strong>The weight of stolen centuries and cycles of treachery almost crushed me when I first realised this</strong>.<br>
+The sweet thing was that the ever-turning wheel was about to break, that all would finally come to an end. That was why I stayed, in the end. I stayed to await the end of all things that I knew. <strong>I might have had a faint hope of escaping the catastrophe</strong>, that something new and fresh would rise out of the ashes, and that I could be part of it.</p>
+<p>But in my heart I knew that I would never be fresh and new. I would always be the same old dreamer, trapped in cycles of schemes and treachery.<br>
+However, things progressed impressively. With the knowledge of the demons and plenty of fresh test subjects, we made advances unhoped for.<br>
+<strong>The whole thing sometimes frightened even me; this trap, the only way to take these entities out without losing legions and opening a gap for our enemies</strong>.<br>
+<strong>Then the day came</strong>.</p>
+</blockquote>
+<h2 id="5">5</h2>
+<blockquote>
+<p>The prison was ready and the demon princes were sent to 'oversee' the integrity of the important construction.<br>
+<strong>They arrived in all their hellish power and glory</strong>. And we were prepared to let the trap spring. Of course we suspected treachery and double-crossing. I knew the plans to secure the remaining allied demons in other, secretly built prisons. They would be as weak and vulnerable as never before. With the princes gone and their most powerful loyalist demons taken out, we would rule undisputed. After all, we held the keys to the prisons.<br>
+Of course the other side plotted, too. My people were so engrossed in their own schemes they ignored the possibility that the plans of their rivals might be as dangerous as their own.<br>
+They were wrong to do so, of course.<br>
+<strong>When the trap was sprung - the oaths even now prevent me to go into details - the demons did not show up at all</strong>. I had never trusted this Bazir, but I thought that at least some of the others, more furious like Apocalypse, <strong>Lurin</strong>, Infernatil and Vazrok, would be too eager to test their might, to hold back. <strong>The first prince was caught completely unaware when the trap sprang</strong>.</p>
+</blockquote>
+<p><img src="_resources/b8d894f3548b422f9c390d369f9c60d2.png" alt="5c12c50a24a0891b17da4d5c457a3c2a.png"></p>
+<blockquote>
+<p>This was almost too easy. <strong>But then, hell broke loose - literally. Our nightmare creatures were no match for the princes and their retinue. They were so powerful!</strong> We had kept ourselves out of most direct battles of the war and were completely unprepared for such a display of power and cruelty. <strong>Within seconds all seemed lost, when the demons finally intervened, obviously in panic that everything was at stake now</strong>.<br>
+But it was almost too late. <strong>The princes had cut a good part of my people into pieces and alarmed their minions in the city. There was slaughter everywhere</strong>.<br>
+<strong>I saw demons being ripped apart by the princes</strong>. Sheldrax and Ashfalor were both shredded to pieces before my very eyes by Sephorath, prince of agony.</p>
+</blockquote>
+<p><img src="_resources/041380bfa2bd4b0983bf851860edc8e0.gif" alt="war.gif"></p>
+<blockquote>
+<p>Several parts of one of the demons crawled away, obviously animated by some magic to preserve its life; but there was hardly anything left to be preserved.<br>
+Tulax the mighty, Jebborn, Semir, they all fell like flies swatted away.<br>
+Here and there, a prince succumbed to the sheer number of allied forces; but the fight looked desperate for our side.<br>
+Then the great nightmare beasts were unleashed.</p>
+</blockquote>
+<p><img src="_resources/0a1dc3fef1c24344be51862d58a8e1f1.gif" alt="nightmare beast.gif"></p>
+<blockquote>
+<p>Though not truly rivalling a prince in power, still they were unknown to them and hard to defeat. Although no match in a direct confrontation, <strong>they managed to distract them long enough for some of us to desperately unleash all the stolen dreams from the dream catcher</strong>.</p>
+</blockquote>
+<p><img src="_resources/6c3243a3dc90452da0620b65af0b797f.png" alt="03ce25a97233cf446482797a11e3a82a.png"></p>
+<blockquote>
+<p><strong>All our wealth, the essence of our existence and the harvest of centuries, blown away in less than a minute</strong>.<br>
+But the devastation on mind and body was enormous. <strong>Everyone caught in the blast was weakened if not unconscious. I saw the minds of several people I had known for years as rivals go blank forever</strong>.<br>
+I was blind, too. Not only physically, but also mentally.<br>
+<strong>When mind and sight became clear again, a considerable time had passed</strong>.</p>
+</blockquote>
+<h2 id="6">6</h2>
+<blockquote>
+<p>The nightmare creatures, fed with the sheer energy unleashed, were literally burning with power. <strong>The energy was too much for them. Several had fused into even more grotesque creatures, some of them spawning lesser horrors over and over, until they dissolved.</strong></p>
+</blockquote>
+<p><img src="_resources/49d46d3360744a0fa1d11aa61903444a.gif" alt="whispers.gif"></p>
+<blockquote>
+<p>But their increased power had brought down many of the subdued princes. Demons who had previously fled the carnage caused by the princes closed in, like Zitraks smelling blood. They swarmed over the fallen princes with ravenous force.<br>
+Not more than ten or so of our treacherous allies had survived the slaughter, but their minions were seemingly in endless supply. I had not been aware they had brought so much backup forces into our city.<br>
+I was confused. Still I could not feel anything and stumbled through the streets that were distorted by what I imagined a <strong>storm of unbound dreams</strong>. When I found shelter, the sound of battle in the city already grew fainter.<br>
+I looked down to see that my body was mutilated and my life force sapping out. But that was something I welcomed.<br>
+My tiredness in mind is now shared with this body. <strong>I would not create a new one, even if I could</strong>.<br>
+I will allow things to run their course. I will sink into the eternal dream.<br>
+To finally let go.<br>
+Once again be one with the dreams, <strong>riding above the plains of nightmare on the howling winds</strong>.<br>
+It is so long ago that I have done that.<br>
+There was always something to do, something to take care of, an ambition to be fulfilled.<br>
+<strong>If I'd only had dreamed a bit more. Instead of chasing goals that were not even mine</strong>.<br>
+Everything is futile.<br>
+But this is not.<br>
+I imagine this text will survive the ravages of time. It will find its way to people who can understand.<br>
+It is not that futile when it is preserved.<br>
+I'm so tired.<br>
+I will rest now. Finally.</p>
+</blockquote>
+<p>Epic.</p>
+<p>What is the dream catcher?</p>
+<p>Eruaran was drawn to this place, and he is interested in the dream catcher and Roshamuul.<br>
+He ponders that whoever made it and this place, had a frightening mastery of dreams</p>
+<p><img src="_resources/728e7dadd5004d428203252dacc054b8.png" alt="041d70f33316bceda8c04e1071a96b85.png"></p>
+<p><img src="_resources/271a258dea7544e4a7566956dd68f6b9.png" alt="c526e714fa757a19a13147b8e9ce579d.png"></p>
+<p>It seems to have some pretty darn powerful powers.</p>
+<blockquote>
+<p>Eruaran: It’s obviously also a dream matter dispenser and dream shaper. I assume in the past it was used to alter the shape of the city at the leisure of its creators. It was most certainly used to create items of craftsmanship only limited by imagination. …<br>
+Eruaran: It is both impressive and frightening that one single race accomplished so much. Yet with all possibility in this design, I feel <strong>something is… lacking</strong>. I can’t put my finger on it yet, but everything we see here seems to be flawed in a strange way. …<br>
+Eruaran: I can’t yet tell the nature of this flaw, but I’m sure that it set some severe limitation to the power of the creatures that once lived here. <strong>Perhaps when I find out what the flaw is, I might be able to do even more with our findings here.</strong></p>
+</blockquote>
+<p>Should we fix it?</p>
+<blockquote>
+<p>Player: frightening<br>
+Eruaran: Whoever created this place was accustomed to handling the substance of dreams. No, not only handling it, but mastering it.<br>
+Eruaran: But whoever it was, they only meddled with the most disturbing dreams, <strong>bordering on madness</strong>. Not only that, <strong>this place seems to draw those very dreams here somehow</strong>. …<br>
+Eruaran: I can still feel it. The pull… it might be weak compared to what it once must have been, but it’s still here, <strong>like a magnet of some kind</strong>.</p>
+</blockquote>
+<blockquote>
+<p>Eruaran: For now, it only seems to create a vortex of some sort in the realm of dreams, <strong>still dragging dreams here and turning them into… something</strong>. But it is so much more. It seems to work like a <strong>musical instrument of some sort</strong>. …<br>
+Eruaran: That is, if you create the right ‘tune’ with it, you can use it to shape the dreams it draws upon.</p>
+</blockquote>
+<p>Musical instrument, is that why the Silencers really want to silence?<br>
+Or when we blow horns.. Guzzlemaws spawn</p>
+<p><img src="_resources/c8dfcd0ab4fb4c568cf5ad8e66693624.png" alt="Blank diagram - Page 1 (6).png"></p>
+<p>Or when we tame the crystal wolf with a tune-producing Diaspason.<br>
+<img src="_resources/9a7b8d315512429fa58b93ade6ee4a76.png" alt="ea21ef1bfadc875bd0341afbd7392374.png"></p>
+<p><img src="_resources/e5ec2fb0840944378a82bcd6b27fe260.png" alt="Blue green red - Page 8 (6).png"></p>
+<p>Or the music box, we get from Chayenne who we met in Draconia- that can charm a lot of animals.</p>
+<p><img src="_resources/c6d97cfb7d4442899df5004908a45000.png" alt="Blue green red - Page 8 (4).png"></p>
+<p>Flying carpet! Dragon! Beach backpack from liberty bay!  Snakething statue!</p>
+<p><img src="_resources/e5f84c8376e347ed87ef9d6881d622b4.png" alt="Blue green red - Page 8 (5).png"></p>
+<p>Or why there is an instrument on top of the bonelord shield</p>
+<p><img src="_resources/1630c3910f624e519a4ca326a0eb960e.png" alt="6124723f8c1a99c2db4225d406be1c26.png"></p>
+<p>Have you ever seen musicians around Tibia? Fanfares?</p>
+<blockquote>
+<p>There were races like the S'vir who <strong>travelled the sky</strong> in their cloud ships; beings like the <strong>elephant men, their name is long forgotten, whose ordinary speech were words of magic that formed reality around them</strong>. Then there were the Tur'osk'ahar which are remembered for creating <strong>runes as big as a ship</strong>;</p>
+</blockquote>
+<p><img src="_resources/6be6f4255ea44a27ae0a76ec92b86e4f.png" alt="d9ce0407a5cf5496f57260ae2333ff9a.png"></p>
+<p>Or in the cursed crystal quest, beneath Nargor.</p>
+<blockquote>
+<p>I discovered a small subterranean lake - but Harry was there before me. And he did something strange: <strong>He ringed a small, transparent looking bell and immediatly a big whirl appeared in the water</strong>.</p>
+</blockquote>
+<h1 id="catching-dreams">Catching dreams</h1>
+<p>We know that the dream catcher works like a magnet of some kind, pulling...</p>
+<p>What if i told you, that the reason they built centres of importance on the gates, were to channel the energies and draw them to the catcher?</p>
+<p>From the author of UMO's, we read about the Astral (celestial-from-the-stars) shapers.</p>
+<blockquote>
+<p>The Fall of the Astral Shapers by Teruvax Tristem</p>
+</blockquote>
+<blockquote>
+<p>Nowadays the beings commonly known as the Astral Shapers have largely been forgotten. <strong>Back in the days, however, they were one of the most important races of the God Wars. Favoured by Uman and Zathroth alike</strong>, they were blessed with a unique kind of vision that enabled them to <strong>see magical structures and flows</strong>. <strong>Their speech was a mixture of verbal communication and magical emanations</strong>. <strong>Their true name was a mixture of barely pronounceable syllables and magical symbols. For this reason, the other races of that time referred to them as Astral Shapers or just Shapers</strong>.</p>
+</blockquote>
+<p><img src="_resources/144818ade5514ee7a9a65a210837461a.png" alt="e829e451b52146db29a0c4beb281273c.png"></p>
+<blockquote>
+<p>In their earliest days the Astral Shapers were relatively insignificant. Some of them were enslaved or hired as advisors for all kind of magical matters. <strong>The creation of enormous, magical towers in their cities</strong> was their first major accomplishment. Those towers somehow <strong>connected the minds</strong> of all Shapers in a city and enabled them to access some sort of hive mind in which they stored and shared their knowledge.</p>
+</blockquote>
+<blockquote>
+<p>The advances that they made in terms of technology led to a rapid growth in their power and status. This allowed them to construct more towers which were increasingly technologically advanced. <strong>Eventually all of the Shaper cities were connected via a network of Shaper towers. Having access to the shared knowledge of a whole nation, the progress to advance the science of bound magic gained momentum and seemed unstoppable</strong>.</p>
+</blockquote>
+<p><img src="_resources/da6b6a43a37c4b6abc7d63f95511b2ec.png" alt="f35d805c27e4369cfced956084e2d0cc.png"></p>
+<blockquote>
+<p>However, their special status and the constant flattering of the other races that wanted their favours turned the Shapers vain and greedy. Seeing themselves as higher beings, they increasingly relied on slaves for the more mundane tasks.</p>
+</blockquote>
+<blockquote>
+<p>The Astral Shapers relied more and more on their slaves' workforce as well as on their knowledge network. This situation worked well for them for a while. <strong>But then a new powerful warlord arose</strong>.</p>
+</blockquote>
+<p><img src="_resources/72222eea21cd435fac47377bf52743a8.png" alt="6142d0eea528976b90294797d4c304dd.png"></p>
+<blockquote>
+<p>The wars were often a back and forth like the tides of the sea. This was the way things were and the races had grown accustomed to it. <strong>This new warlord, however, was tired of that game. He decided to eliminate the one advantage that turned the tides of battle once and for all</strong>. Instead of fearing to lose the support of the Shapers by fighting them, <strong>he speculated on bolstering his own strength if he managed to steal the Shapers' powers somehow</strong>.</p>
+</blockquote>
+<blockquote>
+<p>The more remote communication towers were the first to fall. This led to confusion and fear among the Shapers. The gaping holes in their communication were highly disturbing, leaving blind spots all over the realm. In this state of disarray, the first cities of the Shapers fell quickly.<br>
+As word spread about the actions of the warlord, another flaw became evident. Greedy as the Shapers had been, they had made some humble customers but never friends. When the other races heard about the warlord's success, they feared for their own power. To show the warlord their good will, they started to attack the Shapers, too. Things snowballed as even the more benevolent races decided to join in. <strong>After all they could not afford to leave all of the Shapers' knowledge and powers to their enemies</strong>.<br>
+<strong>Soon the Shapers' cities were razed to the ground by a tidal wave of armies</strong>.<br>
+...<br>
+Their people were enslaved <strong>and deported into remote realms</strong>.<br>
+...<br>
+Unable to operate the Shapers' forges, most of them were destroyed by the conquering races. They did not want to risk them falling into the wrong hands.</p>
+</blockquote>
+<p>Suspiciously, some 'Warlord' arose, that wanted to steal the wealth of the astral shapers- a final showdown, catastrophe happened..<br>
+Tons of shapers were thrown into other realms and vanished into obscurity.</p>
+<blockquote>
+<p><strong>A cadre of the most powerful demon princes in existence, actually all of them, were declared traitors</strong>. <strong>Seemingly they had not defected to the enemy but a third power, of which nothing was related</strong>.</p>
+</blockquote>
+<p>But then, what is Variphor?<br>
+The confused, completely unaware &amp; captured Prince Drazzak hails Variphor.  That's confusing, but the only reasonable explanation of Variphor.. is..</p>
+<p>The Dream Catcher.  The Others, using it...</p>
+<p>Don't fix it!</p>
+<p>The centerpiece of the magic web.<br>
+Where they could remotely scry, control, and induce nightmares.<br>
+Draw them, pull them- power their empire.<br>
+Draining the lifeblood from the battlescarred soil.<br>
+Enhancing themselves with the stolen dreams of an entire planet.<br>
+With their unparallelled mastery of dream-shaping, they could construct cities, weapons, relics &amp; demons of epic proportions. amongst others.</p>
+<p>The warden, Gaz'haragoth is just a taste of what's to come.</p>
+<p>Larokhon:</p>
+<blockquote>
+<p>Their sense of smelling fear is infallible, and once they have found their prey <strong>a mere crack in a wall is large enough for them to enter</strong>. Once they are close to their victims they feast on their innermost fears, evoking images of horror and despair that are so horrible that they often cause the dreamer's death.</p>
+</blockquote>
+<p>The more you know of IT, the more afraid you get of IT, and the more power IT gets.</p>
+<blockquote>
+<p>Player: variphor<br>
+Mazarius: That is a name I sometimes encountered in my studies. <strong>I strongly encourage you to further investigate</strong>. Everything you might learn could prove invaluable.</p>
+</blockquote>
+<p><img src="_resources/00709a79f5ba45b58581f1eb80a2ecd3.png" alt="8aa58d5a461694840c35cdb67e559d8a.png"></p>
+<p>Using the voices of 469/Jekhr, the Navigator is controlling everything from afar.<br>
+Dragging, pulling, controlling... operating in the shadows...</p>
+<p>Function of the frostspire?</p>
+<blockquote>
+<p>figured out at least some of the secrets of the ancient artefact I have found. <strong>Its purpose was to focus the power of some other structure</strong><br>
+...<br>
+However, the shards of the frostheart, which can be found in this land, seem to have enough power remaining to fuel the powers of the sarcophagus. The sarcophagus is easily accessible by starlight. At sunrise it seals itself and only opens again when the stars brighten the sky.</p>
+</blockquote>
+<p>When they get consumed by Variphor, enlightment occurs.</p>
+<h1 id="aerith">Aerith?</h1>
+<p>From Artheis descent into vampirism:</p>
+<blockquote>
+<p>IV. 7th<br>
+Everything is so strange... two nights ago the weirdest thing happened... I fell asleep during the night watch at my brother's bed, must have been only for a few minutes, but when I opened my eyes, <strong>I saw a black... being... hovering over Arthei's bed, getting closer and closer to him. I wanted to jump to my feet and scream, but I was unable to move</strong>. All I could do was dig my nails into my own flesh. <strong>Then suddenly, the being looked directly into my eyes. I remember thinking 'how strange', because the creature had no face and thus no eyes, yet I knew that it was looking at me. Then I couldn't bear the COLD of its look anymore and passed out</strong>. I don't know what happened afterwards. All that matters now is that Arthei has recovered. And with recovered I mean that there is not a SCRATCH on him anymore. He is completely well, I'm not able to explain why, but I don't care. Kala is crying for joy, I think the black being wasn't evil, but a god.</p>
+</blockquote>
+<p>As gaz'haragoth would say, CHILL OUT!<br>
+Or from UMO books, 'what closesly resembles a paralyze spell'.</p>
+<blockquote>
+<p><strong>Arthei has never looked as pale as now and he hardly speaks a single word</strong></p>
+</blockquote>
+<p><img src="_resources/68d4c78ae10146a6918aee589e9f43b2.png" alt="1bcdf3905f8b1576dbddb2d70b788f60.png"></p>
+<h1 id="galthen">Galthen</h1>
+<p>From the personal diary of <a data-from-md title='https://tibia.fandom.com/wiki/Personal_diary_of_Galthen,_The_Found_Man_(Book)' href='https://tibia.fandom.com/wiki/Personal_diary_of_Galthen,_The_Found_Man_(Book)'>galthen</a></p>
+<blockquote>
+<p>I found this strange fellow half dead in a shed amidst a few unnerved horses. <strong>Completely disturbed, mad from hunger and thirst and with no recollection of his recent past</strong>. There was, however, a glint in his eyes. Not from the fires of madness but from hope. The maddening search for something, <strong>fueling your anger with raw power to go forward and thrive towards uncertain goals</strong>. A state of mind I understand only too well.</p>
+</blockquote>
+<blockquote>
+<p>he was indeed looking for <strong>something. Or rather... someone</strong>. It wasn't clear to me at that time what the definition of <strong>the thing</strong> was, but I now have to assume he was part of a larger organisation. <strong>A secret society, formed for the sole purpose of answering a simple question: what is behind &quot;everything&quot;.</strong></p>
+</blockquote>
+<blockquote>
+<p>He never spoke about its peers, had no family and absolutely no memory of what happened to him</p>
+</blockquote>
+<blockquote>
+<p><strong>At night</strong> he would suddenly wake up, screaming.</p>
+</blockquote>
+<blockquote>
+<p>I got the feeling he was left completely alone and had to endure a <strong>most horrible and unfortunate chain of events that led to his ultimate demise</strong>. He then <strong>screamed relentlessly for half an hour only to fall asleep again out of pure exhaustion</strong>. The whole procedure often repeated itself several times until the morning. After a few days he managed to sleep through. <strong>Getting ever more tranquil in the process</strong>. When conscious he never answered any questions clearly or even directly. His mind constantly drifting away, <strong>there was not much sense in what he said</strong>. Yet some of his ramblings showed a certain method behind his thoughts. He actually tried to keep his mind occupied, <strong>distracted from... something</strong>. As if the mere thought was more horrifying than everything else. <strong>While his subconsciousness could barely keep his mind in check during his sleep, he finally managed to compose himself during the day</strong>. This gave evidence not only of a significant intelligence but also a great mind. <strong>In a week's time, he gained a state of calm serenity neither me nor a healer could get him out of. He refrained from speaking but a word after that.</strong></p>
+</blockquote>
+<p>The Black Knight</p>
+<p><img src="_resources/40cf0abeb21947b4a29bc2feb3e311e5.png" alt="15f1b93f9c25f14160077feec9212412.png"></p>
+<blockquote>
+<p>The Bonelords are my only friends. They respect me. I belong to them now. In my dreams they have shown me the path to this underground base. When I sleep I can hear them whispering in my mind <strong>promises about eternal existence and immortality</strong>.</p>
+</blockquote>
+<p>Zathroths Secret Library</p>
+<p><img src="_resources/f9dc05282a2b40029a3fbcaa2ab82f53.png" alt="article 469 - Page 1 (1).png"></p>
+<blockquote>
+<p>The knowledge is still so powerful and potent that it often gained a form of will on its own and maliciously preyed on the minds of the unwary. This knowledge acts like a parasite, draining its bearers soul and mind, whispering misleading and tainted lies</p>
+</blockquote>
+<p>Ugh, I am getting a headache reading this.. now where was I...</p>
+<blockquote>
+<p>Player: <strong>Variphor</strong><br>
+Dedoras: The concept of Variphor is extremely hard to comprehend. It's the contradiction that gives birth to a mockery of purpose. It is the antithesis to existence. ...<br>
+Dedoras: <strong>More than nonexistence. Or less, so to say. However, that thing has no sentience in a way we know. It has no plans, no purpose yet it somehow moves and feeds upon our world</strong>.</p>
+</blockquote>
+<p><img src="_resources/af31e544666b4b0ca47fe708285c6b37.png" alt="article 469 - Page 2 (5).png"></p>
+<blockquote>
+<p>Watching us with solitary gaze.<br>
+<strong>Blinding us with courage and fame</strong>.<br>
+First supreme master in battle.</p>
+</blockquote>
+<p>QJELL BRINGER LIGHT!</p>
+<p>As the yalaharian captain with Faltugios, he became completely complacent and did not care to die even though he saw himself as a god. He willingly went out in battle. Just like the hordes of corrupted enemies that attacks us, always.</p>
+<p>Dragons in Zao after the Catastrophe:</p>
+<p><img src="_resources/5de13d192c154f228629cc836b3b7e30.gif" alt="dragon.gif"></p>
+<blockquote>
+<p>So they maliciously decided to help the lizard people but only to lure them into enslavement. And all those <strong>blind lizards were so soaked with greed and lies</strong> that they they turned away from the great snake and began to worship the dragons.</p>
+</blockquote>
+<blockquote>
+<p>&quot;I AM MORGAROTH, LORD OF THE TRIANGLE... AND YOU ARE LOST!<br>
+<strong>MY SEED IS FEAR AND MY HARVEST ARE YOUR SOULS</strong>!&quot;</p>
+</blockquote>
+<p>We can see how this was accomplished in Zao.</p>
+<p><img src="_resources/71d4a42e52394158b4d491a70798f6b7.png" alt="92912d61a7d12358e6c7c4338036cf8d.png"></p>
+<blockquote>
+<p>Ztiss: Ziz land iz ze home of our people. We call it Zao, <strong>after ze firzt great leader of our people</strong>! Zao ruled for many hundred yearz. ...<br>
+Ztiss: <strong>He united ze tribez under hiz rule. He tamed ze firzt animalz and taught hiz people to zeed and harvezt</strong>. ... | Musical animal taming<br>
+Ztiss: <strong>He led hiz armiez to conquer ze whole continent</strong>. After many centuriez, <strong>he choze ze mozt worzy of hiz offzpring in a battle on ze Izle of Ztrife az hiz zuccezzor</strong>. ...</p>
+</blockquote>
+<p>The isle of strife is the only place that is still littered with monuments we find in Banuta and pre-dragon emperor time in Zao.</p>
+<blockquote>
+<p>Our people are bound to ze dragon kingz in zome magic way I don't underztand**. ...<br>
+Ezean: <strong>Zoze few of uz, born wizout zat connection are uzually killed</strong> az zoon az zey are dizcovered.</p>
+</blockquote>
+<p>From some reason, Chrak of Isle of Strife can speak freely about the corruption without being killed.<br>
+He is one of two or three snakemen that can talk about whatever he likes without reprimand.<br>
+The dragon emperor does not kill him. Why?</p>
+<blockquote>
+<p>Simula: emperor<br>
+Chrak: <strong>Ze dragon emperor will be watching ze tournament by magical meanz</strong>. Zo do your bezt to zhow an imprezzive fight. If you annoy ze dragon emperor, you will be killed - even if you have won ze tournament.</p>
+</blockquote>
+<p>In essence.. in the essence of blood-<br>
+They united tribes, they caused civil unrest..  to spill blood just to power up the dream catcher...<br>
+This is why every single tribe that The Others united were put in civil unrest.. to shed blood.. creating castes, systems of oppression, hiding knowledge and feeding 'those in greed'.</p>
+<blockquote>
+<p>I will rule supreme over the land.<br>
+<strong>I will bring peace, death, justice, and fear. <strong>I will ...</strong></strong></p>
+</blockquote>
+<p>The lifeblood of the Dragon King, the necromants nectar.<br>
+Stolen life-force and dreams.<br>
+Centuries of harvests.<br>
+Manipulated from afar.<br>
+Channeled life-force... through the magic web.<br>
+Through the shadows of the night, there's enlightment in blight.</p>
+<p>As coined in <strong>Cha</strong>zorai:</p>
+<p><strong>CHA</strong>MEK ATH UTHUL ARAK!</p>
+<p><img src="_resources/20d572e1f741488497ddfd723f3f7169.png" alt="f09ee96b2d9969e975590db44ead13b2.png"></p>
+<p>We can see this in Sunken City, where the Fire-Feathered serpent sleeps...<br>
+The more we kill, the stronger it gets.<br>
+Our resistance is futile.</p>
+<p>We are all dancing on strings, manipulated from above.<br>
+Marionettes.</p>
+<blockquote>
+<p>The Fire-Feathered Serpent dreams and <strong>the earth is bleeding lava</strong>.<br>
+The Fire-Feathered Serpent is awake. <strong>Renegade Quara</strong> control the sunken regions of Oramond.</p>
+</blockquote>
+<p><img src="_resources/56cd53dd74a64d11bf351aeda6df7da3.png" alt="bdd5d182bbd7923d12d157a7be1e57f8.png"></p>
+<blockquote>
+<p>Every step you make, <strong>distance is nothing</strong> in the serpent's wake</p>
+</blockquote>
+<p>It's futile, it'll watch you from afar...</p>
+<p>No wonder the region's been shrouded with mists until some centuries ago, lava goes tsss.</p>
+<p>The enormous power and life-force of thousands of  slain sea-snakes evokes dreams so powerful that the earth trembles, 'move-earth'.<br>
+What the ogres call 'The great hunger'.<br>
+I wonder how the ancients built the city of Demona? or the Maze of the Lost Souls? :)</p>
+<p><img src="_resources/cb24bd210a814607945845d09e3c85e7.png" alt="ae627910e4773a7e4c9ce7b06136f1eb.png"></p>
+<p>Our masters, are what lies beyond, whichever place the catastrophe hurled them.<br>
+According to Prince Drazzak, our masters used us to escape.</p>
+<p>Every single animal or monster we kill, powers up whatever comes at us.<br>
+Whatever comes at us, will come at us like golden gods with the force of a thousand suns.<br>
+If we don't stop killing now, it's going to be too late.<br>
+It already is.</p>
+<p>They're coming.</p>
+<blockquote>
+<p>Soon the Shapers' cities were razed to the ground by a tidal wave of armies.<br>
+Their people were enslaved and <strong>deported into remote realms</strong>.</p>
+</blockquote>
+<p>What's to come will be so powerful they could swat the ruthless seven like flies.<br>
+Gaz'haragoth? Only a <em>sliver</em> of a taste.<br>
+Morshabaal? More shall brawl.</p>
+<p>A milennia of pulling, twisting, shaping.. enhancing...<br>
+The second apothesis is near.<br>
+They're coming.</p>
+<p>It's time.</p>
+<h1 id="469">469</h1>
+<p>From everything we've learnt so far, we are enlightened enough to understand the capabilities of 469.<br>
+Just how gargantuan this mystery actually is.<br>
+How blind we have been.</p>
+<p>Can you figure it out before the end?<br>
+I will give you hints</p>
+<ul>
+<li>Combined with words and emanations, we can literally shape reality.</li>
+<li>Teleport wherever we want. Vault of a bank? Mine.</li>
+<li>Mine? Lizard of old, lizard of gold, gems a thousand-fold.<br>
+<img src="_resources/76759e6927fc41dd8a2ea8f4d04a3eec.png" alt="a9a14597ef02ad45c70a9930866aa377.png"></li>
+<li>Want to summon everyone that died in a battle? Go ahead. Use your enemies against your enemies.  RESISTANCE IS FUTILE!</li>
+<li>Want to enhance yourself? According to my calculations, you will live 50 years longer if you stand here at night on the 15th during a full moon at 10:34. Next month, you will be strong enough to ascend.</li>
+<li>A milennia ago, the stars aligned in an incredibly rare constellation.</li>
+<li>A milennia ago, the catastrophe happened.</li>
+</ul>
+<blockquote>
+<p>Suns and stars II<br>
+Other <strong>rituals</strong> that are more complex still are bound to specific days, and to specific times as well. In fact, some individual spells can only be performed once a year or once every other year, while <strong>the most powerful</strong> of rituals may only be carried out during stellar constellations that are so <strong>incredibly rare</strong> that centuries may pass before the ritual can be performed again. <strong>Given the power and knowledge of the ancients it seems reasonable to assume that they have prepared rituals whose time has not even come to this very day</strong>.</p>
+</blockquote>
+<p><em>They are coming</em></p>
+<p>The forbidden knowledge, the shrouded truth... with which, you can do whatever you want..<br>
+This power knows no bounds.</p>
+<blockquote>
+<p>Spectulus: So you have found my machine on that island? <strong>And you found the notes with the coordinates</strong>? Then you can find the entrance!</p>
+</blockquote>
+<p><img src="_resources/3bcc9ad6ce964fc8ad4d620c3749522c.png" alt="642dd06b4e6f18198a20af711b9cb228.png"><br>
+<img src="_resources/43969fde25814dc8af88fa716c6adc1a.png" alt="cff36ffd353afd8d9981eef860bee602.png"></p>
+<p>The forbidden knowledge is beseeched...<br>
+It is known...<br>
+It's too late...</p>
+<blockquote>
+<p>Dedoras: Hints about the <strong>shrouded hoard</strong> are numerous, though most are general mentions in texts that deal with Zathroth. But there are other sources. ...<br>
+Dedoras: <strong>Like texts about ancient liturgies of Zathroth</strong> and historical documents that might give us clues.</p>
+</blockquote>
+<p>Zathroth looks very similar to Alptramon, that shadowy tentacly shadow-thing<br>
+And to the left, we have a snakeman.</p>
+<p><img src="_resources/f9dc05282a2b40029a3fbcaa2ab82f53.png" alt="article 469 - Page 1 (1).png"></p>
+<p>Ancient liturgies? That's a set of formulae, especially for use in religious ceremonies.</p>
+<p>Remember Sunken City?</p>
+<p><img src="_resources/1b51f0bdeec54c5ba2b4dbaf13a28fe1.png" alt="270cbdfacc65a019cb460af23c186b0f.png"></p>
+<p>I wonder what those symbols are ;)</p>
+<p><img src="_resources/55753c0e8e304976809fd7616ac6fcb6.png" alt="803a7d222f965aa0b1b7061af4e420e7.png"></p>
+<p>What are <em>strange</em> numbers and why do the Explorer's society need them for the Demona teleport?</p>
+<p>Of course, Jaccus Weaponsson knows some of the secrets.<br>
+<img src="_resources/01a267f008ea44d4ac57103916804ca1.png" alt="2e5bcb511ec64f95ad2185be3258ac50.png"></p>
+<p>Andrew Lyze about the compasses.</p>
+<blockquote>
+<p>Andrew Lyze: Well, a while ago powerful magic devices were used all around Tibia. These are <strong>chargeable compasses</strong>. There was but one problem: <strong>they offered the possibility to make people rich in a quite easy way</strong>. ...<br>
+Andrew Lyze: Therefore, these instruments were very coveted. <strong>People tried to get their hands on them at all costs</strong>. And so it happened what everybody feared - bloody battles forged ahead. ...<br>
+Andrew Lyze: To put an end to these cruel escalations, <strong>eventually all of the devices were collected and destroyed. The remains were buried deep in the earth</strong>.</p>
+</blockquote>
+<p>From the traitorous Mazarius:</p>
+<blockquote>
+<p>When this letter reaches you, your part of our plan will most likely also be fulfilled, and the magical energies which Ferumbras stole, gathered and accumulated all these years will be used to our ends. I would just love to see his face when he realises what is happening! <strong>I will use the coordinates you sent to open a portal to his hideout</strong>.</p>
+</blockquote>
+<p>The lair of Mawhawk has glooth machines by him.. Green hair? Dolis?</p>
+<p>VISITOR BRINGER DEATH.</p>
+<p><img src="_resources/5a6b2e7a0a2b4c8991c49f9e1cf3185a.png" alt="769c885e7c1f443a6d5c36a1b632c313.png"></p>
+<blockquote>
+<p><strong>With the forge still active I cannot guarantee that this individual can be kept from deciphering what we found</strong>. Mechanical contraptions will advance over time and nothing will be safe. We shall heed our principle for we are without guide if we do not. <strong>Or as they always say: &quot;Shroud your knowledge, veil the end.&quot;</strong></p>
+</blockquote>
+<p>Shroud your knowledge, veil the end.</p>
+<p>When the veil of shrouded thuths are lifted, who can stand?</p>
+<p><img src="_resources/f956d91babfe43ae8e5862ce7ca8d322.png" alt="4a81cce4679445251ac3b538513d5d6d.png"></p>
+<p><em>Non-believers defy the <strong>narrow path</strong> to Undersea</em></p>
+<p>Knowledge of 469 is so incredibly powerful, anyone in posession of the knowledge can literally become a god.</p>
+<blockquote>
+<p>Don't forget about the secrets of mathe<strong>magics</strong>!</p>
+</blockquote>
+<p>Knowing 469, you are a master over life and death...<br>
+Knowing 469, you can do anything you want...</p>
+<blockquote>
+<p>Ok. Take my money. I can summon new money anytime - hehehe.</p>
+</blockquote>
+<p>Without 469, we would still be humans in a mundane Tibian world...<br>
+Without 469, we would be fighting salamanders, snakes, sharks and emu wars...<br>
+Without 469, utevo res, utana vid, exori, ANY SPELL - would accomplish nothing...<br>
+Without 469, we wouldn't be able to teleport...<br>
+Without 469, we wouldn't even have gods...<br>
+Without 469, magic would be a myth.</p>
+<p><img src="_resources/ebf1aee65ffb4836b0403146e14c068b.png" alt="9afd198b37ba307e5a17c6e6cefdf90f.png"></p>
+<blockquote>
+<p>I am the mightiest sorcerer from here to there! Yeah!</p>
+</blockquote>
+<p>The forbidden knowledge of 469, is incredibly powerful.<br>
+The shrouded truth of 469, is unfathomably powerful.<br>
+The veiled truth of 469, will make <em>you</em> a god.</p>
+<p>Every single Tibian... Every single one of us...<br>
+What we're all so desperately trying to achieve, to unveil the shrouded truth.<br>
+To harness the godly powers of 469.</p>
+<p>How did they manage to hide it for over a thousand years?</p>
+<p>By hiding it in Zathroth's Secret Library?</p>
+<p><img src="_resources/5ee13b03ad6547dab7ceb87b18db6f9c.gif" alt="alp.gif"></p>
+<p>&lt;<em>Think about it...</em>&gt;</p>
+<p>How could they <em>assure</em>, that the knowledge does not fall into the wrong brains?</p>
+<p>By using a cipher?</p>
+<p>&lt;<em>Think about it...</em> &gt;</p>
+<p>You! Planegazer! Shroud your knowledge, veil the end.</p>
+<p>What could they <em>possibly</em> do to <em>ensure</em> that the knowledge, the forbidden knowledge- the way to godhood- does not leak?<br>
+How did they <em>ensure</em> that no other being could become a god and outrank them all?<br>
+How did they <em>ensure</em> it does not leak to the masses?</p>
+<p>&lt;<em>Did I mislead you?</em>&gt;</p>
+<p>What kind of device, what kind of system is used to protect the truth for over a milennia?<br>
+What is the best way to hide the <em>obvious</em> truth?</p>
+<p>&lt;<em>Did I decieve you?</em>&gt;</p>
+<p>In the words of Knightmare, it's right in front of our eyes.<br>
+In the words of Knightmare, it's obvious.</p>
+<p>&lt;<em><strong>Have you been misled?</strong></em> &gt;<br>
+...<br>
+3<strong>L</strong>47<strong>OO</strong>8<strong>K</strong><br>
+4315 ..<br>
+...<br>
+In Isle of the Kings, there is a single unique book that answers <em>everything</em>.<br>
+...<br>
+4<strong>Y</strong>69<strong>E</strong>.<br>
+.469.<br>
+<strong>S</strong>666</p>
+<p>It's one of their most popular books, in fact so popular, that there's barely anything left of it.</p>
+<p>&lt;<em>You have been... misled.. soldier</em>&gt;</p>
+<blockquote>
+<p>&lt;this old book was ruined by time and thoughtles readers&gt;<br>
+... of madness ... decoy ... avert ... from the obvious ...</p>
+</blockquote>
+<p>Madness..</p>
+<p>Decoy...</p>
+<p>Avert...</p>
+<p>The obvious...</p>
+<p><em>These numbers of utter and complete <strong>madness</strong>, were made as a <strong>decoy</strong>, a ploy to <strong>avert</strong> from the <strong>obvious</strong>..</em></p>
+<p>To shroud the incredibly powerful forbidden knowledge.<br>
+To veil it, hide it, avert us from the obvious answer.</p>
+<p>The Mad Mage once exclaimed: <em>Utevo res &quot;A wrinkled Bonelord&quot;! Hehehe! ONE DAY... THEY WILL SEE MY GENIUS!</em><br>
+Then threw him into a library full of books, bound him in his stead.<br>
+All adventurers misled, for the forbidden knowledge must not be spread.</p>
+<blockquote>
+<p>My surreal numbers are based on astonishing facts.</p>
+</blockquote>
+<p><img src="_resources/345f92a7b7584cd3bf625a183f3e3498.png" alt="a1a8e545f695417fb1d0e366e9917801.png"></p>
+<p>The unexpected shroud to the largest mystery in Tibia.<br>
+The veil of insanity.<br>
+The deceptively easy answer has been hidden in plain sight, and the only way to access the library for the forbidden knowledge, is to already know the forbidden knowledge.<br>
+We have all been fooled, so utterly and competely fooled. All this time.<br>
+For two decades, we have all been misled.</p>
+<blockquote>
+<p><strong>Behind The Veil Of Ignorance I</strong></p>
+<p><strong>Zathroth's shrouded hoard of forbidden knowledge</strong> is known by many names in many cultures.<br>
+Parts of this hoard of ancient knowledge were compiled <strong>by races</strong> long gone and creatures that were not meant to exist. Other parts manifested on their own by means so unfathomable, only some book hidden away in that library might tell about.<br>
+...<br>
+Yet some parts of the compiled information was gained by <strong>whisperers in the dark that claimed to be on a mission of enlightenment</strong>.<br>
+...<br>
+It is said that much of the hoard's knowledge was gained by divine insights of Zathroth. Some might just be <strong>the ramblings of madmen but still contain disturbing insights</strong>.<br>
+...<br>
+Most texts are said to hold the secrets of <strong>acquiring more arcane power for oneself</strong> - yet to a terrible price. But to the people who ventured that far into the territory of dark knowledge, these prices seem trivial at best.<br>
+Some of the knowledge centers on <strong>summoning forth unspeakable things</strong> from beyond the known worlds, out of abysses of darkness and madness. <strong>Others are supposed to bend elements, space, minds and souls to the will of the user</strong>.<br>
+The accumulated knowledge is <strong>immense and twisted</strong> to condense and enrich it even more in a way that words can't truly contain it any longer.<br>
+Most books are <strong>encrusted with wards and sigils</strong> that try to contain as much of the knowledge as possible bound to the volume.<br>
+The knowledge is still so powerful and potent that it often gained a form of will on its own and maliciously preyed on the minds of the unwary. <strong>This knowledge acts like a parasite, draining its bearers soul and mind, whispering misleading and tainted lies, drawing them deeper onto forbidden paths</strong>.<br>
+...<br>
+Secrets thought long lost and <strong>deceptively easy answers to tantalising questions are bound to lead scholars and mystics alike to treachery and the denouncement of all gods but Zathroth</strong>.</p>
+</blockquote>
+<p>Let me correct that for us..</p>
+<p>Deceptively easy answers to tantalising questions are bound to lead me and mysterymaniacs alike to madness.</p>
+<blockquote>
+<p>In the case of the hidden library, the phrase that '<strong>knowledge is power</strong>' becomes reality in that the power of the accumulated knowledge manifests in <strong>reality bending ways</strong> that seem to mock the very concepts of <strong>time</strong>, space and existence. Fanatics of Zathroth claim that the library also contains at least parts of '<strong>the true speech</strong>', <strong>the first and only true language</strong>, the <strong>syllables</strong> the gods whispered at the dawn of creation.</p>
+</blockquote>
+<blockquote>
+<p><strong>Knowledge hidden in lies</strong>, <strong>truth gained by insanity</strong>, <strong>enlightenment by force of will</strong> combined with greed and selfishness that leads to power: these are the hallmarks of the shrouded hoard.</p>
+</blockquote>
+<p>The truth gained by insanity.<br>
+Enlightenment by force of will.<br>
+So many lies I've had to unveil.<br>
+I got random bursts of tears weeks after realizing this, still do.<br>
+I cried several times while writing this, I cried hundreds of times on my journey.<br>
+Tantalizing childhood dream come true.<br>
+Knightmare's masterpiece.</p>
+<p>If you are not convinced, ask yourself.<br>
+What could books from 2001~ tell you?</p>
+<p>I showed you that it's only about 1 book when all the books are overlain.<br>
+What could they possibly spoil for us in one book? A book from 2001?  Could it tell us the answer to Tibia in 2023?</p>
+<p>It's just that, surreal numbers.  A language of madness. A decoy to avert from the obvious.</p>
+<blockquote>
+<p>TibiaBR - Tibian languages, such as the Orc Language and the Beholder Language were created in a well worked way, with grammar rules and everything, just like the sindarin and other Tolkien languages?</p>
+</blockquote>
+<blockquote>
+<p>Knightmare - <strong>The orc language was an early quest device</strong>. <strong>[<em>we know that language</em>]</strong> Admittedly, probably too complicated and spoiler vulnerable for a closed environment like Rookgaard but it was very basic. <strong>Even the stuff the orc monsters are saying had (partly) some meaning but most of it was never formally written down and it would be rather hard even for me to reconstruct it.</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>The beholder language</strong> is a completely different issue though. <strong>We hired an actual beholder <em>[A Wrinkled Bonelord]</em> to write down texts for us. It resides still in the company basement <em>[Hellgate]</em> and refuses to leave</strong>. The screaming of the dwarfs we have to feed him once a day haunts us <strong>even in our dreams</strong> <em><strong>[ Chrr zzz... ]</strong></em>. The worst thing is we have no means to tell if the beholder actually wrote down what <strong>we</strong> <em><strong>[Mad Mage]</strong></em> dictated him. <strong>Chances are his texts are some tasteless jokes</strong> <em><strong>[Divert..Decoy...Madness...]</strong></em> and bad beholder poetry. Yet no one in the office had the guts to voice our doubts towards the beholder. Have you ever heard of the CipSoft employee Hans Christian Strakeldum? No? We neither after he went down into the cellar to tell the beholder to <strong>stop whistling that loud</strong> ...</p>
+</blockquote>
+<p>PTRROOOOOAAAAAAAH!!!</p>
+<p>Interview from 2010:</p>
+<blockquote>
+<p>Knightmare - The summer update brings us more of <strong>Zao in riddles and rulers. Mysteries will be revealed and fates unfold</strong><br>
+...<br>
+For the near future I can't give you any solid information since things are still in planning and as pointed out can change a lot in the process. <strong>For the far, far future I have something REALLY big in mind</strong> and I am still figuring out what will be possible and what not. <strong>To give you a feeling about what I mean with BIG, I can tell you, the Ruthless Seven will be only minor participants</strong> ... <strong>but that will not happen any time soon and might take quite a while to play out in full by introducing certain elements step by step</strong>.</p>
+</blockquote>
+<p><em>It's coming...</em></p>
+<p>2022</p>
+<blockquote>
+<p>Lionet: There should always be ways to immerse yourself in the game world, the lore and its characters. From complex puzzles and mechanics <strong>to custom languages and intricate map design</strong>, there is a multitude of ways to tell a story on the metalevel that will <strong>only reveal itself to players who read between the lines and explore every nook and cranny of the world</strong>.</p>
+</blockquote>
+<blockquote>
+<p>Knightmare: There are so many secrets hidden in my areas that never ever where found, only the obvious things seems to attract peoples attention and <strong>possibly distract it from other things</strong> <em><strong>[469]</strong></em>  <strong>that would be too obvious else ;o)</strong></p>
+</blockquote>
+<p>Mad Mage early 2000's:</p>
+<blockquote>
+<p>Now they call it <strong>madness</strong>, but generations to come will see my genius. I will proof them wrong once and for all. ALL of them! I will find answers to questions they don't even dare to ask. I will open doors to mysteries never even imagined by them. I WILL learn even the secret of death. I will rule supreme over the land.<br>
+<strong>I will bring peace, death, justice, and fear. <strong>I will ...</strong></strong></p>
+</blockquote>
+<p>Double-cross everyone- everywhere.<br>
+Or.. wait.. I don't remember, what am I doing here?<br>
+I should write this down somewhere.</p>
+<ul>
+<li>The mad mage went mad and united tribes, always played both sides that Tyrant. This achieves the most amount of knowledge possible.</li>
+<li>Pitted the tribes against eachother to cause civil unrest to power him up as well as Roshamuul.</li>
+<li>He constantly forgets who he is and what he is doing, like Yalahari and Drefian rutials gives headaches and forgetfulness. Also Eclesius have more on this.</li>
+<li>He was there for the creation of Roshamuul, and the system for coordinates.</li>
+<li>He created an attack on Roshamuul to try to steal the powers in an epic battle. This also stops the powerful gods and the Others that turned corrupt and way too powerful. And I think that stealing the powers was his plan all along that went bad.</li>
+<li>After all the dreams were released from the catcher, they had to find a way to ensure that the way to calculate the waxing and waning of the magic web did not fall into the wrong brains - to prevent it from ever happening again.</li>
+<li>The riddle-loving and genius mad mage constructed the bonelords language, as a decoy to avert from the obvious.  .</li>
+</ul>
+<p>I'm so happy.<br>
+I'm not even mad how fooled I've been.<br>
+I'm happy that it's over.<br>
+I'm greatful for the journey.<br>
+The Laugh-Tale.<br>
+I can die in peace.</p>
+<h1 id="continuation">Continuation</h1>
+<p>Now, let's see the obvious continuation of 469.<br>
+It's actually really obvious what 469 <em>points</em> us to do.</p>
+<p><img src="_resources/9d1ccb861c074a14aec2c065a8386848.png" alt="Spirit Grounds - Page 1.png"></p>
+<blockquote>
+<p>The Gate Keeper: I am the Gate Keeper. I guard the doors and await the Key Master.<br>
+The Gate Keeper: The balance has been broken, the doors pried open, the keys scattered and lost. …<br>
+The Gate Keeper: <strong>The Key Master will find them and close the doors that were not meant to be open</strong>. …<br>
+The Gate Keeper: <strong>And then he will unlock the Other Door</strong>.<br>
+Player: other door<br>
+The Gate Keeper: <strong>The Key Master will know.</strong></p>
+</blockquote>
+<p>Who is the keymaster? Could it be the creator of 469?<br>
+Could it be The Others?</p>
+<p><img src="_resources/50e3bcc63ae64516b107f3752f3c09ed.png" alt="69079e510f73926b818c69726a3ffed4.png"></p>
+<p><img src="_resources/da9f52eb9bd044bf8ce86f08c55b37a0.png" alt="f0b15e93c1004293ae05aaefc370f469.png"></p>
+<p>When doing dream court quest, we go around Tibia and open gates with fire/ice wards/keys.<br>
+The achievement we get...</p>
+<blockquote>
+<p>You found the <strong>Seven Keys</strong> to unlock ... no, not the seven seas. But <strong>at least seven doors</strong> in the realm of dreams.</p>
+</blockquote>
+<p>That's a really strange way of saying seven doors.  There are eight doors to a cardinal, bonelord-shieldian system.</p>
+<p>In the planegazers' headquarters, Luis writes something in his diary.</p>
+<blockquote>
+<p>Day 56: <strong>Not everyone seems to get used to how the gates work</strong>. I refrain from making this any simpler, our security and safety is at risk. Not to mention the whole operation. <strong>You just need to have the right coordinates in your sphere. It's not hard</strong> and I certainly won't give them any hints.</p>
+</blockquote>
+<p>In one part of Opticording Sphere quest, a parchment even pops out with Jekhr characters representing binary.</p>
+<p><img src="_resources/e08a75ea56c54687935d5928ebe4d4d4.png" alt="270a0aba0d7103ad2f5048388a5675c7.png"></p>
+<p>And last but not least, with 469 we can get new leads in Serpentine Tower.</p>
+<p><img src="_resources/0e6b10e61b794399b201fa736ed543e3.png" alt="1598a8b488b53684add472817d95769a.png"></p>
+<p>It's pretty darn clear that this is a dream machine.</p>
+<p>What do we get, when we put our cardinal centre at serpentine tower?</p>
+<p><img src="_resources/1c08839649e24111b5e30c3cd391dbea.png" alt="article 469 - serpbonelord (1).png"></p>
+<p>It is said that snakes give eternal life.<br>
+We can control gates by using similar components.</p>
+<p>It looks like all we are missing is slime.. and mayhaps a <a data-from-md title='https://tibia.fandom.com/wiki/Fruit_Sacrifices_(Book)' href='https://tibia.fandom.com/wiki/Fruit_Sacrifices_(Book)'>trick</a> or two.<br>
+All elements combined creates necromancy.<br>
+This is why the Nightmare Knights' dreams were so sinister, and they went crazy.</p>
+<p><img src="_resources/6ab9b02e5a8b42f5a7345860cebb6c53.png" alt="e43913d6cceff1982473cade1e4c8479.png"></p>
+<p>I don't know. He likely doesn't remember.</p>
+<p>Non-believers defy the narrow path to Undersea.</p>
+<p>Ring of ending? There is one house in Roshamuul that has been repaired with something other than terracotta.<br>
+I think the captain with The First Mate lived here for some time, to spread the message of the ring of ending.</p>
+<p><img src="_resources/da4775af132e46d3b2634fb2631a9848.png" alt="article 469 - rosh (13).png"></p>
+<blockquote>
+<p>Suns and Stars I<br>
+We consequently hope to achieve through close observation and through <strong>careful calculation a measure of exactness concerning the right timing of rituals which we did not dare dream of so far</strong>. Several magic incantations we have never managed to reproduce until now might actually be achieved once we know the ideal stellar constellations. <strong>This would explain why all our previous attempts to achieve these effects were doomed to fail</strong>.</p>
+</blockquote>
+<h1 id="final-words">Final Words</h1>
+<p>Sadly I cannot test anything, as I have not completed opticording sphere quest nor Dream Courts.<br>
+I found that the quests revolving Zathroth, Dream Courts, Mysterious ornate chest are filled with missions where you open gates and try to see the 'threads' and ghosts of the magic web.<br>
+Using keys to open doors.<br>
+Pretty much every quest we go gather powerful relics, phoenix egg? or the glooth-generating rotworm gland, i mean rotworm queen gland? Banana chocolate shake? In quests, we use these for various rituals.. these seems to be important! Shadows of Yalahar quest gives interesting insights! Ape City Quest too! And especially Explorer's society quest!<br>
+Pretty much all quests do.</p>
+<p>But I will help in the hunt.</p>
+<p>Maybe Serpentine Tower could be solved now, but I did not test anything yet.</p>
+<p>What do I think the rewards are?<br>
+Well, after thinking about it - I have fantasized about these:</p>
+<ul>
+<li>
+<p>Imagine fixing the dream catcher and using its now collected powers to open a door to a whole new planet, where we see remnants of the ancient races that fought in the corpse wars. All ancients that attacked the dream catcher, teleported into realms far beyond Tibia, all sorts of weak, strong, some seriously strong wretched things and the gods themselves. Completely new landscapes, planets, cities like Roshamuul..</p>
+</li>
+<li>
+<p>Imagine teleporting to a cottage in the clouds, the true shrine of the Mad Mage, a wonderful place with wicked books giving insights into what happened during the time of the corpse wars and before, maybe even the first days. Oh how I hope for that.</p>
+</li>
+<li>
+<p>Imagine unlocking a whole new way of teleportion around Tibia like the ancient warlocks, rivalling that of the shipping industry. Knightwatch tower but more accessible, and more options.</p>
+</li>
+<li>
+<p>Imagine getting a character trait/mode that can teleport anywhere a normal player could walk, with extreme invis mode.. not being able to interact nor attack except levers and such... imagine how much you could explore.</p>
+</li>
+<li>
+<p>Imagine holding a warlord sword, would be a tantalizing childhood dream come true.</p>
+</li>
+<li>
+<p>I want to see Undersea.</p>
+</li>
+</ul>
+<p>This theory and the small theories within might not be 100% accurate as time changes, new things are found, and the lore evolves, but I'd say it's pretty darn close.</p>
+<p>I hope you enjoyed this. I have spent an ungodly amount of hours to find, plan and write this for you.</p>
+<p>I hope I have inspired you or anyone to go and explore in Tibia. The lore is so wonderful, nothing like it. Immerse yourself.</p>
+<p>I hope we can band together now with this decoy out of the way, and tackle quests that has not been completed yet.</p>
+<p>I am confident that there is a solution to Troll Sabotage, Beregar, Topsy &amp; Turvy, Seprentine Tower, probably more hidden in NPC dialogues.</p>
+<p>I go by many names, s2w on reddit, Cony Island on Discord, s2ward on Twitch and GitHub. Simula ingame.<br>
+I am saving up for a 500-600 paladin, so I can soon be with you and try all our new ideas!</p>
+<p>I am planning to test streaming on Twitch, wandering around and exploring lore, trying to figure out puzzles and to tackle the remaining mysteries.<br>
+You can find me in some time at:<br>
+<a data-from-md title='https://www.twitch.tv/s2ward' href='https://www.twitch.tv/s2ward'>https://www.twitch.tv/s2ward</a><br>
+Let's maybe chat?</p>
+<p>Perhaps read about warlord sword? Or Troll sabotage? I've got more on reddit: /r/SolvingTibia - I even have some videos.<br>
+I removed some of my previous older work that didn't contain stories, they spoiled too much and were too large. I don't want to take all the fun from you, and I am not really satisfied with them. The rest I leave be, they remind me of my journey and are IMO mostly correct.</p>
+<p>Shoutout: Txetxenia, , Meadek, Elkolorado, VictorAlvarado, Besd Tesd, Arvid B-Man, Cape-T, Sopel, Acolyte Storm, everyone on the pictures, Knightmare &amp; Everyone else working on Tibia &lt;3</p>
+<p>There are many more that believed in me and made this journey possible without me going literally insane.</p>
+<p>Great resources: Tibia wikis and contributors, tibiasecrets and their wonderful work.<br>
+The many ideas while chatting with the community through our discord server<strong>s</strong>.</p>
+<h2 id="lootpics">Lootpics</h2>
+<p>Don't mapclick</p>
+<p><img src="_resources/756edf3250f44547be070cab5c36e12d.png" alt="ccb63f9127991fd691dd8c1fb39b330f.png"></p>
+<p>Don't afk</p>
+<p><img src="_resources/8ddb8ec12cfe490a878033155726a176.png" alt="1576d895a649cc53faca29c95b082629.png"></p>
+<p>Don't ponder<br>
+To the east is Nargor! Howling winds! Plains of the previous continent Weskurt!<br>
+Here by the water are more vials on the window.<br>
+<img src="_resources/d1defa1123c2497696c771f79e836e9d.png" alt="c2a11859a73b881fa0e91126abaef605.png"></p>
+<p>Took quite some research to find this...<br>
+These are the tools I used, Joplin and Lucidchart.<br>
+I'm not affiliated.<br>
+I couldn't have done it without these tools.</p>
+<p><img src="_resources/bc59c260b09c4d73bdb003284d74cf46.png" alt="53d28ce96585ddf4deb3e063e2716d9b.png"></p>
+<p>These are several pages lmao send help.</p>
+<p><img src="_resources/9a43e8e1b921444a943505460e38cf9c.png" alt="32b4a7955cb6dfcabe1fb51808548d06.png"></p>
+<p>Wonderful tool.<br>
+Maybe this could be of help for you, and maybe you find my dwelve into insanity fun.</p>
+<p><img src="_resources/acb3e383a371452da660435f2d9cc32e.png" alt="78825d69d99f804538e0080c0e2df629.png"></p>
+<p>The truth gained by insanity.<br>
+Enlightenment by force of will.</p>
+<p><img src="_resources/d970dd7fc0d84189a2f08f5073b66d61.gif" alt="charlie-day-living-in-a-world-of-darkness.gif"></p>
+<p>And as always, unveil the knowledge, share the truth.</p>
+<p>Simula out,<br>
+469 down.</p>
+</div></div>
+					</body>
+				</html>
+			
