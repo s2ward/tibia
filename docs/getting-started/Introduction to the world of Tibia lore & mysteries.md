@@ -1,17 +1,6 @@
-# Tibia  
+Introduction to the world of Tibia lore & mysteries.
 
-A repository for all things Tibia.  
-
-Research can be found in tibia/docs as GitHub Pages.  
-GitHub Page is automatically built and published on merge to `gh-pages` branch.  
-
-Links to research:  
----
-- [469](https://s2ward.github.io/tibia/docs/469/1/)
-
-- [getting-started](https://s2ward.github.io/tibia/docs/getting-started/)
-
-# Getting started with the world of Tibia Lore & Mysteries.  
+# Introduction to the world of Tibia lore & mysteries.  
 
 ## 1. What is the lore? 
 
@@ -100,7 +89,7 @@ Do what you feel like. Do what you think is fun.
 	- As seen again and again, such as the tower of Caramellia- or Opticording Sphere, quests and mysteries are introduced spanning updates over several years. Tibia lore has been 'cooking' for over 25 years, it's a great time to begin now!  
 8. Forcing a theory
 	- You will get many ideas along the way, you might have a theory that you'll do your darndest to fit in. This could make you ignore contradictions and only focus on the bits that fit into your theory. Again, a flexible mindset is paramount.
-9. Spending all your time on a mystery where you don't have all the clues yet. 
+9. Spending all your time on a mystery of where you don't have all the clues yet. 
 	- The answer is out there and you will find it when you least expect it. Follow all the leads! 
 
 # Most Importantly
