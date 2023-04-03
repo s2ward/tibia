@@ -6,16 +6,17 @@ b,strong{font-weight:bolder}small{font-size:100%}img{border-style:none}
 
 body {
     font-size: 22px;
-    color: #32373F;
+    color: #0D0907;
     word-wrap: break-word;
     line-height: 1.6em;
-    background-color: #ffffff;
+    background-color: #1C1C1C;
     font-family: 'Fira-Sand', 'Overlock', 'Byriani';
     padding-bottom: 0px;
     padding-top: 0px;
+    color: #ebebe3;
 }
 strong {
-    color: #000000;
+    color: #c3edff;
 }
 kbd {
     border: 1px solid rgb(220, 220, 220);
@@ -103,7 +104,7 @@ h4, h5, h6 {
 }
 
 a {
-    color: #155BDA;
+    color: #c19898;
 }
 ul, ol {
     padding-left: 0;
@@ -253,7 +254,7 @@ img {
 
 .highlighted-keyword {
     background-color: #F3B717;
-    color: black;
+    color: #4a4a48;
 }
 
 .not-loaded-resource img {
