@@ -55,8 +55,7 @@ jobs:
           commit_message: "Update conversations.json"
           file_pattern: npc/conversations.json
           branch: ${{ github.head_ref }}
-
-  deploy:
+  deploy_pages:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
@@ -71,11 +70,33 @@ jobs:
     - name: List contents of npc directory
       run: |
         ls -la ./npc
-
-    - name: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages using actions/deploy-pages@v1
       uses: actions/deploy-pages@v1
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
         folder: ./npc
 
+  deploy_ives:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+        
+    - name: List contents of npc directory
+      run: |
+        ls -la ./npc
+    - name: Deploy to GitHub Pages using JamesIves/github-pages-deploy-action@4
+      uses: JamesIves/github-pages-deploy-action@4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+        folder: ./npc
+
+        
