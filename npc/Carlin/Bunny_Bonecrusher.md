@@ -42,7 +42,7 @@ Player: excalibug
 Bunny Bonecrusher: I’m sure only a woman has the courage and strength to wield this weapon of myth  
 Player: armor / cornelia  
 Bunny Bonecrusher: Cornelia forges the armor for our troops.  
-Player: haishen / bosst / victoralvarado / knightmare / mogh / wikibr / besd / txetxenia / simula / robin / wikien / kamenuvol / meadek / elkolorado / skogul   
+Player: haishen / bosst / victoralvarado / knightmare / mogh / wikibr / besd / txetxenia / simula / robin / wikien / kamenuvol / meadek / elkolorado / skogul / xxx
 Bunny Bonecrusher: Take this!  
 Player: banor  
 Bunny Bonecrusher: He is the idol for all fighting women and a reminder of what a man could become if he jumps over his own shadow!  
