@@ -1,0 +1,3 @@
+NPC: Zirkon  
+Player: hi / hello  
+Zirkon: SHHHHHHH, QUIET HERE! THIS IS THE SACRED PLACE OF THE DWARVEN GEOMANCERS!  

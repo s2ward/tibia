@@ -1,0 +1,96 @@
+Player: Hi  
+Topsy: Hello, dear Player. How can I help you? If you need magical equipment such as runes or wands, just ask me for a trade.  
+Player: Sewer  
+Topsy: The Thais sewerage system is a model of modern rat breeding and for some reason is very popular with young adventurers such as yourself.  
+Player: God  
+Topsy: Gods – if we didn’t have them, we would have invented them.  
+Player: Animate dead rune  
+Topsy: Sorry, but runes of this type can’t be purchased here.  
+Player: Runes/Buy/Offer/Sell/Stuff  
+Topsy: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you’d like to see my offers, ask me for a trade.  
+Player: Wand  
+Topsy: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: Rod  
+Topsy: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
+Player: Benjamin  
+Topsy: Bless him, he stood, he fought, and then left his sanity on the battlefield.  
+Player: Boss  
+Topsy: I had one once. He should have bought better armor. Actually – he’s upstairs.  
+Player: King  
+Topsy: <mutters> Here we go again … Hail to King Tibianus! … Don’t make me do that again!  
+Player: Venore  
+Topsy: A marvellous city! Modern! Prosperous! Thais could learn a thing or two from Venore.  
+Player: Carlin  
+Topsy: I went there on holiday once. Just goes to show that women are much better at running a place than men. King Tibianus could learn a thing or two from Queen Eloise.  
+Player: Gamon  
+Topsy: I think he is a spy … so I smile at him the whole day. He won’t get anything out of me!  
+Player: Magic  
+Topsy: Magic will only protect you – a rune and some magic potions.  
+Player: Power  
+Topsy: There is a power struggle between Venore and Thais.  
+Player: Vial/Deposit  
+Topsy: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: No  
+Topsy: Hmm, but please keep Tibia litter free.  
+Player: Spells  
+Topsy: You never know when you run out of mana. All the more reason to buy some good runes or potions.  
+Player: Dungeon  
+Topsy: Dungeons – dank cold places if you ask me. They lead to rusty armor, severe colds and death … on the other hand you use a lot of runes there … so just think about the treasures you’ll surely find there.  
+Player: Elane  
+Topsy: Some call her the preying mantis – apparently she has killed over a dozen husbands already.  
+Player: Excalibug  
+Topsy: If you want to find out about excalibug you should ask the more sinister characters in Thais, not a respectable woman like myself!  
+Player: Quest  
+Topsy: I sell magic stuff, my dear. If you want a quest, you should talk to my sister Turvy.  
+Player: Fluid  
+Topsy: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: Weapon  
+Topsy: Wrong shop – go to my sister, silly!  
+Player: Gamel  
+Topsy: He hung around with that Partos a lot. I wouldn’t be surprised if he’s a thief too. He is not allowed to enter our markethall.  
+Player: Partos  
+Topsy: I heard he was a thief. Good thing he was caught.  
+Player: Gossip/Rumour/New  
+Topsy: I’m all ears.  
+Player: Random word  
+Topsy: Really? Tststs.  
+Player: Gregor  
+Topsy: Ah, Knights … can’t expect much from those guys.  
+Player: Sam  
+Topsy: Ah, such a sweetie. A simple man, with simple tastes and a simple mind.  
+Player: Help  
+Topsy: I’d love to help, but I have a business to run – I am busy busy busy!  
+Player: How are you?  
+Topsy: I’m just wonderful – thank you for asking.  
+Player: Marvik  
+Topsy: Who knows what the old man is up to in his hideout when no one is watching?  
+Player: Monster  
+Topsy: Better buy and charge a lot of runes before facing any monster.  
+Player: Quentin  
+Topsy: I can’t tell much about that old monk.  
+Player: Rebellion  
+Topsy: There is talk of a rebellion in Venore to gain independence from the Oppressor… I mean, King – of Thais. It can only help business.  
+Player: Time  
+Topsy: Time waits for no one! Not even you, sweetheart, so please do hurry up.  
+Player: Thank you  
+Topsy: Oh, such a sweetie … and so polite. I thought politeness was out of fashion, these days.  
+Player: Eclesius  
+Topsy: I heard that he left the city because he couldn’t bear the shame of being rejected as courtmage. But that’s just a gossip.  
+Player: Job  
+Topsy: I sell runes as well as spirit, health and mana potions – your best friends in any dungeon!  
+Player: Name  
+Topsy: My name is Topsy.  
+Player: Bozo  
+Topsy: He wanted to be the court jester but got upset when people laughed at him.  
+Player: Lugri  
+Topsy: I only heard rumours about him – isn’t he a hermit somewhere in the north?  
+Player: Muriel  
+Topsy: You should ask this guy Oswald about him … or other pointless rumors.  
+Player: Gamon  
+Topsy: I think he is a spy … so I smile at him the whole day. He won’t get anything out of me!  
+Player: Gorn  
+Topsy: Ah yes … Gorn … the used-cart salesman of scrolls.  
+Player: Chester  
+Topsy: I’ve never seen him at all. I only heard he’s kind of the townsguards’ chief or some such.  
+Player: Bye/Farewell  
+Topsy: Good bye, Player. Do come again!  
