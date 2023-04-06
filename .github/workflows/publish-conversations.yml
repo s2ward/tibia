@@ -57,7 +57,7 @@ jobs:
           file_pattern: npc/conversations.json
           branch: ${{ github.head_ref }}
   deploy_pages:
-    if: github.event_name == 'push'
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -79,7 +79,7 @@ jobs:
         folder: ./npc
 
   deploy_ives:
-    if: github.event_name == 'push'
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
