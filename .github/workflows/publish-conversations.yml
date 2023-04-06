@@ -1,15 +1,39 @@
-name: Convert NPC Markdown files to JSON
+name: NPC Workflow
 
 on:
-  push:
-    branches:
-      - main
+  pull_request:
+    branches: [main]
     paths:
-      - 'tibia/npc/**'
-      - '!tibia/npc/conversations.json'
+      - 'npc/**'
+      - '!npc/conversations.json'
+  push:
+    branches: [main]
+    paths:
+      - 'npc/**'
+      - '!npc/conversations.json'
 
 jobs:
-  convert:
+  validate:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Validate changes
+        run: |
+          cd npc
+          python ../src/validate.py
+
+  convert_and_publish:
+    if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -22,7 +46,7 @@ jobs:
 
     - name: Convert Markdown files to JSON
       run: |
-        cd tibia/npc
+        cd npc
         python ../src/md_to_json.py
 
     - name: Commit and push changes to GitHub Pages
@@ -31,7 +55,7 @@ jobs:
         author_name: "GitHub Actions"
         author_email: "actions@github.com"
         message: "Update conversations.json"
-        add: "tibia/npc/conversations.json"
+        add: "npc/conversations.json"
         token: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Push changes to GitHub Pages
@@ -39,5 +63,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
-
-
