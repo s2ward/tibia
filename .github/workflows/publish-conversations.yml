@@ -55,11 +55,11 @@ jobs:
         author_name: "GitHub Actions"
         author_email: "actions@github.com"
         message: "Update conversations.json"
-        add: "npc/conversations.json"
-        token: ${{ secrets.GITHUB_TOKEN }}
+        add: "tibia/npc/conversations.json"
+
 
     - name: Push changes to GitHub Pages
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
+       github_token: ${{ secrets.GITHUB_TOKEN }}
+       branch: gh-pages
