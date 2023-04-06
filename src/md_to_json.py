@@ -19,7 +19,7 @@ def convert_md_to_json(folder):
                         conversation.append({speaker.strip(): text.strip()})
                 data.append({"file": filepath, "conversation": conversation})
     
-    with open(os.path.join(os.path.abspath(folder), "..", "conversations.json"), "w") as f:
+    with open(os.path.join(os.path.abspath(os.path.join(folder, "..")), "conversations.json"), "w") as f:
         json.dump(data, f)
         print(f"Writing output file to: {os.path.join(os.path.abspath(folder), '..', 'conversations.json')}")
 
