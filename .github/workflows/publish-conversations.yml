@@ -10,7 +10,7 @@ on:
     branches: [main]
     paths:
       - 'npc/**'
-      - '!npc/conversations.json'
+      - 'npc/conversations.json'
 
 jobs:
   validate:
@@ -32,7 +32,7 @@ jobs:
           cd npc
           python ../src/validate.py
 
-  convert_and_publish:
+  convert:
     if: github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
@@ -49,17 +49,27 @@ jobs:
         cd npc
         python ../src/md_to_json.py
 
-    - name: Commit and push changes to GitHub Pages
-      uses: EndBug/add-and-commit@v7
+    - name: Commit conversations.json
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        author_name: "GitHub Actions"
-        author_email: "actions@github.com"
-        message: "Update conversations.json"
-        add: "tibia/npc/conversations.json"
+        commit_message: "Update conversations.json"
+        file_pattern: npc/conversations.json
+        branch: ${{ github.head_ref }}
 
+  deploy:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
 
-    - name: Push changes to GitHub Pages
-      uses: ad-m/github-push-action@master
+    - name: Set up Python
+      uses: actions/setup-python@v2
       with:
-       github_token: ${{ secrets.GITHUB_TOKEN }}
-       branch: gh-pages
+        python-version: 3.8
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./npc
