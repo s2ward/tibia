@@ -1,2 +1,2 @@
-Player: hi
-Towncryer: Sorry, I’m busy!
+Player: hi  
+Towncryer: Sorry, I’m busy!  

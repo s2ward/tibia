@@ -1,20 +1,20 @@
-Player: Hi
-Dixi: Hello, Mam. How may I help you, Player.
-Player: Help
-Dixi: If you need something, please let me know.
-Player: Job
-Dixi: I'm helping my grandfather Obi with this shop. Do you want to buy or sell anything?
-Player: Name
-Dixi: I'm Dixi.
-Player: Sell
-Dixi: We're selling many things. Please have a look at the blackboards downstairs to see a list of our inventory.
-Player: Weapon
-Dixi: We sell spears, rapiers, sabres, daggers, hand axes, axes, and short swords. Just tell me what you want to buy.
-Player: Armor
-Dixi: We sell jackets, coats, doublets, leather armor, and leather legs. Just tell me what you want to buy.
-Player: Helmets
-Dixi: We sell leather helmets, studded helmets, and chain helmets. Just tell me what you want to buy.
-Player: Equipment
-Dixi: We sell torches, bags, scrolls, shovels, picks, backpacks, sickles, scythes, ropes, fishing rods and sixpacks of worms. Just tell me what you want to buy.
-Player: Bye
-Dixi: Good bye, Mam.
+Player: Hi  
+Dixi: Hello, Mam. How may I help you, Player.  
+Player: Help  
+Dixi: If you need something, please let me know.  
+Player: Job  
+Dixi: I'm helping my grandfather Obi with this shop. Do you want to buy or sell anything?  
+Player: Name  
+Dixi: I'm Dixi.  
+Player: Sell  
+Dixi: We're selling many things. Please have a look at the blackboards downstairs to see a list of our inventory.  
+Player: Weapon  
+Dixi: We sell spears, rapiers, sabres, daggers, hand axes, axes, and short swords. Just tell me what you want to buy.  
+Player: Armor  
+Dixi: We sell jackets, coats, doublets, leather armor, and leather legs. Just tell me what you want to buy.  
+Player: Helmets  
+Dixi: We sell leather helmets, studded helmets, and chain helmets. Just tell me what you want to buy.  
+Player: Equipment  
+Dixi: We sell torches, bags, scrolls, shovels, picks, backpacks, sickles, scythes, ropes, fishing rods and sixpacks of worms. Just tell me what you want to buy.  
+Player: Bye  
+Dixi: Good bye, Mam.  

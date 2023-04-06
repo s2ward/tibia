@@ -1,33 +1,33 @@
-Emilio: Drome fighters! You can trade your hard earned drome points here!
-Emilio: Fighters from the old arena still visit me to exchange their hard earned badges! Earned in blood that is... mostly.
-Player: hi
-Emilio: Hello, brave fighter! What can I do for you? Do you want information, to trade drome points, talk about the old days or take a look at our famous Phants?
-Player: name
-Emilio: Name's Emilio!
-Player: job / doing
-Emilio: I specialised in trading potions in exchange for arena badges. I always liked that job, watching the fights from time to time, helping younger heroes with their first fights. ...
-Emilio: So I kept it. Actually my whole family earned their living this way, you can still meet my brothers and sisters by visiting the other arenas. ...
-Emilio: Maybe you'll even get to know my whole family someday!
-Player: information
-Emilio: We keep a register of every fighter that comes through. If you want to know your personal drome level, starting level or drome points you came to the right place! ...
-Emilio: If you want to know how all this works I have to ask you to refer to the sign over there. I just don't have the time to answer these questions.
-Player: arena badges
-Emilio: In the old arena, if you finished all 10 waves of an arena battle, you'd obtain a fixed amount of arena badges. ...
-Emilio: The exact amount depended on the selected difficulty level. ...
-Emilio: I can check the total amount and offer you potions in exchange for them. Do you want me to hand out your arena badges now?
-Player: surprise cube
-Emilio: As a special service for our most valued customers, we used to hand out a surprise cube. By using it, you'd have a chance of getting nice little goodies.
-Player: talk
-Emilio: Well, I guess you'd like to know what I'm still doing here.
-Player: level
-Player: exchange
-Emilio: It's quite easy. I give you arena badges for each arena battle you completed in the past. Surviving 10 waves against monsters in the arena granted you a fixed amount of badges depending on the difficulty level. ...
-Emilio: You can keep the arena badges or exchange them for each kind of health, mana and spirit potions. I'll charge 1 arena badge for the amount of 100 mana or health potions. ...
-Emilio: Emilio: 100 strong potions of either mana or health will be charged with 2, 100 great health potions with 4 and 100 great mana potions with 3, 100 ultimate potions of either type with 7 and 100 supreme potions with 10 arena badges. ....
-Emilio: You can also select 100 great spirit potions for 4 and 100 ultimate spirit potions for 8 arena badges. ...
-Emilio: Would you like to exchange for health, mana or spirit potions now?
-Player: difficulty
-Emilio: There were 5 difficulty levels when fighting against waves of monsters in the old arena. Each difficulty level granted you a certain amount of arena badges. ...
-Emilio: Level 1 granted one badge, level 2 granted two, level 3 granted three, level 4 granted four and level 5 granted seven arena badges.
-Player: bye
-Emilio: Take care and come back soon!
+Emilio: Drome fighters! You can trade your hard earned drome points here!  
+Emilio: Fighters from the old arena still visit me to exchange their hard earned badges! Earned in blood that is... mostly.  
+Player: hi  
+Emilio: Hello, brave fighter! What can I do for you? Do you want information, to trade drome points, talk about the old days or take a look at our famous Phants?  
+Player: name  
+Emilio: Name's Emilio!  
+Player: job / doing  
+Emilio: I specialised in trading potions in exchange for arena badges. I always liked that job, watching the fights from time to time, helping younger heroes with their first fights. ...  
+Emilio: So I kept it. Actually my whole family earned their living this way, you can still meet my brothers and sisters by visiting the other arenas. ...  
+Emilio: Maybe you'll even get to know my whole family someday!  
+Player: information  
+Emilio: We keep a register of every fighter that comes through. If you want to know your personal drome level, starting level or drome points you came to the right place! ...  
+Emilio: If you want to know how all this works I have to ask you to refer to the sign over there. I just don't have the time to answer these questions.  
+Player: arena badges  
+Emilio: In the old arena, if you finished all 10 waves of an arena battle, you'd obtain a fixed amount of arena badges. ...  
+Emilio: The exact amount depended on the selected difficulty level. ...  
+Emilio: I can check the total amount and offer you potions in exchange for them. Do you want me to hand out your arena badges now?  
+Player: surprise cube  
+Emilio: As a special service for our most valued customers, we used to hand out a surprise cube. By using it, you'd have a chance of getting nice little goodies.  
+Player: talk  
+Emilio: Well, I guess you'd like to know what I'm still doing here.  
+Player: level  
+Player: exchange  
+Emilio: It's quite easy. I give you arena badges for each arena battle you completed in the past. Surviving 10 waves against monsters in the arena granted you a fixed amount of badges depending on the difficulty level. ...  
+Emilio: You can keep the arena badges or exchange them for each kind of health, mana and spirit potions. I'll charge 1 arena badge for the amount of 100 mana or health potions. ...  
+Emilio: Emilio: 100 strong potions of either mana or health will be charged with 2, 100 great health potions with 4 and 100 great mana potions with 3, 100 ultimate potions of either type with 7 and 100 supreme potions with 10 arena badges. ....  
+Emilio: You can also select 100 great spirit potions for 4 and 100 ultimate spirit potions for 8 arena badges. ...  
+Emilio: Would you like to exchange for health, mana or spirit potions now?  
+Player: difficulty  
+Emilio: There were 5 difficulty levels when fighting against waves of monsters in the old arena. Each difficulty level granted you a certain amount of arena badges. ...  
+Emilio: Level 1 granted one badge, level 2 granted two, level 3 granted three, level 4 granted four and level 5 granted seven arena badges.  
+Player: bye  
+Emilio: Take care and come back soon!  

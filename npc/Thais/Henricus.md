@@ -1,86 +1,86 @@
-Player: Hi
-Henricus: Greetings, fellow believer Player!
-Player: First dragon
-Henricus: He was bested in combat, but the hero who killed him, was that humble that he never claimed the fame.
-Player: Outfit
-Henricus: You already received the final addon for your demon hunter outfit.
-Player: Ghost
-Henricus: Most ghosts are evil spirits that may not enter the afterlife due to their sins. …
-Henricus: A few ghosts, though, are pious souls who stick to the world of the living to fulfil an unfinished duty.
-Player: King
-Henricus: With the rise of the TBI, the king relies less and less on the inquisition. We must become more active and prove our value once more to the king.
-Player: Holy water
-Henricus: Well, if you lost your vial of holy water, you may purchase another one from me by asking me for a trade. However only after you became an Exorcist in our ranks.
-Player: Trade
-Henricus: You don’t need many vials of holy water for our missions. But if you lost yours, you may purchase another one.
-Player: Join/Inquisition
-Henricus: You’re already a member. No turning back now.
-Player: Kurik
-Henricus: Kurik has only few followers who aren’t united in a church. Only a few books contain teachings of Kurik and carry his legacy for those interested.
-Player: Dwarf/Kazordoon
-Henricus: The dwarfs are allied with Thais but follow their own obscure religion. Although dwarfs keep mostly to themselves, we have to observe this alliance closely.
-Player: Believer/Job
-Henricus: By edict of the churches I’m the Lord Inquisitor.
-Player: Inquisitor
-Henricus: The churches of the gods entrusted me with the enormous and responsible task to lead the inquisition. I leave the field work to inquisitors who I recruit from fitting people that cross my way.
-Player: Churches
-Henricus: The churches of the gods united to fight heresy and dark magic. They are the shield of the true believers, while the inquisition is the sword that fights all enemies of virtuousness.
-Player: Dark/Vile
-Henricus: The dark powers are always present. If a human shows only the slightest weakness, they try to corrupt him and to lure him into their service. …
-Henricus: We must be constantly aware of evil that comes in many disguises.
-Player: Gods
-Henricus: We owe to the gods of good our creation and continuing existence. If it weren’t for them, we would surely fall prey to the minions of the vile and dark gods.
-Player: Uman
-Henricus: Sadly, the Thaian kings heavily rely on the support of the sorcerers for their army. This resulted in certain agreements in favour of the sorcerer guild. Additionally, it allowed sorcerers to hold offices in the church of Uman …
-Henricus: The rebellion in Carlin was the reason that many leading druids moved to this city. The members of this guild that remained in Thais are de facto powerless and have no influence on the druids …
-Henricus: The once powerful church of Uman has become a shadow of its former self. There are certain groups that like to change that fate and their efforts heavily rely on our support …
-Henricus: In return, these groups do their best in supporting our cause, using all influence they’ve still got.
-Player: Fafnar
-Henricus: Fafnar is mostly worshipped by the peasants and farmers in rural areas. …
-Henricus: The inquisition has a close eye on these activities. Simply people tend to mix local superstitions with the teachings of the gods. This again may lead to heretical subcults.
-Player: Zathroth
-Henricus: Sadly the extermination of the Zathroth cult was not completed …
-Henricus: Only later, when the inquisition was founded, we learnt that it is sometimes necessary to cut off also some healthy parts of a body to remove everything that is rotten. …
-Henricus: Of course, the remaining Zathroth cultists were seeking revenge, which made them even more dangerous. …
-Henricus: Still their cult never recovered from that blow and there were unable to get a foothold in society, mainly due to the great work of the inquisition.
-Player: Crunor
-Henricus: The druids have always been protected by the church of Crunor. For this reason it has always been difficult to supervise them. …
-Henricus: The rebellion in Carlin offered the druids and the church of Crunor the possibility to move their centre beyond our reach. The remaining true believers who cooperate with the inquisition are unfortunately quite powerless …
-Henricus: They are very interested in reunifying Carlin with the kingdom and to control all druids once again.
-Player: Bless
-Henricus: Do you want to receive the blessing of the inquisition – which means all blessings except the Heart of the Mountain and the Blood of the Mountain – for 110000 gold?
-Player: Fardos
-Henricus: The church of Fardos has more and more neglected its main task to guide people. Many members appear as fatherly shepherds who lack the stern attitude of ancient clerics. …
-Henricus: The traditionalists, however, are strongly involved in the matters of the inquisition. They help to keep the kingdom strong and the ties between church and kingship tight.
-Player: Banor
-Henricus: Even kings forget their responsibilities as representative of the church of Banor sometimes. The few priests are mainly retired knights who joined the clerical ranks in old age. …
-Henricus: Lacking educated priests, it is our holy duty to help the church where it fails to oversee all the greater and smaller orders of knighthood that follow quite obscure ideals.
-Player: Ankrahmun
-Henricus: As soon as we have gathered the strength, we should crush this city once and for all.
-Player: Edron
-Henricus: Edron illustrates perfectly why the inquisition is needed and why we need more funds and manpower. …
-Henricus: Our agents were on their way to investigate certain occurrences there when some faithless knights fled to some unholy ruins. …
-Henricus: We were unable to wipe them out and the local order of knighthood was of little help. …
-Henricus: It’s almost sure that something dangerous is going on there, so we have to continue our efforts.
-Player: Venore
-Henricus: Venore is somewhat difficult to handle. The merchants have a close eye on our activities in their city and our authority is limited there. However, we will use all of our influence to prevent a second Carlin.
-Player: Carlin
-Henricus: Carlin is a city of sin and heresy. After the reunion of Carlin with the kingdom, the inquisition will have much work to purify the city and its inhabitants.
-Player: Ruthless seven
-Henricus: They’re one of the mightiest weapons that our enemies have at disposal. They’re the leaders of some of the most powerful forces of demonkind.
-Player: Elves/Ab’dendriel
-Henricus: Those elves are hardly any more civilised than orcs. They can become a threat to mankind at any time.
-Player: Drefia
-Henricus: Drefia used to be a city of sin and heresy, just like Carlin nowadays. One day, the gods decided to destroy this town and to erase all evil there.
-Player: Darashia
-Henricus: Darashia is a godless town full of mislead fools. One day, it will surely share the fate of its sister town Drefia.
-Player: Demon
-Henricus: Demons exist in many different shapes and levels of power. In general, they are servants of the dark gods and command great powers of destruction.
-Player: Vampire
-Henricus: These rotting minions of evil prey upon humanity as wolfs prey upon sheep. Only true faith will drive them back. If you fail on your path of virtuousness, you will easily fall prey to those creatures of the night.
-Player: Witch
-Henricus: The witches refused to join the druid or the sorcerer guild. They stuck to their own believes and rejected any supervision and guidance by the churches. Of course, such behaviour led to corruption by the forces of darkness.
-Player: Name
-Henricus: I’m Henricus, the Lord Inquisitor.
-Player: Bye/Farewell
-Henricus: Always be on guard, Player!
+Player: Hi  
+Henricus: Greetings, fellow believer Player!  
+Player: First dragon  
+Henricus: He was bested in combat, but the hero who killed him, was that humble that he never claimed the fame.  
+Player: Outfit  
+Henricus: You already received the final addon for your demon hunter outfit.  
+Player: Ghost  
+Henricus: Most ghosts are evil spirits that may not enter the afterlife due to their sins. …  
+Henricus: A few ghosts, though, are pious souls who stick to the world of the living to fulfil an unfinished duty.  
+Player: King  
+Henricus: With the rise of the TBI, the king relies less and less on the inquisition. We must become more active and prove our value once more to the king.  
+Player: Holy water  
+Henricus: Well, if you lost your vial of holy water, you may purchase another one from me by asking me for a trade. However only after you became an Exorcist in our ranks.  
+Player: Trade  
+Henricus: You don’t need many vials of holy water for our missions. But if you lost yours, you may purchase another one.  
+Player: Join/Inquisition  
+Henricus: You’re already a member. No turning back now.  
+Player: Kurik  
+Henricus: Kurik has only few followers who aren’t united in a church. Only a few books contain teachings of Kurik and carry his legacy for those interested.  
+Player: Dwarf/Kazordoon  
+Henricus: The dwarfs are allied with Thais but follow their own obscure religion. Although dwarfs keep mostly to themselves, we have to observe this alliance closely.  
+Player: Believer/Job  
+Henricus: By edict of the churches I’m the Lord Inquisitor.  
+Player: Inquisitor  
+Henricus: The churches of the gods entrusted me with the enormous and responsible task to lead the inquisition. I leave the field work to inquisitors who I recruit from fitting people that cross my way.  
+Player: Churches  
+Henricus: The churches of the gods united to fight heresy and dark magic. They are the shield of the true believers, while the inquisition is the sword that fights all enemies of virtuousness.  
+Player: Dark/Vile  
+Henricus: The dark powers are always present. If a human shows only the slightest weakness, they try to corrupt him and to lure him into their service. …  
+Henricus: We must be constantly aware of evil that comes in many disguises.  
+Player: Gods  
+Henricus: We owe to the gods of good our creation and continuing existence. If it weren’t for them, we would surely fall prey to the minions of the vile and dark gods.  
+Player: Uman  
+Henricus: Sadly, the Thaian kings heavily rely on the support of the sorcerers for their army. This resulted in certain agreements in favour of the sorcerer guild. Additionally, it allowed sorcerers to hold offices in the church of Uman …  
+Henricus: The rebellion in Carlin was the reason that many leading druids moved to this city. The members of this guild that remained in Thais are de facto powerless and have no influence on the druids …  
+Henricus: The once powerful church of Uman has become a shadow of its former self. There are certain groups that like to change that fate and their efforts heavily rely on our support …  
+Henricus: In return, these groups do their best in supporting our cause, using all influence they’ve still got.  
+Player: Fafnar  
+Henricus: Fafnar is mostly worshipped by the peasants and farmers in rural areas. …  
+Henricus: The inquisition has a close eye on these activities. Simply people tend to mix local superstitions with the teachings of the gods. This again may lead to heretical subcults.  
+Player: Zathroth  
+Henricus: Sadly the extermination of the Zathroth cult was not completed …  
+Henricus: Only later, when the inquisition was founded, we learnt that it is sometimes necessary to cut off also some healthy parts of a body to remove everything that is rotten. …  
+Henricus: Of course, the remaining Zathroth cultists were seeking revenge, which made them even more dangerous. …  
+Henricus: Still their cult never recovered from that blow and there were unable to get a foothold in society, mainly due to the great work of the inquisition.  
+Player: Crunor  
+Henricus: The druids have always been protected by the church of Crunor. For this reason it has always been difficult to supervise them. …  
+Henricus: The rebellion in Carlin offered the druids and the church of Crunor the possibility to move their centre beyond our reach. The remaining true believers who cooperate with the inquisition are unfortunately quite powerless …  
+Henricus: They are very interested in reunifying Carlin with the kingdom and to control all druids once again.  
+Player: Bless  
+Henricus: Do you want to receive the blessing of the inquisition – which means all blessings except the Heart of the Mountain and the Blood of the Mountain – for 110000 gold?  
+Player: Fardos  
+Henricus: The church of Fardos has more and more neglected its main task to guide people. Many members appear as fatherly shepherds who lack the stern attitude of ancient clerics. …  
+Henricus: The traditionalists, however, are strongly involved in the matters of the inquisition. They help to keep the kingdom strong and the ties between church and kingship tight.  
+Player: Banor  
+Henricus: Even kings forget their responsibilities as representative of the church of Banor sometimes. The few priests are mainly retired knights who joined the clerical ranks in old age. …  
+Henricus: Lacking educated priests, it is our holy duty to help the church where it fails to oversee all the greater and smaller orders of knighthood that follow quite obscure ideals.  
+Player: Ankrahmun  
+Henricus: As soon as we have gathered the strength, we should crush this city once and for all.  
+Player: Edron  
+Henricus: Edron illustrates perfectly why the inquisition is needed and why we need more funds and manpower. …  
+Henricus: Our agents were on their way to investigate certain occurrences there when some faithless knights fled to some unholy ruins. …  
+Henricus: We were unable to wipe them out and the local order of knighthood was of little help. …  
+Henricus: It’s almost sure that something dangerous is going on there, so we have to continue our efforts.  
+Player: Venore  
+Henricus: Venore is somewhat difficult to handle. The merchants have a close eye on our activities in their city and our authority is limited there. However, we will use all of our influence to prevent a second Carlin.  
+Player: Carlin  
+Henricus: Carlin is a city of sin and heresy. After the reunion of Carlin with the kingdom, the inquisition will have much work to purify the city and its inhabitants.  
+Player: Ruthless seven  
+Henricus: They’re one of the mightiest weapons that our enemies have at disposal. They’re the leaders of some of the most powerful forces of demonkind.  
+Player: Elves/Ab’dendriel  
+Henricus: Those elves are hardly any more civilised than orcs. They can become a threat to mankind at any time.  
+Player: Drefia  
+Henricus: Drefia used to be a city of sin and heresy, just like Carlin nowadays. One day, the gods decided to destroy this town and to erase all evil there.  
+Player: Darashia  
+Henricus: Darashia is a godless town full of mislead fools. One day, it will surely share the fate of its sister town Drefia.  
+Player: Demon  
+Henricus: Demons exist in many different shapes and levels of power. In general, they are servants of the dark gods and command great powers of destruction.  
+Player: Vampire  
+Henricus: These rotting minions of evil prey upon humanity as wolfs prey upon sheep. Only true faith will drive them back. If you fail on your path of virtuousness, you will easily fall prey to those creatures of the night.  
+Player: Witch  
+Henricus: The witches refused to join the druid or the sorcerer guild. They stuck to their own believes and rejected any supervision and guidance by the churches. Of course, such behaviour led to corruption by the forces of darkness.  
+Player: Name  
+Henricus: I’m Henricus, the Lord Inquisitor.  
+Player: Bye/Farewell  
+Henricus: Always be on guard, Player!  

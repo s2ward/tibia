@@ -1,88 +1,88 @@
-Player: hi
-Captain Haba: You found the spot Player!! Grab yourself a helmet of the deep and go explore the caves down there.(on sea)
-Captain Haba: Harrr, landlubber wha’d ya want? Askin’ for a passage?( on Svargrond)
-Player: caves
-Captain Haba: I’d go by myself and tear that beast’s heart out if I were younger. I hope ya can do that for me. Now go and good luck to ya!
-Player: name
-Captain Haba: My name is Haba, Captain Haba for ya little worm.
-Player: pirate
-Captain Haba: I ain’t no pirate. Don’t let yourself mislead by my pirate hat. I got it from a friend of mine.
-Player: friend
-Captain Haba: Most o’ my friends are dead the others don’t like me anymore……well, seems there aren’t many left.
-Player: yeti / chakoya
-Captain Haba: What fo’ godsake shall that be??
-Player: barbarian
-Captain Haba: Who are ya calling a barbarian?!? Watch your tongue here on board or you end up as fish fodder!
-Player: god / svargrond / back
-Captain Haba: Already got enough, huh? I kind o’ expected that, landlubber! Let’s head for Svargrond! Ready?
-Player: wares / go
-Captain Haba: Ya’re a coward, aren’t ya? Prove that I’m wrong and get your lazy bones up to the lookout!!
-Player: passage / trip
-Captain Haba: Y’ already wanna give up?? I should’ve known. I bring ya back to Svargrond, ‘kay?
-Player: port hope / liberty bay / edron / ab’dendriel / darashia / ankrahmun / issavi / kazordoon / krailos / rathleton / roshamuul
-Captain Haba: Dis is no passenger ship it’s a WARship. I’m on hunting business.
-Player: ferumbras
-Captain Haba: Never heard of him. He is no captain that’s for sure, otherwise I’d know him. I was on the sea for the last 20 years hunting this, this monster.
-Player: monster / beast / sea serpent
-Captain Haba: Yee, I’ve been chasing that monster for over 20 years now. I promise I’ll bring it down!
-Player: rum
-Captain Haba: It lets me forget the long years, the lost years. The years I was chasing after THAT monster, the sea serpent.
-Player: hunt
-Captain Haba: Y’ already wanna give up?? I should’ve known. I bring ya back to Svargrond, ‘kay?
-Player: job
-Captain Haba: Ye, I command ‘is ship!
-Player: ship
-Captain Haba: Our last ship has been destroyed by the most evil creature of the ocean: the sea serpent. To continue our hunt, I’ve bought this ship here.
-Player: bonelord
-Captain Haba: Never seen one.
-Player: banor / uman / zathroth
-Captain Haba: I’m faithful – I’ll catch that monster one day. Yes I will, as sure as my name is Captain Haba!!
-Player: queen
-Captain Haba: On the high seas there is no queen. At least I didn’t see her yet. Hararar!
-Player: king
-Captain Haba: On the high seas there is no king. At least I didn’t see him yet. Hararar!
-Player: body
-Captain Haba: Arms, legs, head, whatever. I got injuries on almost every part of my body!
-Player: buy / shop / sell
-Captain Haba: This is no shop boy, this is a warship!
-Player: camp / grimlund / nibelor / tyrusng / okolnir
-Captain Haba: We aren’t even near that location! Wanna swim? Harharhar!
-Player: druid
-Captain Haba: I know Marvik in Thais. He once helped me with a furuncle I had on my …ahh, doesn’t matter. He’s a nice gran’pa, though!
-Player: enemies
-Captain Haba: My worst enemy is a huge sea serpent. I dunno when I started to follow it’s trail. I’ll kill it and if it’s the last thing I’ll do, I’ll kill it!
-Player: farmine
-Captain Haba: Dis is no passenger ship it’s a WARship. I’m on hunting business.
-Player: instructions
-Captain Haba: A’right, first of all you need a bait which isn’t for free, though. I sell them for 50 gold each. Use the bait on the crane over there when you see something in the telescope. …
-Captain Haba: Then go up to the lookout and check the telescope for a sight of the sea serpent. …
-Captain Haba: If you see it in front of ya, get down at once. And what d’ya gonna say to me?
-Player: random word
-Captain Haba: Harharhar, landlubber, no no!! The correct command would be STRAIGHT. Remember that! Next, what you gonna say when you see something to the left?
-Player : random word
-Captain Haba: Harharhar, landlubber, ya got it all wrong!! The correct command would be LARBOARD side. Don’t forget that, ‘kay? Last one, what you gonna say to me when ya see somethin’ to the right?
-Player: random word
-Captain Haba: Ya gotta learn a lot! The correct command would be STARBOARD side. …
-Captain Haba: After you told me about the direction, put a bait on the crane again and go up to the lookout! That would be all sailor, let’s go hunt down the sea serpent!!
-Player: leader
-Captain Haba: This is a ship and the captain is some kind o’ leader, isn’t he? <mumbles>..stupid..landlubber.
-Player: raiders
-Captain Haba: What fo’ godsake shall that be??
-Player: shaman
-Captain Haba: Seems that they are some sort o’ druids fo’ the Norseman.
-Player: story
-Captain Haba: I’m full of stories mate! Name a body part and I tell you the story what happened to it!
-Player: bait
-Captain Haba: Just ask me for a trade if you need a bait.
-Player: trade
-Captain Haba: Here ya go! Use it on the crane when you see the monster. Then refill it every time you use the telescope.
-Player: test
-Captain Haba: I can give ya a challenge to test if ya have the guts to be a real sailor. Go up to the lookout and remain there for 24 hours during a storm! Harharhar!
-Player: victory
-Captain Haba: My worst enemy is a huge sea serpent. I dunno when I started to follow it’s trail. I’ll kill it and if it’s the last thing I’ll do, I’ll kill it!
-Player: svargrond
-Captain Haba: Already got enough, huh? I kind o’ expected that, landlubber! Let’s head for Svargrond! Ready?
-Player: yes
-Captain Haba: See ya, landlubber!
-Player: bye
-Captain Haba: Bye.
+Player: hi  
+Captain Haba: You found the spot Player!! Grab yourself a helmet of the deep and go explore the caves down there.(on sea)  
+Captain Haba: Harrr, landlubber wha’d ya want? Askin’ for a passage?( on Svargrond)  
+Player: caves  
+Captain Haba: I’d go by myself and tear that beast’s heart out if I were younger. I hope ya can do that for me. Now go and good luck to ya!  
+Player: name  
+Captain Haba: My name is Haba, Captain Haba for ya little worm.  
+Player: pirate  
+Captain Haba: I ain’t no pirate. Don’t let yourself mislead by my pirate hat. I got it from a friend of mine.  
+Player: friend  
+Captain Haba: Most o’ my friends are dead the others don’t like me anymore……well, seems there aren’t many left.  
+Player: yeti / chakoya  
+Captain Haba: What fo’ godsake shall that be??  
+Player: barbarian  
+Captain Haba: Who are ya calling a barbarian?!? Watch your tongue here on board or you end up as fish fodder!  
+Player: god / svargrond / back  
+Captain Haba: Already got enough, huh? I kind o’ expected that, landlubber! Let’s head for Svargrond! Ready?  
+Player: wares / go  
+Captain Haba: Ya’re a coward, aren’t ya? Prove that I’m wrong and get your lazy bones up to the lookout!!  
+Player: passage / trip  
+Captain Haba: Y’ already wanna give up?? I should’ve known. I bring ya back to Svargrond, ‘kay?  
+Player: port hope / liberty bay / edron / ab’dendriel / darashia / ankrahmun / issavi / kazordoon / krailos / rathleton / roshamuul  
+Captain Haba: Dis is no passenger ship it’s a WARship. I’m on hunting business.  
+Player: ferumbras  
+Captain Haba: Never heard of him. He is no captain that’s for sure, otherwise I’d know him. I was on the sea for the last 20 years hunting this, this monster.  
+Player: monster / beast / sea serpent  
+Captain Haba: Yee, I’ve been chasing that monster for over 20 years now. I promise I’ll bring it down!  
+Player: rum  
+Captain Haba: It lets me forget the long years, the lost years. The years I was chasing after THAT monster, the sea serpent.  
+Player: hunt  
+Captain Haba: Y’ already wanna give up?? I should’ve known. I bring ya back to Svargrond, ‘kay?  
+Player: job  
+Captain Haba: Ye, I command ‘is ship!  
+Player: ship  
+Captain Haba: Our last ship has been destroyed by the most evil creature of the ocean: the sea serpent. To continue our hunt, I’ve bought this ship here.  
+Player: bonelord  
+Captain Haba: Never seen one.  
+Player: banor / uman / zathroth  
+Captain Haba: I’m faithful – I’ll catch that monster one day. Yes I will, as sure as my name is Captain Haba!!  
+Player: queen  
+Captain Haba: On the high seas there is no queen. At least I didn’t see her yet. Hararar!  
+Player: king  
+Captain Haba: On the high seas there is no king. At least I didn’t see him yet. Hararar!  
+Player: body  
+Captain Haba: Arms, legs, head, whatever. I got injuries on almost every part of my body!  
+Player: buy / shop / sell  
+Captain Haba: This is no shop boy, this is a warship!  
+Player: camp / grimlund / nibelor / tyrusng / okolnir  
+Captain Haba: We aren’t even near that location! Wanna swim? Harharhar!  
+Player: druid  
+Captain Haba: I know Marvik in Thais. He once helped me with a furuncle I had on my …ahh, doesn’t matter. He’s a nice gran’pa, though!  
+Player: enemies  
+Captain Haba: My worst enemy is a huge sea serpent. I dunno when I started to follow it’s trail. I’ll kill it and if it’s the last thing I’ll do, I’ll kill it!  
+Player: farmine  
+Captain Haba: Dis is no passenger ship it’s a WARship. I’m on hunting business.  
+Player: instructions  
+Captain Haba: A’right, first of all you need a bait which isn’t for free, though. I sell them for 50 gold each. Use the bait on the crane over there when you see something in the telescope. …  
+Captain Haba: Then go up to the lookout and check the telescope for a sight of the sea serpent. …  
+Captain Haba: If you see it in front of ya, get down at once. And what d’ya gonna say to me?  
+Player: random word  
+Captain Haba: Harharhar, landlubber, no no!! The correct command would be STRAIGHT. Remember that! Next, what you gonna say when you see something to the left?  
+Player : random word  
+Captain Haba: Harharhar, landlubber, ya got it all wrong!! The correct command would be LARBOARD side. Don’t forget that, ‘kay? Last one, what you gonna say to me when ya see somethin’ to the right?  
+Player: random word  
+Captain Haba: Ya gotta learn a lot! The correct command would be STARBOARD side. …  
+Captain Haba: After you told me about the direction, put a bait on the crane again and go up to the lookout! That would be all sailor, let’s go hunt down the sea serpent!!  
+Player: leader  
+Captain Haba: This is a ship and the captain is some kind o’ leader, isn’t he? <mumbles>..stupid..landlubber.  
+Player: raiders  
+Captain Haba: What fo’ godsake shall that be??  
+Player: shaman  
+Captain Haba: Seems that they are some sort o’ druids fo’ the Norseman.  
+Player: story  
+Captain Haba: I’m full of stories mate! Name a body part and I tell you the story what happened to it!  
+Player: bait  
+Captain Haba: Just ask me for a trade if you need a bait.  
+Player: trade  
+Captain Haba: Here ya go! Use it on the crane when you see the monster. Then refill it every time you use the telescope.  
+Player: test  
+Captain Haba: I can give ya a challenge to test if ya have the guts to be a real sailor. Go up to the lookout and remain there for 24 hours during a storm! Harharhar!  
+Player: victory  
+Captain Haba: My worst enemy is a huge sea serpent. I dunno when I started to follow it’s trail. I’ll kill it and if it’s the last thing I’ll do, I’ll kill it!  
+Player: svargrond  
+Captain Haba: Already got enough, huh? I kind o’ expected that, landlubber! Let’s head for Svargrond! Ready?  
+Player: yes  
+Captain Haba: See ya, landlubber!  
+Player: bye  
+Captain Haba: Bye.  

@@ -1,2 +1,2 @@
-Player: hi
-Gelagos: Bron is a scary barbarian.
+Player: hi  
+Gelagos: Bron is a scary barbarian.  

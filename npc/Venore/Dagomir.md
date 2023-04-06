@@ -1,2 +1,2 @@
-Player: hi
-Dagomir: Wha... what?? HOW DARE YOU!!?? LEAVE ME ALONE ON MY TOILET AT ONCE!
+Player: hi  
+Dagomir: Wha... what?? HOW DARE YOU!!?? LEAVE ME ALONE ON MY TOILET AT ONCE!  

@@ -1,55 +1,55 @@
-Player: Hi
-Partos: Welcome to my little kingdom, Player.
-Player: Army
-Partos: Bah, the king’s pawns. I spit on them.
-Player: Baa’leal/Djinns/Mal’ouquah/Supplies
-Partos: I won’t talk about that.
-Player: Gold/Money
-Partos: Gold got me in here. But I’d offer you some gold for keys.
-Player: Thais/City
-Partos: I love the city. I just wish I could see some other part of it now and then.
-Player: Jail/Cell
-Partos: You mean this is a JAIL? They told me it’s the finest hotel in town! THAT explains the lousy room service!
-Player: Citizen
-Partos: Rich enough to spare a little, don’t you agree? Well, they didn’t agree.
-Player: Key
-Partos: I sort of collect them. Broken key rings, that is. You never know. If you wanna trade, you know where to find me.
-Player: Criminal
-Partos: Bah, I did nothing serious. I just had a little fun. In Ankrahmun nobody would have cared about these kind of things…
-Player: Slay
-Partos: Hey, most people I killed were even worse than me.
-Player: Noodles
-Partos: I bet one could get some fine ransom, if he dognaps this furball.
-Player: Sell
-Partos: I would like to sell you a secret, but I’m out of business for too long.
-Player: How are you?
-Partos: I am great! Free food, free room, and now and then someone coming down here to ask me silly questions. Wouldn’t you love that, too?
-Player: Monster
-Partos: At least I am safe from them down here.
-Player: News
-Partos: I hardly hear any news down here.
-Player: Quentin
-Partos: By the gods, he visits us ‘criminals’ now and then to ‘save’ us. Who is going to save me from this boredom on two legs?
-Player: Trade
-Partos: I collect broken key rings. Just an old habit of mine.
-Player: Time
-Partos: Geee, someone stole my watch. Bad company down here.
-Player: Job
-Partos: Guess it! I’ll give you a hint: I am not in this cell to clean it up! …
-Partos: I wish I had never left Ankrahmun…
-Player: Ankrahmun
-Partos: Yes, I’ve lived in Ankrahmun for quite some time. Ahh, the good old times! …
-Partos: Unfortunately I had to relocate. <sigh> …
-Partos: Business reasons – you know.
-Player: Party
-Partos: Yeah! Come in and let’s have a party.
-Player: King
-Partos: Yeah, a king is a man that can rob people by law, and not by night like me.
-Player: God
-Partos: The gods seldom show up down here, so don’t ask me.
-Player: Name
-Partos: My name is Partos, but you can call me Party.
-Player: Eclesius
-Partos: Yeah sure, I go out with him all the time… NOT.
-Player: Bye/Farewell
-Partos: Good bye, visit me again, Player. I will be here, promised.
+Player: Hi  
+Partos: Welcome to my little kingdom, Player.  
+Player: Army  
+Partos: Bah, the king’s pawns. I spit on them.  
+Player: Baa’leal/Djinns/Mal’ouquah/Supplies  
+Partos: I won’t talk about that.  
+Player: Gold/Money  
+Partos: Gold got me in here. But I’d offer you some gold for keys.  
+Player: Thais/City  
+Partos: I love the city. I just wish I could see some other part of it now and then.  
+Player: Jail/Cell  
+Partos: You mean this is a JAIL? They told me it’s the finest hotel in town! THAT explains the lousy room service!  
+Player: Citizen  
+Partos: Rich enough to spare a little, don’t you agree? Well, they didn’t agree.  
+Player: Key  
+Partos: I sort of collect them. Broken key rings, that is. You never know. If you wanna trade, you know where to find me.  
+Player: Criminal  
+Partos: Bah, I did nothing serious. I just had a little fun. In Ankrahmun nobody would have cared about these kind of things…  
+Player: Slay  
+Partos: Hey, most people I killed were even worse than me.  
+Player: Noodles  
+Partos: I bet one could get some fine ransom, if he dognaps this furball.  
+Player: Sell  
+Partos: I would like to sell you a secret, but I’m out of business for too long.  
+Player: How are you?  
+Partos: I am great! Free food, free room, and now and then someone coming down here to ask me silly questions. Wouldn’t you love that, too?  
+Player: Monster  
+Partos: At least I am safe from them down here.  
+Player: News  
+Partos: I hardly hear any news down here.  
+Player: Quentin  
+Partos: By the gods, he visits us ‘criminals’ now and then to ‘save’ us. Who is going to save me from this boredom on two legs?  
+Player: Trade  
+Partos: I collect broken key rings. Just an old habit of mine.  
+Player: Time  
+Partos: Geee, someone stole my watch. Bad company down here.  
+Player: Job  
+Partos: Guess it! I’ll give you a hint: I am not in this cell to clean it up! …  
+Partos: I wish I had never left Ankrahmun…  
+Player: Ankrahmun  
+Partos: Yes, I’ve lived in Ankrahmun for quite some time. Ahh, the good old times! …  
+Partos: Unfortunately I had to relocate. <sigh> …  
+Partos: Business reasons – you know.  
+Player: Party  
+Partos: Yeah! Come in and let’s have a party.  
+Player: King  
+Partos: Yeah, a king is a man that can rob people by law, and not by night like me.  
+Player: God  
+Partos: The gods seldom show up down here, so don’t ask me.  
+Player: Name  
+Partos: My name is Partos, but you can call me Party.  
+Player: Eclesius  
+Partos: Yeah sure, I go out with him all the time… NOT.  
+Player: Bye/Farewell  
+Partos: Good bye, visit me again, Player. I will be here, promised.  

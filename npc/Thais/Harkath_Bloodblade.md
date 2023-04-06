@@ -1,90 +1,90 @@
-Player: hi / hello / hail / salutations
-Harkath Bloodblade: Address me with my title, commoner Davaref!
-Player: hail general / salutations general
-Harkath Bloodblade: Salutations, commoner Davaref!
-Player: army / guard
-Harkath Bloodblade: The army protects our city. I divided it into 3 battle groups.
-Player: banor
-Harkath Bloodblade: He is the idol of all knights and paladins.
-Player: battlegroup / battle group
-Harkath Bloodblade: There are 3 battle groups: the ‘Dogs of War’, the ‘Red Guards’, and the ‘Silver Guards’.
-Player: benjamin
-Harkath Bloodblade: He was the king’s general before I was promoted. Poor guy, he lost his mind in a battle against evil Ferumbras.
-Player: bozo
-Harkath Bloodblade: I hardly know him.
-Player: brog
-Harkath Bloodblade: The orcs, trolls, and cyclopes sacrificed more than one of my men to Brog, the raging one.
-Player: castle
-Harkath Bloodblade: The castle is prepared to withstand any direct attack.
-Player: chester
-Harkath Bloodblade: I don’t know much about him. He’s a very secretive person.
-Player: city
-Harkath Bloodblade: The rapid growth of our city makes it hard to patrol and protect it.
-Player: dogs of war
-Harkath Bloodblade: They are our main army.
-Player: eclesius
-Harkath Bloodblade: I rarely see him. Been a long time since I last met him.
-Player: elane
-Harkath Bloodblade: AH! WHAT A WOMAN!
-Player: enemies / enemy
-Harkath Bloodblade: Evil has many faces. The servants of evil cannot always be recognised as easily as Ferumbras, for instance.
-Player: excalibug
-Harkath Bloodblade: The legend says that this weapon will enable its wielder to fight the mightiest demons all by himself.
-Player: ferumbras
-Harkath Bloodblade: He is allied with evil itself! Each time we kill him, he returns to take revenge.
-Player: general
-Harkath Bloodblade: It’s my duty to lead the armed forces of our beloved city into battle against our enemies.
-Player: god
-Harkath Bloodblade: I worship Banor, the first warrior!
-Player: gorn
-Harkath Bloodblade: He used to be an adventurer. He was a fine fighter but lacked the discipline to serve in our army.
-Player: how are you
-Harkath Bloodblade: I’m in perfect condition.
-Player: job / commoner
-Harkath Bloodblade: I’m the general of the king’s army.
-Player: join
-Harkath Bloodblade: Join what?
-Player: join army
-Harkath Bloodblade: Sorry, we don’t recruit today. Perhaps you can join later if you have fulfilled a mission for the king.
-Player: king
-Harkath Bloodblade: HAIL TO KING TIBIANUS, OUR WISE LEADER!
-Player: leader
-Harkath Bloodblade: King Tibianus III is our wise and just leader.
-Player: mission / quest
-Harkath Bloodblade: Sometimes the king calls for heroes. Keep your eyes and ears open! I also heard Baxter has some work for young adventurers.
-Player: monster
-Harkath Bloodblade: Only randomly they dare to attack the city itself.
-Player: news
-Harkath Bloodblade: No news are good news.
-Player: rebellion
-Harkath Bloodblade: Ask Chester of the TBI about that.
-Player: red guard
-Harkath Bloodblade: They are the special forces of our army. Some serve as city guards, others as secret police.
-Player: resistance
-Harkath Bloodblade: We will eliminate all resistance against law and order!
-Player: sam / weapon / armor
-Harkath Bloodblade: Sam is responsible to supply our troops with weapons and armor.
-Player: secret police
-Harkath Bloodblade: The secret police is a branch of the Red Guards, better known as TBI.
-Player: silver guard
-Harkath Bloodblade: The best sorcerers, paladins, knights, and druids of our forces are chosen to serve as Silver Guards. They are the king’s bodyguards.
-Player: stutch / harsky
-Harkath Bloodblade: He’s one of our best men and serves as a Silver Guard.
-Player: subject
-Harkath Bloodblade: We all live under the rule of our beloved king.
-Player: tbi
-Harkath Bloodblade: The Tibian Bureau of Investigation is something like a secret police. I don’t bother much about such things, I prefer my fights eye to eye.
-Player: zathroth
-Harkath Bloodblade: Don’t mention the dark one!
-Player: fuck / idiot / ass / fag / shit / lunatic / tyrant / stupid
-Harkath Bloodblade: Take this!
-Player: sell
-Harkath Bloodblade: Are you suggesting that I’m bribable?
-Player: yes
-Harkath Bloodblade: Take this!
-Player: sell
-Harkath Bloodblade: Are you suggesting that I’m bribable?
-Player: no
-Harkath Bloodblade: You should be careful with your words!
-Player: bye / farewell
-Harkath Bloodblade: LONG LIVE THE KING!
+Player: hi / hello / hail / salutations  
+Harkath Bloodblade: Address me with my title, commoner Davaref!  
+Player: hail general / salutations general  
+Harkath Bloodblade: Salutations, commoner Davaref!  
+Player: army / guard  
+Harkath Bloodblade: The army protects our city. I divided it into 3 battle groups.  
+Player: banor  
+Harkath Bloodblade: He is the idol of all knights and paladins.  
+Player: battlegroup / battle group  
+Harkath Bloodblade: There are 3 battle groups: the ‘Dogs of War’, the ‘Red Guards’, and the ‘Silver Guards’.  
+Player: benjamin  
+Harkath Bloodblade: He was the king’s general before I was promoted. Poor guy, he lost his mind in a battle against evil Ferumbras.  
+Player: bozo  
+Harkath Bloodblade: I hardly know him.  
+Player: brog  
+Harkath Bloodblade: The orcs, trolls, and cyclopes sacrificed more than one of my men to Brog, the raging one.  
+Player: castle  
+Harkath Bloodblade: The castle is prepared to withstand any direct attack.  
+Player: chester  
+Harkath Bloodblade: I don’t know much about him. He’s a very secretive person.  
+Player: city  
+Harkath Bloodblade: The rapid growth of our city makes it hard to patrol and protect it.  
+Player: dogs of war  
+Harkath Bloodblade: They are our main army.  
+Player: eclesius  
+Harkath Bloodblade: I rarely see him. Been a long time since I last met him.  
+Player: elane  
+Harkath Bloodblade: AH! WHAT A WOMAN!  
+Player: enemies / enemy  
+Harkath Bloodblade: Evil has many faces. The servants of evil cannot always be recognised as easily as Ferumbras, for instance.  
+Player: excalibug  
+Harkath Bloodblade: The legend says that this weapon will enable its wielder to fight the mightiest demons all by himself.  
+Player: ferumbras  
+Harkath Bloodblade: He is allied with evil itself! Each time we kill him, he returns to take revenge.  
+Player: general  
+Harkath Bloodblade: It’s my duty to lead the armed forces of our beloved city into battle against our enemies.  
+Player: god  
+Harkath Bloodblade: I worship Banor, the first warrior!  
+Player: gorn  
+Harkath Bloodblade: He used to be an adventurer. He was a fine fighter but lacked the discipline to serve in our army.  
+Player: how are you  
+Harkath Bloodblade: I’m in perfect condition.  
+Player: job / commoner  
+Harkath Bloodblade: I’m the general of the king’s army.  
+Player: join  
+Harkath Bloodblade: Join what?  
+Player: join army  
+Harkath Bloodblade: Sorry, we don’t recruit today. Perhaps you can join later if you have fulfilled a mission for the king.  
+Player: king  
+Harkath Bloodblade: HAIL TO KING TIBIANUS, OUR WISE LEADER!  
+Player: leader  
+Harkath Bloodblade: King Tibianus III is our wise and just leader.  
+Player: mission / quest  
+Harkath Bloodblade: Sometimes the king calls for heroes. Keep your eyes and ears open! I also heard Baxter has some work for young adventurers.  
+Player: monster  
+Harkath Bloodblade: Only randomly they dare to attack the city itself.  
+Player: news  
+Harkath Bloodblade: No news are good news.  
+Player: rebellion  
+Harkath Bloodblade: Ask Chester of the TBI about that.  
+Player: red guard  
+Harkath Bloodblade: They are the special forces of our army. Some serve as city guards, others as secret police.  
+Player: resistance  
+Harkath Bloodblade: We will eliminate all resistance against law and order!  
+Player: sam / weapon / armor  
+Harkath Bloodblade: Sam is responsible to supply our troops with weapons and armor.  
+Player: secret police  
+Harkath Bloodblade: The secret police is a branch of the Red Guards, better known as TBI.  
+Player: silver guard  
+Harkath Bloodblade: The best sorcerers, paladins, knights, and druids of our forces are chosen to serve as Silver Guards. They are the king’s bodyguards.  
+Player: stutch / harsky  
+Harkath Bloodblade: He’s one of our best men and serves as a Silver Guard.  
+Player: subject  
+Harkath Bloodblade: We all live under the rule of our beloved king.  
+Player: tbi  
+Harkath Bloodblade: The Tibian Bureau of Investigation is something like a secret police. I don’t bother much about such things, I prefer my fights eye to eye.  
+Player: zathroth  
+Harkath Bloodblade: Don’t mention the dark one!  
+Player: fuck / idiot / ass / fag / shit / lunatic / tyrant / stupid  
+Harkath Bloodblade: Take this!  
+Player: sell  
+Harkath Bloodblade: Are you suggesting that I’m bribable?  
+Player: yes  
+Harkath Bloodblade: Take this!  
+Player: sell  
+Harkath Bloodblade: Are you suggesting that I’m bribable?  
+Player: no  
+Harkath Bloodblade: You should be careful with your words!  
+Player: bye / farewell  
+Harkath Bloodblade: LONG LIVE THE KING!  

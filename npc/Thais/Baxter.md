@@ -1,75 +1,75 @@
-Player: hi / hello
-Baxter: LONG LIVE KING TIBIANUS!
-Player: army / guard
-Baxter: Our brave army, which protects our city, consists of three battle groups.
-Player: battlegroup
-Baxter: There are the Dogs of War, the Red Guards, and the Silver Guards.
-Player: benjamin
-Baxter: He was one of the king’s best generals, now he’s a bit …uhm… forgetful.
-Player: bozo
-Baxter: The royal jester. I don’t think he’s funny.
-Player: castle
-Baxter: His Royal Highness ordered that the castle be open for all his subjects.
-Player: chester
-Baxter: This man is paranoid, but I guess that’s useful in his job.
-Player: city
-Baxter: Now that the king returned, we will clean the city from all dubious persons.
-Player: criminal
-Baxter: Too many criminals roam our streets nowadays, the Red Guards will take care of them.
-Player: dogs of war
-Baxter: They are our main army.
-Player: eclesius
-Baxter: He’s harmless. But I doubt he’d be much help in the war against the orcs.
-Player: excalibug
-Baxter: Gorn and I searched for this weapon in the darkest corners of each dungeon, but we didn’t find the slightest hint.
-Player: first dragon
-Baxter: My grandfather had seen it with his own eyes!
-Player: gorn
-Baxter: An old friend of mine. He was once a great warrior and adventurer. Now he’s running a shop.
-Player: how are you
-Baxter: I’m healthy and vigilant.
-Player: job / our
-Baxter: I’m a proud member of the king’s army. It’s my duty to guard the castle. Sometimes I have to deal with less important work though.
-Player: king / leader
-Baxter: King Tibianus III is our wise and just leader!
-Player: news
-Baxter: It’s rumoured that Ferumbras is planning a new attack on this town.
-Player: red guard
-Baxter: They are our special forces. Some serve as city guards, others as secret police.
-Player: sam
-Baxter: He’s a fine blacksmith. Almost all of our weapons are made by him.
-Player: secret police
-Baxter: Ask a higher official about that.
-Player: sell
-Baxter: Visit Tibia’s shopkeepers to buy their fine wares.
-Player: silver guard
-Baxter: The best sorcerers, paladins, knights, or druids of our forces are chosen to serve as Silver Guards. They are the king’s bodyguards.
-Player: stutch / harsky
-Baxter: He’s a soldier of the Silver Guards.
-Player: subject
-Baxter: We all live under the benevolent guidance of our king.
-Player: tbi
-Baxter: There is almost nothing known about that organisation.
-Player: partos
-Baxter: He was wanted for a long time and was finally caught stealing some time ago.
-Player: random word
-Baxter: What’s that to do with this Partos guy?
-Player: partos
-Baxter: He was wanted for a long time and was finally caught stealing some time ago.
-Player: fruit
-Baxter: I heard he stole some fruit he’s obsessed with and got incautious.
-Player: work / mission / quest
-Baxter: We’ve got a rat problem in the sewers. In the name of our glorious king, I’m paying 1 blinking piece of gold for every freshly killed rat you bring me. …
-Baxter: You seem strong! Do you want to help fighting the orcs? They prepare themselves for war! We need everyone who’s capable of killing greenskins! Ask me about the orc war if you are interested.
-Player: rat
-Baxter: Do you bring freshly killed rats for a bounty of 1 gold each? Ask me for a trade if you want to sell them.
-Player: orc war
-Baxter: I have already told you about your mission! Haven’t you wrote down everything in your logbook? Look in there if you need to refresh your memory.
-Player: trade
-Baxter: You need one bricklayer kit for each wall you want to repair or do you want to sell me fresh rats? I also buy orc teeth.
-Player: bricklayer kit
-Baxter: You need one kit for each wall. Ask me for a trade if you need some.
-Player: fuck / idiot / ass / fag / tyrant / stupid / shit / lunatic
-Baxter: Take this!
-Player: bye / farewell
-Baxter: LONG LIVE THE KING!
+Player: hi / hello  
+Baxter: LONG LIVE KING TIBIANUS!  
+Player: army / guard  
+Baxter: Our brave army, which protects our city, consists of three battle groups.  
+Player: battlegroup  
+Baxter: There are the Dogs of War, the Red Guards, and the Silver Guards.  
+Player: benjamin  
+Baxter: He was one of the king’s best generals, now he’s a bit …uhm… forgetful.  
+Player: bozo  
+Baxter: The royal jester. I don’t think he’s funny.  
+Player: castle  
+Baxter: His Royal Highness ordered that the castle be open for all his subjects.  
+Player: chester  
+Baxter: This man is paranoid, but I guess that’s useful in his job.  
+Player: city  
+Baxter: Now that the king returned, we will clean the city from all dubious persons.  
+Player: criminal  
+Baxter: Too many criminals roam our streets nowadays, the Red Guards will take care of them.  
+Player: dogs of war  
+Baxter: They are our main army.  
+Player: eclesius  
+Baxter: He’s harmless. But I doubt he’d be much help in the war against the orcs.  
+Player: excalibug  
+Baxter: Gorn and I searched for this weapon in the darkest corners of each dungeon, but we didn’t find the slightest hint.  
+Player: first dragon  
+Baxter: My grandfather had seen it with his own eyes!  
+Player: gorn  
+Baxter: An old friend of mine. He was once a great warrior and adventurer. Now he’s running a shop.  
+Player: how are you  
+Baxter: I’m healthy and vigilant.  
+Player: job / our  
+Baxter: I’m a proud member of the king’s army. It’s my duty to guard the castle. Sometimes I have to deal with less important work though.  
+Player: king / leader  
+Baxter: King Tibianus III is our wise and just leader!  
+Player: news  
+Baxter: It’s rumoured that Ferumbras is planning a new attack on this town.  
+Player: red guard  
+Baxter: They are our special forces. Some serve as city guards, others as secret police.  
+Player: sam  
+Baxter: He’s a fine blacksmith. Almost all of our weapons are made by him.  
+Player: secret police  
+Baxter: Ask a higher official about that.  
+Player: sell  
+Baxter: Visit Tibia’s shopkeepers to buy their fine wares.  
+Player: silver guard  
+Baxter: The best sorcerers, paladins, knights, or druids of our forces are chosen to serve as Silver Guards. They are the king’s bodyguards.  
+Player: stutch / harsky  
+Baxter: He’s a soldier of the Silver Guards.  
+Player: subject  
+Baxter: We all live under the benevolent guidance of our king.  
+Player: tbi  
+Baxter: There is almost nothing known about that organisation.  
+Player: partos  
+Baxter: He was wanted for a long time and was finally caught stealing some time ago.  
+Player: random word  
+Baxter: What’s that to do with this Partos guy?  
+Player: partos  
+Baxter: He was wanted for a long time and was finally caught stealing some time ago.  
+Player: fruit  
+Baxter: I heard he stole some fruit he’s obsessed with and got incautious.  
+Player: work / mission / quest  
+Baxter: We’ve got a rat problem in the sewers. In the name of our glorious king, I’m paying 1 blinking piece of gold for every freshly killed rat you bring me. …  
+Baxter: You seem strong! Do you want to help fighting the orcs? They prepare themselves for war! We need everyone who’s capable of killing greenskins! Ask me about the orc war if you are interested.  
+Player: rat  
+Baxter: Do you bring freshly killed rats for a bounty of 1 gold each? Ask me for a trade if you want to sell them.  
+Player: orc war  
+Baxter: I have already told you about your mission! Haven’t you wrote down everything in your logbook? Look in there if you need to refresh your memory.  
+Player: trade  
+Baxter: You need one bricklayer kit for each wall you want to repair or do you want to sell me fresh rats? I also buy orc teeth.  
+Player: bricklayer kit  
+Baxter: You need one kit for each wall. Ask me for a trade if you need some.  
+Player: fuck / idiot / ass / fag / tyrant / stupid / shit / lunatic  
+Baxter: Take this!  
+Player: bye / farewell  
+Baxter: LONG LIVE THE KING!  
