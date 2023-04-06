@@ -1,12 +1,15 @@
 import os
 import json
 
+print("Current working directory:", os.getcwd())
+
 def convert_md_to_json(folder):
     data = []
     for root, dirs, files in os.walk(folder):
         for file in files:
             if file.endswith(".md"):
                 filepath = os.path.join(root, file)
+                print(f"Opening file: {filepath}")
                 with open(filepath, "r") as f:
                     lines = f.readlines()
                 conversation = []
@@ -32,4 +35,3 @@ for conv in all_data:
 
 with open(os.path.join("..", "conversations.json"), "w") as f:
     json.dump(all_data, f)
-
