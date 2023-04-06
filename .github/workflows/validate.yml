@@ -4,8 +4,8 @@ on:
   pull_request_target:
     branches: [ main ]
     paths:
-      - 'tibia/npc/**'
-      - '!tibia/npc/conversations.json'
+      - 'npc/**'
+      - '!npc/conversations.json'
   workflow_dispatch:
 
 jobs:
@@ -24,5 +24,6 @@ jobs:
 
       - name: Validate changes
         run: |
-          cd tibia/npc
+          cd npc
           python ../src/validate.py
+
