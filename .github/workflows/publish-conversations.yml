@@ -26,39 +26,39 @@ jobs:
           cd npc
           python ../src/validate.py
 
-convert:
-  needs: validate
-  runs-on: ubuntu-latest
-  steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        ref: ${{ github.event.pull_request.head.sha }}
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-
-    - name: Print contents of conversations.json before conversion
-      run: |
-        cat npc/conversations.json
-
-    - name: Convert Markdown files to JSON
-      run: |
-        cd npc
-        python ../src/md_to_json.py
-
-    - name: Print contents of conversations.json after conversion
-      run: |
-        cat npc/conversations.json
-
-    - name: Commit conversations.json
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Update conversations.json"
-        file_pattern: npc/conversations.json
-        branch: ${{ github.head_ref }}
+  convert:
+    needs: validate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+  
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+  
+      - name: Print contents of conversations.json before conversion
+        run: |
+          cat npc/conversations.json
+  
+      - name: Convert Markdown files to JSON
+        run: |
+          cd npc
+          python ../src/md_to_json.py
+  
+      - name: Print contents of conversations.json after conversion
+        run: |
+          cat npc/conversations.json
+  
+      - name: Commit conversations.json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update conversations.json"
+          file_pattern: npc/conversations.json
+          branch: ${{ github.head_ref }}
 
   deploy:
     if: github.event_name == 'push'
