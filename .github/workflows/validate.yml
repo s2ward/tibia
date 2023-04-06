@@ -6,6 +6,7 @@ on:
     paths:
       - 'tibia/npc/**'
       - '!tibia/npc/conversations.json'
+  workflow_dispatch:
 
 jobs:
   validate:
