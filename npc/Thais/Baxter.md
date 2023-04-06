@@ -69,7 +69,7 @@ Player: trade
 Baxter: You need one bricklayer kit for each wall you want to repair or do you want to sell me fresh rats? I also buy orc teeth.  
 Player: bricklayer kit  
 Baxter: You need one kit for each wall. Ask me for a trade if you need some.  
-Player: fuck / idiot / ass / fag / tyrant / stupid / shit / lunatic  
+Player: fuck / idiot / ass / homophobic word / tyrant / stupid / shit / lunatic  
 Baxter: Take this!  
 Player: bye / farewell  
 Baxter: LONG LIVE THE KING!  

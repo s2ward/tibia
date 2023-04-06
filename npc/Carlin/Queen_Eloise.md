@@ -22,7 +22,7 @@ Player: Druids / Padreia
 Queen Eloise: The druids of Carlin are our protectors and advisors. Their powers provide us with wealth and food.  
 Player: Knight / Trisha  
 Queen Eloise: The knights of Carlin are the bravest.  
-Player: Paladins Ou  Legola  
+Player: Paladins /  Legola  
 Queen Eloise: The paladins are great hunters.  
 Player: Castle  
 Queen Eloise: It's my humble domain.  

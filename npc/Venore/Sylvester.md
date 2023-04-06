@@ -18,7 +18,7 @@ Player: silver guard
 Sylvester: Only the best of the best serve as silver guards.  
 Player: city  
 Sylvester: This city, a member of the Thaian kingdom, is under the protection of the Thaian army.  
-Player: ass / fuck / shit / idiot / stupid / fag / lunatic / tyrant  
+Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant  
 Sylvester: Take this!  
 Player: buy / sell  
 Sylvester: Ask the merchants of the city. There are more than enough.  

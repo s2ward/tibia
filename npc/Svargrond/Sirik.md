@@ -20,7 +20,7 @@ Player: Hrodmir
 Sirik: This big, icy rock you're standing at right now. The raiders live in the middle and south of the big Formorgar glacier.  
 Player: Sled  
 Sirik: You can ask Iskan to bring you with his Dog Sled to Nibelor.  
-Player: Magic Ou fruids  
+Player: Magic / fruids  
 Sirik: I heard Nelly talking about runes and fluids. Ask her.  
 Player: Nelly  
 Sirik: She is the post office clerk. Follow the moaning and you will find her.  
