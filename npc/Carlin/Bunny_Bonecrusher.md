@@ -29,7 +29,7 @@ Bunny Bonecrusher: HAIL TO QUEEN ELOISE, OUR NOBLE LEADER!
 Player: LEADER  
 Bunny Bonecrusher: Queen Eloise is a fine leader for our fair town, indeed!  
 Player: thais  
-Bunny Bonecrusher: It’s just a rotten hideout for drunks and men too lazy to do some serious work.  
+Bunny Bonecrusher: It’s just a rotten hideout for drunks and men too lazy to do some serious work.   
 Player: gods  
 Bunny Bonecrusher: I worship Banor, the first warrior!  
 Player: ferumbras  
