@@ -1,0 +1,88 @@
+Player: Hi  
+Turvy: Hello, dear Player. Can I be of any assistance? Just tell me if you’d like to trade weapons or armor.  
+Player: Name  
+Turvy: Some call me Turvy. Actually, everybody calls me Turvy.  
+Player: Job  
+Turvy: It is an absolute honour to provide weaponry and armor to the courageous adventurers of Thais, just so long as you have the gold to pay for it.  
+Player: Provide/Offer/Armor/Shields/Legs/Helmets/Stuff/Trousers  
+Turvy: My offers are weapons, armors, helmets, legs, and shields. If you’d like to see my offers, ask me for a trade.  
+Player: Magic  
+Turvy: Magic is a thing of the past. Why bother with a colourful bit of rock and a few fancy words when you can have a foot of razor-sharp steel in your hand?!  
+Player: Gamon  
+Turvy: Shhh! He’s a spy! He watches us all the time! Just keep smiling and he’ll go away!  
+Player: Eclesius  
+Turvy: There’s always some gossip on the street about him. I’ve never met him in person though. I guess he doesn’t need many weapons.  
+Player: Chester  
+Turvy: I have never heard any rumours concerning him, isn’t that odd?  
+Player: Rumours/Gossip/News  
+Turvy: You know a rumour? Well then – don’t keep it to yourself.  
+Player: Random word  
+Turvy: Go on! I can’t wait to hear more!  
+Player: King  
+Turvy: Ah, yes, yes, hail to King Tibianus! May he in his infinite wisdom reduce my taxes… and so on…  
+Player: Thais  
+Turvy: Thais is OK – I suppose. Not as nice as Venore, but good for business.  
+Player: Venore  
+Turvy: Ah… Venore – a wonderful city! Full of culture! So many friendly faces! So unlike Thais!  
+Player: Carlin  
+Turvy: Those women really know how to run things – look at how well the trade is going there!  
+Player: Ab’dendriel  
+Turvy: Aah… a beautiful leafy city. Shame about the elves.  
+Player: Elves  
+Turvy: Elves are good with a bow and arrow, or so I am told. Shame that they are no good at peace-making.  
+Player: Time  
+Turvy: It is nearly time for my afternoon nap, so please hurry!  
+Player: Help  
+Turvy: Help to self-help – that is my motto.  
+Player: Sam  
+Turvy: A simple shopkeeper, who was last in the queue when they were handing out intelligence.  
+Player: God  
+Turvy: The Gods of Tibia play games with the fate of Tibians – but they haven’t bothered to read the instructions.  
+Player: Weapons  
+Turvy: The word on the street is that Sam does not forge all his weapons himself, but buys them from his cousin, who is married to a cyclops.  
+Player: Sewer  
+Turvy: It is very effective, but attracts almost as many wannabe heroes as it does rats.  
+Player: Annoying  
+Turvy: Oh gosh – I could tell you some stories. But I won’t.  
+Player: Ardua  
+Turvy: Well – she isn’t really my kind of person. Please don’t mention her name again.  
+Player: Spells  
+Turvy: Spells – dodgy mumbo jumbo if you ask me. A sword never backfires on its user!  
+Player: Assistant  
+Turvy: I am not a mere assistant! I have a job of great responsibility! But mostly I keep annoying personages away from my boss.  
+Player: Benjamin  
+Turvy: Ah, such a shame about poor Benjamin. Lost it a bit after receiving one too many blows to the head.  
+Player: Bozo  
+Turvy: Bozo – such a tragic story. If only I could remember it.  
+Player: Quest  
+Turvy: Hmmm yes. I think Topsy might have something for you.  
+Player: Power  
+Turvy: There are people who talk about a rebellion against King Tibianus.  
+Player: Dungeon  
+Turvy: If you want to see dungeons go and insult the guards. On second thoughts – don’t do that.  
+Player: Dwarf  
+Turvy: I don’t know much about them – there are some civilised dwarves, of course, but I can never tell whether they are male or female.  
+Player: Elane  
+Turvy: A true tragedy – she has lost so many husbands in such unusual circumstances.  
+Player: Gamel  
+Turvy: Some sinister guy that is. He’s not allowed to enter that markethall and that’s for a good reason.  
+Player: Gorn  
+Turvy: He does a good line in second-rate scrolls for first-rate prices.  
+Player: How are you?  
+Turvy: I’m just fine and dandy, thank you for asking.  
+Player: Kazordoon  
+Turvy: You need to shrink before you go there – they say the dwarves aren’t too keen on sharing their mountain with us Tibians.  
+Player: Monster  
+Turvy: There is a monster here? HERE?! Time to double the prices!  
+Player: Partos  
+Turvy: Some thief they caught for all I know.  
+Player: Quentin  
+Turvy: You can’t teach an old monk new tricks. He is stubborn to the extreme and overly concerned about Thais. He should care more about his gods and less about that king.  
+Player: Rebellion  
+Turvy: Well, Venore is richer than Thais, and some people want to live in a democracy free from an oppressive tyrant – I mean monarch. I’m not one of them.  
+Player: Thank you  
+Turvy: So polite . . . bless you!  
+Player: Trade  
+Turvy: Of course, just browse through my wares.  
+Player: Bye/Farewell  
+Turvy: Good bye, Player. Do come again!  

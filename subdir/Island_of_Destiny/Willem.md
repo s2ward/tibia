@@ -1,0 +1,40 @@
+Player: hi  
+Willem: Hi there! You don't have an apple, by any chance?  
+Player: apple  
+Willem: I love apples! An apple a day keeps the doctor away. ...  
+Willem: Of course, a bow and some arrows will keep him at a safe distance as well. Ahem. ...  
+Willem: Do you have an apple with you?  
+Player: no  
+Willem: Oh, too bad. But I have a spare somewhere. I do tricks with them. ...  
+Willem: I can shoot that apple from your head with my bow! - No wait, don't run away, it's absolutely safe! I'm a dead shot at this!!  
+Player: bow  
+Willem: My favourite weapon. Unsurpassed in grace and beauty! ...  
+Willem: Spears and throwing stars are quite practical for hunting too, though. If you want to learn how to fight like a paladin, visit Shanoya. Second tent to the right, you can't miss it.  
+Player: Shanoya  
+Willem: She is top of our class and our combat trainer. Formidable with the spear! You should see her. A true huntress.  
+Player: name  
+Willem: I am Willem, prentice paladin to the honourable Narai.  
+Player: Narai  
+Willem: She is the paladin vocation trainer on the Island of Destiny. ...  
+Willem: Talk to her after the festival if you want to become a paladin, too!  
+Player: paladin  
+Willem: The noblest of vocations. Roam the forests as a ranger! Hunt with the hunters! Slay unholy beasts!  
+Player: ranger or hunter  
+Willem: A paladin rank. Sneak gracefully through the forests of Tibia and shoot clumsy monsters with your bow from afar!  
+Player: unholy  
+Willem: Undead creatures like mummies, ghouls or vampires. We paladins slay them with our unique gift of holy magic. But our primary weapon to hunt monsters is the bow or spear.  
+Player: magic  
+Willem: We paladins exclusively use holy magic, to slay undead and unholy creatures. Sorcerers and druids use the other forms of magic.  
+Player: Willem  
+Willem: Yes? You have something to tell me? Or an apple?  
+Player: yes  
+Willem: You do? Would you give it to me?  
+When you don't have a Red Apple with you:  
+Player: yes  
+Willem: Harhar. Nice try.  
+When you have a Red Apple with you:  
+Player: yes  
+Willem: Wow, thanks! <crunch> Red apples are the best! I do tricks with them, too. ...  
+Willem: I can shoot that apple from your head with my bow! - No wait, don't run away, it's absolutely safe! I'm a dead shot at this!!  
+Player: bye  
+Willem: Godspeed, and may we meet again as fellow rangers!  

@@ -1,0 +1,30 @@
+Player: Hi  
+Xodet: Oh, please come in, Player. If you need magical equipment such as runes or wands, just ask me for a trade.  
+Player: buy/stuff/sell/offer/equipment/runes/goods  
+Xodet: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you’d like to see all of my offers, ask me for a trade.  
+Player: potion  
+Xodet: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.  
+Player: rods  
+Xodet: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
+Player: wands  
+Xodet: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: Name  
+Xodet: I’m Xodet, the owner of this shop.  
+Player: Eclesius  
+Xodet: Eclesius is a good old friend of mine.  
+Player: job  
+Xodet: I’m a sorcerer and trade all kinds of magic items.  
+Player: trade  
+Xodet: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?  
+Player: disintegrate rune  
+Xodet: Sorry, but runes of this type can’t be purchased here.  
+Player: life fluid/mana fluid  
+Xodet: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: Vial  
+Xodet: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: no  
+Xodet: Hmm, but please keep Tibia litter free.  
+Player: Sorcerer  
+Xodet: There is a sorcerer guild in Thais. Just go to the south west of the town, it is easy to find.  
+Player: farewell/bye  
+Xodet: Good bye and come again.  

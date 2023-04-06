@@ -1,0 +1,52 @@
+Player: hi  
+Tamoril: Another pesky mortal who believes his gold outweighs his nutrition value.  
+Player: job  
+Tamoril: I share some of my eternal knowledge of spells with you humans … for a price of course. You should be grateful.  
+Player: name  
+Tamoril: My real name is not pronounceable for a human.  
+Player: mortal / human  
+Tamoril: You puny mortals are an annoyance. However, the little magic your simple minds are able to comprehend earns me enough money not to kill you.  
+Player: gold / money  
+Tamoril: I share some of my eternal knowledge of spells with you humans … for a price of course. You should be grateful.  
+Player: yalahar  
+Tamoril: The city is dying. It is mortal just like you and for this reason, it is insignificant. I will still be around when this city is long forgotten.  
+Player: dragon  
+Tamoril: Dragons are the most powerful creatures of the world. Every year, we gain more and more power. …  
+Tamoril: Hardly anyone of us dies of old age. Instead we find death by diseases brought to our race by you mortal pests, and countless of my younger brethren and sisters have been slaughtered by humans. …  
+Tamoril: Expect little from me mortal. And even for that little, you will have to pay dearly.  
+Player: magic  
+Tamoril: What you call magic is only a pale shadow of real magic. The more you try, the more magic will retreat from you. …  
+Tamoril: To us dragons magic comes natural. It is a part of us, and not a tool we have to learn to control like you do.  
+Player: Spells  
+Tamoril: I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.  
+Player: yalahari  
+Tamoril: They are strange beings at best. If I had any interest in mortals, I might be curious. Regardless of what they claim, they smell of mortality.  
+Player: alchemist quarter  
+Tamoril: I’m not surprised about the things that happened there. Humans are unable to handle the higher forces.  
+Player: magician quarter  
+Tamoril: Another bunch of humans who dabbles in the arcane arts to become godlike beings.  
+Player: alchemist quarter  
+Tamoril: I’m not surprised about the things that happened there. Humans are unable to handle the higher forces.  
+Player: factory quarter  
+Tamoril: You humans are unable to live on your own. You rely on your little tools and protection. Your sheer inferiority makes me sick.  
+Player: sunken quarter  
+Tamoril: That was only the beginning. I will be there when everything comes to an end.  
+Player: foreign quarter  
+Tamoril: A museum of races who will sooner or later be wiped out.  
+Player: arena quarter  
+Tamoril: Sometimes I fly there for some exercise.  
+Player: trade quarter  
+Tamoril: I’m not interested in your human quarrels.  
+Player: gods / banor  
+Tamoril: Gods are of no use for us dragons. One day, a dragon will become old and powerful enough to destroy all gods. Fear that day mortal, from then on the age of the dragons will have begun.  
+Player: animate dead  
+Tamoril: Do you want to learn the spell ‘Animate Dead Rune’ for 1200 gold?  
+Player: no / yes  
+Tamoril: Then not.  
+Tamoril: Here you are. Look in your spellbook for the pronunciation of this spell.  
+Player: blood crystal  
+Tamoril: If I had one, I’d surely add it to my treasure and not give it to you.  
+Player: trade  
+Tamoril: I usually prefer to plunder instead of a fair trade. However, I have enough gold and could use some more shiny valuables.  
+Player: bye  
+Tamoril: Come back if you dare, Player.  

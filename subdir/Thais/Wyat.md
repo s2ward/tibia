@@ -1,0 +1,74 @@
+Player: Hi  
+Wyat: Salutations, Player! Speak quick, my time is limited.  
+Player: Time/Sheriff  
+Wyat: I uphold law and order. I protect Thais inhabitants … and keep an eye on them.  
+Player: Inhabitants  
+Wyat: Be more specific! If you want to talk about someone I’ll need a name!  
+Player: Sam/Weapon/Armor  
+Wyat: Sam, the Thaian smith, is a man of great diligence. Whenever in need of weapons or armor, just ask him.  
+Player: Eclesius  
+Wyat: An old magician that lives south of here. I sometimes see strange smoke coming from his house.  
+Player: News  
+Wyat: I have no news for the public.  
+Player: Elane  
+Wyat: A woman of great skill and courage. No one deserves the title of a Grandmaster of the Paladins more then her.  
+Player: Benjamin  
+Wyat: The poor fool lost his mind some years ago. It’s a good thing they gave him a job in the post office.  
+Player: Bozo  
+Wyat: He’s so funny, I could listen to his jokes for hours.  
+Player: Gorn  
+Wyat: He was a rowdy in his youth, but now he’s a fine citizen as far as I can tell.  
+Player: Army/Guard  
+Wyat: I usually work with the townguards only.  
+Player: Chester  
+Wyat: His bureau is at the northgate.  
+Player: Mission/Quest  
+Wyat: Look up our ‘Tibia’s most wanted’ lists.  
+Player: Harsky/Stutch  
+Wyat: A fine warrior, indeed. He is one of the king’s bodyguards.  
+Player: Problem  
+Wyat: We will handle each problem with care.  
+Player: Rebellion  
+Wyat: Luckily that’s nothing I have to care about.  
+Player: Criminal  
+Wyat: Our enemies are numerous and not all are obvious.  
+Player: Castle  
+Wyat: The castle should be relatively safe from criminal transgressions.  
+Player: City  
+Wyat: The city is not as bad as some people might claim, but we certainly have our problems here.  
+Player: God  
+Wyat: I am follower of Banor.  
+Player: Banor  
+Wyat: He is the patron of justice and bravery.  
+Player: Zathroth  
+Wyat: Don’t mention this name!  
+Player: Job  
+Wyat: I am the sheriff of the Thaian territory.  
+Player: King/Leader  
+Wyat: HAIL TO KING TIBIANUS!  
+Player: General  
+Wyat: Old Bloodblade does a fine job.  
+Player: Fuck/Ass/Fag/Idiot/Lunatic/Shit/Tyrant  
+Wyat: Take this!  
+Player: Ferumbras  
+Wyat: He attacked our town at several occasions but was repelled each time.  
+Player: Brog  
+Wyat: The more primitive races such as orcs often worship the raging one.  
+Player: Sell  
+Wyat: I am in the safety business.  
+Player: Enemy/Murderer  
+Wyat: Our enemies are numerous and not all are obvious.  
+Player: Excalibug  
+Wyat: If you have any news about the whereabouts of that blade, report it to me.  
+Player: How are you?  
+Wyat: I am fine, thanks.  
+Player: Monster  
+Wyat: Thais should be relatively safe from direct assaults of monsters.  
+Player: Secret police  
+Wyat: All i can tell you is, that it’s known as the TBI.  
+Player: Subject  
+Wyat: There are certain criminal objects in the population of our town.  
+Player: Tbi  
+Wyat: The Tibian Bureau of Investigation. If you want to know more, ask Chester Kahs about it, but I doubt you’ll get any vital information.  
+Player: Bye  
+Wyat: LONG LIVE THE KING!  

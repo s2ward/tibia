@@ -1,0 +1,24 @@
+Player: random word (as a greeting word)  
+Noodles: Grrrr!  
+Player: hi / hello  
+Noodles: <sniff> Woof! <sniff>  
+Player: an  
+Noodles: Grrrr!  
+Player: ar  
+Noodles: Woof!  
+Player: bo  
+Noodles: <wiggle>  
+Player: ferumbras  
+Noodles: Meeep! Meeep!  
+Player: go  
+Noodles: Woof! Woof!  
+Player: king / tibianus / how are you  
+Noodles: Wooooof! <wiggle> <wiggle> <wiggle>  
+Player: queen / eloise / cat  
+Noodles: GRRRRRRR! WOOOOOOF! WOOOOOF! WOOOOOF!  
+Player: sniff banana / sniff fur / sniff cheese  
+Noodles: Woof!  
+Player: th  
+Noodles: <sniff>  
+Player: bye / farewell  
+Noodles: Woof! <wiggle>  
