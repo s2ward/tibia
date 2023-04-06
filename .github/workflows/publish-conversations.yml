@@ -75,8 +75,7 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
-        publish_dir: ./npc
+        publish_dir: npc
 
   deploy_ives:
     if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
@@ -93,8 +92,8 @@ jobs:
     - name: List contents of npc directory
       run: |
         ls -la ./npc
-    - name: Deploy to GitHub Pages using JamesIves/github-pages-deploy-action@4.4.1
-      uses: JamesIves/github-pages-deploy-action@4
+    - name: Deploy to GitHub Pages using JamesIves/github-pages-deploy-action@3
+      uses: JamesIves/github-pages-deploy-action@3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
