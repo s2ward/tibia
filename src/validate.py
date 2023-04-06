@@ -1,6 +1,7 @@
-printf("I am being run")
 import os
 import json
+
+print("Current working directory:", os.getcwd())
 
 def check_md_files_for_errors(folder):
     for root, dirs, files in os.walk(folder):
