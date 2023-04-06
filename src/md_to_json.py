@@ -18,20 +18,12 @@ def convert_md_to_json(folder):
                         speaker, text = line.strip().split(":", 1)
                         conversation.append({speaker.strip(): text.strip()})
                 data.append({"file": filepath, "conversation": conversation})
-    return data
+    
+    with open(os.path.join(folder, "conversations.json"), "w") as f:
+        json.dump(data, f)
+        print(f"Writing output file to: {os.path.join(folder, 'conversations.json')}")
 
 folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.join("..", "npc")) if os.path.isdir(os.path.join("..", "npc", folder))]
 
-all_data = []
-
 for folder in folders:
-    all_data.extend(convert_md_to_json(folder))
-
-# Remove extra newlines
-for conv in all_data:
-    for line in conv["conversation"]:
-        speaker = list(line.keys())[0]
-        line[speaker] = line[speaker].replace("\n\n", "\n")
-
-with open(os.path.join("..", "conversations.json"), "w") as f:
-    json.dump(all_data, f)
+    convert_md_to_json(folder)
