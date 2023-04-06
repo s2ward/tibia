@@ -6,6 +6,10 @@ on:
     paths:
       - 'npc/**'
       - '!npc/conversations.json'
+  push:
+    branches: [main]
+    paths:
+      - 'npc/conversations.json'
 
 jobs:
   validate:
@@ -40,18 +44,10 @@ jobs:
         with:
           python-version: 3.8
   
-      - name: Print contents of conversations.json before conversion
-        run: |
-          cat npc/conversations.json
-  
       - name: Convert Markdown files to JSON
         run: |
           cd npc
           python ../src/md_to_json.py
-  
-      - name: Print contents of conversations.json after conversion
-        run: |
-          cat npc/conversations.json
   
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
