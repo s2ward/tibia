@@ -76,6 +76,8 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./npc
+        keep_files: true
+        destination_dir: ./subdir
 
   deploy_ives:
     if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
@@ -88,7 +90,7 @@ jobs:
       run: |
         ls -la ./npc
     - name: Deploy to GitHub Pages using JamesIves/github-pages-deploy-action@3
-      uses: JamesIves/github-pages-deploy-action@4.4.1
+      uses: JamesIves/github-pages-deploy-action@3
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         branch: gh-pages
