@@ -1,7 +1,7 @@
 NPC: Kihil, The Guard  
 Player: hail emperor / hello emperor / salutations emperor  
 Kihil, The Guard: HAIL TO THE EMPEROR!  
-Player: fuck / ass / idiot / stupid / fag / tyrant / lunatic / shit  
+Player: fuck / ass / idiot / stupid / homophobic word / tyrant / lunatic / shit  
 Kihil, The Guard: How dare you!  
 Player: bye  
 Kihil, The Guard: LONG LIVE THE EMPEROR!  

@@ -32,7 +32,7 @@ Player: guard
 Walter, The Guard: I am a guard and proud of it.  
 Player: marvik / druid  
 Walter, The Guard: Marvik is the great druid of the local guild. You’ll find him by climbing up the citywalls at the east.  
-Player: ass / fuck / shit / idiot / stupid / fag / lunatic / tyrant  
+Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant  
 Walter, The Guard: Take this!  
 Player: banor  
 Walter, The Guard: Praise Banor! May the great warrior be with us!  

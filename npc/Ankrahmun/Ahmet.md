@@ -1,6 +1,6 @@
 Player: Hi  
 Ahmet: Be mourned pilgrim in flesh. I'm selling general goods.  
-Player: Offer Ou Buy Ou Wares  
+Player: Offer / Buy / Wares  
 Ahmet: My inventory of general goods and is large, ask me for a trade to take a look.  
 Player: Trade  
 Ahmet: Of course, just browse through my wares.  

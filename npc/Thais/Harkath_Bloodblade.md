@@ -76,7 +76,7 @@ Player: tbi
 Harkath Bloodblade: The Tibian Bureau of Investigation is something like a secret police. I don’t bother much about such things, I prefer my fights eye to eye.  
 Player: zathroth  
 Harkath Bloodblade: Don’t mention the dark one!  
-Player: fuck / idiot / ass / fag / shit / lunatic / tyrant / stupid  
+Player: fuck / idiot / ass / homophobic word / shit / lunatic / tyrant / stupid  
 Harkath Bloodblade: Take this!  
 Player: sell  
 Harkath Bloodblade: Are you suggesting that I’m bribable?  

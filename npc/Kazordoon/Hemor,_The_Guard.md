@@ -1,7 +1,7 @@
 NPC: Hemor, The Guard  
 Player: hail emperor / hello emperor / salutations emperor  
 Hemor, The Guard: HAIL TO THE EMPEROR!  
-Player: fuck / ass / idiot / stupid / fag / tyrant / lunatic / shit  
+Player: fuck / ass / idiot / stupid / homophobic word / tyrant / lunatic / shit  
 Hemor, The Guard: How dare you!  
 Player: bye  
 Hemor, The Guard: LONG LIVE THE EMPEROR!  

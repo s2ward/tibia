@@ -30,7 +30,7 @@ Player: Jarl
 Kjesse: The jarl oversees all affairs of common interest. We shamans oversee the spiritual affairs.  
 Player: Raiders  
 Kjesse: They enjoy violence and destruction. They are so wrong on their misguided way. That's all Yakchal's fault. She poisoned their minds with false ideas. She's a disgrace for all shamans.  
-Player: Shaman Ou druid  
+Player: Shaman / druid  
 Kjesse: Even though we call ourself shamans, our doctrines and our magic are quite similar to those of the druids.  
 Player: Chyll  
 Kjesse: That's the name of the spirit essence of the north wind.  
@@ -40,7 +40,7 @@ Player: Name
 Kjesse: I am Kjesse.  
 Player: Job  
 Kjesse: I am a shaman.  
-Player: Mission Ou task  
+Player: Mission / task  
 Kjesse: Your mission should be to become one with nature. That is maybe the only way to bear Chyll's icy breath.  
 Player: King  
 Kjesse: Our jarl is more of a spokesperson. We don't know any kings or queens here.  

@@ -14,7 +14,7 @@ Pyro Peter: However, with all three guards alive and a whole garrison of elves a
 Player: Revenge  
 Pyro Peter: It started with the rise of the temple of the bog god. It appeared over night. There were no witnesses except the creatures of the bog. ...  
 Pyro Peter: When the elves saw the monument the next day, they felt a strange and powerful presence. The elder god of the bog.  
-Player: Bog God, God Ou Bog  
+Player: Bog God, God / Bog  
 Pyro Peter: When the elder god rose in the bog outside of Shadowthorn, many fell for his mighty influence. ...  
 Pyro Peter: His powers so vast, his might so inconceivable, some elves turned to and followed him the very moment they set foot on the temple ground.  
 Player: Followed  
