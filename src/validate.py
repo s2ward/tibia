@@ -20,7 +20,9 @@ def check_md_files_for_errors(folder):
                         break
 
 
-folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.join("..", "npc")) if os.path.isdir(os.path.join("..", "npc", folder))]
+folders = [os.path.join("..", "..", "npc", folder) for folder in os.listdir(os.path.join("..", "..", "npc")) if os.path.isdir(os.path.join("..", "..", "npc", folder))]
+
+print("Current working directory:", os.getcwd())
 
 for folder in folders:
     check_md_files_for_errors(folder)
