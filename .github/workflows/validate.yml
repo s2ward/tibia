@@ -1,7 +1,7 @@
 name: Validate NPC changes
 
 on:
-  pull_request:
+  pull_request_target:
     branches: [ main ]
     paths:
       - 'tibia/npc/**'
@@ -11,15 +11,17 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
-    - name: Validate changes
-      run: |
-        cd tibia/npc
-        python ../src/validate.py
+      - name: Validate changes
+        run: |
+          cd tibia/npc
+          python ../src/validate.py
