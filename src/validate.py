@@ -1,6 +1,8 @@
 import os
 import json
 
+print("Current working directory:", os.getcwd())
+
 def check_md_files_for_errors(folder):
     for root, dirs, files in os.walk(folder):
         for file in files:
@@ -19,6 +21,8 @@ def check_md_files_for_errors(folder):
 
 
 folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.join("..", "npc")) if os.path.isdir(os.path.join("..", "npc", folder))]
+
+print("Current working directory:", os.getcwd())
 
 for folder in folders:
     check_md_files_for_errors(folder)

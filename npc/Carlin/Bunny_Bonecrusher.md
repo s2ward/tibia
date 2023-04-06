@@ -13,7 +13,7 @@ Bunny Bonecrusher: They are our main magic support and play a major role in our 
 Player: tactics  
 Bunny Bonecrusher: Our tactic is to kiss.  
 Player: kiss  
-Bunny Bonecrusher: K.I.S.S.! Keep It Simple, Stupid! Complicated tactics are too easy to be crushed by a twist of fate.  
+Bunny Bonecrusher: K.I.S.S.! Keep It Simple, Stupid! Complicated tactics are too easy to be crushed by a twist of fate.   
 Player: Green Ferrets  
 Bunny Bonecrusher: Our elite forces are trained by rangers and druids. In the woods they come a close second to elves.  
 Player: bonecrusher / sister  
