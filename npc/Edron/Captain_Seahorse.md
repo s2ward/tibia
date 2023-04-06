@@ -1,0 +1,27 @@
+Captain Seahorse: Passages to Thais, Carlin, Ab'Dendriel, Venore, Port Hope, Ankrahmun, Liberty Bay, Oramond, Cormaya, Gray Island and Krailos.
+Player: hi
+Captain Seahorse: Welcome on board, Sir Player. Where can I sail you today?
+Player: sail / passage / trip / go / town / destination
+Captain Seahorse: Where do you want to go? To Thais, Carlin, Ab'Dendriel, Venore, Port Hope, Ankrahmun, Liberty Bay or the isle Cormaya? I could also bring you to Gray Island, Oramond, Krailos - or to Travora - a place between the worlds.
+Player: job / captain
+Captain Seahorse: I'm the captain of this sailing ship.
+Player: name
+Captain Seahorse: My name is Captain Seahorse from the Royal Tibia Line.
+Player: ship / tibia / route / line / company
+Captain Seahorse: The Royal Tibia Line connects all seaside towns of Tibia.
+Player: edron
+Captain Seahorse: This is Edron. Where do you want to go?
+Player: ice / folda / senja / vega
+Captain Seahorse: I'm sorry, but we don't serve the routes to the Ice Islands.
+Player: passenger
+Captain Seahorse: We would like to welcome you on board.
+Player: good
+Captain Seahorse: We can transport everything you want.
+Player: darashia
+Captain Seahorse: I'm not sailing there. This route is afflicted by a ghost ship! However, I heard that Captain Fearless sails there from Venore.
+Player: darama
+Captain Seahorse: The only cities on Darama I travel to are Ankrahmun, and Port Hope.
+Player: ghost
+Captain Seahorse: Many people who sailed to Darashia never returned because they were attacked by a ghost ship! I'll never sail there!
+Player: bye
+Captain Seahorse: Good bye. Recommend us if you were satisfied with our service.

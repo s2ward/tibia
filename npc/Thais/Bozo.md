@@ -1,0 +1,150 @@
+Player: Hi
+Bozo: Hi there, how’s it hanging, Player! What brings you here?
+Player: Job
+Bozo: I’m the royal jes … uhm … the royal tax-collector! Do you want to pay your taxes?
+Player: Here
+Bozo: A fitting place for a jester. I guess there are worse jobs around.
+Player: Jester
+Bozo: Wow, your stupidity would be pride and joy for every fool. You’ve already applied as a member. Let’s rather talk about your current mission.
+Player: Name
+Bozo: My name is Bozo. But it’s more than a name, it’s a lifestyle for me!
+Player: Durin
+Bozo: Isn’t he the author of the book ‘Fun with Demons’?
+Player: King
+Bozo: Nah, no jests about His Royal Highness.
+Player: Eclesius
+Bozo: Mwehehehe I like that guys humour. Although his gags and puns are most likely not intended. I wonder how he’s doing, haven’t seen him for a while.
+Player: Orc
+Bozo: Why do orcs have green skin? … They ate at Frodo’s!
+Player: Mino
+Bozo: What do all little minotaurs want to become when they are grown-ups? … Cowboys, of course!
+Player: Dragon
+Bozo: Why do dragons breathe fire? … They ate too many sorcerers in chilli sauce!
+Player: Sorcerer
+Bozo: I wanted to become a sorcerer, too, but I was overqualified!
+Player: Druid
+Bozo: I wonder if they love my water squirt flowers as much as all other plants.
+Player: Knight
+Bozo: Did you notice that old knights have their scars only on their backs?
+Player: Paladin
+Bozo: They are the king’s favourites, because they know how to ‘bow’.
+Player: Tibia
+Bozo: I rarely leave the castle. It’s really stressful to be as popular as me.
+Player: Excalibug
+Bozo: I’m not foolish enough to believe in the existence of this weapon.
+Player: Bozo
+Bozo: That’s me: Bozo, the jester!
+Player: Gorn
+Bozo: He sells spell scrolls each day at midnight, but you have to address him that very second.
+Player: Joke
+Bozo: I know some ‘monstrous’ jokes!
+Player: Muriel
+Bozo: Better don’t mess with sorcerers!
+Player: Noodles
+Bozo: Hey, the little one is almost as funny as me!
+Player: Sam
+Bozo: Did you know that he sells a ‘power axe of doom’ now? Run and buy it, he only has got three in store.
+Player: Magic/Spells
+Bozo: I actually do know some spells! Do you want to learn how to ‘reduce your load’ for 200 gold?
+Player: Yes
+Bozo: Here you are, I’ve already reduced your load.
+Player: God
+Bozo: I better make no jokes about THIS matter.
+Player: Demon
+Bozo: Why are the experienced heroes quicker than others? … The demons love fast food!
+Player: Bonelord
+Bozo: Why are bonelords so ugly? … Because their mom and dad were bonelords, too!
+Player: Guild
+Bozo: Ever since the first guild was created, there is a great demand of jesters and fools to join them.
+Player: Magic/Spells
+Bozo: I actually do know some spells! Do you want to learn how to ‘reduce your load’ for 200 gold?
+Player: No
+Bozo: You don’t know what offer you are missing!
+Player: Benjamin
+Bozo: He would make a fine jester, too.
+Player: Kiss
+Bozo: Uh, go away!
+Player: Castle
+Bozo: This castle is my home. A fitting place for a jester and all other fools. Feel welcome.
+Player: Cousin
+Bozo: He died some years ago.
+Player: Cyclops
+Bozo: How many eyes does a cyclops have? … One for each IQ point they have!
+Player: Rat
+Bozo: Why does the rat have a wooden leg? … Because it is a former pirate!
+Player: Sell
+Bozo: Sell? Hmm, I know a little about magic and by chance I can sell you a truly unusual weapon.
+Player: Weapon
+Bozo: Do you want to buy a ‘mace of fury’ for 250 gold?
+Player: Yes
+Bozo: And here it is, suits you well!
+Player: Weapon
+Bozo: Do you want to buy a ‘mace of fury’ for 250 gold?
+Player: No
+Bozo: You don’t know what offer you are missing!
+Player: Elane
+Bozo: She’s pretty but too serious for my taste.
+Player: First Dragon
+Bozo: I heard he moved to a dungeon.
+Player: Flaming pit
+Bozo: Ah, don’t ask me! Usually mages and mystics know more about such stuff.
+Player: Fool
+Bozo: Wow, your stupidity would be pride and joy for every fool. You’ve already applied as a member. Let’s rather talk about your current mission.
+Player: Ghost
+Bozo: Why do ghosts flee if wounded? … They are so spineless!
+Player: Ghoul
+Bozo: Where do ghouls buy their robes? … In a boooohtique!
+Player: Spider
+Bozo: Why did the spider cross the road? … Because it … oh you already know this one!?
+Player: Gregor
+Bozo: A man of steel with a stomach of wax. Never offer him a beer!
+Player: Lynda
+Bozo: Most men in town are mad about her but she is some kind of an iron maiden, you know?
+Player: Help
+Bozo: I’m a jester, not a doctor!
+Player: Troll
+Bozo: Why do trolls live underground? … Because there are so many pks on the surface!
+Player: How are you?
+Bozo: Thank you, I’m fine, the gods are with me.
+Player: Hugo
+Bozo: I had a cousin named like that.
+Player: Time
+Bozo: Since you met me it is happy hour for you.
+Player: Jester outfit
+Bozo: I’m sure it suits you well.
+Player: Lady
+Bozo: Well, women don’t behave necessarily in a ladylike way just because they dress like one!
+Player: Marvik
+Bozo: Humourless old guy! Once, he turned me into a frog for painting his distasteful cave in pink.
+Player: Monster
+Bozo: I know a lot of monster jokes. Just tell me a monster’s name, come on.
+Player: Necromancer
+Bozo: Don’t feed the necromancers.
+Player: Necromant nectar
+Bozo: Pheeew! That sounds disgusting! Are you a cook at Frodo’s?
+Player: News
+Bozo: I know the newest jokes in Tibia.
+Player: Oswald
+Bozo: If you believe half the rumours he’s spreading, you will get in a lot of trouble.
+Player: Poodle/Dog
+Bozo: Are we talking about Noodles?
+Player: Quentin
+Bozo: He’s my baby brother. If you tell him I sent you, he will grant you an extra spell or two.
+Player: Vial
+Bozo: Since you were foolish enough to lose the vial, you are probably foolish enough to buy another one for 1000 gold?
+Player: No
+Bozo: What a shame.
+Player: Vial
+Bozo: Since you were foolish enough to lose the vial, you are probably foolish enough to buy another one for 1000 gold?
+Player: yes
+Bozo: Here you are. Feel free to lose it again.
+Player: Stephan
+Bozo: He is kind of a father figure to me. Of course he denies all kinship to me.
+Player: Steve
+Bozo: He’s a smart one. I heard he hid in a foreign country when the first bugs showed up.
+Player: wallcarving
+Bozo: Oh, I saw some demon carvings in the dungeons as I hid there after a little joke on old Stutch.
+Player: demoncarving
+Bozo: Yes, they showed demons, seven actually, dancing around a sword! In something like a flaming pit.
+Player: Bye/Farewell
+Bozo: Remember: A joke a day keeps the ghouls away!

@@ -1,0 +1,6 @@
+Player: Hi
+A Wandering Soul: Is that you...? No... it's not... she never woke up again... the pain... cursed... to wander... Leave me alone in my mourning...
+Player: Hi
+A Wandering Soul: I saw you... who are you... what do you want from me...?
+Player: Name
+A Wandering Soul: No... I don't think I can help you... leave me alone in my mourning...

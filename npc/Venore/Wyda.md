@@ -1,0 +1,166 @@
+Player: hi
+Wyda: Wyda: What? Talking to me, Player?
+Wyda: What? A mundane talking to me? Amusing.
+Player: hello
+Wyda: Good day, Player.
+ Wyda:
+Player: job / profession
+Wyda: I am a witch. Didn't you notice?
+Player: name
+Wyda: My name is Wyda, and what's yours?
+Player: my name is seu nome
+Wyda: Nice to meet you.
+Player: sister / witches
+Wyda: Some sisters of mine are having a meeting nearby. Don't disturb them, or they will get angry and attack you.
+Player: witch
+Wyda: Aye, I'm a witch.
+Player: mother
+Wyda: Of course my mother was also a witch!
+Locais e Cidades:
+Player: thais
+Wyda: I've heard stories about that city. It's nowhere near here, that's all I can tell you about it.
+Player: stories
+Wyda: Thais is an overcrowded place inhabited by brutal murderers. At least that's what I've been told.
+Player: kazordoon
+Wyda: Isn't that the name of the little bearded fellows' town?
+Player: carlin
+Wyda: Carlin is a beautiful town, but far from here. Do you live there?
+Player: i live in qualquer cidade
+Wyda: That's nice.
+Player: plains of havoc
+Wyda: Many tales exist about the so-called Plains of Havoc. It seems to be a dangerous place.
+Player: tibia
+Wyda: Tibia is the name of our continent.
+Criaturas:
+Player: hunter
+Wyda: To the east, there is a little settlement of hunters. They are cruel humans who attack everything they see.
+Player: giant spider
+Wyda: Yes, there is such a thing in the east, on a small island. It's very powerful.
+Player: bonelord
+Wyda: Bonelords? Strange creatures that have mysterious magical abilities.
+Player: slime
+Wyda: There's lots of slime around. It is said that they live from the swamp water.
+Player: black knight
+Wyda: A black knight? Black is the colour of witches, why would a knight wear black?
+Player: sorcerer
+Wyda: Sorcerers have forgotten about the root of all beings: nature.
+Player: paladin
+Wyda: Paladins can use bows, but no brains.
+Player: knight
+Wyda: Knights succumb to the blindness of rage and the desire for violence and blood.
+Player: druid
+Wyda: Druids are mostly fine people. I'm always happy when I meet one. After all, they are often a bit less prejudiced against my profession.
+Player: tibianus / ferumbras
+Wyda: Haha, that's a stupid name. Who's that?
+Player: bridge
+Wyda: There's a bridge to the west, but it's guarded by dwarfs.
+Player: dwarf / dwarves / little fellows
+Wyda: The little bearded fellows have a town somewhere to the north-west.
+Player: queen
+Wyda: Eloise is the queen of Carlin. I don't care much about royals as long as they don't try to tax me.
+Player: king
+Wyda: There are too many royals on this continent if you ask me...
+Player: time
+Wyda: I think it is the fourth year after Queen Eloise's crowning, but I cannot tell you date or time.
+Player: evil
+Wyda: Evilness doesn't scare me.
+Player: help
+Wyda: I can only help with knowledge. About what do you want me to tell you something?
+Player: buy / offer
+Wyda: I'm currently not selling anything.
+Player: sell
+Wyda: There's nothing I need right now, thanks.
+Player: key
+Wyda: I keep my keys where they belong - in my pocket.
+Player: monster / creature
+Wyda: Many creatures live in, around and beneath the swamp. Be careful!
+Player: swamp
+Wyda: Be careful of the swamp water, it's poisonous!
+Player: herbs
+Wyda: The swamp is home to a wide variety of herbs, but the most famous is the blood herb.
+Player: nature
+Wyda: There are many swamp plants, mushrooms and herbs around here.
+Player: plant
+Wyda: There are many kinds of swamp plants, some can be used for potions, some not.
+Player: potion / secret / recipe
+Wyda: The recipe of the potions is one of the witches' secrets!
+Player: mushroom
+Wyda: Mushrooms taste good and are useful for potions.
+Player: heal
+Wyda: I don't have any healing potions available right now.
+Player: god
+Wyda: I believe that nature itself is God.
+Player: magic / spell
+Wyda: The magic of the witches is one of our secrets!
+Player: granny weatherwax / nanny ogg
+Wyda: I think I've heard that name before...
+Player: voodoo
+Wyda: I don't practice such nonsense, that's just a rumour.
+Player: coffin
+Wyda: That's none of your business.
+Player: gold / platinum
+Wyda: Money means nothing to me.
+Player: cookie
+Wyda: I bake cookies now and then in my spare time.
+Player: orange
+Wyda: I love exotic fruits. I import oranges from the south sometimes, but that's very expensive.
+Player: broom
+Wyda: What about it?
+Player: fly broom
+Wyda: Haha, no... where did you get that idea? I use it to sweep my platform.
+Player: platform
+Wyda: This platform and house were built by my mother, long ago.
+Player: crystal ball
+Wyda: It's a magical item that only witches can use.
+Player: earthquake
+Wyda: The earth in this region shakes now and then. Foolish people think that this is because the gods are angry.
+Player: become a witch
+Player: man
+Wyda: There are only female witches.
+Player: wand
+Wyda: I use a wooden wand. Why are you asking?
+Player: power wand
+Wyda: The power of the wand can only be used by witches.
+Player: quest
+Wyda: A quest? Well, if you're so keen on doing me a favour... Why don't you try to find a blood herb?
+Player: blood herb
+Wyda: The blood herb is very rare. This plant would be very useful for me but I don't know any accessible places where it can be found.
+Player: bye
+Wyda: Good luck on your journeys, Player.
+Durante a Mini World Change Bored Witch:
+Player: hi
+Wyda: I'm bored! Bored bored bored! Nothing ever happens here!
+Player: job / profession
+Wyda: I think witches these days are underpaid. Who needs a witch anyway?
+Player: name
+Wyda: You should know me after all these years!
+Player: sister / witches
+Wyda: Some sisters of mine are having a meeting nearby. Don't disturb them, or they will get angry and attack you.
+Player: giant spider
+Wyda: Oooooh why are you asking? *whistles*
+Player: dwarf / dwarves / little fellows
+Wyda: They surely have something to compensate for.
+Player: time
+Wyda: It's about time SOMETHING HAPPENED HERE!
+Player: help
+Wyda: Help's not in store today. Sorry. Mwihihihi.
+Player: monster / creature
+Wyda: Many creatures live in, around, and beneath the swamp. Be careful... MWIHIHIHIHIHI.
+Player: magic / spell
+Wyda: I want to invent a new spell. I just need a good idea.
+Player: crystal ball
+Wyda: Let me take a look... ah, yes, you'll have a good day. Or maybe a bad one. Doesn't really say it clearly.
+Player: quest
+Wyda: To be honest, I'm drowning in blood herbs by now.
+Player: blood herb
+Wyda: To be honest, I'm drowning in blood herbs by now. But if it helps you, well yes.. I guess I could use another blood herb...
+Player: blood herb (tendo uma blood herb na sua backpack)
+Wyda: Arrr... here we go again.... do you have a #$*§# blood herb for me?
+Player: no
+Wyda: Arrr... here we go again.... do you have a #$*§# blood herb for me?
+Player: yes (recebendo uma witchesbroom)
+Wyda: Thank you -SOOO- much! No, I really mean it! Really! Here, let me give you a reward...
+Player: yes (recebendo um torn teddy)
+Wyda: Thank you -SOOO- much! No, I really mean it! Really! Ah, you know what, you can have this old thing...
+Player: bye
+Wyda: NO! Don't go! I need someone to entertain me!

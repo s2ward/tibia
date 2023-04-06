@@ -1,0 +1,148 @@
+Player: hi / hello
+Romir: Greetings, traveller. I’m a magical trader and trainer for sorcerer spells. How may I help you?
+Player: banor
+Romir: Banor is revered by many knights.
+Player: barbarian
+Romir: The barbarians are a bit rough, but most of them are honest and trustworthy people.
+Player: bonelord
+Romir: I would not be too surprised if that ancient race were found in some deep cave, even here in the North.
+Player: how are you
+Romir: I am fine, thank you.
+Player: camps
+Romir: South of here, the raiders have at least three more or less steady camps.
+Player: carlin
+Romir: Carlin is probably more tolerable than Thais but I am no friend of cities in general.
+Player: chakoya
+Romir: The chakoyas are of a malicious intelligence which is quite similar to humans’. Only the fact that they still rely on instinctive behaviour patterns keeps them somewhat at bay.
+Player: chyll
+Romir: The barbarians see the icy north wind as an own entity. I think they might be right about that.
+Player: cult
+Romir: There something sinister going on and I am quite sure this cult you just mentioned is somehow connected to it.
+Player: druid
+Romir: The druids have more in common with the shamans than they might believe.
+Player: shaman
+Romir: The local shamans are as powerful as some of the druids of Carlin, perhaps even more powerful. Their magic is strangely related to each other and their main difference is their philosophy.
+Player: dwarf
+Romir: Dwarfs are quite settled. Even if the mines were recaptured, I doubt that we would see more than a handful of dwarfs here.
+Player: elf
+Romir: The elves have no business at all over here.
+Player: enemy / enemies
+Romir: I am not interesting enough for possible enemies.
+Player: everspring
+Romir: It’s a place for the afterlife. Who can tell if the barbarians are not right about this?
+Player: excalibug
+Romir: There is no legend that connects excalibug with the north. I suggest to continue your search somewhere else.
+Player: ferumbras
+Romir: One has to admit the power he accumulated is awesome and he even left mortality behind.
+Player: god
+Romir: The eyes of the gods certainly rest even on this icy place.
+Player: jarl / leader
+Romir: The title of the jarl is currently held by Sven the Younger. He is the spokesperson of his people in times of peace and a kind of chieftain in times of war.
+Player: join / honourary
+Romir: There is some kind of test you can take to become an honourary barbarian. Talk to Sven the Younger about that issue.
+Player: king
+Romir: Not even the king’s arm reaches this remote place.
+Player: queen
+Romir: I doubt the queen even knows that this place exists.
+Player: mines
+Romir: All this hassle about these mines seems so stupid. As if this had been the only place with ore in the world.
+Player: monster
+Romir: My spells keep most monsters at bay. Not that many would come close to Svargrond anyway.
+Player: name
+Romir: I am known as Romir.
+Player: news
+Romir: If I cared about news, I hadn’t chosen this remote spot to settle down.
+Player: nibelor
+Romir: That’s the place where the shamans meet. It’s some kind of spiritual centre of the shaman community.
+Player: port hope / edron
+Romir: Such far away places are of little importance here.
+Player: svargrond
+Romir: I prefer loneliness over the busy hassle in a city. I guess that’s why they call us hermits after all.
+Player: raiders
+Romir: The raiders are lead by a ruthless witch. That makes them even more dangerous.
+Player: witch
+Romir: That woman is a powerful spell caster. She rules with an iron hand. Her tactics are intimidation and agitation. It’s only a question of time that she is going to wage a rigorous attack on Svargrond, driven by her greed.
+Player: sell
+Romir: I teach some spells and sell runes and potions.
+Player: thais
+Romir: Thais is a good example why people should become hermits.
+Player: uman
+Romir: Uman stands for a quite specified kind of magic. Not everyone will feel comfortable with it.
+Player: zathroth
+Romir: The forbidden knowledge Zathroth has to offer can surely be tempting.
+Player: venore
+Romir: Venore is so absorbed in mundane wealth that it is only a matter of time before it devours itself.
+Player: year of the serpent
+Romir: Ah yes. An odd occurrence. I am quite convinced some strong magic was involved but I have no idea how or why.
+Player: yeti
+Romir: The most yetis have been seen further south. Of course only because they are much more easily overlooked in the rugged mountains and huge snow plains here.
+Player: job
+Romir: I guess one could call me a hermit. I am a bit new to this hermit business though and I have to admit I enjoy some company now and then. I also earn some money by teaching spells to those in search of knowledge.
+Player: spell
+Romir: Sorry, I don’t teach spells for your vocation.
+Player: rune
+Romir: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you’d like to see my offers, ask me for a trade. If you want me to teach you, ask me about spells.
+Player: potion
+Romir: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.
+Player: buy / offer / goods / ware / stuff / equipment
+Romir: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you’d like to see my offers, ask me for a trade. If you want me to teach you, ask me about spells.
+Player: deposit / vial / flask
+Romir: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?
+Player: yes
+Romir: Here you are … 905 gold.
+Player: deposit / vial / flask
+Romir: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?
+Player: no
+Romir: Hmm, but please keep Tibia litter free.
+Player: fluid
+Romir: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.
+Player: rod
+Romir: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?
+Player: yes
+Romir: The names of the rods are ‘Snakebite Rod’, ‘Moonlight Rod’, ‘Necrotic Rod’, ‘Northwind Rod’, ‘Terra Rod’, ‘Hailstorm Rod’, ‘Springsprout Rod’ and ‘Underworld Rod’.
+Player: Snakebite Rod
+Romir: This earth rod is only for druids of level 7 and above. If you’d like to buy one, ask me for a trade.
+Player: Moonlight Rod
+Romir: This ice rod is only for druids of level 13 and above. If you’d like to buy one, ask me for a trade.
+Player: Necrotic Rod
+Romir: This death rod is only for druids of level 19 and above. If you’d like to buy one, ask me for a trade.
+Player: Northwind Rod
+Romir: This ice rod is only for druids of level 22 and above. If you’d like to buy one, ask me for a trade.
+Player: Terra Rod
+Romir: This earth rod is only for druids of level 26 and above. If you’d like to buy one, ask me for a trade.
+Player: Hailstorm Rod
+Romir: This ice rod is only for druids of level 33 and above. If you’d like to buy one, ask me for a trade.
+Player: Springsprout Rod
+Romir: This earth rod is only for druids of level 37 and above. If you’d like to buy one, ask me for a trade.
+Player: Underworld Rod
+Romir: This death rod is only for druids of level 42 and above. If you’d like to buy one, ask me for a trade.
+Player: wand
+Romir: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?
+Player: yes
+Romir: The names of the wands are ‘Wand of Vortex’, ‘Wand of Dragonbreath’, ‘Wand of Decay’, ‘Wand of Draconia’, ‘Wand of Cosmic Energy’, ‘Wand of Inferno’, ‘Wand of Starstorm’ and ‘Wand of Voodoo’.
+Player: Wand of Vortex
+Romir: This energy wand is only for sorcerers of level 7 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Dragonbreath
+Romir: This fire wand is only for sorcerers of level 13 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Decay
+Romir: This death wand is only for sorcerers of level 19 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Draconia
+Romir: This fire wand is only for sorcerers of level 22 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Cosmic Energy
+Romir: This energy wand is only for sorcerers of level 26 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Inferno
+Romir: This fire wand is only for sorcerers of level 33 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Starstorm
+Romir: This energy wand is only for sorcerers of level 37 and above. If you’d like to buy one, ask me for a trade.
+Player: Wand of Voodoo
+Romir: This death wand is only for sorcerers of level 42 and above. If you’d like to buy one, ask me for a trade.
+Player: trade
+Romir: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?
+Player: potions
+Romir: Have a look. You can also look at wands or runes.
+Player: wands
+Romir: Have a look. You can also look at potions or runes.
+Player: runes
+Romir: Have a look. You can also look at wands or potions.
+Player: bye
+Romir: Good bye.

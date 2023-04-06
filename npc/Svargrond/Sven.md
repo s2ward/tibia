@@ -1,0 +1,116 @@
+NPC: Sven
+Note: Transcription made after completing the Barbarian Test Quest
+Player: hi
+Sven: Be greeted, Player! What brings you here?
+Player: army / guard
+Sven: We don’t have an army and we don’t need one. Even if the raiders call us weak, everyone of us knows how to fight. …
+Sven: All adults serve as guards for some days each month as a service for the community.
+Player: banor
+Sven: He’s a warrior god as far as I understood it. Well, in the end you have to fight your battles by yourself and not some mystic entity.
+Player: barbarian
+Sven: A true barbarian is something special among our people. Everyone who wants to become a barbarian will have to pass the barbarian test.
+Player: bonelord
+Sven: There are no such creatures on these isles and I doubt they even exist. I mean come on, floating blobs with numerous eyes, sounds like a fairy tale to me.
+Player: bones / how are you
+Sven: There is something in the air that worries me. A great evil is threatening all of us. …
+Sven: I might not have the gift of dreams that foresee the future like my mother did, but I seem to have inherited some of her gift nonetheless. Sometimes I just feel that something is about to happen. …
+Sven: And this time it’s something sinister and evil that threatens us all.
+Player: camps
+Sven: The raiders’ camps are mainly located in the south-western part of the isle. The camps are named after the major clans of the raiders: Ragnir, Bittermor and Grimhorn.
+Player: carlin
+Sven: We are friends of the Carliners. Still we don’t allow their politics to influence our way to handle things here.
+Player: chakoya
+Sven: The chakoyas are neither beast nor man. Yet, they share the worst and more dangerous traits of both of them. Their small and furry appearance can be very misleading at first glance. …
+Sven: But as soon as you’ve seen a pack of chakoyas literally shredding a mammoth into pieces with their claws and teeth, all misconceptions will be gone.
+Player: chyll
+Sven: Father north wind is called Chyll by our people. He is an unforgiving hunter. He knows no mercy with the weak. …
+Sven: Chyll is a harsh god and the best you can do is to avoid his attention. Only the shamans and druids deal with him.
+Player: city
+Sven: Our people lived as nomads some generations ago. The contact with Carlin taught us another way of living. …
+Sven: We did not like everything about it but we are not stupid. We have seen the many advantages. …
+Sven: If you cannot adapt to this land, you are dead and so we adapted to it and built this city. When the contact to Carlin got lost during the years of the serpents, we kept this city alive. …
+Sven: And we survived, even though the raiders did their best to make us fail.
+Player: cult
+Sven: I don’t care what people who come here believe in. If they provoke father Chyll, he will take care of them on his own. If their gods prove to be more powerful than Chyll, they might deserve to live.
+Player: druid / shaman
+Sven: Most shaman and druids of our people live on the sacred isle Nibelor. There, they divine the future, calm the wrath of father Chyll and prepare the dead for their last travel to the lands of Everspring.
+Player: dwarfs
+Sven: I met some of those little people in the past. Considering our experience with the chakoyas, we don’t underestimate someone just for its look. And those dwarfs proved indeed to be powerful, courageous and enduring.
+Player: elf
+Sven: Some time ago, a few elves came here but they could not stand the cold and so they left pretty soon. Most likely it was Nibelor in which they have been interested.
+Player: enemy / enemies
+Sven: Our enemies are numerous. Those of our people that we call the raiders are full of hate towards us. Then there are the voracious chakoyas that leave their icy homes to kill and slaughter from time to time …
+Sven: Sometimes, the great ice dragons find their way here to wreak havoc, and there are many more hungry beasts of all kinds.
+Player: everspring
+Sven: Everspring is the realm of the dead. It is a place of peace and harmony where those who boldly braved the challenges of life dwell for eternity and share stories at the campfires after a hunt. …
+Sven: Every true barbarian that is properly brought into afterlife will join the great hunt in Everspring where the animals are fat and have the thickest furs.
+Player: excalibug
+Sven: On the campfire, there are numerous tales about this weapon. It’s told that it has been missing since ages …
+Sven: In my opinion, the power and fame of a weapon shouldn’t exceed the power and fame of it’s wielder. And I have not heard of any hero whose fame would surpass that of excalibug.
+Player: ferumbras
+Sven: Even here we heard about this powerful man. Travellers from the south only dare to whisper his name.
+Player: god
+Sven: We know of father Chyll and his freezing breath. We care little for other gods. It is foolish to meddle with beings that are so powerful. …
+Sven: We leave it to the druids and shamans to handle such affairs.
+Player: here
+Sven: I am the jarl of my people. It’s an honour and I am very proud of it.
+Player: ice dragons
+Sven: The dragons on our isles have adapted to the climate as every creature here. Instead of being aligned to fire, they became creatures of the cold. …
+Sven: They are fierce and dangerous but, luckily, they only prey on beasts of the sea or those that wander the ice near their lairs.
+Player: jarl / leader
+Sven: I am more than just the spokesman and highest judge among my people. I don’t raise taxes, and when the clans feel that it is necessary, I will be replaced by another jarl.
+Player: join
+Sven: You might become an honorary barbarian if you manage to pass the barbarian test.
+Player: king / queen
+Sven: We don’t need any kings and queens here. Being the jarl of my people, I see that the laws are followed.
+Player: mines
+Sven: A long time ago when the trade with Carlin was flourishing, people actually worked in the mines. …
+Sven: During the years of the serpents, the mines had been abandoned. Later, the raiders took shelter there, although they blame us for living in a fortified city. …
+Sven: Now, the traders of Carlin are back but some other foreigners seem to have claimed the mines from the raiders. …
+Sven: It’s neither our business nor would we have the manpower to help them to recapture the mines. Also, if they do not have the strength to get the mines back on their own, they don’t deserve them anyway.
+Player: monster
+Sven: There are many dangerous creatures that roam our isles. But having seen what men can do to each other, I wouldn’t call any of them a monster.
+Player: mother
+Sven: My mother was that what my people call a witch. That is someone who has special magical abilities without any training on Nibelor. …
+Sven: She used her powers more instinctively to amplify her healing skills when herbs would not suffice. She also had the gift to foretell the future. …
+Sven: At first, the druids of Nibelor scorned her, but later they accepted her for her abilities and good intentions.
+Player: name
+Sven: I am Sven the Younger. My father, Sven the Elder has been missing in the ice waste since I was young. But unless one of our people is buried properly, we assume that he is still in the realm of the living. …
+Sven: Therefore, I am still known as ‘the Younger’, even though I have grown old.
+Player: news
+Sven: There is something evil going on. I have it in my bones.
+Player: nibelor
+Sven: Nibelor has always been a sacred place for our people. The druids and shamans live there.
+Player: people
+Sven: Our people are simple and honest. We don’t like the scheming ways of the city dwellers that live on the main continent.
+Player: port hope / edron
+Sven: We have heard only little about this far away place.
+Player: raiders
+Sven: In the past, all barbarian tribes roamed the lands of Chyll as nomads. When the Carliners came here and the trade flourished, we used the resources to build this permanent settlement. …
+Sven: Some of our people claimed that it was wrong to settle down and to abandon the ancient ways. A female shaman rose in the ranks of those who opposed the erection of a settlement. …
+Sven: She gathered all those who were not content, who did not want any foreign influence and who refused to learn. …
+Sven: They tried to destroy everything our ancestors had built, but with the help of the Carliners they were stopped and driven away. Now they still roam the land and attack everyone they see. …
+Sven: They became the raiders, our worst enemy. Nowadays, there are three larger tribes that often build camps in the South of our land. …
+Sven: And after all those years, surviving several generations, this female shaman is still their leader.
+Player: rumours
+Sven: It’s an old tale but it persists in the minds of the Svargrondar. It is about my father. There are rumours that he is still alive. …
+Sven: People regularly report about seeing him on top of the cliff right next to Svargrond. I myself would be glad if finally his corpse were found. Then I would be jarl ‘Sven the Elder’ ….. sounds much better.
+Player: santa claus
+Sven: We heard that this mythical dwarf lives somewhere on the southern Ice Islands.
+Player: sell
+Sven: I don’t sell anything. If the people accept you, they might be willing to trade with you.
+Player: test / mammoth / mission / quest
+Sven: You have braved all three tests and are now an honorary barbarian.
+Player: thais
+Sven: We understand that our friends from Carlin are wary with the realm ruled by Thais but this is not of our concern.
+Player: uman
+Sven: It’s some light side of mythical powers. Such things should only be dealt with by druids or shamans.
+Player: venore
+Sven: We did not allow them to stay here. This had nothing to do with our friendship with Carlin but for the way they handled things and their harmful approach to go hunting.
+Player: years of serpents
+Sven: For more than two generations no ship had reached our shores because the giant sea serpents attacked and sank most ships that tried to travel here. …
+Sven: Not long ago the sea serpents disappeared as suddenly as they had come. Now ships visit us again on a regular base.
+Player: yeti
+Sven: The yetis are mythical beasts. Only few that encountered those creatures lived to tell the tale. The chakoyas worship them as divine beings, although they have no real relations to them as far as we can tell.
+Player: bye
+Sven: May wind and weather be with you, Player.

@@ -1,0 +1,6 @@
+Player: hi
+Shanoya: Hi there, name's Shanoya. So. Tylius has got all the fancy magic, and in here, we're handing out spears. I know what you think: boring. Huh. Do you want me to go on? Yes?
+Player: yes
+Shanoya: Really? Oh, I wasn't expecting that. Well, Paladins can also use distance weapons. The difference is, they use real spears. Not that magic fluff 'n' puff ...
+Shanoya: You see that CHEST over there? Take some spears out of it and see if you can hit the party skeletons over there. Be careful not to hit yourself, though. There's a chance your spear may BREAK - if so, get a new one from the chest every 60 seconds. ...
+Shanoya: You need to equip your spear in your weapon slot, RIGHT-CLICK on a MONSTER on the map or BATTLE LIST, then choose 'ATTACK'. If you are done with it like me, proceed to the next tent. Which I can't. <sigh>

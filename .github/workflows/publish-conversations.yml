@@ -1,0 +1,43 @@
+name: Convert NPC Markdown files to JSON
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'tibia/npc/**'
+      - '!tibia/npc/conversations.json'
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Convert Markdown files to JSON
+      run: |
+        cd tibia/npc
+        python ../src/md_to_json.py
+
+    - name: Commit and push changes to GitHub Pages
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "GitHub Actions"
+        author_email: "actions@github.com"
+        message: "Update conversations.json"
+        add: "tibia/npc/conversations.json"
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Push changes to GitHub Pages
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages
+
+

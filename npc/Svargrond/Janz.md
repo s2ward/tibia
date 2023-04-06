@@ -1,0 +1,96 @@
+Player: hi / hello
+Janz: HAIL to the Warlord of the arena! Player, Hero of Svargrond! Welcome to my shop of wonderful carpentry and furniture.
+Player: barbarian
+Janz: I am proud to be a barbarian, even though a civilised one of course.
+Player: bonelord
+Janz: I can’t imagine what they look like.
+Player: how are you
+Janz: It could be worse I guess.
+Player: camps
+Janz: There are some raiders that live in primitive camps with little comfort.
+Player: carlin
+Janz: I visited Carlin once and I was very impressed. They used less wood then I’d expected but it was a marvellous town.
+Player: chakoya
+Janz: The chakoyas are real. My grandfather got killed by them.
+Player: chyll
+Janz: Father north wind knows best.
+Player: cult
+Janz: I don’t even understand what that means.
+Player: druid
+Janz: The druids are shamans from Carlin.
+Player: shaman
+Janz: The shamans are great seers and healers.
+Player: dragon
+Janz: The dragons usually stay in their areas, so we have little trouble with them.
+Player: dwarf
+Janz: I heard they are fine woodcutters.
+Player: elf
+Janz: I heard their city is made of living trees! Imagine!
+Player: enemy / enemies
+Janz: In our city you are safe and do not have to care about any enemies.
+Player: everspring
+Janz: I heard this is some spot in the South which is similar to the place that expects one in the afterlife.
+Player: excalibug
+Janz: A weapon that would make woodcutting easy.
+Player: ferumbras
+Janz: That’s some evil spirit the people of the south are fearing.
+Player: god
+Janz: We have little use of your southern gods.
+Player: jarl
+Janz: Our jarl is a fine man. I named a cupboard after him.
+Player: leader
+Janz: You are probably referring to our jarl.
+Player: join / honourary
+Janz: Ask Sven on how to become an honourary barbarian.
+Player: king
+Janz: I know nothing about kings.
+Player: queen
+Janz: There is a queen in Carlin.
+Player: mines
+Janz: The mines are somewhere in the mountains. In the early days of our city, many people from Carlin used to work there.
+Player: monster
+Janz: If I think about monsters, only an elk comes to my mind. Strange, isn’t it?
+Player: name
+Janz: My name is Janz.
+Player: news / rumours
+Janz: Nothing exciting has happened lately.
+Player: nibelor
+Janz: Most shamans live there.
+Player: port hope
+Janz: I heard they used much wood, too, to build that town.
+Player: edron
+Janz: From the tales I heard, it expect it to be a bit like Everspring.
+Player: svargrond
+Janz: If it were not for the wood we’ve gotten from Carlin, the city would for sure look less impressive.
+Player: raiders
+Janz: They are just greedy for all we have accomplished.
+Player: sell
+Janz: I sell different kinds of furniture.
+Player: thais
+Janz: I heard Thais is even bigger than Carlin.
+Player: banor / uman / zathroth
+Janz: We have little use of your southern gods.
+Player: venore
+Janz: The people of Carlin are somewhat bothered by Venore.
+Player: year serpent
+Janz: That have been hard years in which we were cut off from our main wood supply. Gladly wood does not suffer much in our climate.
+Player: yeti
+Janz: They are rather rare.
+Player: job
+Janz: I am selling furniture.
+Player: buy / offer / goods / ware / stuff / equipment / furniture
+Janz: Well, as you can see, I sell furniture. Ask me for a trade if you’re interested to see my wares.
+Player: ice statue
+Janz: Oh, you mean these in the back here? That’s a private avocation of mine. The small ice fish and the bird are my speciality. …
+Janz: I’m currently trying to make a mammoth from an ice cube, but the stupid tusks always break off, it’s not that easy. Maybe the knife I use is not sharp enough …
+Janz: Anyhow, are you interested in buying one of my ice statues? I don’t expect anyone buying them, but if you want to, just ask me for a trade.
+Player: yes
+Janz: Wow, thanks for being interested. Look at them as long as you like.
+Player: trade
+Janz: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?
+Player: type
+Janz: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?
+Player: beds / chairs / containers /decoration / flowers / instruments / pillows / pottery / statues / tapestries / tables
+Janz: Here you go.
+Player: bye
+Janz: Farewell, Warlord of the arena, Player, Hero of Svargrond!
