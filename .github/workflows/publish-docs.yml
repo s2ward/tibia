@@ -16,18 +16,6 @@ jobs:
       uses: actions/checkout@v2
       with:
         ref: 'main'
-        path: 'main'
-
-    - name: Checkout gh-pages branch
-      uses: actions/checkout@v2
-      with:
-        ref: 'gh-pages'
-        path: 'gh-pages'
-
-    - name: Copy updated docs to gh-pages branch
-      run: |
-        mkdir -p gh-pages/docs
-        cp -r main/docs/* gh-pages/docs/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
@@ -37,5 +25,4 @@ jobs:
         publish_branch: gh-pages
         allow_empty_commit: true
         keep_files: true
-        commit_message: "Deployed to GitHub Pages by GitHub Actions"
-        exclude_assets: ./npc
+        commit_message: "Deployed docs changes to GitHub Pages by GitHub Actions"
