@@ -26,7 +26,7 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-        cp -r main/docs/* gh-pages/
+        cp -r main/docs/* gh-pages/docs/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
