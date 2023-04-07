@@ -7,9 +7,9 @@ GitHub Page is automatically built and published on merge to `gh-pages` branch.
 
 Links to research:  
 ---
-- [469](https://s2ward.github.io/tibia/docs/469/1/)
+- [469](https://s2ward.github.io/docs/docs/469/1/)
 
-- [getting-started](https://s2ward.github.io/tibia/docs/getting-started/)
+- [getting-started](https://s2ward.github.io/docs/docs/getting-started/)
 
 # Getting started with the world of Tibia Lore & Mysteries.  
 
