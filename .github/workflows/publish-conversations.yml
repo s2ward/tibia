@@ -77,22 +77,3 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./npc
         keep_files: true
-
-  deploy_ives:
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-        
-    - name: List contents of npc directory
-      run: |
-        ls -la ./npc
-    - name: Deploy to GitHub Pages using JamesIves/github-pages-deploy-action@3
-      uses: JamesIves/github-pages-deploy-action@4.1.5
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        branch: gh-pages
-        folder: ./npc
-
-        
