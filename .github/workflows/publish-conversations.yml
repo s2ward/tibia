@@ -5,11 +5,10 @@ on:
     branches: [main]
     paths:
       - 'npc/**'
-      - '!npc/conversations.json'
   push:
     branches: [main]
     paths:
-      - 'npc/conversations.json'
+      - 'api/conversations.json'
   workflow_dispatch:
 
 jobs:
@@ -54,7 +53,7 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update conversations.json"
-          file_pattern: npc/conversations.json
+          file_pattern: api/conversations.json
           branch: ${{ github.head_ref }}
 
   deploy:
@@ -69,7 +68,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: './npc/api'
+          publish_dir: './api'
           publish_branch: gh-pages
           allow_empty_commit: true
           keep_files: true
