@@ -30,6 +30,6 @@ for conv in all_data:
         speaker = list(line.keys())[0]
         line[speaker] = line[speaker].replace("\n\n", "\n")
 
-with open(os.path.join("..", "npc", "conversations.json"), "w") as f:
+with open(os.path.join("..", "npc", "api, "conversations.json"), "w") as f:
     json.dump(all_data, f)
 
