@@ -172,3 +172,7 @@ Do what you feel like. Do what you think is fun.
 
 Have fun!
 
+--- 
+
+All NPC transcripts are the work of CipSoft GMBH. 
+I do not own them, this is merely fan-based work. 
