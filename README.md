@@ -70,9 +70,9 @@ Note that it will take a bit longer for you new contribution to be searchable if
 
 ---
 
-- [469](https://s2ward.github.io/docs/docs/469/1/)
+- [469](https://s2ward.github.io/docs/469/1/)
 
-- [getting-started](https://s2ward.github.io/docs/docs/getting-started/)
+- [getting-started](https://s2ward.github.io/docs/getting-started/)
 
 ---
 
