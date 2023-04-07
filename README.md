@@ -29,7 +29,9 @@ And so on.
 Where _EMPTY.md are empty files.  
 .md and .txt is basically the same, where .md *can* be formatted nicely in [markdown](https://www.markdownguide.org/getting-started/) which this README.md is written with.  
 
-## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)
+## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
+
+![search](https://user-images.githubusercontent.com/25346191/230612401-1b6207c6-10de-4df6-8732-90c79c74a644.gif)
 
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
