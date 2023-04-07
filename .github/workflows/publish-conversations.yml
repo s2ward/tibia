@@ -56,24 +56,22 @@ jobs:
           commit_message: "Update conversations.json"
           file_pattern: npc/conversations.json
           branch: ${{ github.head_ref }}
-  deploy_pages:
-    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+  deploy:
+      runs-on: ubuntu-latest
+      steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+        with:
+          ref: 'main'
+  
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: './npc/api'
+          publish_branch: gh-pages
+          allow_empty_commit: true
+          keep_files: true
+          commit_message: "Deployed NPC changes to GitHub Pages by GitHub Actions"
         
-    - name: List contents of npc directory
-      run: |
-        ls -la ./npc
-    - name: Deploy to GitHub Pages using actions/deploy-pages@v1
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./npc
-        keep_files: true
