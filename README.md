@@ -174,5 +174,5 @@ Have fun!
 
 --- 
 
-All NPC transcripts are the work of CipSoft GMBH. 
-I do not own them, this is merely fan-based work. 
+All NPC transcripts & books are the work of CipSoft GMBH.  
+I do not own them, this is merely fan-based work.  
