@@ -2,14 +2,77 @@
 
 A repository for all things Tibia.  
 
-Research can be found in tibia/docs as GitHub Pages.  
-GitHub Page is automatically built and published on merge to `gh-pages` branch.  
+Research: [s2ward/docs](https://github.com/s2ward/docs)
 
-Links to research:  
+NPC transcript layout: [npc/{town}/{npc}.md](https://github.com/s2ward/tibia/tree/main/npc)
+
+```
+├── npc
+│   ├── Chaochai
+│   │   └── Lizard_Prisoner_EMPTY.md
+│   ├── Chazorai
+│   │   └── Chrak_EMPTY.md
+│   ├── Cormaya
+│   │   ├── A_Majestic_Warwolf.md
+│   │   ├── Dedoras.md
+│   │   ├── Ghostly_Wolf.md
+│   │   ├── Gurbasch.md
+│   │   ├── Hawkhurst.md
+│   │   ├── Pemaret.md
+│   │   ├── Yoem.md
+│   │   └── Ysbasra_EMPTY.md
+│   ├── Darashia
+... 
+And so on.  
+```
+
+Where _EMPTY.md are empty files.  
+.md and .txt is basically the same, where .md *can* be formatted nicely in [markdown](https://www.markdownguide.org/getting-started/) which this README.md is written with.  
+
+## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)
+
+Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
+Add your transcripts and GitHub will automagically take care of the rest.  
+
+A great way to contribute is by going into npc/{town}/{npc}_EMPTY.md and paste your transcript there without your Tibian name, timestamp nor level.  
+
+```
+Player: {your keyword}  
+NPC: {npc response}  
+```
+
+And raise a pull-request on main branch.  
+
+On pull-request, an automatic job will make sure that the format is correct by running src/validate.py.  
+If validation succeeds, another job will run which will convert all transcripts including your new contribution into api/conversations.json.   
+Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/pages/tools.html) fetches the .json and uses it for search using src/search.js  
+
+If you want to contribute but have no idea how, you may also send the transcripts through:  
+- [discord](https://discord.gg/JRvjSuU99U) (preferred)  
+- [reddit](https://www.reddit.com/user/s2w) 
+
+Note that it will take a bit longer for you new contribution to be searchable if you don't make a pull-request, and you won't get visible credit. ;)  
+
+### Top contributors:  
+
+- 🥇 [tibiasecrets.com](https://tibiasecrets.com/transcripts/) with a whopping 410 contributions of excellent quality. 
+- 🥈 [tibiawiki.br](https://tibiawiki.com.br/) with 250~ contributions.  
+- 🥉 [tibia.fandom.com/](https://tibia.fandom.com/) with 100~ contributions.   
+
+### Individual contributors: 
+
+- Cony Island/Simula/(s2w(ard)) with two contributions.  
+- Your name?  
+
+# Research:  
+
 ---
+
 - [469](https://s2ward.github.io/docs/docs/469/1/)
 
 - [getting-started](https://s2ward.github.io/docs/docs/getting-started/)
+
+---
 
 # Getting started with the world of Tibia Lore & Mysteries.  
 
