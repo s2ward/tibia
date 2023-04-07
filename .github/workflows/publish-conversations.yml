@@ -74,13 +74,13 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-        cp -r main/docs/* gh-pages/docs/
+        cp -r main/npc/api/* gh-pages/npc/api
         
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: './gh-pages'
+        publish_dir: './npc/api'
         publish_branch: gh-pages
         allow_empty_commit: true
         keep_files: true
