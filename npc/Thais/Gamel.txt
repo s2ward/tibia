@@ -1,0 +1,31 @@
+Player: hi / hello  
+Gamel: Pssst! Be silent. Do you wish to buy something?  
+Player: Eclesius  
+Gamel: Shhh! That’s of no concern to me.  
+Player: buy / sell / offer / stuff / equipment / weapon / goods / armor  
+Gamel: I sell maces, staffs, daggers and brass helmets. Ask me for a trade.  
+Player: trade  
+Gamel: There you go.  
+Player: name  
+Gamel: Names don’t matter.  
+Gamel: Uhm… who sent you?  
+Player: berfasmur  
+Gamel: So, you are a new recruit in the ranks of the rebellion! To proof your worthyness, go and get us a magic crystal.  
+Player: magic crystal  
+Gamel: Did you bring me a magic crystal?  
+Player: yes  
+Gamel: You fool! You don’t have the crystal!  
+Player: magic crystal  
+Gamel: Did you bring me a magic crystal?  
+Player: no  
+Gamel: Don’t waste my time.  
+Player: Gamel  
+Gamel: Oh, you know my name. Please don’t tell it to the others.  
+Player: job  
+Gamel: I am selling some… things.  
+Player: berfasmur  
+Gamel: Never heard that name!  
+Player: first dragon  
+Gamel: My grandfather had seen it with his own eyes!  
+Player: farewell/bye  
+Gamel: Bye. Tell others about… my little shop here.  
