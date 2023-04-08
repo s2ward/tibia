@@ -6,7 +6,6 @@ Player: job
 Morax: As researcher and keeper of the archives, I study, record and collect potentially dangerous heretic materials and beliefs. Books, scrolls, music, fil - I am sorry, what was I saying?
 Player: no
 Morax: Oh, well. Forget I asked. Go file those samples over there, please.
-(bye)
 Player: tea
 Morax: Nothing like it to keep me going. Wonderful brew. I've got a special blend around here somewhere... where did I put it now?
 Player: help
