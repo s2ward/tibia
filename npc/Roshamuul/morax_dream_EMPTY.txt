@@ -1,1 +1,43 @@
-
+Player: name
+Morax: Morax Astrolabius, humble traveller and keeper of the archives of our order.
+Player: city
+Morax: This must have been some settlement of importance, I imagine. I wonder why the demons are here - oh well, the items we're cataloguing will help find out.
+Player: job
+Morax: As researcher and keeper of the archives, I study, record and collect potentially dangerous heretic materials and beliefs. Books, scrolls, music, fil - I am sorry, what was I saying?
+Player: no
+Morax: Oh, well. Forget I asked. Go file those samples over there, please.
+(bye)
+Player: tea
+Morax: Nothing like it to keep me going. Wonderful brew. I've got a special blend around here somewhere... where did I put it now?
+Player: help
+Morax: Ah, I believe you are the assistant brother Sandomo promised me? You can start by cataloguing the artefacts. Fetch some more; all you can find, in fact.
+Player: thais
+Morax: Ah, the home of our holy order. I do miss the comforts of civilisation, I confess. And my quiet study.
+roshamuul
+Morax: Rosh...? Never heard of it before. It has an interesting ring to it. But let's not forget the essences we have to examine.
+mine
+Morax: Ah, yes. No doubt they mined some valuable ore or so. But why they abandoned the mines and their city, I wonder.
+Player: henricus
+Morax: Now there is someone who understands the necessity of researching the ways of the enemy! I am looking forward to showing him the results of my field studies. That will show them. <mutters>
+Player: them
+Morax: I'm not saying any names, but you must have seen some of my brothers - staying safely in the camp and letting soldiers eradicate all new things to find? Not so very clever, to my mind.
+Player: yes
+Morax: This is capital! Catalogue this, please. Anything else I should see?
+Player: sandomo
+Morax: Let's not talk about him, alright? Go find something to analyse.
+Morax: Ah... well. Not bad. But those are rather small samples, aren't they? ...
+Morax: Try to find some more for my experiments. - I meant files! Er, you can keep those to tinker with if you like.
+imula: inquisition
+Morax: We have a holy mission. I take these matters very seriously, you know. I need to find out everything about this heretic place - even if SOME people want to stop me. Huh.
+Player: sleep
+Morax: You know, since I've been here, I feel tired, but have never yet had to sleep! It must be something in the air.
+Player: sleepwalking
+Morax: Superstitious talk about a perfectly normal phenomenon for a child. I grew out of it when I was your age.
+Player: catalogue
+Morax: Why, of course. You have to file all new heretic things. It is imperative to know what we are dealing with here.
+Player: pendulum
+Morax: Very useful for autosuggestion and conditioning. I consider myself a little expert on the subject, as a matter of fact. ...
+Morax: Want me to show you a little trick?
+Player: trick
+Morax: Ah, yes, a pendulum's your best friend for autosuggestion and conditioning. As a matter of fact, I consider myself a little expert on the subject. ...
+Morax: Want me to show you a little trick?
