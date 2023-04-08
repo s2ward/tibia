@@ -3,10 +3,10 @@ import json
 
 print("Current working directory:", os.getcwd())
 
-def check_md_files_for_errors(folder):
+def check_txt_files_for_errors(folder):
     for root, dirs, files in os.walk(folder):
         for file in files:
-            if file.endswith(".md"):
+            if file.endswith(".txt"):
                 filepath = os.path.join(root, file)
                 try:
                     with open(filepath, "r", encoding='utf-8') as f:
@@ -25,4 +25,4 @@ folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.jo
 print("Current working directory:", os.getcwd())
 
 for folder in folders:
-    check_md_files_for_errors(folder)
+    check_txt_files_for_errors(folder)
