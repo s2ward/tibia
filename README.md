@@ -4,30 +4,29 @@ A repository for all things Tibia.
 
 Research: [s2ward/docs](https://github.com/s2ward/docs)
 
-NPC transcript layout: [npc/{town}/{npc}.md](https://github.com/s2ward/tibia/tree/main/npc)
+NPC transcript layout: [npc/{town}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
 ```
 ├── npc
 │   ├── Chaochai
-│   │   └── Lizard_Prisoner_EMPTY.md
+│   │   └── Lizard_Prisoner_EMPTY.txt
 │   ├── Chazorai
-│   │   └── Chrak_EMPTY.md
+│   │   └── Chrak_EMPTY.txt
 │   ├── Cormaya
-│   │   ├── A_Majestic_Warwolf.md
-│   │   ├── Dedoras.md
-│   │   ├── Ghostly_Wolf.md
-│   │   ├── Gurbasch.md
-│   │   ├── Hawkhurst.md
-│   │   ├── Pemaret.md
-│   │   ├── Yoem.md
-│   │   └── Ysbasra_EMPTY.md
+│   │   ├── A_Majestic_Warwolf.txt
+│   │   ├── Dedoras.txt
+│   │   ├── Ghostly_Wolf.txt
+│   │   ├── Gurbasch.txt
+│   │   ├── Hawkhurst.txt
+│   │   ├── Pemaret.txt
+│   │   ├── Yoem.txt
+│   │   └── Ysbasra_EMPTY.txt
 │   ├── Darashia
 ... 
 And so on.  
 ```
 
-Where _EMPTY.md are empty files.  
-.md and .txt is basically the same, where .md *can* be formatted nicely in [markdown](https://www.markdownguide.org/getting-started/) which this README.md is written with.  
+Where _EMPTY.txt are empty files.  
 
 ## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
 
@@ -36,7 +35,7 @@ Where _EMPTY.md are empty files.
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
 
-A great way to contribute is by going into npc/{town}/{npc}_EMPTY.md and paste your transcript there without your Tibian name, timestamp nor level.  
+A great way to contribute is by going into npc/{town}/{npc}_EMPTY.txt and paste your transcript there without your Tibian name, timestamp nor level.  
 
 ```
 Player: {your keyword}  
@@ -45,7 +44,7 @@ NPC: {npc response}
 
 And raise a pull-request on main branch.  
 
-On pull-request, an automatic job will make sure that the format is correct by running src/validate.py.  
+On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/publish-conversations.yml) will make sure that the format is correct by running src/validate.py.  
 If validation succeeds, another job will run which will convert all transcripts including your new contribution into api/conversations.json.   
 Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/pages/tools.html) fetches the .json and uses it for search using src/search.js  
 
