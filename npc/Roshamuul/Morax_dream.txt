@@ -40,3 +40,4 @@ Morax: Very useful for autosuggestion and conditioning. I consider myself a litt
 Morax: Want me to show you a little trick?
 Player: trick
 Morax: Ah, yes, a pendulum's your best friend for autosuggestion and conditioning. As a matter of fact, I consider myself a little expert on the subject. ...
+Morax: Want me to show you a little trick?
