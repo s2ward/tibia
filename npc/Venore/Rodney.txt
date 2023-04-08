@@ -27,7 +27,7 @@ Rodney: The Thaian protectorate serves our beloved Venore well.
 Player: fruits  
 Rodney: I have apples, cherries, grapes, and pears. What would you like?  
 Player: bye  
-23:43 Rodney: Good bye, Player.  
+Rodney: Good bye, Player.  
 Player: hi  
 Rodney: Greetings, Player. Can I help you?  
 Rodney: Good bye, Player.  

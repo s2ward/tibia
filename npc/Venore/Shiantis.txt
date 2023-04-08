@@ -3,7 +3,7 @@ Shiantis: Welcome player. What is your need today? Ask me for a trade to check o
 Player: job  
 Shiantis: I am selling several kinds of equipment and decoration. What is your need?  
 Player: name  
-20:42 Shiantis: I am Shiantis.  
+Shiantis: I am Shiantis.  
 Player: offer or buy  
 Shiantis: As you can see, our inventory is large, just have a look. We sell containers, decoration, illumination, paperware, footballs, and watches. Ask me for a trade.  
 Player: football  
