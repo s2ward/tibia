@@ -12,7 +12,7 @@ Player: help
 Morax: Ah, I believe you are the assistant brother Sandomo promised me? You can start by cataloguing the artefacts. Fetch some more; all you can find, in fact.
 Player: thais
 Morax: Ah, the home of our holy order. I do miss the comforts of civilisation, I confess. And my quiet study.
-roshamuul
+Player: roshamuul
 Morax: Rosh...? Never heard of it before. It has an interesting ring to it. But let's not forget the essences we have to examine.
 Player: mine
 Morax: Ah, yes. No doubt they mined some valuable ore or so. But why they abandoned the mines and their city, I wonder.
@@ -26,7 +26,7 @@ Player: sandomo
 Morax: Let's not talk about him, alright? Go find something to analyse.
 Morax: Ah... well. Not bad. But those are rather small samples, aren't they? ...
 Morax: Try to find some more for my experiments. - I meant files! Er, you can keep those to tinker with if you like.
-imula: inquisition
+Simula: inquisition
 Morax: We have a holy mission. I take these matters very seriously, you know. I need to find out everything about this heretic place - even if SOME people want to stop me. Huh.
 Player: sleep
 Morax: You know, since I've been here, I feel tired, but have never yet had to sleep! It must be something in the air.
