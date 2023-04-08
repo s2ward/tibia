@@ -14,7 +14,7 @@ Player: thais
 Morax: Ah, the home of our holy order. I do miss the comforts of civilisation, I confess. And my quiet study.
 roshamuul
 Morax: Rosh...? Never heard of it before. It has an interesting ring to it. But let's not forget the essences we have to examine.
-mine
+Player: mine
 Morax: Ah, yes. No doubt they mined some valuable ore or so. But why they abandoned the mines and their city, I wonder.
 Player: henricus
 Morax: Now there is someone who understands the necessity of researching the ways of the enemy! I am looking forward to showing him the results of my field studies. That will show them. <mutters>
