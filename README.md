@@ -35,6 +35,8 @@ Where _EMPTY.txt are empty files.
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
 
+![CONTRIBUTE](https://user-images.githubusercontent.com/25346191/230709346-7346a63c-83f5-42af-bc60-ed4aa9900388.gif)
+
 A great way to contribute is by going into npc/{town}/{npc}_EMPTY.txt and paste your transcript there without your Tibian name, timestamp nor level.  
 
 ```
