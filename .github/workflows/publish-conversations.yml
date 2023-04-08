@@ -57,6 +57,7 @@ jobs:
           branch: ${{ github.head_ref }}
 
   deploy:
+    if: ${{ github.event_name == 'pull_request' && github.event.action == 'closed' && github.event.pull_request.merged == true }}
     needs: convert
     runs-on: ubuntu-latest
     steps:
