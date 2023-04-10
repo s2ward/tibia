@@ -83,7 +83,8 @@ For windows, your hotkeys reside here:
 You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
 
 IMPORTANT!!!  
-###Make a backup of your current hotkeys before proceeding!  
+
+#### Make a backup of your current hotkeys before proceeding!  
 
 Copy your current clientoptions.json and name it clientoptions.json.backup  
 This way you can quickly rename it back in case you did something wrong. Otherwise you might lose all your current hotkeys.   
