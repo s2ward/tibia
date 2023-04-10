@@ -54,9 +54,67 @@ If you want to contribute but have no idea how, you may also send the transcript
 - [discord](https://discord.gg/JRvjSuU99U) (preferred)  
 - [reddit](https://www.reddit.com/user/s2w) 
 
-Note that it will take a bit longer for you new contribution to be searchable if you don't make a pull-request, and you won't get visible credit. ;)  
+Note that it will take a bit longer for you new contribution to be searchable if you don't make a pull-request.  
 
-### Top contributors:  
+# [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
+
+![image](https://user-images.githubusercontent.com/25346191/230845416-bfe24fe7-62df-48be-abbc-760926d835bb.png)
+
+To find all the tricky and secret single-word keywords, I've made a hotkey preset you can import into your pre-existing hotkey file.   
+
+It consists of strings of unique words with a maximum of 255 characters which is the length limit for one message in Tibia.  
+These strings are populated to Action-Bar buttons. Effort has been made to make all words unique, but there will be duplicates, it's not 100% perfect but pretty close. All words have been shuffeled to make words spread out instead of having loads of commonly 'responed-to' words in one button to make it easier when two or more words are in one button.  
+
+There are currently three hotkey presets: "NPC1", "NPC2" and "NPC3". You can cycle through them using CTRL + J.  
+The content of the hotkey presets are as follows (in order):  
+
+- 15 000 words that **NPC**s respond to and answer with.  
+- 10 000 most **common**ly used english words.  
+- 15 000 words we find in **books** of Tibia.  
+
+When talking to NPCs, you can click-spam all of these actionbar buttons in approx 10 minutes! No more copy-pasting for hours and hours lasting a whole day. If ten people do 10 NPCs in 6 days, we'd finish all NPCs with excellent quality and can then find and move on to multi-word keywords. Such as 'gabel is a rebel' 'magic crystal lugri deathcurse' or 'one eyed stranger'  
+
+### How to import your hotkeys to your pre-existing hotkey file  
+
+For windows, your hotkeys reside here:  
+
+- Windows: %APPDATA%\Tibia\packages\Tibia\conf\\**clientoptions.json**  
+
+You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
+
+IMPORTANT!!!  
+
+#### Make a backup of your current hotkeys before proceeding!  
+
+Copy your current clientoptions.json and name it clientoptions.json.backup  
+This way you can quickly rename it back in case you did something wrong. Otherwise you might lose all your current hotkeys.   
+
+#### Close Tibia before doing any work on the clientoptions.json file.  
+
+## Step by step how-to:  
+
+1. Open clientoptions.json with a text-editor.  
+2. Paste the contents of hotkeys.json here:  
+
+![image](https://user-images.githubusercontent.com/25346191/230849013-b8a6e683-dac7-40a3-bd47-f2590f98cee8.png)  
+Above picture is where you start your paste, picture below is the end of the paste, just make sure to paste between the correct curly brackets { and brackets [.  
+
+3. Confirm that the new .json is correct. Copy-paste the entirety of your clientoptions.json into [json validater](https://jsonformatter.curiousconcept.com/) to check if it contains any errors.  
+
+![image](https://user-images.githubusercontent.com/25346191/230849815-bce6120d-5e3d-4c68-8bbd-8fb4d5482a35.png)
+
+In this specific case, you'd have to put a single } at the end of the file. If there are no errors, your clientoptions.json is correct and will work.   
+
+![addhotkey](https://user-images.githubusercontent.com/25346191/230851330-89ad7a76-6e0f-4ef3-a9fc-898bac5c3e57.gif)
+
+Congratulations.  
+You now have a never-before done and completely legal new edge in finding unheard of new mysteries.  
+
+#### Is this legal?  
+
+Yes. It violates no rules/ToS. You are effectively just importing/restoring hotkeys.  
+
+### Top transcript contributors:  
 
 - 🥇 [tibiasecrets.com](https://tibiasecrets.com/transcripts/) with a whopping 410 contributions of excellent quality. 
 - 🥈 [tibiawiki.br](https://tibiawiki.com.br/) with 250~ contributions.  
@@ -64,7 +122,7 @@ Note that it will take a bit longer for you new contribution to be searchable if
 
 ### Individual contributors: 
 
-- Cony Island/Simula/(s2w(ard)) with two contributions.  
+- Cony Island (Simula, s2w) with 5 contributions.  
 - Your name?  
 
 # Research:  
