@@ -56,7 +56,7 @@ If you want to contribute but have no idea how, you may also send the transcript
 
 Note that it will take a bit longer for you new contribution to be searchable if you don't make a pull-request.  
 
-# hotkeys.json  
+# [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
 
 ![image](https://user-images.githubusercontent.com/25346191/230845416-bfe24fe7-62df-48be-abbc-760926d835bb.png)
 
