@@ -78,7 +78,7 @@ When talking to NPCs, you can click-spam all of these actionbar buttons in appro
 
 For windows, your hotkeys reside here:  
 
-- Windows: %APPDATA%\Tibia\packages\Tibia\conf\**clientoptions.json**  
+- Windows: %APPDATA%\Tibia\packages\Tibia\conf\\**clientoptions.json**  
 
 You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
 
@@ -107,7 +107,7 @@ In this specific case, you'd have to put a single } at the end of the file. If t
 ![addhotkey](https://user-images.githubusercontent.com/25346191/230851330-89ad7a76-6e0f-4ef3-a9fc-898bac5c3e57.gif)
 
 Congratulations.  
-You now have a never-before and completely legal edge in finding completely new mysteries.  
+You now have a never-before done and completely legal new edge in finding unheard of new mysteries.  
 
 #### Is this legal?  
 
