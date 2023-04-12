@@ -2,7 +2,8 @@
 
 A repository for all things Tibia.  
 
-Research: [s2ward/docs](https://github.com/s2ward/docs)
+Research: [s2ward/docs](https://github.com/s2ward/docs)  
+TalesOfTibia: [Open Source](https://github.com/s2ward/talesoftibia.com)  
 
 NPC transcript layout: [npc/{town}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
@@ -122,7 +123,7 @@ Yes. It violates no rules/ToS. You are effectively just importing/restoring hotk
 
 ### Individual contributors: 
 
-- Cony Island (Simula, s2w) with 5 contributions.  
+- Cony Island (Simula, s2w) with 14 contributions.  
 - Your name?  
 
 # Research:  
