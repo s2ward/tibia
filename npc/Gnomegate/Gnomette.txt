@@ -4,6 +4,8 @@ Player: GCTS
 Gnomette: It is the amazing gnomish crystal teleport system! And I of course am here to help our new recruits! You can also ask me for a trade if you are in need of teleport crystals for the GCTS.  
 Player: Recruits  
 Gnomette: So are you here to become a recruit?  
+Player: no
+Gnomette: I hope you'll rethink this decision. Or are you already a recruit? Oh, either way, you are probably not overly interested what this is all about first.
 Player: Yes  
 Gnomette: Excellent! I am so excited about all you big people who want to join. So you can now proceed to the recruitment office that is downstairs and that I marked on your map. But you probably need to know what this all is about first!  
 Player: About  
