@@ -1,0 +1,53 @@
+name: Update Issue on Merge
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  update_issue:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install PyGithub
+
+    - name: Update issue
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ISSUE_NUMBER: 1 # Replace with the issue number you want to update
+      run: |
+        python -c "import os
+        from github import Github
+        token = os.environ.get('GITHUB_TOKEN')
+        issue_number = int(os.environ.get('ISSUE_NUMBER'))
+        repo_name = os.environ.get('GITHUB_REPOSITORY')
+        pr = os.environ.get('GITHUB_EVENT_PATH')
+        g = Github(token)
+        repo = g.get_repo(repo_name)
+        issue = repo.get_issue(number=issue_number)
+        pr_opener = pr['user']['login']
+        pr_title = pr['title']
+        pr_files = [f['filename'] for f in pr['files']]
+        pr_url = pr['html_url']
+        count = 1
+        for comment in issue.get_comments():
+          if 'Pull Requests Merged:' in comment.body:
+            count += 1
+        table = f'| Opener | Changed File | PR Link | Count |\n| --- | --- | --- | --- |\n'
+        for f in pr_files:
+          file_url = f'https://github.com/{repo_name}/blob/main/{f}'
+          table += f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |\n'
+        issue.create_comment(table)"
