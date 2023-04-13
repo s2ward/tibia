@@ -1,0 +1,93 @@
+Player: hi
+Gnomally: Oh, hello! I'm the gnome-human relations assistant. I am here for you to trade your tokens for equipment, resupply you with mission items and talk to you about your relations to us gnomes! ...
+Gnomally: I can also help you with reassembling certain broken statues.
+Player: equipment
+Gnomally: You can buy different equipment for minor or for major tokens. So, which is the equipment you are interested in, the one for minor or major tokens? ...
+Gnomally: By the way, if you want to have a look on the prismatic and gill items first, just head over to the depot and check the market.
+Player: minor
+Gnomally: For two minor tokens, you can buy one gnomish supply package! For eight tokens, you can buy a muck remover! For ten tokens, you can buy a mission crystal. For fifteen tokens, you can buy a crystal lamp or a mushroom backpack. ...
+Gnomally: For seventy tokens, I can offer you a voucher for an addition to the soil guardian outfit, or a voucher for an addition to the crystal warlord armor outfit.
+Player: supply
+Gnomally: Do you want to trade a gnomish supply package for two tokens?
+Player: muck
+Gnomally: Do you want to trade a muck remover for eight tokens? You need muck remover to get items out of the mucky objects sometimes found in the lairs of powerful evil beings.
+Player: mission
+Gnomally: Do you want to trade a mission crystal for ten tokens? It is required each time you want to enter a warzone to challenge the fearsome monsters there and perhaps even their sinister master.
+Player: lamp
+Gnomally: Do you want to trade a crystal lamp for fifteen tokens? It's a fancy decoration object for houses.
+Player: backpack
+Gnomally: Do you want to trade a mushroom backpack for fifteen tokens? It's a great looking version of an ordinary backpack.
+Player: addition to the soil guardian
+Gnomally: Do you want to trade a voucher for an addition to the soil guardian outfit for seventy tokens?
+Player: addition to the crystal warlord
+Gnomally: Do you want to trade a voucher for an addition to the crystal warlord outfit for seventy tokens?
+Player: major
+Gnomally: For ten major tokens, I can offer you a gill gugel, a gill coat, gill legs, a spellbook of vigilance, a prismatic helmet, a prismatic armor, prismatic legs, prismatic boots or a prismatic shield ...
+Gnomally: For twenty major tokens, I can offer you a basic soil guardian outfit, a basic crystal warlord outfit, an iron loadstone or a glow wine.
+Player: gill gugel
+Gnomally: Do you want to trade a gill gugel for ten major tokens?
+Player: gill coat
+Gnomally: Do you want to trade a gill coat for ten major tokens?
+Player: gill legs
+Gnomally: Do you want to trade gill legs for ten major tokens?
+Player: spellbook
+Gnomally: As you like.
+Player: prismatic helmet
+Gnomally: Do you want to trade a prismatic helmet for ten major tokens?
+Player: prismatic armor
+Gnomally: Do you want to trade a prismatic armor for ten major tokens?
+Player: prismatic legs
+Gnomally: Do you want to trade prismatic legs for ten major tokens?
+Player: prismatic boots
+Gnomally: Do you want to trade prismatic boots for ten major tokens?
+Player: prismatic shield
+Gnomally: Do you want to trade a prismatic shield for ten major tokens?
+Player: soil guardian outfit
+Gnomally: Do you want to trade a voucher for a basic soil guardian outfit for twenty major tokens?
+Player: crystal warlord outfit
+Gnomally: Do you want to trade a voucher for a basic crystal warlord outfit for twenty major tokens?
+Player: iron loadstone
+Gnomally: Do you want to trade an iron loadstone for twenty major tokens? It can be used to tame an ironblight.
+Player: glow wine
+Gnomally: Do you want to trade some glow wine for twenty major tokens? It can be used to tame a magma crawler.
+Player: statues
+Gnomally: Ah, you've found some statue pieces and want me to put them together for you. Tell me which one you want me to assemble: Deathstrike, Gnomevil or Abyssador?
+Player: randomword
+Gnomally: You can always change your mind or buy some equipment instead.
+Player: Gnomevil / Deathstrike / Abyssador
+Gnomally: Without the required parts I can't assemble the statue. Bring me the pieces and you can get the statue.
+Player: items
+Gnomally: Do you need to buy any mission items?
+Player: no
+Gnomally: No problem at all.
+Player: yes
+Gnomally: Let us see if I have what you need.
+Player: relations
+Gnomally: Our relations improve with every mission you undertake on our behalf. Another way to improve your relations with us gnomes is to trade in minor crystal tokens. ...
+Gnomally: Your renown amongst us gnomes is currently 2015. Do you want to improve your standing by sacrificing tokens? One token will raise your renown by 5 points.
+Player: yes
+Gnomally: How many tokens do you want to trade?
+Player: 5
+Gnomally: You don't own that many tokens!
+Player: randomword
+Gnomally: You can always change your mind or buy some equipment instead.
+Player: gnome
+Gnomally: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: dwarf
+Gnomally: Technically dwarfs are surface dwellers too
+Player: those below
+Gnomally: We know only little about our major enemy. All we know is that they are cruel slavers and responsible for the global warming.
+Player: [hidden] global warming
+Gnomally: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: crystal
+Gnomally: Ah, don't even ask. To introduce you to even the most basic concepts concerning crystals would take weeks, if not months.
+Player: mushrooms
+Gnomally: Ha! What you have seen so far can hardly be called mushrooms. If you ever enter one of the ancient gnomish holds, you could see mushrooms so big that entire gnomish armies are garrisoned in there.
+Player: thais
+Gnomally: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomally: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomally: My mother warned me not to look up to the sky because the neck could get permanently locked in that position.
+Player: bye
+Gnomally: Good bye and come again.
