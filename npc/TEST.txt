@@ -1,2 +1,2 @@
 Player: xxx
-TESTNPC: yyy
+TESTNPC: yyy 
