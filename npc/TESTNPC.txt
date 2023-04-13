@@ -1,0 +1,2 @@
+Player: xxx
+TESTNPC: yyy
