@@ -1,0 +1,30 @@
+Gnomailion: Now this is probably a love letter.
+Gnomailion: How shall a little gnome handle such big parcels.
+Gnomailion: Has this parcel just sneezed?
+Player: hi
+Gnomailion: Hello and welcome to the gnomish post station, Simula. If you're here for a trade just ask me. I can also explain the mail system.
+Player: job
+Gnomailion: This is the gnomish post station. If you have questions about the mail system or the depots, just ask me.
+Player: name
+Gnomailion: My name is Gnomailion.
+Player: offer
+Gnomailion: I sell parcels and letters. Ask me for a trade if you're interested. I can also explain how the mail system works.
+Player: here
+Gnomailion: Well, you can always ask me for help if you need information.
+Player: crystal
+Gnomailion: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: mushroom
+Gnomailion: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: dwarf
+Gnomailion: Dwarfs have been our allies for quite a while now.
+Player: gnomes
+Gnomailion: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Commander Stone: I admit they can be a bit irritating sometimes. Then again, aren't we all now and then? The gnomes have fought an isolated war for centuries all on their own. I can't blame them for having some problems with outsiders.
+Player: thais
+Gnomailion: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: sky
+Gnomailion: The sky is a somewhat frightening concept to us gnomes.
+Player: those below
+Gnomailion: The more we learn about them, the more it becomes clear how little we know.
+Player: bye
+Gnomailion: Bye, bye, Simula.
