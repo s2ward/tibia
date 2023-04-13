@@ -29,6 +29,6 @@ Maun: The nightmares are only a desperate measure to sever us from divine guidan
 Player: henricus
 Maun: A great man, surely blessed by the gods. And it is our blessing to have him amongst us.
 Player: inquisition
-Maun: The inquisition is an old and traditional organisation, pre-dating even mankind itself. We owe it to those that came before us to give our best in honour of their memory.
+Maun: The inquisition is an old and traditional organisation, pre-dating even mankind itself. We owe it to those that came before us to give our best in honour of their memory. 
 Player: bye
 Maun: Yes, yes. Of course.
