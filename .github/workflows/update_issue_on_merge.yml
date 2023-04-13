@@ -61,12 +61,12 @@ jobs:
         new_entries = []
         for f in pr_files:
           file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-          existing_contributions = [line for line in existing_table if f'| {pr_opener} | [{f}]' in line]
+          existing_contributions = [line for line in existing_table if f'| {pr_opener} |' in line]
 
           if existing_contributions:
-            count = int(re.search(r'\| (\d+) \|', existing_contributions[-1]).group(1)) + 1
+            count = sum([1 for line in existing_contributions if f'| {pr_opener} |' in line]) + 1
             updated_entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |'
-            existing_table = [line if f'| {pr_opener} | [{f}]' not in line else updated_entry for line in existing_table]
+            existing_table.append(updated_entry)
           else:
             count = 1
             entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |'
@@ -79,6 +79,7 @@ jobs:
           existing_comment.edit(table)
         else:
           issue.create_comment(table)"
+
 
 
 
