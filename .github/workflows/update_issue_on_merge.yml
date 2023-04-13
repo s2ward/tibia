@@ -87,6 +87,6 @@ jobs:
         for f in pr_files:
           file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
           discord_message = {
-            'content': f'**{pr_opener}** has updated the issue with a new contribution:\nFile: [{f}]({file_url})\nIssue: [{pr_title}](<{pr_url}>)'
+            'content': f'**{pr_opener}** has made a contribution! :first_place: \nFile: [{f}]({file_url})\nIssue: [{pr_title}](<{pr_url}>)'
           }
           requests.post(discord_webhook_url, json=discord_message)"
