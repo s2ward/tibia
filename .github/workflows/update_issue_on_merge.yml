@@ -51,26 +51,33 @@ jobs:
           exit(0)
         pr_url = pr.html_url
         existing_comment = None
-        contributions = {}
         for comment in issue.get_comments():
           if '### Contributions Table' in comment.body:
             existing_comment = comment
-            contributions = {m[0]: int(m[1]) for m in re.findall(r'\| (\S+) \|\S+\| \S+ \| (\d+) \|', comment.body)}
+            break
 
-        if pr_opener in contributions:
-          contributions[pr_opener] += 1
-        else:
-          contributions[pr_opener] = 1
+        existing_table = existing_comment.body.split('\n')[3:] if existing_comment else []
+
+        new_entries = []
+        for f in pr_files:
+          file_url = f'https://github.com/{repo_name}/blob/main/{f}'
+          entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | 1 |'
+          existing_contributions = [line for line in existing_table if f'| {pr_opener} | [{f}]' in line]
+
+          if existing_contributions:
+            count = int(re.search(r'\| (\d+) \|', existing_contributions[-1]).group(1)) + 1
+            updated_entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |'
+            existing_table = [line if f'| {pr_opener} | [{f}]' not in line else updated_entry for line in existing_table]
+          else:
+            new_entries.append(entry)
 
         table = f'### Contributions Table\n\n| Opener | Changed File | PR Link | Count |\n| --- | --- | --- | --- |\n'
-        for opener, count in contributions.items():
-          for f in pr_files:
-            file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-            table += f'| {opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |\n'
+        table += '\n'.join(existing_table + new_entries)
 
         if existing_comment:
           existing_comment.edit(table)
         else:
           issue.create_comment(table)"
+
 
 
