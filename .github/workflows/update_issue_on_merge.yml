@@ -31,19 +31,21 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ISSUE_NUMBER: 1 
       run: |
-        python -c "import os
+        python -c "import os, json
         from github import Github
         token = os.environ.get('GITHUB_TOKEN')
         issue_number = int(os.environ.get('ISSUE_NUMBER'))
         repo_name = os.environ.get('GITHUB_REPOSITORY')
-        pr = os.environ.get('GITHUB_EVENT_PATH')
+        pr_event_path = os.environ.get('GITHUB_EVENT_PATH')
+        with open(pr_event_path, 'r') as f:
+            pr_data = json.load(f)
         g = Github(token)
         repo = g.get_repo(repo_name)
         issue = repo.get_issue(number=issue_number)
-        pr_opener = pr['user']['login']
-        pr_title = pr['title']
-        pr_files = [f['filename'] for f in pr['files']]
-        pr_url = pr['html_url']
+        pr_opener = pr_data['pull_request']['user']['login']
+        pr_title = pr_data['pull_request']['title']
+        pr_files = [f['filename'] for f in pr_data['pull_request']['files']]
+        pr_url = pr_data['pull_request']['html_url']
         count = 1
         for comment in issue.get_comments():
           if 'Pull Requests Merged:' in comment.body:
