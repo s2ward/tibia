@@ -59,7 +59,7 @@ jobs:
             existing_comment = comment
             break
 
-        existing_table = existing_comment.body.split('\n')[3:] if existing_comment else []
+        existing_table = existing_comment.body.split('\n')[4:] if existing_comment else []
 
         new_entries = []
         for f in pr_files:
