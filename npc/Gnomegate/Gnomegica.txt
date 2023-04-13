@@ -26,7 +26,7 @@ Player: dwarf
 Gnomegica: With the enslaved dwarfs fighting on the side of 'those below' we were somewhat suspicious of the dwarfs at first. But after a while we grew to trust each other somewhat. It would be excessive to call it an alliance just yet. ...
 Gnomegica: If the bigfoot project that the dwarfs suggested proves successful we will certainly open up a bit more towards outsiders and surfacers.
 Player: those below
-Gnomegica: The more we learn about them, the more it becomes clear how little we know.
+Gnomegica: The more we learn about them, the more it becomes clear how little we know. 
 Player: below
 Gnomegica: We know little of those below. Even their minions seem to know little about them. Most of them are lead by other minions and they have a certain hierarchy. There are rumours of molten cities of lava at the heart of the earth.
 Player: surface
