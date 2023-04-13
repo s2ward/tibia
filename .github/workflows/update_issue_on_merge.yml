@@ -73,12 +73,14 @@ jobs:
             new_entries.append(entry)
 
         table = f'### Contributions Table\n\n| Opener | Changed File | PR Link | Count |\n| --- | --- | --- | --- |\n'
-        table += '\n'.join(existing_table + new_entries)
+        table += '\n'.join(existing_table + ([''] if existing_table else []) + new_entries).rstrip()
 
         if existing_comment:
           existing_comment.edit(table)
         else:
           issue.create_comment(table)"
+
+
 
 
 
