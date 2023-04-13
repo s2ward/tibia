@@ -1,0 +1,30 @@
+Player: hi
+Gnomespector: Hello fearless recruit.
+Player: job
+Gnomespector: I'm the gnomish chief physician and responsible for examining our new recruits!
+Player: name
+Gnomespector: My name is Gnomespector. I'm the gnomish chief physician and responsible for examining our new recruits!
+Player: recruit
+Gnomespector: You have already been scanned with g-rays. Too many g-ray doses could be hazardous to ungnomish health. One recruit turned green and went on a rampage. Well he was an orc in the first place though.
+Player: dwarf
+Gnomespector: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomespector: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomespector: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomespector: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomespector: The more we learn about them, the more it becomes clear how little we know.
+Player: crystal
+Gnomespector: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: thais
+Gnomespector: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomespector: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomespector: The sky is a somewhat frightening concept to us gnomes.
+Player: apparatus
+Gnomespector: Don't be afraid. It won't hurt! Just step in!
+Player: bye
+Gnomespector: Good bye and take care!
