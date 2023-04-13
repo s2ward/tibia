@@ -4,6 +4,8 @@ on:
   pull_request:
     types:
       - closed
+    paths:
+      - 'npc/**'
 
 jobs:
   update_issue:
@@ -27,7 +29,7 @@ jobs:
     - name: Update issue
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        ISSUE_NUMBER: 1 # Replace with the issue number you want to update
+        ISSUE_NUMBER: 1 
       run: |
         python -c "import os
         from github import Github
