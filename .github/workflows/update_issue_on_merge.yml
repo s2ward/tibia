@@ -42,10 +42,12 @@ jobs:
         g = Github(token)
         repo = g.get_repo(repo_name)
         issue = repo.get_issue(number=issue_number)
-        pr_opener = pr_data['pull_request']['user']['login']
-        pr_title = pr_data['pull_request']['title']
-        pr_files = [f['filename'] for f in pr_data['pull_request']['files']]
-        pr_url = pr_data['pull_request']['html_url']
+        pr_number = pr_data['pull_request']['number']
+        pr = repo.get_pull(pr_number)
+        pr_opener = pr.user.login
+        pr_title = pr.title
+        pr_files = [f.filename for f in pr.get_files()]
+        pr_url = pr.html_url
         count = 1
         for comment in issue.get_comments():
           if 'Pull Requests Merged:' in comment.body:
@@ -55,3 +57,4 @@ jobs:
           file_url = f'https://github.com/{repo_name}/blob/main/{f}'
           table += f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |\n'
         issue.create_comment(table)"
+
