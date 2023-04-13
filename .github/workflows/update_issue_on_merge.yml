@@ -46,7 +46,7 @@ jobs:
         pr = repo.get_pull(pr_number)
         pr_opener = pr.user.login
         pr_title = pr.title
-        pr_files = [f.filename for f in pr.get_files() if f.filename.startswith('npc/')]
+        pr_files = [f.filename for f in pr.get_files() if f.filename.startswith('npc/') and '_EMPTY.txt' not in f.filename]
         if not pr_files:
           exit(0)
         pr_url = pr.html_url
@@ -61,7 +61,6 @@ jobs:
         new_entries = []
         for f in pr_files:
           file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-          entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | 1 |'
           existing_contributions = [line for line in existing_table if f'| {pr_opener} | [{f}]' in line]
 
           if existing_contributions:
@@ -69,6 +68,8 @@ jobs:
             updated_entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |'
             existing_table = [line if f'| {pr_opener} | [{f}]' not in line else updated_entry for line in existing_table]
           else:
+            count = 1
+            entry = f'| {pr_opener} | [{f}]({file_url}) | [{pr_title}]({pr_url}) | {count} |'
             new_entries.append(entry)
 
         table = f'### Contributions Table\n\n| Opener | Changed File | PR Link | Count |\n| --- | --- | --- | --- |\n'
