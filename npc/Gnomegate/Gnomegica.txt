@@ -13,7 +13,7 @@ Gnomegica: Have a look. You can also look at wands or runes.
 Player: wands
 Gnomegica: Have a look. You can also look at potions or runes.
 Player: runes
-Gnomegica: Have a look. You can also look at wands or potions.
+Gnomegica: Have a look. You can also look at wands or potions. 
 Player: bigfoot
 Gnomegica: The bigfoot troop is a strange idea to me. But in the end these are strange times we live in.
 Player: thais
