@@ -30,7 +30,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ISSUE_NUMBER: 51
-              run: |
+      run: |
         python -c "import os, json, re
         from github import Github
         token = os.environ.get('GITHUB_TOKEN')
