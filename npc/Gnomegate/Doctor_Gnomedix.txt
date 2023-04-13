@@ -1,0 +1,16 @@
+Doctor Gnomedix: Hmmm.
+Doctor Gnomedix: All that dirt, incredible!
+Doctor Gnomedix: Oh my!
+Doctor Gnomedix: Nothing is impossible for a gnomish doctor.
+
+Player: hi
+Doctor Gnomedix: You have no business here. Move on Player.
+Player: <mission transcripts>  
+Gnomedix: So let the examination begin! Now don't move. Don't be afraid. The good doctor gnome won't hurt you - hopefully!
+Gnomedix: Now! Now! Don't panic! It's all over soon!
+Gnomedix: Let me try a bigger chisel!
+Gnomedix: We're almost don... holy gnome! What's THIS???
+Gnomedix: I need a drill! Gnomenursey, quick!
+Gnomedix: Hold still now! This might tickle a little...
+Gnomedix: Take this, you evil ... whatever you are!
+Gnomedix: I got it! Yikes! What was that? Uhm, well ... you passed the ear examination. Talk to Gnomaticus for your next test.
