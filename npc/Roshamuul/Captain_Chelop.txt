@@ -12,7 +12,7 @@ Captain Chelop: Can't you see? I'm captain of the Pesadilla, the proud inquisiti
 Player: ship
 Captain Chelop: This is the Pesadilla, one of the inquisition's finest ships.
 Player: sail
-Captain Chelop: I can bring you back to Thais if you are weary or you can stay and fight. What shall it be?
+Captain Chelop: I can bring you back to Thais if you are weary or you can stay and fight. What shall it be? 
 Player: thais
 Captain Chelop: Do you seek a passage to Thais for 200 gold?
 Player: no

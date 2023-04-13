@@ -13,7 +13,7 @@ Player: soothe
 Dream Butterfly: Did you not find what you seek? Use the pan! The dream sand, the sand, is in the waters, the waters of the mountain river, quiver, shiver ...
 Dream Butterfly: The blossoms like fine water spray, they live alone near a water or bay, and a strange thing, an eerie song they sing!
 Player: blossoms
-Dream Butterfly: Listen! The blossoms like fine water spray, they live alone near a water or bay, and a strange thing, an eerie song they sing!
+Dream Butterfly: Listen! The blossoms like fine water spray, they live alone near a water or bay, and a strange thing, an eerie song they sing! 
 Player: pan
 Dream Butterfly: It's too exhausting for us to purl another dream sand pan this fast, this fast. Only later, a little later.
 Player: fear

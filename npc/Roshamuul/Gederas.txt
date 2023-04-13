@@ -33,6 +33,6 @@ Gederas: Beware of your dreams. They might be just the door to your soul the dem
 Player: isle  
 Gederas: You can see the taint everywhere. This is what will become of the world if we don’t stop these vile invaders here and now.  
 Player: nightmare  
-Gederas: The nightmares, that haunt the dreamers on this isle, are a danger only to those weak in their faith.  
+Gederas: The nightmares, that haunt the dreamers on this isle, are a danger only to those weak in their faith.   
 Player: bye  
 Gederas: Farewell.  

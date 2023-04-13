@@ -25,4 +25,4 @@ Auron: Excalibug is not available via gnomish supply posts. Feel free to try oth
 Player: measurements
 Auron: This unit is not authorised to supply information that might be considered gnomish trade secrets.
 Player: isle
-Auron: A place categorised as extremely dangerous. Artificial workforces are suggested to keep harm away from living beings.
+Auron: A place categorised as extremely dangerous. Artificial workforces are suggested to keep harm away from living beings. 
