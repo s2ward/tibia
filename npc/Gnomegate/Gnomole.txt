@@ -1,0 +1,36 @@
+Player: hi
+Gnomole: Hi there! I'm ready to brief you with tactical advice.
+Player: name
+Gnomole: My name is Gnomole! I'm the gnomish tactical advisor for this area!
+Player: job
+Gnomole: I'm the gnomish tactical advisor for this area!
+Player: tactical
+Gnomole: Since you are seasoned adventurers I'll skip the basics and jump right to the important part! This cave system is overrun by the minions of ... ah well, the greatest shame of gnomekind. ...
+Gnomole: That traitorous gnome, known as Gnomevil, who was my pupil before his changeover to the dark side of gnomedom, has abandoned all gnomish ethics and joined forces with our enemies. ...
+Gnomole: It's hard to tell what led to his downfall. In the end he seems to have forgotten the principle that with small stature comes great responsibility. ...
+Gnomole: He became tainted and corrupted by evil, obviously enough to grow in size, which is always an indicator for evil of course. ...
+Gnomole: Now he commands his armies in the name of those below and hides in his lair protected by layers of thick crystal that only he can form and change due to his corrupted powers! ...
+Gnomole: There is one thing though that could cause his downfall! His corruption has spread to his minions and in his lair there are some infected weepers that are full of parasites. ...
+Gnomole: These parasites will spread a fluid that will weaken the integrity of the crystals in front of Gnomevils lair when they die. The entrance is marked with crystal columns, so you can't miss it. ...
+Gnomole: You have to kill enough of the parasites DIRECTLY in front of the crystals. Eventually the columns will collapse and allow you entrance to Gnomevils lair. ...
+Gnomole: Take care though, due to Gnomevils power the crystals will grow back quite fast. Better manage the parasites in quick succession or everything will be for naught. ..., Enter his lair and bring an end to his despicable reign!
+Player: dwarf
+Gnomole: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomole: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: those below
+Gnomole: The more we learn about them, the more it becomes clear how little we know.
+Player: mushroom
+Gnomole: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: crystal
+Gnomole: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: global warming
+Gnomole: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: thais
+Gnomole: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomole: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomole: The sky is a somewhat frightening concept to us gnomes.
+Player: yes [bug] / bye
+Gnomole: Good bye and take care!
