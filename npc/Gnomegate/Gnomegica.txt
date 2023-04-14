@@ -27,6 +27,8 @@ Gnomegica: With the enslaved dwarfs fighting on the side of 'those below' we wer
 Gnomegica: If the bigfoot project that the dwarfs suggested proves successful we will certainly open up a bit more towards outsiders and surfacers.
 Player: those below
 Gnomegica: The more we learn about them, the more it becomes clear how little we know. 
+Player: global warming
+Gnomegica: The warming is caused by 'those below'. That is what we could piece together, which is admittedly little, especially by gnomish standards.
 Player: below
 Gnomegica: We know little of those below. Even their minions seem to know little about them. Most of them are lead by other minions and they have a certain hierarchy. There are rumours of molten cities of lava at the heart of the earth.
 Player: surface
