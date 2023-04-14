@@ -30,6 +30,8 @@ Player: thais
 Gnomerrow: From all what I hear it seems to be a pretty rough place.
 Player: surface
 Gnomerrow: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: global warming
+Gnomerrow: Those below are heating up the earth. Probably to burn everything but themselves.
 Player: sky
 Gnomerrow: The sky is a somewhat frightening concept to us gnomes.
 Player: those below

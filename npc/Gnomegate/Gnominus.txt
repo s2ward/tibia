@@ -14,6 +14,8 @@ Player: dwarf
 Gnominus: Dwarfs have been our allies for quite a while. Both sides have profited from exchange of knowledge and items so far.
 Player: those below
 Gnominus: The more we learn about them, the more it becomes clear how little we know.
+Player: global warming
+Gnominus: I think those below try to press to the surface to get all the wood for a great fire that engulfs the world.
 Player: gnome
 Gnominus: We gnomes are very modest people so we hardly brag about our accomplishments. And this is quite hard given the sheer number and significance of our feats. ...
 Gnominus: We gnomes have mastered the art of mushroom breeding to create items, tools and sustenance. We mastered the secrets of the crystals. ...

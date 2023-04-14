@@ -34,5 +34,7 @@ Player: sky
 Gnomerrow: The sky is a somewhat frightening concept to us gnomes.
 Player: those below
 Gnomerrow: Those cowards have never shown their faces in all those years of war.
+Player: global warming
+Gnomejam: Those below are heating up the earth. Probably to burn everything but themselves.
 Player: bye
 Gnomerrow: Good bye.
