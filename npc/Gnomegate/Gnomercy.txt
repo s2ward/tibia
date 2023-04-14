@@ -1,0 +1,36 @@
+Player: hi
+Gnomercy: Hi there! I'm ready to brief you with tactical advice.
+Player: name
+Gnomercy: My name is Gnomercy! I'm the gnomish tactical advisor of this area!
+Player: job
+Gnomercy: I'm the gnomish tactical advisor of this area!
+Player: tactical
+Gnomercy: With your help and efforts we finally cornered what we think is one of 'those below'! For all you have done and endured you are granted the privilege to be one of the first to fight the true enemy. ...
+Gnomercy: For all we know your successes have brought some unrest to our enemies and they sent one of their observers to punish their slaves and force them to more fierce attacks. ...
+Gnomercy: This is our chance to deal the enemy the first blow in this conflict. With reinforcements from Gnomehome we are attacking the troops of the enemy and binding a great deal of their forces in battle. ...
+Gnomercy: Now it is up to you to fight your way to the heart of the enemy's defences and kill the observer. ...
+Gnomercy: Our first tries were met with no success though. The observer has brought with him one of his creatures or lieutenants, the lost call the thing Vesperoth. I am not sure if it is a name or a race. ...
+Gnomercy: However Vesperoth itself is protected by hoards of minions. Sometimes this thing will withdraw into the ground and let all hell loose in form of its slaves. ...
+Gnomercy: You'd better be finished with them before Vesperoth re-emerges. ...
+Gnomercy: Only when you manage to kill Vesperoth, will you be able to enter the portal behind him and face the true evil of the observer. ...
+Gnomercy: Go and unleash your inner gnome! Vanquish the source of evil.
+Player: dwarf
+Gnomercy: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomercy: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: those below
+Gnomercy: The more we learn about them, the more it becomes clear how little we know.
+Player: mushroom
+Gnomercy: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: crystal
+Gnomercy: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: global warming
+Gnomercy: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: thais
+Gnomercy: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomercy: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomercy: The sky is a somewhat frightening concept to us gnomes.
+Player: bye / yes [bug]
+Gnomercy: Good bye and take care!
