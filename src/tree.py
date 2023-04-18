@@ -7,7 +7,7 @@ pipe = '│'
 end = '└──'
 dash = '──'
 
-root_folder = 'tibia/npc'
+root_folder = '/home/s2w/tibia/npc'
 repo_url = 'https://github.com/s2ward/tibia/blob/main/npc'
 
 
