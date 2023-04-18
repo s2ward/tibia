@@ -9,12 +9,12 @@ NPC Page: [all NPCS](https://github.com/s2ward/tibia/npc)
 
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
-#### Tree view  
-All Transcripts: [All](./docs/all_files_tree.md)   
-Empty transcripts: [Empty](./docs/empty_files_tree.md)  
-Unverified transcripts: [Unverified](./docs/unverified_files_tree.md)  
+### Tree views  
+All Transcripts: [All](./doc/all_files_tree.md)   
+Empty transcripts: [Empty](./doc/empty_files_tree.md)  
+Unverified transcripts: [Unverified](./doc/unverified_files_tree.md)  
 
-Sample Tree view
+Repository structure
 ```
 └── Yalahar
     ├── A_Beautiful_Girl_UNVERIFIED.txt
