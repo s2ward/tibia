@@ -3,55 +3,31 @@
 A repository for all things Tibia.  
 
 Research: [s2ward/docs](https://github.com/s2ward/docs)  
-TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
-Search Transcripts: [NPSearch](https://talesoftibia.com/pages/tools.html)   
-NPC Page: [all NPCS](https://github.com/s2ward/tibia/npc)  
+TalesOfTibia: [Open Source](https://github.com/s2ward/talesoftibia.com)  
 
-NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
+NPC transcript layout: [npc/{town}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
-#### Tree view  
-All Transcripts: [All](./docs/all_files_tree.md)   
-Empty transcripts: [Empty](./docs/empty_files_tree.md)  
-Unverified transcripts: [Unverified](./docs/unverified_files_tree.md)  
-
-Sample Tree view
 ```
-└── Yalahar
-    ├── A_Beautiful_Girl_UNVERIFIED.txt
-    ├── A_Grumpy_Cyclops_EMPTY.txt
-    ├── Beregar
-    │   ├── Bolfona_(TibiaSecrets).txt
-    │   ├── Bolfona_And_Drog_(TibiaSecrets).txt
-    │   ├── Drog_(TibiaSecrets).txt
-    │   ├── Emperor_Rehal_(TibiaSecrets).txt
-    │   ├── Frok,_The_Guard_(TibiaSecrets).txt
-    │   ├── Harog_(TibiaSecrets).txt
-    │   └── Kihil,_The_Guard_(TibiaSecrets).txt
-    ├── Beregar Mines
-    │   ├── Frafnar_(TibiaSecrets).txt
-    │   ├── Grombur_(TibiaSecrets).txt
-    │   ├── Nokmir_(TibiaSecrets).txt
-    │   ├── Pyromental_(TibiaSecrets).txt
-    │   ├── Pythius_the_Rotten_(TibiaSecrets).txt
-    │   ├── Rehon_(TibiaSecrets).txt
-    │   ├── Tehlim_(TibiaSecrets).txt
-    │   ├── Xorlosh_(TibiaSecrets).txt
-    │   └── Zirkon_(TibiaSecrets).txt
-    ├── Captain_Cookie_(TibiaSecrets).txt
-    ├── Chuckles_(TibiaSecrets).txt
-    ├── Dorbin_(TibiaSecrets).txt
-    ├── Fenrock
-    │   └── Golem_Servant_(TibiaSecrets).txt
-    ├── Golem_Guardian_EMPTY.txt
+├── npc
+│   ├── Chaochai
+│   │   └── Lizard_Prisoner_EMPTY.txt
+│   ├── Chazorai
+│   │   └── Chrak_EMPTY.txt
+│   ├── Cormaya
+│   │   ├── A_Majestic_Warwolf.txt
+│   │   ├── Dedoras.txt
+│   │   ├── Ghostly_Wolf.txt
+│   │   ├── Gurbasch.txt
+│   │   ├── Hawkhurst.txt
+│   │   ├── Pemaret.txt
+│   │   ├── Yoem.txt
+│   │   └── Ysbasra_EMPTY.txt
+│   ├── Darashia
 ... 
 And so on.  
 ```
 
-Where:  
-- _EMPTY.txt are empty files.   
-- _UNVERIFIED.txt are unverified transcripts.  
-- _(TibiaSecrets).txt are from TibiaSecrets.com.  
-- .txt are verified. e.g. Ulala.txt.  
+Where _EMPTY.txt are empty files.  
 
 ## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
 
@@ -62,10 +38,7 @@ Add your transcripts and GitHub will automagically take care of the rest.
 
 ![CONTRIBUTE](https://user-images.githubusercontent.com/25346191/230709346-7346a63c-83f5-42af-bc60-ed4aa9900388.gif)
 
-A great way to contribute is by checking [Empty](./docs/empty_files_tree.md) or [unverified](./docs/unverified_files_tree.md) transcripts and just pick one.  
-You can CTRL+F for you favorite NPCs and click on the link to them.  
-
-When you have your transcript logs, paste your content in an NPC file like this:  
+A great way to contribute is by going into npc/{town}/{npc}_EMPTY.txt and paste your transcript there without your Tibian name, timestamp nor level.  
 
 ```
 Player: {your keyword}  
@@ -81,6 +54,8 @@ Upon merge by a repository maintainer, the transcript will deploy to GitHub page
 If you want to contribute but have no idea how, you may also send the transcripts through:  
 - [discord](https://discord.gg/JRvjSuU99U) (preferred)  
 - [reddit](https://www.reddit.com/user/s2w) 
+
+Note that it will take a bit longer for you new contribution to be searchable if you don't make a pull-request.  
 
 # [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
 
@@ -148,11 +123,7 @@ Yes. It violates no rules/ToS. You are effectively just importing/restoring hotk
 
 ### Individual contributors: 
 
-You can view all contributions here, in an issue that automatically updates:  
-
-Contributioins [Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
-
-- Cony Island (Simula, s2w) with 40 contributions.  
+- Cony Island (Simula, s2w) with 14 contributions.  
 - Your name?  
 
 # Research:  
@@ -256,8 +227,6 @@ Do what you feel like. Do what you think is fun.
 	- You will get many ideas along the way, you might have a theory that you'll do your darndest to fit in. This could make you ignore contradictions and only focus on the bits that fit into your theory. Again, a flexible mindset is paramount.
 9. Spending all your time on a mystery where you don't have all the clues yet. 
 	- The answer is out there and you will find it when you least expect it. Follow all the leads! 
-10. Thinking that a mystery cannot be solved
-	- A lot of people assume a mystery can't be solved due to lazy developers or that they don't agree with how Cip is running things. This is absolutely not the case. If you ever stumble upon an inconsistency, you've stumbled upon a great mystery that can be explained. One example of such is [The First Dragon](https://www.tibiaqa.com/710/why-is-the-first-dragon-called-first-dragon-and-not-garsharak). While there might not be a physical reward for every single mystery, the riddles can be solved and their existence can be answered.
 
 # Most Importantly
 
