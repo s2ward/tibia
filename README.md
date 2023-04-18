@@ -5,7 +5,7 @@ A repository for all things Tibia.
 Research: [s2ward/docs](https://github.com/s2ward/docs)  
 TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
 Search Transcripts: [NPSearch](https://talesoftibia.com/pages/tools.html)   
-NPC Page: [all NPCS](https://github.com/s2ward/tibia/npc)  
+NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
 
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
