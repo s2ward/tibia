@@ -9,7 +9,7 @@ NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)
 
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
-By searching in the Tree views below, you can quickly get to and find your NPC you are looking for (CTRL + F "A Prisoner")  
+By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A_Prisoner"), note the underscore.  
 
 ### Tree views  
 All Transcripts: [All](./doc/all_files_tree.md)   
