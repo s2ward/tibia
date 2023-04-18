@@ -7,7 +7,7 @@ pipe = '│'
 end = '└──'
 dash = '──'
 
-root_folder = '/home/s2w/tibia/npc'
+root_folder = 'tibia/npc'
 repo_url = 'https://github.com/s2ward/tibia/blob/main/npc'
 
 
@@ -42,7 +42,7 @@ def _draw_tree(tree, level, file, last=False, sup=[]):
     file.write(tree_line + '  \n')
 
     if isinstance(tree, Node):
-        if not tree.nodes:  # Add this check for empty nodes
+        if not tree.nodes:  # check for empty nodes
             return
         level += 1
         for node in tree.nodes[:-1]:
