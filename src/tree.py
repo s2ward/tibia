@@ -29,15 +29,16 @@ class Leaf(Tree):
 def _draw_tree(tree, level, file, last=False, sup=[]):
     def update(left, i):
         if i < len(left):
-            left[i] = '&nbsp;&nbsp;&nbsp;&nbsp;'
+            left[i] = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
         return left
 
-    prefix = ''.join(reduce(update, sup, ['{}&nbsp;&nbsp;&nbsp;'.format(pipe)] * level))
+    prefix = ''.join(reduce(update, sup, ['{}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.format(pipe)] * level))
     if isinstance(tree.tag, tuple):
         tag, url = tree.tag
-        tree_line = prefix + (end if last else branch) + '{}&nbsp;'.format(dash) + tag + f" [↗]({url})"
+        tag = tag.replace('_', ' ').replace(',', '&#44;')  # Replace underscores and commas
+        tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + tag + f" [↗]({url})"
     else:
-        tree_line = prefix + (end if last else branch) + '{}&nbsp;'.format(dash) + str(tree.tag)
+        tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tree.tag.replace("_", " ")}</strong>'
 
     file.write(tree_line + '  \n')
 
@@ -48,6 +49,8 @@ def _draw_tree(tree, level, file, last=False, sup=[]):
         for node in tree.nodes[:-1]:
             _draw_tree(node, level, file, sup=sup)
         _draw_tree(tree.nodes[-1], level, file, True, [level] + sup)
+
+
 
 
 
@@ -90,6 +93,6 @@ empty_files_tree = build_tree(root_folder, only_empty=True)
 unverified_files_tree = build_tree(root_folder, only_unverified=True)
 
 # Draw trees and save them to files
-draw_tree([all_files_tree], 'all_files_tree.md')
-draw_tree([empty_files_tree], 'empty_files_tree.md')
-draw_tree([unverified_files_tree], 'unverified_files_tree.md')
+draw_tree([all_files_tree], '../doc/all_files_tree.md')
+draw_tree([empty_files_tree], '../doc/empty_files_tree.md')
+draw_tree([unverified_files_tree], '../doc/unverified_files_tree.md')
