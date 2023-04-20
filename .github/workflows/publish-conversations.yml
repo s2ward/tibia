@@ -58,48 +58,73 @@ jobs:
           file_pattern: api/conversations.json
           branch: ${{ github.head_ref }}
 
-#  update_file_mapping:
-#    needs: validate
-#    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
-#    runs-on: ubuntu-latest
-#    steps:
-#    - name: Checkout code
-#      uses: actions/checkout@v2
-#      with:
-#        ref: ${{ github.event.pull_request.head.sha }}
-#
-#    - name: Set up Python
-#      uses: actions/setup-python@v2
-#      with:
-#        python-version: 3.8
-#
-#    - name: Fetch changes
-#      run: git fetch origin main
-#
-#    - name: Checkout base branch files
-#      run: git worktree add base FETCH_HEAD
-#
-#    - name: Checkout previous commit's file_mapping.json
-#      run: git checkout FETCH_HEAD -- api/file_mapping.json
-#
-#    - name: Update file mapping
-#      run: |
-#        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}')
-#        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}')
-#        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2"\t"$3}')
-#        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}')
-#        ADDED_FILES=${ADDED_FILES[@]}
-#        MODIFIED_FILES=${MODIFIED_FILES[@]}
-#        RENAMED_FILES=${RENAMED_FILES[@]}
-#        DELETED_FILES=${DELETED_FILES[@]}
-#        python src/update_file_mapping.py "$repo_dir" "$base_dir" "${ADDED_FILES// /|}" "${MODIFIED_FILES// /|}" "${RENAMED_FILES// /|}" "${DELETED_FILES// /|}"
-#
-#    - name: Commit file_mapping.json
-#      uses: stefanzweifel/git-auto-commit-action@v4
-#      with:
-#        commit_message: "Update file_mapping.json"
-#        file_pattern: api/file_mapping.json
-#        branch: ${{ github.head_ref }}
+  update_file_mapping:
+    needs: validate
+    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      with:
+        ref: ${{ github.event.pull_request.head.sha }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Fetch changes
+      run: git fetch origin main
+
+    - name: Checkout base branch files
+      run: git worktree add base FETCH_HEAD
+
+    - name: Checkout previous commit's file_mapping.json
+      run: git checkout FETCH_HEAD -- api/file_mapping.json
+
+    - name: Update file mapping
+      run: |
+        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}')
+        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}')
+        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2"\t"$3}')
+        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}')
+        ADDED_FILES=${ADDED_FILES[@]}
+        MODIFIED_FILES=${MODIFIED_FILES[@]}
+        RENAMED_FILES=${RENAMED_FILES[@]}
+        DELETED_FILES=${DELETED_FILES[@]}
+        python src/update_file_mapping.py "$repo_dir" "$base_dir" "${ADDED_FILES// /|}" "${MODIFIED_FILES// /|}" "${RENAMED_FILES// /|}" "${DELETED_FILES// /|}"
+
+    - name: Commit file_mapping.json
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update file_mapping.json"
+        file_pattern: api/file_mapping.json
+        branch: ${{ github.head_ref }}
+
+  generate_trees:
+      needs: update_file_mapping
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout code
+          uses: actions/checkout@v2
+          with:
+            ref: ${{ github.event.pull_request.head.sha }}
+  
+        - name: Set up Python
+          uses: actions/setup-python@v2
+          with:
+            python-version: 3.8
+  
+        - name: Generate trees
+          run: |
+            python src/generate_trees.py
+  
+        - name: Commit tree files
+          uses: stefanzweifel/git-auto-commit-action@v4
+          with:
+            commit_message: "Update tree files"
+            file_pattern: 'doc/*_transcripts.md'
+            branch: ${{ github.head_ref }}
 
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
@@ -119,9 +144,10 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-        mkdir -p gh-pages/api
+        mkdir -p gh-pages/api/tree
         cp main/api/conversations.json gh-pages/api/
         cp main/api/file_mapping.json gh-pages/api/
+        cp main/doc/*_transcripts.md gh-pages/api/tree/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
