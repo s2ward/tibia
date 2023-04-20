@@ -60,7 +60,7 @@ def draw_tree(trees, filename):
             _draw_tree(tree, 0, file, is_root=True)
         _draw_tree(trees[-1], 0, file, True, [0], is_root=True)
 
-def build_tree_from_mapping(mapping, base_url, only_empty=False, only_unverified=False):
+def build_tree_from_mapping(mapping, base_url, only_empty=False, only_unverified=False, only_verified=False):
     def process_mapping(mapping, path_parts):
         nodes = []
 
@@ -77,6 +77,8 @@ def build_tree_from_mapping(mapping, base_url, only_empty=False, only_unverified
                     continue
                 elif only_unverified and value != "UNVERIFIED":
                     continue
+                elif only_verified and value != "VERIFIED":
+                        continue
                 
                 leaf = Leaf((key, current_url))
                 nodes.append(leaf)
@@ -100,17 +102,43 @@ def post_process_file(filename):
 
             file.write(line)
 
+def add_navigation(filename, current_tree_index):
+    navigation = [
+        f'1. All Transcripts: [↗](./all_transcripts.md)',
+        f'2. Verified Transcripts: [↗](./verified_transcripts.md)',
+        f'3. Empty Transcripts: [↗](./empty_transcripts.md)',
+        f'4. Unverified Transcripts: [↗](./unverified_transcripts.md)',
+    ]
+
+    # Remove link for the current tree
+    navigation[current_tree_index] = navigation[current_tree_index].split(" [↗]")[0]
+
+    with open(filename, 'r') as file:
+        content = file.read()
+
+    with open(filename, 'w') as file:
+        file.write('\n'.join(navigation) + '\n\n' + content)
+
 # Build trees
 all_files_tree = build_tree_from_mapping(file_mapping, repo_url)
+verified_files_tree = build_tree_from_mapping(file_mapping, repo_url, only_verified=True)
 empty_files_tree = build_tree_from_mapping(file_mapping, repo_url, only_empty=True)
 unverified_files_tree = build_tree_from_mapping(file_mapping, repo_url, only_unverified=True)
 
 # Draw trees and save them to files
 draw_tree([all_files_tree], '../doc/all_transcripts.md')
+draw_tree([verified_files_tree], '../doc/verified_transcripts.md')
 draw_tree([empty_files_tree], '../doc/empty_transcripts.md')
 draw_tree([unverified_files_tree], '../doc/unverified_transcripts.md')
 
 # Post-process files
 post_process_file('../doc/all_transcripts.md')
+post_process_file('../doc/verified_transcripts.md')
 post_process_file('../doc/empty_transcripts.md')
 post_process_file('../doc/unverified_transcripts.md')
+
+# Add navigation
+add_navigation('../doc/all_transcripts.md', 0)
+add_navigation('../doc/verified_transcripts.md', 1)
+add_navigation('../doc/empty_transcripts.md', 2)
+add_navigation('../doc/unverified_transcripts.md', 3)

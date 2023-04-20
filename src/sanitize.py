@@ -1,53 +1,50 @@
-# USAGE
-# python path/to/sanitize.py path/to/transcript.txt tibia_name
-# Example usage:
-# 
-# python path/to/sanitize.py transcript.txt . Simula
-# python path/to/sanitize.py path/to/transcript.txt Simula
-
-import sys
-import re
 import os
+import re
+import sys
 
-def process_file(file_name, input_name):
-    file_path = os.path.join(os.getcwd(), file_name)
-    with open(file_path, 'r') as file:
-        for line in file:
-            line = re.sub(r'^\d{2}:\d{2}\s+', '', line)  # Remove timestamps
-            line = re.sub(r'\[\d+\]', '', line)  # Remove [n] where n is any number
-            line = re.sub(rf'({input_name})\s*:', 'Player:', line)  # Replace input_name with "Player" before the colon
-            line = line.strip()  # Remove leading/trailing whitespaces
-            
-            # If line starts with input_name followed by a space, replace input_name with "Player"
-            if line.startswith(input_name + ' '):
-                line = 'Player' + line[len(input_name):]
-
-            if line:  # Print to console only if the line is not empty
-                print(line)
-
-if __name__ == "__main__":
-    if len(sys.argv) != 3:
-        print("Usage: python script.py <file_name> <input_name>")
-        sys.exit(1)
+def check_txt_files_for_errors(folder):
+    timestamp_pattern = re.compile(r'^\d{2}:\d{2}', re.MULTILINE)
+    number_pattern = re.compile(r'\[\d+\]')
     
-    file_name = sys.argv[1]
-    input_name = sys.argv[2]
-    process_file(file_name, input_name)
+    has_errors = False
+    
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if file.endswith(".txt"):
+                filepath = os.path.join(root, file)
+                try:
+                    with open(filepath, "r", encoding='utf-8') as f:
+                        content = f.read()
+                except UnicodeDecodeError as e:
+                    print(f"Error in file {filepath}: {e}")
+                    has_errors = True
+                    continue
+                    
+                player_count = content.count("Player:")
+
+                if player_count == 0 and len(content.strip()) > 0:
+                    print(f"Error: No 'Player:' instances found in file {filepath}")
+                    has_errors = True
+
+                if timestamp_pattern.search(content):
+                    print(f"Error: Timestamp found in file {filepath}")
+                    has_errors = True
+
+                if number_pattern.search(content):
+                    print(f"Error: Number pattern found in file {filepath}")
+                    has_errors = True
+
+    return has_errors
 
 
-# Bash instead of python: (not tested)
+folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.join("..", "npc")) if os.path.isdir(os.path.join("..", "npc", folder))]
 
-#!/bin/bash
-#
-#if [ "$#" -ne 2 ]; then
-#    echo "Usage: $0 <file_name> <input_name>"
-#    exit 1
-#fi
-#
-#file_name="$1"
-#input_name="$2"
-#
-#sed -e "s/^[0-9]\{2\}:[0-9]\{2\} //" \
-#    -e "s/\[[0-9]\+\]//" \
-#    -e "s/\(${input_name}\)\s*: /Player: /" \
-#    -e "s/^${input_name}\s/Player /" "$file_name" | awk 'NF'
+print("Current working directory:", os.getcwd())
+
+errors_found = False
+for folder in folders:
+    if check_txt_files_for_errors(folder):
+        errors_found = True
+
+if errors_found:
+    sys.exit(1)
