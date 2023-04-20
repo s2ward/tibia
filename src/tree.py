@@ -26,7 +26,7 @@ def load_file_mapping(file_mapping_path):
     with open(file_mapping_path, 'r') as file:
         return json.load(file)
 
-file_mapping = load_file_mapping("../api/file_mapping.json")
+file_mapping = load_file_mapping("api/file_mapping.json")
 
 def _draw_tree(tree, level, file, last=False, sup=[], is_root=False):
     def update(left, i):
