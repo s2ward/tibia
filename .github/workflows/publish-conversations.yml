@@ -84,15 +84,15 @@ jobs:
 
     - name: Update file mapping
       run: |
-          mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '/^npc\// {print $2}')
-          mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '/^npc\// {print $2}')
-          mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '/^npc\// {print $2"\t"$3}')
-          mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '/^npc\// {print $2}')
-          ADDED_FILES=${ADDED_FILES[@]}
-          MODIFIED_FILES=${MODIFIED_FILES[@]}
-          RENAMED_FILES=${RENAMED_FILES[@]}
-          DELETED_FILES=${DELETED_FILES[@]}
-          python src/update_file_mapping.py "$repo_dir" "$base_dir" "${ADDED_FILES// /|}" "${MODIFIED_FILES// /|}" "${RENAMED_FILES// /|}" "${DELETED_FILES// /|}"
+        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2"\t"$3}' | grep '^npc/')
+        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+        ADDED_FILES=${ADDED_FILES[@]}
+        MODIFIED_FILES=${MODIFIED_FILES[@]}
+        RENAMED_FILES=${RENAMED_FILES[@]}
+        DELETED_FILES=${DELETED_FILES[@]}
+        python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
 
     - name: Commit file_mapping.json
       uses: stefanzweifel/git-auto-commit-action@v4
