@@ -126,19 +126,19 @@ empty_files_tree = build_tree_from_mapping(file_mapping, repo_url, only_empty=Tr
 unverified_files_tree = build_tree_from_mapping(file_mapping, repo_url, only_unverified=True)
 
 # Draw trees and save them to files
-draw_tree([all_files_tree], '../doc/all_transcripts.md')
-draw_tree([verified_files_tree], '../doc/verified_transcripts.md')
-draw_tree([empty_files_tree], '../doc/empty_transcripts.md')
-draw_tree([unverified_files_tree], '../doc/unverified_transcripts.md')
+draw_tree([all_files_tree], 'doc/all_transcripts.md')
+draw_tree([verified_files_tree], 'doc/verified_transcripts.md')
+draw_tree([empty_files_tree], 'doc/empty_transcripts.md')
+draw_tree([unverified_files_tree], 'doc/unverified_transcripts.md')
 
 # Post-process files
-post_process_file('../doc/all_transcripts.md')
-post_process_file('../doc/verified_transcripts.md')
-post_process_file('../doc/empty_transcripts.md')
-post_process_file('../doc/unverified_transcripts.md')
+post_process_file('doc/all_transcripts.md')
+post_process_file('doc/verified_transcripts.md')
+post_process_file('doc/empty_transcripts.md')
+post_process_file('doc/unverified_transcripts.md')
 
 # Add navigation
-add_navigation('../doc/all_transcripts.md', 0)
-add_navigation('../doc/verified_transcripts.md', 1)
-add_navigation('../doc/empty_transcripts.md', 2)
-add_navigation('../doc/unverified_transcripts.md', 3)
+add_navigation('doc/all_transcripts.md', 0)
+add_navigation('doc/verified_transcripts.md', 1)
+add_navigation('doc/empty_transcripts.md', 2)
+add_navigation('doc/unverified_transcripts.md', 3)
