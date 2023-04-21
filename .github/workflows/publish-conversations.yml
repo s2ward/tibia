@@ -31,7 +31,6 @@ jobs:
           cd npc
           python ../src/validate.py
 
-
   update_file_mapping:
     needs: validate
     if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
@@ -48,19 +47,21 @@ jobs:
         python-version: 3.8
 
     - name: Fetch changes
-      run: git fetch origin main
-
+      run: | 
+        git fetch origin main
+        PR_FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
     - name: Checkout base branch files
-      run: git worktree add base FETCH_HEAD
-
+      run: |
+        git worktree add base FETCH_HEAD
     - name: Checkout previous commit's file_mapping.json
-      run: git checkout FETCH_HEAD -- api/file_mapping.json
-
+      run: | 
+        git checkout $PR_FIRST_COMMIT -- api/file_mapping.json
     - name: Update file mapping
       run: |
         mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
         mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2"\t"$3}' | grep '^npc/')
+
+        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
         mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
         ADDED_FILES=${ADDED_FILES[@]}
         MODIFIED_FILES=${MODIFIED_FILES[@]}
@@ -103,7 +104,7 @@ jobs:
           branch: ${{ github.head_ref }}
           
   generate_trees:
-      needs: update_file_mapping
+      needs: convert
       runs-on: ubuntu-latest
       steps:
         - name: Checkout code
