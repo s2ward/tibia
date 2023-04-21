@@ -108,6 +108,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wyrdin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Wyrdin.txt)  
 ├─&nbsp;&nbsp;<strong>Farmine</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Cael.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Chazorai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Chrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai/Chrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Esrik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Esrik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Muggy Plains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains/Nina.txt)  

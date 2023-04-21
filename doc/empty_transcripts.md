@@ -122,8 +122,6 @@
 ├─&nbsp;&nbsp;<strong>Farmine</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Sleeping Dragon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/A_Sleeping_Dragon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Broken Servant Sentry</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Broken_Servant_Sentry.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Chazorai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Chrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai/Chrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Corrupted Gardens</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gate Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens/Gate_Guardian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Crowned Tree</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Crowned_Tree.txt)  
