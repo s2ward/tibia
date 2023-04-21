@@ -45,7 +45,7 @@ def _draw_tree(tree, level, file, last=False, sup=[], is_root=False):
             if isinstance(tree, Node):
                 tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tag}</strong>' + f" [↗]({url})"
             else:  # Leaf
-                tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<span style="font-size: 90%;">{tag}</span>' + f" [↗]({url})"
+                tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<span style="font-size: 90%;">{tag}</span>' + f" [↗]({url + '.txt'})"
         else:
             tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tree.tag.replace("_", " ")}</strong>'
 
