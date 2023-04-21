@@ -6,54 +6,46 @@ Research: [s2ward/docs](https://github.com/s2ward/docs)
 TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
 Search Transcripts: [NPSearch](https://talesoftibia.com/pages/tools.html)   
 NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
+All Transcripts: [↗](./doc/all_transcripts.md)  
 
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
-By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A_Prisoner"), note the underscore.  
+By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A Prisoner").  
 
 ### Tree views  
-All Transcripts: [All](./doc/all_files_tree.md)   
-Empty transcripts: [Empty](./doc/empty_files_tree.md)  
-Unverified transcripts: [Unverified](./doc/unverified_files_tree.md)  
+All Transcripts: [↗](./doc/all_transcripts.md)   
+Verified Transcripts: [↗](./doc/verified_transcripts.md)   
+Empty transcripts: [↗](./doc/empty_transcripts.md)  
+Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
 
 Repository structure
 ```
-└── Yalahar
-    ├── A_Beautiful_Girl_UNVERIFIED.txt
-    ├── A_Grumpy_Cyclops_EMPTY.txt
-    ├── Beregar
-    │   ├── Bolfona_(TibiaSecrets).txt
-    │   ├── Bolfona_And_Drog_(TibiaSecrets).txt
-    │   ├── Drog_(TibiaSecrets).txt
-    │   ├── Emperor_Rehal_(TibiaSecrets).txt
-    │   ├── Frok,_The_Guard_(TibiaSecrets).txt
-    │   ├── Harog_(TibiaSecrets).txt
-    │   └── Kihil,_The_Guard_(TibiaSecrets).txt
-    ├── Beregar Mines
-    │   ├── Frafnar_(TibiaSecrets).txt
-    │   ├── Grombur_(TibiaSecrets).txt
-    │   ├── Nokmir_(TibiaSecrets).txt
-    │   ├── Pyromental_(TibiaSecrets).txt
-    │   ├── Pythius_the_Rotten_(TibiaSecrets).txt
-    │   ├── Rehon_(TibiaSecrets).txt
-    │   ├── Tehlim_(TibiaSecrets).txt
-    │   ├── Xorlosh_(TibiaSecrets).txt
-    │   └── Zirkon_(TibiaSecrets).txt
-    ├── Captain_Cookie_(TibiaSecrets).txt
-    ├── Chuckles_(TibiaSecrets).txt
-    ├── Dorbin_(TibiaSecrets).txt
-    ├── Fenrock
-    │   └── Golem_Servant_(TibiaSecrets).txt
-    ├── Golem_Guardian_EMPTY.txt
+├── Yalahar
+│   ├── A_Beautiful_Girl.txt
+│   ├── A_Grumpy_Cyclops.txt
+│   ├── Beregar
+│   │   ├── Bolfona.txt
+│   │   ├── Bolfona_And_Drog.txt
+│   │   ├── Drog.txt
+│   │   ├── Emperor_Rehal.txt
+│   │   ├── Frok,_The_Guard.txt
+│   │   ├── Harog.txt
+│   │   └── Kihil,_The_Guard.txt
+│   ├── Beregar_Mines
+│   │   ├── Frafnar.txt
+│   │   ├── Grombur.txt
+│   │   ├── Nokmir.txt
+│   │   ├── Pyromental.txt
+│   │   ├── Pythius_the_Rotten.txt
+│   │   ├── Rehon.txt
+│   │   ├── Tehlim.txt
+│   │   ├── Xorlosh.txt
+│   │   └── Zirkon.txt
+│   ├── Captain_Cookie.txt
+│   ├── Chuckles.txt
 ... 
 And so on.  
 ```
-
-Where:  
-- _EMPTY.txt are empty files.   
-- _UNVERIFIED.txt are unverified transcripts.  
-- _(TibiaSecrets).txt are from TibiaSecrets.com.  
-- .txt are verified. e.g. Ulala.txt.  
 
 ## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
 
@@ -75,9 +67,12 @@ NPC: {npc response}
 ```
 
 And raise a pull-request on main branch.  
+You are now done.  
 
 On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/publish-conversations.yml) will make sure that the format is correct by running src/validate.py.  
-If validation succeeds, another job will run which will convert all transcripts including your new contribution into api/conversations.json.   
+If validation succeeds, api/file-mappings.json will update based on what changes have been done.  
+Tree views doc/*_transcripts.md will be generated and updated using api/file-mappings.json.  
+Another job will run which will convert all transcripts including your new contribution into api/conversations.json.   
 Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/pages/tools.html) fetches the .json and uses it for search using src/search.js  
 
 If you want to contribute but have no idea how, you may also send the transcripts through:  
