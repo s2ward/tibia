@@ -46,21 +46,20 @@ jobs:
       with:
         python-version: 3.8
 
-    - name: Fetch changes
-      run: | 
-        git fetch origin main
-        PR_FIRST_COMMIT=$(git rev-list --max-parents=0 HEAD)
+    - name: Fetch base branch
+      run: |
+        git fetch origin ${{ github.event.pull_request.base.ref }}
+
     - name: Checkout base branch files
       run: |
         git worktree add base FETCH_HEAD
-    - name: Checkout previous commit's file_mapping.json
-      run: | 
-        git checkout $PR_FIRST_COMMIT -- api/file_mapping.json
+      env:
+        base_dir: base
+
     - name: Update file mapping
       run: |
         mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
         mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-
         mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
         mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
         ADDED_FILES=${ADDED_FILES[@]}
@@ -68,6 +67,9 @@ jobs:
         RENAMED_FILES=${RENAMED_FILES[@]}
         DELETED_FILES=${DELETED_FILES[@]}
         python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+      env:
+        repo_dir: ${{ github.workspace }}
+        base_dir: ${{ github.workspace }}/base
 
     - name: Commit file_mapping.json
       uses: stefanzweifel/git-auto-commit-action@v4
@@ -111,16 +113,21 @@ jobs:
           uses: actions/checkout@v2
           with:
             ref: ${{ github.event.pull_request.head.sha }}
-  
+
         - name: Set up Python
           uses: actions/setup-python@v2
           with:
             python-version: 3.8
-  
+
+        - name: Fetch latest changes
+          run: |
+            git fetch
+            git checkout ${{ github.head_ref }}
+
         - name: Generate trees
           run: |
             python src/tree.py
-  
+
         - name: Commit tree files
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
