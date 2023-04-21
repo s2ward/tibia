@@ -7,8 +7,8 @@ def remove_status(mapping, file_path):
     """Remove the status for a given file path in the file mapping."""
     file_path = file_path.with_suffix('')
     parts = file_path.parts
-    if parts[0] == 'npc':  # Add this line
-        parts = parts[1:]  # Add this line
+    if parts[0] == 'npc':  
+        parts = parts[1:]  
     cur = mapping
     for part in parts[:-1]:
         cur = cur[part]
