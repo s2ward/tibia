@@ -268,7 +268,7 @@
         "Chief_Grarkharok": "VERIFIED",
         "Chrystal": "UNVERIFIED",
         "Cormaya": {
-            "A_Majestic_Warwolf": "EMPTY",
+            "A_Majestic_Warwolf": "UNVERIFIED",
             "Dedoras": "UNVERIFIED",
             "Ghostly_Wolf": "UNVERIFIED",
             "Gurbasch": "VERIFIED",
@@ -358,7 +358,7 @@
         "Broken_Servant_Sentry": "EMPTY",
         "Cael": "VERIFIED",
         "Chazorai": {
-            "Chrak": "EMPTY"
+            "Chrak": "VERIFIED"
         },
         "Corrupted_Gardens": {
             "Gate_Guardian": "EMPTY"
