@@ -2,10 +2,10 @@ import os
 from functools import reduce
 import json
 
-branch = '├──'
+branch = '├'
 pipe = '│'
-end = '└──'
-dash = '──'
+end = '└'
+dash = '─'
 
 root_folder = '../npc'
 repo_url = 'https://github.com/s2ward/tibia/blob/main/npc'
@@ -31,16 +31,21 @@ file_mapping = load_file_mapping("api/file_mapping.json")
 def _draw_tree(tree, level, file, last=False, sup=[], is_root=False):
     def update(left, i):
         if i < len(left):
-            left[i] = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
+            left[i] = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
         return left
 
     if not is_root:
-        prefix = ''.join(reduce(update, sup, ['{}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'.format(pipe)] * level))
+        prefix = ''.join(reduce(update, sup, ['{}&nbsp;&nbsp;&nbsp;&nbsp;'.format(pipe)] * level))
 
         if isinstance(tree.tag, tuple):
             tag, url = tree.tag
             tag = tag.replace('_', ' ').replace(',', '&#44;')  # Replace underscores and commas
-            tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tag}</strong>' + f" [↗]({url})"
+            
+            # Check if the tree object is a Node or a Leaf
+            if isinstance(tree, Node):
+                tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tag}</strong>' + f" [↗]({url})"
+            else:  # Leaf
+                tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<span style="font-size: 90%;">{tag}</span>' + f" [↗]({url})"
         else:
             tree_line = prefix + (end if last else branch) + '{}&nbsp;&nbsp;'.format(dash) + f'<strong>{tree.tag.replace("_", " ")}</strong>'
 
@@ -53,6 +58,7 @@ def _draw_tree(tree, level, file, last=False, sup=[], is_root=False):
         for node in tree.nodes[:-1]:
             _draw_tree(node, level, file, sup=sup)
         _draw_tree(tree.nodes[-1], level, file, True, [level] + sup)
+
 
 def draw_tree(trees, filename):
     with open(filename, 'w') as file:
@@ -93,8 +99,8 @@ def post_process_file(filename):
 
     with open(filename, 'w') as file:
         for i, line in enumerate(lines):
-            # Remove "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" from the beginning of each line
-            line = line.replace("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", "", 1)
+            # Remove spaces from the beginning of each line
+            line = line.replace("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;", "", 1)
 
             # Replace the first character of the first line with ".&nbsp;&nbsp;"
             if i == 0:
