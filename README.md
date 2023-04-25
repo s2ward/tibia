@@ -47,7 +47,7 @@ Repository structure
 And so on.  
 ```
 
-## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
+## How to contribute to [NPSearch](https://www.talesoftibia.com/pages/tools.html)  
 
 ![image](https://user-images.githubusercontent.com/25346191/234275580-fbdad372-29f2-416d-a2f2-70aa763a92af.png)
 
