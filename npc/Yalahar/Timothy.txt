@@ -1,13 +1,13 @@
 Player: hi  
-Timothy: Oh, hello! It’s a pleasure to see a visitor from the continent.  
+Timothy: Oh, hello! It's a pleasure to see a visitor from the continent.  
 Player: visitor / job  
-Timothy: I work for the explorer’s society as an information gatherer here in this newly discovered city.  
+Timothy: I work for the explorer's society as an information gatherer here in this newly discovered city.  
 Player: society  
-Timothy: As we are interested in many fields, it’s no wonder that we are here. There are so many marvels to observe and so many things to discover. …  
+Timothy: As we are interested in many fields, it's no wonder that we are here. There are so many marvels to observe and so many things to discover. ...  
 Timothy: It will take a lifetime to compile all that knowledge. If you are interested, you can assist me in this matter.  
 Player: assist  
-Timothy: If you stumble upon an artefact from Yalahar’s past, I’d certainly be interested in buying it from you. …  
-Timothy: These artefacts come in different shapes and sizes, but I’m sure you will recognise their importance.  
+Timothy: If you stumble upon an artefact from Yalahar's past, I'd certainly be interested in buying it from you. ...  
+Timothy: These artefacts come in different shapes and sizes, but I'm sure you will recognise their importance.  
 Player: artefact  
 Timothy: Do you have a real Yalahari artefact with you?  
 Player: no  
@@ -17,22 +17,22 @@ Timothy: Do you have a real Yalahari artefact with you?
 Player: yes  
 Timothy: Excellent! You will find Palimuth near the entrance of the city centre. Just ask him if you can assist him in a few missions.  
 Player: city / yalahar  
-Timothy: The city is still a marvel to behold. I can only slightly imagine how it must have looked in its prime. …  
-Timothy: It’s a shame that all its glory vanished through the centuries.  
+Timothy: The city is still a marvel to behold. I can only slightly imagine how it must have looked in its prime. ...  
+Timothy: It's a shame that all its glory vanished through the centuries.  
 Player: name  
-Timothy: I’m Timothy of the explorer’s society.  
+Timothy: I'm Timothy of the explorer's society.  
 Player: palimuth  
-Timothy: He works as an Augur – a high ranking official of the city. He’s responsible for assigning all available helpers to different tasks. …  
+Timothy: He works as an Augur - a high ranking official of the city. He's responsible for assigning all available helpers to different tasks. ...  
 Timothy: An ungrateful job considering what kind of helpers are at his disposal. There are many problems and the number of the hired helpers is small.  
 Player: cookies  
-Timothy: Look, my friend, I’m only interested in ancient artefacts. Ancient cookies are not what I’m looking for.  
+Timothy: Look, my friend, I'm only interested in ancient artefacts. Ancient cookies are not what I'm looking for.  
 Player: vampire  
-Timothy: I’ve just started to research why the vampires attack Yalahar, but unfortunately I’ve not gotten very far yet.  
+Timothy: I've just started to research why the vampires attack Yalahar, but unfortunately I've not gotten very far yet.  
 Player: mission  
-Timothy: Oh, didn’t I mention it? A friend of mine, a local officer named Palimuth, needs some assistance. Maybe you are interested in this job!  
+Timothy: Oh, didn't I mention it? A friend of mine, a local officer named Palimuth, needs some assistance. Maybe you are interested in this job!  
 Player: blood crystal  
-Timothy: Oh yes, I heard about a gem like that. Nowadays they seem incredibly hard to acquire. The explorer’s society doesn’t own one, else I’d help you.  
+Timothy: Oh yes, I heard about a gem like that. Nowadays they seem incredibly hard to acquire. The explorer's society doesn't own one, else I'd help you.  
 Player: research notes  
-Timothy: You’ve already received my notes.  
+Timothy: You've already received my notes.  
 Player: farewell / bye  
 Timothy: Good bye.  

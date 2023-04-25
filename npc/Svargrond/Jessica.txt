@@ -64,6 +64,6 @@ Jessica: I am fine. Odd that you ask though ... I hope you are not up to somethi
 Player: News  
 Jessica: There are no news. I think that's quite suspicious.  
 Player: Rumours  
-Jessica: I heard the jarl opened a head hunt on the Venorans. As this is a secret, you have to use the keyword “blubber” to gain his trust in that case. He promised 1000 gold for every dead Venorean hunter.  
+Jessica: I heard the jarl opened a head hunt on the Venorans. As this is a secret, you have to use the keyword "blubber" to gain his trust in that case. He promised 1000 gold for every dead Venorean hunter.  
 Player: Bye  
 Jessica: Good bye.  

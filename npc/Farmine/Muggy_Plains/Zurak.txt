@@ -5,11 +5,11 @@ Zurak: Me zzimple ferryman. I arrange trip to Izzle of Zztrife.
 Player: trip  
 Zurak: You want trip to Izzle of Zztrife?  
 Player: yes  
-Zurak: It’zz your doom you travel to.  
+Zurak: It'zz your doom you travel to.  
 Player: trip / passage / boat / main  
 Zurak: You want trip to Izzle of Zztrife?  
 Player: yes  
-Zurak: It’zz your doom you travel to.  
+Zurak: It'zz your doom you travel to.  
 Player: trip / passage / boat / main  
 Zurak: You want trip to mainland?  
 Player: no  

@@ -1,13 +1,13 @@
 Player: hi  
 Irmana: Welcome to the house of fashion, Player!  
 Player: fashion / offer / stuff / goods / buy / sell / equipment / ware  
-Irmana: If you’d like to take a look at what I buy from you, ask me for a trade. I can also fabricate cloth, and sometimes, for special occasions, hats.  
+Irmana: If you'd like to take a look at what I buy from you, ask me for a trade. I can also fabricate cloth, and sometimes, for special occasions, hats.  
 Player: trade  
-Irmana: I’m currently interested in these materials.  
+Irmana: I'm currently interested in these materials.  
 Player: fabricate  
 Irmana: I can fabricate green cloth from green tunics, red cloth from red robes and blue cloth from mystic turbans.  
 Player: hats  
-Irmana: Sorry, but I don’t currently create hats.  
+Irmana: Sorry, but I don't currently create hats.  
 Player: name  
 Irmana: I am Irmana, pleased to meet you.  
 Player: job  
@@ -19,11 +19,11 @@ Irmana: If you are in need of cloth and do not have the time to hunt down monste
 Player: kalvin  
 Irmana: <blushes> Such a handsome and polite gentleman.  
 Player: hugo  
-Irmana: He is a grand tailor and designer. Well, mostly a designer, he usually doesn’t bother with the tailoring work. That’s my job.  
+Irmana: He is a grand tailor and designer. Well, mostly a designer, he usually doesn't bother with the tailoring work. That's my job.  
 Player: fur / hunter  
 Irmana: I already sold you the fur.  
 Player: addon  
-Irmana: Currently we are offering accessories for the nobleman – and, of course, noblewoman – outfit. Would you like to hear more about our offer?  
+Irmana: Currently we are offering accessories for the nobleman - and, of course, noblewoman - outfit. Would you like to hear more about our offer?  
 Player: yes  
 Irmana: It seems that you have already purchased all of our accessories, Player. Impressive.  
 Player: noblewoman / nobleman  
@@ -33,7 +33,7 @@ Irmana: If you want to learn about our new collection, ask Kalvin.
 Player: mystic turban  
 Irmana: Would you like me to fabricate one piece of blue cloth from your mystic turban?  
 Player: yes  
-Irmana: Sorry, but you don’t have a mystic turban.  
+Irmana: Sorry, but you don't have a mystic turban.  
 Player: mystic turban  
 Irmana: Would you like me to fabricate one piece of blue cloth from your mystic turban?  
 Player: no  

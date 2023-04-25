@@ -3,17 +3,17 @@ Arito: Be mourned, pilgrim in flesh. Be mourned in my tavern.
 Player: name  
 Arito: My name is Arito.  
 Player: tavern  
-Arito: This tavern is called the ‘Old Scarab’s Shell’. If you like to see my offers, ask me for a trade.  
+Arito: This tavern is called the 'Old Scarab's Shell'. If you like to see my offers, ask me for a trade.  
 Player: trade  
 Arito: Sure, browse through my offers.  
 Player: job  
-Arito: I’m the owner of this tavern. If you like to see my offers, ask me for a trade.  
+Arito: I'm the owner of this tavern. If you like to see my offers, ask me for a trade.  
 Player: ankrahmun  
 Arito: Our city is a marvel. It is the envy of the whole world.  
 Player: darama  
 Arito: This is our continent. Ankrahmun is its biggest and most marvellous city.  
 Player: ferumbras  
-Arito: This servant of evil won’t even dare to enter our city and to call the wrath of our Pharaoh upon him.  
+Arito: This servant of evil won't even dare to enter our city and to call the wrath of our Pharaoh upon him.  
 Player: pharaoh  
 Arito: Our Pharaoh is our father, shepherd and teacher.  
 Player: city  
@@ -37,11 +37,11 @@ Arito: Thais is the capital of an insolent realm. Its people embrace life withou
 Player: drink  
 Arito: Do you want beer, wine, lemonade, or water? Ask me for a trade to make your choice.  
 Player: carlin  
-Arito: Carlin is the twin sister of Thais. Another city that hasn’t found the true path yet.  
+Arito: Carlin is the twin sister of Thais. Another city that hasn't found the true path yet.  
 Player: time  
 Arito: It is exactly 6:55 am.  
 Player: nomad  
-Arito: I already told you my story and don’t want to repeat it.  
+Arito: I already told you my story and don't want to repeat it.  
 Player: excalibug  
 Arito: Our Pharaoh does not have any use for such a weapon. As powerful as it may be, it is nothing compared to his divine power.  
 Player: buy / sell / ware / offer / goods / stuff / equipment  
@@ -55,18 +55,18 @@ Arito: In the arena life challenges death. Death will be victorious in the end, 
 Player: mourned  
 Arito: Mortality is a curse. That is why mortals have to be mourned.  
 Player: list  
-Arito: I already told you my story and don’t want to repeat it.  
+Arito: I already told you my story and don't want to repeat it.  
 Player: mortality  
 Arito: Mortality keeps us from finding our way to ascension.  
 Player: ascension  
 Arito: For us mortals ascension is but a distant dream.  
 Player: news / rumors  
-Arito: I’ve heard some blasphemous adventurers have excavated one of the ancient burial sites in the desert.  
+Arito: I've heard some blasphemous adventurers have excavated one of the ancient burial sites in the desert.  
 Player: temple  
 Arito: The temple is to the east, not far from the shore.  
 Player: palace  
 Arito: The residence of our beloved Pharaoh can be found to the south of the arena.  
 Player: special  
-Arito: I don’t think our city offers anything that special. Well, save for embalming fluids perhaps. Our alchemists and priests have perfected it.  
+Arito: I don't think our city offers anything that special. Well, save for embalming fluids perhaps. Our alchemists and priests have perfected it.  
 Player: farewell / bye  
 Arito: Do visit us again.  

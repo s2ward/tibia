@@ -3,7 +3,7 @@ Elyen Ravenlock: Hello, brother. What is it now?
 Player: blood  
 Elyen Ravenlock: The dark well inside our fleshly hull. It sings to us, and to the Dark Lord.  
 Player: blood priest  
-Elyen Ravenlock: They are drawn to blood like a wasp is to honey. They have a …special interest in it, I presume.  
+Elyen Ravenlock: They are drawn to blood like a wasp is to honey. They have a ...special interest in it, I presume.  
 Player: poison  
 Elyen Ravenlock: For yourself or someone else? Give the details to our apothecaries upstairs, they will settle the price, too.  
 Player: drefia  
@@ -19,7 +19,7 @@ Elyen Ravenlock: Our brothers in the service of the Dark Lord.
 Player: priestess  
 Elyen Ravenlock: I serve the Dark Lord. As do you, but you do not know it yet.  
 Player: rats  
-Elyen Ravenlock: Urgith’s chosen. They run through our halls, free and unhindered. Do not harm them.  
+Elyen Ravenlock: Urgith's chosen. They run through our halls, free and unhindered. Do not harm them.  
 Player: ritual  
 Elyen Ravenlock: You could assist, I assume.  
 Player: scroll  

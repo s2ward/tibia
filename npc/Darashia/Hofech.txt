@@ -9,7 +9,7 @@ Hofech: I am Hofech Ibn Kalith.
 Player: job  
 Hofech: I am selling furniture and equipment to grace the homes.  
 Player: time  
-Hofech: It’s 9:11 pm my friend.  
+Hofech: It's 9:11 pm my friend.  
 Player: daraman  
 Hofech: The prophet is alive! Both in the heavens and in our our hearts.  
 Player: excalibug  
@@ -17,18 +17,18 @@ Hofech: I think if that sword really existed, it would make a splendid decoratio
 Player: tibia  
 Hofech: One day I will take my flying carpet to see the whole world.  
 Player: carpet  
-Hofech: No no, I don’t sell any carpets.  
+Hofech: No no, I don't sell any carpets.  
 Player: ferumbras  
-Hofech: I don’t know about such a person, my friend.  
+Hofech: I don't know about such a person, my friend.  
 Player: thais  
 Hofech: The wood we are using to make our exquisite furniture is partly supplied by Thais.  
 Player: carlin  
 Hofech: I was not there yet. But I plan to travel there one day.  
 Player: furniture / stuff / wares / offer / equipment / buy / sell / goods  
-Hofech: I sell extraordinarily cheap furniture of excellent quality. Ask me for a trade if you’re interested to see my wares.  
+Hofech: I sell extraordinarily cheap furniture of excellent quality. Ask me for a trade if you're interested to see my wares.  
 Player: caliph / kazzan  
 Hofech: The caliph has the finest home and interior decoration in Darashia.  
 Player: daraman  
 Hofech: The prophet is alive! Both in the heavens and in our our hearts.  
 Player: bye  
-Hofech: Daraman’s blessings, Player.  
+Hofech: Daraman's blessings, Player.  

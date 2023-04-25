@@ -7,13 +7,13 @@ Bruce: This used to be a great recreation area with a zoo and a lively arena.
 Player: augur  
 Bruce: They are our supervisors.  
 Player: cemetery quarter  
-Bruce: This is the quarter to the east. Don’t expect any worshippers of our Tibian gods though.  
+Bruce: This is the quarter to the east. Don't expect any worshippers of our Tibian gods though.  
 Player: factory quarter  
 Bruce: Those old and malfunctioning machines could pose a threat to civilians.  
 Player: fenrock  
-Bruce: It’s a snowy island to the west.  
+Bruce: It's a snowy island to the west.  
 Player: foreign quarter  
-Bruce: New inhabitants are arriving daily, and most will be stuck in the foreigners’ quarter forever.  
+Bruce: New inhabitants are arriving daily, and most will be stuck in the foreigners' quarter forever.  
 Player: island  
 Bruce: Which island are you talking about? Mistrock, Fenrock or Vengoth?  
 Player: job / business  
@@ -23,7 +23,7 @@ Bruce: I have huge respect for those highly educated magicians living there and 
 Player: mission  
 Bruce: What is that mission you are talking about?  
 Player: mistrock  
-Bruce: No one knows what this island is really called, but the people stick with ‘mistrock’ due to it being covered in mist.  
+Bruce: No one knows what this island is really called, but the people stick with 'mistrock' due to it being covered in mist.  
 Player: name  
 Bruce: My name is Bruce.  
 Player: pass / gate  
@@ -35,7 +35,7 @@ Bruce: I have nothing to say about that topic.
 Player: sunken quarter  
 Bruce: The quarter collapsed into the ocean.  
 Player: trade quarter  
-Bruce: I think it’s an outrage that this quarter is controlled by criminals.  
+Bruce: I think it's an outrage that this quarter is controlled by criminals.  
 Player: vengoth  
 Bruce: One day the vampires on Vengoth will become a big threat. We should expect the worst from that place.  
 Player: Yalahar  

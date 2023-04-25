@@ -35,7 +35,7 @@ Flint: You need knight spells? Go see him in the old barbican. Two houses down t
 Player: nicholas  
 Flint: Strange lad. Head full of tapestry and clocks.  
 Player: fayla  
-Flint: Still a beautiful woman. Carried a torch for her in my youth. Heh. Sells instruments now, doesn’t she?  
+Flint: Still a beautiful woman. Carried a torch for her in my youth. Heh. Sells instruments now, doesn't she?  
 Player: alaistar  
 Flint: Fancy ideas about minotaurs. Intrepid man, though.  
 Player: azalea  
@@ -49,6 +49,6 @@ Flint: Only interested in making runes and wands. If you need magical equipment,
 Player: silas  
 Flint: One floor upstairs, friend.  
 Player: virgil / carefew  
-Flint: Bank manager. Very influential. Don’t get on his bad side, friend.  
+Flint: Bank manager. Very influential. Don't get on his bad side, friend.  
 Player: bye / farewell  
 Flint: Be well, citizen.  

@@ -11,9 +11,9 @@ A Prisoner: Power. Hmmm. Once while we were crossing the mountains together a ma
 Player: Key  
 A Prisoner: Sure I have the key! Hehehe! Perhaps I will give it to you. IF you can solve my riddle.  
 Player: Riddle  
-A Prisoner: Great riddle, isn´t it? If you can tell me the correct answer, I will give you something. Hehehe!  
+A Prisoner: Great riddle, isn't it? If you can tell me the correct answer, I will give you something. Hehehe!  
 Player: PD-D-KS-P-PD  
-A Prisoner: Hurray! For that I will give you my key for - hmm - let´s say ... some apples. Interested?  
+A Prisoner: Hurray! For that I will give you my key for - hmm - let's say ... some apples. Interested?  
 Player: yes  
 A Prisoner: Mnjam - excellent apples. Now - about that key. You are sure want it?  
 Player: yes  

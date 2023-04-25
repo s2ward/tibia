@@ -1,15 +1,15 @@
 Player: hi
-Cranky Lizard Crone: Hello zere! Erm, iz… iz zere zomeone zere? Come clozer I can’t zee zo good anymore.
+Cranky Lizard Crone: Hello zere! Erm, iz... iz zere zomeone zere? Come clozer I can't zee zo good anymore.
 Player: behaviour / name / anymore
 Cranky Lizard Crone: All izz gtting harder and harder witzz zze yearzz, even my job.
 Player: emperor
-Cranky Lizard Crone: Hm, I don’t really know, it seemz I.. cannot really remember. Well, I guezz he did not interfere wiz ze lifez of uz small folk here in ze village. And we alwayz had problemz of our own.
+Cranky Lizard Crone: Hm, I don't really know, it seemz I.. cannot really remember. Well, I guezz he did not interfere wiz ze lifez of uz small folk here in ze village. And we alwayz had problemz of our own.
 Player: zao
 Cranky Lizard Crone: The world in which we all dwell. I have been here for zo long now, zo long.
 Player: cape / hat
-Cranky Lizard Crone: I made zomezing for you, didn’t I? Now leave ziz plaze, hush! Leave me alone.
+Cranky Lizard Crone: I made zomezing for you, didn't I? Now leave ziz plaze, hush! Leave me alone.
 Player: mission / quest
-Cranky Lizard Crone: Oooh… I am alone again, alone forever. Oooh. And nozing to do, nozing. But I want to help.. want to make up for the trouble I cauzed. …
-Cranky Lizard Crone: YOU – you zere, I can help you.. maybe, I can clean your houze, no? Or make breakfazt, no? Do you have any trouzerz, hat, cape or clozez you need to fix, no? Ah, I am alone, ever alone.
+Cranky Lizard Crone: Oooh... I am alone again, alone forever. Oooh. And nozing to do, nozing. But I want to help.. want to make up for the trouble I cauzed. ...
+Cranky Lizard Crone: YOU - you zere, I can help you.. maybe, I can clean your houze, no? Or make breakfazt, no? Do you have any trouzerz, hat, cape or clozez you need to fix, no? Ah, I am alone, ever alone.
 Player: bye
-Cranky Lizard Crone: Goodbye erm… your name waz… erm…
+Cranky Lizard Crone: Goodbye erm... your name waz... erm...

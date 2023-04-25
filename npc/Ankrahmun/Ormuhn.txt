@@ -1,11 +1,11 @@
 Player: hi / hello  
 Ormuhn: Be mourned pilgrim in flesh, Player. Looking for knight spells?  
-Player: ab’dendriel / elves / elfes  
+Player: ab'dendriel / elves / elfes  
 Ormuhn: Elves are nothing but feeble treehuggers.  
 Player: Akh  
 Ormuhn: As far as I know this is what you would call your body. Ask a priest for further information.  
-Player: Akh’rah Uthun  
-Ormuhn: You should discuss such topics with our priests. I don’t care too much for these matters.  
+Player: Akh'rah Uthun  
+Ormuhn: You should discuss such topics with our priests. I don't care too much for these matters.  
 Player: ankrahmun  
 Ormuhn: This is the shelter of the mortal flock who listens to the teachings of our pharaoh.  
 Player: arena  
@@ -29,7 +29,7 @@ Ormuhn: Dwarves are worthy warriors. Still their mortal Akh makes them prey to t
 Player: mortality  
 Ormuhn: Your curse of mortality can be lifted if you only prove youself worthy in the eyes of our pharaoh.  
 Player: mourn  
-Ormuhn: Living flesh is so … pathetic.  
+Ormuhn: Living flesh is so ... pathetic.  
 Player: name  
 Ormuhn: I am called Ormuhn.  
 Player: oldpharaoh  
@@ -43,7 +43,7 @@ Ormuhn: That is your so-called soul. Ask a priest for further information.
 Player: scarab  
 Ormuhn: Scarabs might be sacred, but they are also a challenge. If you are able to overcome one of them, its spirit will forgive you. The everlasting sand will grant him rebirth anyway.  
 Player: spell  
-Ormuhn: Sorry, I don’t teach spells for your vocation.  
+Ormuhn: Sorry, I don't teach spells for your vocation.  
 Player: temple  
 Ormuhn: The temple takes care of your Uthun. In this arena we challenge your Akh.  
 Player: tibia  

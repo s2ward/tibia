@@ -32,9 +32,9 @@ Brian The Baker: The second part is a bit trickier to get. It is the raw cake ma
 Brian The Baker: We placed one in each of the raided cities. You will have to lure the golems into the machines, to extract the material from them. ...  
 Brian The Baker: We need it to have a stable base material that is resilient against wind, weather and salt water.  
 Player: Mass  
-Brian The Baker: We accumulated ??? of 200 sugary mass. We can't fail this year! We will not allow it!  
+Brian The Baker: We accumulated ??? of 200 sugary mass. We can't fail this year! We will not allow it!  
 Player: Base  
-Brian The Baker: I'm somewhat worried. Getting the base material is always the tricky part. People are usually a bit too eager to kill. We accumulated ??? of 200 base material until now.  
+Brian The Baker: I'm somewhat worried. Getting the base material is always the tricky part. People are usually a bit too eager to kill. We accumulated ??? of 200 base material until now.  
 Player: Magic Bakery Alliance  
 Brian The Baker: We are a mystic order of bakers who pursue goals for the benefit of all mankind. Don't even listen to the lies and propaganda spread by those who envy us.  
 Player: Order  
