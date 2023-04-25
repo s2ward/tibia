@@ -24,7 +24,7 @@ Curos: Greed, envy and the like are often more dangerous as they do not hit you 
 Player: humans
 Curos: The humans of this land are pathetic and even worse than the orcs. Yet, we know of the heights that humans are capable of. This is a clear proof that our influence on the orcs can change them. ...
 Curos: When humans can fall that far, why shouldn't orcs be able to rise to unknown heights?
-9:52 Player: lizards
+Player: lizards
 Curos: This land used to be the land of the lizards. But they took the land by force, so whoever has the power to challenge them can take as much of the land as he is able to gain and to hold.
 Player: land / zao
 Curos: The lizard men call this land Zao. The orcs did not bother to give the land a name, so we adopted the lizard term.
