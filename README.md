@@ -49,7 +49,7 @@ And so on.
 
 ## How to contribute to [NPSearch](https://talesoftibia.com/pages/tools.html)  
 
-![search](https://user-images.githubusercontent.com/25346191/230612401-1b6207c6-10de-4df6-8732-90c79c74a644.gif)
+![image](https://user-images.githubusercontent.com/25346191/234275580-fbdad372-29f2-416d-a2f2-70aa763a92af.png)
 
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
