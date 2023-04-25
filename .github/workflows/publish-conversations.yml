@@ -157,6 +157,7 @@ jobs:
         cp main/api/conversations.json gh-pages/api/
         cp main/api/file_mapping.json gh-pages/api/
         cp main/doc/*_transcripts.md gh-pages/api/tree/
+        cp main/api/npc_data.json gh-pages/api/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
