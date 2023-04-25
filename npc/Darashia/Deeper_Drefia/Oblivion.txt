@@ -1,7 +1,7 @@
 Player: hi / hello  
 Oblivion: Be greeted.  
 Player: blood priest  
-Oblivion: Dogs at the lord’s table.  
+Oblivion: Dogs at the lord's table.  
 Player: job  
 Oblivion: A guest at the doors.  
 Player: master  

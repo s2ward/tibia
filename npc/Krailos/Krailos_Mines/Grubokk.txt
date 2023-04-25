@@ -19,14 +19,14 @@ Grubokk: Land of ogres you see out there, hu-man!
 Player: revolt
 Grubokk: Been too quiet! You check on pesky goblins? Me reward you! Get tasty sauce!
 Player: mission
-Grubokk: Huh! Grubokk got all under control! Goblins quiet! But if not… tell me and Grubokk may have task for you! Harhar!
+Grubokk: Huh! Grubokk got all under control! Goblins quiet! But if not... tell me and Grubokk may have task for you! Harhar!
 Player: task / quest
 Grubokk: Arr harr! Pesky goblins up to no good? You wanna teach lesson? Me reward you!
 Player: tibia
-Grubokk: Ow! Don’t screech, human! Cannot understand! Say again that you no help goblin!
+Grubokk: Ow! Don't screech, human! Cannot understand! Say again that you no help goblin!
 Player: no help goblin
-Grubokk: That will show uppity goblins! Will take away water. Then they not feel so thirsty for revolt, harr! …
-Grubokk: Three things to make them sorry. Cut off water supplies in mines first. Then poison wells in their wormy city tunnels. Then flood them out of mines with sea water! …
+Grubokk: That will show uppity goblins! Will take away water. Then they not feel so thirsty for revolt, harr! ...
+Grubokk: Three things to make them sorry. Cut off water supplies in mines first. Then poison wells in their wormy city tunnels. Then flood them out of mines with sea water! ...
 Grubokk: Will be nicely marinated and seasoned when they wash up here! HAHAHAH!
 Player: chief
 Grubokk: Me want to be chieftain instead of chieftain!
@@ -45,9 +45,9 @@ Grubokk: She tribe shaman. She powerful. She keep tribe safe from evil spirits!
 Player: spirits
 Grubokk: I not know. Is stuff for shaman.
 Player: vuzrog
-Grubokk: Hah, him chieftain now. Him defeated Grubokk’s father who chieftain before! But I bide time! I eat well, grow stronger! Then I challenge! One day, I chieftain!
+Grubokk: Hah, him chieftain now. Him defeated Grubokk's father who chieftain before! But I bide time! I eat well, grow stronger! Then I challenge! One day, I chieftain!
 Player: mugruu
-Grubokk: Ph, him whimpy ogre. Never made as heavy a hammer as Grubokk! Him do like puny hu-man Larek do and trade stuff. Hah, Grubokk never trade for any of Mugruu’s stuff! Uh-uh!
+Grubokk: Ph, him whimpy ogre. Never made as heavy a hammer as Grubokk! Him do like puny hu-man Larek do and trade stuff. Hah, Grubokk never trade for any of Mugruu's stuff! Uh-uh!
 Player: hammer
 Grubokk: Me not give you my hammer! Is personal! You find own hammer! Puny hammers good enough for you! Take one from goblin workers. Me not care.
 Player: salt

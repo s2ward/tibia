@@ -23,13 +23,13 @@ Shirith: Thais is far away, as all humans should be.
 Player: time  
 Shirith: It is 8:18 pm.  
 Player: roderick  
-Shirith: We don’t need him or any other ambassador here.  
+Shirith: We don't need him or any other ambassador here.  
 Player: olrik  
-Shirith: As a post officer he has some use … as a troll has some use for mining.  
+Shirith: As a post officer he has some use ... as a troll has some use for mining.  
 Player: elves  
 Shirith: We are a superior race, indeed.  
 Player: dwarfs  
-Shirith: They could be of … some use.  
+Shirith: They could be of ... some use.  
 Player: humans  
 Shirith: Humans are more annoying than our trolls.  
 Player: cenath  
@@ -39,7 +39,7 @@ Shirith: We keep this society running. Without our tools and work our case would
 Player: deraisim  
 Shirith: They could do more for us if they would try more hard.  
 Player: abdaisim  
-Shirith: Let them go, we don’t need them.  
+Shirith: Let them go, we don't need them.  
 Player: teshial  
 Shirith: Who needs dreamers these days?  
 Player: ferumbras  

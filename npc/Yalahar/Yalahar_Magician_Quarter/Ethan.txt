@@ -5,9 +5,9 @@ Ethan: I train young paladins the art of our vocation, and an art it is without 
 Player: art  
 Ethan: Of course it is also the knowledge of spells.  
 Player: spells  
-Ethan: Sorry, I don’t teach spells for your vocation.  
+Ethan: Sorry, I don't teach spells for your vocation.  
 Player: name  
-Ethan: I’m Ethan.  
+Ethan: I'm Ethan.  
 Player: news  
 Ethan: For an old man like me everything sounds like old news.  
 Player: yalahar  
@@ -15,11 +15,11 @@ Ethan: This city has seen better days.
 Player: blood crystal  
 Ethan: Tamara mentioned it sometime ago.  
 Player: yalahari  
-Ethan: I hardly see any of them at all. I doubt that they care much about the things going on here. Else the city wouldn’t be the mess it is.  
+Ethan: I hardly see any of them at all. I doubt that they care much about the things going on here. Else the city wouldn't be the mess it is.  
 Player: druid  
 Ethan: Their tranquil ways have preserved much of their ancient philosophy. I appreciate that.  
 Player: sorcerer  
-Ethan: Sorcerers have always been power-hungry maniacs, and that hasn’t changed much over the years.  
+Ethan: Sorcerers have always been power-hungry maniacs, and that hasn't changed much over the years.  
 Player: knight  
 Ethan: The decline in knighthood seems even worse than the decline in our vocation.  
 Player: paladin  
@@ -31,21 +31,21 @@ Ethan: Every paladin profits from his vocation. It has many advantages to be a p
 Player: excalibug  
 Ethan: It might be a myth, but as long as it inspires people to great deeds, it should be retold.  
 Player: time  
-Ethan: If you are as old as I am, you don’t care about time anymore.  
+Ethan: If you are as old as I am, you don't care about time anymore.  
 Player: magic  
 Ethan: Magic is a weapon like any other. If it is wielded by a fool, it can be disastrous.  
 Player: cookie  
-Ethan: I’ve just had dinner, but thanks.  
+Ethan: I've just had dinner, but thanks.  
 Player: weapons  
 Ethan: A paladin has to be true like his aim. A good bow and a sure hand is not enough to bring down an enemy. It also takes a pure heart and an iron will.  
 Player: vampire  
-Ethan: The stories of vampires are always filled with romance and drama. I hope I live long enough to see then end of Yalahar’s vampire story.  
+Ethan: The stories of vampires are always filled with romance and drama. I hope I live long enough to see then end of Yalahar's vampire story.  
 Player: advantage  
 Ethan: We will help you to improve your skills. Besides, I offer spells for paladins.  
 Player: old  
-Ethan: I’m 101 years old, but I don’t consider myself as too old.  
+Ethan: I'm 101 years old, but I don't consider myself as too old.  
 Player: king / tibianus  
-Ethan: I don’t even remember who was king at the time I left Thais.  
+Ethan: I don't even remember who was king at the time I left Thais.  
 Player: missile  
 Ethan: Paladins are the best missile fighters in Tibia!  
 Player: palimuth  
@@ -57,6 +57,6 @@ Ethan: Paladins are great warriors and magicians. Moreover, we are excellent mis
 Player: spellbook  
 Ethan: In a spellbook, your spells are listed. You will find the pronunciation of each spell in there. If you want to buy one, visit Xodet in the magic shop.  
 Player: warrior  
-Ethan: Of course, we aren’t as strong as knights, but no druid or sorcerer will ever defeat a paladin with a sword.  
+Ethan: Of course, we aren't as strong as knights, but no druid or sorcerer will ever defeat a paladin with a sword.  
 Player: farewell / bye  
 Ethan: Bye, Player.  

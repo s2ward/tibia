@@ -33,7 +33,7 @@ Donald McRonald: He ignores us and we ignore him.
 Player: bloodblade  
 Donald McRonald: A general in the army.  
 Player: muriel  
-Donald McRonald: I don’t trust sorcerers like you.  
+Donald McRonald: I don't trust sorcerers like you.  
 Player: elane  
 Donald McRonald: Too noble to care about us.  
 Player: gregor  
@@ -57,7 +57,7 @@ Donald McRonald: You have no spider that died recently.
 Player: spider-yes  
 Donald McRonald: Here you are.  
 Player: buy / sell / offer / goods / stuff / ware / equipment / food  
-Donald McRonald: I can offer you wheat, cheese, carrots, and corncobs. If you’d like to see my offers, ask me for a trade.  
+Donald McRonald: I can offer you wheat, cheese, carrots, and corncobs. If you'd like to see my offers, ask me for a trade.  
 Player: trade  
 Donald McRonald: Of course, just browse through my wares.  
 Player: eclesius  

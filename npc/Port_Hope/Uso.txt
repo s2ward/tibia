@@ -1,7 +1,7 @@
 Player: hi  
-Uso: Hiho Player. Looking for a knight trainer? I’m your man.  
+Uso: Hiho Player. Looking for a knight trainer? I'm your man.  
 Player: name  
-Uso: I’m called Uso Oredigger, son of the Flame from the Dragoneaters.  
+Uso: I'm called Uso Oredigger, son of the Flame from the Dragoneaters.  
 Player: time  
 Uso: Time is of little importance at this forsaken place.  
 Player: temple  
@@ -9,38 +9,38 @@ Uso: There is a provisional temple created by he humans here.
 Player: king  
 Uso: Human kings are not of interest for me.  
 Player: venore / thais / carlin / edron  
-Uso: To me one human is just as good as the other. I don’t care what city they are from.  
+Uso: To me one human is just as good as the other. I don't care what city they are from.  
 Player: jungle  
-Uso: The heat and all those trees are just horrible. I wouldn’t be here if it weren’t for the gold.  
+Uso: The heat and all those trees are just horrible. I wouldn't be here if it weren't for the gold.  
 Player: tibia  
 Uso: The world is big but only the random places where gold and treasures can be found are of importance, jawoll.  
 Player: kazordoon  
 Uso: We dwarfs call it our home since the dawn of time. I miss Kazordoon a lot, but gold is more important. After I have made a fortune here, I will return home and might settle down.  
 Player: dwarves / dwarfs  
 Uso: We are a proud race. Dwarfs are strong and fearless. We can even survive in this forsaken jungle, jawoll.  
-Player: ab’dendriel  
-Uso: That’s just a bunch of trees but no city.  
+Player: ab'dendriel  
+Uso: That's just a bunch of trees but no city.  
 Player: elves / elfs  
 Uso: I wonder why we see so few elves over here. Those tree people should love this cursed jungle, but even they stay away.  
 Player: darama  
-Uso: I wonder which part of Darama is worse, the jungle or the desert. This whole continent is a dwarf’s nightmare.  
+Uso: I wonder which part of Darama is worse, the jungle or the desert. This whole continent is a dwarf's nightmare.  
 Player: ankrahmun  
-Uso: Another monument of the madness of the human race. Worship of death or undeath or whatever … I wonder how often I must be slammed on my head to think of such a crazy idea.  
+Uso: Another monument of the madness of the human race. Worship of death or undeath or whatever ... I wonder how often I must be slammed on my head to think of such a crazy idea.  
 Player: ferumbras  
 Uso: He would be at least a diversion from all those crawling and flying insects.  
 Player: excalibug  
 Uso: If it has ever been in this area, it surely would be rusty by now.  
 Player: apes  
-Uso: It wouldn’t surprise me if they were nothing than elves disguised with furs.  
+Uso: It wouldn't surprise me if they were nothing than elves disguised with furs.  
 Player: lizards  
 Uso: They say the lizards had a lot of gold in their ancient cities. Perhaps one day we will go there and look for it.  
 Player: dworcs  
 Uso: I recently broke the nose of a guy who dared to claim that those headhunters are related to dwarfs.  
 Player: spells  
-Uso: Sorry, I don’t teach spells for your vocation.  
+Uso: Sorry, I don't teach spells for your vocation.  
 Player: job / trainers  
-Uso: I’m the head of a little mining operation here and I train knights and teach them spells in my spare time to prevent my old body from rusting.  
+Uso: I'm the head of a little mining operation here and I train knights and teach them spells in my spare time to prevent my old body from rusting.  
 Player: poem  
-Uso: I’m a knight trainer. I don’t know any poems.  
+Uso: I'm a knight trainer. I don't know any poems.  
 Player: bye / farewell  
 Uso: So long.  

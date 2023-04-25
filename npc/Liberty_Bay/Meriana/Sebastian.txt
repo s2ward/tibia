@@ -7,9 +7,9 @@ Sebastian: No clue why she stays in Liberty Bay.
 Player: Chondur  
 Sebastian: He lives on the isle, outside of the settlement.  
 Player: cult  
-Sebastian: I don’t care about cults.  
+Sebastian: I don't care about cults.  
 Player: excalibug  
-Sebastian: I don’t care about fairy tales.  
+Sebastian: I don't care about fairy tales.  
 Player: Ferumbras  
 Sebastian: Some dead mage.  
 Player: governor  
@@ -19,13 +19,13 @@ Sebastian: No idea who that is.
 Player: job  
 Sebastian: I am the captain of this small ship. I transport our rare guests back to one of the isles.  
 Player: king  
-Sebastian: We don’t need kings.  
+Sebastian: We don't need kings.  
 Player: loveless / theodore  
-Sebastian: He’s the worst.  
+Sebastian: He's the worst.  
 Player: name  
 Sebastian: I am Sebastian.  
 Player: natives  
-Sebastian: That’s what they call us.  
+Sebastian: That's what they call us.  
 Player: pirate  
 Sebastian: We became pirates, aye.  
 Player: quara  
@@ -39,7 +39,7 @@ Sebastian: A Thaian.
 Player: venore  
 Sebastian: The Venoreans are even worse than the Thaians.  
 Player: voodoo  
-Sebastian: It’s a kind of magic.  
+Sebastian: It's a kind of magic.  
 Player: Wyrmslicer  
 Sebastian: That guy means trouble.  
 Player: passage / go / transport / destination  

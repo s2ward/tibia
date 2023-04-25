@@ -6,7 +6,7 @@ Peggy: Charlotta does a little more than just talk. People look up to her, peopl
 Player: Chondur  
 Peggy: What are all of his rumoured powers good for when he is not using them to help us?  
 Player: cult  
-Peggy: If there are people that do something against the trade barons, they can’t be that bad. By all accounts this cult is doing something, so it can’t be that bad either.  
+Peggy: If there are people that do something against the trade barons, they can't be that bad. By all accounts this cult is doing something, so it can't be that bad either.  
 Player: Eleonore  
 Peggy: Ms. Rich in her ivory tower does not even know that us ordinary people exist.  
 Player: Explorer Society  
@@ -14,15 +14,15 @@ Peggy: Some sort of exclusive club for rich and bored people.
 Player: Ferumbras  
 Peggy: His arrival would surely be bad enough for business to make the Venoreans leave. But in my opinion the cure would be worse than the plague.  
 Player: furniture  
-Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you’re interested to see my wares.  
+Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.  
 Player: governor  
-Peggy: He’s only a puppet of the trade barons. He does their bidding. I wonder if he is aware of that.  
+Peggy: He's only a puppet of the trade barons. He does their bidding. I wonder if he is aware of that.  
 Player: Isolde  
-Peggy: She can spare me with her friendliness. It won’t make me forget that Thaians are an occupational force.  
+Peggy: She can spare me with her friendliness. It won't make me forget that Thaians are an occupational force.  
 Player: job  
 Peggy: I am the local carpenter. I sell furniture, just ask me for a trade. Sometimes I accept special assignments.  
 Player: king  
-Peggy: The king’s iron grip can be felt everywhere here. And the Venoreans are his right hand.  
+Peggy: The king's iron grip can be felt everywhere here. And the Venoreans are his right hand.  
 Player: liberty bay  
 Peggy: The name of the town has become a joke. I do not even have the liberty to buy and use the wood I want.  
 Player: wood  
@@ -30,7 +30,7 @@ Peggy: All wood we are allowed to use has to be bought from the Venorean compani
 Player: loveless / theodore  
 Peggy: This man is like a disease that has afflicted our town. The symptoms of this disease can be seen and felt everywhere.  
 Player: offer / buy / goods / sell / equipment / stuff / ware  
-Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you’re interested to see my wares.  
+Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.  
 Player: Assignments  
 Peggy: Usually nothing exciting. Some special furniture or a peg leg now and then.  
 Player: peg leg  
@@ -38,7 +38,7 @@ Peggy: Yeah, from time to time one of the old sea dogs needs a peg leg and mine 
 Player: pirate  
 Peggy: Is the enemy of your enemy your friend? Maybe.  
 Player: plantations  
-Peggy: I don’t envy those poor souls that have to earn a living on the plantations.  
+Peggy: I don't envy those poor souls that have to earn a living on the plantations.  
 Player: quara  
 Peggy: Quara were always a threat, but after the Venoreans arrived here the attacks became more frequent. A coincidence? I doubt it. Still it would be fun if one night the quara would get that Loveless guy and take him along.  
 Player: rum  
@@ -58,7 +58,7 @@ Peggy: Venore is the best example to demonstrate what can go wrong with human so
 Player: voodoo  
 Peggy: At least it is something that even the Venoreans are fearing. Funny to imagine how they would try to use their money against curses or vainly bribe a ghost.  
 Player: Wyrmslicer  
-Peggy: The lap dog of the governor…  
+Peggy: The lap dog of the governor...  
 Player: bye / farewell  
 Peggy: Good bye, Player.  
 Player: trade  

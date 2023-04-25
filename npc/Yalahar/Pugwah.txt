@@ -9,8 +9,8 @@ Pugwah: Me offer bread, cheese, ham, or meat. And drinks. If you like? Ask Pugwa
 Player: trade  
 Pugwah: Good, good! Take look at yummy food good Pugwah sells.  
 Player: dworc  
-Pugwah: Me came here with little canoe. Great storm making bshhhh bshhh! Trying to drown little Pugwah! But no no! Pugwah row row row and escape! Then long long only water. …  
-Pugwah: But Pugwah have fishing rod. Many fish and drinking rain making Pugwah’s stomach sick but then Pugwah seeing city! At first Pugwah wanting eat everyone in city but Pugwah small and lonely. …  
+Pugwah: Me came here with little canoe. Great storm making bshhhh bshhh! Trying to drown little Pugwah! But no no! Pugwah row row row and escape! Then long long only water. ...  
+Pugwah: But Pugwah have fishing rod. Many fish and drinking rain making Pugwah's stomach sick but then Pugwah seeing city! At first Pugwah wanting eat everyone in city but Pugwah small and lonely. ...  
 Pugwah: But Pugwah also smart very much! Hunting rats and selling stew Pugwah become rich! Soon buy old house and making tavern! Every one comes and eats! Stupid people selling rotten stuff so cheap, Pugwah making fortune by cooking it!  
 Player: food  
 Pugwah: Food has to be rotten to gain flavour! No need for expensive spices!  
@@ -40,6 +40,6 @@ Pugwah: Me great cook! Only ingredients most rotten find way in my stews!
 Player: cookies  
 Pugwah: No thanks. Me mummy says no take food from strangers.  
 Player: factory quarter  
-Pugwah: People there mean, I don’t go there. Thinking they want to eat Pugwah.  
+Pugwah: People there mean, I don't go there. Thinking they want to eat Pugwah.  
 Player: bye  
 Pugwah: Coming back soon to taste me special meat, Player.  

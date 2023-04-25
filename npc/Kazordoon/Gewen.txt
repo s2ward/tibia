@@ -2,9 +2,9 @@ NPC: Gewen
 Player: hi  
 Gewen: Greetings, traveller Player. Where do you want me to fly you? Or do you need a weekly ticket for the Kazordoon public lorry transport?  
 Player: fly / job / service  
-Gewen: I’m a carpet pilot. I can give you a passage to many places.  
+Gewen: I'm a carpet pilot. I can give you a passage to many places.  
 Player: darashia / darama / edron / zao / farmine / femor hills / issavi / svargrond  
-Gewen: Do you seek a ride to “City Name”, for 50 gold?  
+Gewen: Do you seek a ride to "City Name", for 50 gold?  
 Player: no  
 Gewen: You really should try flying the carpet some time.  
 Player: tibia  
@@ -16,6 +16,6 @@ Gewen: Do you want to purchase a weekly ticket for the ore wagons? With it you c
 Player: name  
 Gewen: Gewen, at your service.  
 Player: time  
-Gewen: It’s 2:54 am right now.  
+Gewen: It's 2:54 am right now.  
 Player: bye  
 Gewen: Good bye!  

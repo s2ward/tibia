@@ -7,23 +7,23 @@ Vladruc: Our ways are not your ways, and there shall be to you many strange thin
 Player: Name  
 Vladruc: I am Vladruc Urghain. Welcome to my house!  
 Player: Monster  
-Vladruc: Oh yes, the children of the night … you dwellers in the city cannot enter into the feelings of the hunter.  
+Vladruc: Oh yes, the children of the night ... you dwellers in the city cannot enter into the feelings of the hunter.  
 Player: Ferumbras  
 Vladruc: You think he is of ancient evil? Little you know about ancientness or evilness.  
 Player: Excalibug  
 Vladruc: A terrifying weapon if it does exist at all.  
 Player: Coffin  
-Vladruc: The final resting place for all of us, isn’t it?  
+Vladruc: The final resting place for all of us, isn't it?  
 Player: Thais  
 Vladruc: Sadly, only through books have I come to know your great Thais, and to know her is to love her.  
 Player: Books  
 Vladruc: These companions have been good friends and teachers to me.  
 Player: Tibia  
-Vladruc: What a wonderful world we do live in … so full of life.  
+Vladruc: What a wonderful world we do live in ... so full of life.  
 Player: Blood  
-Vladruc: I like blood … only the color, that is, of course … <chuckles>  
+Vladruc: I like blood ... only the color, that is, of course ... <chuckles>  
 Player: Vampire  
-Vladruc: Please don’t talk about such creatures. You are scaring me.  
+Vladruc: Please don't talk about such creatures. You are scaring me.  
 Player: Necromancer  
 Vladruc: Death is the final frontier. Necromancers boldly go, where no one has gone before.  
 Player: Magic  
@@ -37,7 +37,7 @@ Vladruc: It is 6:08 am.
 Player: Dungeon  
 Vladruc: Such lovely places, unjustly shunned by the people.  
 Player: Help  
-Vladruc: I am sorry, but I can’t be of much assistance to you.  
+Vladruc: I am sorry, but I can't be of much assistance to you.  
 Player: Adventure  
 Vladruc: The time I sought out adventure is long gone indeed.  
 Player: Alchemy  
@@ -53,6 +53,6 @@ Vladruc: I am a reclusive person and learn little of the local gossip of the pea
 Player: Offer  
 Vladruc: Please check my humble market downstairs for the wares that are offered.  
 Player: Thank you  
-Vladruc: That’s nothing worth to be mentioned.  
+Vladruc: That's nothing worth to be mentioned.  
 Player: Bye/Farewell  
 Vladruc: Go safely Player, and leave something of the happiness you bring!  

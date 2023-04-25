@@ -155,9 +155,9 @@ Wyda: To be honest, I'm drowning in blood herbs by now.
 Player: blood herb  
 Wyda: To be honest, I'm drowning in blood herbs by now. But if it helps you, well yes.. I guess I could use another blood herb...  
 Player: blood herb (tendo uma blood herb na sua backpack)  
-Wyda: Arrr... here we go again.... do you have a #$*§# blood herb for me?  
+Wyda: Arrr... here we go again.... do you have a #$*&# blood herb for me?  
 Player: no  
-Wyda: Arrr... here we go again.... do you have a #$*§# blood herb for me?  
+Wyda: Arrr... here we go again.... do you have a #$*&# blood herb for me?  
 Player: yes (recebendo uma witchesbroom)  
 Wyda: Thank you -SOOO- much! No, I really mean it! Really! Here, let me give you a reward...  
 Player: yes (recebendo um torn teddy)  

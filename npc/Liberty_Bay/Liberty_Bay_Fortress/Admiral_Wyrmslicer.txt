@@ -4,10 +4,10 @@ Admiral Wyrmslicer: Greetings, Player. Have you anything to report?
 Player: job  
 Admiral Wyrmslicer: I am admiral of the Thaian fleet and commander of this fort and the local military.  
 Player: Carlin  
-Admiral Wyrmslicer: Sooner or later Carlin will be nothing more than a footnote in history. Look at the size of our kingdom and compare it with Carlin …  
+Admiral Wyrmslicer: Sooner or later Carlin will be nothing more than a footnote in history. Look at the size of our kingdom and compare it with Carlin ...  
 Admiral Wyrmslicer: One day they will accept that it is better to rejoin the kingdom and to combine our efforts and resources for the good of all.  
 Player: Charlotta  
-Admiral Wyrmslicer: I believe she is this old healer in town. I don’t think she is happy with our presence here but she did nothing yet that would justify to arrest her.  
+Admiral Wyrmslicer: I believe she is this old healer in town. I don't think she is happy with our presence here but she did nothing yet that would justify to arrest her.  
 Player: Chondur  
 Admiral Wyrmslicer: I heard about that man. For some people he is some kind of father figure. If he should ever misuse that, we will take a closer look at him.  
 Player: cult  
@@ -21,8 +21,8 @@ Admiral Wyrmslicer: We welcome the representatives of the society here and will 
 Player: Ferumbras  
 Admiral Wyrmslicer: I am not familiar with witchcraft and sorcery. Perhaps you should ask someone else.  
 Player: gossip  
-Admiral Wyrmslicer: Spare me the nonsense that people made up, like sinister cultists, quara infiltrators, pirate hideouts voodoo curses and whatnot! …  
-Admiral Wyrmslicer: I’ve heard it all, and it is completely rubbish and a waste of my time! We have everything firmly under control. And to ensure this, I warn you not to talk to the townspeople about such issues!  
+Admiral Wyrmslicer: Spare me the nonsense that people made up, like sinister cultists, quara infiltrators, pirate hideouts voodoo curses and whatnot! ...  
+Admiral Wyrmslicer: I've heard it all, and it is completely rubbish and a waste of my time! We have everything firmly under control. And to ensure this, I warn you not to talk to the townspeople about such issues!  
 Player: governor  
 Admiral Wyrmslicer: The governor is a fine man, and I do my best to support him in all his efforts.  
 Player: Isolde  
@@ -34,13 +34,13 @@ Admiral Wyrmslicer: It might take some time, but with our guidance the city will
 Player: loveless / theodore  
 Admiral Wyrmslicer: Mr. Loveless has a sharp and quick mind. If he were no trader, he would have made a great officer.  
 Player: natives  
-Admiral Wyrmslicer: I don’t want to hear talks about ‘natives’ or such. We are all subjects of his majesty, the King of Thais.  
+Admiral Wyrmslicer: I don't want to hear talks about 'natives' or such. We are all subjects of his majesty, the King of Thais.  
 Player: pirate  
 Admiral Wyrmslicer: Pirates are vermin and we will wipe them from the map wherever they raise their ugly heads.  
 Player: plantations  
 Admiral Wyrmslicer: There is always trouble at the plantations, either with the rotworms or with drunken or rebellious workers.  
 Player: quara  
-Admiral Wyrmslicer: The quara are treacherous foes who don’t fight with common tactics. This and the security of the seas, to which they can withdraw, make it difficult to handle them properly.  
+Admiral Wyrmslicer: The quara are treacherous foes who don't fight with common tactics. This and the security of the seas, to which they can withdraw, make it difficult to handle them properly.  
 Player: Raymond Striker  
 Admiral Wyrmslicer: Captain Striker is one of the more cunning pirates. Up to now, he managed to escape but sooner or later he will run out of luck.  
 Player: rum  
@@ -54,7 +54,7 @@ Admiral Wyrmslicer: Thais is of course the crown of our kingdom and the place ou
 Player: Tristan  
 Admiral Wyrmslicer: A fine knight indeed. I am very pleased with his efforts.  
 Player: venore  
-Admiral Wyrmslicer: The efforts Venore put into this city are admirable. It’s only fair that they gain a certain profit from that.  
+Admiral Wyrmslicer: The efforts Venore put into this city are admirable. It's only fair that they gain a certain profit from that.  
 Player: voodoo  
 Admiral Wyrmslicer: Superstition! We have real sorcerers and none of them uses such prankish trickery.  
 Player: Wyrmslicer  

@@ -16,7 +16,7 @@ Player: Sniff
 Larry: Venore! Smuggler! Venore!
 Player: Queso
 Larry: Krah! Poor Queso! Krah!
-Player: Ra’Clette
+Player: Ra'Clette
 Larry: Witch! Powerful! Witch!
 Player: time
 Larry: Clock. Clock. Clock.

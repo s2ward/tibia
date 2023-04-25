@@ -1,13 +1,13 @@
 Player: hi / hello  
 Elf Guard: Ashari, Player. Take care.  
 Player: abdaisim  
-Elf Guard: The Abdaisim are wanderers. Since they live as nomads and travel the world you won’t find them here.  
+Elf Guard: The Abdaisim are wanderers. Since they live as nomads and travel the world you won't find them here.  
 Player: armor / weapon  
 Elf Guard: If you are looking for that kind of equipment you should ask a Kuridai.  
 Player: army  
 Elf Guard: Such a thing is a human concept. We have no need for that, although some Kuridai might think otherwise.  
 Player: bahaha aka  
-Elf Guard: This means ‘Take your punishment, defiler’.  
+Elf Guard: This means 'Take your punishment, defiler'.  
 Player: carlin  
 Elf Guard: This city of humankind is located to the west of our area.  
 Player: cenath  
@@ -29,16 +29,16 @@ Elf Guard: The Kuridai are the smiths and craftsmen. Look for them in the underg
 Player: name  
 Elf Guard: My name is unimportant, only my duty matters.  
 Player: spell / magic  
-Elf Guard: Ask around in Ab’Dendriel. Many elves can teach you something about magic. The Cenath love magic most of all.  
+Elf Guard: Ask around in Ab'Dendriel. Many elves can teach you something about magic. The Cenath love magic most of all.  
 Player: teshial  
 Elf Guard: There are no Teshial.  
 Player: thais  
 Elf Guard: The city of the humans lies somewhere far to the south beyond the mountains of the dwarfs.  
-Player: tha’shi ab’dendriel  
-Elf Guard: In the crude human language you would translate it with ‘My life for Ab’Dendriel’ or even ‘I am one with Ab’Dendriel’.  
+Player: tha'shi ab'dendriel  
+Elf Guard: In the crude human language you would translate it with 'My life for Ab'Dendriel' or even 'I am one with Ab'Dendriel'.  
 Player: time  
-Elf Guard: It’s 8:46 pm.  
-Player: town / city / ab’dendriel  
-Elf Guard: This is the elven town of Ab’Dendriel.  
+Elf Guard: It's 8:46 pm.  
+Player: town / city / ab'dendriel  
+Elf Guard: This is the elven town of Ab'Dendriel.  
 Player: bye / Asha Thrazi / farewell  
 Elf Guard: Asha Thrazi.  

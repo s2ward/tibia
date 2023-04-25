@@ -4,17 +4,17 @@ Red Lilly: Hello sweetie. If you need general equipment, stuff like that, let me
 Player: Charlotta  
 Red Lilly: Just between you and me hun, that woman is a witch. Love potions, poison, voodoo dolls to torture your neighbour. You name it, she got it.  
 Player: cult  
-Red Lilly: Uh! <whispers> There are … rumours, you know? About bloody rituals and gruesome curses … better don’t talk aloud about such issues.  
+Red Lilly: Uh! <whispers> There are ... rumours, you know? About bloody rituals and gruesome curses ... better don't talk aloud about such issues.  
 Player: djinn  
-Red Lilly: Kshh!! No talks about … the magic folk here … This might draw their attention.  
+Red Lilly: Kshh!! No talks about ... the magic folk here ... This might draw their attention.  
 Player: Eleonore  
 Red Lilly: Hard to imagine that this fat man has such a pretty daughter.  
 Player: Ferumbras  
-Red Lilly: Don’t mention HIM in my house you fool. You call evil and mayhem upon us.  
+Red Lilly: Don't mention HIM in my house you fool. You call evil and mayhem upon us.  
 Player: food  
 Red Lilly: I am not dealing with food.  
 Player: governor  
-Red Lilly: I won’t say anything bad about such a high-born person. That’s why I remain silent hun <blinks>.  
+Red Lilly: I won't say anything bad about such a high-born person. That's why I remain silent hun <blinks>.  
 Player: job  
 Red Lilly: I run this little pawnshop, hun, but I think you knew that already.  
 Player: king  
@@ -32,7 +32,7 @@ Red Lilly: Mostly, pirates are bad for business. But sometimes, they are good fo
 Player: plantations  
 Red Lilly: Sadly the workers have hardly enough money to buy something to eat and to drink. That is bad also for my business.  
 Player: quara  
-Red Lilly: The quara are the curse of the sea. Everybody that dares to enrage the sea spirits has to fear their vengeance. They come at night to kidnap people who forgot their lucky charms at home …  
+Red Lilly: The quara are the curse of the sea. Everybody that dares to enrage the sea spirits has to fear their vengeance. They come at night to kidnap people who forgot their lucky charms at home ...  
 Red Lilly: Sometimes those evil beings take the most naughty children to raise them as their own underwater.  
 Player: rum  
 Red Lilly: Ah, there is little in the world that comes close to the taste of rum.  
@@ -43,7 +43,7 @@ Red Lilly: Sugar lets the money flow. We depend heavily on it.
 Player: thais  
 Red Lilly: Thais might be a splendid town, but this is of no use to us here. The situation in our town gets worse with every ship full of foreigners that arrives here.  
 Player: trade  
-Red Lilly: Of course, just browse through my wares. Remember that if you buy vials of oil, there’s a deposit of 5 gold on the empty one.  
+Red Lilly: Of course, just browse through my wares. Remember that if you buy vials of oil, there's a deposit of 5 gold on the empty one.  
 Player: venore  
 Red Lilly: I heard Venore will soon acquire several trade monopolies that will grant them wealth for centuries.  
 Player: voodoo  
@@ -59,4 +59,4 @@ Red Lilly: Hmm, but please keep Tibia litter free.
 Player: vial  
 Red Lilly: I will pay you 5 gold for every empty vial. Ok?  
 Player: yes  
-Red Lilly: You don’t have any empty vials.  
+Red Lilly: You don't have any empty vials.  

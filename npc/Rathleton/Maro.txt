@@ -29,7 +29,7 @@ Maro: He tries to protect the weak. He is a good hooman.
 Player: job  
 Maro: As you see. I am a toolmaker. I make tools.  
 Player: maxxen  
-Maro: I don’t know that person.  
+Maro: I don't know that person.  
 Player: mordecai  
 Maro: Uncle is always busy. He does not like to leave his study much. He leaves such things to father and me.  
 Player: news  

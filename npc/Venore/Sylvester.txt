@@ -25,11 +25,11 @@ Sylvester: Ask the merchants of the city. There are more than enough.
 Player: castle  
 Sylvester: The castle is in Thais, the crown of the kingdom.  
 Player: how are you?  
-Sylvester: That’s classified information!  
+Sylvester: That's classified information!  
 Player: knights of noodles  
 Sylvester: Every guard dreams of becoming one of them one day.  
 Player: monsters  
-Sylvester: The swamp is full of nasty snakes and there’s a dragon breeding ground somewhere in the swamps.  
+Sylvester: The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps.  
 Player: swamps  
 Sylvester: The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls.  
 Player: swamptrolls  

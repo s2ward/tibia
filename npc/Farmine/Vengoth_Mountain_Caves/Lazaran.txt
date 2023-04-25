@@ -31,7 +31,7 @@ Lazaran: Krunus let things grow. Gives women magic to grow little people.
 Player: land / zao  
 Lazaran: Land called Zao by snakemen. Perhaps has meaning in snake language. We no need other name for land than land. Is no other we know.  
 Player: language  
-Lazaran: You speak language of priests. You language is holy language only leaders and priests speaking. That why we know you good. …  
+Lazaran: You speak language of priests. You language is holy language only leaders and priests speaking. That why we know you good. ...  
 Lazaran: Language of my people other language is. Tribe only know few words in holy language from prayers.  
 Player: little men  
 Lazaran: We come and see little men. They like us, only very little. They having good weapon and armor, like the greens.  
@@ -50,7 +50,7 @@ Lazaran: Yes.. Namasa young pretty woman.
 Player: name  
 Lazaran: Me Lazaran.  
 Player: pandor  
-Lazaran: Pandor ashamed of us. We lost all to greens. Now we not in favour of Pandor. That’s why we live in cave.  
+Lazaran: Pandor ashamed of us. We lost all to greens. Now we not in favour of Pandor. That's why we live in cave.  
 Player: task  
 Lazaran: Many need doing. Me have colour task, mushroom task and hunt task.  
 Player: tatak  
@@ -58,7 +58,7 @@ Lazaran: He sound our war drums! That where name come from. Tatak, tatak!
 Player: tibia  
 Lazaran: Me no know what you mean.  
 Player: tribe  
-Lazaran: Our tribe here live long time. Tribe once was great, one of many. Now we are all what left of tribe. Snakemen hunted our people. Snakemen make many kill. Our people go hiding. Only go out in night when snakemen sleep. …  
+Lazaran: Our tribe here live long time. Tribe once was great, one of many. Now we are all what left of tribe. Snakemen hunted our people. Snakemen make many kill. Our people go hiding. Only go out in night when snakemen sleep. ...  
 Lazaran: All who survived gathered. Made new tribe. We trying to survive. We no seek war with others. We little hunt and much eat mushroom found in caves. Growing mushrooms we do to survive.  
 Player: ulala  
 Lazaran: Very wise priest. She speaks to gods, and can also speak to you. You can find upstairs on prayer place!  

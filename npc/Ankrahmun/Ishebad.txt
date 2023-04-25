@@ -22,7 +22,7 @@ Player: Scarab
 Ishebad: The scarabs are keepers of secrets. Some secrets are not meant for you mortals. Ever keep that in mind.  
 Player: ascension/uthun/rah/akh  
 Ishebad: Consult a priest to learn how you could achieve ascension.  
-Player: Kazordoon/Ab’dendriel/Venore/Edron/Thais  
+Player: Kazordoon/Ab'dendriel/Venore/Edron/Thais  
 Ishebad: Other cities are of no importance. Ankrahmun will become the centre of the known world anyway.  
 Player: ascension  
 Ishebad: Consult a priest to learn how you could achieve ascension.  

@@ -16,5 +16,5 @@ Player: Mail
 Penny: You can get a letter from me.  
 Player: Letter  
 Penny: Here you are.  
-Player: ?  
+Player: ?  
 Penny: Don't stare at me.  

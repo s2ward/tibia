@@ -1,11 +1,11 @@
 Player: hi  
 Tamara: Welcome to my little place, Player. How may I help you?  
 Player: job  
-Tamara: I’m a druid. I teach spells to other druids.  
+Tamara: I'm a druid. I teach spells to other druids.  
 Player: name  
-Tamara: I’m known as Tamara, though my friends also nickname me Tamera.  
+Tamara: I'm known as Tamara, though my friends also nickname me Tamera.  
 Player: spells  
-Tamara: Sorry, I don’t teach spells for your vocation.  
+Tamara: Sorry, I don't teach spells for your vocation.  
 Player: yalahar  
 Tamara: The city is dying, I can feel it. Not only in a physical sense, but also in a spiritual one.  
 Player: yalahari  
@@ -41,11 +41,11 @@ Tamara: It is inevitable that mother nature will claim what was once hers.
 Player: factory quarter  
 Tamara: They tried to cage the forces of nature to have them work for them. Now the factories are silent and covered with dust. Those who thought to have mastered nature are gone, while nature is still here.  
 Player: time  
-Tamara: Eh, I haven’t seen daylight for a long time. So, don’t ask me, what time it is.  
+Tamara: Eh, I haven't seen daylight for a long time. So, don't ask me, what time it is.  
 Player: excalibug  
 Tamara: Another weapon of destruction. I hope nobody will ever find it.  
 Player: ferumbras  
-Tamara: I came here to get away from evil creatures like him, but here I’ve found other curses.  
+Tamara: I came here to get away from evil creatures like him, but here I've found other curses.  
 Player: cookies  
 Tamara: Thank you honey, but I pass on that offer.  
 Player: palimuth  
@@ -53,7 +53,7 @@ Tamara: He is nothing than a puppy of its uncaring masters.
 Player: vampire  
 Tamara: Fortunately they never come here.  
 Player: blood crystal  
-Tamara: Oh! That cursed stone! I know about it, but I can’t tell you anything. Evil gems like that shouldn’t be passed around, only a crazy fool would do that.  
+Tamara: Oh! That cursed stone! I know about it, but I can't tell you anything. Evil gems like that shouldn't be passed around, only a crazy fool would do that.  
 Player: magic  
 Tamara: Everyone who becomes a druid has the opportunity to learn many magic spells.  
 Player: crunor  

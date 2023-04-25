@@ -7,7 +7,7 @@ Appaloosa: Do you want to rent a horse for one day at a price of 500 gold?
 Player: Transport  
 Appaloosa: We can bring you to Thais with one of our coaches for 125 gold. Are you interested?  
 Player: Dwarf  
-Appaloosa: Most dwarfs don’t like riding at all. Though I heard one of their heroes is riding a ram, they usually use horses and donkeys as beasts of burden. Given their size it is not astounding that they prefer the smaller donkeys over the horses.  
+Appaloosa: Most dwarfs don't like riding at all. Though I heard one of their heroes is riding a ram, they usually use horses and donkeys as beasts of burden. Given their size it is not astounding that they prefer the smaller donkeys over the horses.  
 Player: Minotaur  
 Appaloosa: Did you know that minotaurs ride giant bulls? It seems somewhat strange, like a human riding a cyclops.  
 Player: Cyclops  
