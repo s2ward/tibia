@@ -1,0 +1,32 @@
+Player: hi  
+Melian: Greetings, traveller Player. Where do you want me to fly you?  
+Player: lizard  
+Melian: There are many of them to the north and south of this continent. I had thought they only existed on Tiquanda, but I was mistaken.  
+Player: zao  
+Melian: What a strange and bizarre continent. I'm glad my landing place is far away from all the mess I've seen from above.  
+Player: fly / service / job  
+Melian: I'm a carpet pilot. I can fly you to the Femor Hills, to Kazordoon, Svargrond, Edron, Darashia or Issavi.  
+Player: name  
+Melian: Melian at your service.  
+Player: mountain  
+Melian: These mountains don't look friendly. I prefer not staying long inbetween my carpet trips.  
+Player: carpet  
+Melian: Only licensed carpet pilots are allowed to fly those.  
+Player: orc  
+Melian: There's so much green stuff down there that I'm not sure whether there are any, but yes, might be, might be.  
+Player: dwarf / steamboat  
+Melian: Well, dwarves and their steamboat technology are well and good, but nothing beats flying on a carpet.  
+Player: farmine  
+Melian: That's the name of that dwarven base as far as I know. Got a bit of a pessimistic ring to it if you ask me. Sounds to me like they're starving.  
+Player: passage / tibia / ride / trip / transport  
+Melian: I can fly you to Darashia on Darama, to Kazordoon, to Svargrond on Hrodmir, to Edron, to the Femor Hills or to Issavi if you like. Where do you want to go?  
+Player: human  
+Melian: The only humans I've seen on this continent are those that come up to my carpet.  
+Player: continent  
+Melian: What a strange and bizarre continent. I'm glad my landing place is far away from all the mess I've seen from above.  
+Player: femur  
+Melian: You are probably talking about the FEMOR hills.  
+Player: time  
+Melian: It's 2:55 pm right now. I think I'm five minutes late in my schedule.  
+Player: bye  
+Melian: Good bye!  

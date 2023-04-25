@@ -15,21 +15,21 @@ Trimegis: Power comes to those who have the intelligence to claim it.
 Player: Spell  
 Trimegis: My spells are my personal secret.  
 Player: Eclesius  
-Trimegis: That old fool wanted to become courtmage too. But he just doesn’t cut the mustard.  
+Trimegis: That old fool wanted to become courtmage too. But he just doesn't cut the mustard.  
 Player: Frodo  
 Trimegis: A bar is fine to distract the mundanes from doing something foolish.  
 Player: Gregor  
 Trimegis: Limited in his vision as all knights are.  
 Player: Marvik  
-Trimegis: Since intelligence can’t be substituted by passion, all druids are nothing but hedgemages.  
+Trimegis: Since intelligence can't be substituted by passion, all druids are nothing but hedgemages.  
 Player: Muriel  
-Trimegis: He’s quite good in magical theories, but lacks practice in the field.  
+Trimegis: He's quite good in magical theories, but lacks practice in the field.  
 Player: Elane  
-Trimegis: Paladins are another example that diversing one’s resources between goods, mundane weapons, and magic does not make a good mixture.  
+Trimegis: Paladins are another example that diversing one's resources between goods, mundane weapons, and magic does not make a good mixture.  
 Player: Sam  
 Trimegis: A man as mundane as a rock.  
 Player: Quentin  
-Trimegis: Mixing up magic with religion can’t do any good.  
+Trimegis: Mixing up magic with religion can't do any good.  
 Player: Excalibug  
 Trimegis: The only weapon I need is my magic.  
 Player: Time  
@@ -56,17 +56,17 @@ Trimegis: A truly disgusting fellow.
 Player: Xodet  
 Trimegis: He made the best he could of his limited abilities.  
 Player: Lugri  
-Trimegis: Another bogeyman. Who’s afraid of someone who is that ‘powerful’ that he hides in some dirthole?  
+Trimegis: Another bogeyman. Who's afraid of someone who is that 'powerful' that he hides in some dirthole?  
 Player: Lungelen  
-Trimegis: She has the ‘know how’, but sadly does not really know how to use it efficiently.  
+Trimegis: She has the 'know how', but sadly does not really know how to use it efficiently.  
 Player: news  
-Trimegis: I don’t care about mundane gossip.  
+Trimegis: I don't care about mundane gossip.  
 Player: Pits of Inferno  
 Trimegis: Some dumb holes for adventurers seeking trouble.  
 Player: Sherry  
 Trimegis: I have certainly no business with such persons.  
 Player: Stone of insight  
-Trimegis: Ah well. This matter was taken out of our hands for now. The inquisition insisted to control the collection of these stones and by royal decree they were granted the exclusive right to do so. …  
-Trimegis: As a simple scientist I’m not in a position to question such decision, as hard as it might hit my researches. For now I can not trade any of the stones. You will have to wait for another opportunity.  
+Trimegis: Ah well. This matter was taken out of our hands for now. The inquisition insisted to control the collection of these stones and by royal decree they were granted the exclusive right to do so. ...  
+Trimegis: As a simple scientist I'm not in a position to question such decision, as hard as it might hit my researches. For now I can not trade any of the stones. You will have to wait for another opportunity.  
 Player: Bye  
 Trimegis: Farewell, Player.  

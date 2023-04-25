@@ -1,0 +1,26 @@
+Player: hi / ahoy / hello
+Larry: Ship ahoy!
+Player: help / mission / quest / task
+Larry: Kraaah!
+Player: corym
+Larry: Pi-Rats!
+Player: job
+Larry: Pir-rot!
+Player: name
+Larry: Larry. Larry. Larry.
+Player: news
+Larry: Three sheets to the wind!
+Player: Rita / line / rhyme
+Larry: Rita! Cheddar is spicy! Cheddar is spicy! Larry misses Rita!
+Player: Sniff
+Larry: Venore! Smuggler! Venore!
+Player: Queso
+Larry: Krah! Poor Queso! Krah!
+Player: Ra'Clette
+Larry: Witch! Powerful! Witch!
+Player: time
+Larry: Clock. Clock. Clock.
+Player: treasure
+Larry: Gold! Gems! Krah!
+Player: bye / farewell
+Larry: Ahoy, matey!

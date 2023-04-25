@@ -1,0 +1,56 @@
+Player: hi / hello  
+Sebastian: Ho, Player!  
+Player: Carlin  
+Sebastian: Carlin is far to the north.  
+Player: Charlotta  
+Sebastian: No clue why she stays in Liberty Bay.  
+Player: Chondur  
+Sebastian: He lives on the isle, outside of the settlement.  
+Player: cult  
+Sebastian: I don't care about cults.  
+Player: excalibug  
+Sebastian: I don't care about fairy tales.  
+Player: Ferumbras  
+Sebastian: Some dead mage.  
+Player: governor  
+Sebastian: Who cares about governors?  
+Player: Isolde  
+Sebastian: No idea who that is.  
+Player: job  
+Sebastian: I am the captain of this small ship. I transport our rare guests back to one of the isles.  
+Player: king  
+Sebastian: We don't need kings.  
+Player: loveless / theodore  
+Sebastian: He's the worst.  
+Player: name  
+Sebastian: I am Sebastian.  
+Player: natives  
+Sebastian: That's what they call us.  
+Player: pirate  
+Sebastian: We became pirates, aye.  
+Player: quara  
+Sebastian: Evil Fishes.  
+Player: Striker  
+Sebastian: A fine boy.  
+Player: thais  
+Sebastian: The Thaians came here and oppressed us.  
+Player: Tristan  
+Sebastian: A Thaian.  
+Player: venore  
+Sebastian: The Venoreans are even worse than the Thaians.  
+Player: voodoo  
+Sebastian: It's a kind of magic.  
+Player: Wyrmslicer  
+Sebastian: That guy means trouble.  
+Player: passage / go / transport / destination  
+Sebastian: Hm, back to Liberty Bay for 50 gold pieces?  
+Player: liberty bay  
+Sebastian: Liberty Bay is not what it used to be. Want to go back there for 50 gold pieces?  
+Player: nargor  
+Sebastian: Ah, I see. Ready to go to Nargor for 50 gold pieces?  
+Player: bye / farewell  
+Sebastian: Bye, Player.  
+Player: passage / go / transport / destination (on Nargor)  
+Sebastian: Where to? Liberty Bay or Meriana?  
+Player: meriana (on Nargor)  
+Sebastian: Want to go back to Meriana for 50 gold pieces?  

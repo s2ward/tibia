@@ -1,0 +1,28 @@
+NPC: Falonzo  
+Player: hi/hello  
+Falonzo: Greetings, adventurer!  
+Player: anomaly  
+Falonzo: Well, the whole place here is an anomaly so to say. You can hardly have missed the fact that you arrived here through a mystical gate. ...  
+Falonzo: Well, actually it's no gate at all but a rift in the fabric of nature. It is this minor plane trying to reconnect to our world.  
+Player: plane  
+Falonzo: This is a lesser plane of tarnished, elemental fire that once belonged to the world that we know. It was despoiled in the wars of the gods and broke loose from our world. Lost and drifting through the void, without a connection to our plane.  
+Player: Lost  
+Falonzo: Well, that was how it used to be. Lost and without any connection to our world. But that was before things ... changed.  
+Falonzo: Something is tearing at the fabric of reality. I can't tell what is it but the boundaries between worlds are fading. ...  
+Falonzo: A process that was watched for over a century, but which has extremely grown in momentum over the last few years. Something is happening and it's certainly nothing good. ...  
+Falonzo: Be it as it may, the plane trying to reconnect was only a side effect. It still might teach us about what is happening and it has attracted some attention already.  
+Falonzo: We know about other planes of existence but in all history it has never been as easy to reach them as it is now. ...  
+Falonzo: Sometimes world seem to overlap and we can identify more and more such planes and worlds. More than we ever had imagined. All we can tell is, that something is changing. And not for the good.  
+Player: attention  
+Falonzo: Such an anomaly couldn't go unnoticed for long. This led to the presence of unwanted intruders, and other entities were dragged into it by the nature of the sphere.  
+Player: intruders  
+Falonzo: Infernalists were the first who found their way into this sphere. Hoping to tap its rotten power somehow. Yet this sphere created creatures of its own and drew others here from other planes.  
+Player: dragged  
+Falonzo: This place became a fiery trap to certain beings with an affinity to fire. Somehow it reconnects randomly with the known world, to which it once belonged ...  
+Falonzo: But also to other places that it shares some affinity with, like hellish places of unspeakable evil that spawn infernal creatures.  
+Player: job  
+Falonzo: I'm a researcher of the scientific council of the mage guild and I came to that place to study this anomaly.  
+Player: name  
+Falonzo: I'm professor Falonzo from the mage guild.  
+Player: bye  
+Falonzo: Good bye!  

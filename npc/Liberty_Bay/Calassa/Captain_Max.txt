@@ -1,0 +1,54 @@
+NPC: Captain Max  
+Player: hi / hello  
+Captain Max: Ahoy, Player. On a mission for the explorer society, eh?  
+Player: ab'dendriel / ankrahmun / venore / edron / krailos / gray beach / darashia / port hope / thais / carlin / issavi / kazordoon / farmine / zao / roshamuul / oramond / rathleton  
+Captain Max: Sorry, I can't bring you there. Please ask on the ship to the left for normal travel routes.  
+Player: buy / helmet of the deep  
+Captain Max: We will talk about this once we reached Calassa.  
+Player: Berenice  
+Captain Max: She is the local representative of the Explorer Society in Liberty Bay.  
+Player: Wyrdin  
+Captain Max: Actually he is not a representative of the Explorer Society, but a magician of the Edron academy. Still, we work with him since this cooperation might prove fruitful.  
+Player: Explorer Society  
+Captain Max: They usually have missions for adventurers. Just ask in one of their offices if you feel courageous.  
+Player: mission  
+Captain Max: You're looking for a mission? Ask in one of the offices of the Explorer Society.  
+Player: name  
+Captain Max: My name is Maximilian Plorer. Friends call me Max.  
+Player: job  
+Captain Max: I am the captain of this ship.  
+Player: ship  
+Captain Max: Nice ship, eh? Unfortunately it ain't mine. Belongs to the explorer society.  
+Player: captain  
+Captain Max: I am the captain of this ship.  
+Player: destination / sail / routes / passage / go / trip  
+Captain Max: Welcome on board, noble Player. I can bring you to Calassa or Yalahar, but only if you have the according mission from Berenice or Wyrdin.  
+Player: calassa  
+Captain Max: Should I bring you to Calassa for 200 gold?  
+Player: no  
+Captain Max: Maybe another time, then.  
+Player: Yalahar  
+Captain Max: That is quite a long unprofitable travel. I'll bring you to Yalahar for 400 gold though. Is that ok with you?  
+Player: no  
+Captain Max: Maybe another time, then.  
+Player: bye / farewell  
+Captain Max: Good bye.  
+Unique dialogues on Calassa:  
+Player: hi / hello  
+Captain Max: Ahoy, Player. The explorer society is waiting for reports so please hurry.  
+Player: explorer society  
+Captain Max: I think they do a good job all in all. And it's great that there are so many voluntary explorers around on missions.  
+Player: missions  
+Captain Max: Well, I don't know the details of your mission, but I guess it involves diving down to Calassa.  
+Player: Calassa  
+Captain Max: To reach Calassa from here, you have to jump down into the water from the planks. However, I cannot allow you to do that without wearing a helmet of the deep.  
+Player: helmet of the deep  
+Captain Max: Would you like to borrow such a device for 5000 gold? You can return it to me afterwards.  
+Player: no  
+Captain Max: Okay, but remember - if you don't wear a helmet of the deep in Calassa, you'll slowly drown.  
+Player: trade  
+Captain Max: You can rent a helmet of the deep or return it, both for 5000 gold pieces. Have fun.  
+Player: destination / sail / routes / passage / go / trip / Liberty Bay  
+Captain Max: Would you like me to bring you back to Liberty Bay?  
+Player: bye / farewell  
+Captain Max: Be careful out there.  

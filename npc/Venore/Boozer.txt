@@ -29,17 +29,17 @@ Boozer: I guess they just have not met the right man yet.
 Player: swampelves  
 Boozer: Some elves turned evil so to say. They now live in a small village to the south called Shadowthorn. No big deal. Who cares about some carrot-eating musicians after all?  
 Player: ferumbras  
-Boozer: Guess he’d be bad news for business.  
+Boozer: Guess he'd be bad news for business.  
 Player: army  
 Boozer: Good customers.  
 Player: king / tibianus  
 Boozer: The king is far away, so who cares?  
 Player: tavern / job  
-Boozer: I’m the bartender here at the racing track.  
+Boozer: I'm the bartender here at the racing track.  
 Player: news / rumours  
 Boozer: The swamp elves, down at Shadowthorn, are up to some trouble again.  
 Player: buy / sell / equipment / goods / stuff / ware  
-Boozer: I can offer you food and drinks. Get anything else somewhere else and don’t bother me.  
+Boozer: I can offer you food and drinks. Get anything else somewhere else and don't bother me.  
 Player: buy venorean ice cream  
 Boozer: Ah, the sweet Venorean ice cream. Just the right thing to make a day at the racing track even more enjoyable! Do you want to buy an ice cream for 10 gold?  
 Player: no  
@@ -49,4 +49,4 @@ Boozer: Ah, the sweet Venorean ice cream. Just the right thing to make a day at 
 Player: yes  
 Boozer: Here it is. Be careful, it will last only a few minutes in this climate. Better eat it at once.  
 Player: bye  
-Boozer: You’ll be back.  
+Boozer: You'll be back.  

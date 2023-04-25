@@ -1,0 +1,30 @@
+Player: hi  
+Harlow: What do you want, Player? I'm a busy man.  
+Player: busy  
+Harlow: I have a job, you know?  
+Player: job  
+Harlow: Well, I'm kind of a delivery man I guess. I take on small transportation jobs with my boat.  
+Player: transportation  
+Harlow: Want me to bring you to Vengoth again for 100 gold?  
+Player: no  
+Harlow: Fair enough.  
+Player: vengoth / passage / go / destination / trip / sail  
+Harlow: Want me to bring you to Vengoth again for 100 gold?  
+Player: yes  
+Harlow: Okay. Enjoy.  
+Player: vampire  
+Harlow: I can take care of them myself. Don't need anyone to babysit me at night.  
+Player: yalahar  
+Harlow: Yes, this is where we are, genius.  
+Player: random word  
+Harlow: What the heck, stop bothering me with your questions.  
+Player: julius  
+Harlow: I think I saw that guy lurking around in Yalahar. He's fighting vampires and all that crazy stuff.  
+Player: Vengoth (on  Vengoth)  
+Harlow: Yes, this is where we are, genius.  
+Player: yalahar / passage / go / destination / trip / sail (on Vengoth)  
+Harlow: Do you want me to bring you back to Yalahar for 50 gold?  
+Player: Random word (on Vengoth)  
+Harlow: Listen, just because we're business partners doesn't mean we're friends. Leave me alone unless you need a passage.  
+Player: bye / farewell  
+Harlow: Bye, Player.  

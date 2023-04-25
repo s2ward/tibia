@@ -1,5 +1,5 @@
 Player: hi  
-Nelly: Hello Player, what can I do for you? I’m working for the post office, but I also trade with important potions, runes and other magical equipment.  
+Nelly: Hello Player, what can I do for you? I'm working for the post office, but I also trade with important potions, runes and other magical equipment.  
 Player: post  
 Nelly: With our mail system you can send letters and parcels to other Tibians. I can give you detailed information or sell letters and parcels to you if you ask me for a trade.  
 Player: trade  
@@ -7,10 +7,10 @@ Nelly: Of course, just browse through my wares. Or do you want to look only at p
 Player: job  
 Nelly: I am working for the local post office. I also happen to have some recently imported potions and runes to sell for a very special price.  
 Player: name  
-Nelly: I am Nelly … Any special reason you ask?  
+Nelly: I am Nelly ... Any special reason you ask?  
 Player: mission / quest / task  
-Nelly: I don’t have anything to do for you. Not even for me. What a boring place!  
-Nelly: Yes, that’s Svargrond. Welcome to the end of the world.  
+Nelly: I don't have anything to do for you. Not even for me. What a boring place!  
+Nelly: Yes, that's Svargrond. Welcome to the end of the world.  
 Player: carlin  
 Nelly: Carlin lost interest in this place quite fast.  
 Player: thais  
@@ -18,9 +18,9 @@ Nelly: Thais has no affairs here.
 Player: venore  
 Nelly: I wonder if things were better if Venore ran the mining operations.  
 Player: edron  
-Nelly: What are you suggesting? What do you know … No, you can’t know anything at all. Just forget it.  
+Nelly: What are you suggesting? What do you know ... No, you can't know anything at all. Just forget it.  
 Player: yeti  
-Nelly: The locals have so many superstitions, who can tell what’s the truth and what is a myth.  
+Nelly: The locals have so many superstitions, who can tell what's the truth and what is a myth.  
 Player: port hope  
 Nelly: It probably would be even better to be in that backwater town than here.  
 Player: chakoya  
@@ -42,12 +42,12 @@ Nelly: Who cares, I would not be that stupid to leave this frozen town anyway.
 Player: jarl  
 Nelly: The local authority and the first man here. He seems quite reasonable for a northman to me.  
 Player: rumour  
-Nelly: That guy from the Carlin Trading Syndicate told me that he knows a guy in Carlin who heard that the postman was talking to a customer about Svargrond and that he would like to work here! …  
+Nelly: That guy from the Carlin Trading Syndicate told me that he knows a guy in Carlin who heard that the postman was talking to a customer about Svargrond and that he would like to work here! ...  
 Nelly: Do you know what that means ??? I could finally leave this cursed ice block for good!!  
 Player: offer / sell  
 Nelly: I sell parcels, letters, health potions, mana potions and runes.  
 Player: buy / goods / stuff  
-Nelly: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks as well as post stuff. If you’d like to see my offers, ask me for a trade.  
+Nelly: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks as well as post stuff. If you'd like to see my offers, ask me for a trade.  
 Player: years of serpent  
 Nelly: If only these sea serpents had never disappeared.  
 Player: queen  
@@ -61,11 +61,11 @@ Nelly: What do you know that makes you asking??
 Player: bonelord  
 Nelly: I have never seen a bonelord, not even in warmer climates. I doubt we will see any here in this frozen waste.  
 Player: camps  
-Nelly: The raiders live in camps somewhere to the south. The thing is they won’t simply stay there.  
+Nelly: The raiders live in camps somewhere to the south. The thing is they won't simply stay there.  
 Player: potion  
 Nelly: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.  
 Player: runes  
-Nelly: I’m selling spirit, health and mana potions, runes, wands, rods and spellbooks as well as post stuff. If you’d like to see my offers, ask me for a trade.  
+Nelly: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks as well as post stuff. If you'd like to see my offers, ask me for a trade.  
 Player: druid  
 Nelly: Druids of Carlin come here now and then to meet with the local shaman.  
 Player: cult  
@@ -73,27 +73,27 @@ Nelly: There were several strange people passing through the city some months ag
 Player: shaman  
 Nelly: Just another name for the same magic users as usual. Probably spying on unsuspecting people like all those magic guys do.  
 Player: enemy  
-Nelly: The city seems to be surrounded by enemies. It’s just horrible.  
+Nelly: The city seems to be surrounded by enemies. It's just horrible.  
 Player: everspring  
-Nelly: That’s some superstitious thing the locals are talking about now and then.  
+Nelly: That's some superstitious thing the locals are talking about now and then.  
 Player: honourary  
 Nelly: If you are foolish enough, just ask the local jarl if he allows you to join their ranks as an honourary barbarian.  
 Player: leader  
 Nelly: This city is lead by jarl Sven the Younger.  
 Player: monster  
-Nelly: At least most monsters are smart enough to stay away from the barbarians. So it’s somewhat safe in the city … if it were not for the barbarians themselves that is.  
+Nelly: At least most monsters are smart enough to stay away from the barbarians. So it's somewhat safe in the city ... if it were not for the barbarians themselves that is.  
 Player: news  
-Nelly: As if anything you’d get to hear, could be considered new.  
+Nelly: As if anything you'd get to hear, could be considered new.  
 Player: zathroth  
-Nelly: I wouldn’t be surprised if those raiders are worshipping Zathroth in their hidden camps.  
+Nelly: I wouldn't be surprised if those raiders are worshipping Zathroth in their hidden camps.  
 Player: rod  
 Nelly: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
 Player: wand  
 Nelly: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
 Player: animate dead rune  
-Nelly: Sorry, but runes of this type can’t be purchased here.  
+Nelly: Sorry, but runes of this type can't be purchased here.  
 Player: chyll  
-Nelly: I think that’s how the natives call the wind.  
+Nelly: I think that's how the natives call the wind.  
 Player: mines  
 Nelly: The loss of the mines doomed this place to complete insignificance.  
 Player: vial  
@@ -105,8 +105,8 @@ Nelly: If you are foolish enough, just ask the local jarl if he allows you to jo
 Player: fluid  
 Nelly: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
 Player: nibelor  
-Nelly: I am not sure if it’s a real place. Perhaps it’s only some myth. Who knows or cares?  
+Nelly: I am not sure if it's a real place. Perhaps it's only some myth. Who knows or cares?  
 Player: receive  
-Nelly: Well, the receiver – or addressee – is the person you want to send mail to.  
+Nelly: Well, the receiver - or addressee - is the person you want to send mail to.  
 Player: bye  
 Nelly: Good bye, Player.  

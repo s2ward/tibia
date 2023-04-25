@@ -10,7 +10,7 @@ def check_txt_files_for_errors(folder):
     
     for root, dirs, files in os.walk(folder):
         for file in files:
-            if file.endswith(".txt") and not file.endswith("EMPTY.txt"):
+            if file.endswith(".txt"):
                 filepath = os.path.join(root, file)
                 try:
                     with open(filepath, "r", encoding='utf-8') as f:
@@ -22,7 +22,7 @@ def check_txt_files_for_errors(folder):
                     
                 player_count = content.count("Player:")
 
-                if player_count == 0:
+                if player_count == 0 and len(content.strip()) > 0:
                     print(f"Error: No 'Player:' instances found in file {filepath}")
                     has_errors = True
 

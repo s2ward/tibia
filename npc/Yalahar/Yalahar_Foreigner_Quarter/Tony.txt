@@ -1,0 +1,44 @@
+Player: hi / hello  
+Tony: Hello. Unless you have official business or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Tony: Uhm... I'm glad I don't have to guard the gate between alchemist quarter and arena quarter. You know... all that acid and fume... can't be healthy.  
+Player: arena quarter  
+Tony: That side of the gate can be a little scary... all those animal roaring at night... and the gladiators can be even worse.  
+Player: augur  
+Tony: They are also our superiors... but lower in rank than the Yalahari.  
+Player: cemetery quarter  
+Tony: Now that's spooky... undead roaming around at nighttime and sometimes even at daytime... I don't set a foot there if I don't have to.  
+Player: factory quarter  
+Tony: Err... I have a rust allergy. It makes my nose tickle to go there.  
+Player: fenrock  
+Tony: I heard there's some snow there... I would love to go there some day.  
+Player: foreign quarter  
+Tony: I think some people there are not bad at all. Sometimes they visit me at the gate and ask me how I am.  
+Player: island  
+Tony: This city has a few surrounding islands... but no official ship route is going there. Mistrock... Fenrock... and err... Vengoth, as far as I know.  
+Player: job / official  
+Tony: Uhm, private first class of the Yalaharian Guard Force. <salutes clumsily>  
+Player: magician quarter  
+Tony: I don't like going there... and I think magicians consider themselves so wise and educated that they look down on normal people like you and me.  
+Player: mission  
+Tony: Mission? Eh? I don't know anything about any mission. What do you want from me?  
+Player: mistrock  
+Tony: That island is covered in mist. I've never been there. Someone in the foreign quarter told me something about it once... but I forgot what he said.  
+Player: name  
+Tony: I'm Tony.  
+Player: pass / gate  
+Tony: Uh, you want to pass the gate? Are you headed for the arena or the foreign quarter?  
+Player: quarter  
+Tony: Uhm, there are many quarters. I think... about eight. My duty is to guard the gate between the arena quarter and the... err... foreign quarter.  
+Player: random word  
+Tony: Sorry... but uhm... please move on, I actually shouldn't chat with you.  
+Player: sunken quarter  
+Tony: Mh... a really tragic story... a whole quarter of the city broke down and fell into the ocean.  
+Player: trade quarter  
+Tony: The former trade quarter is under the wing of Mr. West. He can be intimidating...  
+Player: vengoth  
+Tony: There are really bad rumours about this place. I don't want to find out if they are true.  
+Player: Yalahar  
+Tony: This city has a lot of problems... <scratches head> ... and a few surrounding islands.  
+Player: bye  
+Tony: Goodbye citizen!  

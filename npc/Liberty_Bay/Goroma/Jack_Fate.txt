@@ -1,0 +1,41 @@
+Player: hi / hello  
+Jack Fate: Welcome on board, Sir Player. Where may I sail you today?  
+Player: ab'dendriel / krailos / gray beach / carlin / issavi / kazordoon / farmine / zao / roshamuul / oramond / rathleton / liberty bay  
+Jack Fate: Sorry, but I do not sail there.  
+Player: ankrahmun / venore / edron / darashia / port hope / thais / yalahar  
+Jack Fate: Do you seek a passage to 'city name' for 'xxx' gold?  
+Player: darama  
+Jack Fate: Darama is a continent, not a city! I could transport you to Darashia, Ankrahmun or Port Hope on Darama though.  
+Player: good  
+Jack Fate: We can transport everything you want.  
+Player: goroma  
+Jack Fate: Ugh. You really want to go back to Goroma? I'll surely have to repair my ship afterwards, so I have to charge 500 gold pieces. Okay?  
+Player: ice / senja / folda / vega / svargrond  
+Jack Fate: I'm sorry, but we don't serve the routes to the Ice Islands.  
+Player: job / captain  
+Jack Fate: I'm the captain of this sailing ship.  
+Player: name  
+Jack Fate: My name is Jack Fate from the Royal Tibia Line.  
+Player: passenger  
+Jack Fate: We would like to welcome you on board.  
+Player: sail / trip / passage / town / destination / go  
+Jack Fate: Where do you want to go? To Edron, Thais, Venore, Darashia, Ankrahmun, Yalahar or Port Hope? Or to Travora - a place between the worlds?  
+Player: ship / line / company / route / tibia  
+Jack Fate: The Royal Tibia Line connects all seaside towns of Tibia.  
+Player: storm  
+Jack Fate: The trip to Thais is very dangerous due to tropical storms which often rage near the Forbidden Islands.  
+Player: travora  
+Jack Fate: Travora is the place for the character world transfer, so if you travel there make sure you actually do want to change worlds. Do you want to purchase a new daily ticket for 1000 gold?  
+Player: bye / farewell  
+Jack Fate: Good bye. Recommend us if you were satisfied with our service.  
+Dialoques on Goroma:  
+Player: goroma  
+Jack Fate: This is where we are... the volcano island Goroma. There are many rumours about this place.  
+Player: job / captain  
+Jack Fate: I'm the captain of this - well, wreck. Argh.  
+Player: passage / sail  
+Jack Fate: Do you want to travel back to Liberty Bay?  
+Player: rumour  
+Jack Fate: Well... I really don't want to scare you while we are here.  
+Player: bye / farewell  
+Jack Fate: See you later.  

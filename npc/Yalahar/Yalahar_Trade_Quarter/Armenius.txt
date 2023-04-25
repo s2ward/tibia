@@ -1,0 +1,50 @@
+Player: Hi  
+Armenius: Ah, an adventurer. Be greeted and have a seat. How may I serve you?  
+Player: Name  
+Armenius: Don't you know that when you know a person's name, you hold some power over that person?  
+Player: Armenius  
+Armenius: Uh huh. Scary, you can read the name on my bar.  
+Player: Food  
+Armenius: We offer bread, cheese, ham, and meat, as well as eggs and tomatoes. Ask for a trade if you want to have a look.  
+Player: Job  
+Armenius: That's not a serious question, is it? I'm running a bar. Duh. Are you interested in my offers?  
+Player: Offers  
+Armenius: Didn't your mama teach you? Ask for a trade if you want to see what my bar has to offer.  
+Player: Trade  
+Armenius: Sure.  
+Player: Blood  
+Armenius: If you want blood, go kill a pig.  
+Player: Vampire  
+Armenius: Why would you ask that? I give you a hint - don't meddle in affairs you haven't the slightest idea about.  
+Player: Julius  
+Armenius: Oh, don't talk about him. Little Mr. Know-it-all, he is.  
+Player: Serafin  
+Armenius: Isn't that the fruit guy? Yes, I've seen him.  
+Player: Ortheus  
+Armenius: Don't see him often. He basically lives on the opposite side of the city.  
+Player: Lisander  
+Armenius: He prefers to visit a nobler tavern than mine. Pff.  
+Player: Serafin  
+Armenius: Isn't that the fruit guy? Yes, I've seen him.  
+Player: Maris  
+Armenius: A former pirate I think.  
+Player: Yalahar  
+Armenius: Fine place for me right now. Lots of... supplies.  
+Player: Alori Mort  
+Armenius: Go away, little fly.  
+Player: Cookies  
+Armenius: It'd be better for you to leave now.  
+Player: Quarter  
+Armenius: This quarter might look a little run-down, but I prefer that to the shallow golden glory of the inner city.  
+Player: Drink  
+Armenius: I got beer, wine and some imported rum.  
+Player: Mission  
+Armenius: Why would I have a mission for you? Have a drink and pay for it, that's your first mission in my bar.  
+Player: Random Word  
+Armenius: You know, actually I don't feel like chatting with you much. Sorry, kid.  
+Player: Augur  
+Armenius: Unimportant gofers.  
+Player: mr west  
+Armenius: He's not a bad person, even from my point of view. Lots of criminals find shelter in this quarter, which means more people who come and visit my bar.  
+Player: bye  
+Armenius: Good bye.  

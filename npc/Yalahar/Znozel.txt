@@ -29,7 +29,7 @@ Znozel: This West human not too bad is. He great trader, strong chieftain.
 Player: blood crystal  
 Znozel: Oooooooooh shiny shiny shiny shiny!! Give me!!  
 Player: cookie  
-Znozel: Me only take cookie if it’s golden. Ehehehe.  
+Znozel: Me only take cookie if it's golden. Ehehehe.  
 Player: goblin  
 Znozel: Goblins not bankers usually. But great love everything shiny. Yes. Yes.  
 Player: bank  
@@ -47,7 +47,7 @@ Znozel: Wow, you have reached the magic number of a million gp!!! Your account b
 Player: basic  
 Znozel: You can check the balance of your bank account, deposit money or withdraw it. You can also transfer money to other characters, provided that that they have a vocation and are not on Dawnport.  
 Player: change  
-Znozel: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you’d like to change 100 gold into 1 platinum, simply say ‘change gold’ and then ‘1 platinum’.  
+Znozel: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say 'change gold' and then '1 platinum'.  
 Player: change crystal  
 Znozel: How many crystal coins would you like to change into platinum?  
 Player: change gold  
@@ -55,11 +55,11 @@ Znozel: How many platinum coins would you like to get?
 Player: change platinum  
 Znozel: Would you like to change your platinum coins into gold or crystal?  
 Player: deposit  
-Znozel: You don’t have any gold with you.  
+Znozel: You don't have any gold with you.  
 Player: guild  
-Znozel: You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. …  
-Znozel: If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. …  
-Znozel: As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. …  
+Znozel: You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. ...  
+Znozel: If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. ...  
+Znozel: As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. ...  
 Znozel: Please keep in mind that we may need some time to process such requests.  
 Player: guild deposit  
 Znozel: You are not a member of a guild.  
@@ -70,16 +70,16 @@ Znozel: I am sorry but it seems you are currently not in any guild.
 Player: guild withdraw  
 Znozel: I am sorry but it seems you are currently not in any guild.  
 Player: market  
-Znozel: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It’s easy!  
+Znozel: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!  
 Player: rent  
-Znozel: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money …  
+Znozel: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...  
 Znozel: Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month.  
 Player: transfer  
 Znozel: Please tell me the amount of gold you would like to transfer.  
 Player: withdraw  
 Znozel: Please tell me how much gold you would like to withdraw.  
 Player: bank account  
-Znozel: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! …  
+Znozel: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...  
 Znozel: Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?  
 Player: bye / farewell  
 Znozel: Bye, bye. You gold safe at here, Player. <snickers>!  

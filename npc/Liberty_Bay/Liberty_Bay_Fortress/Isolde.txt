@@ -1,0 +1,65 @@
+Player: hi / hello  
+Isolde: Oh, be greeted. Maybe you require my assistance as a paladin spell trainer.  
+Player: assistance / job  
+Isolde: I serve as officer and trainer for paladins in this fortress.  
+Player: Charlotta  
+Isolde: This old woman gives me shivers. Another reason to avoid the town. She has some way to look at me ... as if she knew something about me that not even I am aware of ... but forgive me, that's just my imagination.  
+Player: Chondur  
+Isolde: His name was mentioned once or twice by whispering locals. I think he does not live in this town if he exists at all.  
+Player: cult  
+Isolde: There is something evil brewing under the surface of Liberty Bay. The angry and the discontented are easily swayed by the promises of sinister seducers.  
+Player: djinn  
+Isolde: As a child I heard stories about these magical spirits. There are good djinns and evil djinns. It is rumoured that they live somewhere in the lands of the pyramids and deserts.  
+Player: Eleonore  
+Isolde: The governor's daughter is rumoured to be a bit rebellious <smiles>. Perhaps she is only missing the right man at her side.  
+Player: Ferumbras  
+Isolde: The evil he represents cannot be stopped easily. Perhaps you should talk to Malunga, the mage from Edron. As far as I know, the academy knows more about the connection of the dark ones to these isles.  
+Player: governor  
+Isolde: The governor is a very busy man. He leaves military issues in the competent hands of admiral Wyrmslicer.  
+Player: king  
+Isolde: Although I admire our king, all the crowded festivities were not to my taste. I don't mind my noble heritage too much and so I gladly accepted my duties here.  
+Player: Liberty Bay  
+Isolde: My duties hardly leave me time to visit the town. I don't like crowded streets and too many people anyway. I rather prefer a walk along the beach, to watch the sea from the cliffs or to listen to the music of wind and waves.  
+Player: loveless / theodore  
+Isolde: I wish Tristan would be more careful about that man. Although only a tradesman, there is something dangerous about him. It does not seem wise to have him as an enemy.  
+Player: pirate  
+Isolde: I can understand their desire for freedom. This, of course, does not justify robbery or murder in any way.  
+Player: plantation  
+Isolde: The people work quite hard on the plantations in the West. I sometimes listen to the sad melodies the workers are singing.  
+Player: quara  
+Isolde: The quara pose an even greater danger than the pirates do. Whereas the pirates are out for plunder, the quara try to destroy us all.  
+Player: Raymond Striker  
+Isolde: That man leads some of the pirates. He is famous for his daring robberies and his escapes from justice. In the end though, his legacy will consist only of a few stories that are shared in a smoky tavern by some old sea dogs.  
+Player: rum  
+Isolde: If people would be more disciplined in the use of rum, everything were only half as bad.  
+Player: Sniper Gloves  
+Isolde: We are always looking for sniper gloves. They are supposed to raise accuracy. If you find a pair, bring them here. Maybe I can offer you a nice trade.  
+Player: sugar  
+Isolde: They say the sugar is the treasure of the isle.  
+Player: thais  
+Isolde: Thais was so crowded I hardly found a space to breath. And the city was too busy to get my thoughts sorted. Here everything seems closer, more real. The sea, the people, enemies and friends.  
+Player: Tristan  
+Isolde: Tristan ... Tristan ... Oh how even his name lets my heart jump in joy. <blushes> Forgive me, I really adore this young hero and our hearts will always be united in love.  
+Player: venore  
+Isolde: Venore always seemed to me like a lurking moloch. A greedy octopus whose arms are everywhere ... but of course that's only a foolish impression and I don't judge people based on such ponderings.  
+Player: voodoo  
+Isolde: <shivers> I think that is dark magic and a mockery of the gods. Sadly the natives seem not to recognise what they are dealing with.  
+Player: Wyrmslicer  
+Isolde: Admiral Wyrmslicer is a man of principles. He is rather a man of doings than of great words. That might put him in a disadvantage on battlegrounds that are parlours and not a field or the sea.  
+Player: bye / farewell  
+Isolde: Good bye.  
+Some statements about spells (paladin only):  
+Player: spell  
+Isolde: I can teach rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.  
+Player: rune spells  
+Isolde: I sell 'Destroy Field Rune', 'Holy Missile Rune' and 'Disintegrate Rune'.  
+Player: instant spells  
+Isolde: I sell healing spells, supply spells, attack spells and support spells. Which of these interests you most?  
+Player: healing spells  
+Isolde: In this category I have 'Magic Patch', 'Light Healing', 'Intense Healing', 'Divine Healing', 'Cure Poison', 'Cure Curse', 'Recovery', 'Salvation' and 'Intense Recovery'.  
+Player: supply spells  
+Isolde: In this category I have 'Arrow Call', 'Conjure Arrow', 'Enchant Spear' and 'Conjure Explosive Arrow'.  
+Player: attack spells  
+Isolde: In this category I have 'Ethereal Spear', 'Divine Missile', 'Divine Caldera', 'Holy Flash' and 'Strong Ethereal Spear'.  
+Player: support spells  
+Isolde: In this category I have 'Magic Rope', 'Levitate', 'Haste', 'Find Person', 'Light', 'Cancel Invisibility' and 'Great Light'.  

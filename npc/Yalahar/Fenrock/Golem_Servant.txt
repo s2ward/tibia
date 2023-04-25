@@ -1,0 +1,21 @@
+Player: Hi  
+Golem Servant: You are too late, flesh unit! We must restart the repair procedure.  
+Player: Job/Here  
+Golem Servant: I am a servant and maintenance golem. I also operate the lift.  
+Player: Lift  
+Golem Servant: The lift is damaged, sir or madame flesh unit! I could initiate the repair process but I need the correct tools and parts for the repairs ...  
+Golem Servant: If you wish to initiate the repair process ask me for repairs, male or female unit.  
+Player: Repairs  
+Golem Servant: You must bring me the correct components or tools. The items deteriorate when they leave their conservation fields so you must be quick ...  
+Golem Servant: Are you ready, flesh unit?  
+Player: Yes  
+Golem Servant: Grease! Grease! Procedure impossible without proper amount of grease!  
+Player: Name  
+Golem Servant: I require no name.  
+Player: Repair  
+Golem Servant: You must bring me the correct components or tools. The items deteriorate when they leave their conservation fields so you must be quick ...  
+Golem Servant: Are you ready, flesh unit?  
+Player: No  
+Golem Servant: Understood! No repair procedure initiated.  
+Player: Bye/Farewell  
+Golem Servant: Good bye.  

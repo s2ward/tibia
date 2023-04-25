@@ -1,0 +1,60 @@
+NPC: Sharon  
+Player: hi / hello  
+Sharon: Welcome to Travora, Player! I suppose you're here for the Character World Transfer.  
+Player: dead / corpse  
+Sharon: What!? Are you sure that's him? No, it... it cannot be. I mean, how could this happen? ...  
+Sharon: I guess he wanted to look for sunken treasures on Travora. After all, he is - was - a dwarf. <sigh> How sad.  
+Player: elgar  
+Sharon: <sigh> He used to be my only company on Travora. But when the island sank, he became quite moody. ...  
+Sharon: I thought maybe he wanted to start a new life on the mainland. He left one night, suddenly. He didn't even say goodbye.  
+Player: bank  
+Sharon: No, there's no bank here anymore. There used to be one on the island, but there's no need for one these days. You need to visit one of the major cities if you require a bank.  
+Player: travora  
+Sharon: This is how the small island that used to be here was called. We still run a Character World Transfer from the remains of it, here. ...  
+Sharon: It was nothing much, just a speck in the ocean. But after a sea quake, most of it was swallowed by the sea. But it is still a magical place where we can send you to another world, if you wish.  
+Player: transfer  
+Sharon: Character World Transfer means that you will leave this world and move to a new one to live there. If you need detailed information just ask me. I can also check if you're ready and if you are, I can teleport you to the transfer platform.  
+Player: information  
+Sharon: I can tell you about the requirements for a transfer, and about what happens to your skills, quests, money and items. ...  
+Sharon: I can also check if you fulfil the requirements. And I can then teleport you to the departure platform.  
+Player: requirements  
+Sharon: Well, first of all you need to purchase a Character World Transfer in the in-game Store. Without that, nothing will happen! ...  
+Sharon: Then choose the character and the world you wish to be transferred to and follow the instructions from the store. ...  
+Sharon: The character - you - must then talk to me here to be transferred to the chosen world. ...  
+Sharon: You MUST NOT have a black or red skull, also make sure that you do not have any open Tibia Coin auctions in the Market! ...  
+Sharon: You MUST give up all your bonds to this world. No marriage. No guild. No house. All of this will automatically be dissolved for you when transferring. ...  
+Sharon: You can only move every 6 months! So if you've already changed worlds, you need to wait 6 months for a new transfer. Or buy an Express World Transfer in the Store. But that's expensive. ...  
+Sharon: I can tell you about what happens to your money and items, and I also check whether you meet the requirements - and if you do, I can then teleport you to the departure platform.  
+Player: money  
+Sharon: I recommend depositing all of your gold in the bank. You will keep ALL of the money on your bank account on the new world.  
+Player: items  
+Sharon: All your items in your inventory, your inbox and your depot will be transferred. ...  
+Sharon: I recommend checking all the items you want to keep and to sell the rest; and deposit your money on your bank account. Or you could give some to friends who stay here! ...  
+Sharon: I can check if you meet all necessary requirements for a transfer.  
+Player: teleport  
+Sharon: Before I can teleport you to the transport platform, I must check if you meet the requirements for a Character World Transfer first.  
+Player: depot  
+Sharon: No worries there. You keep all your items that are in your inventory, inbox and depot.  
+Player: divorce  
+Sharon: I'm sorry, but I'm not qualified to divorce you. You will have to go to a priest on the Mainland for that.  
+Player: inbox  
+Sharon: You keep all items that are in your inbox when transferring to another world.  
+Player: inventory  
+Sharon: Yes, you will also keep the items in your inventory.  
+Player: job  
+Sharon: I help you to prepare your Character World Transfer by giving you all kind of information.  
+Player: quest  
+Sharon: You will keep the status of all your quests. That includes opened treasures - even if they are not shown in the questlog -, having taken part in events and the status of your blessings.  
+Player: name  
+Sharon: My name is Sharon.  
+Player: skill  
+Sharon: You will keep all of your skills and levels as they currently are. Easy as that.  
+Player: time  
+Sharon: <sigh> Time seems to stand still, here.  
+Player: check  
+Sharon: You meet all in-game requirements for a Character World Transfer. Have you also paid and set everything correctly - the character and world you wish to transfer to - on the Tibia Store?  
+Player: no  
+Sharon: Well, that is a definite requirement! ...  
+Sharon: I can only check if you fulfil all in-game requirements, so make sure you paid for the service in the Store, and that everything is correctly set in your account on the website, too. Or else logging out on the depature platform won't have any effect.  
+Player: bye / farewell  
+Sharon: Bye-bye, Player! Don't forget - if you logout on the platform and fulfil all requirements, your character will arrive on your new world after the next server save.  

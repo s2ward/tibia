@@ -1,0 +1,70 @@
+Player: hi / hello  
+Tarak: Hi, Player. Can I interest you in a trip to the monument tower?  
+Player: job  
+Tarak: Well, actually I'm unemployed. But I make a little money by bringing tourists to the monument tower.  
+Player: name  
+Tarak: I'm Tarak. I may look like a beggar, but I'd never ask for free stuff - I work for my money! At your service.  
+Player: monument tower  
+Tarak: This tower is the most intact remaining part of the sunken quarter of Yalahar. From there, you can dive down to the sunken city. Want to travel there, just ask me for a passage.  
+Player: trip / destination / route / go / passage / sail  
+Tarak: I can row you to the monument tower for 50 gold. Return trip included! You can only dive down with a helmet of the deep, though. Wanna go?  
+Player: sailor  
+Tarak: No, I wouldn't consider myself a true sailor. But I know enough to bring you to the tower and back again safely.  
+Player: sunken quarter  
+Tarak: Now that's some story. I've told it numerous times to tourists - <coughs>, I mean, adventurers - but it still makes me shiver each time. ...  
+Tarak: As you might have already noticed, Yalahar is huge. HUGE. The city has grown so much over the past centuries that eventually there was no space left for new buildings. ...  
+Tarak: However, due to the constant flow of immigrants, the citizens just kept on building and building - either placing buildings on top of each other or trying to enhance the space with platforms on the water. ...  
+Tarak: Then, a few decades ago, there was a day which I still remember vividly, because I was right in the middle of the whole disaster happening. ...  
+Tarak: I just came back from the centre and was on the way to my house located in the east quarter - today situated several feet below us under the ocean surface. ...  
+Tarak: Suddenly the earth was shaking and I heard a loud rumbling. I was still wondering what on earth was going on, or if we were under attack, when I saw the houses closest to the ocean collapse. ...  
+Tarak: Just like that! The ground under them broke away and fell into the ocean, and then - imagine that - like a wave of destruction, terror rushed through the whole quarter. ...  
+Tarak: I heard people screaming and more houses tumbling down, and immediately I rushed back to the centre, behind the solid city walls - even though they didn't seem so solid at that time, but it was the safest place I could get to. ...  
+Tarak: From there I had to helplessly watch how the whole quarter fell apart. Large chunks of stone and earth collapsed into the ocean, and with them all of my belongings. ...  
+Tarak: When the wave of destruction reached the wall separating the quarter from the other parts of the city, that wall also sunk into the ocean and must have worked as a barrier down there. ...  
+Tarak: You can still see the top of the old wall sticking out of the water. After that last collapse, the destruction stopped all of a sudden. ...  
+Tarak: Only a few people, among them myself as you can see, were able to survive the great downfall. The rest was buried under their houses, or drowned in the ocean. Such cruel fate... ...  
+Tarak: Well, <clears throat> it took a while for me to recover from that incident, and afterwards I decided to show to adventurers what can happen when you foolishly overestimate your power. So let that be a lesson to you. ...  
+Tarak: Now, it's up to you if you want to dive down to the remains of the sunken part of Yalahar. You need a Helmet of the Deep, though. And beware, quara have infested the area. ...  
+Tarak: Maybe they were also involved into the great downfall. We will never know for sure, but I truly hope an incident like that won't repeat itself in Yalahar.  
+Player: tourist  
+Tarak: Well, a nicer expression would be 'adventurers' I guess.  
+Player: adventurer  
+Tarak: You know, the people back in the old days, those were real adventurers.  
+Player: time  
+Tarak: My watch was stolen, unfortunately.  
+Player: Yalahar  
+Tarak: How strange a city you are... Yalahar. I guess I'll make a song out of that someday. I'm quite a talented musician, you know!  
+Player: King  
+Tarak: Oh yes, I saw the king once, when I was still a youngster living in Thais. I think the nobles don't care about the common people.  
+Player: Ab'dendriel  
+Tarak: I've lived there for a short time before moving on to Yalahar. I never really got along with the elves, though. Can't stand people who think they are better than me.  
+Player: Carlin  
+Tarak: Carlin isn't as bad as people say, as long as you bring your own alcohol and can handle the women there.  
+Player: Venore  
+Tarak: I guess it would be hard to earn money there as a ferryman - the swamp is not passable by boat.  
+Player: Thais  
+Tarak: I grew up there, so I still have pleasant memories of it.  
+Player: Edron  
+Tarak: Edron is actually close by here. One day, I'll row there with my own hands. That's my goal.  
+Player: Port Hope  
+Tarak: I know some people down there. Old Adall used to be a close friend of mine, but we lost contact over the years. Don't know if he even remembers me.  
+Player: Ankrahmun  
+Tarak: One day, I'd like to see the pyramids. The real, big pyramids I mean, not the small one we have in Yalahar.  
+Player: Darashia  
+Tarak: I've never been there, and to be honest, I'm not planning to. Nothing exciting about it.  
+Player: Kazordoon  
+Tarak: I like the dwarfs. They usually don't talk much, but still they are great drinking companions.  
+Player: Svargrond  
+Tarak: Yes, the barbarian settlement west of here. I went there once, but honestly, my old bones can't stand the cold.  
+Player: Vengoth  
+Tarak: Vengoth?? No, heck, I don't go near that cursed island. Maybe someone in the south quarters is brave enough, they have boats too, you know.  
+Player: Ferumbras  
+Tarak: Those stories don't scare me. Ferumbras' tower is said to be on an island to the far south-west. That's far away enough for me.  
+Player: Tibia  
+Tarak: Over the years, I've seen many things happening in Tibia, especially a lot of bad stuff. Somehow I managed not to get disillusioned, though, just seasoned.  
+Player: Liberty Bay  
+Tarak: An old love of mine used to live there. I wonder how she's doing today.  
+Player: Charlotta  
+Tarak: Yes, in fact that's the name of my old love. You must be a good guesser.  
+Player: bye / Farewell  
+Tarak: Bye, Player. Come back whenever you want to see the monument tower.  

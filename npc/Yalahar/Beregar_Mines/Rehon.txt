@@ -1,0 +1,58 @@
+NPC: Rehon  
+Note: Transcription made after completing all missions of the Hidden City of Beregar quest  
+Player: hi / hello / hiho  
+Rehon: Hello, my friend.  
+Player: ab'dendriel / ankrahmun / carlin / thais / venore / darashia / svargrond / port hope / liberty bay / edron  
+Rehon: I have never visited one of your cities. Once you have seen Beregar, you don't need to go anywhere else.  
+Player: beregar  
+Rehon: Lovely, huh? The shady lights, the smell of iron and stone. Ahhh, it's time I got back there.  
+Player: bolfona  
+Rehon: Don't mess with her - you'll lose. I promise.  
+Player: bye  
+Rehon: Leave without me. I'll sneak out on my own.  
+Player: drog  
+Rehon: He's a drunkard but a good worker... at least when he's drunk.  
+Player: dwarf / expedition / member / other / rest  
+Rehon: I can't be completely sure, but I don't believe anyone else survived the troll attacks.  
+Player: frafnar  
+Rehon: Oh well, he's kind of..... strange, but basically he's alright. I heard he likes Bolfona <giggles>.  
+Player: grombur  
+Rehon: He's on the right way to become the drunkard of the year.  
+Player: harog  
+Rehon: Hah! When you find out how he makes his money you'll laugh! He sells rotworm urine as rust remover and earns a fortune with it. Muahahahahaha!  
+Player: hero  
+Rehon: You're kiddin' me.... just get me out of here!  
+Player: job  
+Rehon: Me and my expedition party were supposed to find new crystal veins here in the old mine tunnels.  
+Player: knight  
+Rehon: All dwarfs know how to fight. There is no need to have a special vocation for that.  
+Player: name  
+Rehon: I'm Rehon, son of Rehal. Don't be afraid, I don't bite.  
+Player: nokmir  
+Rehon: He's a really good soul. Whenever you're in trouble Nokmir will help you. He covered up for me soooo many times when I was little.  
+Player: poem  
+Rehon: Get me out of here NOW!! And don't you dare to complain about the rhyme!  
+Player: rehal  
+Rehon: He's a wise emperor and a good father but I can't imagine being an emperor myself.  
+Player: rescue  
+Rehon: By the Gods, it's about time someone showed up to rescue me.  
+Player: spell  
+Rehon: Sorry, I don't teach spells for your vocation.  
+Player: spellbook  
+Rehon: Do I look like a sorcerer?  
+Player: tehlim  
+Rehon: Tehlim is alive?!? Well, at least he won't starve down in the tunnels. Hehehehe.  
+Player: tibia  
+Rehon: The stone we walk on, the air we breathe... or in this case, the rubbish and the stench that surrounds us.  
+Player: time  
+Rehon: It's time to leave this filthy place.  
+Player: troll  
+Rehon: I have never seen such well-trained trolls. I wonder if there is a conspiracy behind that.  
+Player: vocation  
+Rehon: I'd say I'm an explorer and adventurer. Always in trouble. Hehehehe.  
+Player: xorlosh  
+Rehon: He has a talent for repairing things. He wasn't trained in that but he has a feel for it instinctively, you know what I mean? I can't really explain how he does what he does.  
+Player: Yalahar  
+Rehon: Those Yalaharians are crazy. Good for nothing but trouble. I prefer to stay in Beregar.  
+Player: farewell  
+Rehon: Don't leave me to rot down here.  

@@ -1,0 +1,13 @@
+Player: Hi  
+Captain Jack Rat: Hail, pirat! Come on board to go home! Welcome on board of the ship Flying Bat. Should I set the sails?  
+Player: Sails  
+Captain Jack Rat: There are two different routes. The dangerous one will be available once a day and it is likely that a seemonster will attack the ship once again. ...  
+Captain Jack Rat: Maybe fighting it for several times will expel it from this region permanently. Feel free to help reaching this goal!  
+Player: Safe  
+Captain Jack Rat: Do you want to take the safe route?  
+Player: Name  
+Captain Jack Rat: My name is Jack Rat, captain jack rat.  
+Player: Job  
+Captain Jack Rat: I am the captain of this ship on the coast.  
+Player: Bye  
+Captain Jack Rat: Farewell!  

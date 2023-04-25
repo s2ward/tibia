@@ -1,0 +1,50 @@
+Player: hi / hello  
+Zarak: Greetingsss, Player. What do you want?  
+Player: alchemist quarter  
+Zarak: If you want to die by a plague, jussst go there!  
+Player: arena quarter  
+Zarak: The gladiatorsss know to fight, but they don't know how to battle.  
+Player: blood crystal  
+Zarak: A true warrior doesssn't need jewellery.  
+Player: druid  
+Zarak: They try to massster the powersss of nature, but they fail to sssee the sssnake in the grasss.  
+Player: excalibug  
+Zarak: The great ssserpent wouldn't allow that sssuch a weapon exisssted.  
+Player: factory quarter  
+Zarak: I don't mind that thisss ssstinking factoriesss are out of busssinesss.  
+Player: foreign quarter  
+Zarak: What a foolish idea to open the city for the enemy!  
+Player: job  
+Zarak: I teach the artsss of the warrior. I know ssseveral ssspellsss I might ssshare with a worthy knight.  
+Player: knight  
+Zarak: What you clumsssy humannsss call fighting looksss asss akwardly asss a bear trying to catch a fly. True warriorsss fight with ssskill rather than with power.  
+Player: magic  
+Zarak: Magic isss a tool of the godsss. Only holy men are allowed to wield sssuch power. You humansss play way too freely with magic.  
+Player: magician quarter  
+Zarak: Sssoft ssskinned humansss are to obsssessed with magic.  
+Player: news  
+Zarak: A wind of change isss blowing in Yalahar.  
+Player: palimuth  
+Zarak: Sssoft and without pride. The choice of a ssservant tellsss much about itsss massster.  
+Player: serpent  
+Zarak: Your warm-blooded brain can't comprehend the waysss of the great ssserpent.  
+Player: sorcerer  
+Zarak: They dabble with powersss far older than their art. One day thisss power will ssswallow them all.  
+Player: spell  
+Zarak: Sorry, I don't teach spells for your vocation.  
+Player: spellbook  
+Zarak: In a ssspellbook, your ssspells are lisssted. You will find the pronunciation of each ssspell in there.  
+Player: sunken quarter  
+Zarak: Now the quara rule at a place which once belonged to the city.  
+Player: tibia  
+Zarak: The world is nothing but an egg of the great ssserpent.  
+Player: vocation  
+Zarak: Your vocation isss your professsion. There are four vocationsss in Tibia: knightsss, paladinsss, sssorcerersss, and druidsss.  
+Player: weapon  
+Zarak: You sssoft ssskinsss rely too much on armor and weaponsss. A true warrior usssesss hisss whole body asss a weapon.  
+Player: yalahar  
+Zarak: My people know a lot about lossst greatnesss. Ssstill, don't expect to sssee me mourning.  
+Player: yalahari  
+Zarak: They can't hide under their rock forever. Asss sssoon asss they leave their shelter, the predatorsss will ssstrike.  
+Player: bye / farewell  
+Zarak: We'll meet again.  

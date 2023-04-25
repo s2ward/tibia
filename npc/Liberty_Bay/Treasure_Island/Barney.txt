@@ -1,0 +1,26 @@
+Player: hi / hello  
+Barney: Hello, but would you be so kind not to dig here, Player? This is my spot!  
+Player: Cursed  
+Barney: Listen, mate, the sun is shining, the sky is blue, and I really don't feel like talking about curses and ghosts.  
+Player: Dig  
+Barney: Yep, no treasure without digging. That's how it has always been and always will be.  
+Player: Liberty Bay  
+Barney: Except for the tavern I haven't seen much of Liberty Bay. I leave early and return late, life as a treasure hunter is hard.  
+Player: Name  
+Barney: I'm Barney.  
+Player: Pirate  
+Barney: They say that a bunch of cursed undead pirates roam this island sometimes. Spooky, isn't it?  
+Player: Pirate treasure map  
+Barney: Yes, get a treasure map from the pirates, keep it with you at all times and then just dig. Sooner or later you'll get lucky.  
+Player: Sell  
+Barney: Do I look like a merchant? If you need anything, check out the huts at the northern coast.  
+Player: Shovel  
+Barney: I think they are selling shovels here. However, I rather bring my own lucky shovel.  
+Player: Spot / Treasure  
+Barney: This island is famous for its hidden treasures. I haven't found anything yet, but I'm sure something must be here.  
+Player: Treasure map  
+Barney: Get your own treasure map, this one is mine! I think the ones sold here are sort of... well, you probably need a real pirate treasure map here.  
+Player: War  
+Barney: I don't know anything about a war.  
+Player: bye / farewell  
+Barney: Yes, yes, bye already.  

@@ -1,0 +1,14 @@
+Player: hi  
+Maritima: Oh hello, visitor from the dry land.  
+Player: visitor / job  
+Maritima: I'm a mermaid. I sing songs and play with the fishes.  
+Player: fishes  
+Maritima: Fishes are my friends. I really hate that the quara treat them so badly.  
+Player: name  
+Maritima: I'm Maritima.  
+Player: yalahar  
+Maritima: I've only seen the city from afar.  
+Player: yalahari  
+Maritima: Some centuries ago, the Yalahari used to visit the bottom of the ocean. Then all of a sudden, their visits ended.  
+Player: bye  
+Maritima: Use your knowledge wisely, Player.  

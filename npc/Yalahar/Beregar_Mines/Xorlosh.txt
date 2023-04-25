@@ -1,0 +1,36 @@
+NPC: Xorlosh  
+Note: Transcription made after completing all missions in Beregar.  
+Player: hi / hiho / hello  
+Xorlosh: Who are you? Are you a genius in mechanics? You don't look like one.  
+Player: beer  
+Xorlosh: Go ask Grombur, he always has a cask at his side.  
+Player: Beregar  
+Xorlosh: Our great citadel is a masterpiece of dwarven workmanship. I'm afraid only dwarfs are allowed to enter the deeper parts of the city.  
+Player: book  
+Xorlosh: The book about tunnelling is in the library which is located in the north eastern wing of Beregar city.  
+Player: busy / elevator  
+Xorlosh: Some son of a rotworm put WAY too much stuff in this elevator and now it's broken. I could do with some help to fix it.  
+Player: Frafnar  
+Xorlosh: To be honest....he goes on and on and on about his romantic issues. It's getting annoying.  
+Player: gear wheels  
+Xorlosh: They are crooked. I could do with some help to fix them.  
+Player: Grombur  
+Xorlosh: He's not a bad guy. He knows how to drink, he's strong and... well, he's a dwarf like me and y... err... just like me.  
+Player: job  
+Xorlosh: Best mechanic in town.  
+Player: mechanic  
+Xorlosh: I'd love to chat with you about the high art of mechanics but I'm too busy.  
+Player: mine  
+Xorlosh: It's a crystal mine. Very rare crystals can be found here. We mine them and produce all kind of precious things out of them. Well, not me. I'm too clumsy for that kind of work so they promoted me to a guard! ...  
+Xorlosh: I'm a good guard, no one without permission is allowed to enter.  
+Player: mission / quest  
+Xorlosh: Hehe, they don't expect me to be done so quickly, so I PRETEND I'm not ready yet. Hrhrhrhr.  
+Player: rehal  
+Xorlosh: He's a great emperor. You'll find him on his throne in the citadel.  
+Player: Rerun  
+Xorlosh: Haven't seen him for a while. Maybe he's in one of the mines.  
+Player: tunnel / emperor / problem  
+Xorlosh: There should be a book in our library about tunnelling. I don't have that much time to talk to you about that. ...  
+Xorlosh: If you want to have some information, you'll just have to find that book. If you need some equipment, go ask Harog. You'll find the library in the north eastern wing of Beregar city.  
+Player: bye  
+Xorlosh: Alright, back to work.  

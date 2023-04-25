@@ -1,0 +1,52 @@
+Player: hi
+Bolfona: Are you talking to me? Well, go on chatting but don't expect an answer.
+Player: beer / chocolate cake
+Bolfona: Did you hear something about old Borre? Haven't seen him for a while.
+Drog: I heard that he's been missing for a week now. For sure that half-blind mole fell into the lava!
+Player: beregar / rehal
+Drog: These 20 beers each evening kill ME. Muahahahaha!
+Bolfona: These 20 hour shifts kill me.
+Player: buy / shop
+Bolfona: If you pay for it, no problem.
+Drog: Bol......I'd love to lay down under a cask of beer and you open it. You think that's possible?
+Player: chatting / tavern
+Bolfona: I am not sure if I'd like to trade with you.
+Player: druid / sell
+Bolfona: I told you 1000 times, it's because of the mushrooms. They grow faster and so the flavour of the mushroom beer is better!
+Drog: One question Bol: Why don't you have an urinal in your tavern?
+Player: dwarf / emperor
+Bolfona: Guys, I have a good one. Do you know the term for a foolish, tall being that roams through Beregar? ....It's a HUMAN! Hahahaha!
+Drog: Muahahahaha!!!
+Player: food / meat
+Bolfona: Have you heard the rumours about that other dwarven city?
+Drog: NO WAY! You're kiddin' me?!?!
+Player: Grombur
+Bolfona: I'll give a good thrashing to the next lucky dwarf who spills beer on my counter. Understand?!
+Drog: Calm down Bol!
+Player: ham / paladin
+Bolfona: Bad?!? It was your 13th beer today!!!
+Drog: Hey Bol, that last beer you gave me yesterday must have been bad. It took me 2 hours to get to my place!
+Player: job
+Bolfona: I'm standing behind the counter in a tavern. What do you think I'm doing?
+Drog: <giggles>
+Player: kazordoon / quest
+Drog: Naa, it was in the northern mine. I'm on duty in the western mine this month.
+Bolfona: Hey Drog, have you been in the mines when that rotworm attack took place?
+Player: knight / sorcerer
+Bolfona: You still owe me 2000 gold from our last game.
+Drog: Wanna play dice Bol?
+Player: male / female
+Drog: Ohoh, I gotta go now. Just remembered that I have a rotworm in my oven.
+Bolfona: WHAT DID YOU JUST SAY?!?
+Player: man / woman
+Bolfona: WHAT DID YOU JUST SAY?!?
+Player: mine / offer
+Drog: About time, Bol honey!
+Bolfona: Drog, your next beer is on its way!
+Player: name
+Drog: <Gulp gulp>....Ahhhh.
+Bolfona: Who are you that you are interested in a dwarf woman?!? Pick someone of your own kind.
+Player: trade
+Bolfona: Oh well, you don't seem to be THAT bad. What do you want?
+Player: bye
+Bolfona: Good news!
