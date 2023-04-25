@@ -135,6 +135,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Makao</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves/Makao.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ulala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves/Ulala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Zao Steppe</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Zao_Steppe)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Curos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Zao_Steppe/Curos.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zalamon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Zao_Steppe/Zalamon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zumtah</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Zumtah.txt)  
 ├─&nbsp;&nbsp;<strong>Feyrist</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist)  
