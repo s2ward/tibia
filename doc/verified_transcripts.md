@@ -326,6 +326,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edmund</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Edmund.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fayla</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fayla.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Flint</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Flint.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graham</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Graham.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maro</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Maro.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nicholas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Nicholas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Slum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum)  
