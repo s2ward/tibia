@@ -320,6 +320,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uso</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Uso.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yawno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Yawno.txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Azalea</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Azalea.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barnabas Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barnabas_Dee.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Christine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Christine.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edmund</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Edmund.txt)  
