@@ -164,8 +164,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ray</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ray.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tarun</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tarun.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Blind Prophet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/The_Blind_Prophet.txt)  
-├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Silas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Silas.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Al Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard/Al_Dee.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Amber</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard/Amber.txt)  
