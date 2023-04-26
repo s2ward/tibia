@@ -356,7 +356,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Drystan Wildweed</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory/Drystan_Wildweed.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Georgia Rainbird</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory/Georgia_Rainbird.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wesley</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory/Wesley.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graham</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Graham.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helsi Van Ore</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Helsi_Van_Ore.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jondrin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Jondrin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Lower Glooth Factory East</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Lower_Glooth_Factory_East)  
