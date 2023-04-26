@@ -161,7 +161,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aurita</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Feyrist_Meadows/Aurita.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dancing Fairy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Feyrist_Meadows/Dancing_Fairy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gerimor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Feyrist_Meadows/Gerimor.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maelyrra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Maelyrra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Peaceful Pooka</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Peaceful_Pooka.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Taegen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Taegen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Talila</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Talila.txt)  
