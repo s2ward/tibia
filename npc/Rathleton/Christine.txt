@@ -10,6 +10,8 @@ Player: name
 Christine: Traditionally, it's Miss D'Albay, but you may call me Christine. <flashes you a smile>  
 Player: christine  
 Christine: I was named after my grandmother. Did you know that she established this café? She was a very forward-thinking lady.  
+Player: mother
+Christine: Mother disapproves of me running the café. She thinks I should be getting married and leave the shop to my younger brother Cedric. But I love it here! You meet so very many interesting people!
 Player: grandmother  
 Christine: Grandmother Christine was a fabulous baker and even continued to run the shop when she was married. That annoyed quite some elder people in the higher society! But if it hadn't been for her, things would never have moved in this city.  
 Player: father  
