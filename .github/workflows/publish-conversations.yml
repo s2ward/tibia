@@ -95,8 +95,7 @@ jobs:
   
       - name: Convert txt files to JSON
         run: |
-          cd npc
-          python ../src/txt_to_json.py
+          python src/txt_to_json.py
   
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
