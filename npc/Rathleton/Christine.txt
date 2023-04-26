@@ -3,13 +3,24 @@ Christine: Welcome, sweetheart! Want a bite to eat? I'll trade!
 Player: trade  
 Christine: Sure, here's our menu!  
 Player: job  
+Christine: I run the Opera Café and sell delicacies to go! Ask me for a trade!
+Player: offer / sell / buy / food  
+Christine: I'd be delighted to sell you something! Ask me for a trade to see our list of delicious resfreshments and provisions.  
+Player: name  
+Christine: Traditionally, it's Miss D'Albay, but you may call me Christine. <flashes you a smile>  
+Player: christine  
+Christine: I was named after my grandmother. Did you know that she established this café? She was a very forward-thinking lady.  
+Player: mother
+Christine: Mother disapproves of me running the café. She thinks I should be getting married and leave the shop to my younger brother Cedric. But I love it here! You meet so very many interesting people!
+Player: grandmother  
+Christine: Grandmother Christine was a fabulous baker and even continued to run the shop when she was married. That annoyed quite some elder people in the higher society! But if it hadn't been for her, things would never have moved in this city.  
+Player: father  
+Christine: Father thinks I have too many fancy ideas and that I will quietly settle down once I'm married. <winks> Well, I believe I will continue just fine the way I am!  
 Player: opera  
 Christine: We used to have one, but after that dreadful fire one day it was torn down and an experimental glooth factory was established instead. ...  
 Christine: That didn't go well, either; the factory's been closed for years and the whole area is, quite frankly, gone to rack and ruin. I'd love to rebuild the opera, though. <sighs>  
 Player: glooth  
 Christine: The stuff Rathleton's dreams are made of! <winks> Seriously, honey, I make some delicious sandwiches and steaks out of it. Ask me for a trade to find out for yourself!  
-Player: offer / sell / buy / food  
-Christine: I'd be delighted to sell you something! Ask me for a trade to see our list of delicious resfreshments and provisions.  
 Player: airtight cloth  
 Christine: Hmm, yes, I see the idea, but does it work? It's just an idea so far. I'd like to see such a cloth.  
 Player: king  
@@ -17,14 +28,6 @@ Christine: Really? How romantic! We haven't had a king or queen for a long time.
 Player: tibia  
 Christine: Your lands sound fascinating! When I get married, I will make sure my husband takes me for a honeymoon there.  
 Player: Rathleton / city  
-Player: name  
-Christine: Traditionally, it's Miss D'Albay, but you may call me Christine. <flashes you a smile>  
-Player: christine  
-Player: grandmother  
-Christine: Grandmother Christine was a fabulous baker and even continued to run the shop when she was married. That annoyed quite some elder people in the higher society! But if it hadn't been for her, things would never have moved in this city.  
-Player: mother  
-Player: father  
-Christine: Father thinks I have too many fancy ideas and that I will quietly settle down once I'm married. <winks> Well, I believe I will continue just fine the way I am!  
 Player: fyodor  
 Christine: He can be so funny! And the way he talks about his ideas for the city! Father disapproves of him, of course. But I think this place could go much forward if Fyodor had a say in matters. Is it true he vistied your capital city? What's it like there?  
 Player: graham  
@@ -51,4 +54,4 @@ Christine: Mother would love for me to marry into the family. The D'Arbalesses a
 Player: virgil  
 Christine: He's a great friend of father's. Very respectable, and a bore through and through! 'Money this, glooth papers that...' - it's time for a fresh breeze in this stuffy city!  
 Player: bye  
-Christine: Bye, bye, love!  
+Christine: Bye, bye, love! 
