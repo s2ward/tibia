@@ -331,6 +331,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Chavis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Chavis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Workshops</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zeronex</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Zeronex.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Silas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Silas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Virgil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Virgil.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cipfried</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard/Cipfried.txt)  
