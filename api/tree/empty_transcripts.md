@@ -381,7 +381,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Roswitha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Roswitha.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Workshops</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Doubleday</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Doubleday.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Terrence</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Terrence.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yeo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Yeo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roughington</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Roughington.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Seacrest Grounds</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Seacrest_Grounds)  
