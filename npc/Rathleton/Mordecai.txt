@@ -1,0 +1,53 @@
+Mordecai: Now where did Alaistar put the wood for the new wands?
+Mordecai: Wands and rods, the true magician's weapons of choice!
+Mordecai: Perhaps I need to bake them hotter? Or was it longer?
+Mordecai: Come in, young mages! Purchase the latest in runes and wands!
+Mordecai: Hmmm.. Maybe those crushed gems caused the strange side effect?
+Player: hi
+Mordecai: Welcome to the magic emporium, child. Ask me for a trade if you need runes, wands, or spellbooks.
+Player: name
+Mordecai: I am professor Mordecai Stanton.
+Player: job
+Mordecai: I craft runes and wands and sell magical equipment of all sorts here in our humble establishment. <bows>
+Player: offer
+Mordecai: Indeed! Ask me for a trade to choose from my wares.
+Player: trade
+Mordecai: Choose wisely! Or maybe you want to look only at wands or runes?
+Player: wands
+Mordecai: Naturally. You can also look at runes.
+Player: runes
+Mordecai: Naturally. You can also look at wands.
+Player: no
+Mordecai: All right then, just browse through all of my wares.
+Player: news
+Mordecai: I am not familiar with the workings of the city, I am afraid. I take little interest in the workings of the, er, non-magical kind, I confess. ...
+Mordecai: Young Fairfax, I mean Fyodor, is better informed. And of course you can always ask the city guards, or the magistrates, on what's going on.
+Player: minotaurs
+Mordecai: The minotaurs here on Oramond are quite vicious creatures, with a ... grudge against our city. I always fear for Alaistar when he is out collecting herbs, but he won't listen. <sighs>
+Player: professor
+Mordecai: I used to teach, but I have retired. Now, I indulge in the arts and crafts of magic.
+Player: teach
+Mordecai: Ah, no, no, no, my teaching days are over. Nowadays, my good friend Barnabas teaches sorcerer spells to the magically gifted.
+Player: druid
+Mordecai: Never really been one for all that ado about healing, I admit. Use your runes wisely, I always say! However, if oyu need a druid, go to our temple and ask Azalea, our healer.
+Player: maxxen
+Mordecai: Never heard that name.
+Player: captain caveworm
+Mordecai: In truth it's a whole subversive movement, that used this cover for their activities that are aimed at destroying our town.
+Player: alaistar
+Mordecai: My younger brother is a renowned potion maker, researcher, hobby archeologist and quite the expert on the field of the local fauna and flora. It's somewhat of a calling, I believe.
+Player: azalea
+Mordecai: I am not sure the girl was called that name by her parents, but druids have their own ways. She is a superb healer nonetheless, and also grows charming room plants, if you need some.
+Player: barnabas dee
+Mordecai: Ah, so you are interested in the higher arts as well? Commendable. He lives next door, on the top floor.
+Player: dr merlay
+Mordecai: There seems to have been some commotion lately with view to his family fortune, or so Alaistar told me. But I hardly concern myself with city matters these days.
+Player: fyodor
+Mordecai: He visited your capital and became a postman, didn't he? He's a bright fellow, and has some interesting ideas. Writes articles and has some high-flown ideas for his newspaper, but no harm in that.
+Player: maro
+Mordecai: My brother found him as a whelp, left for dead next to an abandoned battlefield. He brought him here and raised him as... well, a human. It was a fascinating subject of study.
+Player: virgil
+Mordecai: Carefew plays a leading role in society, or at least he used to when I was still teaching. Very influential man, though he never was a magistrate member.
+Player: bye
+Mordecai: Take care, child.
+Mordecai: Ah, the impetuosity of youth.
