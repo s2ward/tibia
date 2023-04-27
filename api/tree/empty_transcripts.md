@@ -345,7 +345,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barazbaz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barazbaz.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dr Merlay</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Dr_Merlay.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Elbert.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emily</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Emily.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ezebeth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Ezebeth.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fabiana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fabiana.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Flora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Flora.txt)  

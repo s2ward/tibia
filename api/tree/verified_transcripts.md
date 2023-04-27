@@ -326,6 +326,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barnabas Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barnabas_Dee.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Christine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Christine.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edmund</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Edmund.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emily</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Emily.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fayla</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fayla.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Flint</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Flint.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graham</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Graham.txt)  
