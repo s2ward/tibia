@@ -1,0 +1,33 @@
+Elbert: Damned glooth bandits! They are worse than a swarm of magpies!
+Elbert: Poor Georgia, I wish I could help you.
+Elbert: This pump doesn't work.
+Player: hi
+Elbert: Greetings. Excuse me but I don't have the time for useless conversation. I have a lot of work and unfortunately also some trouble here.
+Player: job
+Elbert: I oversee the glooth pumping stations down here. Formerly I was the laboratory assistant to Georgia Rainbird, but her research work ... how might I phrase it? It is in abeyance at the moment.
+Player: time
+Elbert: It's exactly 3:38 pm.
+Player: trouble
+Elbert: There is a band of thieves who bully the tunnels near the factory far too long. Even worse, they have stolen some important objects. ...
+Elbert: On the one hand there were some special gauges I calibrated for Georgia Rainbird. She surely needed them for some important purpose. Further they have stolen a vast amount of ammunition for new glooth-based weapons, so called glooth ejectors. ...
+Elbert: This ammunition consists of glooth-filled supply capsules. Would you help me and try to bring them back?
+Player: yes
+Elbert: I'm very happy to hear that. If you have found ten glooth capsules talk to me again.
+Player: mission
+Elbert: I'm very happy that you agreed to help me.
+Player: Georgia Rainbird
+Elbert: She is a very gifted scientist, researching the potential but also the risks of the glooth. Unfortunately she recently had an accident and received a severe injury that interferes with her work.
+Player: risks
+Elbert: Yes, in these caves it seems to change in a strange way. This mutation has negative side effects. Ask Georgia Rainbird, she can tell you more.
+Player: glooth
+Elbert: This is a slimy substance which is produced by the glooth worms. It was a driving force for the progress in Rathleton. A substance that has great potential but also carries some risks.
+2:58 Player: hi
+Elbert: Ah, there you are! Do you bring back the stolen glooth supply capsules?
+Player: yes
+Elbert: I'm sorry, that isn't enough yet. If you bring me ten capsules I will take them, of course.
+Player: no
+Elbert: Well, things can always change.
+Player: statues
+Elbert: I'm sorry, I know nothing about any statues.
+Player: bye
+Elbert: Farewell.
