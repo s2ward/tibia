@@ -351,7 +351,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helsi Van Ore</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Helsi_Van_Ore.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jondrin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Jondrin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Marvin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mordecai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Mordecai.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Oramond Marshes</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Oramond_Marshes)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Gulliver</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Oramond_Marshes/Captain_Gulliver.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Kunibert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Oramond_Marshes/Guide_Kunibert.txt)  

@@ -345,6 +345,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Normod</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Lower_Glooth_Factory_East/Normod.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Peremin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Lower_Glooth_Factory_East/Peremin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maro</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Maro.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mordecai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Mordecai.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nicholas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Nicholas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Slum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Chavis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Chavis.txt)  
