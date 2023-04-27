@@ -855,7 +855,6 @@
         "Christine": "VERIFIED",
         "Dr_Merlay": "EMPTY",
         "Edmund": "VERIFIED",
-        "Elbert": "EMPTY",
         "Emily": "VERIFIED",
         "Ezebeth": "EMPTY",
         "Fabiana": "EMPTY",
@@ -864,9 +863,10 @@
         "Flora": "EMPTY",
         "Fyodor": "EMPTY",
         "Glooth_Factory": {
-            "Drystan_Wildweed": "EMPTY",
-            "Georgia_Rainbird": "EMPTY",
-            "Wesley": "EMPTY"
+            "Drystan_Wildweed": "VERIFIED",
+            "Georgia_Rainbird": "VERIFIED",
+            "Wesley": "VERIFIED",
+            "Elbert": "VERIFIED"
         },
         "Graham": "VERIFIED",
         "Helsi_Van_Ore": "EMPTY",

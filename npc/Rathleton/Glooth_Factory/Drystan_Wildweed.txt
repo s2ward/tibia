@@ -1,0 +1,39 @@
+Drystan Wildweed: Annoying rascals! They will overrun these caves.
+Drystan Wildweed: Something strange is going on here.
+Drystan Wildweed: Irresponsible thieves! They threaten the natural balance.
+Player: hi
+Drystan Wildweed: Greetings. Have you eliminated the glooth bandits?
+Player: yes
+Drystan Wildweed: You don't seem honest. Perhaps you go out and eliminate some more.
+Player: no
+Drystan Wildweed: Well, I'll wait.
+Player: name
+Drystan Wildweed: I'm Drystan Wildweed.
+Player: job
+Drystan Wildweed: I'm a druid, a guardian of nature. And especially I'm the warden of these caves.
+Player: time
+Drystan Wildweed: It's exactly 2:28 am.
+Player: glooth
+Drystan Wildweed: This is a slimy substance which is produced by the glooth worms. It was a driving force for the progress in Rathleton. In the city they say that it has great potential but in my view the risks outweigh the benefit by far.
+Player: risks
+Drystan Wildweed: The glooth has strange and sometimes negative side effects on plants and animals. Though it seems to be of natural origin I consider it a danger. Perhaps it is not so natural in the end.
+Player: statues
+Drystan Wildweed: Yes, I know them. I discovered this hidden cave during one of my rambles through the tunnels. I read the strange inscriptions but I never felt the urge to comply with their requests.
+Player: mutate
+Drystan Wildweed: Yes, in these caves it seems to change in a strange way. There is a scientist who came here once to research this phenomenon. I guess her name is Georgia Rainbird. If you find her, she might tell you more.
+Player: Hi
+Drystan Wildweed: I still have trouble with those annoying thieves - despite them having significantly weakened after your recent endeavours, though.
+Player: mission / thieves
+Drystan Wildweed: Some utterly annoying rascals rove about in these tunnels. They are stealing glooth based weaponry and devastate the flora and fauna down here. They threaten the natural balance. Would you go and eliminate some for me?
+Player: yes
+Drystan Wildweed: I knew you would be willing to help nature. Weed out two hundred of them. That should bring some relief for these caves.
+Player: no
+Drystan Wildweed: I'm disappointed to hear that. If you change your opinion and are willing to help nature, come back to me.
+Player: blessing
+Drystan Wildweed: A blessing often goes along with some sort of ritual cleansing. Perhaps a vial of holy water could help you.
+Player: holy water
+Drystan Wildweed: You are lucky. Just this morning I consecrated some water for a healing ritual. I think I have a vial to spare.
+Player: holy water
+Drystan Wildweed: I'm sorry but I already gave you a vial of holy water. I need the rest for my ritual.
+Player: bye
+Drystan Wildweed: Farewell.
