@@ -1,0 +1,21 @@
+Player: hi
+Klesar: Hi!
+Player: job
+Klesar: I'm one of the scientists that the magistrate ordered here to keep the plant running smoothly.
+Player: plant
+Klesar: There is so much to do and so much to be learned. Every day here is an adventure on its own.
+Player: adventure
+Klesar: I mean the scientific part and the challenges. Those constant attacks on the plants are more something for heroes like you.
+Player: magistrate
+Klesar: They should really value science and education far more. Knowledge it the most valuable resource a city can have.
+Player: minotaurs
+Klesar: I admit I'm afraid of them. They say our gates are sure and adventurers like you would protect us - but they are so many. And they never give up.
+Player: maxxen
+Klesar: He had a brilliant mind and in my youth I was anxious to one day visit one of his classes. But there was this accident before I was grown up. ...
+Klesar: I guess it was an accident. Something drove his newest walker models mad and they went of a rampage, killing him in the process.
+Player: captain caveworm
+Klesar: I heard he recently stopped some death priest or something like that from sinking our whole isle to the ocean floor.
+Player: stories
+Klesar: People come and go. There is nothing out of the unusual bit the superstitious talk of workers.
+Player: bye
+Klesar: Good bye.

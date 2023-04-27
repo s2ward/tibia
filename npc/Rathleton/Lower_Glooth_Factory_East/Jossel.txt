@@ -1,0 +1,16 @@
+Player: hi
+Jossel: Greetings, I advise you to stay inside the plant unless you feel prepared to face the danger outside!
+Player: danger
+Jossel: The minotaurs try to breach our defences. They employ several dirty tricks to do so, but the greatest threat comes from their wallbreaker.
+Player: wallbreaker
+Jossel: The wallbreakers are beasts that they have bred as living siege weapons. How they manage to do that is an enigma to us but it seems at least they have only a very limited number of them at disposal and they don't get along too well with each other. ...
+Jossel: So in each of their attacks they will also employ one wallbreaker. Wallbreakers are slow and single minded bound to reach our plant. If they reach it, they'll breach it and this will result in an explosion. ...
+Jossel: The wallbreakers have to be stopped at any cost before they reach the plant!
+Player: tricks
+Jossel: They use mystic totems to heal their warriors. Unless the totems are destroyed, it is hard to finish their soldiers, so focus on the totems first. ...
+Jossel: Then there are the minotaurs that they pumped full with some potions that they create with stolen glooth.
+Player: potions
+Jossel: In their glooth empowered state, they are next to unstoppable. Luckily we learned from previous attacks and our scientists installed several glooth extractors on the field. ...
+Jossel: When you manage to lure one of the powered minotaurs over an extractor, it will nullify the glooth effect and the beast should become easy to handle.
+Player: bye
+Jossel: Good bye!

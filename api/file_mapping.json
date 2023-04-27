@@ -872,14 +872,14 @@
         "Helsi_Van_Ore": "EMPTY",
         "Jondrin": "EMPTY",
         "Lower_Glooth_Factory_East": {
-            "Dregor": "EMPTY",
-            "Eathar": "EMPTY",
-            "Hexel": "EMPTY",
-            "Jossel": "EMPTY",
-            "Klesar": "EMPTY",
-            "Kromrek": "EMPTY",
-            "Normod": "EMPTY",
-            "Peremin": "EMPTY"
+            "Dregor": "VERIFIED",
+            "Eathar": "VERIFIED",
+            "Hexel": "VERIFIED",
+            "Jossel": "VERIFIED",
+            "Klesar": "VERIFIED",
+            "Kromrek": "VERIFIED",
+            "Normod": "VERIFIED",
+            "Peremin": "VERIFIED"
         },
         "Maro": "VERIFIED",
         "Marvin": "EMPTY",
