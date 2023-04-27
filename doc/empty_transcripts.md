@@ -341,7 +341,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vescu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Vescu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zaidal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Zaidal.txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alaistar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Alaistar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barazbaz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barazbaz.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dr Merlay</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Dr_Merlay.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ezebeth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Ezebeth.txt)  
