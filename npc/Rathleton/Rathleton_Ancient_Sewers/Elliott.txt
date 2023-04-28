@@ -1,0 +1,30 @@
+Elliott: We're on a mission from above.
+Player: hi
+Elliott: <nods>
+Player: job
+Elliott: We're on a mission from above.
+Player: name
+Elliott: Elliott. What's yours, lady?
+Player: <name>
+Elliott: Nice making your acquaintance. We could perhaps meet for a pint of glooth after we finished this job.
+Player: time
+Elliott: Hey, how should I know?
+Player: mission
+Elliott: You fixed some of those loose valves then? Let me check, ok?
+Player: yes
+Elliott: Yeah, well, that's not enough yet. Need to have twenty or more of those valves tightened. Come back then, ok? Thanks.
+Player: sewer
+Elliott: This is the ancient part of it, not in good shape. Back in the old times, everyone just built their own canal under their house or shop and then left it at that. ...
+Elliott: City never bothered to really repair this place, it's just patch it up and go. Not too bad here, though, once you get used to the things.
+Player: things
+Elliott: <shrugs> Well, critters, monsters... you'll see. Most are cool and leave us alone. But they treat everything else as food, so don't be surprised if they bite ya. Kill them if you have to.
+Player: Kill
+Elliott: I heard those rot elementals and glooth blobs are real pests. Terrence has put out a reward for killing them.
+Player: Terrence
+Elliott: He's one of the guys doing guard duty at the eastern gate. Their captain or whatever. He hands out tasks to suicidal people.
+Player: music
+Elliott: The band broke up. Are doing other stuff now.
+Player: band
+Elliott: Used to be me and Jacob and some boys. Been a while, what with us doing time down here.
+Player: jacob
+Elliott: My brother's further down the sewers. Fixing stuff.
