@@ -1,0 +1,28 @@
+Player: hi
+The Beggar King: Hello. What do you want?
+Player: name
+The Beggar King: They call me king and so should you.
+Player: job
+The Beggar King: Well, as you can see I am kind of 'between jobs' at the moment - any other pointless questions? No? Thought so.
+Player: help
+The Beggar King: If you need help, go see a healer.
+Player: mission
+The Beggar King: You're on a mission? Good for you.
+Player: quest
+The Beggar King: On a quest, eh? Good for you.
+Player: glooth
+The Beggar King: From the birth to the grave that stuff is always around you.
+Player: rathleton
+The Beggar King: I heard other cities look incredibly different to ours. It sounds like some of them are colourful as rainbows and full of flowers.
+Player: magistrate
+The Beggar King: They are just a bunch of spoiled, rich kids looking for something to do.
+Player: sewers
+The Beggar King: Dangerous place. Stay out of them.
+Player: nightmare knights
+The Beggar King: That was some knights order of the past.
+Player: minotaur
+The Beggar King: Monsters like others. If it wasn't them, it would be something else.
+Player: vote
+The Beggar King: The factory owners have that many votes. They can overrule the ordinary citizen by far.
+Player: bye
+The Beggar King: Good luck with whatever you are up to.
