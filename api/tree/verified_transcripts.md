@@ -454,6 +454,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Santa Claus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Santa_Claus.txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashtamor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ashtamor.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Asrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Boozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Boozer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dark Cathedral</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Angelina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral/Angelina.txt)  
