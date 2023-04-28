@@ -505,7 +505,7 @@
             "Saideh": "EMPTY",
             "Tefrit": "EMPTY"
         },
-        "Moe": "EMPTY",
+        "Moe": "VERIFIED",
         "Narsai": "VERIFIED",
         "Ninev": "EMPTY",
         "Ninos": "EMPTY",
@@ -899,7 +899,7 @@
             "A_Beggar": "VERIFIED",
             "Chavis": "VERIFIED",
             "Fillias": "VERIFIED",
-            "Mr_Brandon": "EMPTY",
+            "Mr_Brandon": "VERIFIED",
             "Roswitha": "VERIFIED"
         },
         "Rathleton_Workshops": {
@@ -910,7 +910,7 @@
         },
         "Roughington": "EMPTY",
         "Seacrest_Grounds": {
-            "Guardian_of_the_Deep_Seas": "EMPTY"
+            "Guardian_of_the_Deep_Seas": "VERIFIED"
         },
         "Sholley": "EMPTY",
         "Silas": "VERIFIED",
