@@ -891,9 +891,9 @@
         },
         "Quandons_Ghost": "EMPTY",
         "Rathleton_Ancient_Sewers": {
-            "Elliott": "EMPTY",
-            "Jacob": "EMPTY",
-            "The_Beggar_King": "EMPTY"
+            "Elliott": "VERIFIED",
+            "Jacob": "VERIFIED",
+            "The_Beggar_King": "VERIFIED"
         },
         "Rathleton_Slum": {
             "A_Beggar": "VERIFIED",
