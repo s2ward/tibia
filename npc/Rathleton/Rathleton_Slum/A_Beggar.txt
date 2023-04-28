@@ -1,0 +1,20 @@
+Player: hi
+A Beggar: Hi! What is it, what d'ye want?
+Player: name
+A Beggar: I won't tell!
+Player: job
+A Beggar: I have no job at all. Sometimes I can help somewhere out for some meagre food, that's it.
+Player: rathleton
+A Beggar: I've never seen another one. I guess they are all quite alike.
+Player: sewers
+A Beggar: My grandfather worked in the sewers in his days. He said in the past everything was better down there.
+Player: minotaurs
+A Beggar: One day they will kill us all!
+Player: palace
+A Beggar: The king resides in the cellars in a backyard of the junk yard.
+Player: glooth
+A Beggar: What about it? It's just there. Isn't it?
+Player: want
+A Beggar: Just leave poor me alone!
+Player: bye
+A Beggar: Yeah, whatever.
