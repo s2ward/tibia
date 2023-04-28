@@ -257,7 +257,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Allen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Allen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Asrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Borkas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Borkas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chatterbone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chatterbone.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chephan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chephan.txt)  
