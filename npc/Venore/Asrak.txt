@@ -21,6 +21,8 @@ Player: battle songs
 Asrak: Each Mooh'Tah master focuses his skills on the harmony of battle. He is one with the song that he's singing with his voice or at least his heart.
 Player: Mooh'Tah master / warrior-philosopher
 Asrak: Mooh'Tah masters are the paragon of the minotaurean warrior-philosophers. Self-controlled, free of rage, focused, and in perfect harmony with their actions.
+Player: gladiator
+Asrak: Those wannabe fighters are weak and most of them are unable to comprehend a higher concept like the Mooh'Tah.
 Player: news
 Asrak: Focus on your own life, not on that of others.
 Player: help
