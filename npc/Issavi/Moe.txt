@@ -1,0 +1,94 @@
+Moe: The last visit to the theatre was quite rewarding.
+Moe: Such a beautiful and wealthy city - with so many opportunities ...
+Moe: The menu of the day sounds delicious!
+Player: hi
+Moe: Greetings, traveller. It seems, you're a guest here, just like me.
+Player: name
+Moe: My name is Moe. I was born in Banuta, but I wondered what the world out there has in store. So I left home and signed up on a ship. We visited many wondrous places but in the end I decided to stay here.
+Player: job
+Moe: Oh, this and that. But in general I prefer the term survivalist.
+Player: time
+Moe: Time means very little to me.
+Player: guest
+Moe: My name is Moe. I was born in Banuta, but I wondered what the world out there has in store. So I left home and signed up on a ship. We visited many wondrous places but in the end I decided to stay here.
+Player: Banuta
+Moe: Banuta is a big stone city in the jungle of Tiquanda. It is called the City of Apes and was originally built by the lizards with apes as their slaves. Therefore, I can somewhat relate to the ogres in Kilmaresh. ...
+Moe: However, as far as I know, slavery is now forbidden in Kilmaresh.
+Player: Tiquanda
+Moe: Tiquanda is the jungle side of the Daramian continent. The river Mahaji flows through the jungle to the west coast.
+Player: darashia / thais / venore
+Moe: A big city, built of stone just like Banuta. But humans are living there instead of apes.
+Player: carlin
+Moe: A big city, built of stone just like Banuta. But humans are living there instead of apes. I heard that only the females are in charge there.
+Player: edron
+Moe: I heard there's a magic academy of some reputation.
+Player: rathleton
+Moe: It's a big city in Oramond. They have an Ambassador here in Issavi - but I guess, you know this already.
+Player: Oramond
+Moe: We just sailed past it along the way. It lies south of Krailos and is very different from Kilmaresh. Many minotaurs are living there as well as humans. No apes, unfortunately.
+Player: Ambassador
+Moe: The Ambassador of Rathleton is an envoy of Oramond. He has a residence in the eastern part of the city.
+Player: Issavi
+Moe: Issavi is this beautiful city here. It's rich and prosperous, a good place for traders and merchants.
+Player: Kilmaresh
+Moe: This is the continent you are currently visiting. I discovered vast, dry steppes here as well as high mountains, the river Nykri and the big city Issavi. An interesting place, for sure!
+Player: Krailos
+Moe: Ramina told me that it was once a part of the old empire. But now it is separated from Kilmaresh by a strait. All of this happened because of something called Suon's Wrath.
+Player: Wrath
+Moe: Here's the story: The sun god Suon has once smitten this continent because of the blasphemy of Fafnar's worshippers. This happened more than thousand years ago. Since that time, Kilmaresh is separated from the rest of the continent. ...
+Moe: If you believe the local myths, that is. Personally I guess, it could have been a major natural disaster as well.
+Player: ogres
+Moe: During the time of the old empire the humans had enslaved the ogres. They were freed after Suon's Wrath by decree of the Anuma and most of them live in Krailos now. There is only one tribe that remained here on Kilmaresh.
+Player: Suon
+Moe: Suon is one of the two sun gods of Tibia. His worship seems to be very popular in Kilmaresh.
+Player: Fafnar
+Moe: Fafnar is one of the two sun gods of Tibia. But she's not very popular here in Kilmaresh. In fact, her worship is even forbidden.
+Player: bastesh
+Moe: Bastesh is the goddess of the sea. Her worship seems to be very popular in Kilmaresh.
+Player: Anuma
+Moe: Ramina told me that the Anuma are magical beings that inhabit the continent Kilmaresh. It is told that they were once created by the sun gods Suon and Fafnar. There are several kinds of Anuma: Sphinxes, lamassu, gryphons and manticores.
+Player: Ramina
+Moe: She's running this tavern. A very kind and helpful lady. Sometimes I get a free meal from her.
+Player: Sphinxes
+Moe: Sphinxes have very beautiful feathers. I'd really like to have some, but it seems to be kind of forbidden - or at least inappropriate - to possess them.
+Player: lamassu
+Moe: Part bull, part human, part bird - a weird mix, isn't it?
+Player: gryphons
+Moe: Half lion, half bird. Beautiful and impressive creatures, if you ask me. I heard that their egg shells are very sought-after.
+Player: manticores
+Moe: Lions with wings and scorpion tails - did you ever see the likes of it?
+Player: news
+Moe: It seems that something is bothering Alyxo. But you should talk to her yourself if you want to know more.
+Player: the empress
+Moe: These days Kilmaresh has a sphinx empress who is ruling Kilmaresh wisely and benevolently.
+Player: eshaya
+Moe: I guess, he's the leader of the Sapphire Blade.
+Player: Sapphire Blade
+Moe: If I remember rightly, they are a group of elite warriors who all carry blades made of tagralt. They defend Issavi against all threats.
+Player: tagralt
+Moe: It is a blue metal, only to be found here in Kilmaresh.
+Player: kallimae
+Moe: I guess, she is the current leader of the Midnight Flame.
+Player: midnight flame
+Moe: I guess, they are a small circle of chosen knights and oracles, led by a lamassu called Arishum.
+Player: narsai
+Moe: She's an actually blind member of the Midnight Flame. I'm sure, there is something between her and Alyxo.
+Player: Alyxo
+Moe: She's a medusa and she's running the Seaside Theatre. If you wonder why a medusa is welcome in Issavi: This city has the philosophy ,An Open Gate for Those of Peace'. This is why Alyxo, me and some others may live here. ...
+Moe: Everyone is welcome as long as one respects Kilmaresh's laws.
+Player: Seaside Theatre
+Moe: A wonderful place for art lovers. They give a play there almost every evening, thanks to Alyxo. And so many wealthy people are there ... so many of them. Not that this does matter to me.
+Player: thief
+Moe: Sorry, I'm busy. I have plenty of important things to do. Perhaps we can talk about it another time.
+Player: ab'dendriel
+Moe: A city made of trees, can you imagine? Also, elves are living there instead of apes.
+Player: elves
+Moe: They were quite welcoming, even tried to teach me some poetry. But if you want to learn more about them, you should ask Faloriel at the market down there.
+Player: kazordoon
+Moe: A big city, built of stone just like Banuta - but underground, can you imagine? Also, dwarves are living there instead of apes.
+Player: dwarves
+Moe: I don't know much about them. They always chased me away. Perhaps they don't like apes.
+Player: tibia
+Moe: This is the world we live in.
+Player: bye
+Moe: Farewell!
