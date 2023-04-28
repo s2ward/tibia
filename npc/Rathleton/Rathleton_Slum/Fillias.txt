@@ -1,0 +1,49 @@
+Fillias: Well, they had it coming to them. <mutters>
+Fillias: Shoo! Off with you, horrible pests!
+Fillias: What? What? Is there anyone there? Oh. Just the wind.
+Player: hi
+Fillias: Yes, yes. Hello, hello.
+Player: name
+Fillias: Hmm? Fillias Wayward Stokeston, that's what I was called. Nowadays, it's just ol' Fillias, hah.
+Player: job
+Fillias: Hmph. Not much of one left. Too old, see. Used to be the waterworks keeper.
+Player: time
+Fillias: Do I look like I got a use for a clock? Hah. <mutters>
+Player: quest / mission
+Fillias: If you want to do something heroic, go to Terrence at the eastern gate. I heard he needs volunteers.
+Player: waterworks
+Fillias: Ah, those were the days! You see, there are two springs coming down the mountain. That's where the city gets its fresh water supplies. ...
+Fillias: So we built subterranean waterways. And we used the rain water, too. Now that was clever. And everybody, rich or poor, could afford fresh water. Glorious days.
+Player: waterways
+Fillias: They're sewers now. <spits out> Were used by the factory workers for their waste. Just two water reservoirs are still operative today. ...
+Fillias: In the south, that's where the muddy water from the highlands is processed. But it's only used to wash all the filthy glooth into the river here! What a shame.
+Player: glooth
+Fillias: Huh. They say it's very useful, but I still don't see it replacing water. Can't live without water. This city poisons itself with that glooth stuff! Remember when the old factory blew up? ...
+Fillias: There's even food made out of glooth nowadays. Food! Out of something that came out of a worm? I won't have it. Fish and water's good enough for me!
+Player: factory
+Fillias: Big building just across the street here. Completely ruined, now. Some strange accident years and years ago there, but it was all hushed up. I heard they built a new factory in the workshops quarter. Hah.
+Player: sewers
+Fillias: Reeking of glooth and swarmed by monsters. Heard they found two poor blokes to keep things barely functional down there. Hah.
+Player: slum
+Fillias: Slum? SLUM? This used to be the heart of town! But now, all those rich people have built their cosy houses on the rock near the magistrate. Currying favours with the powerful, hah.
+Player: pests
+Fillias: Growing peskier every day. Though they don't go for me, I'm too stringy to eat. <cackles> ...
+Fillias: Those minotaurs in the east, now, they're a real threat! Heard the boys from the city guard are having a hard time fighting them.
+Player: minotaur
+Fillias: Well, apparently they don't like to share this island with us. Come to think of it, our city's not bent on sharing the lands with them, either. Big ugly cattle.
+Player: tibia
+Fillias: You're not from here, I could tell. I wish I were younger, I would have liked to see foreign lands. Too late now, too old. <sighs>
+Player: rathleton
+Fillias: This city is so full of itself. True, we have an interesting past - at least the little that is known of it - but look at what happened to this part of town. ...
+Fillias: There used to be families here, children, a market! Now, it's just me and some others hanging on.
+Player: others
+Fillias: Well, haven't you noticed the beggars? More and more of them these days. ...
+Fillias: Chavis over there in the poor house, he tries to keep them and me alive. Mrs Brandon next door tries to run her bed and breakfast though there's barely guests that can pay. Hard times, hard times.
+Player: king
+Fillias: Hmm, I heard of that. Not much chance of a return of that old regime on Oramond, though. The magistrate's in charge here.
+Player: magistrate
+Fillias: They say they run things, but have you seen what state this town's in? Just look around here and you see what I mean!
+Player: leave
+Fillias: I got nowhere to go to. And I'm too old to travel, child.
+Player: bye
+Fillias: Yes, yes. Kill those pests outside!
