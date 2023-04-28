@@ -359,7 +359,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jacob</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Ancient_Sewers/Jacob.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Beggar King</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Ancient_Sewers/The_Beggar_King.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Slum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fillias</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Fillias.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Mr Brandon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Mr_Brandon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Workshops</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Doubleday</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Doubleday.txt)  

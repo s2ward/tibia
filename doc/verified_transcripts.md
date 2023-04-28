@@ -351,6 +351,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Slum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Beggar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/A_Beggar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chavis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Chavis.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fillias</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Fillias.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Roswitha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Slum/Roswitha.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rathleton Workshops</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Terrence</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Rathleton_Workshops/Terrence.txt)  
