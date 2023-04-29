@@ -1,0 +1,36 @@
+Player: hi
+Ezebeth: Hello! I guess you are here for a mission.
+Player: name
+Ezebeth: I'm Ezebeth of course. To think you've never heard of me, tsk!
+Player: job
+Ezebeth: I'm the coordinator for several tasks and helpers for our city. Things can become quite chaotic without a firm guiding hand. I also work as an outfitter for privileged helpers of our city.
+Player: outfitter
+Ezebeth: Well, our special outfits are limited and there are only so many at one time. ...
+Ezebeth: So there is little I can do about an outfit, unless someone brings me some scraps of an outfit that he might have found. After that basic outfit is acquired though, I can provide certain addons.
+Player: addons
+Ezebeth: We provide addons to people dedicated to our city. So the first addon is granted to someone who has voted for each of the available shortcuts and each dungeon at least once. ...
+Ezebeth: The second addon is granted to someone who has voted for each bossfight at least once.
+Player: mission
+Ezebeth: I already heard that the issue has run a strange course. I am sure you'll be able to handle that.
+Player: glooth
+Ezebeth: I'm so amazed that it seems unique to our city. It's so natural and common here that I would never have expected that.
+Player: rathleton
+Ezebeth: Our beloved city should be a role model for the whole world. We have no need for kings and the like. Decisions are made by the people who dedicated their effort to the betterment of the city.
+Player: magistrate
+Ezebeth: Someone has to do the administration stuff after all.
+Player: minotaurs
+Ezebeth: They arrived a generation ago. They don't belong here and have no right to stay.
+Player: vote
+Ezebeth: The system is just perfect. I'm pretty sure sooner or later the whole world will adapt the system.
+Player: sewers
+Ezebeth: A necessary evil. I'm glad that my job keeps me away from that stuff.
+Player: beggar
+Ezebeth: I think most of them are just lazy and stupid though a few might have become beggars by bad luck.
+Player: captain caveworm
+Ezebeth: That captain is nothing but a myth.
+Player: maxxen
+Ezebeth: Wasn't he the inventor of the walkers?
+Player: nightmare knights
+Ezebeth: The nightmare knights played a major role in liberating our isle. Yet they finally failed as every leader did.
+Player: bye
+Ezebeth: Good bye!

@@ -1,0 +1,65 @@
+Player: hi
+Marvin: Greetings! I guess you are here for the voting.
+Player: name
+Marvin: My name is Marvin.
+Player: job
+Marvin: I'm overseeing the most important voting process, which is of utmost importance to the existence of the city of Rathleton.
+Player: voting
+Marvin: I'm responsible for overseeing the voting process. Are you here to learn more about the voting, your amount of voting rights, your citizen rank status or do you want to vote on a topic?
+Player: learn
+Marvin: In a city like Rathleton there are always many decisions to make and all those citizen fellows or those pursuing to become citizens are allowed to take part. ...
+Marvin: By rendering services to the city everybody can achieve voting rights and thus can cast votes in several topics. ...
+Marvin: Each vote you cast affects your citizen rank and the higher your citizen rank, the more options to cast votes you have. ...
+Marvin: As you can see, it's quite easy. Here you can check out the topics you can vote on.
+Player: rank
+Marvin: There are various privileges connected to your citizenship rank. As a Commoner, you get access to Alaistar's services and can sell certain creature products to him ...
+Marvin: You also are entrusted with some more challenging hunting tasks such as killing bloodbeasts and several minotaurs. Just ask the guard Terrence if you have the rank. ...
+Marvin: As an Inhabitant you get further rights. Talk to Flint if you have any looted equipment to sell and Terrence might have even more challenging hunting tasks for you. ...
+Marvin: As a Citizen you can use the slooth to travel more easily from the city's centre to the outskirts and back to the city. Of course even more hunting tasks are available to you. ...
+Marvin: As a Squire at last you attained the highest honours of Rathleton. This honorary title may lead you to a special challenge, concealed deep under the city. However, these are just rumours. To find the truth you have to go and investigate by yourself.
+Player: topic
+Marvin: Today you might vote for a shortcut, dungeon, bosses or raids.
+Player: shortcut
+Marvin: So far you earned 25 votes. Each single vote can be spent on a different topic, but you can also cast all your votes on one voting. ...
+Marvin: Well, in the topic shortcut you have the possibility to vote for shortcuts back from the minotaurs, fungi or catacombs.
+Player: dungeon
+Marvin: So far you earned 25 votes. Each single vote can be spent on a different topic, but you can also cast all your votes on one voting. ...
+Marvin: Well, the dungeon you have the possibility to vote for can be full of golems, minotaurs or the wrath of evil.
+Player: boss
+Marvin: So far you earned 25 votes. Each single vote can be spent on a different topic, but you can also cast all your votes on one voting. ...
+Marvin: Well, in this topic you have the possibility to vote for bosses: the furious moohtant Bullwark, the poisonous Lisa or the mighty Glooth Fairy.
+Player: raid
+Marvin: So far you earned 25 votes. Each single vote can be spent on a different topic or you're also able to cast all your votes on one voting. ...
+Marvin: Well in the topic raid you have the possibility to vote for minotaurs, mechanical creatures or wild life.
+Player: [target]
+Marvin: How many of your 25 votes do you want to cast?
+2:25 Player: 1
+Marvin: Did I get that right: You want to cast 1 of your votes on [target]?
+Player: yes
+Marvin: Thanks, you successfully cast your vote. Feel free to continue gathering votes by helping the city! Farewell.
+Player: <random word>
+Marvin: Sorry, but I didn't understand you. How many of your 25 votes do you want to cast on Bullwark?
+Player: amount
+Marvin: Currently, you have 25 voting rights.
+Player: status
+Marvin: Your current citizen rank is squire. Congratulations, Simula! At the moment you cannot promote further.
+Player: glooth
+Marvin: I wonder how other cities can live without it.
+Player: rathleton
+Marvin: I think our city is the biggest and most advanced in the whole world.
+Player: magistrate
+Marvin: The magistrate is so to say the first servant of the people.
+Player: sewer
+Marvin: Only the beggars hang out at this disgusting place.
+Player: beggars
+Marvin: The magistrate provides food and such even for them.
+Player: minotaurs
+Marvin: I wonder who is the driving force behind them. They seem too primitive to become such a threat to our glorious city.
+Player: nightmare knights
+Marvin: They were evil knights that tried to suppress our ancestors.
+Player: captain caveworm
+Marvin: There is no Captain Caveworm, I assure you.
+Player: maxxen
+Marvin: He was some criminal inventor many years ago.
+Player: bye
+Marvin: Good bye, Simula.

@@ -1,0 +1,28 @@
+Player: hi
+Sholley: Hi!
+Player: name
+Sholley: My name is Sholley.
+Player: job
+Sholley: I'm the resource coordinator of Rathleton. I look over our stocks and their usage.
+Player: glooth
+Sholley: It has some many uses and probably even more to be found out!
+Player: rathleton
+Sholley: This is the only place I know. I think we are better in every respect than any of the other cities though.
+Player: magistrate
+Sholley: We are what holds the city together. Without us, there would be only a mess.
+Player: minotaurs
+Sholley: They are our arch enemies!
+Player: vote
+Sholley: Voting is essential for any civilised society.
+Player: sewers
+Sholley: Some strange interests that you have.
+Player: beggar
+Sholley: They do nothing for the city and get what they deserve.
+Player: captain caveworm
+Sholley: Even if he'd exists he'd be an unauthorized vigilante and nothing more.
+Player: maxxen
+Sholley: He was secretly a nightmare knight plotting revenge on the city but he was stopped.
+Player: nightmare knight
+Sholley: They were kings of far away lands and became kings here. But we don't want kings here, so our ancestors got rid of them.
+Player: bye
+Sholley: Good bye!
