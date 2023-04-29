@@ -1,4 +1,4 @@
-1. All Transcripts:
+1. All Transcripts:  
 2. Verified Transcripts: [↗](./verified_transcripts.md)
 3. Empty Transcripts: [↗](./empty_transcripts.md)
 4. Unverified Transcripts: [↗](./unverified_transcripts.md)
