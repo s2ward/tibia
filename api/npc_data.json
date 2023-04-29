@@ -1,6 +1,6 @@
 [
     {
-        "name": "...",
+        "name": "....txt",
         "job": "",
         "race": "",
         "gender": "Male",
@@ -496,10 +496,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.137-125.137-13-2-1-1",
         "version": "Pre-6.0",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "Mad Mage Room Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Mad_Mage_Room_Quest"
@@ -2103,10 +2099,6 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Machinery of War Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Machinery_of_War_Quest"
             }
@@ -2320,10 +2312,6 @@
         "version": "7.11 (2)",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Small Health Potion Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Small_Health_Potion_Quest"
             }
@@ -2493,10 +2481,6 @@
         "version": "7.1",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "The Ultimate Booze Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Ultimate_Booze_Quest"
             }
@@ -2570,10 +2554,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.57-125.183-7-2-1-1",
         "version": "Pre-6.0",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "What a Foolish Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/What_a_Foolish_Quest"
@@ -3923,7 +3903,7 @@
         ]
     },
     {
-        "name": "Cobra (NPC)",
+        "name": "Cobra",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown.",
@@ -4438,7 +4418,7 @@
         ]
     },
     {
-        "name": "Demon Skeleton (NPC)",
+        "name": "Demon Skeleton",
         "job": "Guard",
         "race": "Undead",
         "gender": "Unknown.",
@@ -5083,10 +5063,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.35-126.35-7-2-1-1",
         "version": "8.50",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "The Scatterbrained Sorcerer Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest"
@@ -7814,10 +7790,6 @@
         "version": "8.50",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Killing in the Name of... Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Killing_in_the_Name_of..._Quest"
             }
@@ -8564,10 +8536,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.58-126.10-8-2-1-1",
         "version": "8.20",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "The Inquisition Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Inquisition_Quest"
@@ -10172,10 +10140,6 @@
         "version": "8.54",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Unnatural Selection Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Unnatural_Selection_Quest"
             },
@@ -11595,10 +11559,6 @@
         "version": "8.10",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Nomads Land Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Nomads_Land_Quest"
             },
@@ -11696,7 +11656,7 @@
         "dialogues": []
     },
     {
-        "name": "Mysterious Ornate Chest (NPC)",
+        "name": "Mysterious Ornate Chest",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown.",
@@ -11924,10 +11884,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=127.103-125.108-10-2-1-1",
         "version": "6.1",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "Jakundaf Desert",
                 "quest-url": "https://tibia.fandom.com/wiki/Jakundaf_Desert"
@@ -12296,10 +12252,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=128.248-125.100-6-2-1-1",
         "version": "9.80",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "Venore Daily Tasks Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Venore_Daily_Tasks_Quest"
@@ -12724,7 +12676,7 @@
         ]
     },
     {
-        "name": "Opticorder Forge (NPC)",
+        "name": "Opticorder Forge",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown.",
@@ -12741,7 +12693,7 @@
         "dialogues": []
     },
     {
-        "name": "Orc Berserker (NPC)",
+        "name": "Orc Berserker",
         "job": "Assistant",
         "race": "Orc",
         "gender": "Male",
@@ -13222,7 +13174,7 @@
         "dialogues": []
     },
     {
-        "name": "Pig (NPC)",
+        "name": "Pig",
         "job": "Artist",
         "race": "Pig",
         "gender": "Unknown.",
@@ -13231,10 +13183,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.145-125.233-7-2-1-1",
         "version": "8.10",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "Kissing a Pig Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Kissing_a_Pig_Quest"
@@ -13257,7 +13205,7 @@
         ]
     },
     {
-        "name": "Planestrider (NPC)",
+        "name": "Planestrider",
         "job": "",
         "race": "",
         "gender": "Unknown.",
@@ -15009,10 +14957,6 @@
         "version": "8.70",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Spirithunters Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Spirithunters_Quest"
             }
@@ -15203,7 +15147,7 @@
         "dialogues": []
     },
     {
-        "name": "Solkrin (NPC)",
+        "name": "Solkrin",
         "job": "Gift",
         "race": "Human",
         "gender": "Male",
@@ -15251,10 +15195,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=129.244-124.88-1-2-1-1",
         "version": "8.54",
         "quests": [
-            {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
             {
                 "quest-name": "Sea of Light Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Sea_of_Light_Quest"
@@ -16039,7 +15979,7 @@
         ]
     },
     {
-        "name": "The First Dragon (NPC)",
+        "name": "The First Dragon",
         "job": "Guard",
         "race": "Dragon",
         "gender": "Male",
@@ -16951,10 +16891,6 @@
         "version": "9.10",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "The Rookie Guard Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Rookie_Guard_Quest"
             }
@@ -17345,10 +17281,6 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "NPC",
-                "quest-url": "https://tibia.fandom.com/wiki/NPC"
-            },
-            {
                 "quest-name": "Studded Shield Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Studded_Shield_Quest"
             }
@@ -17361,7 +17293,7 @@
         ]
     },
     {
-        "name": "Willow (NPC)",
+        "name": "Willow",
         "job": "Druid",
         "race": "Human",
         "gender": "Male",
@@ -17546,7 +17478,7 @@
         "dialogues": []
     },
     {
-        "name": "Yalahari (NPC)",
+        "name": "Yalahari",
         "job": "Monarch",
         "race": "Yalahari",
         "gender": "Male",
@@ -18140,7 +18072,7 @@
         "dialogues": []
     },
     {
-        "name": "Yielothax (NPC)",
+        "name": "Yielothax",
         "job": "",
         "race": "",
         "gender": "Unknown.",
@@ -18595,6 +18527,54 @@
                 "quest-url": "https://tibia.fandom.com/wiki/The_New_Frontier_Quest"
             }
         ],
+        "dialogues": []
+    },
+    {
+        "name": "Hoaxette",
+        "job": "",
+        "race": "Human",
+        "gender": "Female",
+        "location": "Thais",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": []
+    },
+    {
+        "name": "Bolfona And Drog",
+        "job": "Dwarf",
+        "race": "Human",
+        "gender": "Female",
+        "location": "Beregar",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": []
+    },
+    {
+        "name": "Santa Claus",
+        "job": "",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Folda",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": []
+    },
+    {
+        "name": "Morax Dream",
+        "job": "",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Roshamuul",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
         "dialogues": []
     }
 ]
