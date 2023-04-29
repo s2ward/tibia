@@ -1,0 +1,32 @@
+Player: hi
+Jondrin: Hi!
+Player: name
+Jondrin: I'm Jondrin, thanks for asking.
+Player: job
+Jondrin: I'm responsible to oversee several technical aspects necessary to run our city smoothly. The most important task is to keep records about several data that is measured by our helpers.
+Player: glooth
+Jondrin: Sometimes I feel a bit uneasy about our reliance on this single resource, but there is nothing to be done about it.
+Player: rathleton
+Jondrin: I'm so proud of being able to do my part in making this city a better place.
+Player: magistrate
+Jondrin: The magistrate is what keeps things running smoothly.
+Player: minotaurs
+Jondrin: As if we hadn't enough problems already. The sooner we destroy them, the better.
+Player: vote
+Jondrin: I don't get it how other cities regulate stuff. One person ruling everything? Ridiculous!
+Player: sewers
+Jondrin: I guess we should have funded the sewer maintenance a bit more. Now it's a bit too late to patch things up.
+Player: beggar
+Jondrin: I fear they might carry vermin and illnesses with them. We should get rid of them for good.
+Player: captain caveworm
+Jondrin: Like caveworms he's immortal. Every few years he sheds his skin and becomes youthful again.
+Player: jaccus maxxen
+Jondrin: A tragic victim of his own genius.
+Player: nightmare knights
+Jondrin: Knights are relics of ancient days. The future has no place for any of them.
+Player: necrometer
+Jondrin: You need a necrometer? I gave you one for free, you'll have to buy another one, but I'll offer it at a discount price just for you.
+Player: buy
+Jondrin: Here it is.
+Player: bye
+Jondrin: Yeah, bye bye.
