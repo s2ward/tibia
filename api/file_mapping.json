@@ -850,13 +850,13 @@
     "Rathleton": {
         "Alaistar": "VERIFIED",
         "Azalea": "VERIFIED",
-        "Barazbaz": "EMPTY",
+        "Barazbaz": "VERIFIED",
         "Barnabas_Dee": "VERIFIED",
         "Christine": "VERIFIED",
         "Dr_Merlay": "EMPTY",
         "Edmund": "VERIFIED",
         "Emily": "VERIFIED",
-        "Ezebeth": "EMPTY",
+        "Ezebeth": "VERIFIED",
         "Fabiana": "EMPTY",
         "Fayla": "VERIFIED",
         "Flint": "VERIFIED",
@@ -870,7 +870,7 @@
         },
         "Graham": "VERIFIED",
         "Helsi_Van_Ore": "EMPTY",
-        "Jondrin": "EMPTY",
+        "Jondrin": "VERIFIED",
         "Lower_Glooth_Factory_East": {
             "Dregor": "VERIFIED",
             "Eathar": "VERIFIED",
@@ -882,7 +882,7 @@
             "Peremin": "VERIFIED"
         },
         "Maro": "VERIFIED",
-        "Marvin": "EMPTY",
+        "Marvin": "VERIFIED",
         "Mordecai": "VERIFIED",
         "Nicholas": "VERIFIED",
         "Oramond_Marshes": {
@@ -913,7 +913,7 @@
         "Seacrest_Grounds": {
             "Guardian_of_the_Deep_Seas": "VERIFIED"
         },
-        "Sholley": "EMPTY",
+        "Sholley": "VERIFIED",
         "Silas": "VERIFIED",
         "Strange_Pipe": "EMPTY",
         "Virgil": "VERIFIED"
