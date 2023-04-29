@@ -49,10 +49,6 @@
             {
                 "quest-name": "Rise of Devovorga",
                 "quest-url": "https://tibia.fandom.com/wiki/Rise_of_Devovorga"
-            },
-            {
-                "quest-name": "Devovorga",
-                "quest-url": "https://tibia.fandom.com/wiki/Devovorga"
             }
         ],
         "dialogues": []
@@ -101,10 +97,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.33-126.38-9-2-1-1",
         "version": "8.50",
         "quests": [
-            {
-                "quest-name": "Turian",
-                "quest-url": "https://tibia.fandom.com/wiki/Turian"
-            },
             {
                 "quest-name": "The Scatterbrained Sorcerer Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Scatterbrained_Sorcerer_Quest"
@@ -226,10 +218,6 @@
         "version": "8.40",
         "quests": [
             {
-                "quest-name": "Ghost's Tear",
-                "quest-url": "https://tibia.fandom.com/wiki/Ghost%27s_Tear"
-            },
-            {
                 "quest-name": "Blood Brothers Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Blood_Brothers_Quest"
             }
@@ -300,28 +288,7 @@
         "subarea": "Pits of Inferno",
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=128.60-125.245-10-2-1-1",
         "version": "7.9",
-        "quests": [
-            {
-                "quest-name": "God Flowers",
-                "quest-url": "https://tibia.fandom.com/wiki/God_Flowers"
-            },
-            {
-                "quest-name": "Key 3700",
-                "quest-url": "https://tibia.fandom.com/wiki/Key_3700"
-            },
-            {
-                "quest-name": "Pits of Inferno",
-                "quest-url": "https://tibia.fandom.com/wiki/Pits_of_Inferno"
-            },
-            {
-                "quest-name": "Slime",
-                "quest-url": "https://tibia.fandom.com/wiki/Slime"
-            },
-            {
-                "quest-name": "Plains of Havoc",
-                "quest-url": "https://tibia.fandom.com/wiki/Plains_of_Havoc"
-            }
-        ],
+        "quests": [],
         "dialogues": []
     },
     {
@@ -453,14 +420,6 @@
         "version": "7.8",
         "quests": [
             {
-                "quest-name": "Ceiron",
-                "quest-url": "https://tibia.fandom.com/wiki/Ceiron"
-            },
-            {
-                "quest-name": "Druid Outfits Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Druid_Outfits_Quest"
-            },
-            {
                 "quest-name": "Druid Outfits Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Druid_Outfits_Quest"
             }
@@ -552,7 +511,7 @@
         "version": "12.40.9997",
         "quests": [
             {
-                "quest-name": "Grimvale Quest/Spoiler",
+                "quest-name": "Grimvale Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Grimvale_Quest/Spoiler#An_Ancient_Feud"
             }
         ],
@@ -734,10 +693,6 @@
         "version": "8.40",
         "quests": [
             {
-                "quest-name": "Blood Crystal",
-                "quest-url": "https://tibia.fandom.com/wiki/Blood_Crystal"
-            },
-            {
                 "quest-name": "Blood Brothers Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Blood_Brothers_Quest"
             }
@@ -837,22 +792,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=127.148-125.112-8-2-1-1",
         "version": "6.1",
         "quests": [
-            {
-                "quest-name": "Netlios",
-                "quest-url": "https://tibia.fandom.com/wiki/Netlios"
-            },
-            {
-                "quest-name": "Gp",
-                "quest-url": "https://tibia.fandom.com/wiki/Gp"
-            },
-            {
-                "quest-name": "Soulfire",
-                "quest-url": "https://tibia.fandom.com/wiki/Soulfire"
-            },
-            {
-                "quest-name": "Food",
-                "quest-url": "https://tibia.fandom.com/wiki/Food"
-            },
             {
                 "quest-name": "Key 4023",
                 "quest-url": "https://tibia.fandom.com/wiki/Key_4023"
@@ -1245,16 +1184,8 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "Short Sword",
-                "quest-url": "https://tibia.fandom.com/wiki/Short_Sword"
-            },
-            {
                 "quest-name": "Amber's Notebook (Book)",
                 "quest-url": "https://tibia.fandom.com/wiki/Amber%27s_Notebook_(Book)"
-            },
-            {
-                "quest-name": "Salmon",
-                "quest-url": "https://tibia.fandom.com/wiki/Salmon"
             },
             {
                 "quest-name": "Captain Iglues Treasure Quest",
@@ -1610,10 +1541,6 @@
             {
                 "quest-name": "Blood Brothers Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Blood_Brothers_Quest"
-            },
-            {
-                "quest-name": "Armenius (Creature)",
-                "quest-url": "https://tibia.fandom.com/wiki/Armenius_(Creature)"
             }
         ],
         "dialogues": []
@@ -2672,14 +2599,6 @@
         "version": "6.2",
         "quests": [
             {
-                "quest-name": "Fine Vase",
-                "quest-url": "https://tibia.fandom.com/wiki/Fine_Vase"
-            },
-            {
-                "quest-name": "Gp",
-                "quest-url": "https://tibia.fandom.com/wiki/Gp"
-            },
-            {
                 "quest-name": "The Traveling Trader Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Traveling_Trader_Quest"
             }
@@ -2820,22 +2739,6 @@
         "version": "9.80",
         "quests": [
             {
-                "quest-name": "Cupcake",
-                "quest-url": "https://tibia.fandom.com/wiki/Cupcake"
-            },
-            {
-                "quest-name": "Cake Backpack",
-                "quest-url": "https://tibia.fandom.com/wiki/Cake_Backpack"
-            },
-            {
-                "quest-name": "Cake Cabinet Kit",
-                "quest-url": "https://tibia.fandom.com/wiki/Cake_Cabinet_Kit"
-            },
-            {
-                "quest-name": "Cake Tapestry",
-                "quest-url": "https://tibia.fandom.com/wiki/Cake_Tapestry"
-            },
-            {
                 "quest-name": "A Piece of Cake/Spoiler",
                 "quest-url": "https://tibia.fandom.com/wiki/A_Piece_of_Cake/Spoiler#Rewards_2"
             }
@@ -2869,14 +2772,6 @@
             {
                 "quest-name": "To Outfox a Fox Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/To_Outfox_a_Fox_Quest"
-            },
-            {
-                "quest-name": "Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Quest"
-            },
-            {
-                "quest-name": "Minotaurs",
-                "quest-url": "https://tibia.fandom.com/wiki/Minotaurs"
             },
             {
                 "quest-name": "Kissing a Pig Quest",
@@ -2958,24 +2853,8 @@
         "version": "8.54",
         "quests": [
             {
-                "quest-name": "Serpent Crest",
-                "quest-url": "https://tibia.fandom.com/wiki/Serpent_Crest"
-            },
-            {
-                "quest-name": "Tribal Crest",
-                "quest-url": "https://tibia.fandom.com/wiki/Tribal_Crest"
-            },
-            {
                 "quest-name": "Warmaster Outfits",
                 "quest-url": "https://tibia.fandom.com/wiki/Warmaster_Outfits"
-            },
-            {
-                "quest-name": "Tome of Knowledge",
-                "quest-url": "https://tibia.fandom.com/wiki/Tome_of_Knowledge"
-            },
-            {
-                "quest-name": "Tome of Knowledge",
-                "quest-url": "https://tibia.fandom.com/wiki/Tome_of_Knowledge"
             }
         ],
         "dialogues": [
@@ -3395,10 +3274,6 @@
             {
                 "quest-name": "Last Creep Standing",
                 "quest-url": "https://tibia.fandom.com/wiki/Last_Creep_Standing"
-            },
-            {
-                "quest-name": "World Task",
-                "quest-url": "https://tibia.fandom.com/wiki/World_Task"
             }
         ],
         "dialogues": []
@@ -3632,22 +3507,6 @@
             {
                 "quest-name": "Exchange Quests",
                 "quest-url": "https://tibia.fandom.com/wiki/Exchange_Quests"
-            },
-            {
-                "quest-name": "Life Crystal",
-                "quest-url": "https://tibia.fandom.com/wiki/Life_Crystal"
-            },
-            {
-                "quest-name": "Life Ring",
-                "quest-url": "https://tibia.fandom.com/wiki/Life_Ring"
-            },
-            {
-                "quest-name": "Life Crystal",
-                "quest-url": "https://tibia.fandom.com/wiki/Life_Crystal"
-            },
-            {
-                "quest-name": "Life Ring",
-                "quest-url": "https://tibia.fandom.com/wiki/Life_Ring"
             }
         ],
         "dialogues": [
@@ -3716,22 +3575,6 @@
             {
                 "quest-name": "Blessed Stake Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Blessed_Stake_Quest"
-            },
-            {
-                "quest-name": "Stampor (Mount)",
-                "quest-url": "https://tibia.fandom.com/wiki/Stampor_(Mount)"
-            },
-            {
-                "quest-name": "Hollow Stampor Hoof",
-                "quest-url": "https://tibia.fandom.com/wiki/Hollow_Stampor_Hoof"
-            },
-            {
-                "quest-name": "Stampor Horn",
-                "quest-url": "https://tibia.fandom.com/wiki/Stampor_Horn"
-            },
-            {
-                "quest-name": "Stampor Talons",
-                "quest-url": "https://tibia.fandom.com/wiki/Stampor_Talons"
             }
         ],
         "dialogues": [
@@ -3915,10 +3758,6 @@
             {
                 "quest-name": "The Ancient Tombs Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Ancient_Tombs_Quest"
-            },
-            {
-                "quest-name": "Thalas",
-                "quest-url": "https://tibia.fandom.com/wiki/Thalas"
             }
         ],
         "dialogues": []
@@ -4605,7 +4444,7 @@
         "version": "12.40.9997",
         "quests": [
             {
-                "quest-name": "Grimvale Quest/Spoiler",
+                "quest-name": "Grimvale Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Grimvale_Quest/Spoiler#An_Ancient_Feud"
             }
         ],
@@ -4811,10 +4650,6 @@
             {
                 "quest-name": "Awash",
                 "quest-url": "https://tibia.fandom.com/wiki/Awash"
-            },
-            {
-                "quest-name": "World Change",
-                "quest-url": "https://tibia.fandom.com/wiki/World_Change"
             }
         ],
         "dialogues": [
@@ -5087,30 +4922,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=127.186-123.230-2-2-1-1",
         "version": "7.2",
         "quests": [
-            {
-                "quest-name": "Lyre",
-                "quest-url": "https://tibia.fandom.com/wiki/Lyre"
-            },
-            {
-                "quest-name": "Suntower",
-                "quest-url": "https://tibia.fandom.com/wiki/Suntower"
-            },
-            {
-                "quest-name": "Ab'dendriel",
-                "quest-url": "https://tibia.fandom.com/wiki/Ab%27dendriel"
-            },
-            {
-                "quest-name": "Lyre",
-                "quest-url": "https://tibia.fandom.com/wiki/Lyre"
-            },
-            {
-                "quest-name": "Lyre",
-                "quest-url": "https://tibia.fandom.com/wiki/Lyre"
-            },
-            {
-                "quest-name": "Diapason",
-                "quest-url": "https://tibia.fandom.com/wiki/Diapason"
-            },
             {
                 "quest-name": "Diapason",
                 "quest-url": "https://tibia.fandom.com/wiki/Diapason"
@@ -5556,10 +5367,6 @@
             {
                 "quest-name": "Assassin Outfits Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Assassin_Outfits_Quest"
-            },
-            {
-                "quest-name": "Invisible",
-                "quest-url": "https://tibia.fandom.com/wiki/Invisible"
             }
         ],
         "dialogues": []
@@ -6149,14 +5956,6 @@
         "version": "8.40",
         "quests": [
             {
-                "quest-name": "Chocolate Cake",
-                "quest-url": "https://tibia.fandom.com/wiki/Chocolate_Cake"
-            },
-            {
-                "quest-name": "Bolfona",
-                "quest-url": "https://tibia.fandom.com/wiki/Bolfona"
-            },
-            {
                 "quest-name": "The Hidden City of Beregar Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest"
             }
@@ -6295,28 +6094,7 @@
         "subarea": "Percht Island",
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=132.41-121.34-6-2-1-1",
         "version": "12.02.7746",
-        "quests": [
-            {
-                "quest-name": "Winterlight Solstice",
-                "quest-url": "https://tibia.fandom.com/wiki/Winterlight_Solstice"
-            },
-            {
-                "quest-name": "Bright Percht Sleigh",
-                "quest-url": "https://tibia.fandom.com/wiki/Bright_Percht_Sleigh"
-            },
-            {
-                "quest-name": "Cold Percht Sleigh",
-                "quest-url": "https://tibia.fandom.com/wiki/Cold_Percht_Sleigh"
-            },
-            {
-                "quest-name": "Dark Percht Sleigh",
-                "quest-url": "https://tibia.fandom.com/wiki/Dark_Percht_Sleigh"
-            },
-            {
-                "quest-name": "Percht Skull",
-                "quest-url": "https://tibia.fandom.com/wiki/Percht_Skull"
-            }
-        ],
+        "quests": [],
         "dialogues": [
             "We are halfway out of the dark.",
             "Annoying perchts ... stinky, lousy, noisy creatures!",
@@ -6445,16 +6223,8 @@
                 "quest-url": "https://tibia.fandom.com/wiki/Secret_Service_Quest"
             },
             {
-                "quest-name": "AVIN",
-                "quest-url": "https://tibia.fandom.com/wiki/AVIN"
-            },
-            {
                 "quest-name": "Life Crystal",
                 "quest-url": "https://tibia.fandom.com/wiki/Life_Crystal"
-            },
-            {
-                "quest-name": "Lugri",
-                "quest-url": "https://tibia.fandom.com/wiki/Lugri"
             }
         ],
         "dialogues": [
@@ -8224,18 +7994,6 @@
             {
                 "quest-name": "Panpipe Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Panpipe_Quest"
-            },
-            {
-                "quest-name": "Fire Devil",
-                "quest-url": "https://tibia.fandom.com/wiki/Fire_Devil"
-            },
-            {
-                "quest-name": "Key 4022",
-                "quest-url": "https://tibia.fandom.com/wiki/Key_4022"
-            },
-            {
-                "quest-name": "Roll",
-                "quest-url": "https://tibia.fandom.com/wiki/Roll"
             }
         ],
         "dialogues": []
@@ -8632,7 +8390,7 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "Kissing a Pig Quest/Spoiler",
+                "quest-name": "Kissing a Pig Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Kissing_a_Pig_Quest/Spoiler#Saving_Caramellia"
             },
             {
@@ -9430,10 +9188,6 @@
             {
                 "quest-name": "Top of the City Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Top_of_the_City_Quest"
-            },
-            {
-                "quest-name": "Assassin",
-                "quest-url": "https://tibia.fandom.com/wiki/Assassin"
             }
         ],
         "dialogues": []
@@ -9565,10 +9319,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=127.12-125.38-14-2-1-1",
         "version": "9.10",
         "quests": [
-            {
-                "quest-name": "Coal",
-                "quest-url": "https://tibia.fandom.com/wiki/Coal"
-            },
             {
                 "quest-name": "Steamship World Change",
                 "quest-url": "https://tibia.fandom.com/wiki/Steamship_World_Change"
@@ -9712,14 +9462,6 @@
             {
                 "quest-name": "The Spark of the Phoenix",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Spark_of_the_Phoenix"
-            },
-            {
-                "quest-name": "Blessing",
-                "quest-url": "https://tibia.fandom.com/wiki/Blessing"
-            },
-            {
-                "quest-name": "Pydar",
-                "quest-url": "https://tibia.fandom.com/wiki/Pydar"
             }
         ],
         "dialogues": []
@@ -9871,10 +9613,6 @@
             {
                 "quest-name": "The New Frontier Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_New_Frontier_Quest"
-            },
-            {
-                "quest-name": "Dog Collar",
-                "quest-url": "https://tibia.fandom.com/wiki/Dog_Collar"
             },
             {
                 "quest-name": "Noodles is Gone Mini World Change",
@@ -10851,14 +10589,6 @@
         "version": "7.8",
         "quests": [
             {
-                "quest-name": "Spider Silk",
-                "quest-url": "https://tibia.fandom.com/wiki/Spider_Silk"
-            },
-            {
-                "quest-name": "Spool of Yarn",
-                "quest-url": "https://tibia.fandom.com/wiki/Spool_of_Yarn"
-            },
-            {
                 "quest-name": "The Mermaid Marina Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Mermaid_Marina_Quest"
             },
@@ -11580,7 +11310,7 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "Into The Bone Pit Quest/Spoiler",
+                "quest-name": "Into The Bone Pit Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Into_The_Bone_Pit_Quest/Spoiler"
             }
         ],
@@ -11719,7 +11449,7 @@
         "version": "7.4",
         "quests": [
             {
-                "quest-name": "What a Foolish Quest/Spoiler",
+                "quest-name": "What a Foolish Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/What_a_Foolish_Quest/Spoiler#Mission_10_-_A_Sweet_Surprise"
             }
         ],
@@ -12519,10 +12249,6 @@
             {
                 "quest-name": "Demon Oak Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Demon_Oak_Quest"
-            },
-            {
-                "quest-name": "Holy Tible",
-                "quest-url": "https://tibia.fandom.com/wiki/Holy_Tible"
             }
         ],
         "dialogues": [
@@ -12797,10 +12523,6 @@
             {
                 "quest-name": "Swamp Fever",
                 "quest-url": "https://tibia.fandom.com/wiki/Swamp_Fever"
-            },
-            {
-                "quest-name": "World Change",
-                "quest-url": "https://tibia.fandom.com/wiki/World_Change"
             }
         ],
         "dialogues": [
@@ -12869,14 +12591,6 @@
             {
                 "quest-name": "In Service of Yalahar Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest"
-            },
-            {
-                "quest-name": "Vampiric Crest",
-                "quest-url": "https://tibia.fandom.com/wiki/Vampiric_Crest"
-            },
-            {
-                "quest-name": "Yalaharian Outfits",
-                "quest-url": "https://tibia.fandom.com/wiki/Yalaharian_Outfits"
             }
         ],
         "dialogues": []
@@ -13040,10 +12754,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=130.7-124.212-6-2-1-1",
         "version": "6.5",
         "quests": [
-            {
-                "quest-name": "Marlin",
-                "quest-url": "https://tibia.fandom.com/wiki/Marlin"
-            },
             {
                 "quest-name": "Marlin Trophy",
                 "quest-url": "https://tibia.fandom.com/wiki/Marlin_Trophy"
@@ -13437,22 +13147,6 @@
         "version": "7.2",
         "quests": [
             {
-                "quest-name": "The Spark of the Phoenix",
-                "quest-url": "https://tibia.fandom.com/wiki/The_Spark_of_the_Phoenix"
-            },
-            {
-                "quest-name": "Blessing",
-                "quest-url": "https://tibia.fandom.com/wiki/Blessing"
-            },
-            {
-                "quest-name": "Kawill",
-                "quest-url": "https://tibia.fandom.com/wiki/Kawill"
-            },
-            {
-                "quest-name": "The Paradox Tower Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/The_Paradox_Tower_Quest"
-            },
-            {
                 "quest-name": "Phoenix Egg",
                 "quest-url": "https://tibia.fandom.com/wiki/Phoenix_Egg"
             }
@@ -13604,10 +13298,6 @@
             {
                 "quest-name": "An Interest In Botany Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/An_Interest_In_Botany_Quest"
-            },
-            {
-                "quest-name": "Vial",
-                "quest-url": "https://tibia.fandom.com/wiki/Vial"
             }
         ],
         "dialogues": []
@@ -14565,10 +14255,6 @@
             {
                 "quest-name": "Their Master's Voice",
                 "quest-url": "https://tibia.fandom.com/wiki/Their_Master%27s_Voice"
-            },
-            {
-                "quest-name": "World Change",
-                "quest-url": "https://tibia.fandom.com/wiki/World_Change"
             }
         ],
         "dialogues": [
@@ -14604,16 +14290,8 @@
         "version": "Pre-6.0",
         "quests": [
             {
-                "quest-name": "Present",
-                "quest-url": "https://tibia.fandom.com/wiki/Present"
-            },
-            {
                 "quest-name": "Present Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Present_Quest"
-            },
-            {
-                "quest-name": "Legion Helmet",
-                "quest-url": "https://tibia.fandom.com/wiki/Legion_Helmet"
             }
         ],
         "dialogues": [
@@ -15155,12 +14833,7 @@
         "subarea": "",
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=128.167-125.254-8-2-1-1",
         "version": "9.44",
-        "quests": [
-            {
-                "quest-name": "Surprise Bag (Blue)",
-                "quest-url": "https://tibia.fandom.com/wiki/Surprise_Bag_(Blue)"
-            }
-        ],
+        "quests": [],
         "dialogues": [
             "One lump or two, old chap?",
             "Now now. There's enough tea for everyone.",
@@ -15490,10 +15163,6 @@
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=127.51-124.150-12-2-1-1",
         "version": "6.1",
         "quests": [
-            {
-                "quest-name": "Screwdriver of Kurik",
-                "quest-url": "https://tibia.fandom.com/wiki/Screwdriver_of_Kurik"
-            },
             {
                 "quest-name": "The Postman Missions Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Postman_Missions_Quest"
@@ -17469,10 +17138,6 @@
             {
                 "quest-name": "The Hidden City of Beregar Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Hidden_City_of_Beregar_Quest"
-            },
-            {
-                "quest-name": "Gear Wheel",
-                "quest-url": "https://tibia.fandom.com/wiki/Gear_Wheel"
             }
         ],
         "dialogues": []
@@ -17548,468 +17213,7 @@
         "subarea": "",
         "map": "https://tibia.fandom.com/wiki/Mapper?coords=126.142-124.71-6-2-1-1",
         "version": "9.40",
-        "quests": [
-            {
-                "quest-name": "Achievement",
-                "quest-url": "https://tibia.fandom.com/wiki/Achievement"
-            },
-            {
-                "quest-name": "Si, Ariki!",
-                "quest-url": "https://tibia.fandom.com/wiki/Si,_Ariki!"
-            },
-            {
-                "quest-name": "Quests",
-                "quest-url": "https://tibia.fandom.com/wiki/Quests"
-            },
-            {
-                "quest-name": "Outfits",
-                "quest-url": "https://tibia.fandom.com/wiki/Outfits"
-            },
-            {
-                "quest-name": "Imbuing",
-                "quest-url": "https://tibia.fandom.com/wiki/Imbuing"
-            },
-            {
-                "quest-name": "Acorn",
-                "quest-url": "https://tibia.fandom.com/wiki/Acorn"
-            },
-            {
-                "quest-name": "Ape Fur",
-                "quest-url": "https://tibia.fandom.com/wiki/Ape_Fur"
-            },
-            {
-                "quest-name": "Bat Wing",
-                "quest-url": "https://tibia.fandom.com/wiki/Bat_Wing"
-            },
-            {
-                "quest-name": "Bear Paw",
-                "quest-url": "https://tibia.fandom.com/wiki/Bear_Paw"
-            },
-            {
-                "quest-name": "Behemoth Claw",
-                "quest-url": "https://tibia.fandom.com/wiki/Behemoth_Claw"
-            },
-            {
-                "quest-name": "Blazing Bone",
-                "quest-url": "https://tibia.fandom.com/wiki/Blazing_Bone"
-            },
-            {
-                "quest-name": "Bloody Pincers",
-                "quest-url": "https://tibia.fandom.com/wiki/Bloody_Pincers"
-            },
-            {
-                "quest-name": "Blue Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/Blue_Piece_of_Cloth"
-            },
-            {
-                "quest-name": "Bonelord Eye",
-                "quest-url": "https://tibia.fandom.com/wiki/Bonelord_Eye"
-            },
-            {
-                "quest-name": "Brimstone Fangs",
-                "quest-url": "https://tibia.fandom.com/wiki/Brimstone_Fangs"
-            },
-            {
-                "quest-name": "Brimstone Shell",
-                "quest-url": "https://tibia.fandom.com/wiki/Brimstone_Shell"
-            },
-            {
-                "quest-name": "Broken Shamanic Staff",
-                "quest-url": "https://tibia.fandom.com/wiki/Broken_Shamanic_Staff"
-            },
-            {
-                "quest-name": "Brown Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/Brown_Piece_of_Cloth"
-            },
-            {
-                "quest-name": "Centipede Leg",
-                "quest-url": "https://tibia.fandom.com/wiki/Centipede_Leg"
-            },
-            {
-                "quest-name": "Chicken Feather",
-                "quest-url": "https://tibia.fandom.com/wiki/Chicken_Feather"
-            },
-            {
-                "quest-name": "Colourful Feathers",
-                "quest-url": "https://tibia.fandom.com/wiki/Colourful_Feathers"
-            },
-            {
-                "quest-name": "Compass",
-                "quest-url": "https://tibia.fandom.com/wiki/Compass"
-            },
-            {
-                "quest-name": "Crawler Head Plating",
-                "quest-url": "https://tibia.fandom.com/wiki/Crawler_Head_Plating"
-            },
-            {
-                "quest-name": "Crystallized Anger",
-                "quest-url": "https://tibia.fandom.com/wiki/Crystallized_Anger"
-            },
-            {
-                "quest-name": "Cultish Mask",
-                "quest-url": "https://tibia.fandom.com/wiki/Cultish_Mask"
-            },
-            {
-                "quest-name": "Cultish Robe",
-                "quest-url": "https://tibia.fandom.com/wiki/Cultish_Robe"
-            },
-            {
-                "quest-name": "Cyclops Toe",
-                "quest-url": "https://tibia.fandom.com/wiki/Cyclops_Toe"
-            },
-            {
-                "quest-name": "Damselfly Wing",
-                "quest-url": "https://tibia.fandom.com/wiki/Damselfly_Wing"
-            },
-            {
-                "quest-name": "Deepling Warts",
-                "quest-url": "https://tibia.fandom.com/wiki/Deepling_Warts"
-            },
-            {
-                "quest-name": "Demon Dust",
-                "quest-url": "https://tibia.fandom.com/wiki/Demon_Dust"
-            },
-            {
-                "quest-name": "Demon Horn",
-                "quest-url": "https://tibia.fandom.com/wiki/Demon_Horn"
-            },
-            {
-                "quest-name": "Demonic Skeletal Hand",
-                "quest-url": "https://tibia.fandom.com/wiki/Demonic_Skeletal_Hand"
-            },
-            {
-                "quest-name": "Dragon Claw",
-                "quest-url": "https://tibia.fandom.com/wiki/Dragon_Claw"
-            },
-            {
-                "quest-name": "Draken Sulphur",
-                "quest-url": "https://tibia.fandom.com/wiki/Draken_Sulphur"
-            },
-            {
-                "quest-name": "Elven Hoof",
-                "quest-url": "https://tibia.fandom.com/wiki/Elven_Hoof"
-            },
-            {
-                "quest-name": "Elven Scouting Glass",
-                "quest-url": "https://tibia.fandom.com/wiki/Elven_Scouting_Glass"
-            },
-            {
-                "quest-name": "Elvish Talisman",
-                "quest-url": "https://tibia.fandom.com/wiki/Elvish_Talisman"
-            },
-            {
-                "quest-name": "Energy Vein",
-                "quest-url": "https://tibia.fandom.com/wiki/Energy_Vein"
-            },
-            {
-                "quest-name": "Fairy Wings",
-                "quest-url": "https://tibia.fandom.com/wiki/Fairy_Wings"
-            },
-            {
-                "quest-name": "Fiery Heart",
-                "quest-url": "https://tibia.fandom.com/wiki/Fiery_Heart"
-            },
-            {
-                "quest-name": "Fish Fin",
-                "quest-url": "https://tibia.fandom.com/wiki/Fish_Fin"
-            },
-            {
-                "quest-name": "Flask of Embalming Fluid",
-                "quest-url": "https://tibia.fandom.com/wiki/Flask_of_Embalming_Fluid"
-            },
-            {
-                "quest-name": "Flask of Warrior's Sweat",
-                "quest-url": "https://tibia.fandom.com/wiki/Flask_of_Warrior%27s_Sweat"
-            },
-            {
-                "quest-name": "Frazzle Skin",
-                "quest-url": "https://tibia.fandom.com/wiki/Frazzle_Skin"
-            },
-            {
-                "quest-name": "Frosty Heart",
-                "quest-url": "https://tibia.fandom.com/wiki/Frosty_Heart"
-            },
-            {
-                "quest-name": "Gloom Wolf Fur",
-                "quest-url": "https://tibia.fandom.com/wiki/Gloom_Wolf_Fur"
-            },
-            {
-                "quest-name": "Goblin Ear",
-                "quest-url": "https://tibia.fandom.com/wiki/Goblin_Ear"
-            },
-            {
-                "quest-name": "Goosebump Leather",
-                "quest-url": "https://tibia.fandom.com/wiki/Goosebump_Leather"
-            },
-            {
-                "quest-name": "Green Dragon Leather",
-                "quest-url": "https://tibia.fandom.com/wiki/Green_Dragon_Leather"
-            },
-            {
-                "quest-name": "Green Dragon Scale",
-                "quest-url": "https://tibia.fandom.com/wiki/Green_Dragon_Scale"
-            },
-            {
-                "quest-name": "Green Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/Green_Piece_of_Cloth"
-            },
-            {
-                "quest-name": "Hardened Bone",
-                "quest-url": "https://tibia.fandom.com/wiki/Hardened_Bone"
-            },
-            {
-                "quest-name": "Heaven Blossom",
-                "quest-url": "https://tibia.fandom.com/wiki/Heaven_Blossom"
-            },
-            {
-                "quest-name": "Hellspawn Tail",
-                "quest-url": "https://tibia.fandom.com/wiki/Hellspawn_Tail"
-            },
-            {
-                "quest-name": "Holy Orchid",
-                "quest-url": "https://tibia.fandom.com/wiki/Holy_Orchid"
-            },
-            {
-                "quest-name": "Honeycomb",
-                "quest-url": "https://tibia.fandom.com/wiki/Honeycomb"
-            },
-            {
-                "quest-name": "Incantation Notes",
-                "quest-url": "https://tibia.fandom.com/wiki/Incantation_Notes"
-            },
-            {
-                "quest-name": "Iron Ore",
-                "quest-url": "https://tibia.fandom.com/wiki/Iron_Ore"
-            },
-            {
-                "quest-name": "Lancet",
-                "quest-url": "https://tibia.fandom.com/wiki/Lancet"
-            },
-            {
-                "quest-name": "Lion's Mane",
-                "quest-url": "https://tibia.fandom.com/wiki/Lion%27s_Mane"
-            },
-            {
-                "quest-name": "Little Bowl of Myrrh",
-                "quest-url": "https://tibia.fandom.com/wiki/Little_Bowl_of_Myrrh"
-            },
-            {
-                "quest-name": "Lizard Leather",
-                "quest-url": "https://tibia.fandom.com/wiki/Lizard_Leather"
-            },
-            {
-                "quest-name": "Lizard Scale",
-                "quest-url": "https://tibia.fandom.com/wiki/Lizard_Scale"
-            },
-            {
-                "quest-name": "Lump of Dirt",
-                "quest-url": "https://tibia.fandom.com/wiki/Lump_of_Dirt"
-            },
-            {
-                "quest-name": "Magic Sulphur",
-                "quest-url": "https://tibia.fandom.com/wiki/Magic_Sulphur"
-            },
-            {
-                "quest-name": "Marsh Stalker Beak",
-                "quest-url": "https://tibia.fandom.com/wiki/Marsh_Stalker_Beak"
-            },
-            {
-                "quest-name": "Marsh Stalker Feather",
-                "quest-url": "https://tibia.fandom.com/wiki/Marsh_Stalker_Feather"
-            },
-            {
-                "quest-name": "Minotaur Horn",
-                "quest-url": "https://tibia.fandom.com/wiki/Minotaur_Horn"
-            },
-            {
-                "quest-name": "Minotaur Leather",
-                "quest-url": "https://tibia.fandom.com/wiki/Minotaur_Leather"
-            },
-            {
-                "quest-name": "Mystical Hourglass",
-                "quest-url": "https://tibia.fandom.com/wiki/Mystical_Hourglass"
-            },
-            {
-                "quest-name": "Nose Ring",
-                "quest-url": "https://tibia.fandom.com/wiki/Nose_Ring"
-            },
-            {
-                "quest-name": "Ogre Nose Ring",
-                "quest-url": "https://tibia.fandom.com/wiki/Ogre_Nose_Ring"
-            },
-            {
-                "quest-name": "Orc Tooth",
-                "quest-url": "https://tibia.fandom.com/wiki/Orc_Tooth"
-            },
-            {
-                "quest-name": "Peacock Feather Fan",
-                "quest-url": "https://tibia.fandom.com/wiki/Peacock_Feather_Fan"
-            },
-            {
-                "quest-name": "Pelvis Bone",
-                "quest-url": "https://tibia.fandom.com/wiki/Pelvis_Bone"
-            },
-            {
-                "quest-name": "Petrified Scream",
-                "quest-url": "https://tibia.fandom.com/wiki/Petrified_Scream"
-            },
-            {
-                "quest-name": "Piece of Dead Brain",
-                "quest-url": "https://tibia.fandom.com/wiki/Piece_of_Dead_Brain"
-            },
-            {
-                "quest-name": "Piece of Scarab Shell",
-                "quest-url": "https://tibia.fandom.com/wiki/Piece_of_Scarab_Shell"
-            },
-            {
-                "quest-name": "Piece of Swampling Wood",
-                "quest-url": "https://tibia.fandom.com/wiki/Piece_of_Swampling_Wood"
-            },
-            {
-                "quest-name": "Pile of Grave Earth",
-                "quest-url": "https://tibia.fandom.com/wiki/Pile_of_Grave_Earth"
-            },
-            {
-                "quest-name": "Poisonous Slime",
-                "quest-url": "https://tibia.fandom.com/wiki/Poisonous_Slime"
-            },
-            {
-                "quest-name": "Polar Bear Paw",
-                "quest-url": "https://tibia.fandom.com/wiki/Polar_Bear_Paw"
-            },
-            {
-                "quest-name": "Porcelain Mask",
-                "quest-url": "https://tibia.fandom.com/wiki/Porcelain_Mask"
-            },
-            {
-                "quest-name": "Protective Charm",
-                "quest-url": "https://tibia.fandom.com/wiki/Protective_Charm"
-            },
-            {
-                "quest-name": "Quill",
-                "quest-url": "https://tibia.fandom.com/wiki/Quill"
-            },
-            {
-                "quest-name": "Red Dragon Scale",
-                "quest-url": "https://tibia.fandom.com/wiki/Red_Dragon_Scale"
-            },
-            {
-                "quest-name": "Red Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/Red_Piece_of_Cloth"
-            },
-            {
-                "quest-name": "Rope Belt",
-                "quest-url": "https://tibia.fandom.com/wiki/Rope_Belt"
-            },
-            {
-                "quest-name": "Rorc Feather",
-                "quest-url": "https://tibia.fandom.com/wiki/Rorc_Feather"
-            },
-            {
-                "quest-name": "Sabretooth",
-                "quest-url": "https://tibia.fandom.com/wiki/Sabretooth"
-            },
-            {
-                "quest-name": "Sandcrawler Shell",
-                "quest-url": "https://tibia.fandom.com/wiki/Sandcrawler_Shell"
-            },
-            {
-                "quest-name": "Scorpion Tail",
-                "quest-url": "https://tibia.fandom.com/wiki/Scorpion_Tail"
-            },
-            {
-                "quest-name": "Silencer Claws",
-                "quest-url": "https://tibia.fandom.com/wiki/Silencer_Claws"
-            },
-            {
-                "quest-name": "Small Flask of Eyedrops",
-                "quest-url": "https://tibia.fandom.com/wiki/Small_Flask_of_Eyedrops"
-            },
-            {
-                "quest-name": "Snake Skin",
-                "quest-url": "https://tibia.fandom.com/wiki/Snake_Skin"
-            },
-            {
-                "quest-name": "Some Grimeleech Wings",
-                "quest-url": "https://tibia.fandom.com/wiki/Some_Grimeleech_Wings"
-            },
-            {
-                "quest-name": "Spider Fangs",
-                "quest-url": "https://tibia.fandom.com/wiki/Spider_Fangs"
-            },
-            {
-                "quest-name": "Spider Silk",
-                "quest-url": "https://tibia.fandom.com/wiki/Spider_Silk"
-            },
-            {
-                "quest-name": "Strand of Medusa Hair",
-                "quest-url": "https://tibia.fandom.com/wiki/Strand_of_Medusa_Hair"
-            },
-            {
-                "quest-name": "Swamp Grass",
-                "quest-url": "https://tibia.fandom.com/wiki/Swamp_Grass"
-            },
-            {
-                "quest-name": "Tarantula Egg",
-                "quest-url": "https://tibia.fandom.com/wiki/Tarantula_Egg"
-            },
-            {
-                "quest-name": "Thick Fur",
-                "quest-url": "https://tibia.fandom.com/wiki/Thick_Fur"
-            },
-            {
-                "quest-name": "Turtle Shell",
-                "quest-url": "https://tibia.fandom.com/wiki/Turtle_Shell"
-            },
-            {
-                "quest-name": "Vampire Dust",
-                "quest-url": "https://tibia.fandom.com/wiki/Vampire_Dust"
-            },
-            {
-                "quest-name": "Vampire Teeth",
-                "quest-url": "https://tibia.fandom.com/wiki/Vampire_Teeth"
-            },
-            {
-                "quest-name": "Vexclaw Talon",
-                "quest-url": "https://tibia.fandom.com/wiki/Vexclaw_Talon"
-            },
-            {
-                "quest-name": "Warmaster's Wristguards",
-                "quest-url": "https://tibia.fandom.com/wiki/Warmaster%27s_Wristguards"
-            },
-            {
-                "quest-name": "Waspoid Wing",
-                "quest-url": "https://tibia.fandom.com/wiki/Waspoid_Wing"
-            },
-            {
-                "quest-name": "Winter Wolf Fur",
-                "quest-url": "https://tibia.fandom.com/wiki/Winter_Wolf_Fur"
-            },
-            {
-                "quest-name": "White Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/White_Piece_of_Cloth"
-            },
-            {
-                "quest-name": "Wolf Paw",
-                "quest-url": "https://tibia.fandom.com/wiki/Wolf_Paw"
-            },
-            {
-                "quest-name": "Wool",
-                "quest-url": "https://tibia.fandom.com/wiki/Wool"
-            },
-            {
-                "quest-name": "Wyrm Scale",
-                "quest-url": "https://tibia.fandom.com/wiki/Wyrm_Scale"
-            },
-            {
-                "quest-name": "Wyvern Talisman",
-                "quest-url": "https://tibia.fandom.com/wiki/Wyvern_Talisman"
-            },
-            {
-                "quest-name": "Yellow Piece of Cloth",
-                "quest-url": "https://tibia.fandom.com/wiki/Yellow_Piece_of_Cloth"
-            }
-        ],
+        "quests": [],
         "dialogues": []
     },
     {
@@ -18148,14 +17352,6 @@
             {
                 "quest-name": "The Cradle of Monsters Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/The_Cradle_of_Monsters_Quest"
-            },
-            {
-                "quest-name": "About the Shiron'Fal (Book)",
-                "quest-url": "https://tibia.fandom.com/wiki/About_the_Shiron%27Fal_(Book)"
-            },
-            {
-                "quest-name": "Ysbasra's Task (Book)",
-                "quest-url": "https://tibia.fandom.com/wiki/Ysbasra%27s_Task_(Book)"
             }
         ],
         "dialogues": []
@@ -18222,14 +17418,6 @@
             {
                 "quest-name": "Wrath of the Emperor Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest"
-            },
-            {
-                "quest-name": "Wrath of the Emperor Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Wrath_of_the_Emperor_Quest"
-            },
-            {
-                "quest-name": "Zao Steppe",
-                "quest-url": "https://tibia.fandom.com/wiki/Zao_Steppe"
             }
         ],
         "dialogues": [
@@ -18440,24 +17628,12 @@
         "version": "6.4",
         "quests": [
             {
-                "quest-name": "Kharos",
-                "quest-url": "https://tibia.fandom.com/wiki/Kharos"
-            },
-            {
-                "quest-name": "Gp",
-                "quest-url": "https://tibia.fandom.com/wiki/Gp"
-            },
-            {
                 "quest-name": "Mage Outfits Quest",
                 "quest-url": "https://tibia.fandom.com/wiki/Mage_Outfits_Quest"
             },
             {
                 "quest-name": "Summoner Outfits",
                 "quest-url": "https://tibia.fandom.com/wiki/Summoner_Outfits"
-            },
-            {
-                "quest-name": "Ferumbras' Hat",
-                "quest-url": "https://tibia.fandom.com/wiki/Ferumbras%27_Hat"
             }
         ],
         "dialogues": []
