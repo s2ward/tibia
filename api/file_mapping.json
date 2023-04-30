@@ -886,8 +886,8 @@
         "Mordecai": "VERIFIED",
         "Nicholas": "VERIFIED",
         "Oramond_Marshes": {
-            "Captain_Gulliver": "EMPTY",
-            "Guide_Kunibert": "EMPTY"
+            "Captain_Gulliver": "VERIFIED",
+            "Guide_Kunibert": "VERIFIED"
         },
         "Quandons_Ghost": "EMPTY",
         "Rathleton_Ancient_Sewers": {
@@ -904,9 +904,9 @@
             "Roswitha": "VERIFIED"
         },
         "Rathleton_Workshops": {
-            "Doubleday": "EMPTY",
+            "Doubleday": "VERIFIED",
             "Terrence": "VERIFIED",
-            "Yeo": "EMPTY",
+            "Yeo": "VERIFIED",
             "Zeronex": "VERIFIED"
         },
         "Roughington": "EMPTY",

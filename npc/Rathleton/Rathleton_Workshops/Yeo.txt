@@ -1,0 +1,28 @@
+Player: hi
+Yeo: Ah, it's you. Nice to see you.
+Player: name
+Yeo: Call me Yeo.
+Player: job
+Yeo: Looks like fishing, doesn' it? Mending nets, boats, fishing for clams... yup, sounds like a fisherman's job to me.
+Player: yeo
+Yeo: Yup. Want your net or boat mended, come to me.
+Player: rathleton
+Yeo: Good town for tradesmen and artisans. Interesting stuff they do with glooth, nowadays.
+Player: glue
+Yeo: Ah, you need some kind of really sticky glue? Impervious to water, too? That's a job for old Yeo. Yeah, I can make you some gloo.
+Player: glooth
+Yeo: What, again? Well, to a faithful customer... here you go. I'm curious about this experimenting of yours. Maybe it'll be something for old Yeo to make a profit with, too. Just let me know when you met with commercial success.
+Player: glooth
+Yeo: Useful stuff. My specialty is a secret glooth tar-glue that I use to caulk boats with. Trust me, nobody caulks it better than old Yeo.
+Player: nacre
+Yeo: Love the shimmer of it! Been fishing for clams'n stuff for some years now. If you got a nice specimen of mother-of-pearl or so, I'd like to see it.
+Player: fishing
+Yeo: I find the most interesting stuff, you know. Broken statues. Stones. Clams. Nacre. Bones. Fish. I sell the fish and clams and keep the rest.
+Player: mr brandon
+Yeo: Been on some ships together. Not on the last trip, though. Never heard of the Beneficence after he left on it.
+Player: captain blight
+Yeo: A good man, only a bit rough with people. Pity he went down with the Beneficence.
+Player: crest
+Yeo: Dunno. Never heard of such a beast before, but in my dreams it stood before me bright and clear as you do now. Magnificent hair it had, like a wave crest, aye.
+Player: bye
+Yeo: Mhm.
