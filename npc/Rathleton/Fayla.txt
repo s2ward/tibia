@@ -14,8 +14,6 @@ Fayla: <smiles> Well then, just ask for a trade and have a look!
 Player: singer
 Fayla: Ah, so you heard of me? Well, a lot of time has passed since then, my dear. Glorious days, but it doesn't do to repine, does it? Of course it doesn't. <smiles> ...
 Fayla: Now, how about a nice little instrument for your home? Just ask me for a trade and I'll set you right up.
-Player: instrument
-Fayla: I sell only the finest instruments, if you are interested in a trade.
 Player: teach
 Fayla: At the moment, I am fully booked, my dear. However, why not come to one of my soirées when you have the time? I'll let you know when the next one will be.
 Player: lesson
