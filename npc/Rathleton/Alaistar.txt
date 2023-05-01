@@ -47,6 +47,8 @@ Player: mordecai
 Alaistar: Yes, we share an interest for the more practical aspects of magic. He is an expert in the field of runes and wands.
 Player: henry [bug?]
 Alaistar: A very brave and sweet-tempered lady. She has been through much. She likes visitors, though she hardly ever has one, these days.
+Player: airtight cloth
+Alaistar: It is really airtight, this cloth - I was able to gather some very volatile gases with this. I am looking forward to my next field trip, when I will use the cloth as a camouflage tent!
 Player: bye
 Alaistar: Don't waste everything at once!
 Alaistar: Always in a hurry, eh?

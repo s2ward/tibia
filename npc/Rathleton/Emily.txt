@@ -20,6 +20,12 @@ Emily: Oh, that horrible stuff! It was Henry's hobby. His brilliant mind sparkle
 Player: Henry / dr merlay
 Emily: You have news again? Fresh news from Henry? How is he? What are his next plans? Will he come back to the city? ...
 Emily: Oh! Really? You don't say! ... I see. Well, I have waited for so long, I shall endeavour to be patient a little longer. But I long for his return! Oh! Please excuse me, I need a little time to recover from these news. Do come back later!
+Player: henry / dr merlay 
+Emily: You have news, news from Henry! What is it? Where is he? Why doesn't he come himself? Is he ill? Captured? Suffering? Dying? Tell me at once, I beg you! 
+Player: Tell
+Emily: A letter? A letter from Henry! Oh, how wonderful! After all this time! I must read it at once. Oh, you have made me so happy! I shall forever be in your debt!
+Player: henry / dr merlay
+Emily: You have made me very happy in delivering Henry's letter. You shall always be welcome here!
 Player: family
 Emily: We are not on the best of terms with the rest of the Balfours. Graham is my family.
 Player: friend
