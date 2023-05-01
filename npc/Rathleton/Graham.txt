@@ -40,6 +40,8 @@ Player: captain caveworm
 Graham: Our Captain Caveworm could beat up your Ferumbars or whatever he's called, any time.
 Player: maxxen
 Graham: Many were killed when he unleashed his walkers upon the city.
+Player: airtight cloth
+Graham: That is of no use to me.
 Player: alaistar
 Graham: Dr Stanton has been a close of friend of my father, and he has tried, in his way, to help mother and me through the hard years. But he is a man of science as my father was, and his word against that of... other people in this town has not changed much.
 Player: azalea

@@ -30,6 +30,8 @@ Player: captain caveworm
 Azalea: Captain Caveworm is the peoples hero, fighting for the poor and weak.
 Player: maxxen
 Azalea: I've never heard that name.
+Player: airtight cloth
+Azalea: No, I don't see the use that, neither for my plants nor for myself. It upsets the balance of the elements. winds blow, waters flow. Bar their way and they will only grow in violence.
 Player: alaistar
 Azalea: A noble character with a deep understanding of the magical fluids. I respect his wisdom and his energy.
 Player: maro

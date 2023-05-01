@@ -16,6 +16,8 @@ Player: offer / sell / buy / weapon / armor
 Flint: Certainly. Ask me for a trade to browse through my stock.  
 Player: equipment  
 Flint: I am interested in buying glooth-based weapons and armors or other local equipment you found. Just ask me for a trade.  
+Player: captain caveworm
+Flint: Captain Caveworm is the hero of the people, a champion of the weak.
 Player: maxxen  
 Flint: Hm, sounds unfamiliar.  
 Player: time  

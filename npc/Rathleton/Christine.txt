@@ -23,6 +23,8 @@ Player: glooth
 Christine: The stuff Rathleton's dreams are made of! <winks> Seriously, honey, I make some delicious sandwiches and steaks out of it. Ask me for a trade to find out for yourself!  
 Player: airtight cloth  
 Christine: Hmm, yes, I see the idea, but does it work? It's just an idea so far. I'd like to see such a cloth.  
+Player: airtight cloth
+Christine: It works a treat! My glooth cake keeps fresh now for much, much longer.
 Player: king  
 Christine: Really? How romantic! We haven't had a king or queen for a long time. It really didn't work for us, I don't know why. Maybe the historian or some old history book of his can tell you more.  
 Player: tibia  

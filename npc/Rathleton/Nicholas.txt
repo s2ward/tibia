@@ -60,5 +60,7 @@ Player: maxxen
 Nicholas: I think he was in the magistrate once.
 Player: captain caveworm
 Nicholas: My father was a great Captain Caveworm fan as a boy.
+Player: airtight cloth
+Nicholas: A great idea, this airtight cloth! I have already made some lovely sewing patterns, I just have to decide on which one to sew first!
 Player: bye
 Nicholas: Enjoy your day, Player.
