@@ -33,6 +33,8 @@ Player: glooth
 Fayla: A strange substance that pervades every aspect of city life. Scientists study it, engineers construct with it... in short, it is used for many purposes.
 Player: airtight cloth
 Fayla: The princible sounds good... but is it sound? <smiles> Ah, have I confused you? Sorry, my dear.
+Player: airtight cloth
+Fayla: This airtight cloth works splendidly. I have had rather less complaints from my neighbours about the loudness of singing lessons, lately.
 Player: christine
 Fayla: My litle proégée. She's got a lovely voice. You should visit one of our little soirées, you know. <smiles at you>
 Player: bye
