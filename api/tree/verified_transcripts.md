@@ -334,6 +334,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fayla</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fayla.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Flint</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Flint.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Flora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Flora.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fyodor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fyodor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Glooth Factory</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Drystan Wildweed</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory/Drystan_Wildweed.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Georgia Rainbird</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Glooth_Factory/Georgia_Rainbird.txt)  
