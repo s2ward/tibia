@@ -342,7 +342,6 @@
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dr Merlay</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Dr_Merlay.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fabiana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fabiana.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fyodor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fyodor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helsi Van Ore</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Helsi_Van_Ore.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Quandons Ghost</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Quandons_Ghost.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roughington</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Roughington.txt)  
