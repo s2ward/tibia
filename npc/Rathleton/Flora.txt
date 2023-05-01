@@ -1,0 +1,12 @@
+Player: hi
+Flora: Greetings, Simula. Well, we all know what time it is. Always when we meet, the citizens of Rathleton voted for Bullwark! ...
+Flora: Well, the rules are as simple as always. Ask me for a fight and I'll teleport you into the room with the lever, therefore I'll charge one voting right. ...
+Flora: From this room there is no way back to me. Pull the trigger and after one minute you and your buddies will face Bullwark.
+Player: Bullwark
+Flora: A furious, devastating lump of meat and muscles. He is pure destruction. Take care!
+Player: fight
+Flora: Do you really want to enter Bullwark's hideout. There is no chickening out and I also have to charge one voting right! Yes or no?
+Player: no
+Flora: Return when you changed your mind.
+Player: bye
+Flora: Bye and return soon, Simula.
