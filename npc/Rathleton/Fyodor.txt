@@ -1,0 +1,68 @@
+Fyodor: If you need help with letters or parcels, ask away. I can explain the system.
+Fyodor: Letters! Parcels! Daily news!
+Player: hi
+Fyodor: Ah, hello! You come from our... mutual friend again?
+Player: no
+Fyodor: Oh. Okay then. Please, take your time and talk to me again when you have made up your mind.
+Player: yes
+Fyodor: <reads letter> Of course, Carefew will need a new letter to convince him our friend is still alive. He is always suspicious! I wonder if that man has any real friends. Hah. ...
+Fyodor: I will see to it that Carefew will have no reason to doubt the letter's contents! You should see Lady Emily as well, if you have not already done so. She will be happy to hear any news regarding our friend.
+Player: friend
+Fyodor: I believe you are a friend and a helper in a good cause. We need more like you if we want to make this city a truly great place to live for all the people!
+Player: name
+Fyodor: My full name is Fyodor Bariton Fairfax.
+Player: job
+Fyodor: I'm your local post office contact. If you have questions about the Royal Tibia Mail System or the depots, ask me. I am also the local news editor.
+Player: time
+Fyodor: It is 3:03 pm. If you need a watch, why not visit Edmund or Maro and buy a nice watch?
+Player: offer
+Fyodor: What shall it be? Pens and papers, or postal wares? Papers on explicit request only; trade will show you our standard postal wares.
+Player: Papers
+Fyodor: Of course, here is our selection of papers and pens. If you need labels, letters or parcels, just ask for a trade.
+Player: alaistar
+Fyodor: A brilliant scientist and observer of nature, but not, alas, so very much engaged in town affairs. We could use a steady character such as his in the magistrate!
+Player: azalea
+Fyodor: I wonder how she looks underneath that hood? Have you ever heard such a sweet, gentle voice? She must be the most beautiful creature in the world! <dreamily> If only I could look into her eyes...
+Player: christine
+Fyodor: She's actually my great-grand cousin. She's always singing and in good humour, though her father really disapproves of her modern views. ...
+Fyodor: Her big dream is to sing at the opera, but she makes some fabulous glooth sandwiches, you should absolutely try them.
+Player: merlay
+Fyodor: Thank you for your support in this. I know that as an outsider, our Oramondian affairs must seem small to you, but I assure you, they mean much to us!
+Player: emily
+Fyodor: She's lived alone all these years and has never accepted her rich family's offer to take her back and remarry her, or even to have her husband declared dead. A remarkable lady! She still hopes he'll come back one day.
+Player: graham
+Fyodor: A young man of very sober and honourable character. He's helped his mother all these years, but the price he paid is that of hope. He never once believed his father could be alive, as his mother does.
+Player: virgil
+Fyodor: The voice of the upper class of Rathleton, and the Oramondian bank manager. We cordially detest each other.
+Player: help
+Fyodor: If you want to offer your help to the city, you should talk to Terrence down at the eastern gate, or to Ezebeth in the magistrate. Both are always looking for helping hands.
+Player: news / oramond observer
+Fyodor: Ah, have you perhaps read the 'Oramond Observer'? I try to establish a neutral and objective paper to inform the Oramondian people of everything relevant.
+Player: king
+Fyodor: Saw him briefly. I really liked the atmosphere in Thais. Though we do things differently here.
+Player: thais
+Fyodor: I only visited it briefly.
+Player: rathleton
+Fyodor: This is a city of light and darkness! We have achieved so much, yet there are so many things still amiss! We have scientists and mages of great wisdom, but monsters stalk the lower streets while the rich look on! <continues talk in this fashion>
+Player: magistrate
+Fyodor: A tool of the people it should be, yet look at how many actually can use their vote? Have you read Thackleby's research on this subject? Oh, you haven't? I can strongly recommend it to you. He writes a very witty column in the Oramond Observer.
+Player: writing / copy
+Fyodor: I love writing and am also an experienced calligrapher. If you wish to have something copied out, please come to me.
+Player: kevin
+Fyodor: Ah, so you have met our postmaster? I can see we have a lot in common!
+Player: gazette
+Fyodor: That biased paper? It only reflects the selective view of the elite and completely ignores pressing social matters of this town.
+Player: instrument
+Fyodor: If you love music, you should talk to Madame Fayla upstairs. She has some lovely instruments to sell and sometimes, there's a little musical soirée.
+Player: soirée
+Fyodor: It used to be just a handful of artist, but nowadays, the soirées are crowded with people who think they're important... though some are, of course. Noblesse oblige, I guess. ...
+Fyodor: Don't get me wrong, I love music and song, but this kind of soirée is really mostly socialising. Madame Fayla still tries to get the magistrate to rebuild the old opera, but I think she's only fooling herself. ...
+Fyodor: I have it from a reliable source that the city's not interested in gentrifying the older part of town. What a shame.
+Player: airtight cloth
+Fyodor: I would not have use for such a thing. Who would write on an airtight, watertight cloth? Exactly my point.
+Player: captain caveworm
+Fyodor: I've seen him once as a kid when he battled Mean Green on top of the factory my father worked in. He's for real!
+Player: maxxen
+Fyodor: Maxxen was some brilliant scientist a long time ago. Then he became evil though.
+Player: bye
+Fyodor: Always a pleasure to be of assistance, Simula.
