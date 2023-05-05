@@ -228,7 +228,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lynda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lynda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marvik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Marvik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/A_Prisoner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Markwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Markwin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mount Sternum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mount_Sternum)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Skjaar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mount_Sternum/Skjaar.txt)  
