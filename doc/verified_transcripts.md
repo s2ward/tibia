@@ -447,6 +447,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hoaxette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hoaxette.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">King Tibianus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/King_Tibianus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/A_Prisoner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Boveas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Boveas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Naji</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Naji.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Noodles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Noodles.txt)  
