@@ -8,6 +8,10 @@ Search Transcripts: [NPSearch](https://www.talesoftibia.com/pages/tools.html)
 NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
 All Transcripts: [↗](./doc/all_transcripts.md)  
 
+The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/tools.html)  
+
+![npsearch](https://user-images.githubusercontent.com/25346191/236622962-cf9d0040-447b-4457-a05b-c34548cb5619.gif)
+
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
 By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A Prisoner").  
@@ -47,9 +51,7 @@ Repository structure
 And so on.  
 ```
 
-## How to contribute to [NPSearch](https://www.talesoftibia.com/pages/tools.html)  
-
-![image](https://user-images.githubusercontent.com/25346191/234275580-fbdad372-29f2-416d-a2f2-70aa763a92af.png)
+## How to contribute to [NPSearch](https://www.talesoftibia.com/tools.html)  
 
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
@@ -149,7 +151,7 @@ You can view all contributions here, in an issue that automatically updates:
 
 Contributioins [Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
 
-- Cony Island (Simula, s2w) with 40 contributions.  
+- Cony Island with 100 contributions.  
 - Your name?  
 
 # Research:  
