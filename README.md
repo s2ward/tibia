@@ -8,7 +8,7 @@ Search Transcripts: [NPSearch](https://www.talesoftibia.com/pages/tools.html)
 NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
 All Transcripts: [↗](./doc/all_transcripts.md)  
 
-The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/tools.html)  
+The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
 
 ![npsearch](https://user-images.githubusercontent.com/25346191/236622962-cf9d0040-447b-4457-a05b-c34548cb5619.gif)
 
@@ -51,7 +51,7 @@ Repository structure
 And so on.  
 ```
 
-## How to contribute to [NPSearch](https://www.talesoftibia.com/tools.html)  
+## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
 
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
