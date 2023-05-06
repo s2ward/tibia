@@ -478,6 +478,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Messenger of Santa</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Messenger_of_Santa.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Santa Claus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Santa_Claus.txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Abran Ironeye</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Abran_Ironeye.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashtamor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ashtamor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Asrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Boozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Boozer.txt)  

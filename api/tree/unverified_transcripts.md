@@ -252,7 +252,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Kizar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Kizar.txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Ghostly Woman (Dream Realm)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/A_Ghostly_Woman_(Dream_Realm).txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Abran Ironeye</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Abran_Ironeye.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Allen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Allen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
