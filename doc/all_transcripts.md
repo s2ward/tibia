@@ -769,7 +769,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barazbaz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barazbaz.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barnabas Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Barnabas_Dee.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Christine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Christine.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dr Merlay</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Dr_Merlay.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edmund</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Edmund.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emily</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Emily.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ezebeth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Ezebeth.txt)  
