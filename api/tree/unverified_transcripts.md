@@ -302,7 +302,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Urkalio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Urkalio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Velvet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Velvet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Weakened Forest Fury</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Weakened_Forest_Fury.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Xed</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Xed.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Yberius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Yberius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Yulas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Yulas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zebron</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Zebron.txt)  
