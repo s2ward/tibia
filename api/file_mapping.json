@@ -48,25 +48,25 @@
     },
     "Ankrahmun": {
         "Agostina": "EMPTY",
-        "Ahmet": "UNVERIFIED",
+        "Ahmet": "VERIFIED",
         "Ankrahmun_Pharaoh_Tombs": {
             "An_Ancient_Priest": "VERIFIED",
             "Cobra": "EMPTY",
             "The_Crone": "VERIFIED"
         },
         "Arito": "VERIFIED",
-        "Arkhothep": "EMPTY",
+        "Arkhothep": "VERIFIED",
         "Brutus": "EMPTY",
         "Captain_Sinbeard": "UNVERIFIED",
-        "Dario": "UNVERIFIED",
-        "Feizuhl": "UNVERIFIED",
-        "Fenech": "UNVERIFIED",
+        "Dario": "VERIFIED",
+        "Feizuhl": "VERIFIED",
+        "Fenech": "VERIFIED",
         "Guide_Rahlkora": "UNVERIFIED",
         "Hercule": "EMPTY",
         "Ishebad": "VERIFIED",
         "Jakahr": "UNVERIFIED",
         "Jean_Pierre": "EMPTY",
-        "Jezzara": "UNVERIFIED",
+        "Jezzara": "VERIFIED",
         "Mal'ouquah": {
             "Alesar": "EMPTY",
             "Baa'Leal": "EMPTY",
@@ -75,15 +75,15 @@
             "Ubaid": "EMPTY",
             "Yaman": "EMPTY"
         },
-        "Mehkesh": "UNVERIFIED",
+        "Mehkesh": "VERIFIED",
         "Melchior": "VERIFIED",
-        "Memech": "EMPTY",
+        "Memech": "VERIFIED",
         "Ormuhn": "VERIFIED",
-        "Rahkem": "UNVERIFIED",
+        "Rahkem": "VERIFIED",
         "Southern_Darama_Desert": {
             "Messenger_of_Heaven": "UNVERIFIED"
         },
-        "Tesha": "EMPTY",
+        "Tesha": "VERIFIED",
         "Tothdral": "VERIFIED"
     },
     "Boss_Lairs": {
