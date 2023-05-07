@@ -4,6 +4,10 @@ Player: name [east]
 Rebel: My name iz Hezzan. But I am of no importanze now, go talk to ze leader of ziz outpozt, Chartan over zere.
 Player: name [west]
 Rebel: Tozaraz ze watcher. Zere iz nozing here for you to gawk about. Now move, or elze!
+Player: name [north-west]
+Rebel: I am Talvaz, I waz recruited not long ago and I am zankful to be here now.
+Player: name [north-east]
+Rebel: Fonzez here, I am afraid I am not able to help you here. Go talk to to our leader, I have ozer zingz to do.
 Player: job
 Rebel: Well, we are holding up. We mainly uze ziz hideout az a refuge. Mozt of uz are out zere zomewhere, fighting, infiltrating or zimply zurviving.. maybe lozt.
 Player: how are you
