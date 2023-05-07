@@ -1,0 +1,72 @@
+Player: hi
+Flickering Soul: Be greeted, living soul!
+Player: living
+Flickering Soul: It has been a while since I roamed the world of the living in a mortal shell.
+Player: mortal
+Flickering Soul: I had many names in my live. The one that would be the most recognizable is probably the name Goshnar. Even that was an assumed name that I took, when i left my mundane past behind.
+Player: Goshnar
+Flickering Soul: I was once known as the necromant king. ...
+Flickering Soul: For some it was meant as a curse, others used the name with reverence. To me it was just another stepping stone, in a life that burned with ambition.
+Player: ambition
+Flickering Soul: My ambitions were high and knew no limits. Mastery over life and death was but a milestone that I wanted to accomplish. In the end I aspired probably somewhat like godhood. ...
+Flickering Soul: Though in hindsight even that wouldn't have been enough. There was a hunger in me that nothing could put to rest.
+Player: milestone
+Flickering Soul: Everything in my life was just a tool to further my goals. The brotherhood of bones was just a tool for me. As was everyone or everything. In the path I had chosen nothing mattered but me and my ambitions.
+Player: everything
+Flickering Soul: Necromancy was a passion at first, another tool while I amassed power and a crutch when my ambitions surpassed that what it could accomplish.
+Player: accomplish
+Flickering Soul: I was so convinced about my brilliance, my greatness, my destiny. And this hunger for more, it let me not have peace at any point in my life. I was always driven. There was no time to rest. ...
+Flickering Soul: And there was no looking back. I never cared to remember my humble beginnings, what I had sacrificed to get where I was. All that I had left behind and that I had lost forever. ...
+Flickering Soul: Now I see the bitter irony. I could bring back the dead, but I couldn't create second chances. I couldn't restore the truly important things that I had lost.
+Player: dead
+Flickering Soul: My demise did not meet me unprepared. As a powerful necromancer I had fettered my soul in the living world and the realms beyond. I had prepared for my return and was confident in my power.
+Player: confident
+Flickering Soul: My soul wandered the plains of Zarganash, waiting for my wards to power up. Waiting for my soul to be slowly pulled back and manifest in the world of the living once again. What I had not taken into consideration was peace.
+Player: peace
+Flickering Soul: Zarganash was not a place without it's dangers but for a soul as powerful as mine, there was little threat at all. For the first time in my existence I had to stop running forward. I had to wait for things to fit into their places. ...
+Flickering Soul: And me, who had seen things that horrible, they would have obliterated a lesser man's mind, finally took the time to look back. And what I saw was frightening in its own right. ...
+Flickering Soul: A great tiredness overcame me. With the flames of my ambitions calming down for the first time since I could remember, all my aspirations and plans seemed to petty and futile. ...
+Flickering Soul: Everything I had worked for and my plans for the things to come seemed pointless and the things I had lost and never allowed myself to experience weighted heavily on my soul.
+Player: soul
+Flickering Soul: I talked to other souls, lost in Zarganash and most of them seemed like mirrors to myself. Their faults, their shortcomings, the things that were important to them and the things they had lost. ...
+Flickering Soul: It was all like miniature copies of my own grand plans and losses. It made me think. And the great tiredness weighted even more heavy on me. A weariness of the world, of the hunger that drove me.
+Player: weariness
+Flickering Soul: Then I met a wise soul. A teacher that did not lecture. I never was impressed by anything but my own accomplishments but the inner balance and peace of this soul, it did impress me. A lot. ...
+Flickering Soul: I, who fancied myself to have been the epitome of knowledge, learned things that were entirely new to me. But this knowledge wasn't about power. It was about me.
+Player: knowledge
+Flickering Soul: I recognized the extent of my folly and failure. I decided not to return to the world of the living.
+Player: return
+Flickering Soul: I decided to stay here, even pass on into the great beyond at some point. Yet I still feel the pull of my fetters. I can faintly hear those who think they are my followers, calling to me. ...
+Flickering Soul: And I feel others, many others who carve for my powers and try to bring me back for their own gain.
+Player: fetters
+Flickering Soul: Over my time in Zarganash I split away the parts of me that my worldly fetters where bound to. Yet I had to recognize that they are still a part of me and I'm bound to them. ...
+Flickering Soul: The fetters and the efforts to call me back, are empowering them. I feel them growing in strength and gaining awareness on their own. ...
+Flickering Soul: They are beginning to feed not only on the fetters and incarnations but also on me. As I grow weaker they grow more powerful over time.
+Player: powerful
+Flickering Soul: The only way I can get rid of them is to disperse them, to 'kill' them so to say. But they are tainted parts of myself and even going near them might endanger my sanity and stability. So all I can do is to ask you to do this daunting task.
+Player: task
+Flickering Soul: I'm aware I have no right to ask and I have little to offer as a payment, but I ask you nonetheless. Will you face my fettered vices and destroy them for me?
+Player: yes
+Flickering Soul: Thank you for accepting this burden.
+Player: burden
+Flickering Soul: You will have to reach each of the negative parts of my personality, I split away. They are hidden deep in the depths of Zarganash and will have corrupted and twisted their surroundings into dangerous nightmares. ...
+Flickering Soul: Even worse you'll likely encounter minions of those who want to claim my soul as their prize, for their own, depraved reasons. You will have to destroy my shards to set me free.
+Player: shards
+Flickering Soul: You haven't killed Malice yet. You haven't killed Hatred yet. You haven't killed Spite yet. You haven't killed Cruelty yet. You haven't killed Greed yet.
+Player: hate
+Flickering Soul: I hated the world for its flaws and the reluctance of people to comply to my will. I was convinced I was destined for greatness and to change everything. Ordinary beings were far beneath me and my consideration. ...
+Flickering Soul: All this opposition, all the wars were a nuisance on my way to greatness. I would have sacrificed the whole world ton reach my goals.
+Player: Fermuba
+Flickering Soul: My daughter was as ambitious as me, yet she lacked my intellect and my raw talent. She still was great and talented yet I sadly let her feel my disdain. One of the many errors that my way of hubris made me do.
+Player: Ferumbras
+Flickering Soul: Even in the lands of the dead this one caused a stir. The dead were whispering his name. It made me feel jealous and angry at first, but at some point, after much self reflection, I could recognize my own faults in the stories about him. ...
+Flickering Soul: It was almost like looking into a mirror for the first time. However he lived way later than me and I never met his soul here so I can't tell more about him.
+Player: grandson
+Flickering Soul: I'm not aware of the fate of my linage. Neither I'm able to relate to the mortal world in that way. Each of us is an individual, not bound by ties of blood or herritage.
+Player: pale worm
+Flickering Soul: His avatar might be destroyed for now and it'd grip on Zarganash considerably weakened. Yet he burrowed to deep into the essence of this realm to be annihilated this easy.
+Player: necromant king
+Flickering Soul: They called me the necromant king, in an act of reverence, but to me it was always more of a slander. To limit my greatness to this insignificant aspect was an insult to my ego. But I let it slip for the greater good. ...
+Flickering Soul: I felt it was beneath me to correct them and I went along.
+Player: minions/followers
+Flickering Soul: I despised my followers for their petty agendas and for their limited vision of my own goals and personality.
