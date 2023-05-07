@@ -1,0 +1,67 @@
+Player: hi
+Tesha: Be mourned pilgrim in flesh, Simula. Welcome to the bank and jewel store.
+Player: name
+Tesha: I am the mourned Tesha.
+Player: job
+Tesha: I sell and buy scarab coins, gems and jewelry. Also I can take care of your bank business.
+Player: time
+Tesha: Time is yet another burden that lies heavy on our mortal bodies.
+Player: gem
+Tesha: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.
+Player: pearl
+Tesha: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.
+Player: jewel
+Tesha: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.
+Player: talon
+Tesha: We don't trade with them.
+Player: pharaoh
+Tesha: He is the benevolent father of this nation. Blessed be our saviour.
+Tesha: The pharaoh has such amazing patience with us puny mortals. He is truly a caring father of this nation.
+Player: oldpharaoh
+Tesha: This poor man could not comprehend his son's wisdom. Perhaps he has spelled his own eternal doom.
+Player: scarab
+Tesha: The priests say they are sacred beings, although ... <whispers>I find them scary!
+Player: chosen
+Tesha: I can only hope my humble work for our community and for the temple will make me worthy one day to be elevated to the rank of a chosen one. One to whom the path of ascension is opened up through undeath.
+Player: darama
+Tesha: In the desert the lines of life and death are clearly drawn. Because of this it is easier for us, its children, to focus on them. In the jungle those lines are fuzzy and blurred, and people easily fall victim to temptation.
+Player: daraman
+Tesha: He was a great man. If he had left his mortal existence behind he might have become one of the greatest prophets of the true faith, second only to the pharaoh himself.
+Player: darashia
+Tesha: Those poor souls there might still be saved if only they listened.
+Player: ankrahmun
+Tesha: This city is both a refuge and centre of learning for the believers of the true faith taught by his divine majesty the pharaoh.
+Player: tibia
+Tesha: The world is so huge, and I have seen so little. Perhaps if I am chosen one day I will travel and see it all.
+Player: carlin / thais / edron / venore
+Tesha: Those citites are so far away. So far that the enlightened preachings of our divine pharaoh cannot reach those poor misguided souls.
+Player: kazordoon / dwarves / dwarfes
+Tesha: Dwarves have a strong Akh. This makes them arrogant and deaf to the true creed.
+Player: ab'dendriel / elves / elfes
+Tesha: Most elves lack the sincerity to strive for ascension. At least that's what the priests are telling us.
+Player: mortality
+Tesha: Mortality can be overcome. It is a sickness, but it can be cured through undeath.
+Player: false gods
+Tesha: These greedy beings are trying to devour us all. May the pharaoh thwart their evil plans and free us from their reign of terror!
+Player: ascension
+Tesha: Oh, I am not asking for much, you know. I mean, I really don't have to be a god or something. All I wish for is a bit of the wisdom that comes with ascension.
+Player: akh
+Tesha: Our body. The only physical part of the Akh'rah Uthun.
+Player: rah
+Tesha: The Rah is our essence. The spiritual bond that keep the other parts of the Akh'rah Uthun together.
+Player: uthun
+Tesha: The Uthun is all we learned in life.
+Player: akh'rah uthun
+Tesha: I don't really understand this concept, but from what I know it is the three components that make up every being.
+Player: undead
+Tesha: Undeath is the reward for a life of faith and service.
+Player: mourn
+Tesha: The dead mourn our tempted existence, and we mourn ourselves.
+Player: temple
+Tesha: The temple can offer us guidance and solace in our mortal existence.
+Player: arena
+Tesha: Look for it in the eastern part of the city.
+Player: palace
+Tesha: Isn't the palace magnificent to behold? It is so impressive!
+Player: bye
+Tesha: May enlightenment be your path, Simula.
