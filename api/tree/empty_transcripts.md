@@ -138,8 +138,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oberon's Hate</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Oberon's_Hate.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oberon's Ire</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Oberon's_Ire.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oberon's Spite</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Oberon's_Spite.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Razachai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Razachai)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Izsh</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Razachai/Izsh.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Vengoth</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Garzon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/Garzon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Vengoth Mountain Caves</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves)  
