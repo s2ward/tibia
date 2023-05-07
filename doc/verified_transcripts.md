@@ -124,6 +124,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Prezil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Prezil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rabaz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Rabaz.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Razachai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Razachai)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Izsh</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Razachai/Izsh.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zlak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Razachai/Zlak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Spirittrails</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Spirittrails)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chartan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Spirittrails/Chartan.txt)  
