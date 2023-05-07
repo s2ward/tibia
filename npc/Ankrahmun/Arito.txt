@@ -2,16 +2,20 @@ Player: hi
 Arito: Be mourned, pilgrim in flesh. Be mourned in my tavern.  
 Player: name  
 Arito: My name is Arito.  
+Player: job  
+Arito: I'm the owner of this tavern. If you like to see my offers, ask me for a trade.  
+Player: time  
+Arito: It is exactly 6:55 am.  
 Player: tavern  
 Arito: This tavern is called the 'Old Scarab's Shell'. If you like to see my offers, ask me for a trade.  
 Player: trade  
 Arito: Sure, browse through my offers.  
-Player: job  
-Arito: I'm the owner of this tavern. If you like to see my offers, ask me for a trade.  
 Player: ankrahmun  
 Arito: Our city is a marvel. It is the envy of the whole world.  
 Player: darama  
 Arito: This is our continent. Ankrahmun is its biggest and most marvellous city.  
+Player: daraman
+Arito: I know little about his heretic teachings.
 Player: ferumbras  
 Arito: This servant of evil won't even dare to enter our city and to call the wrath of our Pharaoh upon him.  
 Player: pharaoh  
@@ -38,8 +42,6 @@ Player: drink
 Arito: Do you want beer, wine, lemonade, or water? Ask me for a trade to make your choice.  
 Player: carlin  
 Arito: Carlin is the twin sister of Thais. Another city that hasn't found the true path yet.  
-Player: time  
-Arito: It is exactly 6:55 am.  
 Player: nomad  
 Arito: I already told you my story and don't want to repeat it.  
 Player: excalibug  
