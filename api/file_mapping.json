@@ -68,12 +68,12 @@
         "Jean_Pierre": "EMPTY",
         "Jezzara": "VERIFIED",
         "Mal'ouquah": {
-            "Alesar": "EMPTY",
-            "Baa'Leal": "EMPTY",
-            "Malor": "EMPTY",
-            "Rata'Mari": "EMPTY",
-            "Ubaid": "EMPTY",
-            "Yaman": "EMPTY"
+            "Alesar": "VERIFIED",
+            "Baa'Leal": "VERIFIED",
+            "Malor": "VERIFIED",
+            "Rata'Mari": "VERIFIED",
+            "Ubaid": "VERIFIED",
+            "Yaman": "VERIFIED"
         },
         "Mehkesh": "VERIFIED",
         "Melchior": "VERIFIED",
@@ -177,13 +177,13 @@
     },
     "Darashia": {
         "Ashta'daramai": {
-            "Bo'Ques": "EMPTY",
-            "Djema": "EMPTY",
-            "Fa'Hradin": "EMPTY",
-            "Gabel": "EMPTY",
-            "Haroun": "EMPTY",
-            "Nah'Bob": "EMPTY",
-            "Umar": "EMPTY"
+            "Bo'Ques": "VERIFIED",
+            "Djema": "VERIFIED",
+            "Fa'Hradin": "VERIFIED",
+            "Gabel": "VERIFIED",
+            "Haroun": "VERIFIED",
+            "Nah'Bob": "VERIFIED",
+            "Umar": "VERIFIED"
         },
         "Asima": "EMPTY",
         "Azil": "EMPTY",
