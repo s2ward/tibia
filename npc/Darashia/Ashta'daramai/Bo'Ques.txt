@@ -1,0 +1,89 @@
+Bo'ques: Now, where was I?
+Player: hi
+Bo'ques: Hey! A human! What are you doing in my kitchen, Simula?
+Player: name
+Bo'ques: My name is Bo'ques. Perhaps you know my name from a restaurant guide.
+Player: job
+Bo'ques: I'm preparing the food for all djinns in Ashta'daramai. ...
+Bo'ques: Therefore, I'm what is commonly called a cook, although I do not like that word too much. It is vulgar. I prefer to call myself 'chef'.
+Player: human
+Bo'ques: I totally agree with Gabel that djinns and humans can learn from each other. ...
+Bo'ques: Take cooking, for example. It has such a long tradition among humans - even I could still learn a thing or two from the famous cooks at king Tibianus' court!
+Player: kitchen
+Bo'ques: I'm preparing the food for all djinns in Ashta'daramai. ...
+Bo'ques: Therefore, I'm what is commonly called a cook, although I do not like that word too much. It is vulgar. I prefer to call myself 'chef'.
+Player: food
+Bo'ques: I know many recipes for preparing the finest food on Darama and maybe even whole Tibia!
+Player: Ashta'daramai
+Bo'ques: That's our little fortress - our home. Nice, isn't it? I find it inspirational, although I find the culinary facilities could do with some improvements.
+Player: chef
+Bo'ques: Chef sounds nice, doesn't it? Well... I must admit I do not really know what it means, but it certainly sounds classy.
+Player: recipes
+Bo'ques: Thank you for helping me retrieve the recipes I was missing.
+Player: Tibia
+Bo'ques: It may be that this world is wide and full of adventure, but to be honest I'm not at all keen to see it myself. A comfortable lamp to sleep in and a well-equipped kitchen is all I need.
+Player: mal'ouquah
+Bo'ques: Ah yes. The Efreet's notorious fortress. I've never been there. That's no place for an artist such as myself.
+Player: kha'labal
+Bo'ques: Such a shame about that land. It wasn't always a desert, you know. That land was a garden, a veritable paradise. Just the thought of the fruit that used to grow there makes my mouth water <sighs>. Well, guess who messed it up.
+Player: kha'zeel
+Bo'ques: These mountains are a nice place to live in, but food-wise they are pretty lousy. We basically import everything we eat from the lowlands, trading them for magic trinkets and for gold. ...
+Bo'ques: The only plants that grow well in these mountains are potatoes, and they are not really my idea of Haute Cuisine.
+Player: edron / thais / venore / kazordoon / carlin / ab'dendriel
+Bo'ques: Ah, the northern cities. One day I will start an extensive culinary expedition there. I have this dream of writing some sort of culinary guide, you know. Isn't that a great idea?
+Player: ankrahmun
+Bo'ques: No djinn who is in his right state of mind would want to go there! What for? The land is ruled by an undead nut case, and from what I've heard his subjects are no better.
+Player: darashia
+Bo'ques: I've heard good things about this place. I understand the caliph is a true gourmet. People who eat good food can't be bad, that's what I say.
+Player: bo'ques
+Bo'ques: You want Bo'ques? Well, you've found him, I'd say.
+Player: king
+Bo'ques: Gabel used to be king, you know. I must confess I miss those days a bit because I was allowed to carry the title of his royal majesty's personal cook. Ah, those were the days.
+Player: gabel
+Bo'ques: He's my boss. A most loyal customer and a real con... conni... well, a man of taste, at any rate. His favourite dish is Scarabée au Vin served with onions and rice.
+Player: connoisseur
+Bo'ques: Yes! That's it! I have always trouble with pronouncing that damn word. A conno... conni... ah, hang it all!
+Player: djinn
+Bo'ques: That's our race. It has seen better days, you know. ...
+Bo'ques: It would have been better for us all if more djinns would share my interest in cooking. But no! Bashing each others' heads in is the only thing they are good at! Vandals and trogo ...trogli ... and cavemen, that's what they are!
+Player: efreet
+Bo'ques: A bunch of ignorants and primitives, that's what they are. You should see the things they eat! ...
+Bo'ques: You know they serve ketchup with just about every kind of meal! Ketchup! Oh, those barbarians.
+Player: marid
+Bo'ques: That's us - the loyalists who have remained faithful to Gabel and to good cooking.
+Player: human
+Bo'ques: I totally agree with Gabel that djinns and humans can learn from each other. ...
+Bo'ques: Take cooking, for example. It has such a long tradition among humans - even I could still learn a thing or two from the famous cooks at king Tibianus' court!
+Player: zathroth
+Bo'ques: That's a sad story, and like most djinns I dislike talking about it. Let's put it this way. Once there was a great cook who worked hard to prepare the finest meal of his life. ...
+Bo'ques: But when he found that the product of his efforts did not meet his expectations he just ditched it even though it was wonderfully unique in its own special way. ...
+Bo'ques: You know what I think? I think Zathroth was a bad cook.
+Player: daraman
+Bo'ques: Ah yes. That human WAS special, believe me. Did you know I talked to him myself, back in those days? In fact, I even had an argument with him because he dared to insult my work! He drove me mad when he called me a self-indulgent glutton. ...
+Bo'ques: But you know, eventually we came to respect each other! He taught me to stress quality rather than quantity, and he came to appreciate my 'Chilli con Cobra'. Today I know that having met him was a major step forward in my development as a culinary artist.
+Player: pharaoh
+Bo'ques: Apparently he is an undead! And what's worse, he actually chose that fate for himself! Undead! Imagine that! Never sleep, never laugh, and worst of all: Never eat!
+Player: melchior
+Bo'ques: Ah yes, the trader - right? I remember him. He used to travel the mountains with his mule. A tough haggler and a real scrooge, he was. I thought he had fallen down a cliff with all his money.
+Player: alesar
+Bo'ques: Ah - that guy. You probably don't know it, but nobody around here likes to hear that name. It brings back painful memories, you know. His betrayal was such a heavy blow to us. I think I will never understand what made him do it? It's a mystery.
+Player: fa'hradin
+Bo'ques: That djinn is so engrossed in his work! I constantly have to remind him to eat because if I didn't, he would simply forget. Forgetting to eat! Can you imagine that?
+Player: djema
+Bo'ques: Djema is a nice girl, but she eats so little. It's frustrating, really. Humans and their little stomachs!
+Player: war
+Bo'ques: I've never been much of a warrior, but I will storm into battle swinging my meat cleaver if necessary. We simply must win this war!
+Player: palace
+Bo'ques: Who would like to live in a palace if there is never the delicious smell of freshly prepared food! I wouldn't want to live there. Neither for love nor for money.
+Player: ascension
+Bo'ques: As far as I know that is one of the Pharaoh's crazy ideas. Just a load of nonsense.
+Player: akh / rah / uthun
+Bo'ques: Hm. Is that some exotic spice? Hang on, I know! It is a kind of lizard stew - right?
+Player: lamp
+Bo'ques: You would not believe it, but those lamps are actually quite comfy. And on top of that they are immensely practical! Did you ever try to put one of your beds into your pocket?
+Player: recipe
+Bo'ques: Thank you for helping me retrieve the recipes I was missing.
+Player: book
+Bo'ques: Thanks again, for bringing me that book!
+Player: bye
+Bo'ques: Goodbye. I'm sure you will come back for more. They all do.

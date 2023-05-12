@@ -1,0 +1,88 @@
+Player: hi
+Alesar: What do you want, Ahnimone?
+Player: name
+Alesar: My name is none of your business.
+Player: job
+Alesar: What does it look like, fool? I'm a smith! But I won't sell you anything until Malor orders me otherwise.
+Player: alesar
+Alesar: That's my name. So what!
+Player: wares
+Alesar: I sell and buy weapons, armors, helmets, legs, and shields. If you like to see my offers, ask me for a trade.
+Player: weapon
+Alesar: I sell and buy a lot of weapons. If you like to take a look, ask me for a trade.
+Player: shield
+Alesar: I am selling only ancient shields. But I buy tower shields, black shields, ancient shields and vampire shields. Just ask me for a trade.
+Player: armor
+Alesar: I am buying and selling dark armors. But I would also buy a knight armor from you. Just ask me for a trade.
+Player: helmet
+Alesar: I am buying and selling dark helmets. Furthermore I'm buying warrior helmets, strange helmets and mystic turbans. Just ask me for a trade.
+Player: trousers
+Alesar: At this time I'm only buying knight legs. Just ask me for a trade.
+Player: permission / trade
+Alesar: I won't sell you anything, human. Malor doesn't want me to trade with strangers.
+Player: king
+Alesar: We need a strong king to unite us in our struggle against the humans.
+Player: pharaoh
+Alesar: The Pharaoh in Ankrahmun is a dangerous fool. Just a typical human, in other words.
+Player: palace
+Alesar: So?
+Player: ascension / akh / rah / uthun
+Alesar: What are you talking about? More human pseudo-philosophical flapdoodle?
+Player: daraman
+Alesar: Don't you dare mention Daraman in my presence, human. I am through with his insidious lies and through with your accursed race!
+Player: gabel
+Alesar: Gabel is a kind-hearted, honest djinn. I would hate to see him die just because he believes in Daraman's lies. ...
+Alesar: After all, I believed them myself.
+Player: malor
+Alesar: Malor is overambitious and unnecessarily cruel, but he is the only djinn who could unite our race, so I follow him. ...
+Alesar: The truth is I despise him, but that is of no importance as long as you humans will be exterminated.
+Player: haroun
+Alesar: Haroun? What? You know ... where do you know that name from? Did he send you?
+Player: yes
+Alesar: Treacherous liar! You would not be here if you had really talked to him. Get out of my sight or I will test my latest sabre on you!
+Player: no
+Alesar: <sighs> Of course not. How could you ... Well, at least you are honest, human. I appreciate that.
+Player: zathroth
+Alesar: Legend has it that Zathroth was trying to make us beings of unalloyed evil, but he found us to be impure, so he abandoned us and started over. ...
+Alesar: It is not flattering to think we are nothing but examples of bad workmanship, but I see it from a different perspective: Since our god left us on our own it's up to ourselves to forge our destiny. ...
+Alesar: One day Zathroth will look at us in amazement.
+Player: melchior
+Alesar: I remember him. He was a greedy, double-dealing hyena. As far as I know his bleached bones are now lying somewhere in the Kha'labal.
+Player: djema
+Alesar: Djema? Well - I suppose she is the only human I still like. But she has been brought up by djinns. Who knows - perhaps humans can learn.
+Player: baa'leal
+Alesar: Baa'leal is Malor's lieutenant. Unflinchingly loyal, but not quite as clever as he thinks he is.
+Player: bo'ques
+Alesar: I miss Bo'ques' cooking, but not his pompous airs and graces.
+Player: fa'hradin
+Alesar: Fa'hradin, that old cynic is way too smart to believe in Daraman's lies. He should reconsider his loyalties.
+Player: mal'ouquah
+Alesar: I don't like this place. But then it does not really matter where I am. I have a forge and I don't see any humans. That's all I need. ...
+Alesar: Of course, your presence doesn't help me to feel myself at home here.
+Player: ashta'daramai
+Alesar: Ashta'daramai is Gabel's fortress which lies to the north. ...
+Alesar: Of course you cannot enter it through the front door. ...
+Alesar: But from my time there, I know that there is also an unguarded back door in the north of the fortress.
+Player: ashta'daramai
+Alesar: I used to live in Ashta'daramai. That was before I realised the extent of my blindness.
+Player: tibia
+Alesar: One day we djinns will rid this world of evil.
+Player: darashia / ankrahmun / edron / carlin / venore / thais / ab'dendriel
+Alesar: I don't care about human cities. If I had it my way, they would all be burnt down today.
+Player: kha'zeel
+Alesar: These mountains are our refuge from those pesky humans. Too bad there are always some who come up here anyway. You, for example.
+Player: kha'labal
+Alesar: The desert Kha'labal was once a beautiful land, but it was devastated in the course of the war. Damn humans! This is all your fault!
+Player: djinn
+Alesar: One day we will teach your race a lesson it will never forget.
+Player: efreet
+Alesar: The efreet are those djinns who never fell for Daraman's insidious propaganda. I wish I would have been as smart from the start. ...
+Alesar: But errors can be corrected!
+Player: marid
+Alesar: Those among my brothers and sisters who still do not see the truth call themselves the Marid. I used to be one of them, but I left them when the truth dawned upon me. ...
+Alesar: Now I follow Malor, although I would never fight against my kind.
+Player: scarab
+Alesar: I like them. They are peaceful, but if they are provoked they fight ferociously. And they are known to eat humans!
+Player: bye
+Alesar: Finally.
+Alesar: Humans...
