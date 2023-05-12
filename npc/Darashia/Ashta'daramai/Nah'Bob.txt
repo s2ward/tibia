@@ -1,0 +1,95 @@
+Player: hi
+Nah'bob: <Sighs> Another customer! I've only just sat down! What is it, Simula?
+Player: name
+Nah'bob: Well, my name is Nah'bob, but I don't like it. Just call me Bob.
+Player: job
+Nah'bob: I'm a trader, lady. You know... selling stuff, buying stuff... that kind of thing. Quite a hassle, actually. ...
+Nah'bob: If you have the permission to trade with us, check out my latest offers.
+Player: nah'bob
+Nah'bob: I don't like that name. Call me Bob.
+Player: bob
+Nah'bob: Yep, that's me.
+Player: permission
+Nah'bob: I am not allowed to trade with you unless Gabel gave you the permission to trade with us.
+Player: customer
+Nah'bob: My job around here is to buy and sell weapons, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Nah'bob: Yeah, yeah. Just browse through my wares.
+Player: gabel
+Nah'bob: He's the boss around here. You know - the big djinn. He's all right.
+Player: malor
+Nah'bob: Now THAT djnn really means stress. Too bad that doofus of an orc king freed him from his prison in the lamp. Gabel should have gotten rid of Malor for good when had the chance to do so.
+Player: daraman
+Nah'bob: Ah yes. Daraman. The old prophet. Well - he was all right, I guess. But I am not sure I agree with him on all matters. I mean - that thing about asceticism... I think he was a bit extreme there.
+Player: zathroth
+Nah'bob: They say Zathroth created us because he wanted us to be mindless, greedy killing machines. Well, I'm not so sure about some of the Efreet, but as for me I think he's done a lousy job.
+Player: pharaoh
+Nah'bob: The pharaoh? I have heard about that guy. That man is as mad as a march hare.
+Player: palace
+Nah'bob: The palace in Ankrahmun used to be a place of orgies and of all kinds of debauchery. Aah - those were the days...!
+Player: ascension
+Nah'bob: Yeah right. I don't know what it is about you humans. I have rarely met a human who did not have his head filled with some crazy religious idea.
+Player: melchior
+Nah'bob: Of course I remember old Melchior. He used to come up here regularly. Is he dead?
+Player: yes
+Nah'bob: Oh. Well, I suppose that is bad. For him, anyway.
+Player: no
+Nah'bob: So the old skinflint is still alive? Amazing! I could have sworn the Efreet knocked the stuffing out of him. No human can fool a djinn for long, you know.
+Player: alesar
+Nah'bob: I know Alesar. Ran off to the Efreet, didn't he? Weird story. Always used to be such fanatic followers of Daraman, he and his brother. ...
+Nah'bob: I guess that happens when you get all freaky about some silly idea. I'm sure that wouldn't have happened if he had taken a more relaxed approach to things. ...
+Nah'bob: I remember how I always told him to chill out. But he was stubborn as a headstrong donkey. Just like his brother.
+Player: brother
+Nah'bob: Haroun is Alesar's brother. Don't talk to him about it, though. Haroun may be a zealous fool, but he's all right. He has suffered enough.
+Player: haroun
+Nah'bob: Ah yes - Haroun. My esteemed fellow trader. Stiff like a butler and boring like a tax collector. He is a devout follower of Daraman, but I think he seriously misunderstood his teachings. ...
+Nah'bob: I don't think it was the old prophet's intention to rid this world of laughter and of smiles.
+Player: fa'hradin
+Nah'bob: I think Fa'hradin has stopped taking things too seriously long time ago. You just got to love the old cynic.
+Player: bo'ques
+Nah'bob: Honestly, if I did not have any other reason for hanging out here Bo'ques's cooking would make me stay.
+Player: djema
+Nah'bob: The little girl djema is bored out of her mind here so she often comes round. We've always had a barrel of laughs together, she and me - playing chess, telling stories, playing tricks on Haroun. ...
+Nah'bob: I really like her. I will miss her lots when she's gone. <clears his throat> Hey! Don't tell her I have said that, ok?
+Player: baa'leal
+Nah'bob: Baa'leal? Of course I remember old bulldog face. I wasn't surprised at all when I heard that he sided with Malor. Wasn't a great loss anyway. ...
+Nah'bob: He may be one mean djinn, but he is thicker than a senile ox. To think Malor made him his lieutenant <laughs>!
+Player: king
+Nah'bob: King? We do not have kings. Not anymore.
+Player: djinn
+Nah'bob: Yes, I am a djinn. How long did it take you to notice?
+Player: human
+Nah'bob: I have nothing against humans. ...
+Nah'bob: Sure, there are always those who want to steal from you. ...
+Nah'bob: Or blackmail you. ...
+Nah'bob: Or torture you. ...
+Nah'bob: Or just kill you for no reason. ...
+Nah'bob: But all in all I think humans are amusing little people.
+Player: scarab
+Nah'bob: Yuk! I wouldn't eat that!
+Player: efreet
+Nah'bob: The Efreet are a bunch of freaked out loonies, believe me. Nothing but 'war!' and 'domination!' and 'world rule!' all day long. Those people shoud chill out a bit.
+Player: marid
+Nah'bob: I guess I am one. I don't know why because I'm not really into all that Daraman stuff about ascetism, you know. ...
+Nah'bob: But then, I don't like the Efreets' gibberish about war and world domination, either. ...
+Nah'bob: In the end I chose the side which seemed more tolerant towards attitudes that are a bit... different. And that was clearly the Marid. ...
+Nah'bob: Besides, Bo'ques chose to side with Gabel. And I would have hated never to eat his cooking again. Did you ever try his Chat d'Aramignon?
+Player: tibia
+Nah'bob: It's a mad, mad world.
+Player: darashia
+Nah'bob: They say Darashia is full of relaxed people. To me that sounds like a good place to be.
+Player: ankrahmun
+Nah'bob: I know Ankrahmun - I've been there before. Lots of pyramids and stuff. Wicked.
+Player: edron / venore / thais / kazordoon / ab'dendriel
+Nah'bob: You are talking about some human place, aren't you?
+Player: ankrahmun
+Nah'bob: I know Ankrahmun - I've been there before. Lots of pyramids and stuff. Wicked.
+Player: kha'zeel
+Nah'bob: I like the Kha'zeel mountains. It is true they are boring as hell, but personally I don't mind boredom. I hate excitement. Whenever somebody said 'Oh-that's-gonna-be-so-exciting' some really, really bad thing happened.
+Player: kha'labal
+Nah'bob: Did you know that desert used to be fertile land? You should have seen it. It was all lush and verdant - a veritable paradise. ...
+Nah'bob: There were flowers and birds everywhere, and more delicious food anybody could ever eat. ...
+Nah'bob: But then that blockhead Baa'leal decided it was a good idea to burn it all down. Damn those stupid Efreet!
+Player: bye
+Nah'bob: Bye now, Simula. Visit old Bob again one day!
+Nah'bob: Bye then.

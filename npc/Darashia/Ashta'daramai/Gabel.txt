@@ -1,0 +1,91 @@
+Player: hi
+Gabel: Welcome, human Simula, to our humble abode.
+Player: name
+Gabel: I am known as Gabel. I have borne this name for as long as I remember, and believe me - that is quite some time.
+Player: gabel
+Gabel: I have often thought about changing this name because... Ah well <sighs>. Let us talk about more cheerful things.
+Player: job / welcome
+Gabel: I am the true leader of all djinn, both in worldly and in spiritual matters. <sighs> Unfortunately, there are those among my kind who disagree.
+Player: abode
+Gabel: This place is a gift of Daraman to the djinn people. Oh, he did not build it himself, of course. It was us Marid who did it. We erected it on the place where once stood my old palace. ...
+Gabel: Its serene majesty is a visual expression of the inner peace and light that are bestowed by the great Daraman's teachings.
+Player: permission
+Gabel: You are welcome to trade with Haroun and Nah'bob whenever you want to, Simula!
+Player: king / leader
+Gabel: Some call me a king, even though I do not like the title. Daraman has taught us to think little of worldly matters such as power or station in life.
+Player: gods
+Gabel: For a long time I found it difficult to love them. But Daraman has opened my eyes.
+Player: pharaoh
+Gabel: The new pharaoh seems to hold some very eccentric ideas about life and death. I have a feeling that his so-called teachings are nothing but an ignorant perversion of the true creed.
+Player: palace
+Gabel: Stay clear of that place. I have heard bad things about it.
+Player: temple
+Gabel: In these heretic times the temple is devoted to the teachings of that pompous pharaoh. I haven't been there for a long time.
+Player: ascension
+Gabel: Apparently, that is what the followers of the pharaoh are striving for. It has to do with his heretical teachings.
+Player: akh / rah / uthun
+Gabel: That's just some heretic drivel. Don't ask me about it.
+Player: war
+Gabel: We had thought the war was over for good when Malor was finally imprisoned. And now he is free again! How could it ever come so far. ...
+Gabel: But well - nothing is lost. I have no illusions about Malor's intentions, but I'm not afraid. We have beaten him once and we can beat him again!
+Player: malor
+Gabel: The accursed usurper is free! I can't believe it! To think that power-hungry cockroach is once again roaming the world! ...
+Gabel: I could forgive him his evil schemes if he had not led my people into this tragic fratricidal war!
+Player: daraman
+Gabel: Daraman may have been just a human, but he bore in him the spark of the divine. We have paid a heavy price for following his teachings, but I have never felt any regret for my decision.
+Player: zathroth
+Gabel: The name brings up painful memories. I'd rather not talk about this subject.
+Player: djema
+Gabel: Poor thing. She's an orphan you know. We took her to us when she was a child, and never regretted it. So fresh and lively - she has really brought some life to this place. ...
+Gabel: In a way it was an experiment, you see. A human living among djinn. I suppose it worked well, but perhaps too well. ...
+Gabel: Now she has grown on me, and I'm loath to let her go. <sighs> Sometimes I wonder if it was right to make her live in this place after all.
+Player: bo'ques
+Gabel: My good old cook. Of all worldly temptations his food is the greatest.
+Player: baa'leal
+Gabel: He is Malor's lieutenant and the commander-in-chief of all his minions. He is nothing without his master. Never stirred while Malor was gone.
+Player: alesar
+Gabel: Alesar... Alesar. You know, it pains me to even hear this name. When he left, I lost both my best smith and a personal friend. I don't know which is worse. ...
+Gabel: And the worst is, to this day I have never managed to figure out why he left. I refuse to believe that Malor could bribe him in any way. If only I knew.
+Player: fa'hradin
+Gabel: He is my trusted counsellor and friend. If you would like to help us you should talk to him. ...
+Gabel: By the way - don't worry if his behaviour appears a bit odd sometimes. He is incurably eccentric. Always has been. I think it is a job hazard of being a wizard.
+Player: fa'hradin lamp
+Gabel: Ah yes. This lamp was his masterpiece. It was so satisfying to see that dirty little schemer fall for a ploy himself. If only he'd never come back!
+Player: lamp
+Gabel: We djinn use them to sleep. Well, you may find it is a funny notion to sleep in a lamp, but then, for us it seems just as silly to sleep in a longish wooden construction with a fluffy mattress on top.
+Player: rata'mari
+Gabel: So you know about him. Hm. Since nobody else knows about him, Fa'Hradin must have told you. ...
+Gabel: I suppose he had his reasons, but I would appreciate it if you did not tell anybody about him. If Malor out found about him, he would start a little rat hunt I guess.
+Player: orc king
+Gabel: The power-hungry fool released Malor from his prison, and now the evil is upon us once again! He should have known better than to believe Malor's sugar-covered lies. ...
+Gabel: But what can you expect from a power-crazed, stupid-as-a-brick orc. Nothing but blockheads, the lot of them.
+Player: ashta'daramai
+Gabel: This place is a gift of Daraman to the djinn people. Oh, he did not build it himself, of course. It was us Marid who did it. We erected it on the place where once stood my old palace. ...
+Gabel: Its serene majesty is a visual expression of the inner peace and light that are bestowed by the great Daraman's teachings.
+Player: mal'ouquah
+Gabel: The Mal'ouquah is the Efreets' fortress. Malor built it when it was clear that the djinns had definitely split in two fractions. I will personally raze it to the ground once we have finally won this disastrous war!
+Player: kha'zeel
+Gabel: These majestic mountains were chosen by the gods as a vantage point from which they watched their creation.
+Player: kha'labal
+Gabel: Ah yes - that horrid desert. I still recall how beautiful it was back in the times before the struggle it began. It was a land full of song and bliss - a veritable paradise. But look at it now. <sighs> It is such a shame.
+Player: tibia
+Gabel: The world of Tibia is like a gemstone carved by the greatest of all craftsmen. It is sad that it took a human to make me realise its perfection.
+Player: darashia
+Gabel: Darashia was nothing but a forlorn pool of mud last time I passed there. I hear it has now risen to great wealth and glory. Perhaps the Caliph is more open to the true creed than that dangerous fool, the pharaoh of Ankrahmun.
+Player: edron / thais / venore / kazordoon / carlin / ab'dendriel
+Gabel: I have often heard of the splendid cities the humans have erected on the continent. I would like to visit them one day and send them a message of peace and friendship in the name of my people.
+Player: Ankrahmun
+Gabel: I haven't seen the venerable city in a long time. I would like to visit it again, but I can't help the feeling that I would not be welcome these days.
+Player: djinn
+Gabel: Once we were a mighty race. I like to think that one day we will return to our former glory, but as long as this tragic war is not won that is not likely to happen.
+Player: marid
+Gabel: We, the Marid, are the true inheritors of the djinn legacy. Those errant fools who call themselves the Efreet are nothing but usurpers.
+Player: efreet
+Gabel: Our fallen brethren claim they are different, but I have not given up hope yet that all djinn will be reunited one day! If only they saw the light!
+Player: scarab
+Gabel: The scarabs are ancient beings, as ancient as ourselves. We djinns feel a lot of respect for them.
+Player: human
+Gabel: For a long time, we have despised and oppressed your kind. I still feel ashamed for the things we have done in those dark days. The gods be praised that they sent Daraman to open our eyes. ...
+Gabel: I know that one day djinn and humans will live in peaceful co-existence.
+Player: bye
+Gabel: Farewell, stranger. May Uman open your mind and your heart to Daraman's wisdom!

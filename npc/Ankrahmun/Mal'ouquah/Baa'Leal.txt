@@ -1,0 +1,76 @@
+Player: hi
+Baa'leal: You are still alive, Ahnimone? Well, what do you want?
+Player: name / general
+Baa'leal: I'm general Baa'leal. What do you want in Mal'ouquah?
+Player: job
+Baa'leal: I'm commander-in-chief of the armed forces of the UDLA, all branches of service. ...
+Baa'leal: Hence I'm responsible for all operations in the enemy's territory.
+Player: UDLA
+Baa'leal: Yes. The United Djinn Liberation Army. ...
+Baa'leal: The title has been given to our valiant armed forces in order to stress both the revolutionary focus of our agenda and the universal nature of our political approach. ...
+Baa'leal: Don't ask me what that means. Wasn't my idea.
+Player: baa'leal
+Baa'leal: That is GENERAL Baa'leal for you, human.
+Player: mission / operation
+Baa'leal: Did you already talk to Alesar? He has another mission for you!
+Player: king
+Baa'leal: The UDLA does not serve a king because there isn't any. Of course, that is bound to change.
+Player: pharaoh
+Baa'leal: Ankrahmun's Pharaoh apparently believes himself to be some sort of god. Ah well. A solid blow with my scimitar will bring him back to earth soon enough!
+Player: palace
+Baa'leal: I suppose the palace is where the Pharaoh resides. I have a distinct feeling I shall see it burn rather soon.
+Player: ascension
+Baa'leal: Apparently, ascension is what the followers of the Pharaoh are after. No idea what exactly that is, though.
+Player: akh / rah / uthun
+Baa'leal: Spare me that pseudo-theological hogwash.
+Player: war
+Baa'leal: War is the father of things, and I live and breathe it. Ok, it's a tad bit silly that we are forced to fight against our own kind, but as a good soldier I will do my duty! <salutes> ...
+Baa'leal: And if I hear anybody talking about 'peace', he will be court-martialled and summarily executed! Or vice versa!
+Player: lamp
+Baa'leal: We sleep in those lamps. I like them - they are small and functional. We do not need cosy beds and fluffy duvets like decadent humans.
+Player: djinn
+Baa'leal: We are a race of warriors! We Efreet are destined to rule and to conquer.
+Player: efreet
+Baa'leal: We are the true djinn! We do not live in denial of our true nature like those damn liberals, the Marid.
+Player: marid
+Baa'leal: Nothing but a bunch of mealy-mouthed, mollycoddled wimps and milksops the lot of them. They may be superior in numbers, but we will win anyway because of our superior strategic thinking.
+Player: human
+Baa'leal: No offence, but your race is weak. You lack both the physical strength and the true warrior spirit. And worst of all, you have no strategic thinking.
+Player: scarab
+Baa'leal: Impressive animals. I have this idea of training them as battle steeds. Imagine this: Djinn mounted on scarabs! With a battalion of those I would crush the enemy in the blink of an eye!
+Player: gabel
+Baa'leal: He is weak. Much too weak to be our leader.
+Player: malor
+Baa'leal: Hail to our great leader!
+Player: zathroth
+Baa'leal: I understand he created us. Must have been a great general.
+Player: daraman
+Baa'leal: Damn that liberal peacenik, that treacherous mealy-mouthed double-faced good-for-nothing surrender monkey! ...
+Baa'leal: He has infected this proud people's minds with his peace-for-all blabber.
+Player: melchior
+Baa'leal: Melchior! I remember that greedy little civilian. I would have court-martialled him, but I suppose it is just as well the way it is.
+Player: alesar
+Baa'leal: Ah yes, Alesar! Excellent smith that man!
+Player: fa'hradin
+Baa'leal: He is Gabel's lieutenant and confidant. He is a powerful wizard, one has to admit that - and that's the only reason he is still alive. Without all his magical mumbo jumbo we would have won this war long ago.
+Player: mal'ouquah
+Baa'leal: At the moment Mal'ouquah is our headquarter. However, I'm already working on a cunning plan to move our base of operations deep into the enemy's territory.
+Player: ashta'daramai
+Baa'leal: Ashta'daramai is the enemy's base of operations. I am looking forward to the moment when we raise our flag there!
+Player: tibia
+Baa'leal: It is our mission to achieve total and decisive dominion of this world within two years. Well perhaps ... three. Always be realistic, that's what I say.
+Player: darashia
+Baa'leal: The humans living in the northern deserts used to be nomads. Even though they are just humans they used to be respectable fighters. ...
+Baa'leal: However, now that they are living in this city, they have grown fat and decadent. They will be easy prey.
+Player: ankrahmun
+Baa'leal: That old city has some impressive defensive structures. But I swear I will bring it down one day... I have a cunning plan already! ...
+Baa'leal: I am thinking of a huge wooden camel.
+Player: edron / thais / venore / carlin / kazordoon / ab'dendriel
+Baa'leal: They say the humans have built some big cities over there. I'm looking forward to see them burn.
+Player: kha'zeel
+Baa'leal: It was an excellent idea to build our headquarter in the mountains of Kha'zeel. Easy to defend, you know. Too bad the enemy had the same idea.
+Player: kha'labal
+Baa'leal: Kha'labal? Yes, it was me who devastated it. Couldn't leave it to the enemy, you see? We had to destroy it in order to save it!
+Player: bye
+Baa'leal: Stand down, soldier!
+Baa'leal: Hail Malor!

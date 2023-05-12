@@ -1,0 +1,87 @@
+Player: hi / djanni'hah
+Umar: Simula! How's it going these days? What brings you here?
+Player: name
+Umar: I am Umar. Pleased to meet you!
+Player: job
+Umar: I am the gatekeeper of Ashta'daramai. That's what Gabel told me to do. You know - keeping the courtyard clean, getting rid of salesmen, keeping Efreet vermin out... that kind of thing. But in my spare time I work as a part-time philosopher.
+Player: philosopher
+Umar: Yes. Comes with the job. You see - here I am, sitting on the same chair all day and staring at the same blank wall. So what happens is that my mind starts wandering. And, you know, I start thinking. You know - about all kinds of things.
+Player: things
+Umar: Yes. About the world and the gods and all that. And about girls. Yes, about girls, mostly.
+Player: girls
+Umar: You did not know there are female djinns, did you? That's because they are quite rare. They are the greatest treasures of our race, and we guard them jealously.
+Player: gatekeeper
+Umar: You already have the permission to enter Ashta'daramai.
+Player: gate / pass / door / enter / follow
+Umar: You already have the permission to enter Ashta'daramai.
+Player: ashta'daramai
+Umar: This place is the Marid's safe haven. No enemy has ever managed to take this fortress by assault, and we will see to it that it stays this way.
+Player: mal'ouquah
+Umar: That is the Efreet's fortress. I have never seen it, but I'm sure it can't compare to this place.
+Player: kha'zeel
+Umar: When I look up from my wall, what do I see? Huge, forbidding mountains! No wonder I feel claustrophobic.
+Player: kha'labal
+Umar: Ah yes - the desert. I still remember how beautiful that land was back in the days before the war. ...
+Umar: A land full of song and bliss it was - a veritable paradise. Fa'hradin once said its destruction was a supreme example of the transitoriness of all things mortal. ...
+Umar: I am not sure I agree because I don't know what 'transitoriness' means.
+Player: tibia
+Umar: Tibia is a beautiful world. Not that I see much of it, staring at this wall night and day.
+Player: darashia
+Umar: They say Darashia is a beautiful human city somewhere to the north. I would really love to see it, but I can't abandon my post.
+Player: edron / thais / venore / kazordoon / carlin / ab'dendriel
+Umar: I understand the humans have founded some beautiful cities. I would like to see them, but as long as I have to stay here that won't happen. Which means I will not go anywhere as long as the war goes on.
+Player: ankrahmun
+Umar: I was there, long ago. We had a garrison based in Ankrahmun during the early phases of the war. That was before the whole plains of the Kha'labal were set on fire.
+Player: gabel
+Umar: He is our king and leader. Well, he isn't a king, you know. I mean, from a technical point of view he is, but he does not wear a crown or anything. And he says he isn't one, so even though he is one, he isn't, right?
+Player: malor
+Umar: Malor is evil. I mean - really evil. Things used to be much better when he was still locked away in that lamp.
+Player: fa'hradin
+Umar: Fa'hradin is a powerful wizard and the smartest djinn I know. I love talking to him because there is so much he can teach me, but he rarely has time for me.
+Player: alesar
+Umar: Ah. That guy. He was one of us, a Marid, but he left long ago. I have no idea why. Rumours and hearsay is all I ever get.
+Player: bo'ques
+Umar: That fat old cook. I like his food, but I find him a bit boring. Food and cooking is all he ever talks about.
+Player: djema
+Umar: You know her? She's a human like you. I like her lots because she often comes down here for a chat. Nobody else around here does that.
+Player: dwarf
+Umar: Yes. Consider this: Dwarfs live in the mountains. So do I. And just like dwarfs I really like gold. But most of all, dwarfs like beer. ...
+Umar: Isn't that amazing? I think that is more than a coincidence. You know - perhaps I am a reincarnated dwarf or something. You never know.
+Player: human
+Umar: See. That's another problem. In the past, it was us against you - djinn against humans. But one day this guy came along, and all of a sudden things were so much more complicated. ...
+Umar: All of a sudden there was good djinn and evil djinn, and good humans and evil humans. Everything got so damn complicated. ...
+Umar: All of a sudden we did not know who to trust and who to fight. Should we join the evil djnn and battle all humans? ...
+Umar: Or was it smarter to ally with the good humans and to battle the bad djinn? ...
+Umar: Perhaps we should join nobody and fight the bad humans? So many choices.
+Player: djinn
+Umar: Well, I am a djinn, but only as far as my physical aspect is concerned. As far as my way of thinking is concerned, I think I might actually be somebody else. You now - not even a djinn. In fact, I think I might be a dwarf.
+Player: efreet
+Umar: I have thought long and hard about this and I have come to the conclusion that all Efreet are vermin.
+Player: marid
+Umar: That's us. I suppose we are the good guys in this war. Although good is relative, of course. So let's say, we are relatively good. Depends on the point of view, really.
+Player: lamp
+Umar: Djinns sleep in lamps. I don't know what is so special about that.
+Player: war
+Umar: We had thought the war was over for good when Malor was finally imprisoned. That little creep is as obstinate as... as... well, as a really obstinate djinn.
+Player: gods
+Umar: I have not made my mind up what to think about the gods yet. I am still struggling with Daraman's teachings.
+Player: daraman
+Umar: Daraman has changed our lives. I mean, we were not stupid or anything before he came, but still it was different. Fa'hradin says that while Zathroth made us intelligent, Daraman made us think.
+Player: zathroth
+Umar: Zathroth is not very popular among the djinns because it is said that he abandoned us even though he was our creator. Legend has it that we failed to meet his expectations. ...
+Umar: Fa'hradin once said that all djinns are oedipally traumatised because of this, but I have no idea what he is talking about
+Player: scarab
+Umar: I don't care whether or not they are special animals. None of that creeping vermin will enter Ashta'daramai as long as I am here!
+Player: pharaoh
+Umar: They say the new Pharaoh is mad!
+Player: palace
+Umar: I remember the palace. It was a beautiful place. Ah... those were happy days.
+Player: temple
+Umar: In these heretic times the priests at Ankrahmun's temple are devoted to the teachings of that pompous Pharaoh.
+Player: ascension
+Umar: Apparently that is what the followers of the Pharaoh are striving for. It has to do with that Pharaoh's teachings.
+Player: akh / rah / uthun / akh'rah uthun
+Umar: That's just some heretic drivel. Don't ask me about it.
+Player: bye
+Umar: <salutes>Aaaa -tention!
+Umar: Back to work.
