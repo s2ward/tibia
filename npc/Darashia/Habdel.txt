@@ -1,0 +1,23 @@
+Habdel: Weapons as lethal as the bite of the desert lion and as quick as the sandwasp!
+Player: hi
+Habdel: Welcome Simula! See the fine weapons I sell.
+Player: name
+Habdel: My name is Habdel Ibn Haqui.
+Player: job
+Habdel: I sell weapons that are as lethal as the bite of the desertlion and as quick as the sandwasp.
+Player: time
+Habdel: Don't worry, there is enough time left to finish our deal.
+Player: offer / weapon / armor / shield / helmet / trousers / legs
+Habdel: I sell the finest weapons in town. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Habdel: Of course, just browse through my wares.
+Player: help
+Habdel: I sell and buy weapons. Just ask what you need or tell me what you offer.
+Player: monster
+Habdel: With my weapons you have to fear the monsters no longer and you will brave any danger or dungeon!
+Player: drefia
+Habdel: Even the undead will fall a second time for the weapons you buy from me.
+Player: thanks
+Habdel: You are welcome.
+Player: bye
+Habdel: Good bye. Come back soon.

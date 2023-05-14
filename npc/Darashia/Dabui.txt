@@ -1,0 +1,34 @@
+Player: hi
+Dabui: Daraman's blessings! Welcome to Darashia.
+Player: job
+Dabui: I am a protector of the people of Darashia.
+Player: news
+Dabui: The evil of Drefia is strong these days.
+Player: caliph / kazzan
+Dabui: Our leader is enlightened by Daraman, thrice praised be his name!
+Player: Darashia
+Dabui: This city is lovely Darashia, pearl of Darama.
+Player: Darama
+Dabui: Darashia is the heart of Darama. In the northeast, across the Devourer, there is the dark pyramid. In the west, across the Plague Spike, are the cursed ruins of Drefia.
+Player: Devourer
+Dabui: The great desert devoured many of the first pilgrims. We learned the ways of the devourer and thus conquered it.
+Player: pyramid
+Dabui: The minotaurs took shelter in the ancient pyramid, which our people avoid for the dark powers that might be present there.
+Player: Plague Spike
+Dabui: Mountain of Poison, Scorpions Rock, it's known by many names. It's to the west of Darashia.
+Player: Drefia
+Dabui: The ruins of Drefia in the far west are the hideout of the vile necromancer cult that once corrupted this city.
+Player: pilgrimage
+Dabui: Darama led his people on a pilgrimage to the holy lands of Darama to escape temptations and distractions.
+Player: daraman
+Dabui: The ancient prophet brought our people here from a place long forgotten.
+Player: sell / buy
+Dabui: Go to the bazaar in the middle of the town.
+Player: amulet
+Dabui: Ishina sells amulets and other valuables at the market place!
+Player: guard
+Dabui: This information is confidential.
+Player: <swear>
+Dabui: Take this!
+Player: bye
+Dabui: Daraman's blessings!

@@ -1,0 +1,18 @@
+Muzir: Welcome to the Tibian Bank, Laoson Lenko! Daraman's blessings.
+Muzir: Leave your money in the bank during your hunt - trust me, it's safer that way.
+Player: hi
+Muzir: Welcome to the Tibian Bank, Simula! Daraman's blessings.
+Player: name
+Muzir: I am Muzir.
+Player: job
+Muzir: I am honoured to be the grandwezir of the caliph. I can also help you with bank business.
+Player: time
+Muzir: It is exactly 9:36 am.
+Player: caliph
+Muzir: I am caretaker for the fortune of our beloved and wise caliph.
+Player: daraman
+Muzir: I take it upon me to involve myself with worldly issues for the prosperity of our community. I hope the taint of wealth does not harm my soul too much.
+Player: wezir / wealth
+Muzir: I am responsible for the wealth of our beloved and wise caliph. I can also change money for you.
+Player: bye
+Muzir: Daraman's blessings
