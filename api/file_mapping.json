@@ -185,16 +185,16 @@
             "Nah'Bob": "VERIFIED",
             "Umar": "VERIFIED"
         },
-        "Asima": "EMPTY",
-        "Azil": "EMPTY",
+        "Asima": "VERIFIED",
+        "Azil": "VERIFIED",
         "Balduin_The_Baker": "UNVERIFIED",
         "Bozarn": "UNVERIFIED",
         "Casper": "UNVERIFIED",
         "Caverna_Exanima": {
             "Angelo": "EMPTY"
         },
-        "Chemar": "EMPTY",
-        "Dabui": "EMPTY",
+        "Chemar": "VERIFIED",
+        "Dabui": "VERIFIED",
         "Deeper_Drefia": {
             "Elyen_Ravenlock": "VERIFIED",
             "Oblivion": "VERIFIED",
@@ -208,35 +208,35 @@
         "Drefia_Spirit_Grounds": {
             "The_Gate_Keeper": "VERIFIED"
         },
-        "Edoch": "EMPTY",
-        "Fadil": "EMPTY",
+        "Edoch": "VERIFIED",
+        "Fadil": "VERIFIED",
         "Guide_Behil": "EMPTY",
-        "Habdel": "EMPTY",
-        "Halif": "EMPTY",
+        "Habdel": "VERIFIED",
+        "Halif": "VERIFIED",
         "Hofech": "VERIFIED",
         "Hyaena_Lairs": {
             "A_Skull": "EMPTY",
             "Rhargu": "EMPTY"
         },
-        "Ishina": "EMPTY",
-        "Kasmir": "UNVERIFIED",
+        "Ishina": "VERIFIED",
+        "Kasmir": "VERIFIED",
         "Kazzan": "UNVERIFIED",
         "Lion_Sanctum": {
             "Heliodor": "EMPTY"
         },
         "Mazarius": "VERIFIED",
-        "Miraia": "EMPTY",
-        "Morun": "EMPTY",
-        "Mugluf": "EMPTY",
-        "Muzir": "EMPTY",
+        "Miraia": "VERIFIED",
+        "Morun": "VERIFIED",
+        "Mugluf": "VERIFIED",
+        "Muzir": "VERIFIED",
         "Northern_Darama_Desert": {
             "Muhad": "VERIFIED"
         },
         "Omrabas": "VERIFIED",
-        "Omur": "EMPTY",
-        "Petros": "EMPTY",
-        "Razan": "EMPTY",
-        "Shalmar": "EMPTY"
+        "Omur": "VERIFIED",
+        "Petros": "VERIFIED",
+        "Razan": "VERIFIED",
+        "Shalmar": "VERIFIED"
     },
     "Dawnport": {
         "Captain_Dreadnought": "VERIFIED",
