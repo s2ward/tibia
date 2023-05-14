@@ -1,0 +1,30 @@
+Player: hi
+Morun: Daraman's blessings! Welcome to Darashia.
+Player: job
+Morun: I am a protector of the people of Darashia.
+Player: news
+Morun: The evil of Drefia is strong these days.
+Player: guard
+Morun: This information is confidential.
+Player: buy
+Morun: Go to the bazaar in the middle of the town.
+Player: caliph
+Morun: Our leader is enlightened by Daraman, thrice praised be his name!
+Player: Daraman
+Morun: The ancient prophet brought our people here from a place long forgotten.
+Player: darashia
+Morun: This city is lovely Darashia, pearl of Darama.
+Player: Darama
+Morun: Darashia is the heart of Darama. In the northeast, across the Devourer, there is the dark pyramid. In the west, across the Plague Spike, are the cursed ruins of Drefia.
+Player: Devourer
+Morun: The great desert devoured many of the first pilgrims. We learned the ways of the devourer and thus conquered it.
+Player: pyramid
+Morun: The minotaurs took shelter in the ancient pyramid, which our people avoid for the dark powers that might be present there.
+Player: Plague Spike
+Morun: Mountain of Poison, Scorpions Rock, it's known by many names. It's to the west of Darashia.
+Player: Drefia
+Morun: The ruins of Drefia in the far west are the hideout of the vile necromancer cult that once corrupted this city.
+Player: amulet
+Morun: Ishina sells amulets and other valuables at the market place!
+Player: bye
+Morun: Daraman's blessings!

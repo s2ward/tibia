@@ -1,0 +1,41 @@
+Player: hi
+Razan: Greetings Simula. What leads you to me? Looking for paladin or knight spells, perhaps?
+Player: name
+Razan: Razan ... Razan Ibn Rublai.
+Player: job
+Razan: I am the weaponmaster of Caliph Kazzan the great.
+Player: time
+Razan: You are talking of what you are wasting right now?
+Player: caliph
+Razan: We owe Caliph Kazzan our loyality and gratitude, thrice praised be his name.
+Player: shalmar
+Razan: He is competent. That's fine enough for a mage.
+Player: djinn
+Razan: Some people in Darashia rely to much on the services of these creatures. I wonder if they keep the path in mind.
+Player: path
+Razan: The path of enlightenment, leading to ascension as taught to us by Daraman.
+Player: Daraman
+Razan: Better talk to Kasmir about that.
+Player: ferumbras
+Razan: Maybe a worthy opponent, but probably only another of these spellcasting cowards.
+Player: excalibug
+Razan: The skill should make a fighter strong, not the weapon.
+Player: army / guards
+Razan: This information is confidential.
+Player: kasmir
+Razan: You will find him in the Muhayin, the sacred tower of meditation.
+Player: news
+Razan: I don't care for rumours but for facts.
+Player: weaponmaster
+Razan: I mastered the arts of close combat and distance fight alike. I teach both paladins and knights in their ways.
+Player: tibia
+Razan: The world is a dangerous place for body and for soul.
+Player: knight
+Razan: The way of the warrior is not that different from the way to ascension.
+Player: spellbook
+Razan: In a spellbook, your spells are listed. There you will find the pronunciation of each spell. Rely more on your skills, though.
+Player: spell
+Razan: Sorry, I don't teach spells for your vocation.
+Player: bye
+Razan: Daraman's blessings, Simula.
+Razan: Daraman's blessings.

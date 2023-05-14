@@ -1,15 +1,15 @@
 Player: hi  
 Hofech: Welcome Player! Have a look at my wares, my friend.  
-Player: trade  
-Hofech: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?  
-Player: type  
-Hofech: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?  
 Player: name  
 Hofech: I am Hofech Ibn Kalith.  
 Player: job  
 Hofech: I am selling furniture and equipment to grace the homes.  
 Player: time  
 Hofech: It's 9:11 pm my friend.  
+Player: trade  
+Hofech: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?  
+Player: type  
+Hofech: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?  
 Player: daraman  
 Hofech: The prophet is alive! Both in the heavens and in our our hearts.  
 Player: excalibug  
@@ -31,4 +31,4 @@ Hofech: The caliph has the finest home and interior decoration in Darashia.
 Player: daraman  
 Hofech: The prophet is alive! Both in the heavens and in our our hearts.  
 Player: bye  
-Hofech: Daraman's blessings, Player.  
+Hofech: Daraman's blessings, Player. 

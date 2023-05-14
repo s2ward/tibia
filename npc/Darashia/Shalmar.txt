@@ -1,0 +1,32 @@
+Player: hi
+Shalmar: Daraman's blessings, Simula. If you'd like to learn sorcerer or druid spells, let me know.
+Player: name
+Shalmar: I am Shalmar Ibn Djinbar, the caliph's magician and astrologer.
+Player: job
+Shalmar: I teach magic spells to the worthy.
+Player: time
+Shalmar: It's 5:20 am right now.
+Player: offers
+Shalmar: I'm teaching spells to sorcerers and druids. I also used to sell magic goods, but my assistant Asima in the next room does that for me now.
+Player: rune
+Shalmar: I don't sell this anymore, it sort of kept on confusing me to do that much work. Please talk to my assistant Asima in the next room to purchase magic goods.
+Player: caliph
+Shalmar: The caliph has the strong soul needed to guide his people.
+Player: ferumbras
+Shalmar: His weakness is evident by the rotting of his soul.
+Player: excalibug
+Shalmar: A strong mind and a pure soul has no need for such items.
+Player: thais
+Shalmar: It's a city of souls who failed to see the need of ascension.
+Player: tibia
+Shalmar: The world is filled with wonderous places and items.
+Player: carlin
+Shalmar: I heard it's a city of druids.
+Player: ascension
+Shalmar: Talk to Kasmir about that issue. It's not my place to pose as a teacher since I am a student, too.
+Player: news / rumor / rumour
+Shalmar: News are distractions. Nothing of importance happens outside your own soul.
+Player: sorcerer / druid
+Shalmar: The way of the magician is not that different from the way to ascension.
+Player: bye
+Shalmar: Daraman's blessings.

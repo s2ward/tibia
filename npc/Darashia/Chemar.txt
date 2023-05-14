@@ -1,0 +1,36 @@
+Player: hi
+Chemar: Ah, the wind brings in another visitor. Feel welcome Simula. Where do you want me to fly you? Or do you need my mail service?
+Player: name
+Chemar: My name is Chemar Ibn Kalith.
+Player: job
+Chemar: I'm a licensed carpet pilot and responsible for the Darashian airmail. I can bring you to the Femor Hills, Edron, Svargrond, Issavi and Marapur, and I sell letters and parcels.
+Player: time
+Chemar: It's 3:00 pm, precisely.
+Player: caliph
+Chemar: The caliph depends heavily on his carpet fleet to carry on commerce and for war alike.
+Player: daraman
+Chemar: The prophet of our people; praised be his name.
+Player: ferumbras
+Chemar: This scourge might have connections to the evil souls in Drefia.
+Player: excalibug
+Chemar: I've been almost everywhere in the world, and I believe it's only a myth.
+Player: drefia
+Chemar: A big city existed in the western part. However, the people there incurred the wrath of the djinns which led to the destruction of the city Drefia.
+Player: thais
+Chemar: Thais is a good example to show what happens to people if they forget the teachings of Daraman.
+Player: carlin
+Chemar: That city is getting noisier and more crowded with each month.
+Player: news / rumor / rumour
+Chemar: Our carpet pilots bring in too many news to recall them all.
+Player: passage / fly / go / transport / tibia / ride / trip
+Chemar: I can fly you to the Femor Hills, to Edron, to Kazordoon, to Zao, to Svargrond, to Issavi and to Marapur if you like. Where do you want to go?
+Player: femur
+Chemar: Are you sure that you are not talking about the FEMOR Hills?
+Player: flying carpet
+Chemar: Do you want to buy a flying carpet for 5000 platinum coins?
+Player: yes
+Chemar: Oh, I'm sorry, but you don't have a pilot licence.
+Player: no
+Chemar: Maybe another day then, my friend.
+Player: bye
+Chemar: Daraman's blessings!

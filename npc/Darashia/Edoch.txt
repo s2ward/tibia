@@ -1,0 +1,19 @@
+Edoch: Have you run out of ammunition? Come to my store.
+Player: hi
+Edoch: Daraman's blessings, Simula. If you need distance weapons or ammunition, let me know.
+Player: name
+Edoch: I am Edoch Ibn Ibrach.
+Player: job
+Edoch: I am nothing but a humble fletcher. I am selling bows, crossbows, and ammunition. Do you need any of these? Just ask for my offers.
+Player: time
+Edoch: You surely can buy a watch somewhere on this bazaar.
+Player: offers
+Edoch: My offers are bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Edoch: Of course, just browse through my wares.
+Player: tibia
+Edoch: The world is vast and dangerous. Better prepare yourself with a bow before you travel out there.
+Player: thais
+Edoch: I was there once to learn about their ways. Needless to say I was horrified and returned to Darashia as soon as possible.
+Player: bye
+Edoch: Daraman's blessings, traveller.

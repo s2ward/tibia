@@ -1,0 +1,35 @@
+Player: hi
+Asima: Daraman's blessings, Simula. If you need magical equipment, just ask me for a trade.
+Player: name
+Asima: I'm Asima, student of arcane magic and right hand of Shalmar.
+Player: job
+Asima: Shalmar's ears and eyesight have gotten really bad lately. I'm helping him with his magic store so he can focus on teaching spells.
+Player: time
+Asima: It's 12:19 am right now.
+Player: offers
+Asima: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you like to see my offers, ask me for a trade.
+Player: trade
+Asima: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?
+Player: caliph
+Asima: Although we maintain a modest form of luxury here, the caliph is a humble and meek man who does not care about such things.
+Player: shalmar
+Asima: My master is old and wise. It's a privilege to be his assistant.
+Player: luxury
+Asima: Luxury is a burden, but it provides us with a bit more time to concentrate on ourselves. It's important to strengthen the spirit against greed and vanity if you allow yourself some sort of luxury.
+Player: drefia
+Asima: Drefia was a city of sin and violence. Nobody knows whether the city was destroyed by djinns, the gods, an experiment that went wrong or an inhabitant that went mad ...
+Asima: However, the city was destroyed and all what is left are some ruins. But Drefia is still evil ...
+Asima: The ruins are haunted by undead and evil cultists of all kind. I foresee great evil arising from the remains of Drefia one day.
+Player: darashia
+Asima: Darashia is a very spiritual place. Life there can be hard sometimes, but this is just what lets our spirit grow.
+Player: magic
+Asima: Magic can be a great help but also a great temptation. Gladly Daraman's teachings help us to resist such temptations.
+Player: temptations
+Asima: The power of magic can be a destructive attraction for the weak ones. Before you know it, you don't control magic anymore, but magic controls you.
+Player: daraman
+Asima: The prophet Daraman enlightened our forefathers and founded a philosophy that guided our community.
+Player: prophet
+Asima: Daraman foresaw that we need to abandon comfort and luxury and concentrate on ourselves ...
+Asima: Of course it is hard to follow his teachings all the time, but we give our best.
+Player: bye
+Asima: Daraman's blessings, Simula.
