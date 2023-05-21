@@ -194,7 +194,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grumpy Stone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grumpy_Stone.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Kazordoon Dwarf Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Kazordoon_Dwarf_Mines)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Basilisk</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Kazordoon_Dwarf_Mines/Basilisk.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Storkus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Storkus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Too Hot To Handle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomevisor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle/Gnomevisor.txt)  
 ├─&nbsp;&nbsp;<strong>Krailos</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Krailos)  
