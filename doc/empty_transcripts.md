@@ -88,8 +88,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Corrupted Gardens</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gate Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens/Gate_Guardian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Crowned Tree</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Crowned_Tree.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dragonblaze Peaks</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Dragonblaze_Peaks)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ztiss</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Dragonblaze_Peaks/Ztiss.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zizzle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Zizzle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
