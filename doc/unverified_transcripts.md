@@ -45,7 +45,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Padreia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Padreia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Penny</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Penny.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Phillip</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Phillip.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Queen Eloise</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Queen_Eloise.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sarina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Sarina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Senja</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Scott</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja/Scott.txt)  
