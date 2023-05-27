@@ -247,7 +247,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Allen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Allen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Borkas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Borkas.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chatterbone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chatterbone.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chephan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chephan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dagomir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dagomir.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Demon_Mother.txt)  
