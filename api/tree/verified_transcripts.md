@@ -149,6 +149,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Telas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Telas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Telas Golem</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Telas_Golem.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tereban</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Tereban.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Thaian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/The_Thaian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Wyrdin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Wyrdin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Zarganash</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zarganash)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Flickering Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zarganash/Flickering_Soul.txt)  
