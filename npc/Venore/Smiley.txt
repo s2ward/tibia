@@ -1,0 +1,34 @@
+Player: hi
+Smiley: ... Greeeeeetiiiingssss...Traaaade?
+Player: name
+Smiley: ... Smiley
+Player: job
+Smiley: ... Selling Spells
+Player: time
+Smiley: ... Time?... Not important... anymore.
+Player: market
+Smiley: ... You buy?
+Player: news
+Smiley: ... more spells...
+Player: king
+Smiley: ...
+Player: vladruc urghain
+Smiley: ... Maaaaassssterrrrr
+Player: ferumbras
+Smiley: ... un...important
+Player: excalibug
+Smiley: ... only sell spells...
+Player: sorcerer
+Smiley: ... Ask Chatterbone?
+Player: druid
+Smiley: ... You... buy spells?
+Player: spellbook
+Smiley: I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.
+Player: rune
+Smiley: ... Runes... mighty stones... other counter...
+Player: Traaaade
+Smiley: ... Selling Spells
+Player: Spells
+Smiley: ... Only druids...
+Player: bye
+Smiley: ... Good... Bye
