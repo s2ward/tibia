@@ -580,9 +580,7 @@
             "Gnomailion": "VERIFIED",
             "Gnomally": "VERIFIED",
             "Gnomaticus": "VERIFIED",
-            "Gnomegate Golem Workshop": {
-                "Gnomenezer ": "UNVERIFIED"
-            },
+            "Gnomenezer": "VERIFIED",
             "Gnomegica": "VERIFIED",
             "Gnomejam": "VERIFIED",
             "Gnomelvis": "VERIFIED",
@@ -942,7 +940,6 @@
         "Zerbrus": "VERIFIED"
     },
     "Roshamuul": {
-        "...": "EMPTY",
         "Abandoned_Headquarters": {
             "Glimpse_of_Allusion": "EMPTY",
             "WOX": "EMPTY",
@@ -1173,6 +1170,7 @@
         "Xodet": "VERIFIED"
     },
     "Various": {
+        "...": "EMPTY",
         "Dread_Guardian": "UNVERIFIED",
         "Kizar": "UNVERIFIED",
         "Lora": "VERIFIED",
