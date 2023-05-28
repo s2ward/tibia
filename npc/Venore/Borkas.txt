@@ -10,7 +10,7 @@ Player: offer / buy / sell / goods / equipment
 Borkas: Well, as you can see, we sell containers. Ask me for a trade if you're interested.
 Player: allen richardson
 Borkas: He's my boss but he likes to be one of us and sells some of the wares himself.
-Player: thank you
+Player: thank you 
 Borkas: No prob.
 Player: bye
 Borkas: Thanks and see ya.

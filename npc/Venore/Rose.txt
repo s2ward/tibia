@@ -7,7 +7,7 @@ Player: job
 Rose: Here you may buy some of the most beautiful flowers.
 Player: time
 Rose: Sorry, I have no watch on me.
-Player: offer / flowers / goods
+Player: offer / flowers / goods / plants
 Rose: I am selling beautiful flowers here. Just ask me for a trade if you'd like to see them!
 Player: trade
 Rose: Of course, just browse through my wares.

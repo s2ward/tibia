@@ -5,7 +5,7 @@ Yulas: I am Yulas. I will be your salesperson today.
 Player: job
 Yulas: We are into home improvement.
 Player: time
-Yulas: It's 7:38 am, my lady.
+Yulas: It's 7:38 am, my lady. 
 Player: offer / goods / furniture / equipment
 Yulas: We sell furniture and equipment. At this counter you can buy tables. Ask me for a trade if you're interested to see my wares.
 Player: trade

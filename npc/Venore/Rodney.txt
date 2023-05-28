@@ -5,7 +5,7 @@ Rodney: My name is Rodney.
 Player: job
 Rodney: I sell some local fruits.
 Player: time
-Rodney: It is 8:04 am right now.
+Rodney: It is 8:04 am right now. 
 Player: fruits / offer / food
 Rodney: I have apples, cherries, grapes, plums, raspberries and pears. Ask me for a trade if you're interested.
 Player: trade
