@@ -1,15 +1,15 @@
 Player: hi  
 Talesia: Salutation, Player! What brings you to Crunor's Finest Warehouse?  
+Player: Crunor  
+Talesia: A god worthy of worship. At least he gives something useful back to the faithful.  
+Player: Warehouse  
+Talesia: My warehouse is only one of many. We merchants hold this city together and lead it to prosperity.  
 Player: name  
 Talesia: I am Talesia De'Mir, owner of Crunor's Finest Warehouse.  
 Player: job  
 Talesia: I am the owner of Crunor's Finest Warehouse of course.  
 Player: time  
 Talesia: It's 6:52 am right now.  
-Player: Crunor  
-Talesia: A god worthy of worship. At least he gives something useful back to the faithful.  
-Player: Warehouse  
-Talesia: My warehouse is only one of many. We merchants hold this city together and lead it to prosperity.  
 Player: king / tibianus  
 Talesia: We pay this man enough to live here undisturbed of major interventions.  
 Player: army  
@@ -30,7 +30,7 @@ Player: tax
 Talesia: Venore is the major tax payer in the whole realm. So we more than deserve the privileges the king granted us.  
 Player: privileges  
 Talesia: We are allowed to trade with anyone, Thaian subject or not, have no Thaian noble as governor, and own the exclusive gambling license.  
-Player: gambling license
+Player: gambling  
 Talesia: I don't care much about it, though others profit greatly.  
 Player: sell / trade  
 Talesia: Talk about that with my underlings.  
