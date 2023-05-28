@@ -1,15 +1,15 @@
 Player: hi  
 Talesia: Salutation, Player! What brings you to Crunor's Finest Warehouse?  
-Player: Crunor  
-Talesia: A god worthy of worship. At least he gives something useful back to the faithful.  
-Player: Warehouse  
-Talesia: My warehouse is only one of many. We merchants hold this city together and lead it to prosperity.  
 Player: name  
 Talesia: I am Talesia De'Mir, owner of Crunor's Finest Warehouse.  
 Player: job  
 Talesia: I am the owner of Crunor's Finest Warehouse of course.  
 Player: time  
 Talesia: It's 6:52 am right now.  
+Player: Crunor  
+Talesia: A god worthy of worship. At least he gives something useful back to the faithful.  
+Player: Warehouse  
+Talesia: My warehouse is only one of many. We merchants hold this city together and lead it to prosperity.  
 Player: king / tibianus  
 Talesia: We pay this man enough to live here undisturbed of major interventions.  
 Player: army  
