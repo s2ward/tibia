@@ -2,6 +2,7 @@
 2. Verified Transcripts: [↗](./verified_transcripts.md)
 3. Empty Transcripts:
 4. Unverified Transcripts: [↗](./unverified_transcripts.md)
+5. Unverified or Empty Transcripts: [↗](./unverified_empty_transcripts.md)
 
 .&nbsp;&nbsp;─&nbsp;&nbsp;<strong>Ab'Dendriel</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Seagull</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Captain_Seagull.txt)  
