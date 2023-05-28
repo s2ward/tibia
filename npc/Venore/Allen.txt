@@ -10,7 +10,7 @@ Player: news
 Allen: Sorry, no time to chat, let's trade.
 Player: trade
 Allen: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture.
-Player: time
+Player: time 
 Allen: It is 10:10 pm. Too bad we run out of cuckoo clocks
 Player: leeland slim
 Allen: Mr. Slim sold me the legendary screwdriver of Kurik! All I had to do was play a small prank on grumpy Aldo. I told him his wife had actually cooked something for lunch ...

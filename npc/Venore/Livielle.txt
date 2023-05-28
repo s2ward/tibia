@@ -3,7 +3,7 @@ Player: hi (female)
 Livielle: Bienvenue, Simula! My fruits will complete the icing on your cake.
 Player: hi (male)
 Livielle: Ah, 'ello, Player! I can see you're longing for my delicious fruits, chéri.
-Player: name (female)
+Player: name (female) 
 Livielle: I'm Livielle Delacroix, madame.
 Player: name (male)
 Livielle: Moi? Livielle for you, chéri.
