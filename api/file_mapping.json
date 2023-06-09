@@ -261,7 +261,7 @@
         "Artemyth": "EMPTY",
         "Avar_Tar": "VERIFIED",
         "Beatrice": "VERIFIED",
-        "Bonifacius": "UNVERIFIED",
+        "Bonifacius": "VERIFIED",
         "Brian_The_Baker": "UNVERIFIED",
         "Brutus_The_Baker": "UNVERIFIED",
         "Captain_Seahorse": "UNVERIFIED",
@@ -282,7 +282,7 @@
         "Demonwar_Dungeon": {
             "A_Dark_Priestess": "UNVERIFIED"
         },
-        "Ebenizer": "UNVERIFIED",
+        "Ebenizer": "VERIFIED",
         "Edron_Castle": {
             "Gnomcruiter": "UNVERIFIED"
         },
@@ -309,7 +309,7 @@
         "Luna": "UNVERIFIED",
         "Maeryn": "UNVERIFIED",
         "Milos": "VERIFIED",
-        "Mirabell": "UNVERIFIED",
+        "Mirabell": "VERIFIED",
         "Myzzi": "UNVERIFIED",
         "Owin": "UNVERIFIED",
         "Pino": "UNVERIFIED",
@@ -325,7 +325,7 @@
             "Urks_The_Mute": "EMPTY"
         },
         "Puffels": "VERIFIED",
-        "Rudolph": "UNVERIFIED",
+        "Rudolph": "VERIFIED",
         "Sandra": "UNVERIFIED",
         "Scrutinon": "VERIFIED",
         "Servant_Sentry": "UNVERIFIED",
@@ -346,7 +346,7 @@
         "The_Thaian": "VERIFIED",
         "Thomas": "UNVERIFIED",
         "Ursula": "UNVERIFIED",
-        "Willard": "UNVERIFIED",
+        "Willard": "VERIFIED",
         "Wyrdin": "VERIFIED",
         "Zarganash": {
             "Flickering_Soul": "VERIFIED"
