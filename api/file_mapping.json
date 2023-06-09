@@ -220,7 +220,7 @@
         },
         "Ishina": "VERIFIED",
         "Kasmir": "VERIFIED",
-        "Kazzan": "UNVERIFIED",
+        "Kazzan": "VERIFIED",
         "Lion_Sanctum": {
             "Heliodor": "EMPTY"
         },
@@ -261,12 +261,12 @@
         "Artemyth": "EMPTY",
         "Avar_Tar": "VERIFIED",
         "Beatrice": "UNVERIFIED",
-        "Bonifacius": "UNVERIFIED",
+        "Bonifacius": "VERIFIED",
         "Brian_The_Baker": "UNVERIFIED",
         "Brutus_The_Baker": "UNVERIFIED",
         "Captain_Seahorse": "UNVERIFIED",
         "Chief_Grarkharok": "VERIFIED",
-        "Chrystal": "UNVERIFIED",
+        "Chrystal": "VERIFIED",
         "Cormaya": {
             "A_Majestic_Warwolf": "UNVERIFIED",
             "Dedoras": "UNVERIFIED",
@@ -282,7 +282,7 @@
         "Demonwar_Dungeon": {
             "A_Dark_Priestess": "UNVERIFIED"
         },
-        "Ebenizer": "UNVERIFIED",
+        "Ebenizer": "VERIFIED",
         "Edron_Castle": {
             "Gnomcruiter": "UNVERIFIED"
         },
@@ -309,7 +309,7 @@
         "Luna": "UNVERIFIED",
         "Maeryn": "UNVERIFIED",
         "Milos": "VERIFIED",
-        "Mirabell": "UNVERIFIED",
+        "Mirabell": "VERIFIED",
         "Myzzi": "UNVERIFIED",
         "Owin": "UNVERIFIED",
         "Pino": "UNVERIFIED",
@@ -325,7 +325,7 @@
             "Urks_The_Mute": "EMPTY"
         },
         "Puffels": "VERIFIED",
-        "Rudolph": "UNVERIFIED",
+        "Rudolph": "VERIFIED",
         "Sandra": "UNVERIFIED",
         "Scrutinon": "VERIFIED",
         "Servant_Sentry": "UNVERIFIED",
