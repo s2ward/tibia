@@ -5402,7 +5402,7 @@
     },
     {
         "name": "Eruaran",
-        "job": "Inquisitor, Scientist",
+        "job": "Inquisitor",
         "race": "Elf",
         "gender": "Male",
         "location": "Roshamuul",
@@ -17731,7 +17731,7 @@
     },
     {
         "name": "Santa Claus",
-        "job": "Santa Claus",
+        "job": "Unknown.",
         "race": "Human",
         "gender": "Male",
         "location": "Folda",
