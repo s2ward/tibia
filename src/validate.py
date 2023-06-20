@@ -2,6 +2,22 @@ import os
 import re
 import sys
 
+replace_dict = {
+    '\u2019': "'",
+    '\u2018': "'",
+    '\u2026': "...",
+    '\u2013': "-",
+    '\u00a0': " ",
+    '\u201c': "\"",
+    '\u201d': "\"",
+    '\u00a7': "&",
+    '\u00fc': "ü",
+    '\u00b4': "'",
+    '\u00e9': "é",
+    '\u00e0': "à",
+    '\u00ed': "í",
+}
+
 def check_txt_files_for_errors(folder):
     timestamp_pattern = re.compile(r'^\d{2}:\d{2}', re.MULTILINE)
     number_pattern = re.compile(r'\[\d+\]')
@@ -33,6 +49,12 @@ def check_txt_files_for_errors(folder):
                 if number_pattern.search(content):
                     print(f"Error: Number pattern found in file {filepath}")
                     has_errors = True
+
+                # Check for the unwanted characters
+                for char in replace_dict:
+                    if char in content:
+                        print(f"Error: Found unwanted character '{char}' in file {filepath}")
+                        has_errors = True
 
     return has_errors
 
