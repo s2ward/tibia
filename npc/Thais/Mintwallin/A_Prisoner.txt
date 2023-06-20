@@ -23,13 +23,13 @@ A Prisoner: Ok. Take my money. I can summon new money anytime - hehehe.
 Player: key
 A Prisoner: Sure I have the key! Hehehe! Perhaps I will give it to you. IF you can solve my riddle.
 Player: riddle
-A Prisoner: Great riddle, isn´t it? If you can tell me the correct answer, I will give you something. Hehehe!
+A Prisoner: Great riddle, isn't it? If you can tell me the correct answer, I will give you something. Hehehe!
 Player: something
 A Prisoner: No! I won't tell you. Shame coz it would be useful for you - hehehe.
 Player: escape
-A Prisoner: How could I escape? They only give me rotten food here. I can´t regain my powers because I have no mana!
+A Prisoner: How could I escape? They only give me rotten food here. I can't regain my powers because I have no mana!
 Player: labyrinth / way
-A Prisoner: It´s easy to find your way through it! Just follow the pools of mud. Hehe - useful hint, isn´t it?
+A Prisoner: It's easy to find your way through it! Just follow the pools of mud. Hehe - useful hint, isn't it?
 Player: mino
 A Prisoner: They are trying to capture me! Or hang on! Haven't they already captured me? Hmmm - I will have to think about this.
 Player: Markwin
@@ -57,7 +57,7 @@ A Prisoner: Ooooooooooo.<sniff>
 Player: yes 
 A Prisoner: Mnjam. Excellent! Thanks, man!
 Player: dp-d-ks-p-dp / dp-d-sk-p-dp / pd-d-ks-p-pd / pd-d-sk-p-pd / dp-p-ks-d-dp / dp-p-sk-d-dp / pd-p-ks-d-pd / pd-p-sk-d-pd
-A Prisoner: Hurray! For that I will give you my key for - hmm - let´s say ... some apples. Interested?
+A Prisoner: Hurray! For that I will give you my key for - hmm - let's say ... some apples. Interested?
 Player: yes (carrying 6 or less apples)
 A Prisoner: Get some more apples first!
 Player: no

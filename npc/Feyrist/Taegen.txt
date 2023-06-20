@@ -27,7 +27,7 @@ Taegen: I'm sorry, I don't have one.
 Player: mission / help / spell
 Taegen: Please find a way to transform Aurita's fishtail into legs. There is a fairy who once told me about a spell. Perhaps she will share her knowledge. You can find her in a small fairy village in the southwest of Feyrist.
 Player: Feyrist
-Taegen: We call our realm Feyrist which means ‘the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
+Taegen: We call our realm Feyrist which means 'the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
 Player: Maelyrra
 Taegen: She's our queen.
 Player: Aurita
