@@ -23,7 +23,7 @@ replace_dict = {
     '\u00b4': "'",
     '\u00e9': "é",
     '\u00e0': "à",
-    '\u00ed': "í",
+    '\u00ed': "i",
 }
 
 def process_file(file_name, input_name):
