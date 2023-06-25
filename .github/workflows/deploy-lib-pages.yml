@@ -28,11 +28,16 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-        mkdir gh-pages/img/library
+        mkdir gh-pages/img/book
+        mkdir gh-pages/img/creature
+        mkdir gh-pages/img/spell
+      
         cp main/api/npc_data.json gh-pages/api/
         cp main/api/books.json gh-pages/api/
         cp main/img/npc/* gh-pages/img/npc/
-        cp main/img/library/* gh-pages/img/library/
+        cp main/img/book/* gh-pages/img/book/
+        cp main/img/creature/* gh-pages/img/creature/
+        cp main/img/spell/* gh-pages/img/spell/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
