@@ -28,10 +28,9 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-        mkdir gh-pages/img
-        mkdir gh-pages/img/book
-        mkdir gh-pages/img/creature
-        mkdir gh-pages/img/spell
+        mkdir -p gh-pages/img/book
+        mkdir -p gh-pages/img/creature
+        mkdir -p gh-pages/img/spell
         mkdir -p gh-pages/api/tree
         cp main/api/npc_data.json gh-pages/api/
         cp main/api/books.json gh-pages/api/
