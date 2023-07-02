@@ -4159,7 +4159,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Monk's_Diary"
+            "Book_(Black)"
         ],
         "text": "<the text seems to be a mostly ruined diary of some sort, found on the body of a dead monk. Most passages make no sense at all to you>\n... abbot still clueless about my ...\n...\nAfter all those perils and puzzles I have located the throne of darkness at last. I will lead ...\n...\n... crypts and monsters ... found one of the caged demons that seem to be leached as a powersupply of some sort ...\n...\n... switches on the end of the scorpion path and the lair of the wicked web ...\n... died but I could make it to the throne. My wards are holding the howling ghosts and spectres at bay for now and I prepare to unleash the powers of the throne ...\n...\n... still impossible! My wards are fading and the ancient spirits feel that they will soon claim another victory. I failed the brotherhood and will soon join the howling hords in their eternal torment and madness. ...\n...\nhas stopped. I KNOW they are coming after me now. I can see the flickering of the shadows as they aproach. THEY ARE COMING",
         "map": [
@@ -4575,7 +4575,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "\"Still it is hard to believe that I finally found the mystical rock formations near Darashia, known as Lion's Rock. According to ancient records there is a temple for an unknown, probably long forgotten deity, built in the tunnels deep below the rock centuries ago. This holy site was once guarded by mystical lions and they may still be down there. But yet I haven't succeeded in entering the inner sanctum. The entrance to the lower temple areas is protected by an old and powerful enchantment. I studied the inscriptions on the temple walls and thus learned that the key to the inner sanctum is the passing of three tests. The first test is the Lion's Strength. In order to honour the site's mystical cats of prey one has to hunt and slay a cobra. The cobra's tongue must be laid down at a stone statue as a sacrifice. The second test is the Lion's Beauty. One has to burn the petals of a lion's mane flower on a coal basin. In the sand at the rock's foot I saw some dried lion's mane petals. Maybe these flowers grow somewhere upwards. The third test is called the Lion's Tears. It seems one has to purify an ornamented stone pedestal with ...\" At this point the records end because the parchment is destroyed. It seems that is was torn by a big paw \u2026",
         "map": [
@@ -5636,7 +5636,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Piece_of_Paper_(Object)"
+            "Old_Piece_of_Paper"
         ],
         "text": "(You can barely read the following words on this soiled piece of paper)\n... growing weaker by the minute. I should have... bad feeling about this!\nThe cyclops ...\n... too many of them. No help. I must...\n... hid the ancient amulet beneath the sand, before ...should have listened to ...\nMust hide... paper, hope an adventurer will...\n... amulet will be washed ashore if not found...\nTo any adventurer friend: ... shovel... beach...\n.. dig there. ... take it to Morris, maybe he ... decipher the engravings.\nSigned\nDormovo the Impetuous",
         "map": [
@@ -7521,7 +7521,7 @@
         "next-book": "Fragment_of_The_Grand_Master_of_Verbal_Debate_IV",
         "previous-book": "The_Grand_Master_of_Verbal_Debate_II",
         "img": [
-            "Torn_Book_(Diary)"
+            "Torn_Book"
         ],
         "text": "The Grand Master of Verbal Debate III\nHaving to endure a great threat, your riposte:\n\"Too bad you barely exist at all!\"",
         "map": [
@@ -10242,7 +10242,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "X marks the spot...",
         "map": [
@@ -10417,7 +10417,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "Star Constellations\n\nTen bright stars that form the shape of a stallion: This constellation represents the remnants of a folktale from the old empire. It is most significant during spring, when it appears setting towards the Eastern horizon. It is opposed by the constellations representing a castle and a weeping man. Those born under it are believed to be highly independent.",
         "map": [
@@ -14711,7 +14711,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Scribbled_Notes"
+            "Old_Note"
         ],
         "text": "\"My curiosity and my urge to explore have driven me too deep into these vaults. Asuri everywhere -  in their true form even more powerful than in their human disguise. I fled down here, apparently they do not visit this remote cave. But I am afraid it will also become my grave. Still, I made an interesting discovery and I am writing it down in hopes that it may once be useful to another soul. The asuri are led by powerful princesses that are virtually invincible if confronted unprepared. However, even they have weaknesses. For example, the midnight asuri abhor heavy scents and the dawnfire asuri detest the sound of silver bells. In turn, the frost flower asuri can't stand anyone wearing red fabrics (not metal) near them. I have strong reason to believe that these weaknesses - as I call them - sufficiently weaken the otherwise powerful asura princesses, so they can be wounded. However, this will probably remain a theory I can't verify anymore.\"",
         "map": [
@@ -16107,7 +16107,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Piece_of_Paper"
+            "Old_Piece_of_Paper"
         ],
         "text": "Salves and balms for inflammation of the skin, druidic soothing rites and meditational music, by Azalea of the Red Root.",
         "map": [
@@ -16298,7 +16298,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Piece_of_Paper"
+            "Old_Piece_of_Paper"
         ],
         "text": "I discovered a buried temple or shrine, that must once have been part of a much bigger complex. I don't know what ancient culture could have built this nor whether it was a sanctuary, palace or something completely different. The main part of these ruins is a small place, accurately built of black and white tiles. In the centre is a big black stone figure, surrounded by four different statues. Each of them has an inscription, which gives a hint on what the statue wishes. I assume if one can fulfil all four wishes, something will happen, yet I don't know what this 'something' could be. I also noticed that the inscription on one of the statues became unreadable over time. Based on an old legend I assume, the last request could be: 'Adorn me.'",
         "map": [
@@ -16438,7 +16438,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "\"The Apprentice Pieces\", advanced level, grade 1.",
         "map": [
@@ -16729,7 +16729,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "This old parchment is brittle and riddled with holes, so the ancient text remains  fragmentary: \"... And in their blinded delusion the most passionate followers of Fafnar destroyed the balance between the two suns. They commited sacrilege against Suon, declaring Fafnar the only true goddess. ... fierce battles among the citizens ... causing the downfall of an entire empire ... But in the end Fafnar's disciples ... punished and cursed. The priests who caused this nightmare were transformed into nightmarish creatures themselves. The elite sentinels of Fafnar's temples, called the Burning Gladiators, had to endure eternity as undead warriors. The ogres were slaves in this ancient empire, freed by the downfall ... I'm writing down these insights with my last ... Many of them still here in the ancient ruins ...\"",
         "map": [
@@ -16796,7 +16796,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(Brown)"
+            "Scroll_(Brown)"
         ],
         "text": "(You see a mouldy book of some sort. Only one passage on a page is still readable.)\nSugatrap mighty goblin. Him one day hear Frog God voice in sleep.\nFrog God tell Sugatrap, \"Go to mountain high and low, where my frogs live under stone. There stay and found city of new goblinkind!\"\nSugatrap woke up when scout threw stone at his head, warning of humans. Sugatrap go and tell his dream. At first all goblins laugh but when Sugatrap hit them dead, laughter died.\nRemaining goblins went with Sugatrap and quarreled all the while they search for mountain with frogs.\nOne day, scout goblin Swordfish fall over stone and find bog frog. He go tell Sugatrap and Sugatrap say, \"Have found right mountain! Will stay!\"\nSo founded city, where all goblins free and live on holy bog frogs.",
         "map": [
@@ -17266,7 +17266,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Old_Parchment_(White)"
+            "Parchment_(White)"
         ],
         "text": "Two days now that I fell into this cave, and still no help from the base. Did they not notice my gone missing? Surely the others were able to reach the camp and tell of our findings in the ice? I hope that my notes will not be lost and that someone found my satchel with the shards, and can make something out of it. ... Three days now, and food for maybe one other day. It is cold, and I can barely hold the stylus. ... I believe I am not alone. I see strange things moving, behind the walls. Am I hallucinating? Maybe there is a way through to somewhere else, somewhere warm, if I could only break the ice. But my sword broke trying to reach the strange glitter and movement, and I am without hope.",
         "map": [
@@ -20153,7 +20153,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Sheet_of_Paper"
+            "Paper"
         ],
         "text": "Dear Flora,\nI just returned from my visit to the kings court in Thais. Along with other nobles I was invited to a diner with the crown prince of Thais Rodmund II. He seems a rather shy and reclusive boy. We had not the chance to talk much to him but if it were not for his advisors, the brothers Wisbert and Madol, the heads of the church of Uman and Zathroth respectively, I'd fear for the wellbeing of the realm. The boy seems pale and unhealthy. He had obvious problems to follow any conversation and word at the court is that the untimely death of his father made the boy even more timid then he was before. We were assured though, that the council of nobles and the two grand priests of the both most influential churches were guiding him and leading his hand. The brothers Wisbert and Madol were indeed impressive men of wisdom and charisma. Their eloquence was almost intimidating and beyond their calm demeanor I sensed some kind of animosity between them. Perhaps it was just their way though and their witty remarks and retorts fooled me. They are brothers after all. Both are men with vision though and when they both fully agreed on how our realm should handle the challenges ahead I'm confident these brilliant men will grant security and stability for our beloved country.\nI also visited the royal stables and let me tell you, that you'd might be in for a nice surprise when I return home.\nCount Allstio sends his regards. He feels sorry that he won't be able to attend our summer feast but he'll be on an expedition to some foreign land by then. You know Allstio and how secretive he can be (I even heard he built some sort of cryptlike retreat in that awful Greenclaw Swamp) so this is all of information I can offer you.\nI hope you and the kids are well,\nyours,\nDargen",
         "map": [
@@ -21047,7 +21047,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Blurred_Transcript"
+            "Scroll_(Brown)"
         ],
         "text": "The First Dragon ... Many call it a myth, a legend, a fairy tale. And yet I was always convinced that the stories could be true. I indeed believe there was once a powerful lone dragon who was the first of all. He wandered our world thousands of years ago and then disappeared. Was it Garsharak himself? Or was it his first child? Has this ancient creature really left this world or is it still there, hiding somewhere, perhaps sleeping, perhaps waiting? These questions preyed on my mind for many a year. Finally, when I joined the Explorer Society, I decided to do my own research. I visited many libraries all over Tibia and studied many books. I travelled to remote and dangerous places to do excavations. But I never found the smallest hint that the First Dragon ever existed. I was ready to give up, I just wanted to visit just one last site. And incredibly, I discovered something! An ancient inscription, nearly invisible, buried in the walls of this small cave underneath Thais. I uncovered it and began to translate the old runes which had been used centuries ago. Only single fragments are still readable:\n\"... First Dragon ... thousands ... ago. ... four descendants ... different kinds of dragons. ... Gelidrazah, Taz... disappeared. ... cemetery? Or ... Yal...? ... trials ... incitements in order to find the lairs of ...\"\nIt is very hard to translate the heavily weathered inscription. I feel I should hurry because more and more frequently I'm hearing scratching steps and a roaring from afar. There could be a dragon living down here and that would be my perdition for sure.",
         "map": [
@@ -24108,7 +24108,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Black"
+            "Book_(Black)"
         ],
         "text": "We failed!!!\nWe thought us lucky, that we had not to fight the ruthless seven face to face, but their traps and minions killed nearly all knights of our squad. We made it not even to one of the thrones. I will send the survivors to one of our remaining castles to save the key. I ordered them to let me die here in dishonor, since i failed my order!\nTaciror,\nthe last highlord of the nightmare knights.",
         "map": [
@@ -25994,7 +25994,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Torn_Book_(Diary)"
+            "Torn_Book"
         ],
         "text": "II. 28th\nToday my brothers and I are leaving from Carlin to find a new place for us and our families. None of the great Tibian cities have made us feel at home yet. There must be something else, and we will find it.\nIII. 5th\nWe've been at sea for a few days now. Time seems endless, and so does the ocean. We have supplies for 3 more weeks. Should we not find land within the next week we will cancel our expedition to make sure we get back home safely.\nIII. 8th\nStill nothing... but the screams of seagulls and the sound of the waves... we are still hoping.\nIII. 10th\nWe've spotted land! It's still a day away, but it seems to be a really large island. Not only that,  we can also make out tall towers in the distance. Strangely though, this city - or whatever it is - can't be found on our map, despite its obvious size.\nIII. 11th\nWe've arrived at the harbour of Yalahar, as the inhabitants call it. Obviously large parts of the city are destroyed and closed for the public. We will stay in a tavern tonight - finally, a bed again! - and then try to find a place to live in.\nIII. 14th\nFinding a house seems to be harder than expected. The inner city of Yalahar which seems safe and rather wealthy has almost no place left, especially not for outsiders as us. Maybe we can live in one of the outer quarters, close to the city walls at least.\nIII. 18th\nLersatio found an unoccupied house not too far away from the centre. It is close to an alchemical lab. Maybe we can even find some work there. Things are looking great!\nIII. 20th\nWe've settled down and started the repair work on the house. This may take a while, but we are sending note to our families to come after us. Arthei's wife Kala insisted to come with us right from the start, so they are already together, but I am starting to miss my girl immensely. Oh sweet Melava, I hope you are well.\nIII. 21th\nThis place is not as good as it seemed. The closeness to the alchemical laboratories proves to be a constant menace and now I understand why they didn't want it in the centre. Frequent explosions are startling us during the whole day, and even at nighttime there is a lot of noise from the facilities. Due to these circumstances we will probably try to find another place, luckily we haven't put too much work into the house, yet. Also, our families won't come, yet.\nIII. 30th\nOh god... something horrible happened and I've not been able to write for a while... a week ago there was a HUGE explosion in the night... fire spread upon almost all houses nearby... we barely escaped the flames... my hands are burnt, because I pulled my brother out of the burning house and we all are still coughing grey substance... Boreth and Lersation got out with some scratches and burns, but otherwise we three are fine. It's just Arthei... he got burnt really badly... I barely recognise his face... Kala is sitting at his bed 24 hours a day with red swollen eyes and praying for his life. When she falls asleep in exhaustion we are keeping watch.\n<from here on, all of the pages have been torn out, only the last page remains:>\nTHE FIRST DAY OF ETERNITY\nI CAN SEE NOW. FOOLS. ALL OF YOU. HAHAHAHAHA.",
         "map": [
@@ -31748,7 +31748,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Piece_of_Paper"
+            "Old_Piece_of_Paper"
         ],
         "text": "I don't care who finds this, or robs our corpses. It will all be too late anyway. Reuben has gone mad and refuses to give me the shovel to dig our way out after the tunnel collapsed.\nMaybe he got hit on the head there? Since then he has kept to himself, and when I approach, he stares at me as if he did not recognise me. ...\nHe's getting stranger all the time. I think it's these... gems he found. He keeps cooing over them like a hen. He hisses and snarls! I believe I must get used to the thought that the last thing my brother cared about in this world was a heap of glowing pebbles. Whoever finds this I hope has the good sense to grab a shovel and dig free of this place.",
         "map": [
@@ -34157,14 +34157,14 @@
         "libraries": [
             "Isle of the Kings Library"
         ],
-        "version": "_NOVER",
+        "version": "7.2",
         "related-articles": [
             "_NOREL"
         ],
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "7.2"
+            "Book_(Brown)"
         ],
         "text": "The superiority of males - a fantasy tale",
         "map": [
@@ -34192,7 +34192,7 @@
         "next-book": "Addendum_to_The_Iks",
         "previous-book": "_NOPREV",
         "img": [
-            "13.10"
+            "Book_(Fat_Green)"
         ],
         "text": "The Iks\nA Disquisition (abridged) by the venerable Sir Galthen\nThe tale of Iksupan, the City of Gold, is of a vast kingdom of old. Once prospering and shining in the radiance of its own glory it did not sink to perish like many a lost world: it was taken. To grasp the full magnitude of this most peculiar end, one has to understand the lore and culture of a very ancient part of this world. Due to a lingering fear of the wrath of Kopakhn, god of the balance of life, the people of the Tribe of Iks have been building vast underground cities and palaces. Kopakhn was thought to be the bringer of a cleansing storm, sweeping over the face of the known world. Destroying man, animal and growth alike. So the Iks saw their only salvation in taking to the innards of this earth while forestalling the cleansing by conquering as much of their known world as possible. To appease him, the Iks amassed a wealth of treasure, conquered all the lands of their ancestors and built intricate structures of stone and gold deep underground. Their sincere worship of Kopakhn was also a gesture of gratitude towards his might and divine judgement. Feeling safe in their untiring contributions towards the great goal of the propitiation of their powerful god, their civilisation thrived. The more kingdoms they seized, the more wealth they hoarded, the further they would reach.\nWhen conquerors came from distant parts of the world, the Iks prevailed. Lured by the gold and wealth of their sanctuaries build in the name and spirit of their gods, many foreign knights and mercenaries would invade their sacred grounds. Driven by the lust for riches and glory, the invaders would come ever further and soon roam the lands of the Iks in great numbers. Fending off the foreign aggressor month after month, year after year, the Iks grew angrier and more relentless. They blamed their gods and even Kopakhn became a subject of their ire. The people lost faith in their deities and blamed their priests and sages. In fear of losing control, the highest caste of the Iks tried to uphold order by demanding sacrifices to Kopakhn as well as Tikatl, god of lightning, rage and war. And sacrifices where made. The steps of the great sanctuary of Kopakhn ran red with blood. The worshippers of Tikatl built large outside structures with high beams made of pure gold to attract his mighty thunder and sweeping lightning. Man and animal alike where presented and delivered to the wrath of the furious priests and their angry gods. Their victims in battle would suffer dark rituals and wild ceremonies to feed their souls directly to Tikatl, presenting the hearts to the ever watching Kopakhn.\nThen came the time of the iron haze. An otherworldly mist fell on many settlements and underground sanctuaries. The day the mist arrived would mark the end of any such habitat. Inhaling this haze seemed to have a strange benumbing effect on every living creature and even the walls and the very gold and stone the Iks built their mighty empire upon. After the mist cleared, the iron silenced the few Iks still able to stand. Like leaves brought by a swift wind, sharp blades and quick knives danced through the golden chambers. Room after room emptied of life, torches choked, the fires dead like the people of the Iks lying scattered amongst unfathomable riches. Priest, guard and worker alike, all betrayed, their bones shattered and their souls hurt in disbelief, doubting their gods. Word of these occurrences travelled through the Ikian world and its remaining people fled their homes, temples and sanctuaries. During a long and burdensome time of nomadism far away from their ancestral realm, the Iks all but disappeared. They never recovered and ultimately died in exile.",
         "map": [
@@ -34217,7 +34217,7 @@
         "next-book": "_NONEXT",
         "previous-book": "The_Iks",
         "img": [
-            "Piece_of_Paper"
+            "Old_Piece_of_Paper"
         ],
         "text": "Conquerors and adventurers from all corners of the world tried to find and occupy the lost cities of the Iks but no expedition bore fruit, all attempts failed. The Ikian civilization has indeed been wiped clean from the face of the world. Was it the cleansing storm long prophesied? Or did their rampant lust for blood cost them their lives and legacy? Was the ultimate sacrifice of their souls over challenging the fear of the wrath of a vengeful god their downfall? It will probably never be known.\nLegend has it, that the last remnants of the exiles once again built a home under the earth, deep down, made of stone and gold and filled with riches beyond belief (a scribbled note says Iksupan and \"Ik'kal\" after this sentence) . The final exiles are believed to have never returned to the surface. A lost tribe, forever wandering their golden city in the deep, the entrance sealed shut for no god nor man to ever find them again.",
         "map": [
@@ -35080,14 +35080,14 @@
         "libraries": [
             "Isle of the Kings Library"
         ],
-        "version": "_NOVER",
+        "version": "7.2",
         "related-articles": [
             "_NOREL"
         ],
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "7.2"
+            "Book_(Black)"
         ],
         "text": "Be creative - Handmade gifts",
         "map": [
@@ -39792,7 +39792,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "10.1"
+            "Old_Piece_of_Paper"
         ],
         "text": "The Multiple Uses of Crystal Powders",
         "map": [
@@ -39894,7 +39894,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Music_Sheet_(First_Verse)"
+            "Music_Sheet"
         ],
         "text": "Woe to me for venturing so deep into the jungle. Woe to me for entering the cursed palace there. The woman appeared beautiful and friendly at first, but soon they revealed their true, demonic creature! They abducted me and locked me up in this cell. If They don't kill me, I will surely die of hunger and thirst. Out of sadness and despair I cut my hair and tore my clothes. Woe to my poor mother who will never know about my fate and is unsuspectingly waiting for my return to Port Hope.",
         "map": [
@@ -39919,7 +39919,7 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Piece_of_Paper"
+            "Old_Piece_of_Paper"
         ],
         "text": "The goblins stole my backpack and clothes when I slept, and left me here without even a rope or shovel. I don't know how long I will have before I starve. My only hope is that some adventurer comes down here and saves me, but my throat is sore from shouting for help. So I am writing this down in my own blood in the hopes of it being found to serve at least as a warning when I am dead. I know they have some kind of den further on, but I am too weak to investigate. I hear songs and rattle of glass; I believe they are drinking the provisions they stole from the ship, those greedy little magpies! You who read this, beware. Those green pests steal everything.",
         "map": [
