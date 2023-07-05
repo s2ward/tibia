@@ -12,10 +12,7 @@ replace_dict = {
     '\u201d': "\"",
     '\u00a7': "&",
     '\u00fc': "ü",
-    '\u00b4': "'",
-    '\u00e9': "é",
-    '\u00e0': "à",
-    '\u00ed': "í",
+    '\u00b4': "'"
 }
 
 def check_txt_files_for_errors(folder):
