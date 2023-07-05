@@ -13,8 +13,8 @@
         "related-articles": [
             "_NOREL"
         ],
-        "next-book": "_NONEXT",
-        "previous-book": "Dwarven_Names",
+        "next-book": "Dwarven_Names",
+        "previous-book": "Dream_Magic",
         "img": [
             "Book_(Brown)"
         ],
@@ -57,7 +57,7 @@
                 "article-url": "https://tibia.fandom.com/wiki/Archdemons"
             }
         ],
-        "next-book": "Demonic_Invasions",
+        "next-book": "_NONEXT",
         "previous-book": "Demonic_Invasions_Paragraph_I",
         "img": [
             "Book_(Brown_Square)",
@@ -207,8 +207,8 @@
                 "article-url": "https://tibia.fandom.com/wiki/Healing"
             }
         ],
-        "next-book": "_NONEXT",
-        "previous-book": "The_Manasphere_Critique",
+        "next-book": "The_Manasphere_Critique",
+        "previous-book": "_NOPREV",
         "img": [
             "Book_(Brown)",
             "Book_(Black)",
@@ -471,7 +471,7 @@
                 "article-url": "https://tibia.fandom.com/wiki/Teshial"
             }
         ],
-        "next-book": "The_Cenath",
+        "next-book": "The_Cenath_I",
         "previous-book": "The_Kuridai",
         "img": [
             "Book_(Brown)"
@@ -536,7 +536,7 @@
                 "article-url": "https://tibia.fandom.com/wiki/Elves"
             }
         ],
-        "next-book": "_NONEXT",
+        "next-book": "Elven_Names",
         "previous-book": "_NOPREV",
         "img": [
             "Book_(Brown)"
@@ -614,7 +614,7 @@
         "related-articles": [
             "_NOREL"
         ],
-        "next-book": "_NONEXT",
+        "next-book": "The_Chelabdil",
         "previous-book": "The_Cenath_I",
         "img": [
             "Default"
@@ -796,7 +796,7 @@
             "_NOREL"
         ],
         "next-book": "The_Teshial",
-        "previous-book": "The_Deriasim",
+        "previous-book": "The_Deraisim",
         "img": [
             "Book_(Brown)"
         ],
@@ -3682,8 +3682,8 @@
                 "article-url": "https://tibia.fandom.com/wiki/Distance_Weapons"
             }
         ],
-        "next-book": "_NONEXT",
-        "previous-book": "_NOPREV",
+        "next-book": "Puldrak's_Wisdom_About_Elves_V.II",
+        "previous-book": "Puldrak's_Wisdom_About_Elves_IV",
         "img": [
             "Book_(Black)",
             "Book_(Grey)"
@@ -35465,8 +35465,8 @@
                 "article-url": "https://tibia.fandom.com/wiki/Technomancers"
             }
         ],
-        "next-book": "Elven_Names",
-        "previous-book": "_NOPREV",
+        "next-book": "_NONEXT",
+        "previous-book": "Elven_Names",
         "img": [
             "Book_(Brown)"
         ],
