@@ -4113,7 +4113,7 @@
     },
     {
         "name": "Reliable_Mercenaries",
-        "author": "Gesnar,Minotaurs,Alawar,Senja.",
+        "author": "Gesnar",
         "description": "A man reports on his guarded treasure.",
         "locations": [
             "Senja -> Castle"
@@ -4960,7 +4960,7 @@
     },
     {
         "name": "The_Minotaurs_I",
-        "author": "Iregarn.",
+        "author": "Iregarn",
         "description": "?",
         "locations": [
             "Isle of the Kings -> Library",
@@ -6652,7 +6652,7 @@
     },
     {
         "name": "Old_Pirate_Poem",
-        "author": "Some pirate.",
+        "author": "Some pirate",
         "description": "This may lead you to somewhere special...",
         "locations": [
             "Edron -> Noodles Academy of Modern Magic"
@@ -6726,7 +6726,7 @@
     },
     {
         "name": "Scientific_Contest_(Deprecated)",
-        "author": "Sane Mage.",
+        "author": "Sane Mage",
         "description": "The Sane Mage has gone to Tiquanda to participate in a scientific contest. No longer spawns in the game",
         "locations": [],
         "libraries": [
@@ -8928,7 +8928,7 @@
     },
     {
         "name": "Memoires_of_the_First_Dragon",
-        "author": "The First Dragon (NPC)",
+        "author": "The First Dragon",
         "description": "The First Dragon dictated his memoirs to his butler about his time with the humans.",
         "locations": [
             "First Dragon Lair"
@@ -11036,7 +11036,7 @@
     },
     {
         "name": "Interesting_Facts_About_Kazordoon",
-        "author": "John Barrel.",
+        "author": "John Barrel",
         "description": "Some history of Kazordoon.",
         "locations": [
             "Kazordoon -> Halls of Sorcery Library"
@@ -11465,7 +11465,7 @@
     },
     {
         "name": "Elves_I.I",
-        "author": "Iregarn.",
+        "author": "Iregarn",
         "description": "Elven Unborn and the use of dream magic",
         "locations": [
             "Isle of the Kings -> Library",
@@ -11975,7 +11975,7 @@
     },
     {
         "name": "Isle_of_Evil",
-        "author": "Unkown.",
+        "author": "Unkown",
         "description": "Importance of reaching Isle of Evil and defeating its master.",
         "locations": [
             "Kazordoon -> Rapanaio"
@@ -12007,7 +12007,7 @@
     },
     {
         "name": "Resolute_Emperor",
-        "author": "Gramlok Silverbeard.",
+        "author": "Gramlok Silverbeard",
         "description": "?",
         "locations": [
             "Kazordoon -> Emperor Kruzak"
@@ -12292,7 +12292,7 @@
     },
     {
         "name": "The_Fox_Is_Out",
-        "author": "The Horned Fox.",
+        "author": "The Horned Fox",
         "description": "?",
         "locations": [
             "Kazordoon -> Minotaur Tower"
@@ -13890,7 +13890,7 @@
     },
     {
         "name": "My_Travels_by_Ploch_Pridestride_XVII",
-        "author": "Ploch Pridestride.",
+        "author": "Ploch Pridestride",
         "description": "?",
         "locations": [
             "Tiquanda -> Port Hope Temple Library"
@@ -13922,7 +13922,7 @@
     },
     {
         "name": "My_Travels_by_Ploch_Pridestride_XVIII",
-        "author": "Ploch Pridestride.",
+        "author": "Ploch Pridestride",
         "description": "?",
         "locations": [
             "Tiquanda -> Port Hope Temple Library"
@@ -13950,7 +13950,7 @@
     },
     {
         "name": "My_Travels_by_Ploch_Pridestride_XIX",
-        "author": "Ploch Pridestride.",
+        "author": "Ploch Pridestride",
         "description": "?",
         "locations": [
             "Tiquanda -> Port Hope Temple Library"
@@ -13982,7 +13982,7 @@
     },
     {
         "name": "My_Travels_by_Ploch_Pridestride_XX",
-        "author": "Ploch Pridestride.",
+        "author": "Ploch Pridestride",
         "description": "?",
         "locations": [
             "Tiquanda -> Port Hope Temple Library"
@@ -14014,7 +14014,7 @@
     },
     {
         "name": "My_Travels_by_Ploch_Pridestride_XXI",
-        "author": "Ploch Pridestride.",
+        "author": "Ploch Pridestride",
         "description": "?",
         "locations": [
             "Tiquanda -> Port Hope Temple Library"
@@ -14721,7 +14721,7 @@
     },
     {
         "name": "Dworc_Misadventure",
-        "author": "Arthom.",
+        "author": "Arthom",
         "description": "A group of researchers tried to study the behaviour of the Dworcs , but ended up becoming their meal.",
         "locations": [
             "Tiquanda -> Dworc Camp"
@@ -14761,7 +14761,7 @@
     },
     {
         "name": "Explorer_Journal_of_Wilmot_Dustheart",
-        "author": "Wilmot Dustheart.",
+        "author": "Wilmot Dustheart",
         "description": "An explorer has found out why the Chakoya Iceberg washed up on Tiquandan shore.",
         "locations": [
             "Tiquanda -> Chakoya Iceberg"
@@ -14837,7 +14837,7 @@
     },
     {
         "name": "Lloyd's_Journal",
-        "author": "Lloyd.",
+        "author": "Lloyd",
         "description": "A journal written by Lloyd about the Replica Dungeon .",
         "locations": [
             "Tiquanda -> Replica Dungeon"
@@ -16531,7 +16531,7 @@
     },
     {
         "name": "The_Key_to_Chamber_Music",
-        "author": "Fayla.",
+        "author": "Fayla",
         "description": "?",
         "locations": [
             "Rathleton -> Madame Fayla's Music Chamber"
@@ -16556,7 +16556,7 @@
     },
     {
         "name": "The_Layers_of_the_Worlds",
-        "author": "Barnabas Dee.",
+        "author": "Barnabas Dee",
         "description": "?",
         "locations": [
             "Rathleton -> Barnabas Dee's Observatory"
@@ -16584,7 +16584,7 @@
     },
     {
         "name": "The_Movement_of_the_Stars",
-        "author": "Barnabas Dee.",
+        "author": "Barnabas Dee",
         "description": "?",
         "locations": [
             "Rathleton -> Barnabas Dee's Observatory"
@@ -16609,7 +16609,7 @@
     },
     {
         "name": "The_Old_Man_and_the_Sea_Serpent",
-        "author": "A. N. Onymous.",
+        "author": "A. N. Onymous",
         "description": "?",
         "locations": [
             "Rathleton -> Grand Opera Caf\u00e9"
@@ -16634,7 +16634,7 @@
     },
     {
         "name": "The_Scales_to_Success",
-        "author": "Fayla.",
+        "author": "Fayla",
         "description": "?",
         "locations": [
             "Rathleton -> Madame Fayla's Music Chamber"
@@ -16739,7 +16739,7 @@
     },
     {
         "name": "Geography_of_Krailos",
-        "author": "Larek.",
+        "author": "Larek",
         "description": "The features of the island of Krailos .",
         "locations": [
             "Krailos -> Village",
@@ -16840,7 +16840,7 @@
     },
     {
         "name": "Pillaging_Krailos",
-        "author": "Captain Blackteeth.",
+        "author": "Captain Blackteeth",
         "description": "A pirate is eager to plunder the island he just discovered.",
         "locations": [
             "Krailos -> Pirate Ship"
@@ -16944,7 +16944,7 @@
     },
     {
         "name": "Hostile_Chakoyas",
-        "author": "Ogden Brewboiler.",
+        "author": "Ogden Brewboiler",
         "description": "Ogden Brewboiler and his crew get stranded somewhere near Svargrond and soon notice they are unwanted visitors...",
         "locations": [
             "Svargrond -> Grimlund"
@@ -18989,7 +18989,7 @@
     },
     {
         "name": "Amber's_Notebook",
-        "author": "Amber.",
+        "author": "Amber",
         "description": "?",
         "locations": [
             "Rookgaard -> Amber's Raft"
@@ -20127,7 +20127,7 @@
     },
     {
         "name": "Court_Visit",
-        "author": "Dargen.",
+        "author": "Dargen",
         "description": "A noble writes a friend about his visit to the royal court in Thais.",
         "locations": [
             "Thais -> Royal Archives"
@@ -20216,7 +20216,7 @@
     },
     {
         "name": "Inhabitants_Log",
-        "author": "Tibianus I.",
+        "author": "Tibianus I",
         "description": "A list of the inhabitants of Thais .",
         "locations": [
             "Thais -> Royal Archives"
@@ -20759,7 +20759,7 @@
     },
     {
         "name": "Tales_of_Tibia",
-        "author": "Cony Island ;) (Actually unknown)",
+        "author": "Cony Island",
         "description": "Different tales on the lore of Tibia",
         "locations": [
             "Thais -> Robins Residence"
@@ -21004,7 +21004,7 @@
     },
     {
         "name": "Dungeon_Excavation",
-        "author": "Palkar.",
+        "author": "Palkar",
         "description": "The diary of a minotaur as he and his followers excavate deep within the Ancient Temple .",
         "locations": [
             "Ancient Temple"
@@ -21482,7 +21482,7 @@
     },
     {
         "name": "Chronicle_of_Mintwallin_I",
-        "author": "Markwin.",
+        "author": "Markwin",
         "description": "{burnt out}",
         "locations": [
             "Ancient Temple -> Mintwallin"
@@ -21510,7 +21510,7 @@
     },
     {
         "name": "Chronicle_of_Mintwallin_II",
-        "author": "Markwin.",
+        "author": "Markwin",
         "description": "{burnt out}",
         "locations": [
             "Ancient Temple -> Mintwallin"
@@ -21538,7 +21538,7 @@
     },
     {
         "name": "Chronicle_of_Mintwallin_III",
-        "author": "Markwin.",
+        "author": "Markwin",
         "description": "The mino's have been forced into the deep labyrinth by a fearsome Daemon ; Palkar convinced his team to rebel and leave Markwin .",
         "locations": [
             "Ancient Temple -> Mintwallin"
@@ -21574,7 +21574,7 @@
     },
     {
         "name": "Chronicle_of_Mintwallin_IV",
-        "author": "Markwin.",
+        "author": "Markwin",
         "description": "Even more civil war within the mintwallinian walls, the king has become fatally ill and a human has unravelled the secrets of the labyrinth that guards the city.",
         "locations": [
             "Ancient Temple -> Mintwallin"
@@ -21606,7 +21606,7 @@
     },
     {
         "name": "Chronicle_of_Mintwallin_V",
-        "author": "Markwin.",
+        "author": "Markwin",
         "description": "The king of MOST  minotaurs is steadily decending into a grave; some humans have somehow defeated the guardian of the labyrinth",
         "locations": [
             "Ancient Temple -> Mintwallin"
@@ -21670,7 +21670,7 @@
     },
     {
         "name": "How_to_Summon_Black_Demons",
-        "author": "Dago.",
+        "author": "Dago",
         "description": "?",
         "locations": [
             "Mount Sternum -> Dagos Temple"
@@ -24078,7 +24078,7 @@
     },
     {
         "name": "We_Failed",
-        "author": "Taciror.",
+        "author": "Taciror",
         "description": "The last words of the last highlord of the Nightmare Knights",
         "locations": [
             "Plains of Havoc -> Pits of Inferno, Hall of Dreams"
@@ -24394,7 +24394,7 @@
     },
     {
         "name": "Black_Knight_Forsakes_Thais",
-        "author": "The Black Knight.",
+        "author": "The Black Knight",
         "description": "The Black Knight turns on Thais and the TBI.",
         "locations": [
             "Green Claw Swamp -> Villa Scapula"
@@ -24675,7 +24675,7 @@
     },
     {
         "name": "ID_Card",
-        "author": "Tibianus II.",
+        "author": "Tibianus II",
         "description": "Sir Fred Mothbone is recognised as a royal explorer under Tibianus II .",
         "locations": [
             "Green Claw Swamp -> Near Wyda"
@@ -25285,7 +25285,7 @@
     },
     {
         "name": "Know_This,_Lord_Protector",
-        "author": "The Dream Master.",
+        "author": "The Dream Master",
         "description": "Lord Protectors of the Nightmare Knights are told how to create the outfit scrolls for the Nightmare Outfits .",
         "locations": [
             "Plains of Havoc Dream Realm -> Dream Master"
@@ -25478,7 +25478,7 @@
     },
     {
         "name": "Telmur's_Debts",
-        "author": "D.",
+        "author": "D",
         "description": "?",
         "locations": [
             "Plains of Havoc Dream Realm -> Sleeping Chambers"
@@ -25755,7 +25755,7 @@
     },
     {
         "name": "History_of_the_Augur_I",
-        "author": "Palimuth.",
+        "author": "Palimuth",
         "description": "It tells you the first part of the story of theAugur.",
         "locations": [
             "Yalahar -> Inner City"
@@ -25787,7 +25787,7 @@
     },
     {
         "name": "History_of_the_Augur_II",
-        "author": "Palimuth.",
+        "author": "Palimuth",
         "description": "It tells you the second part of the story of theAugur.",
         "locations": [
             "Yalahar -> Inner City"
@@ -25819,7 +25819,7 @@
     },
     {
         "name": "Manifest_of_the_Yalahari_I",
-        "author": "Azerus Vilus.",
+        "author": "Azerus Vilus",
         "description": "It tells you the first part of how the Yalahari are planning to take over the city again.",
         "locations": [
             "Yalahar -> Inner City"
@@ -25855,7 +25855,7 @@
     },
     {
         "name": "Manifest_of_the_Yalahari_II",
-        "author": "Azerus Vilus.",
+        "author": "Azerus Vilus",
         "description": "It tells you the second part of how the Yalahari are planning to take over the city again.",
         "locations": [
             "Yalahar -> Inner City"
@@ -25891,7 +25891,7 @@
     },
     {
         "name": "Tunnelling_Guide",
-        "author": "Gromward Hammerfist.",
+        "author": "Gromward Hammerfist",
         "description": "It explains how to repair and maintain tunnels.",
         "locations": [
             "Yalahar -> Beregar Library"
@@ -25947,7 +25947,7 @@
     },
     {
         "name": "Arthei's_Descent_into_Vampirism_I",
-        "author": "Marziel.",
+        "author": "Marziel",
         "description": "Marziel , Arthei , Lersatio , Boreth , and Kala leave Carlin and discover and settle in Yalahar . Arthei gets badly wounded in an explosion.",
         "locations": [
             "Zao -> Vengoth Castle"
@@ -26004,7 +26004,7 @@
     },
     {
         "name": "Arthei's_Descent_into_Vampirism_IV",
-        "author": "Marziel.",
+        "author": "Marziel",
         "description": "Arthei is acting strange: he is very aloof and goes out during the night. His wife Kala cannot take it and disappears.",
         "locations": [
             "Zao -> Vengoth Castle"
@@ -26147,7 +26147,7 @@
     },
     {
         "name": "Arthei's_Descent_into_Vampirism_III",
-        "author": "Marziel.",
+        "author": "Marziel",
         "description": "Some black being makes Arthei recover miraculously.",
         "locations": [
             "Zao -> Vengoth Castle"
@@ -26262,7 +26262,7 @@
     },
     {
         "name": "Arthei's_Descent_into_Vampirism_II",
-        "author": "Marziel.",
+        "author": "Marziel",
         "description": "Arthei 's future does not look very bright. Something strange happens.",
         "locations": [
             "Zao -> Vengoth Castle"
@@ -28671,7 +28671,7 @@
     },
     {
         "name": "Twinkiller_Rune",
-        "author": "Ferumbras.",
+        "author": "Ferumbras",
         "description": "Ferumbras is threatening the Warlocks of Demona to give in to his demands.",
         "locations": [
             "Demona -> Zhandramon's Chambers"
@@ -31758,7 +31758,7 @@
     },
     {
         "name": "Travel_Expenses",
-        "author": "Jack Rumgut.",
+        "author": "Jack Rumgut",
         "description": "Pirate captainJack Rumguthas left fellow captainRodney Starbirda note concerning the latter's savings.",
         "locations": [
             "Drefia -> Surface"
@@ -31794,7 +31794,7 @@
     },
     {
         "name": "Women_Seduced",
-        "author": "Rodney Starbird.",
+        "author": "Rodney Starbird",
         "description": "Pirate captainRodney Starbirdlists his conquests.",
         "locations": [
             "Drefia -> Surface"
@@ -34174,7 +34174,7 @@
     },
     {
         "name": "The_Iks",
-        "author": "Galthen.",
+        "author": "Galthen",
         "description": "The rise and fall of the tribe of Iks.",
         "locations": [
             "Isle of the Kings -> Library"
@@ -34227,7 +34227,7 @@
     },
     {
         "name": "The_Fall_of_the_Astral_Shapers_III",
-        "author": "Teruvax Tristem.",
+        "author": "Teruvax Tristem",
         "description": "Some Shapers manage to escape from their slavery and establish small colonies in hidden places, but the race's former heights can never again be reached.",
         "locations": [
             "Isle of the Kings -> Library"
@@ -34259,7 +34259,7 @@
     },
     {
         "name": "The_Fall_of_the_Astral_Shapers_II",
-        "author": "Teruvax Tristem.",
+        "author": "Teruvax Tristem",
         "description": "The Shapers are not prepared for war and are conquered and enslaved.",
         "locations": [
             "Isle of the Kings -> Library"
@@ -34287,7 +34287,7 @@
     },
     {
         "name": "The_Fall_of_the_Astral_Shapers_I",
-        "author": "Teruvax Tristem.",
+        "author": "Teruvax Tristem",
         "description": "The privileged Astral Shapers use their knowledge to become the highest of all races.",
         "locations": [
             "Isle of the Kings -> Library"
@@ -34624,7 +34624,7 @@
     },
     {
         "name": "UMO_Abductions",
-        "author": "Teruvax Tristem.",
+        "author": "Teruvax Tristem",
         "description": "UMOs are bodiless members of a race abducting other beings in order to further their own cause.",
         "locations": [
             "Isle of the Kings -> Library"
@@ -34924,7 +34924,7 @@
     },
     {
         "name": "Elves_I.II",
-        "author": "Iregarn.",
+        "author": "Iregarn",
         "description": "Elven Names",
         "locations": [
             "Isle of the Kings -> Library"
@@ -35398,7 +35398,7 @@
     },
     {
         "name": "The_Minotaurs_II",
-        "author": "Iregarn.",
+        "author": "Iregarn",
         "description": "?",
         "locations": [
             "Isle of the Kings -> Library"
@@ -36646,7 +36646,7 @@
     },
     {
         "name": "Intruders",
-        "author": "Costello.",
+        "author": "Costello",
         "description": "Costello has had enough of intruders disturbing the peace in his monastery.",
         "locations": [
             "Isle of the Kings -> Costello's Room"
@@ -36749,7 +36749,7 @@
     },
     {
         "name": "Fartuvion's_Guide",
-        "author": "Fartuvion.",
+        "author": "Fartuvion",
         "description": "?",
         "locations": [
             "Edron -> Old Fortress"
@@ -38573,7 +38573,7 @@
     },
     {
         "name": "The_Inexperienced_Human",
-        "author": "Cipfried.",
+        "author": "Cipfried",
         "description": "The priest of Rookgaard has seen the unfortunate fate of many an overeager adventurer.",
         "locations": [
             "Secret Library -> Player Library"
