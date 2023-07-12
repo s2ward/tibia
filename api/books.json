@@ -11975,7 +11975,7 @@
     },
     {
         "name": "Isle_of_Evil",
-        "author": "Unkown",
+        "author": "?",
         "description": "Importance of reaching Isle of Evil and defeating its master.",
         "locations": [
             "Kazordoon -> Rapanaio"
@@ -16499,7 +16499,7 @@
     },
     {
         "name": "The_Fauna_and_Flora_of_the_Isle_of_Oramond",
-        "author": "DoctorAlaistarStanton",
+        "author": "Doctor Alaistar Stanton",
         "description": "Thoughts on Oramond's past and the conflict with Minotaurs",
         "locations": [
             "Rathleton -> The Barbican"
