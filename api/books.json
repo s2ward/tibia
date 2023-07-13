@@ -1864,7 +1864,7 @@
         "related-articles": [
             "_NOREL"
         ],
-        "next-book": "Divination_Spell",
+        "next-book": "Researchpaper_44-33_C",
         "previous-book": "Researchpaper_33-16_H",
         "img": [
             "Paper"
@@ -1954,7 +1954,7 @@
             }
         ],
         "next-book": "Researchpaper_74-08_G",
-        "previous-book": "Divination_Spell",
+        "previous-book": "Researchpaper_44-33_C",
         "img": [
             "Paper"
         ],
@@ -2355,7 +2355,7 @@
         "type": "book"
     },
     {
-        "name": "Divination_Spell",
+        "name": "Researchpaper_44-33_C",
         "author": "?",
         "description": "Research into the Divination Spell.",
         "locations": [
