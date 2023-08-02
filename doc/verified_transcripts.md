@@ -467,6 +467,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zedrulon the Fallen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Zedrulon_the_Fallen.txt)  
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bertha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Bertha.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Buddel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Buddel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Haba</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Captain_Haba.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Formorgar Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Restless Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines/A_Restless_Soul.txt)  
