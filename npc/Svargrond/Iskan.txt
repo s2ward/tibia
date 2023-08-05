@@ -1,30 +1,60 @@
-Player: Hi  
-Iskan: HAIL to the Warlord of the arena! Player, Hero of Svargrond! What can I do for you?  
-Player: Name  
-Iskan: I am Iskan.  
-Player: Job  
-Iskan: I run the dog sled service from this city to Nibelor.  
-Player: Nibelor  
-Iskan: I can bring you to Nibelor with the sled if you want to. Just ask for a passage.  
-Player: Passage  
-Iskan: So, do you want a passage to Nibelor my friend?  
-Player: Gods  
-Iskan: In my whole long life, I've not seen any sign of those gods the people of the south are constantly talking about.  
-Player: King / Queen  
-Iskan: We don't need any kings or queens. Am I right, boys? Yeah, I am.  
-Player: Chakoya  
-Iskan: Nasty little beasts. Me and the boys had quite some bloody encounters with them on the ice.  
-Player: Yeti  
-Iskan: The yeti is real and dangerous.  
-Player: Ferumbras  
-Iskan: Easy, boys! Don't mention that name again. Makes the boys nuts, ye know?  
-Player: Svargrond  
-Iskan: This city seems to be growing every day. First, there have been only a few huts and now ... look around, houses everywhere.  
-Player: Excalibug  
-Iskan: Yeah, where could it be. That's the question.  
-Player: Chyll  
-Iskan: The icy father. We know him all too well, am I right boys? He has claimed so many old friends in all those years. So many.  
-Player: Rumours  
-Iskan: I heard something about a ship crashing in the shelf ice between Nibelor and Grimlund. If I were you, I wouldn't go to chakoya terrain. It's pretty dangerous.  
-Player: Bye  
-Iskan: Farewell, Warlord of the arena, Player, Hero of Svargrond!  
+Player: hi
+Iskan: HAIL to the Warlord of the arena! Player Hero of Svargrond! What can I do for you?
+Player: name
+Iskan: I am Iskan.
+Player: do for you / job
+Iskan: I run the dog sled service from this city to Nibelor.
+Player: nibelor
+Iskan: I can bring you to Nibelor with the sled if you want to. Just ask for a passage.
+Player: passage
+Iskan: So, do you want a passage to Nibelor my friend?
+Player: yes
+Iskan: And here we go.
+Player: no
+Iskan: As you wish.
+Player: rumour
+Iskan: I heard something about a ship crashing in the shelf ice between Nibelor and Grimlund. If I were you, I wouldn't go to chakoya terrain. It's pretty dangerous.
+Player: test
+Iskan: I am not sure what to think about this new custom to accept foreigners as one of us after passing that test. But it's the Jarl's decision, not mine.
+Player: barbarian
+Iskan: Our people are very proud and honest. I guess that's more than most people can say about themselves and their people, right boys?
+Player: shamans
+Iskan: I guess there are guys like me that have a talent to talk to dogs and there are guys like the shamans that have the talent to talk to spirits.
+Player: druids
+Iskan: I guess their healing powers are almost as useful as those of our shamans.
+Player: camps
+Iskan: The raiders camps are far to the south. There are three of them. Small camp sites of raiding parties might be found almost anywhere though.
+Player: raiders
+Iskan: They are sometimes trying to catch me and the boys. Such fools, they will never get us. Right, boys?
+Player: yeti
+Iskan: The yeti is real and dangerous.
+Player: bonelord
+Iskan: I'll tell you something. I have seen such a creature once, far on the ice to the east. It was the coldest winter I can remember and the chakoyas were roaming the ice almost everywhere. ...
+Iskan: To evade them, me and the boys had to walk a long way to a spot where the ice was treacherous and thin. ...
+Iskan: And there I've seen such a creature. The boys went almost mad and I turned my sled immediately. No idea how we made it home. True story.
+Player: chakoya
+Iskan: Nasty little beasts. Me and the boys had quite some bloody encounters with them on the ice.
+Player: leader
+Iskan: Sven the Younger is our current Jarl. For my standards he's still a puppy, but a smart one at least.
+Player: king / queen
+Iskan: We don't need any kings or queens. Am I right, boys? Yeah, I am.
+Player: monster
+Iskan: The boys warn me in advance if a monster is around.
+Player: enemies
+Iskan: The boys can tell who's an enemy just by the smell.
+Player: edron / thais / carlin / venore / port hope
+Iskan: Me and the boys care only about our own territory.
+Player: svargrond / city
+Iskan: This city seems to be growing every day. First, there have been only a few huts and now ... look around, houses everywhere.
+Player: cult
+Iskan: My boys did not like the guys that were travelling through our city, and I trust in their instincts. Isn't it so, boys?
+Player: gods / zathroth / uman / banor
+Iskan: In my whole long life, I've not seen any sign of those gods the people of the south are constantly talking about.
+Player: chyll
+Iskan: The icy father. We know him all too well, am I right boys? He has claimed so many old friends in all those years. So many.
+Player: ferumbras
+Iskan: Easy, boys! Don't mention that name again. Makes the boys nuts, ye know?
+Player: excalibug
+Iskan: Yeah, where could it be. That's the question.
+Player: bye
+Iskan: Farewell, Warlord of the arena, Player Hero of Svargrond!
