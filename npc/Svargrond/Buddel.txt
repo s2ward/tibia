@@ -55,6 +55,8 @@ Player: dwarven ring
 Buddel: I've never seen one, but this thing comes straight out of *HICKS* hell.
 Player: join
 Buddel: No, no, no, that flask is all mine I will not allow you to join in.
+Player: honourary
+Buddel: Hono..what? *HICKS*
 Player: Mine
 Buddel: What is yours? Not that flask here that's mine!
 Player: monster / enemy
