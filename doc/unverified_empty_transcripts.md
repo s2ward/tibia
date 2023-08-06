@@ -461,7 +461,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Planestrider (NPC)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location)/Planestrider_(NPC).txt)  
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Starving Dog</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/A_Starving_Dog.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Breezelda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Captain_Breezelda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dankwart</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Dankwart.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Eirik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Formorgar Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines)  
