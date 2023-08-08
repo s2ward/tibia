@@ -333,8 +333,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gelidrazah's Thirst</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Gelidrazah's_Thirst.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimlund</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Grimlund)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Sinatuki</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Grimlund/Sinatuki.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Krimhorn</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Nor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Nor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nomad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nomad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Percht Island</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Percht_Island)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Frosty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Percht_Island/Frosty.txt)  
