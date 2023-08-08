@@ -162,7 +162,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Halvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Halvar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkyr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Hawkyr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jessica</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Jessica.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kjesse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Kjesse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Sirik.txt)  
