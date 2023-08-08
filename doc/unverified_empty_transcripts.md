@@ -473,7 +473,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkyr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Hawkyr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jessica</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Jessica.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Krimhorn</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Freezhild</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Freezhild.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Nor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Nor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nomad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nomad.txt)  
