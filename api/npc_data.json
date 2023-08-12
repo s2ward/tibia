@@ -17,7 +17,7 @@
         "dialogues": []
     },
     {
-        "name": "A Bearded Woman",
+        "name": "A_Bearded_Woman",
         "job": "Artist",
         "race": "Human",
         "gender": "Male",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "name": "A Beautiful Girl",
+        "name": "A_Beautiful_Girl",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "name": "A Beggar",
+        "name": "A_Beggar",
         "job": "Beggar",
         "race": "Human",
         "gender": "Male",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "name": "A Behemoth",
+        "name": "A_Behemoth",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "name": "A Confused Frog",
+        "name": "A_Confused_Frog",
         "job": "Assistant",
         "race": "Frog",
         "gender": "Male",
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "name": "A Dark Priestess",
+        "name": "A_Dark_Priestess",
         "job": "Cleric",
         "race": "Human",
         "gender": "Female",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "name": "A Dead Bureaucrat",
+        "name": "A_Dead_Bureaucrat",
         "job": "Servant",
         "race": "Undead",
         "gender": "Unknown",
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "name": "A Dragon Lord",
+        "name": "A_Dragon_Lord",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -199,7 +199,7 @@
         ]
     },
     {
-        "name": "A Dragon Mother",
+        "name": "A_Dragon_Mother",
         "job": "Caretaker",
         "race": "Dragon",
         "gender": "Female",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "name": "A Drillworm",
+        "name": "A_Drillworm",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -246,7 +246,7 @@
         ]
     },
     {
-        "name": "A Dwarven Ghost",
+        "name": "A_Dwarven_Ghost",
         "job": "Unknown",
         "race": "Dwarf",
         "gender": "Male",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "name": "A Fading Memory",
+        "name": "A_Fading_Memory",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Female",
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "name": "A Fluffy Squirrel",
+        "name": "A_Fluffy_Squirrel",
         "job": "Collector",
         "race": "Squirrels",
         "gender": "Unknown",
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "name": "A Frog",
+        "name": "A_Frog",
         "job": "Assistant",
         "race": "Frog",
         "gender": "Male",
@@ -326,7 +326,7 @@
         ]
     },
     {
-        "name": "A Ghostly Guardian",
+        "name": "A_Ghostly_Guardian",
         "job": "Guard",
         "race": "Undead",
         "gender": "Male",
@@ -343,7 +343,7 @@
         ]
     },
     {
-        "name": "A Ghostly Knight",
+        "name": "A_Ghostly_Knight",
         "job": "Guard",
         "race": "Undead",
         "gender": "Male",
@@ -360,7 +360,7 @@
         ]
     },
     {
-        "name": "A Ghostly Sage",
+        "name": "A_Ghostly_Sage",
         "job": "Sage",
         "race": "Undead",
         "gender": "Male",
@@ -377,7 +377,7 @@
         ]
     },
     {
-        "name": "A Ghostly Woman",
+        "name": "A_Ghostly_Woman",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Female",
@@ -394,7 +394,7 @@
         ]
     },
     {
-        "name": "A Ghostly Woman (Dream Realm)",
+        "name": "A_Ghostly_Woman_(Dream_Realm)",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Female",
@@ -418,7 +418,7 @@
         ]
     },
     {
-        "name": "A Goblin Exile",
+        "name": "A_Goblin_Exile",
         "job": "Clairvoyant",
         "race": "Goblin",
         "gender": "Unknown",
@@ -435,7 +435,7 @@
         ]
     },
     {
-        "name": "A Grumpy Cyclops",
+        "name": "A_Grumpy_Cyclops",
         "job": "Artisan",
         "race": "Cyclops",
         "gender": "Male",
@@ -452,7 +452,7 @@
         ]
     },
     {
-        "name": "A Lost Basher",
+        "name": "A_Lost_Basher",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "name": "A Lost Husher",
+        "name": "A_Lost_Husher",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -496,7 +496,7 @@
         ]
     },
     {
-        "name": "A Lost Soul",
+        "name": "A_Lost_Soul",
         "job": "Unknown",
         "race": "Ghost",
         "gender": "Unknown",
@@ -513,7 +513,7 @@
         ]
     },
     {
-        "name": "A Lost Thrower",
+        "name": "A_Lost_Thrower",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -535,7 +535,7 @@
         ]
     },
     {
-        "name": "A Majestic Warwolf",
+        "name": "A_Majestic_Warwolf",
         "job": "Artist",
         "race": "Wolf",
         "gender": "Female",
@@ -559,7 +559,7 @@
         ]
     },
     {
-        "name": "A Nightmare Scion",
+        "name": "A_Nightmare_Scion",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -581,7 +581,7 @@
         ]
     },
     {
-        "name": "A Prisoner",
+        "name": "A_Prisoner",
         "job": "Sorcerer",
         "race": "Human",
         "gender": "Male",
@@ -607,7 +607,7 @@
         ]
     },
     {
-        "name": "A Restless Soul",
+        "name": "A_Restless_Soul",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Male",
@@ -629,7 +629,7 @@
         ]
     },
     {
-        "name": "A Runaway Goblin",
+        "name": "A_Runaway_Goblin",
         "job": "Merchant",
         "race": "Goblin",
         "gender": "Unknown",
@@ -651,7 +651,7 @@
         ]
     },
     {
-        "name": "A Skull",
+        "name": "A_Skull",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Unknown",
@@ -673,7 +673,7 @@
         ]
     },
     {
-        "name": "A Sleeping Dragon",
+        "name": "A_Sleeping_Dragon",
         "job": "Servant",
         "race": "Dragon",
         "gender": "Unknown",
@@ -695,7 +695,7 @@
         ]
     },
     {
-        "name": "A Starving Dog",
+        "name": "A_Starving_Dog",
         "job": "Worker",
         "race": "Dog",
         "gender": "Unknown",
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "name": "A Strange Chalice",
+        "name": "A_Strange_Chalice",
         "job": "Scientist",
         "race": "Animate",
         "gender": "Male",
@@ -746,7 +746,7 @@
         ]
     },
     {
-        "name": "A Strange Fellow",
+        "name": "A_Strange_Fellow",
         "job": "Artist",
         "race": "Human",
         "gender": "Male",
@@ -768,7 +768,7 @@
         ]
     },
     {
-        "name": "A Swan",
+        "name": "A_Swan",
         "job": "Guard",
         "race": "Fae",
         "gender": "Female",
@@ -790,7 +790,7 @@
         ]
     },
     {
-        "name": "A Sweaty Cyclops",
+        "name": "A_Sweaty_Cyclops",
         "job": "Artisan",
         "race": "Cyclops",
         "gender": "Male",
@@ -827,7 +827,7 @@
         ]
     },
     {
-        "name": "A Tainted Soul",
+        "name": "A_Tainted_Soul",
         "job": "Unknown",
         "race": "Undead",
         "gender": "Unknown",
@@ -844,7 +844,7 @@
         ]
     },
     {
-        "name": "A Tortured Soul",
+        "name": "A_Tortured_Soul",
         "job": "Unknown",
         "race": "Ghost",
         "gender": "Unknown",
@@ -861,7 +861,7 @@
         ]
     },
     {
-        "name": "A Vulcongra",
+        "name": "A_Vulcongra",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -883,7 +883,7 @@
         ]
     },
     {
-        "name": "A Wandering Soul",
+        "name": "A_Wandering_Soul",
         "job": "Mage",
         "race": "Undead",
         "gender": "Male",
@@ -908,7 +908,7 @@
         ]
     },
     {
-        "name": "A Wrinkled Bonelord",
+        "name": "A_Wrinkled_Bonelord",
         "job": "Librarian",
         "race": "Bonelord",
         "gender": "Unknown",
@@ -928,7 +928,7 @@
         ]
     },
     {
-        "name": "A Wyrm",
+        "name": "A_Wyrm",
         "job": "Spy",
         "race": "Gnome",
         "gender": "Male",
@@ -950,7 +950,7 @@
         ]
     },
     {
-        "name": "Abran Ironeye",
+        "name": "Abran_Ironeye",
         "job": "Shopmaster",
         "race": "Human",
         "gender": "Male",
@@ -984,7 +984,7 @@
         ]
     },
     {
-        "name": "Absentminded Assistant",
+        "name": "Absentminded_Assistant",
         "job": "Assistant",
         "race": "Human",
         "gender": "Male",
@@ -1001,7 +1001,7 @@
         ]
     },
     {
-        "name": "Admiral Wyrmslicer",
+        "name": "Admiral_Wyrmslicer",
         "job": "Officer",
         "race": "Human",
         "gender": "Male",
@@ -1116,7 +1116,7 @@
         ]
     },
     {
-        "name": "Al Dee",
+        "name": "Al_Dee",
         "job": "Equipment",
         "race": "Human",
         "gender": "Male",
@@ -1379,7 +1379,7 @@
         ]
     },
     {
-        "name": "Alternative Rock",
+        "name": "Alternative_Rock",
         "job": "Guard",
         "race": "Rockboy",
         "gender": "Unknown",
@@ -1498,7 +1498,7 @@
         ]
     },
     {
-        "name": "Ambassador of Rathleton",
+        "name": "Ambassador_of_Rathleton",
         "job": "Representative",
         "race": "Human",
         "gender": "Male",
@@ -1576,7 +1576,7 @@
         ]
     },
     {
-        "name": "An Ancient Priest",
+        "name": "An_Ancient_Priest",
         "job": "Cleric",
         "race": "Human",
         "gender": "Male",
@@ -1593,7 +1593,7 @@
         ]
     },
     {
-        "name": "An Apparition",
+        "name": "An_Apparition",
         "job": "Unknown",
         "race": "Ghost",
         "gender": "Unknown",
@@ -1610,7 +1610,7 @@
         ]
     },
     {
-        "name": "An Idol",
+        "name": "An_Idol",
         "job": "Unknown",
         "race": "Deepling",
         "gender": "Unknown",
@@ -1632,7 +1632,7 @@
         ]
     },
     {
-        "name": "An Imprisoned Goblin",
+        "name": "An_Imprisoned_Goblin",
         "job": "Servant",
         "race": "Goblin",
         "gender": "Unknown",
@@ -1658,7 +1658,7 @@
         ]
     },
     {
-        "name": "An Old Dragonlord",
+        "name": "An_Old_Dragonlord",
         "job": "Monarch",
         "race": "Dragon",
         "gender": "Male",
@@ -1677,7 +1677,7 @@
         ]
     },
     {
-        "name": "An Orc Guard",
+        "name": "An_Orc_Guard",
         "job": "Guard",
         "race": "Orc",
         "gender": "Male",
@@ -1716,7 +1716,7 @@
         ]
     },
     {
-        "name": "Andrew Lyze",
+        "name": "Andrew_Lyze",
         "job": "Unknown",
         "race": "Dwarf",
         "gender": "Male",
@@ -2320,7 +2320,7 @@
         ]
     },
     {
-        "name": "Avar Tar",
+        "name": "Avar_Tar",
         "job": "Hero",
         "race": "Human",
         "gender": "Male",
@@ -2346,7 +2346,7 @@
         ]
     },
     {
-        "name": "Awareness of the Emperor",
+        "name": "Awareness_of_the_Emperor",
         "job": "Monarch",
         "race": "Dragon",
         "gender": "Male",
@@ -2428,7 +2428,7 @@
         ]
     },
     {
-        "name": "Balduin The Baker",
+        "name": "Balduin_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -2464,7 +2464,7 @@
         ]
     },
     {
-        "name": "Bambi Bonecrusher",
+        "name": "Bambi_Bonecrusher",
         "job": "Guard",
         "race": "Human",
         "gender": "Female",
@@ -2515,7 +2515,7 @@
         ]
     },
     {
-        "name": "Barnabas Dee",
+        "name": "Barnabas_Dee",
         "job": "Sorcerer",
         "race": "Human",
         "gender": "Male",
@@ -2747,7 +2747,7 @@
         ]
     },
     {
-        "name": "Benny The Baker",
+        "name": "Benny_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -2851,7 +2851,7 @@
         ]
     },
     {
-        "name": "Biff The Baker",
+        "name": "Biff_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -2870,7 +2870,7 @@
         ]
     },
     {
-        "name": "Bigfoot Soldier",
+        "name": "Bigfoot_Soldier",
         "job": "Guard",
         "race": "Human",
         "gender": "Female",
@@ -2889,7 +2889,7 @@
         ]
     },
     {
-        "name": "Bill The Worker",
+        "name": "Bill_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -2944,7 +2944,7 @@
         ]
     },
     {
-        "name": "Billy The Baker",
+        "name": "Billy_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -2963,7 +2963,7 @@
         ]
     },
     {
-        "name": "Black Bert",
+        "name": "Black_Bert",
         "job": "Thief",
         "race": "Human",
         "gender": "Male",
@@ -2987,7 +2987,7 @@
         ]
     },
     {
-        "name": "Blind Orc",
+        "name": "Blind_Orc",
         "job": "Shopkeeper",
         "race": "Orc",
         "gender": "Male",
@@ -3004,7 +3004,7 @@
         ]
     },
     {
-        "name": "Blossom Bonecrusher",
+        "name": "Blossom_Bonecrusher",
         "job": "Guard",
         "race": "Human",
         "gender": "Female",
@@ -3062,7 +3062,7 @@
         ]
     },
     {
-        "name": "Boasty Twoeyes",
+        "name": "Boasty_Twoeyes",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -3079,7 +3079,7 @@
         ]
     },
     {
-        "name": "Bob The Worker",
+        "name": "Bob_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -3181,7 +3181,7 @@
         ]
     },
     {
-        "name": "Bounac Guard",
+        "name": "Bounac_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -3370,7 +3370,7 @@
         ]
     },
     {
-        "name": "Brian The Baker",
+        "name": "Brian_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -3413,7 +3413,7 @@
         ]
     },
     {
-        "name": "Brodraem Orcbeard",
+        "name": "Brodraem_Orcbeard",
         "job": "Unknown",
         "race": "Dwarf",
         "gender": "Male",
@@ -3449,7 +3449,7 @@
         ]
     },
     {
-        "name": "Broken Servant Sentry",
+        "name": "Broken_Servant_Sentry",
         "job": "Servant",
         "race": "Machine",
         "gender": "Unknown",
@@ -3574,7 +3574,7 @@
         ]
     },
     {
-        "name": "Brutus The Baker",
+        "name": "Brutus_The_Baker",
         "job": "Member",
         "race": "Human",
         "gender": "Male",
@@ -3658,7 +3658,7 @@
         ]
     },
     {
-        "name": "Bunny Bonecrusher",
+        "name": "Bunny_Bonecrusher",
         "job": "Officer",
         "race": "Human",
         "gender": "Female",
@@ -3704,7 +3704,7 @@
         ]
     },
     {
-        "name": "Busty Bonecrusher",
+        "name": "Busty_Bonecrusher",
         "job": "Guard",
         "race": "Human",
         "gender": "Female",
@@ -3783,7 +3783,7 @@
         ]
     },
     {
-        "name": "Captain Bluebear",
+        "name": "Captain_Bluebear",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -3802,7 +3802,7 @@
         ]
     },
     {
-        "name": "Captain Breezelda",
+        "name": "Captain_Breezelda",
         "job": "Ship",
         "race": "Human",
         "gender": "Female",
@@ -3821,7 +3821,7 @@
         ]
     },
     {
-        "name": "Captain Chelop",
+        "name": "Captain_Chelop",
         "job": "Inquisitor",
         "race": "Human",
         "gender": "Male",
@@ -3840,7 +3840,7 @@
         ]
     },
     {
-        "name": "Captain Coohan",
+        "name": "Captain_Coohan",
         "job": "Captain",
         "race": "Rascoohan",
         "gender": "Male",
@@ -3862,7 +3862,7 @@
         ]
     },
     {
-        "name": "Captain Cookie",
+        "name": "Captain_Cookie",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -3879,7 +3879,7 @@
         ]
     },
     {
-        "name": "Captain Dreadnought",
+        "name": "Captain_Dreadnought",
         "job": "Ship",
         "race": "Human",
         "gender": "Female",
@@ -3902,7 +3902,7 @@
         ]
     },
     {
-        "name": "Captain Fearless",
+        "name": "Captain_Fearless",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -3921,7 +3921,7 @@
         ]
     },
     {
-        "name": "Captain Greyhound",
+        "name": "Captain_Greyhound",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -3938,7 +3938,7 @@
         ]
     },
     {
-        "name": "Captain Gulliver",
+        "name": "Captain_Gulliver",
         "job": "Ferryman",
         "race": "Human",
         "gender": "Male",
@@ -3959,7 +3959,7 @@
         ]
     },
     {
-        "name": "Captain Haba",
+        "name": "Captain_Haba",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -3986,7 +3986,7 @@
         ]
     },
     {
-        "name": "Captain Harava",
+        "name": "Captain_Harava",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4007,7 +4007,7 @@
         ]
     },
     {
-        "name": "Captain Jack",
+        "name": "Captain_Jack",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4024,7 +4024,7 @@
         ]
     },
     {
-        "name": "Captain Jack Rat",
+        "name": "Captain_Jack_Rat",
         "job": "Captain",
         "race": "Rascoohan",
         "gender": "Male",
@@ -4046,7 +4046,7 @@
         ]
     },
     {
-        "name": "Captain Kurt",
+        "name": "Captain_Kurt",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4065,7 +4065,7 @@
         ]
     },
     {
-        "name": "Captain Max",
+        "name": "Captain_Max",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4097,7 +4097,7 @@
         ]
     },
     {
-        "name": "Captain Pelagia",
+        "name": "Captain_Pelagia",
         "job": "Ship",
         "race": "Human",
         "gender": "Female",
@@ -4116,7 +4116,7 @@
         ]
     },
     {
-        "name": "Captain Seagull",
+        "name": "Captain_Seagull",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4133,7 +4133,7 @@
         ]
     },
     {
-        "name": "Captain Seahorse",
+        "name": "Captain_Seahorse",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4150,7 +4150,7 @@
         ]
     },
     {
-        "name": "Captain Sinbeard",
+        "name": "Captain_Sinbeard",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4167,7 +4167,7 @@
         ]
     },
     {
-        "name": "Captain Tiberius",
+        "name": "Captain_Tiberius",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -4186,7 +4186,7 @@
         ]
     },
     {
-        "name": "Captain Waverider",
+        "name": "Captain_Waverider",
         "job": "Ferryman",
         "race": "Human",
         "gender": "Male",
@@ -4525,7 +4525,7 @@
         ]
     },
     {
-        "name": "Cheesy the Chosen",
+        "name": "Cheesy_the_Chosen",
         "job": "Unknown",
         "race": "Corym",
         "gender": "Male",
@@ -4581,7 +4581,7 @@
         ]
     },
     {
-        "name": "Chester Kahs",
+        "name": "Chester_Kahs",
         "job": "Spy",
         "race": "Human",
         "gender": "Male",
@@ -4613,7 +4613,7 @@
         ]
     },
     {
-        "name": "Chief Grarkharok",
+        "name": "Chief_Grarkharok",
         "job": "Chief",
         "race": "Troll",
         "gender": "Male",
@@ -4773,7 +4773,7 @@
         ]
     },
     {
-        "name": "Chuck The Worker",
+        "name": "Chuck_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -4959,7 +4959,7 @@
         ]
     },
     {
-        "name": "Commander Stone",
+        "name": "Commander_Stone",
         "job": "Officer",
         "race": "Human",
         "gender": "Male",
@@ -5019,7 +5019,7 @@
         ]
     },
     {
-        "name": "Corym Butler",
+        "name": "Corym_Butler",
         "job": "Worker",
         "race": "Corym",
         "gender": "Male",
@@ -5041,7 +5041,7 @@
         ]
     },
     {
-        "name": "Corym Footman",
+        "name": "Corym_Footman",
         "job": "Worker",
         "race": "Corym",
         "gender": "Male",
@@ -5063,7 +5063,7 @@
         ]
     },
     {
-        "name": "Corym Ratter",
+        "name": "Corym_Ratter",
         "job": "Foreman",
         "race": "Corym",
         "gender": "Male",
@@ -5085,7 +5085,7 @@
         ]
     },
     {
-        "name": "Corym Servant",
+        "name": "Corym_Servant",
         "job": "Servant",
         "race": "Corym",
         "gender": "Male",
@@ -5109,7 +5109,7 @@
         ]
     },
     {
-        "name": "Corym Slave",
+        "name": "Corym_Slave",
         "job": "Worker",
         "race": "Corym",
         "gender": "Male",
@@ -5133,7 +5133,7 @@
         ]
     },
     {
-        "name": "Corym Worker",
+        "name": "Corym_Worker",
         "job": "Worker",
         "race": "Corym",
         "gender": "Male",
@@ -5179,7 +5179,7 @@
         ]
     },
     {
-        "name": "Cranky Lizard Crone",
+        "name": "Cranky_Lizard_Crone",
         "job": "Fisherman",
         "race": "Lizard",
         "gender": "Female",
@@ -5205,7 +5205,7 @@
         ]
     },
     {
-        "name": "Crowned Tree",
+        "name": "Crowned_Tree",
         "job": "Unknown",
         "race": "Tree",
         "gender": "Unknown",
@@ -5311,7 +5311,7 @@
         ]
     },
     {
-        "name": "Dal the Huntress",
+        "name": "Dal_the_Huntress",
         "job": "Hunter",
         "race": "Human",
         "gender": "Female",
@@ -5377,7 +5377,7 @@
         ]
     },
     {
-        "name": "Dancing Fairy",
+        "name": "Dancing_Fairy",
         "job": "Unknown",
         "race": "Pixie",
         "gender": "Female",
@@ -5420,7 +5420,7 @@
         ]
     },
     {
-        "name": "Daniel Steelsoul",
+        "name": "Daniel_Steelsoul",
         "job": "Representative",
         "race": "Human",
         "gender": "Male",
@@ -5529,7 +5529,7 @@
         ]
     },
     {
-        "name": "Deepling Idol",
+        "name": "Deepling_Idol",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -5551,7 +5551,7 @@
         ]
     },
     {
-        "name": "Demon Mother",
+        "name": "Demon_Mother",
         "job": "Caretaker",
         "race": "Demon",
         "gender": "Female",
@@ -5572,7 +5572,7 @@
         ]
     },
     {
-        "name": "Demon Skeleton",
+        "name": "Demon_Skeleton",
         "job": "Guard",
         "race": "Undead",
         "gender": "Unknown",
@@ -5606,7 +5606,7 @@
         ]
     },
     {
-        "name": "Demonic Messenger",
+        "name": "Demonic_Messenger",
         "job": "Messenger",
         "race": "Demon",
         "gender": "Male",
@@ -5780,7 +5780,7 @@
         ]
     },
     {
-        "name": "Doctor Gnomedix",
+        "name": "Doctor_Gnomedix",
         "job": "Physician",
         "race": "Gnome",
         "gender": "Male",
@@ -5807,7 +5807,7 @@
         ]
     },
     {
-        "name": "Dog Lady",
+        "name": "Dog_Lady",
         "job": "Caretaker",
         "race": "Dog",
         "gender": "Female",
@@ -5846,7 +5846,7 @@
         ]
     },
     {
-        "name": "Donald McRonald",
+        "name": "Donald_McRonald",
         "job": "Farmer",
         "race": "Human",
         "gender": "Male",
@@ -5962,7 +5962,7 @@
         ]
     },
     {
-        "name": "Dr Merlay",
+        "name": "Dr_Merlay",
         "job": "Scientist",
         "race": "Human",
         "gender": "Male",
@@ -5990,7 +5990,7 @@
         ]
     },
     {
-        "name": "Dread Guardian",
+        "name": "Dread_Guardian",
         "job": "Guard",
         "race": "Animate",
         "gender": "Female",
@@ -6029,7 +6029,7 @@
         ]
     },
     {
-        "name": "Dream Butterfly",
+        "name": "Dream_Butterfly",
         "job": "Inquisitor",
         "race": "Butterfly",
         "gender": "Unknown",
@@ -6120,7 +6120,7 @@
         ]
     },
     {
-        "name": "Druid Yandur",
+        "name": "Druid_Yandur",
         "job": "Druid",
         "race": "Human",
         "gender": "Male",
@@ -6142,7 +6142,7 @@
         ]
     },
     {
-        "name": "Drystan Wildweed",
+        "name": "Drystan_Wildweed",
         "job": "Druid",
         "race": "Human",
         "gender": "Male",
@@ -6239,7 +6239,7 @@
         ]
     },
     {
-        "name": "Dwarf Captain",
+        "name": "Dwarf_Captain",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6263,7 +6263,7 @@
         ]
     },
     {
-        "name": "Dwarf Deep Guard",
+        "name": "Dwarf_Deep_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6284,7 +6284,7 @@
         ]
     },
     {
-        "name": "Dwarf Explorer",
+        "name": "Dwarf_Explorer",
         "job": "Explorer",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6308,7 +6308,7 @@
         ]
     },
     {
-        "name": "Dwarf Guard Day Shift",
+        "name": "Dwarf_Guard_Day_Shift",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6329,7 +6329,7 @@
         ]
     },
     {
-        "name": "Dwarf Guard Night Shift",
+        "name": "Dwarf_Guard_Night_Shift",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6350,7 +6350,7 @@
         ]
     },
     {
-        "name": "Dwarf Outpost Soldier",
+        "name": "Dwarf_Outpost_Soldier",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Unknown",
@@ -6371,7 +6371,7 @@
         ]
     },
     {
-        "name": "Dwarven Guard",
+        "name": "Dwarven_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -6588,7 +6588,7 @@
         ]
     },
     {
-        "name": "Edron Guardsman",
+        "name": "Edron_Guardsman",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -6747,7 +6747,7 @@
         ]
     },
     {
-        "name": "Elf Guard",
+        "name": "Elf_Guard",
         "job": "Guard",
         "race": "Elf",
         "gender": "Unknown",
@@ -6846,7 +6846,7 @@
         ]
     },
     {
-        "name": "Elyen Ravenlock",
+        "name": "Elyen_Ravenlock",
         "job": "Cleric",
         "race": "Human",
         "gender": "Female",
@@ -6974,7 +6974,7 @@
         ]
     },
     {
-        "name": "Emperor Kruzak",
+        "name": "Emperor_Kruzak",
         "job": "Monarch",
         "race": "Dwarf",
         "gender": "Male",
@@ -6996,7 +6996,7 @@
         ]
     },
     {
-        "name": "Emperor Rehal",
+        "name": "Emperor_Rehal",
         "job": "Monarch",
         "race": "Dwarf",
         "gender": "Male",
@@ -7121,7 +7121,7 @@
         ]
     },
     {
-        "name": "Escaped Rascoohan",
+        "name": "Escaped_Rascoohan",
         "job": "Unknown",
         "race": "Rascoohan",
         "gender": "Unknown",
@@ -7243,7 +7243,7 @@
         ]
     },
     {
-        "name": "Eustacio's Spy Rat",
+        "name": "Eustacio's_Spy_Rat",
         "job": "Spy",
         "race": "Human",
         "gender": "Male",
@@ -7318,7 +7318,7 @@
         ]
     },
     {
-        "name": "Evrard the Miller",
+        "name": "Evrard_the_Miller",
         "job": "Miller",
         "race": "Human",
         "gender": "Male",
@@ -7335,7 +7335,7 @@
         ]
     },
     {
-        "name": "Excited Tibian",
+        "name": "Excited_Tibian",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -7523,7 +7523,7 @@
         ]
     },
     {
-        "name": "Farhilorn of the Winter Court",
+        "name": "Farhilorn_of_the_Winter_Court",
         "job": "Unknown",
         "race": "Dreamelf",
         "gender": "Male",
@@ -7650,7 +7650,7 @@
         ]
     },
     {
-        "name": "Ferryman Kamil",
+        "name": "Ferryman_Kamil",
         "job": "Ferryman",
         "race": "Human",
         "gender": "Male",
@@ -7759,7 +7759,7 @@
         ]
     },
     {
-        "name": "Flickering Soul",
+        "name": "Flickering_Soul",
         "job": "Necromancer",
         "race": "Undead",
         "gender": "Male",
@@ -7858,7 +7858,7 @@
         ]
     },
     {
-        "name": "Fral the Butcher",
+        "name": "Fral_the_Butcher",
         "job": "Food",
         "race": "Elf",
         "gender": "Unknown",
@@ -7875,7 +7875,7 @@
         ]
     },
     {
-        "name": "Frank The Plank",
+        "name": "Frank_The_Plank",
         "job": "Explorer",
         "race": "Human",
         "gender": "Male",
@@ -8004,7 +8004,7 @@
         ]
     },
     {
-        "name": "Frok, The Guard",
+        "name": "Frok,_The_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -8079,7 +8079,7 @@
         ]
     },
     {
-        "name": "GNOPS Member",
+        "name": "GNOPS_Member",
         "job": "Unknown",
         "race": "Gnome",
         "gender": "Male",
@@ -8284,7 +8284,7 @@
         ]
     },
     {
-        "name": "Gate Guardian",
+        "name": "Gate_Guardian",
         "job": "Guard",
         "race": "Draken",
         "gender": "Unknown",
@@ -8345,7 +8345,7 @@
         ]
     },
     {
-        "name": "Gelidrazah's Thirst",
+        "name": "Gelidrazah's_Thirst",
         "job": "Guard",
         "race": "Dragon",
         "gender": "Female",
@@ -8384,7 +8384,7 @@
         ]
     },
     {
-        "name": "George The Boyscout",
+        "name": "George_The_Boyscout",
         "job": "Explorer",
         "race": "Human",
         "gender": "Male",
@@ -8401,7 +8401,7 @@
         ]
     },
     {
-        "name": "Georgia Rainbird",
+        "name": "Georgia_Rainbird",
         "job": "Scientist",
         "race": "Human",
         "gender": "Female",
@@ -8490,7 +8490,7 @@
         ]
     },
     {
-        "name": "Ghost Captain",
+        "name": "Ghost_Captain",
         "job": "Ship",
         "race": "Undead",
         "gender": "Male",
@@ -8509,7 +8509,7 @@
         ]
     },
     {
-        "name": "Ghost of a Priest",
+        "name": "Ghost_of_a_Priest",
         "job": "Guard",
         "race": "Human",
         "gender": "Unknown",
@@ -8531,7 +8531,7 @@
         ]
     },
     {
-        "name": "Ghostly Wolf",
+        "name": "Ghostly_Wolf",
         "job": "Unknown",
         "race": "Wolf",
         "gender": "Female",
@@ -8556,7 +8556,7 @@
         ]
     },
     {
-        "name": "Gilmak Copperbeard",
+        "name": "Gilmak_Copperbeard",
         "job": "Unknown",
         "race": "Dwarf",
         "gender": "Male",
@@ -8617,7 +8617,7 @@
         ]
     },
     {
-        "name": "Glimpse of Allusion",
+        "name": "Glimpse_of_Allusion",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -8816,7 +8816,7 @@
         ]
     },
     {
-        "name": "Gnome Crystalomancer",
+        "name": "Gnome_Crystalomancer",
         "job": "Unknown",
         "race": "Gnome",
         "gender": "Male",
@@ -8840,7 +8840,7 @@
         ]
     },
     {
-        "name": "Gnome Explorer",
+        "name": "Gnome_Explorer",
         "job": "Explorer",
         "race": "Gnome",
         "gender": "Male",
@@ -8864,7 +8864,7 @@
         ]
     },
     {
-        "name": "Gnome Gemsplicer",
+        "name": "Gnome_Gemsplicer",
         "job": "Gemsplicer",
         "race": "Gnome",
         "gender": "Male",
@@ -8888,7 +8888,7 @@
         ]
     },
     {
-        "name": "Gnome Guard",
+        "name": "Gnome_Guard",
         "job": "Guard",
         "race": "Gnome",
         "gender": "Male",
@@ -8909,7 +8909,7 @@
         ]
     },
     {
-        "name": "Gnome Guard Captain",
+        "name": "Gnome_Guard_Captain",
         "job": "Guard",
         "race": "Gnome",
         "gender": "Male",
@@ -8933,7 +8933,7 @@
         ]
     },
     {
-        "name": "Gnome Guard Night Shift",
+        "name": "Gnome_Guard_Night_Shift",
         "job": "Guard",
         "race": "Gnome",
         "gender": "Male",
@@ -8954,7 +8954,7 @@
         ]
     },
     {
-        "name": "Gnome Outer Guard",
+        "name": "Gnome_Outer_Guard",
         "job": "Guard",
         "race": "Gnome",
         "gender": "Male",
@@ -8978,7 +8978,7 @@
         ]
     },
     {
-        "name": "Gnome Trooper",
+        "name": "Gnome_Trooper",
         "job": "Guard",
         "race": "Gnome",
         "gender": "Male",
@@ -9470,7 +9470,7 @@
         ]
     },
     {
-        "name": "Gnomish Operative (Firefoot)",
+        "name": "Gnomish_Operative_(Firefoot)",
         "job": "Archeologist",
         "race": "Gnome",
         "gender": "Unknown",
@@ -9496,7 +9496,7 @@
         ]
     },
     {
-        "name": "Gnomish Operative (GT-M-01)",
+        "name": "Gnomish_Operative_(GT-M-01)",
         "job": "Archeologist",
         "race": "Gnome",
         "gender": "Unknown",
@@ -9522,7 +9522,7 @@
         ]
     },
     {
-        "name": "Gnomish Operative (Moss)",
+        "name": "Gnomish_Operative_(Moss)",
         "job": "Archeologist",
         "race": "Gnome",
         "gender": "Unknown",
@@ -9548,7 +9548,7 @@
         ]
     },
     {
-        "name": "Gnomish Operative (Testing)",
+        "name": "Gnomish_Operative_(Testing)",
         "job": "Inventor",
         "race": "Gnome",
         "gender": "Unknown",
@@ -9573,7 +9573,7 @@
         ]
     },
     {
-        "name": "Gnomish Operative (Volcano)",
+        "name": "Gnomish_Operative_(Volcano)",
         "job": "Scientist",
         "race": "Gnome",
         "gender": "Unknown",
@@ -9765,7 +9765,7 @@
         ]
     },
     {
-        "name": "Golem Guardian",
+        "name": "Golem_Guardian",
         "job": "Guard",
         "race": "Machine",
         "gender": "Unknown",
@@ -9789,7 +9789,7 @@
         ]
     },
     {
-        "name": "Golem Servant",
+        "name": "Golem_Servant",
         "job": "Servant",
         "race": "Machine",
         "gender": "Unknown",
@@ -9886,7 +9886,7 @@
         ]
     },
     {
-        "name": "Gree Dee",
+        "name": "Gree_Dee",
         "job": "Equipment",
         "race": "Human",
         "gender": "Male",
@@ -9930,7 +9930,7 @@
         ]
     },
     {
-        "name": "Grizzly Adams",
+        "name": "Grizzly_Adams",
         "job": "Hunter",
         "race": "Human",
         "gender": "Male",
@@ -9979,7 +9979,7 @@
         ]
     },
     {
-        "name": "Grof, The Guard",
+        "name": "Grof,_The_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -10073,7 +10073,7 @@
         ]
     },
     {
-        "name": "Grumpy Stone",
+        "name": "Grumpy_Stone",
         "job": "Unknown",
         "race": "Fae",
         "gender": "Unknown",
@@ -10095,7 +10095,7 @@
         ]
     },
     {
-        "name": "Guard Bazaya",
+        "name": "Guard_Bazaya",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -10112,7 +10112,7 @@
         ]
     },
     {
-        "name": "Guard Inurta",
+        "name": "Guard_Inurta",
         "job": "Guard",
         "race": "Human",
         "gender": "Female",
@@ -10129,7 +10129,7 @@
         ]
     },
     {
-        "name": "Guard Saros",
+        "name": "Guard_Saros",
         "job": "Guard",
         "race": "Minotaur",
         "gender": "Male",
@@ -10146,7 +10146,7 @@
         ]
     },
     {
-        "name": "Guard Senet",
+        "name": "Guard_Senet",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -10163,7 +10163,7 @@
         ]
     },
     {
-        "name": "Guardian of the Deep Seas",
+        "name": "Guardian_of_the_Deep_Seas",
         "job": "Guard",
         "race": "Crustacean",
         "gender": "Male",
@@ -10185,7 +10185,7 @@
         ]
     },
     {
-        "name": "Guide Alexena",
+        "name": "Guide_Alexena",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -10202,7 +10202,7 @@
         ]
     },
     {
-        "name": "Guide Behil",
+        "name": "Guide_Behil",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10219,7 +10219,7 @@
         ]
     },
     {
-        "name": "Guide Davina",
+        "name": "Guide_Davina",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -10241,7 +10241,7 @@
         ]
     },
     {
-        "name": "Guide Edna",
+        "name": "Guide_Edna",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -10258,7 +10258,7 @@
         ]
     },
     {
-        "name": "Guide Elena",
+        "name": "Guide_Elena",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -10281,7 +10281,7 @@
         ]
     },
     {
-        "name": "Guide Jonathan",
+        "name": "Guide_Jonathan",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10300,7 +10300,7 @@
         ]
     },
     {
-        "name": "Guide Kunibert",
+        "name": "Guide_Kunibert",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10323,7 +10323,7 @@
         ]
     },
     {
-        "name": "Guide Luke",
+        "name": "Guide_Luke",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10345,7 +10345,7 @@
         ]
     },
     {
-        "name": "Guide Meruka",
+        "name": "Guide_Meruka",
         "job": "Informer",
         "race": "Human",
         "gender": "Female",
@@ -10362,7 +10362,7 @@
         ]
     },
     {
-        "name": "Guide Rahlkora",
+        "name": "Guide_Rahlkora",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10379,7 +10379,7 @@
         ]
     },
     {
-        "name": "Guide Thelandil",
+        "name": "Guide_Thelandil",
         "job": "Informer",
         "race": "Elf",
         "gender": "Unknown",
@@ -10396,7 +10396,7 @@
         ]
     },
     {
-        "name": "Guide Tiko",
+        "name": "Guide_Tiko",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -10701,7 +10701,7 @@
         ]
     },
     {
-        "name": "Harkath Bloodblade",
+        "name": "Harkath_Bloodblade",
         "job": "Officer",
         "race": "Human",
         "gender": "Male",
@@ -10820,7 +10820,7 @@
         ]
     },
     {
-        "name": "Heavenly Messenger",
+        "name": "Heavenly_Messenger",
         "job": "Messenger",
         "race": "Ghosts",
         "gender": "Unknown",
@@ -10878,7 +10878,7 @@
         ]
     },
     {
-        "name": "Helsi Van Ore",
+        "name": "Helsi_Van_Ore",
         "job": "Supervisor",
         "race": "Human",
         "gender": "Male",
@@ -10898,7 +10898,7 @@
         ]
     },
     {
-        "name": "Hemor, The Guard",
+        "name": "Hemor,_The_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -11120,7 +11120,7 @@
         ]
     },
     {
-        "name": "Humnog, The Guard",
+        "name": "Humnog,_The_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -11302,7 +11302,7 @@
         ]
     },
     {
-        "name": "Innkeeper Alphonse",
+        "name": "Innkeeper_Alphonse",
         "job": "Innkeeper",
         "race": "Human",
         "gender": "Male",
@@ -11704,7 +11704,7 @@
         ]
     },
     {
-        "name": "Jack Fate",
+        "name": "Jack_Fate",
         "job": "Ship",
         "race": "Human",
         "gender": "Male",
@@ -11723,7 +11723,7 @@
         ]
     },
     {
-        "name": "Jack Springer",
+        "name": "Jack_Springer",
         "job": "Inquisitor",
         "race": "Human",
         "gender": "Male",
@@ -11748,7 +11748,7 @@
         ]
     },
     {
-        "name": "Jack The Worker",
+        "name": "Jack_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -11934,7 +11934,7 @@
         ]
     },
     {
-        "name": "Jean Claude",
+        "name": "Jean_Claude",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -11951,7 +11951,7 @@
         ]
     },
     {
-        "name": "Jean Pierre",
+        "name": "Jean_Pierre",
         "job": "Cook",
         "race": "Djinn",
         "gender": "Male",
@@ -11992,7 +11992,7 @@
         ]
     },
     {
-        "name": "Jehan the Baker",
+        "name": "Jehan_the_Baker",
         "job": "Food",
         "race": "Human",
         "gender": "Male",
@@ -12132,7 +12132,7 @@
         ]
     },
     {
-        "name": "John (Bounac)",
+        "name": "John_(Bounac)",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -12154,7 +12154,7 @@
         ]
     },
     {
-        "name": "John the Carpenter",
+        "name": "John_the_Carpenter",
         "job": "Carpenter",
         "race": "Human",
         "gender": "Male",
@@ -12559,7 +12559,7 @@
         ]
     },
     {
-        "name": "Kesar the Younger",
+        "name": "Kesar_the_Younger",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -12576,7 +12576,7 @@
         ]
     },
     {
-        "name": "Kesar's Valet",
+        "name": "Kesar's_Valet",
         "job": "Servant",
         "race": "Human",
         "gender": "Male",
@@ -12635,7 +12635,7 @@
         ]
     },
     {
-        "name": "Kihil, The Guard",
+        "name": "Kihil,_The_Guard",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -12652,7 +12652,7 @@
         ]
     },
     {
-        "name": "King Tibianus",
+        "name": "King_Tibianus",
         "job": "Monarch",
         "race": "Human",
         "gender": "Male",
@@ -12779,7 +12779,7 @@
         ]
     },
     {
-        "name": "Klom Stonecutter",
+        "name": "Klom_Stonecutter",
         "job": "Stonecutter",
         "race": "Dwarf",
         "gender": "Male",
@@ -12806,7 +12806,7 @@
         ]
     },
     {
-        "name": "Knight Hykrion",
+        "name": "Knight_Hykrion",
         "job": "Knight",
         "race": "Human",
         "gender": "Male",
@@ -12862,7 +12862,7 @@
         ]
     },
     {
-        "name": "Kulag, The Guard",
+        "name": "Kulag,_The_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -12901,7 +12901,7 @@
         ]
     },
     {
-        "name": "Lardoc Bashsmite",
+        "name": "Lardoc_Bashsmite",
         "job": "Guard",
         "race": "Dwarf",
         "gender": "Male",
@@ -12948,7 +12948,7 @@
         ]
     },
     {
-        "name": "Larfion the Shaman",
+        "name": "Larfion_the_Shaman",
         "job": "Repenter",
         "race": "Elf",
         "gender": "Unknown",
@@ -13131,7 +13131,7 @@
         ]
     },
     {
-        "name": "Lesh the Seer",
+        "name": "Lesh_the_Seer",
         "job": "Seer",
         "race": "Human",
         "gender": "Male",
@@ -13153,7 +13153,7 @@
         ]
     },
     {
-        "name": "Lesser Messenger of Heaven",
+        "name": "Lesser_Messenger_of_Heaven",
         "job": "Messenger",
         "race": "Ghost",
         "gender": "Unknown",
@@ -13274,7 +13274,7 @@
         ]
     },
     {
-        "name": "Lizard Prisoner",
+        "name": "Lizard_Prisoner",
         "job": "Rebel",
         "race": "Lizard",
         "gender": "Unknown",
@@ -13291,7 +13291,7 @@
         ]
     },
     {
-        "name": "Lizard Tunnel Guard",
+        "name": "Lizard_Tunnel_Guard",
         "job": "Guard",
         "race": "Lizard",
         "gender": "Unknown",
@@ -13462,7 +13462,7 @@
         ]
     },
     {
-        "name": "Lost Traveler",
+        "name": "Lost_Traveler",
         "job": "Traveler",
         "race": "Human",
         "gender": "Male",
@@ -14293,7 +14293,7 @@
         ]
     },
     {
-        "name": "Menacing Mummy",
+        "name": "Menacing_Mummy",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -14351,7 +14351,7 @@
         ]
     },
     {
-        "name": "Messenger of Heaven",
+        "name": "Messenger_of_Heaven",
         "job": "Informer",
         "race": "Ghost",
         "gender": "Unknown",
@@ -14373,7 +14373,7 @@
         ]
     },
     {
-        "name": "Messenger of Santa",
+        "name": "Messenger_of_Santa",
         "job": "Assistant",
         "race": "Elf",
         "gender": "Unknown",
@@ -14392,7 +14392,7 @@
         "coordinates": []
     },
     {
-        "name": "Miles, The Guard",
+        "name": "Miles,_The_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -14697,7 +14697,7 @@
         ]
     },
     {
-        "name": "Mother Of Jack",
+        "name": "Mother_Of_Jack",
         "job": "Caretaker",
         "race": "Human",
         "gender": "Female",
@@ -14724,7 +14724,7 @@
         ]
     },
     {
-        "name": "Mr Brandon",
+        "name": "Mr_Brandon",
         "job": "Fisherman",
         "race": "Undead",
         "gender": "Male",
@@ -14752,7 +14752,7 @@
         ]
     },
     {
-        "name": "Mr Morris",
+        "name": "Mr_Morris",
         "job": "Adventurer",
         "race": "Human",
         "gender": "Male",
@@ -14783,7 +14783,7 @@
         ]
     },
     {
-        "name": "Mr. West",
+        "name": "Mr._West",
         "job": "Merchant",
         "race": "Human",
         "gender": "Male",
@@ -14914,7 +14914,7 @@
         ]
     },
     {
-        "name": "Mutated Assistant",
+        "name": "Mutated_Assistant",
         "job": "Assistant",
         "race": "Human",
         "gender": "Unknown",
@@ -14965,7 +14965,7 @@
         ]
     },
     {
-        "name": "Mysterious Device",
+        "name": "Mysterious_Device",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown",
@@ -14987,7 +14987,7 @@
         ]
     },
     {
-        "name": "Mysterious Ornate Chest",
+        "name": "Mysterious_Ornate_Chest",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown",
@@ -15033,7 +15033,7 @@
         ]
     },
     {
-        "name": "Nagging Naga",
+        "name": "Nagging_Naga",
         "job": "Unknown",
         "race": "Naga",
         "gender": "Unknown",
@@ -15185,7 +15185,7 @@
         ]
     },
     {
-        "name": "Ned Nobel",
+        "name": "Ned_Nobel",
         "job": "Inventor",
         "race": "Human",
         "gender": "Male",
@@ -15744,7 +15744,7 @@
         ]
     },
     {
-        "name": "Norman The Foreman",
+        "name": "Norman_The_Foreman",
         "job": "Foreman",
         "race": "Human",
         "gender": "Male",
@@ -15846,7 +15846,7 @@
         ]
     },
     {
-        "name": "Oberon's Bile",
+        "name": "Oberon's_Bile",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -15868,7 +15868,7 @@
         ]
     },
     {
-        "name": "Oberon's Hate",
+        "name": "Oberon's_Hate",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -15890,7 +15890,7 @@
         ]
     },
     {
-        "name": "Oberon's Ire",
+        "name": "Oberon's_Ire",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -15912,7 +15912,7 @@
         ]
     },
     {
-        "name": "Oberon's Spite",
+        "name": "Oberon's_Spite",
         "job": "Unknown",
         "race": "Unknown",
         "gender": "Unknown",
@@ -16041,7 +16041,7 @@
         ]
     },
     {
-        "name": "Old Adall",
+        "name": "Old_Adall",
         "job": "Ferryman",
         "race": "Human",
         "gender": "Male",
@@ -16058,7 +16058,7 @@
         ]
     },
     {
-        "name": "Old Rock Boy",
+        "name": "Old_Rock_Boy",
         "job": "Tribe",
         "race": "Rockboy",
         "gender": "Male",
@@ -16173,7 +16173,7 @@
         ]
     },
     {
-        "name": "Om'Wake Naha",
+        "name": "Om'Wake_Naha",
         "job": "Trader",
         "race": "Rascoohan",
         "gender": "Male",
@@ -16239,7 +16239,7 @@
         ]
     },
     {
-        "name": "One-Eyed Joe",
+        "name": "One-Eyed_Joe",
         "job": "Rebel",
         "race": "Human",
         "gender": "Female",
@@ -16303,7 +16303,7 @@
         ]
     },
     {
-        "name": "Opticorder Forge",
+        "name": "Opticorder_Forge",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown",
@@ -16325,7 +16325,7 @@
         ]
     },
     {
-        "name": "Orc Berserker",
+        "name": "Orc_Berserker",
         "job": "Assistant",
         "race": "Orc",
         "gender": "Male",
@@ -16512,7 +16512,7 @@
         ]
     },
     {
-        "name": "Paladin Narai",
+        "name": "Paladin_Narai",
         "job": "Paladin",
         "race": "Human",
         "gender": "Female",
@@ -16593,7 +16593,7 @@
         ]
     },
     {
-        "name": "Para Norbert",
+        "name": "Para_Norbert",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -16654,7 +16654,7 @@
         ]
     },
     {
-        "name": "Pat The Worker",
+        "name": "Pat_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -16720,7 +16720,7 @@
         ]
     },
     {
-        "name": "Peaceful Pooka",
+        "name": "Peaceful_Pooka",
         "job": "Unknown",
         "race": "Pooka",
         "gender": "Unknown",
@@ -16814,7 +16814,7 @@
         ]
     },
     {
-        "name": "Percy Silverhand",
+        "name": "Percy_Silverhand",
         "job": "Representative",
         "race": "Human",
         "gender": "Male",
@@ -17010,7 +17010,7 @@
         ]
     },
     {
-        "name": "Player Level 1000",
+        "name": "Player_Level_1000",
         "job": "Roleplay",
         "race": "Human",
         "gender": "Male",
@@ -17031,7 +17031,7 @@
         ]
     },
     {
-        "name": "Player Level 1001",
+        "name": "Player_Level_1001",
         "job": "Roleplay",
         "race": "Human",
         "gender": "Male",
@@ -17052,7 +17052,7 @@
         ]
     },
     {
-        "name": "Player Level 1003",
+        "name": "Player_Level_1003",
         "job": "Roleplay",
         "race": "Human",
         "gender": "Male",
@@ -17073,7 +17073,7 @@
         ]
     },
     {
-        "name": "Player Level 999 (Female)",
+        "name": "Player_Level_999_(Female)",
         "job": "Roleplay",
         "race": "Human",
         "gender": "Female",
@@ -17094,7 +17094,7 @@
         ]
     },
     {
-        "name": "Player Level 999 (Male)",
+        "name": "Player_Level_999_(Male)",
         "job": "Roleplay",
         "race": "Human",
         "gender": "Male",
@@ -17300,7 +17300,7 @@
         ]
     },
     {
-        "name": "Pyro Peter",
+        "name": "Pyro_Peter",
         "job": "Informer",
         "race": "Human",
         "gender": "Male",
@@ -17338,7 +17338,7 @@
         ]
     },
     {
-        "name": "Pythius the Rotten",
+        "name": "Pythius_the_Rotten",
         "job": "Collector",
         "race": "Dragon",
         "gender": "Male",
@@ -17360,7 +17360,7 @@
         ]
     },
     {
-        "name": "Quandons Ghost",
+        "name": "Quandons_Ghost",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -17382,7 +17382,7 @@
         ]
     },
     {
-        "name": "Queen Eloise",
+        "name": "Queen_Eloise",
         "job": "Monarch",
         "race": "Human",
         "gender": "Female",
@@ -17694,7 +17694,7 @@
         ]
     },
     {
-        "name": "Raymond Striker",
+        "name": "Raymond_Striker",
         "job": "Rebel",
         "race": "Human",
         "gender": "Male",
@@ -17754,7 +17754,7 @@
         ]
     },
     {
-        "name": "Red Lilly",
+        "name": "Red_Lilly",
         "job": "Equipment",
         "race": "Human",
         "gender": "Female",
@@ -17773,7 +17773,7 @@
         ]
     },
     {
-        "name": "Red Robert",
+        "name": "Red_Robert",
         "job": "Supervisor",
         "race": "Human",
         "gender": "Male",
@@ -17859,7 +17859,7 @@
         ]
     },
     {
-        "name": "Relaxed Bartender",
+        "name": "Relaxed_Bartender",
         "job": "Barkeeper",
         "race": "Human",
         "gender": "Male",
@@ -18012,7 +18012,7 @@
         ]
     },
     {
-        "name": "Rock Steady",
+        "name": "Rock_Steady",
         "job": "Guard",
         "race": "Rockboy",
         "gender": "Unknown",
@@ -18038,7 +18038,7 @@
         ]
     },
     {
-        "name": "Rock With A Soft Spot",
+        "name": "Rock_With_A_Soft_Spot",
         "job": "Cleric",
         "race": "Rockboy",
         "gender": "Unknown",
@@ -18060,7 +18060,7 @@
         ]
     },
     {
-        "name": "Rock in a Hard Place",
+        "name": "Rock_in_a_Hard_Place",
         "job": "Guard",
         "race": "Rockboy",
         "gender": "Unknown",
@@ -18113,7 +18113,7 @@
         ]
     },
     {
-        "name": "Roger The Worker",
+        "name": "Roger_The_Worker",
         "job": "Worker",
         "race": "Human",
         "gender": "Male",
@@ -18269,7 +18269,7 @@
         ]
     },
     {
-        "name": "Rotem Valos",
+        "name": "Rotem_Valos",
         "job": "Adventurer",
         "race": "Human",
         "gender": "Male",
@@ -18288,7 +18288,7 @@
         ]
     },
     {
-        "name": "Rottin Wood",
+        "name": "Rottin_Wood",
         "job": "Hunter",
         "race": "Human",
         "gender": "Male",
@@ -18605,7 +18605,7 @@
         ]
     },
     {
-        "name": "Scott The Scout",
+        "name": "Scott_The_Scout",
         "job": "Explorer",
         "race": "Human",
         "gender": "Male",
@@ -18695,7 +18695,7 @@
         ]
     },
     {
-        "name": "Ser Tybald",
+        "name": "Ser_Tybald",
         "job": "Knight",
         "race": "Human",
         "gender": "Male",
@@ -18734,7 +18734,7 @@
         ]
     },
     {
-        "name": "Servant Sentry",
+        "name": "Servant_Sentry",
         "job": "Servant",
         "race": "Machine",
         "gender": "Unknown",
@@ -18929,7 +18929,7 @@
         ]
     },
     {
-        "name": "Sherry McRonald",
+        "name": "Sherry_McRonald",
         "job": "Farmer",
         "race": "Human",
         "gender": "Female",
@@ -19025,7 +19025,7 @@
         ]
     },
     {
-        "name": "Shirtalis of the Summer Court",
+        "name": "Shirtalis_of_the_Summer_Court",
         "job": "Unknown",
         "race": "Dreamelf",
         "gender": "Female",
@@ -19042,7 +19042,7 @@
         ]
     },
     {
-        "name": "Shoddy Beggar",
+        "name": "Shoddy_Beggar",
         "job": "Beggar",
         "race": "Human",
         "gender": "Male",
@@ -19086,7 +19086,7 @@
         ]
     },
     {
-        "name": "Shortsighted Dwarf",
+        "name": "Shortsighted_Dwarf",
         "job": "Rebel",
         "race": "Dwarf",
         "gender": "Male",
@@ -19184,7 +19184,7 @@
         ]
     },
     {
-        "name": "Simon the Beggar",
+        "name": "Simon_the_Beggar",
         "job": "Beggar",
         "race": "Human",
         "gender": "Male",
@@ -19299,7 +19299,7 @@
         ]
     },
     {
-        "name": "Sister Of Jack",
+        "name": "Sister_Of_Jack",
         "job": "Assistant",
         "race": "Human",
         "gender": "Female",
@@ -19326,7 +19326,7 @@
         ]
     },
     {
-        "name": "Skeleton Guard",
+        "name": "Skeleton_Guard",
         "job": "Guard",
         "race": "Undead",
         "gender": "Unknown",
@@ -19431,7 +19431,7 @@
         ]
     },
     {
-        "name": "Snake Eye",
+        "name": "Snake_Eye",
         "job": "Barkeeper",
         "race": "Human",
         "gender": "Male",
@@ -19521,7 +19521,7 @@
         ]
     },
     {
-        "name": "Sorcerer Estrella",
+        "name": "Sorcerer_Estrella",
         "job": "Sorcerer",
         "race": "Human",
         "gender": "Female",
@@ -19575,7 +19575,7 @@
         ]
     },
     {
-        "name": "Spirit Speaker",
+        "name": "Spirit_Speaker",
         "job": "Shaman",
         "race": "Human",
         "gender": "Male",
@@ -19664,7 +19664,7 @@
         ]
     },
     {
-        "name": "Strange Pipe",
+        "name": "Strange_Pipe",
         "job": "Guard",
         "race": "Animate",
         "gender": "Unknown",
@@ -19686,7 +19686,7 @@
         ]
     },
     {
-        "name": "Stressed Storeman",
+        "name": "Stressed_Storeman",
         "job": "Shopkeeper",
         "race": "Human",
         "gender": "Male",
@@ -19707,7 +19707,7 @@
         ]
     },
     {
-        "name": "Stricken Soul",
+        "name": "Stricken_Soul",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -19964,7 +19964,7 @@
         ]
     },
     {
-        "name": "Tamed Lion",
+        "name": "Tamed_Lion",
         "job": "Unknown",
         "race": "Lion",
         "gender": "Male",
@@ -20266,7 +20266,7 @@
         ]
     },
     {
-        "name": "Telas Golem",
+        "name": "Telas_Golem",
         "job": "Unknown",
         "race": "Machine",
         "gender": "Unknown",
@@ -20396,7 +20396,7 @@
         ]
     },
     {
-        "name": "The Beggar King",
+        "name": "The_Beggar_King",
         "job": "Beggar",
         "race": "Human",
         "gender": "Male",
@@ -20418,7 +20418,7 @@
         ]
     },
     {
-        "name": "The Blind Prophet",
+        "name": "The_Blind_Prophet",
         "job": "Clairvoyant",
         "race": "Ape",
         "gender": "Male",
@@ -20440,7 +20440,7 @@
         ]
     },
     {
-        "name": "The Bone Master",
+        "name": "The_Bone_Master",
         "job": "Necromancer",
         "race": "Human",
         "gender": "Male",
@@ -20462,7 +20462,7 @@
         ]
     },
     {
-        "name": "The Crone",
+        "name": "The_Crone",
         "job": "Unknown",
         "race": "Human",
         "gender": "Female",
@@ -20481,7 +20481,7 @@
         ]
     },
     {
-        "name": "The Dentist",
+        "name": "The_Dentist",
         "job": "Unknown",
         "race": "Ogre",
         "gender": "Male",
@@ -20498,7 +20498,7 @@
         ]
     },
     {
-        "name": "The Destiny Seer",
+        "name": "The_Destiny_Seer",
         "job": "Clairvoyant",
         "race": "Animate",
         "gender": "Unknown",
@@ -20519,7 +20519,7 @@
         ]
     },
     {
-        "name": "The Dream Master",
+        "name": "The_Dream_Master",
         "job": "Organisation",
         "race": "Human",
         "gender": "Male",
@@ -20543,7 +20543,7 @@
         ]
     },
     {
-        "name": "The Empress",
+        "name": "The_Empress",
         "job": "Monarch",
         "race": "Sphinx",
         "gender": "Female",
@@ -20569,7 +20569,7 @@
         ]
     },
     {
-        "name": "The First Dragon",
+        "name": "The_First_Dragon",
         "job": "Guard",
         "race": "Dragon",
         "gender": "Male",
@@ -20591,7 +20591,7 @@
         ]
     },
     {
-        "name": "The Gate Keeper",
+        "name": "The_Gate_Keeper",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -20612,7 +20612,7 @@
         ]
     },
     {
-        "name": "The Librarian",
+        "name": "The_Librarian",
         "job": "Librarian",
         "race": "Unknown",
         "gender": "Unknown",
@@ -20633,7 +20633,7 @@
         ]
     },
     {
-        "name": "The Oracle",
+        "name": "The_Oracle",
         "job": "Clairvoyant",
         "race": "Animate",
         "gender": "Female",
@@ -20650,7 +20650,7 @@
         ]
     },
     {
-        "name": "The Orc King",
+        "name": "The_Orc_King",
         "job": "Monarch",
         "race": "Orc",
         "gender": "Male",
@@ -20684,7 +20684,7 @@
         ]
     },
     {
-        "name": "The Queen Of The Banshees",
+        "name": "The_Queen_Of_The_Banshees",
         "job": "Monarch",
         "race": "Human",
         "gender": "Female",
@@ -20720,7 +20720,7 @@
         ]
     },
     {
-        "name": "The Thaian",
+        "name": "The_Thaian",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -20759,7 +20759,7 @@
         ]
     },
     {
-        "name": "Theodore Loveless",
+        "name": "Theodore_Loveless",
         "job": "Representative",
         "race": "Human",
         "gender": "Male",
@@ -20876,7 +20876,7 @@
         ]
     },
     {
-        "name": "Tik'hi Tak'he",
+        "name": "Tik'hi_Tak'he",
         "job": "Shaman",
         "race": "Rascoohan",
         "gender": "Male",
@@ -20900,7 +20900,7 @@
         ]
     },
     {
-        "name": "Tim, The Guard",
+        "name": "Tim,_The_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -20964,7 +20964,7 @@
         ]
     },
     {
-        "name": "Tired Tree",
+        "name": "Tired_Tree",
         "job": "Unknown",
         "race": "Fae",
         "gender": "Unknown",
@@ -21052,7 +21052,7 @@
         ]
     },
     {
-        "name": "Tomruk the Ruddy",
+        "name": "Tomruk_the_Ruddy",
         "job": "Necromancer",
         "race": "Human",
         "gender": "Male",
@@ -21101,7 +21101,7 @@
         ]
     },
     {
-        "name": "Tooth Fairy",
+        "name": "Tooth_Fairy",
         "job": "Tooth",
         "race": "Fae",
         "gender": "Female",
@@ -21127,7 +21127,7 @@
         ]
     },
     {
-        "name": "Toothless Tim",
+        "name": "Toothless_Tim",
         "job": "Unknown",
         "race": "Human",
         "gender": "Male",
@@ -21559,7 +21559,7 @@
         ]
     },
     {
-        "name": "Urks The Mute",
+        "name": "Urks_The_Mute",
         "job": "Ship",
         "race": "Dwarf",
         "gender": "Male",
@@ -22062,7 +22062,7 @@
         ]
     },
     {
-        "name": "Walter Jaeger",
+        "name": "Walter_Jaeger",
         "job": "Organisation",
         "race": "Human",
         "gender": "Male",
@@ -22079,7 +22079,7 @@
         ]
     },
     {
-        "name": "Walter, The Guard",
+        "name": "Walter,_The_Guard",
         "job": "Guard",
         "race": "Human",
         "gender": "Male",
@@ -22113,7 +22113,7 @@
         ]
     },
     {
-        "name": "Weakened Forest Fury",
+        "name": "Weakened_Forest_Fury",
         "job": "Guard",
         "race": "Forest",
         "gender": "Female",
@@ -22178,7 +22178,7 @@
         ]
     },
     {
-        "name": "Wes the Blacksmith",
+        "name": "Wes_the_Blacksmith",
         "job": "Weapon",
         "race": "Human",
         "gender": "Male",
@@ -22966,7 +22966,7 @@
         ]
     },
     {
-        "name": "Zedrulon the Fallen",
+        "name": "Zedrulon_the_Fallen",
         "job": "Inquisitor",
         "race": "Human",
         "gender": "Male",
@@ -23275,7 +23275,7 @@
         "coordinates": []
     },
     {
-        "name": "Bolfona And Drog",
+        "name": "Bolfona_And_Drog",
         "job": "Dwarf",
         "race": "Human",
         "gender": "Female",
@@ -23288,7 +23288,7 @@
         "coordinates": []
     },
     {
-        "name": "Santa Claus",
+        "name": "Santa_Claus",
         "job": "Santa Claus",
         "race": "Human",
         "gender": "Male",
@@ -23301,7 +23301,7 @@
         "coordinates": []
     },
     {
-        "name": "Morax Dream",
+        "name": "Morax_Dream",
         "job": "Inquisitor",
         "race": "Human",
         "gender": "Male",
