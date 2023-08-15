@@ -4,13 +4,12 @@ A repository for all things Tibia.
 
 Research: [s2ward/docs](https://github.com/s2ward/docs)  
 TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
-Search Transcripts: [NPSearch](https://www.talesoftibia.com/pages/tools.html)   
+Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
+Search Books: [NPSearch](https://www.talesoftibia.com/libsearch)  
 NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
 All Transcripts: [↗](./doc/all_transcripts.md)  
 
 The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
-
-![npsearch](https://user-images.githubusercontent.com/25346191/236622962-cf9d0040-447b-4457-a05b-c34548cb5619.gif)
 
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
@@ -37,16 +36,6 @@ Repository structure
 │   │   └── Kihil,_The_Guard.txt
 │   ├── Beregar_Mines
 │   │   ├── Frafnar.txt
-│   │   ├── Grombur.txt
-│   │   ├── Nokmir.txt
-│   │   ├── Pyromental.txt
-│   │   ├── Pythius_the_Rotten.txt
-│   │   ├── Rehon.txt
-│   │   ├── Tehlim.txt
-│   │   ├── Xorlosh.txt
-│   │   └── Zirkon.txt
-│   ├── Captain_Cookie.txt
-│   ├── Chuckles.txt
 ... 
 And so on.  
 ```
@@ -55,8 +44,6 @@ And so on.
 
 Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 Add your transcripts and GitHub will automagically take care of the rest.  
-
-![CONTRIBUTE](https://user-images.githubusercontent.com/25346191/230709346-7346a63c-83f5-42af-bc60-ed4aa9900388.gif)
 
 A great way to contribute is by checking [Empty](./docs/empty_files_tree.md) or [unverified](./docs/unverified_files_tree.md) transcripts and just pick one.  
 You can CTRL+F for you favorite NPCs and click on the link to them.  
@@ -67,9 +54,6 @@ When you have your transcript logs, paste your content in an NPC file like this:
 Player: {your keyword}  
 NPC: {npc response}  
 ```
-
-And raise a pull-request on main branch.  
-You are now done.  
 
 On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/publish-conversations.yml) will make sure that the format is correct by running src/validate.py.  
 If validation succeeds, api/file-mappings.json will update based on what changes have been done.  
