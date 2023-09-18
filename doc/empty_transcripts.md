@@ -232,8 +232,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Goroma</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Atrad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma/Atrad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Davina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Guide_Davina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Laguna Islands</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Laguna_Islands)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Erayo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Laguna_Islands/Erayo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nargor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Polly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Polly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Skeleton Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Skeleton_Guard.txt)  
