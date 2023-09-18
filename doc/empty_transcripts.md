@@ -292,7 +292,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Stressed Storeman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Stressed_Storeman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tandros</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tandros.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ustan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ustan.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vescu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Vescu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zaidal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Zaidal.txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fabiana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Fabiana.txt)  
