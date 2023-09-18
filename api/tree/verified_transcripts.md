@@ -382,6 +382,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Adall</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Old_Adall.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rosemarie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Rosemarie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uso</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Uso.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vescu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Vescu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yawno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Yawno.txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alaistar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton/Alaistar.txt)  
