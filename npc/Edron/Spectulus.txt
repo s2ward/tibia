@@ -130,5 +130,9 @@ Spectulus: Jack couldn't reach it so I crawled under the table. And while I was 
 Spectulus: A lot of thought went into capturing enough magical energy, binding and calibrating it, finding the right materials, putting it all together - and finding a nicely crafted shell. We were working on this part alone for weeks, literally. ...  
 Spectulus: And at its heart, we implemented a void crystal. Creating it was the hardest part of it all. ...  
 Spectulus: And the machine worked... it really worked... too bad that all of it is lost in time now.  
+Player: death
+Spectulus: Now that we know that something else is watching us from the deep, you should be even more careful.
+Player: death
+Spectulus: And? Well, I have quite a lot of books here, indeed. I have a lot less time than books, however. So please hit the trail now, thanks.
 Player: bye  
 Spectulus: Yes yes. Goodbye Player.  
