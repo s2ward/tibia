@@ -340,6 +340,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Herbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Herbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Irvin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jefrey</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Jefrey.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Laguna Islands</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Laguna_Islands)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Erayo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Laguna_Islands/Erayo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Liberty Bay Fortress</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Liberty_Bay_Fortress)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Admiral Wyrmslicer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Liberty_Bay_Fortress/Admiral_Wyrmslicer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Isolde</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Liberty_Bay_Fortress/Isolde.txt)  
