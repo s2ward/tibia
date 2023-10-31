@@ -134,8 +134,6 @@ Player: job / profession
 Wyda: I think witches these days are underpaid. Who needs a witch anyway?  
 Player: name  
 Wyda: You should know me after all these years!  
-Player: sister / witches  
-Wyda: Some sisters of mine are having a meeting nearby. Don't disturb them, or they will get angry and attack you.  
 Player: giant spider  
 Wyda: Oooooh why are you asking? *whistles*  
 Player: dwarf / dwarves / little fellows  
@@ -158,9 +156,37 @@ Player: blood herb (tendo uma blood herb na sua backpack)
 Wyda: Arrr... here we go again.... do you have a #$*&# blood herb for me?  
 Player: no  
 Wyda: Arrr... here we go again.... do you have a #$*&# blood herb for me?  
-Player: yes (recebendo uma witchesbroom)  
+Player: yes (Getting a witchesbroom)  
 Wyda: Thank you -SOOO- much! No, I really mean it! Really! Here, let me give you a reward...  
-Player: yes (recebendo um torn teddy)  
-Wyda: Thank you -SOOO- much! No, I really mean it! Really! Ah, you know what, you can have this old thing...  
+Player: yes (Getting a torn teddy)  
+Wyda: Thank you -SOOO- much! No, I really mean it! Really! Ah, you know what, you can have this old thing...
+Player: Knight
+Wyda: Even a knight would be a welcome distraction right now. I could use his little sword to poke him in the eye.
+Player: Plains of Havoc
+Wyda: The Plains of Havoc... ah, fond memories. I used to go there as a little witch and run from all the giant spiders. How scary!
+Player: Paladin
+Wyda: I once knew a paladin who had a magic lamp. No wait... different story.
+Player: sorcerer
+Wyda: I wouldn't mind learning a new spell or two. Maybe I should dabble some in sorcerer magic.
+Player: druid
+Wyda: Being a druid is fine, you know. Since household injuries are among the most common, you can at least mend your own wounds well.
+Player: Queen
+Wyda: She has become kinda fat over the years, don't you think? Ha... nothing beats some good gossip. I feel almost entertained.
+Player: Swamp
+Wyda: Swamp water is good for your skin.
+Player: slime
+Wyda: Ah, nothing bad about a little slime here and there. Don't slip.
+Player: Bonelord
+Wyda: Does anyone else think that name is stupid? Behold! A bonelord!
+Player: Tibia
+Wyda: You're a smart one, aren't you?
+Player: Help
+Wyda: Help's not in store today. Sorry. Mwihihihi.
+Player: God
+Wyda: Goddess, yes, you may call me that, thank you.
+Player: Gold
+Wyda: There's a mightily high mountain somewhere, I heard. Now try to make sense of that.
+Player: Carlin
+Wyda: I've heard a band of male bards plays there sometimes. Maybe I should pay it a visit.
 Player: bye  
 Wyda: NO! Don't go! I need someone to entertain me!  
