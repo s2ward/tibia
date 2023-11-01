@@ -12,5 +12,5 @@ Jossel: Then there are the minotaurs that they pumped full with some potions tha
 Player: potions
 Jossel: In their glooth empowered state, they are next to unstoppable. Luckily we learned from previous attacks and our scientists installed several glooth extractors on the field. ...
 Jossel: When you manage to lure one of the powered minotaurs over an extractor, it will nullify the glooth effect and the beast should become easy to handle.
-Player: bye
+Player: bye test
 Jossel: Good bye!
