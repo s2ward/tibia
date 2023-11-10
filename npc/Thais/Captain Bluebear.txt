@@ -22,6 +22,7 @@ Captain Bluebear: Sorry, but I'm not sailing there.
 Player: Carlin
 Captain Bluebear: Do you seek a passage to Carlin for 100 gold?
 Player: (anything but yes)
+Captain Bluebear: We would like to serve you some time.
 Player: Darashia
 Captain Bluebear: I'm not sailing there. This route is afflicted by a ghost ship! However, I heard that Captain Fearless sails there from Venore.
 Player: ghost
@@ -30,7 +31,6 @@ Player: passenger
 Captain Bluebear: We would like to welcome you on board.
 Player: Darama
 Captain Bluebear: The only destination on Darama I travel to is Port Hope.
-Captain Bluebear: We would like to serve you some time.
 Player: Ab'Dendriel
 Captain Bluebear: Do you seek a passage to Ab'Dendriel for 120 gold?
 Player: Venore
