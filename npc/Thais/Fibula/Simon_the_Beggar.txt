@@ -1,5 +1,5 @@
 Player: hi / hello
-Simon The Beggar: Hello Mogh. I am a poor man. Please help me.
+Simon The Beggar: Hello Player. I am a poor man. Please help me.
 Player: beggar
 Simon The Beggar: I have no gold and no job, so I am a beggar.
 Player: dermot
