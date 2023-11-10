@@ -24,5 +24,7 @@ Player: wolves
 Timur: They are everywhere around the village.  
 Player: magic / potion  
 Timur: The magic shops have a monopole on potions now... argl!  
+Player: food
+Timur: If you are looking for food, buy a rod and go fishing.
 Player: bye  
 Timur: Bye, bye, Player.  
