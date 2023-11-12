@@ -1,0 +1,16 @@
+Player: hi
+Zethra: Greetings Player. If you need some equipment for your adventures, just ask me for a trade.
+Player: equipment
+Zethra: I sell equipment for your adventure! Just ask me for a trade to see my wares.
+Player: trade
+Zethra: Of course, just browse through my wares.
+Player: name
+Zethra: I am Zethra the wormbane.
+Player: time
+Zethra: It is exactly 4:46 pm. Maybe you want to buy a watch?
+Player: job
+Zethra: I am selling equipment of all kinds. Do you need anything?
+Player: magic
+Zethra: This is not on sale here.
+Player: bye
+Zethra: Good bye, Player.

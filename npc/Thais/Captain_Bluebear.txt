@@ -1,0 +1,57 @@
+Player: hi
+Captain Bluebear: Welcome on board, Sir Player. Where can I sail you today?
+Player: name
+Captain Bluebear: My name is Captain Bluebear from the Royal Tibia Line.
+Player: time
+Player: job / Captain Bluebear
+Captain Bluebear: I'm the captain of this sailing ship.
+Player: Tibia / ship / line / company
+Captain Bluebear: The Royal Tibia Line connects all seaside towns of Tibia.
+Player: good
+Captain Bluebear: We can transport everything you want.
+Player: inquisition
+Captain Bluebear: A direct edict from the honorable Henricus orders me to give passage to all potential recruits for a dangerous mission on an island to the north-east.
+Player: Thais
+Captain Bluebear: This is Thais. Where do you want to go?
+Player: ice
+Captain Bluebear: I'm sorry, we don't serve the routes to Senja, Folda or Vega but I could bring you to Svargrond.
+Player: passage / town / sail / go / trip / destination
+Captain Bluebear: Where do you want to go? To Carlin, Ab'Dendriel, Venore, Port Hope, Liberty Bay, Svargrond, Yalahar, Roshamuul, Oramond or Edron? Or to Travora - a place between the worlds?
+Player: (any city not mentioned)
+Captain Bluebear: Sorry, but I'm not sailing there.
+Player: Carlin
+Captain Bluebear: Do you seek a passage to Carlin for 100 gold?
+Player: (anything but yes)
+Captain Bluebear: We would like to serve you some time.
+Player: Darashia
+Captain Bluebear: I'm not sailing there. This route is afflicted by a ghost ship! However, I heard that Captain Fearless sails there from Venore.
+Player: ghost
+Captain Bluebear: Many people who sailed to Darashia never returned because they were attacked by a ghost ship! I'll never sail there!
+Player: passenger
+Captain Bluebear: We would like to welcome you on board.
+Player: Darama
+Captain Bluebear: The only destination on Darama I travel to is Port Hope.
+Player: Ab'Dendriel
+Captain Bluebear: Do you seek a passage to Ab'Dendriel for 120 gold?
+Player: Venore
+Captain Bluebear: Do you seek a passage to Venore for 160 gold?
+Player: Port Hope
+Captain Bluebear: Do you seek a passage to Port Hope for 150 gold?
+Player: Liberty Bay
+Captain Bluebear: Do you seek a passage to Liberty Bay for 170 gold?
+Player: Svargrond
+Captain Bluebear: Do you seek a passage to Svargrond for 170 gold?
+Player: Yalahar
+Captain Bluebear: Do you seek a passage to Yalahar for 190 gold?
+Player: Roshamuul
+Captain Bluebear: That strange place? I hope I spelled that name correctly but that's what they told me. So, you seek a passage to Roshamuul for 200 gold?
+Player: Oramond
+Captain Bluebear: I heard the people there lived a long time behind an impenetrable mist and are only too happy to see new faces. So, you seek a passage to Oramond for 140 gold?
+Player: Edron
+Captain Bluebear: Do you seek a passage to Edron for 150 gold?
+Player: Travora
+Captain Bluebear: Think twice before you go to Travora. This is the place for the character world transfer, so if you travel there make sure you actually do want to change worlds. Do you want to purchase a daily ticket for 1000 gold?
+Player: no
+Captain Bluebear: No problem.
+Player: bye / farewell
+Captain Bluebear: Good bye. Recommend us if you were satisfied with our service.

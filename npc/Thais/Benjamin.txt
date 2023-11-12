@@ -2,9 +2,11 @@ Player: Hi
 Benjamin: Hello. How may I help you Player? Ask me for a trade if you want to buy something. I can also explain the mail system.  
 Player: Trade  
 Benjamin: Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
+Player: send
+Benjamin: Drag and drop a letter or a parcel on the blue mailbox to send it. However, you need to include the name of the receiver. If the sending fails, you most likely made a mistake.
 Player: Receiver  
 Benjamin: Well, the receiver - or addressee - is the person you want to send mail to. Always make sure to enter his or her name correctly.  
-Player: Mail  
+Player: Mail / mailboxes / help / info / post
 Benjamin: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
 Player: Letters  
 Benjamin: If you want to buy a letter, ask me for a trade. Or do you want me to explain how letters work?  
@@ -13,11 +15,73 @@ Benjamin: With a letter you can send a message to another Tibian's depot. If you
 Benjamin: Then drag your letter on one of the blue mailboxes here to send it.  
 Player: Depot  
 Benjamin: Each major city has at least one depot. Just step in front of one of the lockers and you can store items inside. Your mail will also arrive there. It doesn't matter which depot you stored it in - you can retrieve all your items from any depot in any city!  
-Player: Mailboxes  
-Benjamin: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
 Player: Parcels  
 Benjamin: If you want to buy a parcel, ask me for a trade. Or do you want me to explain how parcels work?  
 Player: Label  
-Benjamin: If you want to buy a label, ask me for a trade. Or do you want me to explain how labels work?  
-Player: Bye  
-Benjamin: It was a pleasure to help you, Player.  
+Benjamin: If you want to buy a label, ask me for a trade. Or do you want me to explain how labels work? 
+Player: yes
+Benjamin: Including a label in your parcel is important. Imagine you want to send it to 'Ben' in Thais. Use the label - so that a form opens - and write 'Ben' in the first line. Check the spelling and put it in your parcel! ...
+Benjamin: Then drag your parcel on one of the blue mailboxes here to send it.
+Player: name
+Benjamin: My name is Benjamin.
+Player: job
+Benjamin: I'm working here at the post office. If you have questions about the Royal Tibia Mail System or the depots, ask me.
+Player: office
+Benjamin: I'm always in my office. You are welcome to visit me here at any time.
+Player: time
+Benjamin: Now it's 1:34 am. Maybe you want to buy a watch?
+Player: join
+Benjamin: Uh... oh... Uhm... Join what?
+Player: Thais
+Benjamin: This is the town you are currently in.
+Player: Carlin
+Benjamin: You can send letters and parcels to Carlin.
+Player: army / general / Ferumbras
+Benjamin: TO THE ARMS! MAN THE WALLS! FERUMBRAS IS NEAR!
+Player: news
+Benjamin: Sorry, I don't read the letters we deliver.
+Player: Baxter
+Benjamin: This naughty child, always stealing apples!
+Player: Bozo
+Benjamin: He hangs around here quite often. He says that I inspire him.
+Player: Eclesius
+Benjamin: I know him because he always forgets to write the name of the recipient on his parcels and letters. The hardest part is to find out who he actually wanted to send it to.
+Player: Elane
+Benjamin: Oh, she lives next door.
+Player: Frodo
+Benjamin: Frodo... Frodo... ? Uhm... isn't that the guy that brings me food at lunchtime?
+Player: Gorn
+Benjamin: He sells equipment.
+Player: Gregor
+Benjamin: Never heard of him.
+Player: Harkath
+Benjamin: Oh, young Harkath will be a fine warrior some day.
+Player: Kevin
+Benjamin: That name sounds familiar... who might that be...
+Player: king
+Benjamin: The king? Oops, I... can't remember his name...
+Player: Tibianus
+Benjamin: Ah, King Tibianus, our wise ruler. He has been sick for some time, hasn't he?
+Player: Lugri
+Benjamin: NO! NO! NO! GO AWAY!.
+Player: Lynda
+Benjamin: She's SO pretty!
+Player: Marvik
+Benjamin: He's always talking about healing me even though I'm fine... I believe he is a bit nuts, poor man.
+Player: Muriel
+Benjamin: This Muriel has a lot of correspondence.
+Player: Quentin
+Benjamin: Ooooh, nice man, visits me often... I think.
+Player: Quero
+Benjamin: I love his music! He's my best friend and I visit him as often as I can.
+Player: Sam
+Benjamin: Ham? No thanks, I already ate fish.
+Player: Sherry
+Benjamin: I don't drink alcohol while I'm on duty.
+Player: McRonald
+Player: Xodet
+Benjamin: The young sorcerer is a good businessman.
+Player: Excalibug
+Benjamin: I don't remember that someone named like that is living here.
+Player: Bye / farewell
+Benjamin: It was a pleasure to help you, Player.
