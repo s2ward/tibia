@@ -9,7 +9,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Skeleton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Demon_Skeleton.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Faluae</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Faluae.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Finarfin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Finarfin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Thelandil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Guide_Thelandil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hellgate</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Larfion the Shaman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Larfion_the_Shaman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irea</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Irea.txt)  
