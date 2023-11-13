@@ -336,6 +336,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gordon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Gordon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Goroma</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Jack Fate</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma/Jack_Fate.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Davina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Guide_Davina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hamilton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Hamilton.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Herbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Herbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Irvin.txt)  
