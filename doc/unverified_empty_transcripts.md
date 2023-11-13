@@ -396,7 +396,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ferks</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ferks.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gail</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Gail.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gilmak Copperbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Gilmak_Copperbeard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Tiko</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Guide_Tiko.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Helor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imbul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Imbul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kais</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Kais.txt)  
