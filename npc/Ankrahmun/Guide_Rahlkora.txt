@@ -1,5 +1,5 @@
 Player: hi  
-Guide Rahlkora: Welcome to Ankrahmun, player! This city can be a bit confusing at first. Would you like some information and a map guide?  
+Guide Rahlkora: Welcome to Ankrahmun, Player! This city can be a bit confusing at first. Would you like some information and a map guide?  
 Player: information  
 Guide Rahlkora: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot.  
 Player: town or ankrahmun  
@@ -16,7 +16,7 @@ Player: depot
 Guide Rahlkora: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.  
 Player: escort  
 Guide Rahlkora: This service is only for newcomers below level 10. I think you can manage the way on your own! If you need marks on your map, let me know.  
-Player: marks  
+Player: mark / map
 Guide Rahlkora: Would you like me to mark locations like - for example - the depot, bank and shops on your map?  
 Player: (if you dont answer "yes")  
 Guide Rahlkora: Well, nothing wrong about exploring the town on your own. Let me know if you need something!  
@@ -29,7 +29,7 @@ Guide Rahlkora: Feizuhl sells furniture near the post office. It's in the south-
 Player: food  
 Guide Rahlkora: You can either buy food on the market pyramid north of the depot at Jezzara's or ask in the tavern in the south-western part of town.  
 Player: offer  
-Guide Rahlkora: Well, you seem to know your way around. Take care !  
+Guide Rahlkora: Well, you seem to know your way around. Take care! 
 Player: buy or trade  
 Guide Rahlkora: I'm not buying or selling anything, but I could tell you about the shops in town.  
 Player: name  
@@ -41,4 +41,4 @@ Guide Rahlkora: It's 9:21 pm right now. This has been a good day so far. I've he
 Player: (any other word)  
 Guide Rahlkora: Sorry, I don't have anything to tell you about this topic.  
 Player: bye  
-Guide Rahlkora: Good bye and enjoy your stay in Ankrahmun, player.  
+Guide Rahlkora: Good bye and enjoy your stay in Ankrahmun, Player.  
