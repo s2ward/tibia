@@ -33,7 +33,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cobra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/Cobra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Sinbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Captain_Sinbeard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Rahlkora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Guide_Rahlkora.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Hercule.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jakahr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jakahr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jean_Pierre.txt)  
