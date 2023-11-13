@@ -54,6 +54,12 @@ Player: Theatre
 Guide Meruka: We call it the Seaside Theatre. Alyxo is managing this theatre since several decades to entertain the good people of Issavi. I can mark it on your map.
 Player: blessings
 Guide Meruka: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.
+Player: name
+Guide Meruka: I'm Meruka. Pleased to meet you.
+Player: time
+Guide Meruka: It's 10:34 pm right now. Almost time for my lunch break, so hurry up if you need some information from me!
+Player: job
+Guide Meruka: I'm your guide to Issavi, the Golden City. I can mark important locations on your map and give you some information about the town and the world status.
 Player: (anything not a keyword)
 Guide Meruka: Sorry, I don't have anything to tell you about this topic.
 Player: bye / farewell
