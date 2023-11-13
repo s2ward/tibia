@@ -19,10 +19,8 @@ Guide Edna: We are currently south of the inner city. Outside its walls, you can
 Guide Edna: There is the former trade quarter, the foreigner quarter, the arena quarter, the alchemist quarter, the cemetery quarter, the magician quarter, the sunken quarter and the factory quarter.  
 Player: world status  
 Guide Edna: If you'd like to know the status of this world just say the keyword for a world change.  
-Player: weapons  
-Guide Edna: We are so lucky that dwarfs are responsible for weapons and armors here. They are, as you probably know, the finest craftsmen you can imagine. The shop is just north of the post office.  
-Player: armor  
-Guide Edna: We are so lucky that dwarfs are responsible for weapons and armors here. They are, as you probably know, the finest craftsmen you can imagine. The shop is just north of the post office.  
+Player: weapons / armor
+Guide Edna: We are so lucky that dwarfs are responsible for weapons and armors here. They are, as you probably know, the finest craftsmen you can imagine. The shop is just north of the post office.
 Player: tools  
 Guide Edna: General goods like ropes and shovels can be bought in Gree Dee's store in the shop tower, just north of the depot.  
 Player: gems  
@@ -37,8 +35,6 @@ Player: map
 Guide Edna: Meow, should I make some pawprints for locations like the depot, bank and shops on your map?  
 Player: no  
 Guide Edna: Meow, nothing wrong about exploring the town on your own. Let me know if you need something!  
-Player: map  
-Guide Edna: Meow, should I make some pawprints for locations like the depot, bank and shops on your map?  
 Player: yes  
 Guide Edna: Meow. <makes a few fast pawprints on your map>  
 Player: yalahar / city  
