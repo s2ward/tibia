@@ -69,6 +69,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gelagos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Gelagos.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Ghostlands</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Ghostlands)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Queen Of The Banshees</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Ghostlands/The_Queen_Of_The_Banshees.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Alexena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Guide_Alexena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Isle of the Kings</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Isle_of_the_Kings)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Costello</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Isle_of_the_Kings/Costello.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Karl</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Karl.txt)  

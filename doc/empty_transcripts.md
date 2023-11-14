@@ -39,7 +39,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Florentine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Florentine.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Folda</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Folda)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Svenson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Folda/Svenson.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Alexena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Guide_Alexena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Humphrey</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Humphrey.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Isle of the Kings</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Isle_of_the_Kings)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Jack</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Isle_of_the_Kings/Captain_Jack.txt)  
