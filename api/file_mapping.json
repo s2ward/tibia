@@ -22,7 +22,7 @@
         "Faluae": "EMPTY",
         "Finarfin": "EMPTY",
         "Gruffy": "UNVERIFIED",
-        "Guide_Thelandil": "EMPTY",
+        "Guide_Thelandil": "VERIFIED",
         "Hellgate": {
             "A_Wrinkled_Bonelord": "VERIFIED",
             "Ashari": "VERIFIED",
@@ -61,7 +61,7 @@
         "Dario": "VERIFIED",
         "Feizuhl": "VERIFIED",
         "Fenech": "VERIFIED",
-        "Guide_Rahlkora": "UNVERIFIED",
+        "Guide_Rahlkora": "VERIFIED",
         "Hercule": "EMPTY",
         "Ishebad": "VERIFIED",
         "Jakahr": "UNVERIFIED",
@@ -134,7 +134,7 @@
         "Ghostlands": {
             "The_Queen_Of_The_Banshees": "VERIFIED"
         },
-        "Guide_Alexena": "EMPTY",
+        "Guide_Alexena": "VERIFIED",
         "Humphrey": "EMPTY",
         "Imalas": "UNVERIFIED",
         "Isle_of_the_Kings": {
@@ -210,7 +210,7 @@
         },
         "Edoch": "VERIFIED",
         "Fadil": "VERIFIED",
-        "Guide_Behil": "EMPTY",
+        "Guide_Behil": "VERIFIED",
         "Habdel": "VERIFIED",
         "Halif": "VERIFIED",
         "Hofech": "VERIFIED",
@@ -299,7 +299,7 @@
         "Grimvale": {
             "Gladys": "UNVERIFIED"
         },
-        "Guide_Jonathan": "EMPTY",
+        "Guide_Jonathan": "VERIFIED",
         "Gundralph": "UNVERIFIED",
         "Ikassis": "UNVERIFIED",
         "Iwan": "UNVERIFIED",
@@ -496,7 +496,7 @@
         "Guard_Inurta": "EMPTY",
         "Guard_Saros": "EMPTY",
         "Guard_Senet": "EMPTY",
-        "Guide_Meruka": "EMPTY",
+        "Guide_Meruka": "VERIFIED",
         "Inkaef": "EMPTY",
         "Iptar-Sin": "EMPTY",
         "Kallimae": "EMPTY",
@@ -717,7 +717,7 @@
             "Atrad": "EMPTY",
             "Jack_Fate": "VERIFIED"
         },
-        "Guide_Davina": "EMPTY",
+        "Guide_Davina": "VERIFIED",
         "Hamilton": "VERIFIED",
         "Herbert": "VERIFIED",
         "Irvin": "VERIFIED",
@@ -818,7 +818,7 @@
         "Gail": "EMPTY",
         "Gilmak_Copperbeard": "EMPTY",
         "Grizzly_Adams": "VERIFIED",
-        "Guide_Tiko": "EMPTY",
+        "Guide_Tiko": "VERIFIED",
         "Helor": "EMPTY",
         "Imbul": "UNVERIFIED",
         "Kais": "EMPTY",

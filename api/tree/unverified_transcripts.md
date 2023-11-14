@@ -18,7 +18,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tooth Fairy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Tooth_Fairy.txt)  
 ├─&nbsp;&nbsp;<strong>Ankrahmun</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Sinbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Captain_Sinbeard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Rahlkora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Guide_Rahlkora.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jakahr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jakahr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Southern Darama Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Messenger of Heaven</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert/Messenger_of_Heaven.txt)  
