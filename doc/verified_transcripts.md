@@ -103,6 +103,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Gate Keeper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Drefia_Spirit_Grounds/The_Gate_Keeper.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edoch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Edoch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fadil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Fadil.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Behil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Guide_Behil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Habdel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Habdel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Halif</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Halif.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hofech</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hofech.txt)  

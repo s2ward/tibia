@@ -59,7 +59,6 @@
 ├─&nbsp;&nbsp;<strong>Darashia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Caverna Exanima</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Caverna_Exanima)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Angelo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Caverna_Exanima/Angelo.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Behil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Guide_Behil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hyaena Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Skull</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs/A_Skull.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Rhargu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs/Rhargu.txt)  
