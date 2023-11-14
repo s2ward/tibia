@@ -388,6 +388,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clark</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clark.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clyde</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clyde.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grizzly Adams</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Grizzly_Adams.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Tiko</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Guide_Tiko.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Adall</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Old_Adall.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rosemarie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Rosemarie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uso</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Uso.txt)  
