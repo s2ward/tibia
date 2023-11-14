@@ -26,6 +26,12 @@ Player: tools
 Guide Rahlkora: General goods like ropes and shovels can be bought in Ahmet's shop on the market pyramid. Just exit the depot on the north side and walk up the next pyramid.  
 Player: furniture  
 Guide Rahlkora: Feizuhl sells furniture near the post office. It's in the south-western part of town, left of this harbour.  
+Player: post
+Guide Rahlkora: Jakahr takes care of the post office. It is in the south-western part of town, just to the left of this harbour.
+Player: harbour
+Guide Rahlkora: That's where we are standing right now. You can travel between the Tibian settlements using this ship if you have a premium account, that is.
+Player: blessings
+Guide Rahlkora: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.
 Player: food  
 Guide Rahlkora: You can either buy food on the market pyramid north of the depot at Jezzara's or ask in the tavern in the south-western part of town.  
 Player: offer  
