@@ -37,7 +37,7 @@ def process_files(input_dir, output_dir):
         for file in files:
             if file.endswith('.txt'):
                 file_path = os.path.join(root, file)
-                npc_name = os.path.splitext(file)[0].replace('_', ' ')
+                npc_name = os.path.splitext(file)[0].replace(' ', '_')
                 npc_data = create_npc_data(file_path, npc_name)
                 npc_data_list.append(npc_data)
     output_file = os.path.join(output_dir, 'conversations.json')
