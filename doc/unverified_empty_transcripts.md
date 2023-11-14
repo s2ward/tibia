@@ -344,7 +344,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wes the Blacksmith</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Wes_the_Blacksmith.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Goroma</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Atrad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma/Atrad.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Davina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Guide_Davina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nargor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klaus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Klaus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Polly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Polly.txt)  
