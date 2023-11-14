@@ -4,7 +4,7 @@ Guide Kunibert: I can inform you about the status of this world, if you're inter
 Guide Kunibert: Free escort to the depot for newcomers!
 Guide Kunibert: Talk to me if you need directions.
 Player: hi
-Guide Kunibert: Welcome to Rathleton, Simula! Looking for a transport to the main isle of Oramond or would you like some information and a map guide?
+Guide Kunibert: Welcome to Rathleton, Player! Looking for a transport to the main isle of Oramond or would you like some information and a map guide?
 Player: name
 Guide Kunibert: I'm Kunibert, of course.
 Player: job
@@ -70,4 +70,4 @@ Guide Kunibert: Well, nothing wrong about exploring the town on your own. Let me
 Player: change / change
 Guide Kunibert: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
 Player: bye
-Guide Kunibert: Good bye and enjoy your stay in Rathleton, Simula.
+Guide Kunibert: Good bye and enjoy your stay in Rathleton, Player.
