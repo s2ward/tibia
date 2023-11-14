@@ -141,6 +141,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fiona</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Fiona.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fury Hell</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Fury_Hell)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Falonzo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Fury_Hell/Falonzo.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Jonathan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Guide_Jonathan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jerom</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Jerom.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lailene</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Lailene.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Milos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Milos.txt)  

@@ -150,7 +150,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Falk</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Falk.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimvale</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gladys</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Gladys.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Jonathan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Guide_Jonathan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gundralph</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Gundralph.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ikassis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Ikassis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iwan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Iwan.txt)  

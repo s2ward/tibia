@@ -70,7 +70,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Cormaya</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ysbasra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Ysbasra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eremo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Eremo.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Jonathan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Guide_Jonathan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Primal Gnome Hub</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Primal_Gnome_Hub)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomadness</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Primal_Gnome_Hub/Gnomadness.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomfurry</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Primal_Gnome_Hub/Gnomfurry.txt)  
