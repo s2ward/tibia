@@ -37,6 +37,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dario</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Dario.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Feizuhl</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Feizuhl.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fenech</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Fenech.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Rahlkora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Guide_Rahlkora.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ishebad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ishebad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jezzara</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jezzara.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mal'ouquah</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Mal'ouquah)  
