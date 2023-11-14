@@ -15,6 +15,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">An Old Dragonlord</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Draconia/An_Old_Dragonlord.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elathriel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Elathriel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elf Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Elf_Guard.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Thelandil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Guide_Thelandil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hellgate</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Wrinkled Bonelord</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/A_Wrinkled_Bonelord.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashari</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Ashari.txt)  
