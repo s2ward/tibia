@@ -566,6 +566,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lunch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Underground_Isle/Lunch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Valentina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Valentina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Walter&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Walter,_The_Guard.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Walter Jaeger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Walter_Jaeger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Wyat</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Wyat.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Xodet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Xodet.txt)  
 ├─&nbsp;&nbsp;<strong>Various</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various)  
