@@ -52,9 +52,7 @@ Player: weapon
 Oswald: It's rumoured that Sam does not forge all weapons himself. Instead he is buying them from his cousin, who is married to a cyclops.  
 Player: magic  
 Oswald: I overheard a conversation of officials in which they claimed that magic will be forbidden soon.  
-Player: power  
-Oswald: There are people who talk about a rebellion against King Tibianus.  
-Player: rebellion  
+Player: power / rebellion
 Oswald: There are people who talk about a rebellion against King Tibianus.  
 Player: spell  
 Oswald: I heard about a sorcerer who was toasted by a misfired spell of himself.  
@@ -71,9 +69,7 @@ Oswald: Some say he's Ferumbras in disguise.
 Player: chester  
 Oswald: I never heard any rumour about him, isn't that odd?  
 Player: excalibug  
-Oswald: It's beyond all doubt that certain sinister elements in our city have certain knowledge about this myth.  
-Player: lugri  
-Oswald: Some say he's Ferumbras in disguise.  
+Oswald: It's beyond all doubt that certain sinister elements in our city have certain knowledge about this myth.   
 Player: aruda  
 Oswald: She's a little witch, trust me. She used to be the girlfriend of this evil Partos some time ago.  
 Player: partos  
