@@ -346,7 +346,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Orcsoberfest Island</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Orcsoberfest_Island)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Xaver</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Orcsoberfest_Island/Xaver.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Prisoner.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Suzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Suzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Walter Jaeger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Walter_Jaeger.txt)  
 ├─&nbsp;&nbsp;<strong>Various</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">...</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/....txt)  

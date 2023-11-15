@@ -553,6 +553,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Robin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sam</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Sam.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Stutch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Stutch.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Suzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Suzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Todd</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Todd.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Topsy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Topsy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Towncryer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Towncryer.txt)  
