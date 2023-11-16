@@ -535,6 +535,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Greenshore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tokel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore/Tokel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Luke</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Guide_Luke.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hanna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hanna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hardek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hardek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Harkath Bloodblade</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Harkath_Bloodblade.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Harsky</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Harsky.txt)  
