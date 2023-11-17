@@ -108,7 +108,7 @@ jobs:
         with:
           commit_message: "Update conversations.json"
           file_pattern: api/conversations.json
-          branch: ${{ github.head_ref }}  # Adjust if needed
+          branch: ${{ github.head_ref }}
           
   generate_trees:
       needs: convert
