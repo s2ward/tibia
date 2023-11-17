@@ -14,72 +14,76 @@ on:
   workflow_dispatch:
 
 jobs:
-  validate:
-    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
+
+  prepare:
+    if: github.event.issue.pull_request && contains(github.event.comment.body, '/apply')
+    runs-on: ubuntu-latest
+    outputs:
+      pr_head_sha: ${{ steps.set_pr_details.outputs.pr_head_sha }}
+      pr_base_ref: ${{ steps.set_pr_details.outputs.pr_base_ref }}
+    steps:
+      - name: Fetch PR details
+        id: get_pr_details
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.issue.number }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set PR Details
+        id: set_pr_details
+        run: |
+          PR_HEAD_SHA=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .head.sha)
+          PR_BASE_REF=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .base.ref)
+          echo "PR HEAD SHA: $PR_HEAD_SHA"
+          echo "PR BASE REF: $PR_BASE_REF"
+          echo "::set-output name=pr_head_sha::$PR_HEAD_SHA"
+          echo "::set-output name=pr_base_ref::$PR_BASE_REF"
+
+  update_file_mapping:
+    needs: prepare
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ needs.prepare.outputs.pr_head_sha }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
 
-      - name: Validate changes
+      - name: Fetch base branch
         run: |
-          cd npc
-          python ../src/validate.py
+          git fetch origin ${{ needs.prepare.outputs.pr_base_ref }}
 
-  update_file_mapping:
-    if: github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '/apply')
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        repository: ${{ github.event.pull_request.head.repo.full_name }}
-        ref: ${{ github.event.pull_request.head.sha }}
+      - name: Checkout base branch files
+        run: |
+          git worktree add base FETCH_HEAD
+        env:
+          base_dir: base
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
+      - name: Update file mapping
+        run: |
+          mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+          mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+          mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
+          mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+          ADDED_FILES=${ADDED_FILES[@]}
+          MODIFIED_FILES=${MODIFIED_FILES[@]}
+          RENAMED_FILES=${RENAMED_FILES[@]}
+          DELETED_FILES=${DELETED_FILES[@]}
+          python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+        env:
+          repo_dir: ${{ github.workspace }}
+          base_dir: ${{ github.workspace }}/base
 
-    - name: Fetch base branch
-      run: |
-        git fetch origin ${{ github.event.pull_request.base.ref }}
-
-    - name: Checkout base branch files
-      run: |
-        git worktree add base FETCH_HEAD
-      env:
-        base_dir: base
-
-    - name: Update file mapping
-      run: |
-        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
-        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        ADDED_FILES=${ADDED_FILES[@]}
-        MODIFIED_FILES=${MODIFIED_FILES[@]}
-        RENAMED_FILES=${RENAMED_FILES[@]}
-        DELETED_FILES=${DELETED_FILES[@]}
-        python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
-      env:
-        repo_dir: ${{ github.workspace }}
-        base_dir: ${{ github.workspace }}/base
-
-    - name: Commit file_mapping.json
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Update file_mapping.json"
-        file_pattern: api/file_mapping.json
-        branch: ${{ github.head_ref }}
+      - name: Commit file_mapping.json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update file_mapping.json"
+          file_pattern: api/file_mapping.json
+          branch: ${{ github.head_ref }}
 
   convert:
     needs: update_file_mapping
@@ -88,8 +92,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ needs.prepare.outputs.pr_head_sha }}
   
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -99,6 +102,10 @@ jobs:
       - name: Convert txt files to JSON
         run: |
           python src/txt_to_json.py
+
+      - name: Echo head_ref
+        run: echo "Head ref is ${{ github.head_ref }}"
+
   
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -114,23 +121,22 @@ jobs:
         - name: Checkout code
           uses: actions/checkout@v2
           with:
-            repository: ${{ github.event.pull_request.head.repo.full_name }}
-            ref: ${{ github.event.pull_request.head.sha }}
-
+            ref: ${{ needs.prepare.outputs.pr_head_sha }}
+  
         - name: Set up Python
           uses: actions/setup-python@v2
           with:
             python-version: 3.8
-
+  
         - name: Fetch latest changes
           run: |
             git fetch
-            git checkout ${{ github.head_ref }}
-
+            git checkout ${{ needs.prepare.outputs.pr_head_sha }}
+  
         - name: Generate trees
           run: |
             python src/tree.py
-
+  
         - name: Commit tree files
           uses: stefanzweifel/git-auto-commit-action@v4
           with:
