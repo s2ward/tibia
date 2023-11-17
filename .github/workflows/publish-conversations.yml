@@ -83,7 +83,7 @@ jobs:
         with:
           commit_message: "Update file_mapping.json"
           file_pattern: api/file_mapping.json
-          branch: ${{ github.head_ref }}
+          branch: ${{ github.event.issue.number }}
 
   convert:
     needs: update_file_mapping
@@ -104,15 +104,14 @@ jobs:
           python src/txt_to_json.py
 
       - name: Echo head_ref
-        run: echo "Head ref is ${{ github.head_ref }}"
+        run: echo "Head ref is ${{ github.event.issue.number }}"
 
-  
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update conversations.json"
           file_pattern: api/conversations.json
-          branch: ${{ github.head_ref }}
+          branch: ${{ github.event.issue.number }}
           
   generate_trees:
       needs: convert
@@ -142,7 +141,7 @@ jobs:
           with:
             commit_message: "Update tree files"
             file_pattern: 'doc/*_transcripts.md'
-            branch: ${{ github.head_ref }}
+            branch: ${{ github.event.issue.number }}
 
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
