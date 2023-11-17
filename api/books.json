@@ -18533,12 +18533,14 @@
     {
         "name": "Enemies_of_the_True_Faith",
         "author": "?",
-        "description": "?",
+        "description": "About different types of enemies of the true faith followers",
         "locations": [
-            "Tiquanda -> Port Hope Temple Library"
+            "Thais -> Jail Library",
+			"Tiquanda -> Port Hope Temple Library"
         ],
         "libraries": [
-            "Port Hope Libraries"
+            "Port Hope Libraries",
+            "Thais Libraries"
         ],
         "version": "7.5",
         "related-articles": [
@@ -18566,11 +18568,13 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Book_(Black)"
+            "Book_(Black)",
+            "Book_(Red)"
         ],
-        "text": "Enemies of the True Faith\nFirst of all there are the heretics. Those are probably the most dangerous enemies because you hardly notice them. They undermine our society and the belief in the gods by their actions and their words. Some of them are crazy enough to think that they are true believers themselves. Their words erode the fundamentals of faith. They must be eliminated from our society. \nAs practitioners of dark and forbidden arts, witches are dangerous enemies as well. They must be avoided by all virtuous people that swore faithfulness to the gods. Witches are godless beings that even sacrifice evil creatures to get hold of their dark magic.\nThen there are the dammed, the undead. There are two types of them - ghosts and the walking dead. Both are insults to the teachings of the gods, and both were denied eternal peace, surely for a good reason. They try to kill all living beings. They must be destroyed on sight.\nThe worst enemies are demons. They are malicious creatures of immense power that plot the downfall of mankind. With all our power and might we have to oppose these servants of the dark one.\nAll of these enemies pose a threat on their own. We have to be aware of all their evil intrigues to be able to protect our souls. Only a devout and brave heart can triumph over their dark temptations. Those who fail and stumble, even only once, are at risk to become heretics themselves. Therefore we must not only watch ourselves but also our brethren and sisters to see if they might have fallen and turned into enemies. \nThe best weapons to fight evil are bravery and faith. They are not only the best available arms but also the prerequisite to fight evil at all. Brave followers of the true faith might of course arm themselves with additional weapons. A vial of holy water often works wonders when it comes to clean desecrated places and to drive out unholy entities. Often, a believer needs nothing than a holy symbol combined with his unwavering faith to ward off some of the less powerful evil beings.\nThe holy ground of temples dedicated to the good gods is a safe haven for everyone as it cannot be entered by the servants of evil. Certain holy relics in the possession of these temples are able to harm or even to defeat the mightiest servants of darkness.\nWe are all sinners and we should neither be proud of our faith nor be smug about it as pride and vanity are the first steps to heresy. We should be aware of our failures and plead for forgiveness every day.",
+        "text": "Enemies of the True Faith\nFirst of all there are the heretics. Those are probably the most dangerous enemies because you hardly notice them. They undermine our society and the belief in the gods by their actions and their words. Some of them are crazy enough to think that they are true believers themselves. Their words erode the fundamentals of faith. They must be eliminated from our society. \nAs practitioners of dark and forbidden arts, witches are dangerous enemies as well. They must be avoided by all virtuous people that swore faithfulness to the gods. Witches are godless beings that even sacrifice evil creatures to get hold of their dark magic.\nThen there are the damned, the undead. There are two types of them - ghosts and the walking dead. Both are insults to the teachings of the gods, and both were denied eternal peace, surely for a good reason. They try to kill all living beings. They must be destroyed on sight.\nThe worst enemies are demons. They are malicious creatures of immense power that plot the downfall of mankind. With all our power and might we have to oppose these servants of the dark one.\nAll of these enemies pose a threat on their own. We have to be aware of all their evil intrigues to be able to protect our souls. Only a devout and brave heart can triumph over their dark temptations. Those who fail and stumble, even only once, are at risk to become heretics themselves. Therefore we must not only watch ourselves but also our brethren and sisters to see if they might have fallen and turned into enemies. \nThe best weapons to fight evil are bravery and faith. They are not only the best available arms but also the prerequisite to fight evil at all. Brave followers of the true faith might of course arm themselves with additional weapons. A vial of holy water often works wonders when it comes to clean desecrated places and to drive out unholy entities. Often, a believer needs nothing than a holy symbol combined with his unwavering faith to ward off some of the less powerful evil beings.\nThe holy ground of temples dedicated to the good gods is a safe haven for everyone as it cannot be entered by the servants of evil. Certain holy relics in the possession of these temples are able to harm or even to defeat the mightiest servants of darkness.\nWe are all sinners and we should neither be proud of our faith nor be smug about it as pride and vanity are the first steps to heresy. We should be aware of our failures and plead for forgiveness every day.",
         "map": [
-            "https://tibiamaps.io/map#32594,32742,6:2"
+            "https://tibiamaps.io/map#32594,32742,6:2",
+			"https://tibiamaps.io/map#32315,32261,8:3"
         ],
         "type": "book",
         "locations-wip": [
@@ -18578,6 +18582,11 @@
                 "mainarea": "Darama - City",
                 "area": "Tiquanda",
                 "subarea": "Port Hope Temple Library"
+            },
+			{
+                "mainarea": "Main Continent - Cities",
+                "area": "Thais",
+                "subarea": "Jail Library"
             }
         ]
     },
@@ -51037,7 +51046,7 @@
         "img": [
             "Book_(Brown)"
         ],
-        "text": "We have learned from captured demon servants that the Ruthless Seven have occupied some new base and are preparing some kind of doomsday device there. It seems to be their intention to attack one of the major cities and to turn it into hell on earth. Our sources are highly reliable. The Ruthless Seven have deployed some of their most powerful lieutenants to ensure the success of their mission. Strangely, the things we read in the minds of these lieutenants did not point to the Plains of Havoc as expected but to the remote isle of Edron. We are aware that there are some ancient ruins north of Edron. Orshabaal, who is a powerful servant of the Ruthless Seven, might appear in this area to scare people away and to distract any attention. Our main task is to find this secret place of the Ruthless Seven and to kill the lieutenants there. Finally, the doomsday device has to be destroyed.",
+        "text": "We have learnt from captured demon servants that the Ruthless Seven have occupied some new base and are preparing some kind of doomsday device there. It seems to be their intention to attack one of the major cities and to turn it into hell on earth. Our sources are highly reliable. The Ruthless Seven have deployed some of their most powerful lieutenants to ensure the success of their mission. Strangely, the things we read in the minds of these lieutenants did not point to the Plains of Havoc as expected but to the remote isle of Edron. We are aware that there are some ancient ruins north of Edron. Orshabaal, who is a powerful servant of the Ruthless Seven, might appear in this area to scare people away and to distract any attention. Our main task is to find this secret place of the Ruthless Seven and to kill the lieutenants there. Finally, the doomsday device has to be destroyed.",
         "map": [
             "https://tibiamaps.io/map#32318,32268,8:2"
         ],
@@ -51342,7 +51351,7 @@
         "img": [
             "Book_(Green)"
         ],
-        "text": "Only the most pious are allowed to join our ranks\n\nOnly the most pious are allowed to join our ranks. The churches support the inquisition in their efforts to get rid of heretics that try to undermine our society. They are an illness and we are the cure. If we don't cut off the rotten parts, the illness will spread and eventually contaminate us all. If someone joins our ranks, he will start off as an investigator. He will have to prove his worthiness by diligent work and pious deeds. He will have to face traitors and monsters and kill them.",
+        "text": "Only the most pious are allowed to join our ranks. The churches support the inquisition in their efforts to get rid of heretics that try to undermine our society. They are an illness and we are the cure. If we don't cut off the rotten parts, the illness will spread and eventually contaminate us all. If someone joins our ranks, he will start off as an investigator. He will have to prove his worthiness by diligent work and pious deeds. He will have to face traitors and monsters and kill them.",
         "map": [
             "https://tibiamaps.io/map#32318,32268,8:2"
         ],
