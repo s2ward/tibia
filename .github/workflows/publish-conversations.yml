@@ -108,7 +108,7 @@ jobs:
           python src/txt_to_json.py
 
       - name: Echo head_ref
-        run: echo "Head ref is needs.prepare.outputs.pr_head_sha"
+        run: echo "Head ref is ${{ needs.prepare.outputs.pr_head_sha }}"
 
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
