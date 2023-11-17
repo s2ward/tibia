@@ -131,19 +131,19 @@ jobs:
         with:
           python-version: 3.8
   
-        - name: Set up Python
-          uses: actions/setup-python@v2
-          with:
-            python-version: 3.8
-  
-        - name: Fetch latest changes
-          run: |
-            git fetch
-            git checkout ${{ needs.prepare.outputs.pr_head_sha }}
-  
-        - name: Generate trees
-          run: |
-            python src/tree.py
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Fetch latest changes
+        run: |
+          git fetch
+          git checkout ${{ needs.prepare.outputs.pr_head_sha }}
+
+      - name: Generate trees
+        run: |
+          python src/tree.py
   
       - name: Commit tree files
         uses: stefanzweifel/git-auto-commit-action@v4
