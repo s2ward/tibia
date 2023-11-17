@@ -34,7 +34,7 @@ jobs:
 
   update_file_mapping:
     needs: validate
-    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
+    if: github.event.review.state == 'approved'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
@@ -82,7 +82,7 @@ jobs:
 
   convert:
     needs: update_file_mapping
-    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
+    #if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
