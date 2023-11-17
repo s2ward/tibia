@@ -102,6 +102,10 @@ jobs:
       - name: Convert txt files to JSON
         run: |
           python src/txt_to_json.py
+
+      - name: Echo head_ref
+        run: echo "Head ref is ${{ github.head_ref }}"
+
   
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
