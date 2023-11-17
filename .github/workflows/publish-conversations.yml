@@ -21,6 +21,7 @@ jobs:
     outputs:
       pr_head_sha: ${{ steps.set_pr_details.outputs.pr_head_sha }}
       pr_base_ref: ${{ steps.set_pr_details.outputs.pr_base_ref }}
+      pr_head_sha: ${{ steps.set_pr_details.outputs.pr_branch_name}}
     steps:
       - name: Fetch PR details
         id: get_pr_details
@@ -34,9 +35,12 @@ jobs:
         run: |
           PR_HEAD_SHA=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .head.sha)
           PR_BASE_REF=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .base.ref)
+          PR_BRANCH_NAME=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .head.ref)
           echo "PR HEAD SHA: $PR_HEAD_SHA"
           echo "PR BASE REF: $PR_BASE_REF"
+          echo "branch name: $PR_BRANCH_NAME"
           echo "::set-output name=pr_head_sha::$PR_HEAD_SHA"
+          echo "::set-output name=pr_branch_name::$PR_BRANCH_NAME"
           echo "::set-output name=pr_base_ref::$PR_BASE_REF"
 
   update_file_mapping:
@@ -46,7 +50,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: refs/pull/${{ github.event.issue.number }}/head
+          ref: ${{ needs.prepare.outputs.pr_head_sha }}
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -78,12 +82,12 @@ jobs:
           repo_dir: ${{ github.workspace }}
           base_dir: ${{ github.workspace }}/base
 
-      - name: Commit file_mapping.json
+      - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update file_mapping.json"
-          file_pattern: api/file_mapping.json
-          branch: ${{ github.event.issue.number }}
+          commit_message: "Update conversations.json"
+          file_pattern: api/conversations.json
+          branch: ${{ needs.prepare.outputs.pr_branch_name }}
 
   convert:
     needs: update_file_mapping
@@ -92,7 +96,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: refs/pull/${{ github.event.issue.number }}/head
+          ref: ${{ needs.prepare.outputs.pr_head_sha }}
   
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -104,23 +108,28 @@ jobs:
           python src/txt_to_json.py
 
       - name: Echo head_ref
-        run: echo "Head ref is refs/pull/${{ github.event.issue.number }}/head"
+        run: echo "Head ref is needs.prepare.outputs.pr_head_sha"
 
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update conversations.json"
           file_pattern: api/conversations.json
-          branch: refs/pull/${{ github.event.issue.number }}/head
+          branch: ${{ needs.prepare.outputs.pr_branch_name }}
           
   generate_trees:
-      needs: convert
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout code
-          uses: actions/checkout@v2
-          with:
-            ref: refs/pull/${{ github.event.issue.number }}/head
+    needs: convert
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ needs.prepare.outputs.pr_head_sha }}
+  
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
   
         - name: Set up Python
           uses: actions/setup-python@v2
@@ -130,18 +139,18 @@ jobs:
         - name: Fetch latest changes
           run: |
             git fetch
-            git checkout refs/pull/${{ github.event.issue.number }}/head
+            git checkout ${{ needs.prepare.outputs.pr_head_sha }}
   
         - name: Generate trees
           run: |
             python src/tree.py
   
-        - name: Commit tree files
-          uses: stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: "Update tree files"
-            file_pattern: 'doc/*_transcripts.md'
-            branch: refs/pull/${{ github.event.issue.number }}/head
+      - name: Commit tree files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update tree files"
+          file_pattern: 'doc/*_transcripts.md'
+          branch: ${{ needs.prepare.outputs.pr_branch_name }}
 
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
