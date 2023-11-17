@@ -170,8 +170,6 @@ jobs:
 
     - name: Copy updated docs to gh-pages branch
       run: |
-    - name: Copy updated docs to gh-pages branch
-      run: |
         mkdir -p gh-pages/img/book
         mkdir -p gh-pages/img/creature
         mkdir -p gh-pages/img/spell
