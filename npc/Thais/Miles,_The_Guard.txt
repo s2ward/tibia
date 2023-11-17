@@ -1,107 +1,72 @@
 Player: hi / hello
 Miles, The Guard: LONG LIVE THE KING!
-
 Player: KING / leader / tibianus
 Miles, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.
-
 Player: city
 Miles, The Guard: Behave while in the city or we get you! Do you want to know where to find a shop or a guild?
-
 Player: shop
 Miles, The Guard: There's a smith, a provisioner, and a tavern.
-
 Player: guild
 Miles, The Guard: In the city you will find the guildhouses of the knights, paladins, druids, and sorcerers.
-
 Player: smith / sam / armor / weapon
 Miles, The Guard: Sam is our blacksmith. You'll find him north of the main crossroads. His shop is to the left.
-
 Player: provisioner / gorn
 Miles, The Guard: Gorn is our provisioner. You'll find him north of the main crossroads. His shop is to the right.
-
 Player: tavern / frodo
 Miles, The Guard: Frodo runs the local tavern. You'll find it at the main crossroads to the north-west.
-
 Player: knights / gregor
 Miles, The Guard: The high knight of the knights' guild. It is in north-east of the town.
-
 Player: paladins / elane
 Miles, The Guard: Elane is responsible for the local paladins' guild. It's in the west of the town, directly south of the post office.
-
 Player: druids
 Miles, The Guard: Marvik is the great druid of the local guild. You'll find him by climbing up the citywalls at the east.
-
 Player: sorcerers / muriel
 Miles, The Guard: Muriel is the head of the local sorcerers' guild. You'll find it in the south-west of the city.
-
 Player: job
 Miles, The Guard: It's my duty to protect the city.
-
 Player: army
 Miles, The Guard: Of course we guards are members of the army.
-
 Player: guard
 Miles, The Guard: I am a guard and proud of it.
-
 Player: marvik / druid
 Miles, The Guard: Marvik is the great druid of the local guild. You'll find him by climbing up the citywalls at the east.
-
 Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant
 Miles, The Guard: Take this!
-
 Player: banor
 Miles, The Guard: Praise Banor! May the great warrior be with us!
-
 Player: baxter
 Miles, The Guard: He is a role model for us.
-
 Player: battlegroups
 Miles, The Guard: Ask higher officials about that, please.
-
 Player: benjamin / post
 Miles, The Guard: Benjamin was a brave fighter. He runs the post office in the west of the city.
-
 Player: bloodblade
 Miles, The Guard: The royal general. A warrior worth Banor's blessings.
-
 Player: bozo
 Miles, The Guard: The royal jester.
-
 Player: castle
 Miles, The Guard: The castle is at the west of the city.
-
 Player: depot
 Miles, The Guard: The depot is at the post office in the west of the city.
-
 Player: sell
 Miles, The Guard: Visit Tibia's shopkeepers to buy their fine wares.
-
 Player: dogs of war
 Miles, The Guard: Brave warriors, indeed.
-
 Player: first dragon
 Miles, The Guard: He was slain long ago.
-
 Player: general
 Miles, The Guard: The royal general. A warrior worth Banor's blessings.
-
 Player: harsky / stutch
 Miles, The Guard: He is a soldier in the silver guard.
-
 Player: silver guard
 Miles, The Guard: Only the best of the best serve as silver guards.
-
 Player: how are you?
 Miles, The Guard: I am healthy and vigilant.
-
 Player: news
 Miles, The Guard: I am busy. Please ask the citizens for news.
-
 Player: scum
 Miles, The Guard: We will get rid of all scum.
-
 Player: trouble
 Miles, The Guard: I don't feel like chatting.
-
 Player: bye / farewell
 Miles, The Guard: LONG LIVE THE KING
