@@ -46,7 +46,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: ${{ needs.prepare.outputs.pr_head_sha }}
+          ref: refs/pull/${{ github.event.issue.number }}/head
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -92,7 +92,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          ref: ${{ needs.prepare.outputs.pr_head_sha }}
+          ref: refs/pull/${{ github.event.issue.number }}/head
   
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -104,14 +104,14 @@ jobs:
           python src/txt_to_json.py
 
       - name: Echo head_ref
-        run: echo "Head ref is ${{ github.event.issue.number }}"
+        run: echo "Head ref is refs/pull/${{ github.event.issue.number }}/head"
 
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update conversations.json"
           file_pattern: api/conversations.json
-          branch: ${{ github.event.issue.number }}
+          branch: refs/pull/${{ github.event.issue.number }}/head
           
   generate_trees:
       needs: convert
@@ -120,7 +120,7 @@ jobs:
         - name: Checkout code
           uses: actions/checkout@v2
           with:
-            ref: ${{ needs.prepare.outputs.pr_head_sha }}
+            ref: refs/pull/${{ github.event.issue.number }}/head
   
         - name: Set up Python
           uses: actions/setup-python@v2
@@ -130,7 +130,7 @@ jobs:
         - name: Fetch latest changes
           run: |
             git fetch
-            git checkout ${{ needs.prepare.outputs.pr_head_sha }}
+            git checkout refs/pull/${{ github.event.issue.number }}/head
   
         - name: Generate trees
           run: |
@@ -141,7 +141,7 @@ jobs:
           with:
             commit_message: "Update tree files"
             file_pattern: 'doc/*_transcripts.md'
-            branch: ${{ github.event.issue.number }}
+            branch: refs/pull/${{ github.event.issue.number }}/head
 
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
