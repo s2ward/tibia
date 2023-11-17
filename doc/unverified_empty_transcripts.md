@@ -508,7 +508,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nienna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Nienna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Satsu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Satsu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tanaro</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Tanaro.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Miles&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Miles,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jamesfrancis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Jamesfrancis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Markwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Markwin.txt)  
