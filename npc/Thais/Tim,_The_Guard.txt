@@ -1,6 +1,5 @@
 Player: hi  
 Tim, The Guard: LONG LIVE THE KING!  
- Tim:  
 Player: job  
 Tim, The Guard: It's my duty to protect the city.  
 Player: guard  
@@ -11,7 +10,6 @@ Player: how are you
 Tim, The Guard: I am healthy and vigilant.  
 Player: red guards  
 Tim, The Guard: We of the red guard are the special forces.  
-NPCs:  
 Player: bozo  
 Tim, The Guard: The royal jester.  
 Player: sam / smith / weapon  
