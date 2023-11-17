@@ -1,0 +1,34 @@
+Player: hi
+Walter Jaeger: Good hunting! I can offer you some lovely rewards for finishing prey hunting tasks! Furthermore I can tell you how many hunting task points (HTP) you actually have and you have already spent.
+Player: name
+Walter Jaeger: My name is Walter Jaeger. Hunting is for me a necessary process to keep the creatures in Tibia in a sustainable balance. None of the creatures should gain the upper hand.
+Player: job
+Walter Jaeger: I am the commissioner for hunting in Tibia. It is important to keep populations of all creatures at a moderate level. That's why the prey hunting tasks are that important.
+Player: moderate
+Walter Jaeger: Too much of anything is always a problem. Nothing in excess! That's my motto.
+Player: rewards
+Walter Jaeger: Finishing prey hunting tasks will give you hunting task points (HTP). These can be exchanged for items of the following categories: outfit, mount, trophies, extras and furniture. ...
+Walter Jaeger: Please note, that all items will be put into your Store inbox!
+Player: outfit
+Walter Jaeger: I offer you the Falconer outfit!
+Player: Falconer
+Walter Jaeger: The base Falconer outfit costs 100,000 HTP, the first addon 35,000 HTP and the second addon 35,000 HTP.
+Player: mount
+Walter Jaeger: I offer you the antelope mount!
+Player: antelope
+Walter Jaeger: The antelope mount costs 145,000 HTP.
+Player: trophies
+Walter Jaeger: gozzler trophy (3,000 HTP), bronze hunter trophy (3,000 HTP), sea serpent trophy (15,000 HTP), silver hunter trophy (15,000 HTP), ...
+Walter Jaeger: many faces trophy (50,000 HTP), hellflayer trophy (80,000 HTP), gold hunter trophy (80,000 HTP), brachiodemon trophy (80,000 HTP).
+Player: extras
+Walter Jaeger: I offer you a cerberus champion puppy (75,000 HTP), a demon doll (37,500 HTP) and a vexclaw doll (37,500 HTP).
+Player: furniture
+Walter Jaeger: I offer you a bone bed (35,000 HTP) and a falcon pet (135,000 HTP).
+Player: tasks
+Walter Jaeger: Prey hunting tasks should reduce the number of certain monsters. And if you fulfil them successfully I will show my appreciation and give you some rewards in exchange of hunting task points.
+Player: have
+Walter Jaeger: Right now you have 0 HTP.
+Player: spent
+Walter Jaeger: You have already spent 0 HTP.
+Player: bye
+Walter Jaeger: Keep on hunting!
