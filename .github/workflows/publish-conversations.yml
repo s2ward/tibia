@@ -90,7 +90,9 @@ jobs:
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
 
   convert:
-    needs: update_file_mapping
+    needs: 
+      - update_file_mapping
+      - prepare
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -118,7 +120,9 @@ jobs:
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
           
   generate_trees:
-    needs: convert
+    needs: 
+      - convert
+      - prepare
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
