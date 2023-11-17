@@ -34,109 +34,109 @@ jobs:
           cd npc
           python ../src/validate.py
 
-  update_file_mapping:
-    if: github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '/apply')
-    runs-on: ubuntu-latest
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-      with:
-        repository: ${{ github.event.pull_request.head.repo.full_name }}
-        ref: ${{ github.event.pull_request.head.sha }}
-
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8
-
-    - name: Fetch base branch
-      run: |
-        git fetch origin ${{ github.event.pull_request.base.ref }}
-
-    - name: Checkout base branch files
-      run: |
-        git worktree add base FETCH_HEAD
-      env:
-        base_dir: base
-
-    - name: Update file mapping
-      run: |
-        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
-        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-        ADDED_FILES=${ADDED_FILES[@]}
-        MODIFIED_FILES=${MODIFIED_FILES[@]}
-        RENAMED_FILES=${RENAMED_FILES[@]}
-        DELETED_FILES=${DELETED_FILES[@]}
-        python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
-      env:
-        repo_dir: ${{ github.workspace }}
-        base_dir: ${{ github.workspace }}/base
-
-    - name: Commit file_mapping.json
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "Update file_mapping.json"
-        file_pattern: api/file_mapping.json
-        branch: ${{ github.head_ref }}
-
-  convert:
-    needs: update_file_mapping
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
-  
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-  
-      - name: Convert txt files to JSON
-        run: |
-          python src/txt_to_json.py
-  
-      - name: Commit conversations.json
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update conversations.json"
-          file_pattern: api/conversations.json
-          branch: ${{ github.head_ref }}
-          
-  generate_trees:
-      needs: convert
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout code
-          uses: actions/checkout@v2
-          with:
-            repository: ${{ github.event.pull_request.head.repo.full_name }}
-            ref: ${{ github.event.pull_request.head.sha }}
-
-        - name: Set up Python
-          uses: actions/setup-python@v2
-          with:
-            python-version: 3.8
-
-        - name: Fetch latest changes
-          run: |
-            git fetch
-            git checkout ${{ github.head_ref }}
-
-        - name: Generate trees
-          run: |
-            python src/tree.py
-
-        - name: Commit tree files
-          uses: stefanzweifel/git-auto-commit-action@v4
-          with:
-            commit_message: "Update tree files"
-            file_pattern: 'doc/*_transcripts.md'
-            branch: ${{ github.head_ref }}
+#  update_file_mapping:
+#    if: github.event_name == 'issue_comment' && github.event.issue.pull_request != null && contains(github.event.comment.body, '/apply')
+#    runs-on: ubuntu-latest
+#    steps:
+#    - name: Checkout code
+#      uses: actions/checkout@v2
+#      with:
+#        repository: ${{ github.event.pull_request.head.repo.full_name }}
+#        ref: ${{ github.event.pull_request.head.sha }}
+#
+#    - name: Set up Python
+#      uses: actions/setup-python@v2
+#      with:
+#        python-version: 3.8
+#
+#    - name: Fetch base branch
+#      run: |
+#        git fetch origin ${{ github.event.pull_request.base.ref }}
+#
+#    - name: Checkout base branch files
+#      run: |
+#        git worktree add base FETCH_HEAD
+#      env:
+#        base_dir: base
+#
+#    - name: Update file mapping
+#      run: |
+#        mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+#        mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+#        mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
+#        mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+#        ADDED_FILES=${ADDED_FILES[@]}
+#        MODIFIED_FILES=${MODIFIED_FILES[@]}
+#        RENAMED_FILES=${RENAMED_FILES[@]}
+#        DELETED_FILES=${DELETED_FILES[@]}
+#        python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+#      env:
+#        repo_dir: ${{ github.workspace }}
+#        base_dir: ${{ github.workspace }}/base
+#
+#    - name: Commit file_mapping.json
+#      uses: stefanzweifel/git-auto-commit-action@v4
+#      with:
+#        commit_message: "Update file_mapping.json"
+#        file_pattern: api/file_mapping.json
+#        branch: ${{ github.head_ref }}
+#
+#  convert:
+#    needs: update_file_mapping
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout code
+#        uses: actions/checkout@v2
+#        with:
+#          repository: ${{ github.event.pull_request.head.repo.full_name }}
+#          ref: ${{ github.event.pull_request.head.sha }}
+#  
+#      - name: Set up Python
+#        uses: actions/setup-python@v2
+#        with:
+#          python-version: 3.8
+#  
+#      - name: Convert txt files to JSON
+#        run: |
+#          python src/txt_to_json.py
+#  
+#      - name: Commit conversations.json
+#        uses: stefanzweifel/git-auto-commit-action@v4
+#        with:
+#          commit_message: "Update conversations.json"
+#          file_pattern: api/conversations.json
+#          branch: ${{ github.head_ref }}
+#          
+#  generate_trees:
+#      needs: convert
+#      runs-on: ubuntu-latest
+#      steps:
+#        - name: Checkout code
+#          uses: actions/checkout@v2
+#          with:
+#            repository: ${{ github.event.pull_request.head.repo.full_name }}
+#            ref: ${{ github.event.pull_request.head.sha }}
+#
+#        - name: Set up Python
+#          uses: actions/setup-python@v2
+#          with:
+#            python-version: 3.8
+#
+#        - name: Fetch latest changes
+#          run: |
+#            git fetch
+#            git checkout ${{ github.head_ref }}
+#
+#        - name: Generate trees
+#          run: |
+#            python src/tree.py
+#
+#        - name: Commit tree files
+#          uses: stefanzweifel/git-auto-commit-action@v4
+#          with:
+#            commit_message: "Update tree files"
+#            file_pattern: 'doc/*_transcripts.md'
+#            branch: ${{ github.head_ref }}
 
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
