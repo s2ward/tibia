@@ -21,7 +21,7 @@ jobs:
     outputs:
       pr_head_sha: ${{ steps.set_pr_details.outputs.pr_head_sha }}
       pr_base_ref: ${{ steps.set_pr_details.outputs.pr_base_ref }}
-      pr_head_sha: ${{ steps.set_pr_details.outputs.pr_branch_name}}
+      pr_branch_name: ${{ steps.set_pr_details.outputs.pr_branch_name}}
     steps:
       - name: Fetch PR details
         id: get_pr_details
