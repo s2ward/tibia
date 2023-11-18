@@ -66,7 +66,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graubart</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Graubart.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marlene</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Marlene.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Mortimer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Mortimer.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Florentine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Florentine.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Folda</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Folda)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Svenson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Folda/Svenson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Friedolin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Friedolin.txt)  
