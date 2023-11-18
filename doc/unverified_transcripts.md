@@ -41,7 +41,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Friedolin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Friedolin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imalas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Imalas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lea</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Lea.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nydala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Nydala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Padreia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Padreia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Penny</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Penny.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Phillip</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Phillip.txt)  
