@@ -82,11 +82,11 @@ jobs:
           repo_dir: ${{ github.workspace }}
           base_dir: ${{ github.workspace }}/base
 
-      - name: Commit conversations.json
+      - name: Commit file_mapping.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update conversations.json"
-          file_pattern: api/conversations.json
+          commit_message: "Update file_mapping.json"
+          file_pattern: api/file_mapping.json
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
 
   convert:
