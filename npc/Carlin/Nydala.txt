@@ -1,4 +1,4 @@
-Player: hi  
+Player: hi guy
 Nydala: Welcome to Carlin Furniture Store, Player.  
 Player: name  
 Nydala: My name is Nydala. I run this store.  
