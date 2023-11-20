@@ -565,7 +565,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hagor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Hagor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nemal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Nemal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Para Norbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Para_Norbert.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Claude</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jean_Claude.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Julian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Julian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kalvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Kalvin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lightfoot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lightfoot.txt)  
