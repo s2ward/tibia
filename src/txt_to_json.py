@@ -29,7 +29,7 @@ def create_npc_data(file_path, name):
 
 def save_to_json(npc_data_list, output_file):
     with open(output_file, 'w') as file:
-        json.dump(npc_data_list, file)
+        json.dump(npc_data_list, file, indent=2)
 
 def process_files(input_dir, output_dir):
     npc_data_list = []
