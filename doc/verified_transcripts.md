@@ -621,6 +621,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Dream Master</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/The_Dream_Master.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rafzan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Rafzan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rodney</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Rodney.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roger The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Roger_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rokyn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Rokyn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rose</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Rose.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Smiley</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Smiley.txt)  
