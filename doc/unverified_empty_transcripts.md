@@ -544,7 +544,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Carina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chephan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chephan.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chuck The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chuck_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dagomir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dagomir.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Demon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dove</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dove.txt)  
