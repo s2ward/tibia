@@ -596,6 +596,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Elena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Guide_Elena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hugo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Hugo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irmana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Irmana.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jack The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jack_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Claude</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jean_Claude.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Leeland</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Leeland.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Livielle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Livielle.txt)  
