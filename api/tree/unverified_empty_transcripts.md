@@ -588,7 +588,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Oldrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Plains_of_Havoc/Oldrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pyro Peter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pyro_Peter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ra'Clette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ra'Clette.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roger The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Roger_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Romella</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Romella.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Scott The Scout</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Scott_The_Scout.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shiantis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Shiantis.txt)  
