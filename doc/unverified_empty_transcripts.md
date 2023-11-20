@@ -539,7 +539,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Ghostly Woman (Dream Realm)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/A_Ghostly_Woman_(Dream_Realm).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bill The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bill_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Carina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chephan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chephan.txt)  
