@@ -31,7 +31,6 @@ Norman The Foreman: Mind you, there were some nasty creatures on the loose befor
 Player: job
 Norman The Foreman: We need people for some action in the fields of sabotage, maintenance or pathfinder assistance. You'll get paid in cash and a solid experience reward. ...
 Norman The Foreman: Plus, do all three tasks in a day and there's even a bonus in it for you. Which one you're interested in for a start?
-
 Player: sabotage
 Norman The Foreman: You're a man for subtle work? I need some little corym rats... disposed of. Still interested?
 Player: no
@@ -45,7 +44,6 @@ Player: sabotage (task complete)
 Norman The Foreman: Well, look who's back. And I see some li'l corym scalps there, too. Good work. Here's a little something for your trouble. ... Let's see if you've earned that extra gold and experience, shall we?
 Player: sabotage (after completed)
 Norman The Foreman: The corym have had their fill for the day I think. Come back tomorrow, there's bound to be things to do for you again then.
-
 Player: maintenance
 Norman The Foreman: Well, we do have three main production sites in the north, the center and the south. The heavy tools there like the wooden treadmill, the saws and cranes always need lubrication. ...
 Norman The Foreman: You want to help us maintaining our equipment?
@@ -59,7 +57,6 @@ Player: maintenance (task complete)
 Good workmanship, everything's running smoothly. Take this for your effort and let's check if you've earned that extra reward, shall we?
 Player: maintenance (after complete)
 Norman The Foreman: Thanks, friend. You already played your part for today and maintained our construction equipment. Come back tomorrow!
-
 Player: pathfinder
 Norman The Foreman: C'mon, c'mon, we don't have all day! You want to support our pathfinder crew? They're scouting for new swamp weed areas and maintain our paths through the swamp in order to keep everything going. ...
 Norman The Foreman: Now, I want you to bring this grind stone to Scott the Scout and that pathfinder kit to Frank the Plank. You in?
@@ -74,16 +71,13 @@ Player: pathfinder (task complete)
 Norman The Foreman: Good work, Player. Take your reward and let's just see if you've earned that extra bonus, shall we?
 Player: pathfinder (after complete)
 Norman The Foreman: Sorry, Player, right now I don't have a job for you. Please come back later.
-
 Player: yes (after having completed one or two tasks)
 Norman The Foreman: Here's how it works: if you do all three jobs - sabotage, maintenance and pathfinder - in less than twenty hours' time, you'll get a bonus. ...
 Norman The Foreman: If you exceeded that time in a task, I'll tell you. You can always check your questlog to see which tasks you've got still running and which are done. ...
 Norman The Foreman: You got any questions, you come see me. Got that? Good.
 Player: yes (after having completed three tasks)
 Norman The Foreman: Lemme see... yep, lookin' good. You went and did all three tasks in less than twenty hours. Nice job. Here's your bonus, as promised.
-
 Player: yes
 Norman The Foreman: Lemme see... yep, lookin' good. You went and did all three tasks in less than twenty hours. Nice job. Here's your bonus, as promised.
-
 Player: bye
 Norman The Foreman: Godspeed to ye, Player!
