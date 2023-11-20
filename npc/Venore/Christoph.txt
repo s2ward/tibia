@@ -1,0 +1,40 @@
+Player: hi  
+Christoph: LONG LIVE THE KING!  
+Player: KING / tibianus / leader  
+Christoph: Tibianus III is our beloved king! He rules over Venore from far away Thais.  
+Player: Venore  
+Christoph: The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre.  
+Player: job  
+Christoph: I am a protector of the people of Venore.  
+Player: dogs of war  
+Christoph: They are our rolemodells.  
+Player: battlegroups  
+Christoph: I doubt you have the security clearance to ask that.  
+Player: guard / army / secret police  
+Christoph: This information is confidential.  
+Player: news  
+Christoph: Look for the Hard Rock Tavern to learn the latest news.  
+Player: silver guard  
+Christoph: Only the best of the best serve as silver guards.  
+Player: city  
+Christoph: This city, a member of the Thaian kingdom, is under the protection of the Thaian army.  
+Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant  
+Christoph: Take this!  
+Player: buy / sell  
+Christoph: Ask the merchants of the city. There are more than enough.  
+Player: castle  
+Christoph: The castle is in Thais, the crown of the kingdom.  
+Player: how are you?  
+Christoph: That's classified information!  
+Player: knights of noodles  
+Christoph: Every guard dreams of becoming one of them one day.  
+Player: monsters  
+Christoph: The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps.  
+Player: swamps  
+Christoph: The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls.  
+Player: swamptrolls  
+Christoph: This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons.  
+Player: swampelves  
+Christoph: Those elves hide in the swamps and are trying to kill all humans in this area.  
+Player: bye  
+Christoph: LONG LIVE THE KING!  
