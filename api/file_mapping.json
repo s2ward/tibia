@@ -1184,8 +1184,13 @@
         "Abran_Ironeye": "VERIFIED",
         "Aldo": "UNVERIFIED",
         "Allen": "VERIFIED",
+<<<<<<< HEAD
         "Alwin": "UNVERIFIED",
         "Arnold": "VERIFIED",
+=======
+        "Alwin": "VERIFIED",
+        "Arnold": "EMPTY",
+>>>>>>> 0d0f5489ede21d80078cfbc70120229add7840ca
         "Ashtamor": "VERIFIED",
         "Asrak": "VERIFIED",
         "Bill_The_Worker": "EMPTY",
