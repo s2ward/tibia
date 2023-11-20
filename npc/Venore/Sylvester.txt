@@ -30,11 +30,13 @@ Player: knights of noodles
 Sylvester: Every guard dreams of becoming one of them one day.  
 Player: monsters  
 Sylvester: The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps.  
-Player: swamps  
+Player: swamp
 Sylvester: The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls.  
 Player: swamptrolls  
 Sylvester: This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons.  
 Player: swampelves  
-Sylvester: Those elves hide in the swamps and are trying to kill all humans in this area.  
+Sylvester: Those elves hide in the swamps and are trying to kill all humans in this area.
+Player: amazons
+Sylvester: They are the best example for the results of the Carlin madness.
 Player: bye  
 Sylvester: LONG LIVE THE KING!  

@@ -540,7 +540,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Strange Fellow</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/A_Strange_Fellow.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arnold</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Arnold.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bill The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bill_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bob The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bob_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
