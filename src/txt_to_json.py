@@ -5,22 +5,32 @@ def parse_txt_file(file_path):
     with open(file_path, 'r') as file:
         lines = file.readlines()
     conversation, current_speaker, prompt, answers = [], None, None, []
-    for line in lines:
+    for line_number, line in enumerate(lines, 1):  # Start counting lines from 1
         if line.strip():
-            speaker, text = line.split(':', 1)
-            text = text.strip()
-            if speaker == 'Player':
-                if current_speaker == speaker: prompt += " " + text
+            try:
+                speaker, text = line.split(':', 1)
+                text = text.strip()
+                if speaker == 'Player':
+                    if current_speaker == speaker: 
+                        prompt += " " + text
+                    else:
+                        if prompt is not None: 
+                            conversation.append({'prompt': prompt, 'answer': answers})
+                        prompt, answers = text, []
                 else:
-                    if prompt is not None: conversation.append({'prompt': prompt, 'answer': answers})
-                    prompt, answers = text, []
-            else:
-                if current_speaker == speaker: answers.append(text)
-                else:
-                    if answers: answers[-1] += " " + text
-                    else: answers.append(text)
-            current_speaker = speaker
-    if prompt is not None: conversation.append({'prompt': prompt, 'answer': answers})
+                    if current_speaker == speaker: 
+                        answers.append(text)
+                    else:
+                        if answers: 
+                            answers[-1] += " " + text
+                        else: 
+                            answers.append(text)
+                current_speaker = speaker
+            except ValueError:
+                print(f"Error in file '{file_path}' at line {line_number}: '{line.strip()}'")
+                raise  # Re-raises the last exception
+    if prompt is not None: 
+        conversation.append({'prompt': prompt, 'answer': answers})
     return conversation
 
 def create_npc_data(file_path, name):
