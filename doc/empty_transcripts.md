@@ -347,7 +347,6 @@
 ├─&nbsp;&nbsp;<strong>Various</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">...</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/....txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bill The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bill_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Carina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
