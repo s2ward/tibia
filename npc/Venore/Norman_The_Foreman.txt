@@ -1,0 +1,83 @@
+Player: hi
+Norman The Foreman: Hello friend. You lookin' for a job? I could use a hand here.
+Player: mission
+Norman The Foreman: Looking for some fancy adventure? I heard the Agency of Venorean Interest Negotiators always need adventurers willin' to help ensure the safety o' Venore and its ventures. ...
+Norman The Foreman: The AVIN office is in the harbour building, second floor. Ask for Uncle.
+Player: Venore
+Norman The Foreman: Best place to live in. Thrivin' city. Best manufacturers of wood, famous for its 'haute cuisine' Venorean spice and has got the nicest shops with lots of frills for the lady while a man can enjoy a quiet game o' cards or dograces, if ya get my drift.
+Player: dograces
+Norman The Foreman: Our Venore's the only city with an official gambling license. Famous for its dog races throughout Tibia's lands! ... You'll find the races in the city centre. For a small fee, I can name ye the dog that's sure to win. <winks>
+Player: Thais
+Norman The Foreman: Capital city of Tibia. People say it's nice. Couldn't say I prefer it to Venore, though. Fancy place at any rate, and if you like to sneak a peek at our king, you should definitely go there to visit the royal court.
+Player: king
+Norman The Foreman: Our king Tibianus is a good man. Reigns all Tibia from Thais, his noble capital. Seems to think it's the best city for that. ...
+Norman The Foreman: Venore's a loyal vassal, o' course, and since the rebellion of Liberty Bay was subdued, business couldn't be better
+Player: trolls
+Norman The Foreman: Yeah, got trolls here, too. They smell almost as bad as orcs and have a brain the size of a pea. People say the trolls got a real cosy underground settlement tunnelled out just south of Venore and that the entrance's someplace in the southern swamp.
+Player: creatures
+Norman The Foreman: Well, there are some that like to live in the deep o' the swamp. Orcs, trolls, some nasty elves in the southeast, and some ratpeople underground. Vicious stuff, those. Keep stealin' things and sabotagin' our production sites.
+Player: elves
+Norman The Foreman: Some say elves are nice folk when you get to know 'em, but that's not the kind of elves that live in the southeastern swamp! ...
+Norman The Foreman: They don't like strangers and keep to themselves in that fortress of theirs, Shadowthorn. Stay out of their way if you value your life.
+Player: orcs
+Norman The Foreman: Orcs? Common as dirt. Find them everywhere in Tibia. They got a camp on the northeastern coast, close to our production site, but they keep to themselves mostly. ...
+Norman The Foreman: Still, don't like 'em. They smell like old socks and collect skulls and bones. Nasty.
+Player: ratpeople
+Norman The Foreman: Hah! The plague o' the swamps, they are. Tunnelling everywhere, worse 'n trolls. Thievin' little eels. ...
+Norman The Foreman: They steal all kinds of stuff from us. Especially the little coryms, they're worse than magpies - steal everything that's not nailed down.
+Player: swamp
+Norman The Foreman: Nice place, ain't it? See the specialty of Venore, the spice weed? Only grows here in our swamp. Delicious stuff. ...
+Norman The Foreman: Mind you, there were some nasty creatures on the loose before the wizards cleared the area and Venore was built. But that's long ago.
+Player: job
+Norman The Foreman: We need people for some action in the fields of sabotage, maintenance or pathfinder assistance. You'll get paid in cash and a solid experience reward. ...
+Norman The Foreman: Plus, do all three tasks in a day and there's even a bonus in it for you. Which one you're interested in for a start?
+Player: sabotage
+Norman The Foreman: You're a man for subtle work? I need some little corym rats... disposed of. Still interested?
+Player: no
+Norman The Foreman: Don't waste my time, then. Come back when you want to make yourself useful.
+Player: yes
+Norman The Foreman: Good. The charlatan outpost is at the southern production site; I put up a warning sign. Enter their cave through the hidden mud hole, next to the ropespot. ...
+Norman The Foreman: Inside, kill five little charlatans so they get the message to STAY OFF our property. Come back when you've succeeded.
+Player: sabotage (task incomplete)
+Norman The Foreman: I remember you're already busy with that. Didn't find the corym hideout entrance, did ya? It's just west of the production site, in the mud. A ropespot is one step away from it. Come back when the job's finished.
+Player: sabotage (task complete)
+Norman The Foreman: Well, look who's back. And I see some li'l corym scalps there, too. Good work. Here's a little something for your trouble. ... Let's see if you've earned that extra gold and experience, shall we?
+Player: sabotage (after completed)
+Norman The Foreman: The corym have had their fill for the day I think. Come back tomorrow, there's bound to be things to do for you again then.
+Player: maintenance
+Norman The Foreman: Well, we do have three main production sites in the north, the center and the south. The heavy tools there like the wooden treadmill, the saws and cranes always need lubrication. ...
+Norman The Foreman: You want to help us maintaining our equipment?
+Player: no
+Norman The Foreman: Don't waste my time!
+Player: yes
+Norman The Foreman: Very good. Here, take this can of oil and lubricate all the wooden treadmills, the saws and the cranes in each of the three production sites. Return to me when you finished your job.
+Player: maintenance (task incomplete)
+Norman The Foreman: Well, well, well. There is still room for more lubrication in the central production site. I need things to run smoothly. Return when you finished your work.
+Player: maintenance (task complete)
+Norman The Foreman: Good workmanship, everything's running smoothly. Take this for your effort and let's check if you've earned that extra reward, shall we?
+Player: maintenance (after complete)
+Norman The Foreman: Thanks, friend. You already played your part for today and maintained our construction equipment. Come back tomorrow!
+Player: pathfinder
+Norman The Foreman: C'mon, c'mon, we don't have all day! You want to support our pathfinder crew? They're scouting for new swamp weed areas and maintain our paths through the swamp in order to keep everything going. ...
+Norman The Foreman: Now, I want you to bring this grind stone to Scott the Scout and that pathfinder kit to Frank the Plank. You in?
+Player: no
+Norman The Foreman: Don't waste my time!
+Player: yes
+Norman The Foreman: As you wish. Here. Take this pathfinder kit and bring it to Frank the Plank - you'll find him east of the southern production site. Scott the Scout is eagerly waiting for this grinding stone as his blades are becoming blunt. ...
+Norman The Foreman: You'll find Scott the Scout in the northern part of the swamp between the production site and the orc camp. Return to me when you finished your task.
+Player: pathfinder (task incomplete)
+Norman The Foreman: Shouldn't you be looking for Scott the Scout and Frank the Plank?
+Player: pathfinder (task complete)
+Norman The Foreman: Good work, Player. Take your reward and let's just see if you've earned that extra bonus, shall we?
+Player: pathfinder (after complete)
+Norman The Foreman: Sorry, Player, right now I don't have a job for you. Please come back later.
+Player: yes (after having completed one or two tasks)
+Norman The Foreman: Here's how it works: if you do all three jobs - sabotage, maintenance and pathfinder - in less than twenty hours' time, you'll get a bonus. ...
+Norman The Foreman: If you exceeded that time in a task, I'll tell you. You can always check your questlog to see which tasks you've got still running and which are done. ...
+Norman The Foreman: You got any questions, you come see me. Got that? Good.
+Player: yes (after having completed three tasks)
+Norman The Foreman: Lemme see... yep, lookin' good. You went and did all three tasks in less than twenty hours. Nice job. Here's your bonus, as promised.
+Player: yes
+Norman The Foreman: Lemme see... yep, lookin' good. You went and did all three tasks in less than twenty hours. Nice job. Here's your bonus, as promised.
+Player: bye
+Norman The Foreman: Godspeed to ye, Player!

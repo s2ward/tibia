@@ -1,0 +1,26 @@
+Player: hi
+A Strange Fellow: Uh? What do you want, Player?!
+Player: want
+A Strange Fellow: I think there is nothing to talk about.
+Player: job
+A Strange Fellow: That's only my business, not yours.
+Player: David
+A Strange Fellow: Yes, yes... Its me .. you exposed me! Stop nagging me with that.
+Player: hat
+A Strange Fellow: Get lost!
+Player: bill
+A Strange Fellow: That's not my concern, you are probably looking for someone else and now get lost!
+Player: hat (quest)
+A Strange Fellow: What? My hat?? Theres... nothing special about it!
+Player: hat
+A Strange Fellow: Stop bugging me about that hat, do you listen?
+Player: hat
+A Strange Fellow: Hey! Don't touch that hat! Leave it alone!!! Don't do this!!!!
+Player: hat
+A Strange Fellow: Noooooo! Argh, ok, ok, I guess I can't deny it anymore, I am David Brassacres, the magnificent, so what doyou want?
+Player: bill
+A Strange Fellow: A bill? Oh boy so you are delivering another bill to poor me?
+Player: yes
+A Strange Fellow: Ok, ok, I'll take it. I guess I have no other choice anyways. And now leave me alone in my misery please.
+Player: bye
+A Strange Fellow: Good riddance.
