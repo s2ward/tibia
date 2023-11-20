@@ -54,7 +54,7 @@ Norman The Foreman: Very good. Here, take this can of oil and lubricate all the 
 Player: maintenance (task incomplete)
 Norman The Foreman: Well, well, well. There is still room for more lubrication in the central production site. I need things to run smoothly. Return when you finished your work.
 Player: maintenance (task complete)
-Good workmanship, everything's running smoothly. Take this for your effort and let's check if you've earned that extra reward, shall we?
+Norman The Foreman: Good workmanship, everything's running smoothly. Take this for your effort and let's check if you've earned that extra reward, shall we?
 Player: maintenance (after complete)
 Norman The Foreman: Thanks, friend. You already played your part for today and maintained our construction equipment. Come back tomorrow!
 Player: pathfinder
