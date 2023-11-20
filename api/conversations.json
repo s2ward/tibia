@@ -59317,7 +59317,14 @@
   {
     "file": "npc/Venore/Pat_The_Worker.txt",
     "name": "Pat_The_Worker",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Yeah, hi. Sorry mate, no time to chat."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Venore/Rafzan.txt",

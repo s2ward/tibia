@@ -357,7 +357,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnome Trooper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lower_Spike/Gnome_Trooper.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nelliem</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Nelliem.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Nurik.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pat The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pat_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Pits of Inferno</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demonguard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/Demonguard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Bone Master</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/The_Bone_Master.txt)  

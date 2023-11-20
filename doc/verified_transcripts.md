@@ -613,6 +613,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">H.L.</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Outlaw_Camp/H.L..txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rottin Wood</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Outlaw_Camp/Rottin_Wood.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Snake Eye</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Outlaw_Camp/Snake_Eye.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pat The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pat_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Pits of Inferno</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Dead Bureaucrat</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/A_Dead_Bureaucrat.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Ghostly Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/A_Ghostly_Guardian.txt)  
