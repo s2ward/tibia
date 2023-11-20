@@ -353,7 +353,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bob The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bob_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Carina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Christoph</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Christoph.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chuck The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chuck_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frank The Plank</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frank_The_Plank.txt)  

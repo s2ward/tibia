@@ -585,6 +585,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Boozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Boozer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Borkas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Borkas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chatterbone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chatterbone.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Christoph</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Christoph.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dark Cathedral</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Angelina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral/Angelina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Digger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Digger.txt)  
