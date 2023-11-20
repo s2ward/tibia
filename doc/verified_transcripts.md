@@ -580,6 +580,7 @@
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Abran Ironeye</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Abran_Ironeye.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Allen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Allen.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arnold</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Arnold.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashtamor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ashtamor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Asrak.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Boozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Boozer.txt)  
