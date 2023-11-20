@@ -78418,7 +78418,7 @@
         ]
       },
       {
-        "prompt": "swamp",
+        "prompt": "swamps",
         "answer": [
           "The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls."
         ]
@@ -78433,12 +78433,6 @@
         "prompt": "swampelves",
         "answer": [
           "Those elves hide in the swamps and are trying to kill all humans in this area."
-        ]
-      },
-      {
-        "prompt": "amazons",
-        "answer": [
-          "They are the best example for the results of the Carlin madness."
         ]
       },
       {
@@ -78760,254 +78754,12 @@
   {
     "file": "npc/Venore/Arnold.txt",
     "name": "Arnold",
-    "conversation": [
-      {
-        "prompt": "hi",
-        "answer": [
-          "LONG LIVE THE KING!"
-        ]
-      },
-      {
-        "prompt": "KING / tibianus / leader",
-        "answer": [
-          "Tibianus III is our beloved king! He rules over Venore from far away Thais."
-        ]
-      },
-      {
-        "prompt": "Venore",
-        "answer": [
-          "The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre."
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I am a protector of the people of Venore."
-        ]
-      },
-      {
-        "prompt": "dogs of war",
-        "answer": [
-          "They are our rolemodells."
-        ]
-      },
-      {
-        "prompt": "battlegroups",
-        "answer": [
-          "I doubt you have the security clearance to ask that."
-        ]
-      },
-      {
-        "prompt": "guard / army / secret police",
-        "answer": [
-          "This information is confidential."
-        ]
-      },
-      {
-        "prompt": "news",
-        "answer": [
-          "Look for the Hard Rock Tavern to learn the latest news."
-        ]
-      },
-      {
-        "prompt": "silver guard",
-        "answer": [
-          "Only the best of the best serve as silver guards."
-        ]
-      },
-      {
-        "prompt": "city",
-        "answer": [
-          "This city, a member of the Thaian kingdom, is under the protection of the Thaian army."
-        ]
-      },
-      {
-        "prompt": "ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant",
-        "answer": [
-          "Take this!"
-        ]
-      },
-      {
-        "prompt": "buy / sell",
-        "answer": [
-          "Ask the merchants of the city. There are more than enough."
-        ]
-      },
-      {
-        "prompt": "castle",
-        "answer": [
-          "The castle is in Thais, the crown of the kingdom."
-        ]
-      },
-      {
-        "prompt": "how are you?",
-        "answer": [
-          "That's classified information!"
-        ]
-      },
-      {
-        "prompt": "knights of noodles",
-        "answer": [
-          "Every guard dreams of becoming one of them one day."
-        ]
-      },
-      {
-        "prompt": "monsters",
-        "answer": [
-          "The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps."
-        ]
-      },
-      {
-        "prompt": "swamps",
-        "answer": [
-          "The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls."
-        ]
-      },
-      {
-        "prompt": "swamptrolls",
-        "answer": [
-          "This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons."
-        ]
-      },
-      {
-        "prompt": "swampelves",
-        "answer": [
-          "Those elves hide in the swamps and are trying to kill all humans in this area."
-        ]
-      },
-      {
-        "prompt": "bye",
-        "answer": [
-          "LONG LIVE THE KING!"
-        ]
-      }
-    ]
+    "conversation": []
   },
   {
     "file": "npc/Venore/Christoph.txt",
     "name": "Christoph",
-    "conversation": [
-      {
-        "prompt": "hi",
-        "answer": [
-          "LONG LIVE THE KING!"
-        ]
-      },
-      {
-        "prompt": "KING / tibianus / leader",
-        "answer": [
-          "Tibianus III is our beloved king! He rules over Venore from far away Thais."
-        ]
-      },
-      {
-        "prompt": "Venore",
-        "answer": [
-          "The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre."
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I am a protector of the people of Venore."
-        ]
-      },
-      {
-        "prompt": "dogs of war",
-        "answer": [
-          "They are our rolemodells."
-        ]
-      },
-      {
-        "prompt": "battlegroups",
-        "answer": [
-          "I doubt you have the security clearance to ask that."
-        ]
-      },
-      {
-        "prompt": "guard / army / secret police",
-        "answer": [
-          "This information is confidential."
-        ]
-      },
-      {
-        "prompt": "news",
-        "answer": [
-          "Look for the Hard Rock Tavern to learn the latest news."
-        ]
-      },
-      {
-        "prompt": "silver guard",
-        "answer": [
-          "Only the best of the best serve as silver guards."
-        ]
-      },
-      {
-        "prompt": "city",
-        "answer": [
-          "This city, a member of the Thaian kingdom, is under the protection of the Thaian army."
-        ]
-      },
-      {
-        "prompt": "ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant",
-        "answer": [
-          "Take this!"
-        ]
-      },
-      {
-        "prompt": "buy / sell",
-        "answer": [
-          "Ask the merchants of the city. There are more than enough."
-        ]
-      },
-      {
-        "prompt": "castle",
-        "answer": [
-          "The castle is in Thais, the crown of the kingdom."
-        ]
-      },
-      {
-        "prompt": "how are you?",
-        "answer": [
-          "That's classified information!"
-        ]
-      },
-      {
-        "prompt": "knights of noodles",
-        "answer": [
-          "Every guard dreams of becoming one of them one day."
-        ]
-      },
-      {
-        "prompt": "monsters",
-        "answer": [
-          "The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps."
-        ]
-      },
-      {
-        "prompt": "swamps",
-        "answer": [
-          "The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls."
-        ]
-      },
-      {
-        "prompt": "swamptrolls",
-        "answer": [
-          "This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons."
-        ]
-      },
-      {
-        "prompt": "swampelves",
-        "answer": [
-          "Those elves hide in the swamps and are trying to kill all humans in this area."
-        ]
-      },
-      {
-        "prompt": "bye",
-        "answer": [
-          "LONG LIVE THE KING!"
-        ]
-      }
-    ]
+    "conversation": []
   },
   {
     "file": "npc/Venore/Sniff.txt",
@@ -79059,7 +78811,128 @@
   {
     "file": "npc/Venore/Jean_Claude.txt",
     "name": "Jean_Claude",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "LONG LIVE THE KING!"
+        ]
+      },
+      {
+        "prompt": "KING / tibianus / leader",
+        "answer": [
+          "Tibianus III is our beloved king! He rules over Venore from far away Thais."
+        ]
+      },
+      {
+        "prompt": "Venore",
+        "answer": [
+          "The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am a protector of the people of Venore."
+        ]
+      },
+      {
+        "prompt": "dogs of war",
+        "answer": [
+          "They are our rolemodells."
+        ]
+      },
+      {
+        "prompt": "battlegroups",
+        "answer": [
+          "I doubt you have the security clearance to ask that."
+        ]
+      },
+      {
+        "prompt": "guard / army / secret police",
+        "answer": [
+          "This information is confidential."
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "Look for the Hard Rock Tavern to learn the latest news."
+        ]
+      },
+      {
+        "prompt": "silver guard",
+        "answer": [
+          "Only the best of the best serve as silver guards."
+        ]
+      },
+      {
+        "prompt": "city",
+        "answer": [
+          "This city, a member of the Thaian kingdom, is under the protection of the Thaian army."
+        ]
+      },
+      {
+        "prompt": "ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant",
+        "answer": [
+          "Take this!"
+        ]
+      },
+      {
+        "prompt": "buy / sell",
+        "answer": [
+          "Ask the merchants of the city. There are more than enough."
+        ]
+      },
+      {
+        "prompt": "castle",
+        "answer": [
+          "The castle is in Thais, the crown of the kingdom."
+        ]
+      },
+      {
+        "prompt": "how are you?",
+        "answer": [
+          "That's classified information!"
+        ]
+      },
+      {
+        "prompt": "knights of noodles",
+        "answer": [
+          "Every guard dreams of becoming one of them one day."
+        ]
+      },
+      {
+        "prompt": "monsters",
+        "answer": [
+          "The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps."
+        ]
+      },
+      {
+        "prompt": "swamps",
+        "answer": [
+          "The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls."
+        ]
+      },
+      {
+        "prompt": "swamptrolls",
+        "answer": [
+          "This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons."
+        ]
+      },
+      {
+        "prompt": "swampelves",
+        "answer": [
+          "Those elves hide in the swamps and are trying to kill all humans in this area."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "LONG LIVE THE KING!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Venore/Scott_The_Scout.txt",
