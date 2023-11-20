@@ -357,7 +357,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frank The Plank</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frank_The_Plank.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">George The Boyscout</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/George_The_Boyscout.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jack The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jack_The_Worker.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Claude</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jean_Claude.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lightfoot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lightfoot.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Lower Spike</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lower_Spike)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnome Trooper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lower_Spike/Gnome_Trooper.txt)  

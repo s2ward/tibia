@@ -1,0 +1,40 @@
+Player: hi  
+Jean Claude: LONG LIVE THE KING!  
+Player: KING / tibianus / leader  
+Jean Claude: Tibianus III is our beloved king! He rules over Venore from far away Thais.  
+Player: Venore  
+Jean Claude: The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre.  
+Player: job  
+Jean Claude: I am a protector of the people of Venore.  
+Player: dogs of war  
+Jean Claude: They are our rolemodells.  
+Player: battlegroups  
+Jean Claude: I doubt you have the security clearance to ask that.  
+Player: guard / army / secret police  
+Jean Claude: This information is confidential.  
+Player: news  
+Jean Claude: Look for the Hard Rock Tavern to learn the latest news.  
+Player: silver guard  
+Jean Claude: Only the best of the best serve as silver guards.  
+Player: city  
+Jean Claude: This city, a member of the Thaian kingdom, is under the protection of the Thaian army.  
+Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant  
+Jean Claude: Take this!  
+Player: buy / sell  
+Jean Claude: Ask the merchants of the city. There are more than enough.  
+Player: castle  
+Jean Claude: The castle is in Thais, the crown of the kingdom.  
+Player: how are you?  
+Jean Claude: That's classified information!  
+Player: knights of noodles  
+Jean Claude: Every guard dreams of becoming one of them one day.  
+Player: monsters  
+Jean Claude: The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps.  
+Player: swamps  
+Jean Claude: The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls.  
+Player: swamptrolls  
+Jean Claude: This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons.  
+Player: swampelves  
+Jean Claude: Those elves hide in the swamps and are trying to kill all humans in this area.  
+Player: bye  
+Jean Claude: LONG LIVE THE KING!  

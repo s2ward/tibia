@@ -594,6 +594,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Elena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Guide_Elena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hugo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Hugo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irmana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Irmana.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Claude</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jean_Claude.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Leeland</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Leeland.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Livielle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Livielle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Lower Spike</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lower_Spike)  
