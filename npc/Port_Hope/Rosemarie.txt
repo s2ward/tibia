@@ -8,9 +8,9 @@ Player: queen
 Rosemarie: The griffinclaw is the queen among the plants.  
 Player: blessing  
 Rosemarie: I'm here to celebrate life. I will stay with you mortals for a while. I exchange seeds, which you might have found on your adventures, for flowerpots with rare seedlings.  
-Player: carlin/venore/thais  
+Player: carlin / venore / thais  
 Rosemarie: I prefer to stay outside of towns but this spot here is tolerable.  
-Player: care/plant  
+Player: care / plant  
 Rosemarie: You will have to water it regularly, then it will flourish and grow. There are several stages of growth that your plant has to pass ...  
 Rosemarie: With good care and luck, it will grow into the next stage until it finally becomes a fully blooming flower. ...  
 Rosemarie: Of course plants won't grow in the darkness of a depot box. On the other hand, it won't dry out there either ...  
@@ -21,7 +21,7 @@ Player: dryad
 Rosemarie: Dryads are the daughters of Crunor and the protectors of plant life. Sadly, most of my sisters are quite aggressive on their mission.  
 Player: dwarf  
 Rosemarie: I accept every way of life but this of the dwarfs is not mine. Without sunlight, I would shrivel within days like a plant.  
-Player: elf/elves  
+Player: elf / elves  
 Rosemarie: The elves found the perfect balance between living from the plants and living with the plants. They should be role models for every living being.  
 Player: flower  
 Rosemarie: Flowers are one of the most beautiful gifts that Crunor blessed us with. They are very delicate creatures and must be treated with utmost care.  
@@ -29,7 +29,7 @@ Player: king
 Rosemarie: For me, the trees in the jungle of Tiquanda are the kings. Oh, you mean the Tibian king? I'm not interested in human bureaucracy.  
 Player: job  
 Rosemarie: I'm here to celebrate life. I will stay with you mortals for a while. I exchange seeds, which you might have found on your adventures, for flowerpots with rare seedlings.  
-Player: jungle/port hope  
+Player: jungle / port hope  
 Rosemarie: I love to stroll around in the jungle. The diversity of plants is fantastic there and even the poisonous spit nettle remains calm if it feels the unconditional love for all plants in your heart.  
 Player: liberty bay  
 Rosemarie: I prefer to stay outside of towns to enjoy the nature around me.  
@@ -46,7 +46,7 @@ Rosemarie: Each seed is like a baby to us dryads. For every 5 seeds you bring me
 Rosemarie: Do you have any seeds that you would like to exchange?  
 Player: no  
 Rosemarie: Perhaps you are interested when you have more seeds.  
-Player: seed-yes  
+Player: yes
 Rosemarie: Here, I planted this little baby in a flowerpot for you. Don't forget to water it regularly - buy a watering can somewhere!  
-Player: bye/farewell  
+Player: bye / farewell  
 Rosemarie: Farewell.  
