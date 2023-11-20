@@ -584,6 +584,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arnold</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Arnold.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashtamor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ashtamor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Asrak.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bob The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Bob_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Boozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Boozer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Borkas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Borkas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chatterbone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chatterbone.txt)  

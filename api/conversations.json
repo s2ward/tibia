@@ -74834,7 +74834,14 @@
   {
     "file": "npc/Venore/Bob_The_Worker.txt",
     "name": "Bob_The_Worker",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Yeah, hi. Sorry mate, no time to chat."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Venore/A_Strange_Fellow.txt",
