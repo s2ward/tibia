@@ -362,7 +362,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demonguard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/Demonguard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Bone Master</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pits_of_Inferno/The_Bone_Master.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ra'Clette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ra'Clette.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roger The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Roger_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Scott The Scout</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Scott_The_Scout.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sniff</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Sniff.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Solkrin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Solkrin.txt)  
