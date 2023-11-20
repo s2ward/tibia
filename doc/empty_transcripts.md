@@ -379,7 +379,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Corym Servant</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Venore_Corym_Dungeons/Corym_Servant.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Corym Slave</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Venore_Corym_Dungeons/Corym_Slave.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Corym Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Venore_Corym_Dungeons/Corym_Worker.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Warbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Warbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yanni</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Yanni.txt)  
 └─&nbsp;&nbsp;<strong>Yalahar</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Grumpy Cyclops</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/A_Grumpy_Cyclops.txt)  
