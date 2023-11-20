@@ -555,7 +555,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wyda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Green_Claw_Swamp/Wyda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Haunted Nexus</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Stricken Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus/Stricken_Soul.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jack The Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jack_The_Worker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Jakundaf Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Adrenius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Adrenius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hagor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Hagor.txt)  
