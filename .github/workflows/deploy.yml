@@ -1,15 +1,15 @@
-name: Deploy
+name: Publish data workflow
 
-on: 
+on:
   push:
     branches: [main]
     paths:
-      - 'api/conversations.json'
-      - 'api/books.json'
       - 'img/**'
+      - 'api/**'
+      - 'doc/**'
+  workflow_dispatch:
 
 jobs:
-
   deploy:
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
     runs-on: ubuntu-latest
@@ -26,25 +26,26 @@ jobs:
         ref: 'gh-pages'
         path: 'gh-pages'
 
+    - name: Install jq
+      run: sudo apt-get install jq
+
     - name: Copy updated docs to gh-pages branch
       run: |
         mkdir -p gh-pages/img/book
         mkdir -p gh-pages/img/creature
         mkdir -p gh-pages/img/spell
         mkdir -p gh-pages/api/tree
-        cp main/api/npc_data.json gh-pages/api/
-        cp main/api/books.json gh-pages/api/
         cp main/img/npc/* gh-pages/img/npc/
         cp main/img/book/* gh-pages/img/book/
         cp main/img/creature/* gh-pages/img/creature/
         cp main/img/spell/* gh-pages/img/spell/
-        cp main/api/conversations.json gh-pages/api/
-        cp main/api/file_mapping.json gh-pages/api/
         cp main/doc/*_transcripts.md gh-pages/api/tree/
-        cp main/api/npc_data.json gh-pages/api/
-        cp main/api/books-img.json gh-pages/api/
-        cp main/api/books.json gh-pages/api/
         cp main/img/npc/* gh-pages/img/npc/
+        jq -c . main/api/books-img.json > gh-pages/api/books-img.json
+        jq -c . main/api/file_mapping.json > gh-pages/api/file_mapping.json
+        jq -c . main/api/books.json > gh-pages/api/books.json
+        jq -c . main/api/npc_data.json > gh-pages/api/npc_data.json
+        jq -c . main/api/conversations.json > gh-pages/api/conversations.json
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
@@ -53,4 +54,3 @@ jobs:
         publish_dir: './gh-pages'
         publish_branch: gh-pages
         commit_message: "Deployed to GitHub Pages by GitHub Actions"
-        
