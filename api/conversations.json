@@ -95573,6 +95573,18 @@
     "conversation": []
   },
   {
+    "file": "npc/Various/TEST2.txt",
+    "name": "TEST2",
+    "conversation": [
+      {
+        "prompt": "test2",
+        "answer": [
+          "Hi"
+        ]
+      }
+    ]
+  },
+  {
     "file": "npc/Various/TEST.txt",
     "name": "TEST",
     "conversation": [
