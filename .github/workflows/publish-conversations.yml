@@ -48,7 +48,7 @@ jobs:
         run: |
           git fetch
           git fetch origin main
-          git merge origin/main
+          git merge origin/main --allow-unrelated-histories
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -102,7 +102,7 @@ jobs:
         run: |
           git fetch
           git fetch origin main
-          git merge origin/main
+          git merge origin/main --allow-unrelated-histories
   
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -135,7 +135,7 @@ jobs:
         run: |
           git fetch
           git fetch origin main
-          git merge origin/main
+          git merge origin/main --allow-unrelated-histories
   
       - name: Set up Python
         uses: actions/setup-python@v2
