@@ -2,12 +2,12 @@
 
 A repository for all things Tibia.  
 
-Research: [s2ward/docs](https://github.com/s2ward/docs), [reddit](https://www.reddit.com/r/SolvingTibia) 
-TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
-Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
-Search Books: [LIBSearch](https://www.talesoftibia.com/libsearch)  
-NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
-All Transcripts: [↗](./doc/all_transcripts.md)  
+- Research: [s2ward/docs](https://github.com/s2ward/docs), [reddit](https://www.reddit.com/r/SolvingTibia)  
+- TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
+- Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
+- Search Books: [LIBSearch](https://www.talesoftibia.com/libsearch)  
+- NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
+- All Transcripts: [↗](./doc/all_transcripts.md)  
 
 The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
@@ -21,7 +21,7 @@ Empty transcripts: [↗](./doc/empty_transcripts.md)
 Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
 Empty or Unverified transcripts: [↗](./doc/unverified_empty_transcripts.md)  
 
-Repository structure
+Repository NPC structure:  
 ```
 ├── Yalahar
 │   ├── A_Beautiful_Girl.txt
