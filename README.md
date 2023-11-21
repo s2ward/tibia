@@ -2,15 +2,14 @@
 
 A repository for all things Tibia.  
 
-Research: [s2ward/docs](https://github.com/s2ward/docs)  
-TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
-Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
-Search Books: [NPSearch](https://www.talesoftibia.com/libsearch)  
-NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
-All Transcripts: [↗](./doc/all_transcripts.md)  
+- Research: [s2ward/docs](https://github.com/s2ward/docs), [reddit](https://www.reddit.com/r/SolvingTibia)  
+- TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
+- Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
+- Search Books: [LIBSearch](https://www.talesoftibia.com/libsearch)  
+- NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
+- All Transcripts: [↗](./doc/all_transcripts.md)  
 
 The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
-
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
 By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A Prisoner").  
@@ -20,8 +19,9 @@ All Transcripts: [↗](./doc/all_transcripts.md)
 Verified Transcripts: [↗](./doc/verified_transcripts.md)   
 Empty transcripts: [↗](./doc/empty_transcripts.md)  
 Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
+Empty or Unverified transcripts: [↗](./doc/unverified_empty_transcripts.md)  
 
-Repository structure
+Repository NPC structure:  
 ```
 ├── Yalahar
 │   ├── A_Beautiful_Girl.txt
@@ -42,24 +42,26 @@ And so on.
 
 ## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
 
-Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
-Add your transcripts and GitHub will automagically take care of the rest.  
+- First request collaborator access (preffered)
+
+- Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
 
 A great way to contribute is by checking [Empty](./docs/empty_files_tree.md) or [unverified](./docs/unverified_files_tree.md) transcripts and just pick one.  
 You can CTRL+F for you favorite NPCs and click on the link to them.  
 
-When you have your transcript logs, paste your content in an NPC file like this:  
+- When you have your transcript logs, paste your content in an NPC file like this:  
 
 ```
 Player: {your keyword}  
 NPC: {npc response}  
 ```
 
-On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/publish-conversations.yml) will make sure that the format is correct by running src/validate.py.  
-If validation succeeds, api/file-mappings.json will update based on what changes have been done.  
+On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/validate.yml) will make sure that the format is correct by running src/validate.py
+
+When approver approves, publish-conversations.json will run and update api/file-mappings.json based on what changes have been done.  
 Tree views doc/*_transcripts.md will be generated and updated using api/file-mappings.json.  
-Another job will run which will convert all transcripts including your new contribution into api/conversations.json.   
-Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/pages/tools.html) fetches the .json and uses it for search using src/search.js  
+Another job will run which will convert all transcripts including your new contribution into api/conversations.json.  
+Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/npsearch) fetches the .json and uses it for search using src/search.js  
 
 If you want to contribute but have no idea how, you may also send the transcripts through:  
 - [discord](https://discord.gg/JRvjSuU99U) (preferred)  
@@ -91,30 +93,17 @@ For windows, your hotkeys reside here:
 
 You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
 
-IMPORTANT!!!  
-
-#### Make a backup of your current hotkeys before proceeding!  
-
-Copy your current clientoptions.json and name it clientoptions.json.backup  
-This way you can quickly rename it back in case you did something wrong. Otherwise you might lose all your current hotkeys.   
-
-#### Close Tibia before doing any work on the clientoptions.json file.  
-
 ## Step by step how-to:  
 
-1. Open clientoptions.json with a text-editor.  
-2. Paste the contents of hotkeys.json here:  
+1. Close Tibia (important)
+2. Backup clientopsions.json (important)
+3. Open clientoptions.json with a text-editor.  
+4. Paste the contents of hotkeys.json here:  
 
 ![image](https://user-images.githubusercontent.com/25346191/230849013-b8a6e683-dac7-40a3-bd47-f2590f98cee8.png)  
-Above picture is where you start your paste, picture below is the end of the paste, just make sure to paste between the correct curly brackets { and brackets [.  
+Above picture is where you start your paste, picture below is the end of the paste, just make sure to paste between the correct curly brackets `{` and brackets `[`.  
 
 3. Confirm that the new .json is correct. Copy-paste the entirety of your clientoptions.json into [json validater](https://jsonformatter.curiousconcept.com/) to check if it contains any errors.  
-
-![image](https://user-images.githubusercontent.com/25346191/230849815-bce6120d-5e3d-4c68-8bbd-8fb4d5482a35.png)
-
-In this specific case, you'd have to put a single } at the end of the file. If there are no errors, your clientoptions.json is correct and will work.   
-
-![addhotkey](https://user-images.githubusercontent.com/25346191/230851330-89ad7a76-6e0f-4ef3-a9fc-898bac5c3e57.gif)
 
 Congratulations.  
 You now have a never-before done and completely legal new edge in finding unheard of new mysteries.  
@@ -127,23 +116,31 @@ Yes. It violates no rules/ToS. You are effectively just importing/restoring hotk
 
 - 🥇 [tibiasecrets.com](https://tibiasecrets.com/transcripts/) with a whopping 410 contributions of excellent quality. 
 - 🥈 [tibiawiki.br](https://tibiawiki.com.br/) with 250~ contributions.  
-- 🥉 [tibia.fandom.com/](https://tibia.fandom.com/) with 100~ contributions.   
+- 🥉 [tibia.fandom.com/](https://tibia.fandom.com/) with 100~ contributions.  
+
+### Top books contributors: 
+
+- 🥇 [tibiawiki.br](https://tibiawiki.com.br/) ~1260 books in library
+- 🥈 [tibia.fandom.com/](https://tibia.fandom.com/) ~1220 books in library
+- 🥉 s2w (Cony Island) Merged and added books to reach ~1370 books in library
 
 ### Individual contributors: 
 
 You can view all contributions here, in an issue that automatically updates:  
 
-Contributioins [Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
+Contributions [Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
 
-- Cony Island with 100 contributions.  
-- Your name?  
+- Cony Island with 200 contributions.  
+- LucH (Cookie12345678) with 40 contributions.  
+- elkolorado with 4 contributions.
+- BrunoBrockweldAlves With 1 contribution.
 
 # Research:  
 
 ---
 
 - [469](https://s2ward.github.io/docs/469/1/)
-
+- [Island Dianscher, 469](https://www.reddit.com/r/TibiaMMO/comments/15832tv/lore_warlocks_draconia_trolls_the_mysterious/)
 - [getting-started](https://s2ward.github.io/docs/getting-started/)
 
 ---
