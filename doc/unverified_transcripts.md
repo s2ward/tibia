@@ -229,7 +229,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Stricken Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus/Stricken_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Jakundaf Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Adrenius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Adrenius.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hagor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Hagor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nemal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Nemal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Para Norbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert/Para_Norbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Julian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Julian.txt)  
