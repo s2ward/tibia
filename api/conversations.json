@@ -64577,33 +64577,9 @@
         ]
       },
       {
-        "prompt": "Book",
+        "prompt": "Name",
         "answer": [
-          "I can't read. I've never learned it."
-        ]
-      },
-      {
-        "prompt": "Blind",
-        "answer": [
-          "Yes, I seem to be blind. But I am not sure - maybe the dungeons are too dark!"
-        ]
-      },
-      {
-        "prompt": "Door",
-        "answer": [
-          "Closed doors need keys. What a pity keys are not lying around like rubbish!"
-        ]
-      },
-      {
-        "prompt": "God",
-        "answer": [
-          "I don't believe in gods, but a lot of people do. I never saw a god, why should I trust in someone I never met?"
-        ]
-      },
-      {
-        "prompt": "Gharonk",
-        "answer": [
-          "My father knew this language."
+          "My name is Nemal."
         ]
       },
       {
@@ -64613,21 +64589,9 @@
         ]
       },
       {
-        "prompt": "King",
+        "prompt": "Time",
         "answer": [
-          "King...king...yes, there is one. I still can remember the time when we had an other king. What was his name again?"
-        ]
-      },
-      {
-        "prompt": "Library",
-        "answer": [
-          "I can't read or write. What use would I have of a library?"
-        ]
-      },
-      {
-        "prompt": "Name",
-        "answer": [
-          "My name is Nemal."
+          "I had a watch. It was nice, but I can't see the hands anymore."
         ]
       },
       {
@@ -64637,39 +64601,9 @@
         ]
       },
       {
-        "prompt": "Secret",
+        "prompt": "Thais",
         "answer": [
-          "Secrets should remain secret. No need of making them public."
-        ]
-      },
-      {
-        "prompt": "Time",
-        "answer": [
-          "I had a watch. It was nice, but I can't see the hands anymore."
-        ]
-      },
-      {
-        "prompt": "Weapon",
-        "answer": [
-          "I always have weapons with me. You never know what's behind the next corner."
-        ]
-      },
-      {
-        "prompt": "Sword",
-        "answer": [
-          "I have a sword. It's very sharp. But I don't give it away, you never know."
-        ]
-      },
-      {
-        "prompt": "Dungeons / Treasure",
-        "answer": [
-          "You can find some treasures here - some are bigger, some are smaller, some are of true value, some are of materialistic value."
-        ]
-      },
-      {
-        "prompt": "Excalibug",
-        "answer": [
-          "I heard the name, but I don't trust rumours."
+          "Yes, I used to live there a while ago. Nice town."
         ]
       },
       {
@@ -64685,16 +64619,160 @@
         ]
       },
       {
-        "prompt": "Thais",
+        "prompt": "King",
         "answer": [
-          "Yes, I used to live there a while ago. Nice town.",
-          "Oh no, not again."
+          "King...king...yes, there is one. I still can remember the time when we had an other king. What was his name again?"
+        ]
+      },
+      {
+        "prompt": "Library",
+        "answer": [
+          "I can't read or write. What use would I have of a library?"
+        ]
+      },
+      {
+        "prompt": "Book",
+        "answer": [
+          "I can't read. I've never learned it."
+        ]
+      },
+      {
+        "prompt": "Door",
+        "answer": [
+          "Closed doors need keys. What a pity keys are not lying around like rubbish!"
+        ]
+      },
+      {
+        "prompt": "Secret",
+        "answer": [
+          "Secrets should remain secret. No need of making them public."
+        ]
+      },
+      {
+        "prompt": "Treasure",
+        "answer": [
+          "You can find some treasures here - some are bigger, some are smaller, some are of true value, some are of materialistic value."
+        ]
+      },
+      {
+        "prompt": "way",
+        "answer": [
+          "There are many ways. I don't know all of them."
+        ]
+      },
+      {
+        "prompt": "God",
+        "answer": [
+          "I don't believe in gods, but a lot of people do. I never saw a god, why should I trust in someone I never met?"
+        ]
+      },
+      {
+        "prompt": "fight",
+        "answer": [
+          "Better know how to fight!"
+        ]
+      },
+      {
+        "prompt": "Weapon",
+        "answer": [
+          "I always have weapons with me. You never know what's behind the next corner."
+        ]
+      },
+      {
+        "prompt": "Sword",
+        "answer": [
+          "I have a sword. It's very sharp. But I don't give it away, you never know."
+        ]
+      },
+      {
+        "prompt": "guild",
+        "answer": [
+          "Hmmm.. I wouldn't ever join a guild, but i know of the existance of some."
+        ]
+      },
+      {
+        "prompt": "Excalibug",
+        "answer": [
+          "I heard the name, but I don't trust rumours."
+        ]
+      },
+      {
+        "prompt": "Gharonk",
+        "answer": [
+          "My father knew this language."
+        ]
+      },
+      {
+        "prompt": "Blind",
+        "answer": [
+          "Yes, I seem to be blind. But I am not sure - maybe the dungeons are too dark!"
+        ]
+      },
+      {
+        "prompt": "Potion of regained vision",
+        "answer": [
+          "I heard of a potion of regained vision ... but I can't remember how to make it! Maybe you can help me. Do you know something about it?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "So, did you bring the ingredients with you, stranger?"
+        ]
+      },
+      {
+        "prompt": "<any>",
+        "answer": [
+          "Oh. Maybe someone else could do it, then."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "It doesn't seem to me as if you have the correct ingredients with you, stranger!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "You seem to have them with you. Can you tell me, how many minutes I have to cook them?"
+        ]
+      },
+      {
+        "prompt": "<any>",
+        "answer": [
+          "Oh no, I don't think this is right."
+        ]
+      },
+      {
+        "prompt": "31",
+        "answer": [
+          "Ah. It seems to work. But what are the words I have to speak?"
+        ]
+      },
+      {
+        "prompt": "<any>",
+        "answer": [
+          "Oh no, I don't think these are the right words."
+        ]
+      },
+      {
+        "prompt": "nalus murtu",
+        "answer": [
+          "Thank you! NALUS MURTUUU! ... I can see again! To show you, how grateful I am, I'll give you a key. Be wise when using it. I can't tell you, where it matches, but ... take good care, it is useless without mental powers!"
         ]
       },
       {
         "prompt": "Bye",
         "answer": [
           "Farewell!"
+        ]
+      },
+      {
+        "prompt": "Farewell",
+        "answer": [
+          "May the light be with you!",
+          "Where are you? Are you gone?"
         ]
       }
     ]
