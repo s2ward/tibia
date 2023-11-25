@@ -79,7 +79,7 @@ jobs:
       - prepare
       - convert
     runs-on: ubuntu-latest
-    if: contains(github.event.issue.labels.*.name, 'patch')
+    if: "!contains(github.event.issue.labels.*.name, 'patch')"
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
