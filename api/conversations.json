@@ -60346,7 +60346,12 @@
   {
     "file": "npc/Venore/Dustrunner.txt",
     "name": "Dustrunner",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": []
+      }
+    ]
   },
   {
     "file": "npc/Venore/Chuck_The_Worker.txt",

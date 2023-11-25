@@ -542,7 +542,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dagomir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dagomir.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Demon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dove</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dove.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eustacio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Eustacio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frank The Plank</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frank_The_Plank.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">George The Boyscout</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/George_The_Boyscout.txt)  
