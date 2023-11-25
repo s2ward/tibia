@@ -481,7 +481,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dermot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Dermot.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ferryman Kamil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Ferryman_Kamil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Galuna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Galuna.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gamon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gamon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gareth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gareth.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost Captain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Ghost_Captain.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gorn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gorn.txt)  
