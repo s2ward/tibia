@@ -36,8 +36,9 @@ jobs:
           echo "::set-output name=pr_branch_name::$PR_BRANCH_NAME"
           echo "::set-output name=pr_base_ref::$PR_BASE_REF"
 
-  update_file_mapping:
-    needs: prepare
+  convert:
+    needs: 
+      - prepare
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -61,10 +62,46 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
+  
+      - name: Convert txt files to JSON
+        run: |
+          python src/txt_to_json.py
 
-      #- name: Fetch base branch
-      #  run: |
-      #    git fetch origin ${{ needs.prepare.outputs.pr_base_ref }}
+      - name: Commit conversations.json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update conversations.json"
+          file_pattern: api/conversations.json
+          branch: ${{ needs.prepare.outputs.pr_branch_name }}
+
+  update_file_mapping:
+    needs: 
+      - prepare
+      - convert
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.labels.*.name, 'patch')
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ needs.prepare.outputs.pr_branch_name }}
+          fetch-depth: 0
+
+      - name: Setup Git User
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+
+      - name: Merge main into feature branch
+        run: |
+          git fetch
+          git fetch origin main
+          git merge origin/main 
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
 
       - name: Checkout base branch files
         run: |
@@ -93,50 +130,10 @@ jobs:
           commit_message: "Update file_mapping.json"
           file_pattern: api/file_mapping.json
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
-
-  convert:
-    needs: 
-      - update_file_mapping
-      - prepare
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ needs.prepare.outputs.pr_branch_name }}
-          fetch-depth: 0
-
-      - name: Setup Git User
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-
-      - name: Merge main into feature branch
-        run: |
-          git fetch
-          git fetch origin main
-          git merge origin/main 
-
-  
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-  
-      - name: Convert txt files to JSON
-        run: |
-          python src/txt_to_json.py
-
-      - name: Commit conversations.json
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update conversations.json"
-          file_pattern: api/conversations.json
-          branch: ${{ needs.prepare.outputs.pr_branch_name }}
           
   generate_trees:
     needs: 
-      - convert
+      - update_file_mapping
       - prepare
     runs-on: ubuntu-latest
     steps:
