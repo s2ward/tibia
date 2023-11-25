@@ -69481,6 +69481,12 @@
         ]
       },
       {
+        "prompt": "Waldo",
+        "answer": [
+          "Waldo is an explorer. We always feared he might one day take a risk too great for him. I hope he is okay, though."
+        ]
+      },
+      {
         "prompt": "bye",
         "answer": [
           "It was a pleasure to help you."
