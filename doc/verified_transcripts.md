@@ -315,6 +315,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tezila</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Tezila.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Tulf.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uzgod</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Uzgod.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Wally</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Wally.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Xelvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Xelvar.txt)  
 ├─&nbsp;&nbsp;<strong>Krailos</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Krailos)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Krailos Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Krailos/Krailos_Mines)  
