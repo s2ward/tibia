@@ -38,5 +38,7 @@ Player: Lokur
 Wally: Dwarfs make quite good postmen. They are stubborn, strong and ... sturdy. Its a waste that he prefers a job behind the counter.  
 Player: Olrik  
 Wally: This Olrik was made postman only for convenience. He is quite aware that his attitude and affiliation with the thaian government makes it impossible for him to rise in rank. This leads only to him behaving even worse tough.  
+Player: Waldo
+Wally: Waldo is an explorer. We always feared he might one day take a risk too great for him. I hope he is okay, though.
 Player: bye  
 Wally: It was a pleasure to help you.  
