@@ -299,7 +299,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Kazordoon Dwarf Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Kazordoon_Dwarf_Mines)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Basilisk</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Kazordoon_Dwarf_Mines/Basilisk.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Opticorder Forge</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Opticorder_Forge.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Riddler</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Riddler.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Too Hot To Handle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomevisor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle/Gnomevisor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Ulderek's Rock</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Ulderek's_Rock)  
