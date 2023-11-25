@@ -1,22 +1,20 @@
 Player: hi  
 Riddler: Player! HEHEHEHE! Another fool visits the tower! Excellent!  
-Player: paradox or tower  
-Riddler: This tower, of course, silly one. It holds my master's treasure.  
-Player: master  
-Riddler: His name is none of your business.  
-Player: treasure or guard  
-Riddler: I am guarding the treasures of the tower. Only those who pass the test of the three sigils may pass.  
 Player: name  
 Riddler: I am known as the riddler. That is all you need to know.  
 Player: job  
 Riddler: I am the guardian of the paradox tower.  
 Player: time  
-Riddler: It is the age of the talon.  
-Player: key or door  
-Riddler: The key of this tower! You will never find it! A malicious plant spirit is guarding it!  
-Player: hi  
-Riddler: Player! HEHE! Another fool! Excellent!  
-Player: test  
+Riddler: It is the age of the talon.
+Player: paradox / tower  
+Riddler: This tower, of course, silly one. It holds my master's treasure.  
+Player: master  
+Riddler: His name is none of your business.  
+Player: treasure / guard  
+Riddler: I am guarding the treasures of the tower. Only those who pass the test of the three sigils may pass.  
+Player: key / door  
+Riddler: The key of this tower! You will never find it! A malicious plant spirit is guarding it!   
+Player: test / sigil
 Riddler: Death awaits those who fail the test of the three seals! Do you really want me to test you?  
 Player: yes  
 Riddler: FOOL! Now you're doomed! But well ... So be it! Let's start out with the Seal of Knowledge and the first question: What name did the necromant king choose for himself?  
@@ -45,3 +43,7 @@ Riddler: WRONG!
 Riddler: NO! NO! NO! That can't be true. You're not only mad, you are a complete idiot! Ah well. Here is the last question: What is 1 plus 1?  
 Player: number from a prisoner, see quest log  
 Riddler: DAMN YOUUUUUUUUUUUUUUUUUUUUUU!  
+Player: bye
+Riddler: HEHEHE! I knew you don't have the stomach.
+Riddler: COWARD! CHICKEN! HEHEHEHE!
+
