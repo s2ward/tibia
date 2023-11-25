@@ -34153,111 +34153,252 @@
     "name": "Gamon",
     "conversation": [
       {
+        "prompt": "hi",
+        "answer": [
+          "Well, hello there, Lady, Player welcome to Gamon's humble furniture shop!"
+        ]
+      },
+      {
         "prompt": "Hi",
         "answer": [
           "Nice to meet you, Mister Player! Looking for furniture? You've come to the right place!"
         ]
       },
       {
-        "prompt": "Artist",
+        "prompt": "how are you",
         "answer": [
-          "Yes! Selling is a form of art! The elaborate combination of rhetoric and acting which serves to create a sublime longing for the infinite, embodied by second class furniture."
+          "Excellent! Never felt better in my life!"
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am Thais's foremost furniture salesman."
-        ]
-      },
-      {
-        "prompt": "Furniture",
-        "answer": [
-          "I sell statues, tables, chairs, flowers, pillows, pottery, instruments, decoration, tapestries and containers."
-        ]
-      },
-      {
-        "prompt": "Quality",
-        "answer": [
-          "Our furniture is produced by the finest carpenters on the continent using the rare wood of the Venorean marsh willow!"
-        ]
-      },
-      {
-        "prompt": "Marsh willow",
-        "answer": [
-          "You can't get any better wood in this world. And it has got a nice smell to it, too. There is nothing nicer than a marsh willow campfire."
-        ]
-      },
-      {
-        "prompt": "King",
-        "answer": [
-          "His Royal Highness will start to appreciate the superior quality of our stock soon enough!"
-        ]
-      },
-      {
-        "prompt": "Name",
+        "prompt": "name",
         "answer": [
           "My friends call me Gamon. My fans call me the incredible Gammy!"
         ]
       },
       {
-        "prompt": "Quest",
+        "prompt": "job",
         "answer": [
-          "A quest?! Who needs quests when there is interior decorating!"
+          "I am Thais's foremost furniture salesman. Are you interested in my offers?"
         ]
       },
       {
-        "prompt": "Smiling",
-        "answer": [
-          "Yes! Smiling! How a professional sales artist such as myself is supposed to work in such an atmosphere is beyond me!"
-        ]
-      },
-      {
-        "prompt": "Tibia",
-        "answer": [
-          "Tibia is a wonderful place full of business opportunities."
-        ]
-      },
-      {
-        "prompt": "Time",
+        "prompt": "time",
         "answer": [
           "Any time's a good time to buy some furniture."
         ]
       },
       {
-        "prompt": "Twins",
+        "prompt": "news",
         "answer": [
-          "Ah, those twins. Strange people they are (*sigh*). Oh, they are great work with, of course. Excellent quality, competetive prices! But well... (whispers) they give me creeps!"
+          "News? Of course there's news! There's a new furniture man in town, and he's here to stay!",
+          "You mean my specials, don't you? (Cannot trigger this transcript)"
         ]
       },
       {
-        "prompt": "Watching",
+        "prompt": "shop",
         "answer": [
-          "Look! They are doing it again! And they are always smiling!"
+          "I am Thais's foremost furniture salesman. Are you interested in my offers?"
         ]
       },
       {
-        "prompt": "Castle",
+        "prompt": "offers / furniture / goods / equipment",
         "answer": [
-          "I've said it a thousand times! That place needs a complete refurbishing!"
+          "Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares."
         ]
       },
       {
-        "prompt": "Thais",
+        "prompt": "quest",
+        "answer": [
+          "A quest?! Who needs quests when there is interior decorating!"
+        ]
+      },
+      {
+        "prompt": "thais",
         "answer": [
           "Thais is obsessed with its past. Everybody here is so proud of their history. Bah! Thais might have a long history, but it has no idea when it comes to interior decoration."
         ]
       },
       {
-        "prompt": "Venore",
+        "prompt": "venore",
         "answer": [
           "The place where it all happens. That town really rocks! Thais could learn a lot about interior decoration from Venore!"
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "tibia",
         "answer": [
-          "You'll come back. They all do."
+          "Tibia is a wonderful place full of business opportunities."
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "His Royal Highness will start to appreciate the superior quality of our stock soon enough!"
+        ]
+      },
+      {
+        "prompt": "castle",
+        "answer": [
+          "I've said it a thousand times! That place needs a complete refurbishing!"
+        ]
+      },
+      {
+        "prompt": "sam",
+        "answer": [
+          "I heard rumours he has some special offers for customers who know to ask for the correct things."
+        ]
+      },
+      {
+        "prompt": "benjamin",
+        "answer": [
+          "He's incredibly slow. Just your average postman, I guess."
+        ]
+      },
+      {
+        "prompt": "gorn",
+        "answer": [
+          "He sells stuff of inferior quality. Nothing compared to venores high quality goods."
+        ]
+      },
+      {
+        "prompt": "quentin",
+        "answer": [
+          "That old monk has probably never left that overcrowded town here."
+        ]
+      },
+      {
+        "prompt": "bozo",
+        "answer": [
+          "Bozo! Damn that clown! He keeps making fake orders. It isn't funny to deliver a wardrobe to an address that doesn't even exist, you know!"
+        ]
+      },
+      {
+        "prompt": "elane",
+        "answer": [
+          "She's pretty, but I am the kind of man who enjoys a long and healthy life."
+        ]
+      },
+      {
+        "prompt": "marvik",
+        "answer": [
+          "Druids are obsessed with trees and the bane of any carpenter."
+        ]
+      },
+      {
+        "prompt": "gregor",
+        "answer": [
+          "Those knights know how to party. And after such parties there's always need for new furniture."
+        ]
+      },
+      {
+        "prompt": "muriel",
+        "answer": [
+          "The sorcerers guild could really need someone with taste to redecorate it."
+        ]
+      },
+      {
+        "prompt": "guild / merchants",
+        "answer": [
+          "Now those people really talk business. There is a new era dawning."
+        ]
+      },
+      {
+        "prompt": "topsy / turvy / twins",
+        "answer": [
+          "Ah, those twins. Strange people they are (*sigh*). Oh, they are great to work with, of course. Excellent quality, competetive prices! But well... (whispers) they give me the creeps!"
+        ]
+      },
+      {
+        "prompt": "creeps",
+        "answer": [
+          "Yes! I can never figure out which is which. And they are always watching me!"
+        ]
+      },
+      {
+        "prompt": "watching",
+        "answer": [
+          "Look! They are doing it again! And they are always smiling!"
+        ]
+      },
+      {
+        "prompt": "smiling",
+        "answer": [
+          "Yes! Smiling! How a professional sales artist such as myself is supposed to work in such an atmosphere is beyond me!"
+        ]
+      },
+      {
+        "prompt": "artist",
+        "answer": [
+          "Yes! Selling is a form of art! The elaborate combination of rhetoric and acting which serves to create a sublime longing for the infinite, embodied by second class furniture."
+        ]
+      },
+      {
+        "prompt": "quality",
+        "answer": [
+          "Our furniture is produced by the finest carpenters on the continent using the rare wood of the Venorean marsh willow!"
+        ]
+      },
+      {
+        "prompt": "marsh willow",
+        "answer": [
+          "You can't get any better wood in this world. And it has got a nice smell to it, too. There is nothing nicer than a marsh willow campfire."
+        ]
+      },
+      {
+        "prompt": "power",
+        "answer": [
+          "There are a few rumours about a rebellion, but that is all they are."
+        ]
+      },
+      {
+        "prompt": "rebellion",
+        "answer": [
+          "Well - a few paranoid souls think that Venore wants to gain independence from Thais. Nothing more than rumours."
+        ]
+      },
+      {
+        "prompt": "rug",
+        "answer": [
+          "Oh, silly me! Rugs are out of stock at the moment! But we expect a new shipment anytime. Just watch out for the next update!... Of our inventory I mean."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "Ecle- who? No... can't say I know him."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "A thaian folklore tale."
+        ]
+      },
+      {
+        "prompt": "stake",
+        "answer": [
+          "Making a stake from a chair? Are you insane??! I won't waste my chairs on you for free! You will have to pay for it, but since I consider your plan a blasphemy, it will cost 5000 gold pieces. Okay?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Phew. No chair-killing."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Argh... my heart aches! Alright... a promise is a promise. Here - take this wooden stake, and now get lost."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "You'll come back. They all do.",
+          "Lady? Lady?? Hm. How strange...",
+          "Now where's he gone? I could have sworn..."
         ]
       }
     ]
