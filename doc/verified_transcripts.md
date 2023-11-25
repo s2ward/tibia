@@ -599,6 +599,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dark Cathedral</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Angelina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dark_Cathedral/Angelina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Digger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Digger.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frans</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frans.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Elena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Guide_Elena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hugo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Hugo.txt)  

@@ -348,7 +348,6 @@
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Fearless</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Captain_Fearless.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Carina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frank The Plank</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frank_The_Plank.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">George The Boyscout</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/George_The_Boyscout.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lightfoot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lightfoot.txt)  
