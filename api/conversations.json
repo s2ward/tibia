@@ -64144,15 +64144,9 @@
         ]
       },
       {
-        "prompt": "door",
+        "prompt": "name",
         "answer": [
-          "Which door are you talking about? If it is locked, maybe you should try to find a key for it!"
-        ]
-      },
-      {
-        "prompt": "book",
-        "answer": [
-          "Yes, I really can recommend reading books. It might help you find what you are looking for!"
+          "My name is Hagor, the old hunter."
         ]
       },
       {
@@ -64162,21 +64156,15 @@
         ]
       },
       {
-        "prompt": "king",
+        "prompt": "time",
         "answer": [
-          "Tibianus is our king. To be honest, I didn't hear much of him till now."
+          "Time has no meaning to me."
         ]
       },
       {
-        "prompt": "library",
+        "prompt": "help",
         "answer": [
-          "There is a library in here, right. I assume you are talking about this library. It's locked, as far as I know. But somewhere there has to be a key... maybe the librarian knows more?"
-        ]
-      },
-      {
-        "prompt": "name",
-        "answer": [
-          "My name is Hagor, the old hunter."
+          "I'd really like to help you. Could you specify your request?"
         ]
       },
       {
@@ -64186,15 +64174,123 @@
         ]
       },
       {
+        "prompt": "Tibia",
+        "answer": [
+          "The gods made this world full of fascinating secrets and I will search them till my end."
+        ]
+      },
+      {
+        "prompt": "Carlin",
+        "answer": [
+          "Is this the city to the north? I heard rumours about it."
+        ]
+      },
+      {
+        "prompt": "Thais",
+        "answer": [
+          "Thais... It's a big city in Middle-Tibia. Lots of people live there."
+        ]
+      },
+      {
+        "prompt": "Desert",
+        "answer": [
+          "Yes, it's big, isn't it?"
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "Tibianus is our king. To be honest, I didn't hear much of him till now."
+        ]
+      },
+      {
+        "prompt": "god",
+        "answer": [
+          "There are a lot of gods we believe in. Maybe you should check out different books to find out something about them."
+        ]
+      },
+      {
+        "prompt": "guild",
+        "answer": [
+          "There are many different guilds in Tibia. They come and go, come and go..."
+        ]
+      },
+      {
         "prompt": "secret",
         "answer": [
           "There are many secrets. But I fear, I can't tell you much about them. They are also secret to me..."
         ]
       },
       {
-        "prompt": "Tibia",
+        "prompt": "treasure",
         "answer": [
-          "The gods made this world full of fascinating secrets and I will search them till my end."
+          "Someone told me - I can't remember who it was - that there was a treasure hidden nearby."
+        ]
+      },
+      {
+        "prompt": "way",
+        "answer": [
+          "Which way are you looking for in particular?"
+        ]
+      },
+      {
+        "prompt": "library",
+        "answer": [
+          "There is a library in here, right. I assume you are talking about this library. It's locked, as far as I know. But somewhere there has to be a key... maybe the librarian knows more?"
+        ]
+      },
+      {
+        "prompt": "book",
+        "answer": [
+          "Yes, I really can recommend reading books. It might help you find what you are looking for!"
+        ]
+      },
+      {
+        "prompt": "door",
+        "answer": [
+          "Which door are you talking about? If it is locked, maybe you should try to find a key for it!"
+        ]
+      },
+      {
+        "prompt": "Morrin",
+        "answer": [
+          "Ah, I remember that man. We made a deal, guess about what."
+        ]
+      },
+      {
+        "prompt": "key",
+        "answer": [
+          "Right! We can make the same deal if you give a fresh delicious roll. Do you have any?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Maybe next time."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Hey, you do not have one!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Oh, fine! Here you are."
+        ]
+      },
+      {
+        "prompt": "roll",
+        "answer": [
+          "Oh, yes, I love them!"
+        ]
+      },
+      {
+        "prompt": "Fight",
+        "answer": [
+          "Fighting is an art. Know it and you will be strong, ignore it and you will die soon!"
         ]
       },
       {
@@ -64210,57 +64306,21 @@
         ]
       },
       {
-        "prompt": "treasure",
-        "answer": [
-          "Someone told me - I can't remember who it was - that there was a treasure hidden nearby."
-        ]
-      },
-      {
         "prompt": "Excalibug",
         "answer": [
           "I heared rumours that there is a sword called so. I don't know if it exists."
         ]
       },
       {
-        "prompt": "Carlin",
+        "prompt": "gharonk",
         "answer": [
-          "Is this the city to the north? I heard rumours about it."
+          "Gharonk is a very old language, only spoken by a few people. It's not a very complex language, but that does not mean that it is easy to understand!"
         ]
       },
       {
-        "prompt": "Desert",
+        "prompt": "exit",
         "answer": [
-          "Yes, it's big, isn't it?"
-        ]
-      },
-      {
-        "prompt": "Morrin",
-        "answer": [
-          "Ah, I remember that man. We made a deal, guess about what."
-        ]
-      },
-      {
-        "prompt": "time",
-        "answer": [
-          "Time has no meaning to me."
-        ]
-      },
-      {
-        "prompt": "god",
-        "answer": [
-          "There are a lot of gods we believe in. Maybe you should check out different books to find out something about them."
-        ]
-      },
-      {
-        "prompt": "help",
-        "answer": [
-          "I'd really like to help you. Could you specify your request?"
-        ]
-      },
-      {
-        "prompt": "roll",
-        "answer": [
-          "Oh, yes, I love them!"
+          "Yes, there is an exit for these dungeons. Just find the teleporter."
         ]
       },
       {
