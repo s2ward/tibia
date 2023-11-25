@@ -130,7 +130,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Femor Hills</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Uzon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills/Uzon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Opticorder Forge</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Opticorder_Forge.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Riddler</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Riddler.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Ulderek's Rock</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Ulderek's_Rock)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Orc King</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Ulderek's_Rock/The_Orc_King.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wally</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Wally.txt)  

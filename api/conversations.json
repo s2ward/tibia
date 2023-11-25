@@ -70127,24 +70127,6 @@
         ]
       },
       {
-        "prompt": "paradox or tower",
-        "answer": [
-          "This tower, of course, silly one. It holds my master's treasure."
-        ]
-      },
-      {
-        "prompt": "master",
-        "answer": [
-          "His name is none of your business."
-        ]
-      },
-      {
-        "prompt": "treasure or guard",
-        "answer": [
-          "I am guarding the treasures of the tower. Only those who pass the test of the three sigils may pass."
-        ]
-      },
-      {
         "prompt": "name",
         "answer": [
           "I am known as the riddler. That is all you need to know."
@@ -70163,19 +70145,31 @@
         ]
       },
       {
-        "prompt": "key or door",
+        "prompt": "paradox / tower",
+        "answer": [
+          "This tower, of course, silly one. It holds my master's treasure."
+        ]
+      },
+      {
+        "prompt": "master",
+        "answer": [
+          "His name is none of your business."
+        ]
+      },
+      {
+        "prompt": "treasure / guard",
+        "answer": [
+          "I am guarding the treasures of the tower. Only those who pass the test of the three sigils may pass."
+        ]
+      },
+      {
+        "prompt": "key / door",
         "answer": [
           "The key of this tower! You will never find it! A malicious plant spirit is guarding it!"
         ]
       },
       {
-        "prompt": "hi",
-        "answer": [
-          "Player! HEHE! Another fool! Excellent!"
-        ]
-      },
-      {
-        "prompt": "test",
+        "prompt": "test / sigil",
         "answer": [
           "Death awaits those who fail the test of the three seals! Do you really want me to test you?"
         ]
@@ -70257,6 +70251,13 @@
         "prompt": "number from a prisoner, see quest log",
         "answer": [
           "DAMN YOUUUUUUUUUUUUUUUUUUUUUU!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "HEHEHE! I knew you don't have the stomach.",
+          "COWARD! CHICKEN! HEHEHEHE!"
         ]
       }
     ]
