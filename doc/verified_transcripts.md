@@ -471,6 +471,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mortis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Lower_Roshamuul/Mortis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Sandomo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Lower_Roshamuul/Sandomo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Siestaar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Siestaar.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>The Cube (Location)</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location))  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Planestrider</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location)/Planestrider.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Upper Roshamuul</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Upper_Roshamuul)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dream Butterfly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Upper_Roshamuul/Dream_Butterfly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Morax</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Upper_Roshamuul/Morax.txt)  
