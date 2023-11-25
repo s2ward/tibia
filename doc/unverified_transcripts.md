@@ -223,8 +223,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Demon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dove</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dove.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eustacio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Eustacio.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Green Claw Swamp</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Green_Claw_Swamp)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wyda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Green_Claw_Swamp/Wyda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Haunted Nexus</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Stricken Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus/Stricken_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Jakundaf Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Jakundaf_Desert)  
