@@ -308,6 +308,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pukosch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Pukosch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pydar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Pydar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rapanaio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Rapanaio.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Riddler</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Riddler.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Scutty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Scutty.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sigurd</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Sigurd.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Storkus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Storkus.txt)  
