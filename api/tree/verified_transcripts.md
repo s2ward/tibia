@@ -601,6 +601,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Digger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Digger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dustrunner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dustrunner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frans</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Frans.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Green Claw Swamp</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Green_Claw_Swamp)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wyda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Green_Claw_Swamp/Wyda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Elena</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Guide_Elena.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hugo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Hugo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irmana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Irmana.txt)  
