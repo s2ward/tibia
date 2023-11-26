@@ -9,9 +9,11 @@ Anderson: Where do you want to go today? We serve the routes to Senja, Folda, an
 Player: Senja
 Anderson: This island is Senja.
 Player: Folda
-Anderson: Do you want a round-trip passage to Folda for 10 gold?
+Anderson: Do you want a passage to Folda for 10 gold?
 Player: Vega
-Anderson: Do you want a round-trip passage to Vega for 10 gold?
+Anderson: Do you want a passage to Vega for 10 gold?
+Player: Tibia
+Anderson: Do you want a free passage back to Tibia?
 Player: yes
 Anderson: Have a nice trip!
 Player: no
@@ -24,7 +26,5 @@ Player: captain / job
 Anderson: We are ferrymen. We transport goods and passengers to the Ice Islands.
 Player: goods
 Anderson: We can transport everything you want.
-Player: Tibia
-Anderson: This is Tibia, the continent.
 Player: bye
 Anderson: Good bye. You are welcome.
