@@ -85,6 +85,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Vera</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja/Vera.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Toothless Tim</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Toothless_Tim.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Vega</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Vega)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Carlson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Vega/Carlson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ruprecht</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Vega/Ruprecht.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">William</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/William.txt)  
 ├─&nbsp;&nbsp;<strong>Darashia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia)  
