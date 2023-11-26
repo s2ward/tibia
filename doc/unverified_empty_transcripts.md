@@ -88,8 +88,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tibra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Tibra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tired Tree</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Tired_Tree.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Trisha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Trisha.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Vega</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Vega)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Carlson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Vega/Carlson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yasir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Yasir.txt)  
 ├─&nbsp;&nbsp;<strong>Darashia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Balduin The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Balduin_The_Baker.txt)  
