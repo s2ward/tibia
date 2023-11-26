@@ -3138,8 +3138,8 @@
         ]
     },
     {
-        "name": "Famous_Recipes_by_Ma\u00eetre_Jean_Pierre_I",
-        "author": "Ma\u00eetre Jean Pierre",
+        "name": "Famous_Recipes_by_Maître_Jean_Pierre_I",
+        "author": "Maître Jean Pierre",
         "description": "A bunch of high-quality recipes.",
         "locations": [
             "Kha'zeel -> Jean Pierre"
@@ -3154,12 +3154,12 @@
                 "article-url": "https://tibia.fandom.com/wiki/Hot_Cuisine_Quest"
             }
         ],
-        "next-book": "Famous_Recipes_by_Ma\u00eetre_Jean_Pierre_II",
+        "next-book": "Famous_Recipes_by_Maître_Jean_Pierre_II",
         "previous-book": "_NOPREV",
         "img": [
             "Jean_Pierre's_Cookbook_I"
         ],
-        "text": "Famous Recipes by Ma\u00eetre Jean Pierre\nRotworm Stew\n- 2 Pieces of meat\n- 2 Vials of beer\n- 20 Potatoes\n- 1 Onion\n- 1 Garlic\n- 5 Ounces of flour\nHydra Tongue Salad\n- 2 Hydra tongues\n- 2 Tomatoes\n- 1 Cucumber\n- 2 Eggs\n- 1 Troll green\n- 1 Vial of wine\nRoasted Dragon Wings\n- 1 Fresh dead bat\n- 3 Jalape\u00f1o peppers\n- 5 Brown breads\n- 2 Eggs\n- 1 Powder herb\n- 5 Red mushrooms\nTropical Fried Terrorbird\n- 1 Fresh dead chicken\n- 2 Lemons\n- 2 Oranges\n- 2 Mangos\n- 2 Vials of coconut milk\n- 1 Stone herb\nBanana Chocolate Shake\n- 1 Bar of chocolate\n- 1 Cream cake\n- 2 Bananas\n- 2 Vials of milk\n- 1 Sling herb\n- 1 Star herb\nVeggie Casserole\n- 2 Carrots\n- 2 Tomatoes\n- 2 Corncobs\n- 2 Cucumbers\n- 1 Onion\n- 1 Garlic\n- 1 Cheese\n- 20 White mushrooms\n- 5 Brown mushrooms\nFilled Jalape\u00f1o Peppers\n- 10 Jalape\u00f1o peppers\n- 2 Cheese\n- 1 Troll green\n- 1 Shadow herb\n- 1 Vial of mead\n- 2 Eggs\nBlessed Steak\n- 1 Piece of ham\n- 5 Plums\n- 1 Onions\n- 2 Beetroot\n- 1 Pumpkin\n- 2 Jalape\u00f1o peppers\nNorthern Fishburger\n- 1 Northern pike\n- 1 Rainbow trout\n- 1 Green perch\n- 5 Shrimps\n- 2 Rolls\n- 1 Fern\nCarrot Cake\n- 5 Carrots\n- 1 Vial of milk\n- 1 Lemon\n- 10 Ounces of flour\n- 2 Eggs\n- 10 Cookies\n- 2 Peanuts",
+        "text": "Famous Recipes by Maître Jean Pierre\nRotworm Stew\n- 2 Pieces of meat\n- 2 Vials of beer\n- 20 Potatoes\n- 1 Onion\n- 1 Garlic\n- 5 Ounces of flour\nHydra Tongue Salad\n- 2 Hydra tongues\n- 2 Tomatoes\n- 1 Cucumber\n- 2 Eggs\n- 1 Troll green\n- 1 Vial of wine\nRoasted Dragon Wings\n- 1 Fresh dead bat\n- 3 Jalapeño peppers\n- 5 Brown breads\n- 2 Eggs\n- 1 Powder herb\n- 5 Red mushrooms\nTropical Fried Terrorbird\n- 1 Fresh dead chicken\n- 2 Lemons\n- 2 Oranges\n- 2 Mangos\n- 2 Vials of coconut milk\n- 1 Stone herb\nBanana Chocolate Shake\n- 1 Bar of chocolate\n- 1 Cream cake\n- 2 Bananas\n- 2 Vials of milk\n- 1 Sling herb\n- 1 Star herb\nVeggie Casserole\n- 2 Carrots\n- 2 Tomatoes\n- 2 Corncobs\n- 2 Cucumbers\n- 1 Onion\n- 1 Garlic\n- 1 Cheese\n- 20 White mushrooms\n- 5 Brown mushrooms\nFilled Jalapeño Peppers\n- 10 Jalapeño peppers\n- 2 Cheese\n- 1 Troll green\n- 1 Shadow herb\n- 1 Vial of mead\n- 2 Eggs\nBlessed Steak\n- 1 Piece of ham\n- 5 Plums\n- 1 Onions\n- 2 Beetroot\n- 1 Pumpkin\n- 2 Jalapeño peppers\nNorthern Fishburger\n- 1 Northern pike\n- 1 Rainbow trout\n- 1 Green perch\n- 5 Shrimps\n- 2 Rolls\n- 1 Fern\nCarrot Cake\n- 5 Carrots\n- 1 Vial of milk\n- 1 Lemon\n- 10 Ounces of flour\n- 2 Eggs\n- 10 Cookies\n- 2 Peanuts",
         "map": [
             "https://tibiamaps.io/map#33067,32527,5:2"
         ],
@@ -3173,8 +3173,8 @@
         ]
     },
     {
-        "name": "Famous_Recipes_by_Ma\u00eetre_Jean_Pierre_II",
-        "author": "Ma\u00eetre Jean Pierre",
+        "name": "Famous_Recipes_by_Maître_Jean_Pierre_II",
+        "author": "Maître Jean Pierre",
         "description": "A bunch of high-quality recipes.",
         "locations": [
             "Kha'zeel -> Jean Pierre"
@@ -3190,11 +3190,11 @@
             }
         ],
         "next-book": "_NONEXT",
-        "previous-book": "Famous_Recipes_by_Ma\u00eetre_Jean_Pierre_I",
+        "previous-book": "Famous_Recipes_by_Maître_Jean_Pierre_I",
         "img": [
             "Jean_Pierre's_Cookbook_II"
         ],
-        "text": "Famous Recipes by Ma\u00eetre Jean Pierre\nCoconut Shrimp Bake\n- 5 vials of milk\n- 5 brown mushrooms\n- 5 red mushrooms\n- 10 rice balls\n- 10 shrimps\nPot of Blackjack\n- 5 sandcrawler shells\n- 2 vials of water\n- 20 carrots\n- 10 potatoes\n- 3 jalape\u00f1o peppers\nDemonic Candy Ball\n- 3 candies\n- 3 candy canes\n- 2 bar of chocolate\n- 15 gingerbreadmen\n- 1 concentrated demonic blood\nSweet Mangonaise Elixir\n- 100 eggs\n- 50 mangoes\n- 10 honeycombs\n- 1 bottle of bug milk\n- 1 blessed wooden stake",
+        "text": "Famous Recipes by Maître Jean Pierre\nCoconut Shrimp Bake\n- 5 vials of milk\n- 5 brown mushrooms\n- 5 red mushrooms\n- 10 rice balls\n- 10 shrimps\nPot of Blackjack\n- 5 sandcrawler shells\n- 2 vials of water\n- 20 carrots\n- 10 potatoes\n- 3 jalapeño peppers\nDemonic Candy Ball\n- 3 candies\n- 3 candy canes\n- 2 bar of chocolate\n- 15 gingerbreadmen\n- 1 concentrated demonic blood\nSweet Mangonaise Elixir\n- 100 eggs\n- 50 mangoes\n- 10 honeycombs\n- 1 bottle of bug milk\n- 1 blessed wooden stake",
         "map": [
             "https://tibiamaps.io/map#33067,32527,5:2"
         ],
@@ -8556,7 +8556,7 @@
     {
         "name": "Mahatheb_the_Vizier",
         "author": "?",
-        "description": "The great vizier Mahatheb tried to prevent a coup d'\u00e9tat planned by Arkhothep by expanding his own power. Unfortunately, Mahatheb failed and was eventually forced to withdraw in a tomb he built for himself.",
+        "description": "The great vizier Mahatheb tried to prevent a coup d'état planned by Arkhothep by expanding his own power. Unfortunately, Mahatheb failed and was eventually forced to withdraw in a tomb he built for himself.",
         "locations": [
             "Edron -> Forgotten Tomb"
         ],
@@ -15685,7 +15685,7 @@
         "img": [
             "Book_(Brown)"
         ],
-        "text": "Book of funny letters I\n\u00e4\u00f6\u00fc",
+        "text": "Book of funny letters I\näöü",
         "map": [
             "https://tibiamaps.io/map#32479,31901,6:2"
         ],
@@ -21018,7 +21018,7 @@
         "author": "Doctor Alaistar Stanton",
         "description": "Thoughts on how Oramond may have been changed over time by glooth.",
         "locations": [
-            "Rathleton -> Grand Opera Caf\u00e9"
+            "Rathleton -> Grand Opera Café"
         ],
         "libraries": [
             "Rathleton Libraries"
@@ -21048,7 +21048,7 @@
             {
                 "mainarea": "Oramond - Cities",
                 "area": "Rathleton",
-                "subarea": "Grand Opera Caf\u00e9"
+                "subarea": "Grand Opera Café"
             }
         ]
     },
@@ -21231,7 +21231,7 @@
         "author": "Fyodor",
         "description": "?",
         "locations": [
-            "Rathleton -> Grand Opera Caf\u00e9"
+            "Rathleton -> Grand Opera Café"
         ],
         "libraries": [
             "Rathleton Libraries"
@@ -21254,7 +21254,7 @@
             {
                 "mainarea": "Oramond - Cities",
                 "area": "Rathleton",
-                "subarea": "Grand Opera Caf\u00e9"
+                "subarea": "Grand Opera Café"
             }
         ]
     },
@@ -21263,7 +21263,7 @@
         "author": "?",
         "description": "?",
         "locations": [
-            "Rathleton -> Grand Opera Caf\u00e9"
+            "Rathleton -> Grand Opera Café"
         ],
         "libraries": [
             "Rathleton Libraries"
@@ -21286,7 +21286,7 @@
             {
                 "mainarea": "Oramond - Cities",
                 "area": "Rathleton",
-                "subarea": "Grand Opera Caf\u00e9"
+                "subarea": "Grand Opera Café"
             }
         ]
     },
@@ -21570,7 +21570,7 @@
         "author": "A. N. Onymous",
         "description": "?",
         "locations": [
-            "Rathleton -> Grand Opera Caf\u00e9"
+            "Rathleton -> Grand Opera Café"
         ],
         "libraries": [
             "Rathleton Libraries"
@@ -21593,7 +21593,7 @@
             {
                 "mainarea": "Oramond - Cities",
                 "area": "Rathleton",
-                "subarea": "Grand Opera Caf\u00e9"
+                "subarea": "Grand Opera Café"
             }
         ]
     },
@@ -50789,7 +50789,7 @@
         "img": [
             "Book_(Grey)"
         ],
-        "text": "Telia and Tigo I\n\n(This book is written in elven language. Contrary to the old elven legends, this seems to have been written less than a decade ago. It contains a tragic tale of two individuals who rejected their heritage and disappeared from the world. Surprisingly, almost all the pages contain a handwritten translation as if to make readers ignore the elven roots of the tale.)\n\nrejection\n\nTigo was always an industrious elf. He helped his kin where ever he could, started his day early and ended it late. Despite his efforts to help his community, he was not a person you'd actually notice much or sometimes at all. He preferred to stay in the background, kept to himself most of the time. Yet this was not to escape the other but to shield himself. Rejection was his one true fear of him, a nemesis that plagued him since he remembered. And his father of him, before him. His time as a happy child within the confines of a loving family was short lived. When his father lost his wife, he spent the following years concentrated on his only son. There were times when Tigo felt the warmth of his father's loving care for him but there were far more occasions where he experienced the meaning of being left alone. He saw the decline of the only parent he directly knew, felt the heat of his rage in times of dispair and the grief in times of solitude. He never wanted to end like this. The decision to stay away from others, to eliminate social interaction as much as possible was quickly made. Even as a youth, he was an outsider of some proportion-but he still wanted to be a valuable member of his community. Unlike his father, who as Tigo reached adulthood, he ultimately left, not to be seen ever again.\n\nsolitude\n\nTigo would not draw attention to him, work for himself most of the time but help the others and provide support any time he could. As long as they left him alone afterwards, leave him to enjoy the peace and quiet of his life as a loner.\n\nshelter\n\nIt didn't help when a villager from a far away town, an outsider himself, came to him. He simply appeared at his doorstep, in the middle of the night. A human, incapable of speech, wounded and alone. Desperate. Desperation was something Tigo was used to since he could count. He took the poor soul in, despite his aversion to having another person so close to him. Especially here, in his own habitat. But what harm could he do, he was in no condition to get on his nerves and didn't say a word. Just a few days passed, the man got better, started eating more, looked outside the windows, started walking around. Indeed his interest towards what happened outside grew with every day, yet he did not make any move to just get up and leave. He just stayed, cowering in one corner of Tigo's house, always focused on the windows. Tigo used a system of gestures to find out if he needed anything or to give him basic directions. It worked somehow and after a few more days, it was good to go. Tigo was not very versed in contact with others, let alone humans. But he saw that his proteg\u00e9 from him got increasingly tense. With every day he grew more nervous, clutching to the windowsill, even checking under his bed.\n\nExit civilization\n\nThe smash. Broken glass and howling wind. He woke up to a room full of people. At least six persons stood around his bed, watching. He jumped up in his sheets and looked at the gathering wide-eyed and in cold sweat. This was something he simply wasn't prepared for. Nor could he ever have. He was not used to that many people and now half a dozen are standing in his very own bedchamber. He got a bit angry and threw the most threatening stare he could manage to form in the general direction of one of the intruders. Then he saw their weapons.",
+        "text": "Telia and Tigo I\n\n(This book is written in elven language. Contrary to the old elven legends, this seems to have been written less than a decade ago. It contains a tragic tale of two individuals who rejected their heritage and disappeared from the world. Surprisingly, almost all the pages contain a handwritten translation as if to make readers ignore the elven roots of the tale.)\n\nrejection\n\nTigo was always an industrious elf. He helped his kin where ever he could, started his day early and ended it late. Despite his efforts to help his community, he was not a person you'd actually notice much or sometimes at all. He preferred to stay in the background, kept to himself most of the time. Yet this was not to escape the other but to shield himself. Rejection was his one true fear of him, a nemesis that plagued him since he remembered. And his father of him, before him. His time as a happy child within the confines of a loving family was short lived. When his father lost his wife, he spent the following years concentrated on his only son. There were times when Tigo felt the warmth of his father's loving care for him but there were far more occasions where he experienced the meaning of being left alone. He saw the decline of the only parent he directly knew, felt the heat of his rage in times of dispair and the grief in times of solitude. He never wanted to end like this. The decision to stay away from others, to eliminate social interaction as much as possible was quickly made. Even as a youth, he was an outsider of some proportion-but he still wanted to be a valuable member of his community. Unlike his father, who as Tigo reached adulthood, he ultimately left, not to be seen ever again.\n\nsolitude\n\nTigo would not draw attention to him, work for himself most of the time but help the others and provide support any time he could. As long as they left him alone afterwards, leave him to enjoy the peace and quiet of his life as a loner.\n\nshelter\n\nIt didn't help when a villager from a far away town, an outsider himself, came to him. He simply appeared at his doorstep, in the middle of the night. A human, incapable of speech, wounded and alone. Desperate. Desperation was something Tigo was used to since he could count. He took the poor soul in, despite his aversion to having another person so close to him. Especially here, in his own habitat. But what harm could he do, he was in no condition to get on his nerves and didn't say a word. Just a few days passed, the man got better, started eating more, looked outside the windows, started walking around. Indeed his interest towards what happened outside grew with every day, yet he did not make any move to just get up and leave. He just stayed, cowering in one corner of Tigo's house, always focused on the windows. Tigo used a system of gestures to find out if he needed anything or to give him basic directions. It worked somehow and after a few more days, it was good to go. Tigo was not very versed in contact with others, let alone humans. But he saw that his protegé from him got increasingly tense. With every day he grew more nervous, clutching to the windowsill, even checking under his bed.\n\nExit civilization\n\nThe smash. Broken glass and howling wind. He woke up to a room full of people. At least six persons stood around his bed, watching. He jumped up in his sheets and looked at the gathering wide-eyed and in cold sweat. This was something he simply wasn't prepared for. Nor could he ever have. He was not used to that many people and now half a dozen are standing in his very own bedchamber. He got a bit angry and threw the most threatening stare he could manage to form in the general direction of one of the intruders. Then he saw their weapons.",
         "map": [
             "https://tibiamaps.io/map#32717,31445,8:1"
         ],
