@@ -92739,7 +92739,98 @@
   {
     "file": "npc/Carlin/Folda/Svenson.txt",
     "name": "Svenson",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Ahoi, young man Player and welcome to the Nordic Tibia Ferries. If you need a passage, let me know."
+        ]
+      },
+      {
+        "prompt": "ferry / ferries",
+        "answer": [
+          "Our ferries are strong enough to stand the high waves of the Nordic Ocean."
+        ]
+      },
+      {
+        "prompt": "Ice Islands",
+        "answer": [
+          "We serve the routes to Senja, Folda, and Vega, and back to Tibia."
+        ]
+      },
+      {
+        "prompt": "passage",
+        "answer": [
+          "Where do you want to go today? We serve the routes to Senja, Folda, and Vega, and back to Tibia."
+        ]
+      },
+      {
+        "prompt": "Senja",
+        "answer": [
+          "Do you want a passage to Senja for 10 gold?"
+        ]
+      },
+      {
+        "prompt": "Folda",
+        "answer": [
+          "This island is Folda."
+        ]
+      },
+      {
+        "prompt": "Vega",
+        "answer": [
+          "Do you want a passage to Vega for 10 gold?"
+        ]
+      },
+      {
+        "prompt": "Tibia",
+        "answer": [
+          "Do you want a free passage back to Tibia?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Have a nice trip!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "You shouldn't miss the experience."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Svenson from the Nordic Tibia Ferries."
+        ]
+      },
+      {
+        "prompt": "Anderson / Svenson / Nielson / Carlson",
+        "answer": [
+          "The four of us are the captains of the Nordic Tibia Ferries."
+        ]
+      },
+      {
+        "prompt": "captain / job",
+        "answer": [
+          "We are ferrymen. We transport goods and passengers to the Ice Islands."
+        ]
+      },
+      {
+        "prompt": "goods",
+        "answer": [
+          "We can transport everything you want."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye. You are welcome."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Carlin/Fields_of_Glory/Gelagos.txt",
