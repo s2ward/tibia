@@ -92116,6 +92116,78 @@
     "name": "Scott",
     "conversation": [
       {
+        "prompt": "hi",
+        "answer": [
+          "Welcome to my little inn, Player. If you need food, let me know."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Scott."
+        ]
+      },
+      {
+        "prompt": "Senja",
+        "answer": [
+          "It's a peaceful island. Cold and lonesome but I like it."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I'm the keeper of the inn. You can buy food here."
+        ]
+      },
+      {
+        "prompt": "time",
+        "answer": [
+          "It is exactly 8:00 am."
+        ]
+      },
+      {
+        "prompt": "Tibia",
+        "answer": [
+          "Oh, I'm happy to live in this world full of thrilling things."
+        ]
+      },
+      {
+        "prompt": "goods",
+        "answer": [
+          "I can offer you bread, cheese, ham, or meat. If you'd like to see my offers, ask me for a trade."
+        ]
+      },
+      {
+        "prompt": "castle",
+        "answer": [
+          "It is said that there are some secrets to discover around the mage's castle."
+        ]
+      },
+      {
+        "prompt": "Carlin",
+        "answer": [
+          "Sometimes I travel to Carlin and visit the market."
+        ]
+      },
+      {
+        "prompt": "Thais",
+        "answer": [
+          "It's a city in the south-west of Tibia."
+        ]
+      },
+      {
+        "prompt": "queen",
+        "answer": [
+          "She is a strong and wise leader. We owe her protection from evil monsters."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Of course, just browse through my wares."
+        ]
+      },
+      {
         "prompt": "rumour",
         "answer": [
           "A sailor from Carlin told me that the natives of the Ice Islands pray to different gods. I think 'Chyll' is one of them or was that the name of the northern winds?? Well, doesn't matter! Primitives!"
@@ -92236,6 +92308,12 @@
           "I heard about some strange creatures that appeared on one of the smaller ice islands. Reportedly they have a human torso but the lower body of a white-furred goat! Can you imagine that? ...",
           "Travellers told me that they recently moved into the caverns beneath the island. There, they are growing fresh grass and even flowers! How is that possible in a frozen cave? Some kind of magic has to be involved. ...",
           "I'm just not sure whether it is of the benevolent or the malicious kind."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "I hope to see you again, Player."
         ]
       }
     ]
