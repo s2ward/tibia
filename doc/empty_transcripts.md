@@ -45,7 +45,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lector</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Lector.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Legola</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Legola.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Liane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Liane.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nielson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Nielson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Perac</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Perac.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rachel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Rachel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rowenna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Rowenna.txt)  

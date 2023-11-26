@@ -78,7 +78,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lector</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Lector.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Legola</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Legola.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Liane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Liane.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nielson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Nielson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nydala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Nydala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Padreia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Padreia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Penny</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Penny.txt)  
