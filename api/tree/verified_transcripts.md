@@ -74,6 +74,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Costello</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Isle_of_the_Kings/Costello.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Karl</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Karl.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lothar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Lothar.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nielson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Nielson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Percybald</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Percybald.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Queen Eloise</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Queen_Eloise.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Toothless Tim</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Toothless_Tim.txt)  
