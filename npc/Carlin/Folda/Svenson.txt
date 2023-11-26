@@ -26,5 +26,11 @@ Player: captain / job
 Svenson: We are ferrymen. We transport goods and passengers to the Ice Islands.
 Player: goods
 Svenson: We can transport everything you want.
+Player: ball
+Svenson: Before my career as ferryman I used to be an avid baller, but nowadays I don't have time for that anymore. Want to buy one of my training balls for 123 gold?
+Player: yes
+Svenson: Here you go! Have fun.
+Player: (anything but yes)
+Svenson: Well, then I keep it.
 Player: bye
 Svenson: Good bye. You are welcome.
