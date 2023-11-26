@@ -147,7 +147,7 @@
         "Legola": "EMPTY",
         "Liane": "EMPTY",
         "Lothar": "VERIFIED",
-        "Nielson": "EMPTY",
+        "Nielson": "VERIFIED",
         "Nydala": "UNVERIFIED",
         "Padreia": "UNVERIFIED",
         "Penny": "UNVERIFIED",
@@ -160,8 +160,8 @@
         "Sarina": "UNVERIFIED",
         "Senja": {
             "Anderson": "EMPTY",
-            "Scott": "UNVERIFIED",
-            "Vera": "EMPTY"
+            "Scott": "VERIFIED",
+            "Vera": "VERIFIED"
         },
         "Shauna": "UNVERIFIED",
         "Tibra": "UNVERIFIED",
