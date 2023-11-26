@@ -91862,7 +91862,98 @@
   {
     "file": "npc/Carlin/Nielson.txt",
     "name": "Nielson",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Ahoi, young man Player and welcome to the Nordic Tibia Ferries. If you need a passage, let me know."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Nielson from the Nordic Tibia Ferries."
+        ]
+      },
+      {
+        "prompt": "captain / job",
+        "answer": [
+          "We are ferrymen. We transport goods and passengers to the Ice Islands."
+        ]
+      },
+      {
+        "prompt": "Nielson / Svenson / Anderson / Carlson",
+        "answer": [
+          "The four of us are the captains of the Nordic Tibia Ferries."
+        ]
+      },
+      {
+        "prompt": "goods",
+        "answer": [
+          "We can transport everything you want."
+        ]
+      },
+      {
+        "prompt": "Tibia",
+        "answer": [
+          "This is Tibia, the continent."
+        ]
+      },
+      {
+        "prompt": "ferry / ferries",
+        "answer": [
+          "Our ferries are strong enough to stand the high waves of the Nordic Ocean."
+        ]
+      },
+      {
+        "prompt": "Ice Islands",
+        "answer": [
+          "We serve the routes to Senja, Folda, and Vega, and back to Tibia."
+        ]
+      },
+      {
+        "prompt": "passage",
+        "answer": [
+          "Where do you want to go today? We serve the routes to Senja, Folda, and Vega, and back to Tibia."
+        ]
+      },
+      {
+        "prompt": "Senja",
+        "answer": [
+          "Do you want a round-trip passage to Senja for 20 gold?"
+        ]
+      },
+      {
+        "prompt": "Folda",
+        "answer": [
+          "Do you want a round-trip passage to Folda for 20 gold?"
+        ]
+      },
+      {
+        "prompt": "Vega",
+        "answer": [
+          "Do you want a round-trip passage to Vega for 20 gold?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Have a nice trip!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "You shouldn't miss the experience."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye. You are welcome."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Carlin/Toothless_Tim.txt",
