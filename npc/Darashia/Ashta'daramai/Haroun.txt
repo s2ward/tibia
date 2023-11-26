@@ -15,6 +15,10 @@ Player: sell
 Haroun: My task is to buy and sell supplies. We are dealing with magical equipment like rings, amulets, rods and some special items. I can also perform magical extractions. If you'd like to see my offers, ask me for a trade.
 Player: extractions
 Haroun: That's my speciality. I can extract magic sulphur, enchanted chicken wings, fighting spirit and warrior's sweat.
+Player: Fighting Spirit
+Haroun: I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?
+Player: Yes
+Haroun: Al Adhra Zubana Akras!
 Player: king
 Haroun: We do not have kings. Of the members of our community, Gabel is closest to being what you would consider a leader, but he would resent being called by that presumptuous title.
 Player: gabel
