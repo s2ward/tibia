@@ -46,8 +46,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Penny</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Penny.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Phillip</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Phillip.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sarina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Sarina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Senja</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Scott</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja/Scott.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shauna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Shauna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tibra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Tibra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Trisha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Trisha.txt)  
