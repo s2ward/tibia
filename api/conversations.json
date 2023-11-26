@@ -92243,7 +92243,68 @@
   {
     "file": "npc/Carlin/Senja/Vera.txt",
     "name": "Vera",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hello Player! Do you need some furniture for your house?"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Vera. I sell furniture and equipment."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Have you moved to a new home? I'm the specialist for equipping it."
+        ]
+      },
+      {
+        "prompt": "furniture / equipment / goods / buy / sell",
+        "answer": [
+          "Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares."
+        ]
+      },
+      {
+        "prompt": "time",
+        "answer": [
+          "It is 11:46 pm. Do you need a clock for your house?"
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "You mean my specials, don't you?"
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?"
+        ]
+      },
+      {
+        "prompt": "type",
+        "answer": [
+          "I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?"
+        ]
+      },
+      {
+        "prompt": "(any type)",
+        "answer": [
+          "Here you go."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye, Player."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Carlin/Senja/Anderson.txt",
