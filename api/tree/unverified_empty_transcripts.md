@@ -86,8 +86,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rachel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Rachel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rowenna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Rowenna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sarina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Sarina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Senja</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Anderson</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Senja/Anderson.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shauna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Shauna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tibra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Tibra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tired Tree</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Tired_Tree.txt)  
