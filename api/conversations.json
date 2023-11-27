@@ -84126,6 +84126,18 @@
         ]
       },
       {
+        "prompt": "Fighting Spirit",
+        "answer": [
+          "I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Al Adhra Zubana Akras!"
+        ]
+      },
+      {
         "prompt": "king",
         "answer": [
           "We do not have kings. Of the members of our community, Gabel is closest to being what you would consider a leader, but he would resent being called by that presumptuous title."
