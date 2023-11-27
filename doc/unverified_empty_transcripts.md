@@ -61,7 +61,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Fluffy Squirrel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/A_Fluffy_Squirrel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ajax</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Ajax.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aneus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Aneus.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bron</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Bron.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bruno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Bruno.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graubart</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Graubart.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marlene</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Marlene.txt)  
