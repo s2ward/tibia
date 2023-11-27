@@ -84126,6 +84126,18 @@
         ]
       },
       {
+        "prompt": "Fighting Spirit",
+        "answer": [
+          "I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Al Adhra Zubana Akras!"
+        ]
+      },
+      {
         "prompt": "king",
         "answer": [
           "We do not have kings. Of the members of our community, Gabel is closest to being what you would consider a leader, but he would resent being called by that presumptuous title."
@@ -92913,6 +92925,24 @@
         "prompt": "goods",
         "answer": [
           "We can transport everything you want."
+        ]
+      },
+      {
+        "prompt": "ball",
+        "answer": [
+          "Before my career as ferryman I used to be an avid baller, but nowadays I don't have time for that anymore. Want to buy one of my training balls for 123 gold?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Here you go! Have fun."
+        ]
+      },
+      {
+        "prompt": "(anything but yes)",
+        "answer": [
+          "Well, then I keep it."
         ]
       },
       {
