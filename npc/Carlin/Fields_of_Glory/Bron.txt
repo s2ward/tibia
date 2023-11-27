@@ -1,0 +1,84 @@
+Player: hi
+Bron: Welcome to my humble hut, Player.
+Player: name
+Bron: My name is Bron. Pleased to meet you, Player.
+Player: fighting spirit
+Bron: What's that supposed to be?
+Player: Gelagos
+Bron: This... person... makes me want to... say something bad... must... control myself. <sweats> I really don't know what to do anymore....
+Player: job
+Bron: I am a barbarian. Me and my brother are the only ones in this region, as far as I know.
+Player: outfit
+Bron: Yes, it's true - I am a barbarian. Me and my brother are the only ones in this region, as far as I know.
+Player: hut
+Bron: I am a barbarian. Me and my brother are the only ones in this region, as far as I know.
+Player: brother
+Bron: The only thing we have in common is our mother and father - well, concerning the latter I'm not even sure. Maybe my mother had an affair with a cyclops or something.
+Player: cyclops
+Bron: Ajax simply won't understand the advantages of a well-regulated lifestyle. We have actually tried to live together, but we start to fight after a few minutes.
+Player: Ajax
+Bron: Ah, sigh. It is hard to believe that this illiterate savage is my one and only brother.
+Player: savage
+Bron: Ajax simply won't understand the advantages of a well-regulated lifestyle. We have actually tried to live together, but we start to fight after a few minutes.
+Player: fight
+Bron: No, no, not a physical fight, I'm really not into all this blood and breaking bones and smashing fists into each others faces. We were just... not of the same opinion.
+Player: blood
+Bron: Where? Where? I hope my carpet is not ruined. Last time Ajax was here he left a horrible mess.
+Player: mess
+Bron: I really don't want to think about it anymore.
+Player: opinion
+Bron: We always have different opinions on all sorts of matters. Such as interior decoration. Or violence.
+Player: decoration
+Bron: Nice furniture, isn't it?
+Player: violence
+Bron: Convincing Ajax that it is not always necessary to use brute force... this would be such an achievement. Definitely a hard task though. ...
+Bron: Listen, I simply have to ask, maybe a stranger can influence him better than I can. Would you help me with my brother?
+Player: no
+Bron: Well... of course I didn't dare to hope that an educated person like you would waste time with a quarrel between two brothers.
+Player: yes
+Bron: Really! That is such an incredibly nice offer! I already have a plan. You have to teach him that sometimes words are stronger than fists. ...
+Bron: Maybe you can provoke him with something to get angry, like saying... 'MINE!' or something. But beware, I'm sure that he will try to hit you. ...
+Bron: Don't do this if you feel weak or ill. He will probably want to make you leave by using violence, but just stay strong and refuse to give up. ...
+Bron: If he should ask what else is necessary to make you leave, tell him to 'say please'. Afterwards, do leave and return to him one hour later. ...
+Bron: This way he might learn that violence doesn't always help, but that a friendly word might just do the trick. ...
+Bron: Have you understood everything I told you and are really willing to take this risk?
+Player: yes
+Bron: You are indeed not only well educated, but also very courageous. I wish you good luck, you are my last hope.
+Player: Brother is right. Fist not always good. (after going to Ajax)
+Bron: Oh! He really said that? I am so proud of you, player. These are really good news. Everything would be great... if only there wasn't this person near my house.
+Player: person
+Bron: This... person... makes me want to... say something bad... must... control myself. <sweats> I really don't know what to do anymore....
+Bron: I wonder if Ajax has an idea. Could you ask him about Gelagos?
+Player: yes
+Bron: Again, I have to thank you for your selfless offer to help me. I hope that Ajax can come up with something, now that he has experienced the power of words.
+Player: fighting spirit (after getting one)
+Bron: Fighting spirit? What am I supposed to do with this fi... - oh! I feel strange... ME MIGHTY! ME WILL CHASE OFF ANNOYING KIDS! GROOOAARR!! RRRRRRRRRRRRAAAAAAAGE!!
+Player: hi (after giving fighting sirit)
+Bron: Oh no! Was that really me? This is so embarassing, I have no idea what has gotten into me. Was that the fighting spirit you gave me?
+Player: Yes
+Bron: I'm impressed... I am sure this was Ajax' idea. I would love to give him a present, but if I leave my hut to gather ingredients, he will surely notice. ...
+Bron: Would you maybe help me again, one last time, my friend? I assure you that your efforts will not be in vain.
+Player: yes
+Bron: Great! You see, I really would love to sew a nice shirt for him. I just need a few things for that, so please listen closely: ...
+Bron: He loves green and red, so I will need about 50 pieces of red cloth - like the material heroes make their capes of - and 50 pieces of the green cloth Djinns like. ...
+Bron: Secondly, I need about 10 rolls of spider silk yarn. I think mermaids can yarn silk of large spiders to create a smooth thread. ...
+Bron: The only remaining thing needed would be a bottle of warrior's sweat to spray it over the shirt... he just loves this smell. ...
+Bron: Have you understood everything I told you and are willing to handle this task?
+Player: yes
+Bron: Thank you, my friend! Come back to me once you have collected 50 pieces of red cloth and 50 pieces of green cloth.
+Player: red piece of cloth
+Bron: Have you really managed to fulfil the task and brought me 50 pieces of red cloth and 50 pieces of green cloth?
+Player: yes
+Bron: Terrific! I will start to trim it while you gather 10 rolls of spider silk. I'm sure that Ajax will love it.
+Player: spider silk
+Bron: Oh, did you bring 10 rolls of spider silk yarn for me?
+Player: yes
+Bron: I'm impressed! You really managed to get spider silk yarn for me! I will immediately start to work on this shirt. Please don't forget to bring me warrior's sweat!
+Player: warrior's sweat
+Bron: Were you able to get hold of a flask with pure warrior's sweat?
+Player: yes
+Bron: Good work, Player! Now I can finally finish this present for Ajax. Because you were such a great help, I have also a present for you. Will you accept it?
+Player: yes
+Bron: I have kept this traditional barbarian wig safe for many years now. It is now yours! I hope you will wear it proudly, friend.
+Player: bye
+Bron: Take care, Player!
