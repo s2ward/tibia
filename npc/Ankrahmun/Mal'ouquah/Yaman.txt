@@ -97,6 +97,14 @@ Yaman: Djinns have lived in these mountains, called Kha'zeel, for as long as any
 Yaman: Humans rarely come up here, and few djinn care to travel down to the Kha'labal. It is probably better this way. For both our races.
 Player: kha'labal
 Yaman: The Kha'labal we know today was created at the height of the djinn war. Not exactly a glorious chapter in the war's history.
+Player: fighting spirit
+Yaman: I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?
+Player: no
+Yaman: I understand. Perhaps another time then.
+Player: yes
+Yaman: Al Adhra Zubana Akras!
+Player: yes (without having two royal helmets)
+Yaman: I hate to disappoint you, but it seems you do not have the required amount.
 Player: bye
 Yaman: Goodbye human Ahnimone.
 Yaman: Farewell, human.
