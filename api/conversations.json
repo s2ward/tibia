@@ -92960,7 +92960,61 @@
       {
         "prompt": "hi",
         "answer": [
-          "Bron is a scary barbarian."
+          "Hehehe."
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "You are as stupid as Bron."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Bronbronbronbronbron. Bronnnn!"
+        ]
+      },
+      {
+        "prompt": "Gelagos",
+        "answer": [
+          "That's me."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Barbarians are stupid."
+        ]
+      },
+      {
+        "prompt": "outfit",
+        "answer": [
+          "Can I have free outfits?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "I think that's wrong."
+        ]
+      },
+      {
+        "prompt": "blood",
+        "answer": [
+          "Roses are red, and so is blood."
+        ]
+      },
+      {
+        "prompt": "brother",
+        "answer": [
+          "Ajax is even more stupid."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Hope you die and lose it."
         ]
       }
     ]
