@@ -1,0 +1,68 @@
+Player: hi
+Player: outfit
+Ajax: Eh?
+Player: addon
+Ajax: Go away.
+Player: job
+Ajax: No time for such stupid thing.
+Player: name
+Ajax: Ajax.
+Player: Gelagos
+Ajax: Annoying kid. Won't let him near me.
+Player: Bron
+Ajax: Me no talk about him.
+Player: fight
+Ajax: You. Weak.
+Player: mine
+Ajax: Nothing is yours. No house, no ship, no shiny weapon.
+Player: weapon
+Ajax: Me like shiny weapons.
+Player: fighting spirit
+Ajax: Is veeeeery important. Especially for barbarian. If you have none, ask Djinn.
+Player: mine (with quest activated)
+Ajax: YOURS? WHAT IS YOURS! NOTHING IS YOURS! IS MINE! GO AWAY, YES?!
+Player: no
+Ajax: YOU STUPID! STUBBORN! I KILL YOU! WILL LEAVE NOW?!
+Player: no
+Ajax: ARRRRRRRRRR! YOU ME DRIVE MAD! HOW I MAKE YOU GO??
+Player: no
+Ajax: I GIVE YOU NO!
+Player: say please
+Ajax: Please? What you mean please? Like I say please you say bye? Please?
+Player: yes
+Ajax: Oh. Easy. Okay. Please is good. Now don't say anything. Head aches.
+Player: hi
+Ajax: You back. You know, you right. Brother is right. Fist not always good. Tell him that!
+Player: Gelagos (after going to Bron)
+Ajax: Annoying kid. Bro hates him, but talking no help. Bro needs fighting spirit!
+Player: Fighting Spirit
+Ajax: If you want to help bro, bring him fighting spirit. Magic fighting spirit. Ask Djinn.
+Player: present (after completing first quest)
+Ajax: Bron gave me present. Ugly, but nice from him. Me want to give present too. You help me?
+Player: yes
+Ajax: Good! Me make shiny weapon. If you help me, I make one for you too. Like axe I wear. I need stuff. Listen. ...
+Ajax: Me need 100 iron ore. Then need crude iron. Then after that 50 behemoth fangs. And 50 lizard leather. You understand?
+Player: yes
+Ajax: Good. You get 100 iron ore first. Come back.
+Player: iron ore
+Ajax: You bring 100 iron ore?
+Player: yes
+Ajax: Good! Now bring crude iron.
+Player: crude iron
+Ajax: You bring crude iron?
+Player: yes
+Ajax: Good! Now bring 50 behemoth fangs.
+Player: behemoth fang
+Ajax: You bring 50 behemoth fangs?
+Player: yes
+Ajax: Good! Now bring 50 lizard leather.
+Player: lizard leather
+Ajax: You bring 50 lizard leather?
+Player: yes
+Ajax: Ah! All stuff there. I will start making axes now. Come later and ask me for axe.
+Player: hi
+Ajax: Whatcha do in my place?
+Player: axe
+Ajax: Axe is done! For you. Take. Wear like me.
+Player: bye
+Ajax: Bye.
