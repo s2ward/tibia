@@ -33,7 +33,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Benny The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Benny_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eva</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Eva.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fields of Glory</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ajax</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Ajax.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Mortimer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Mortimer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Florentine</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Florentine.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Humphrey</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Humphrey.txt)  
