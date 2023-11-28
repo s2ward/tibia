@@ -86485,7 +86485,90 @@
   {
     "file": "npc/Krailos/Krailos_Steppe/Captain_Pelagia.txt",
     "name": "Captain_Pelagia",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome on board, Sir Player. Where can I sail you today?"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Pelagia."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I\u2019m one of the few captains who sail here at all. The waters of Krailos are dangerous. Hidden underwater shelves were the bane of many a ship \u2013 as you may gather by the wreckage all around here. \u2026",
+          "But I sail people to Krailos and back to various Tibian locations."
+        ]
+      },
+      {
+        "prompt": "sail",
+        "answer": [
+          "The \u2018Silver Hydra\u2019 is ready to bring you to Venore, Edron, Darashia, Issavi or Oramond."
+        ]
+      },
+      {
+        "prompt": "boat",
+        "answer": [
+          "\u2018Boat\u2019? What are you talking about! This beautiful ship is the \u2018Silver Hydra\u2019!"
+        ]
+      },
+      {
+        "prompt": "ship",
+        "answer": [
+          "This beautiful ship is the \u2018Silver Hydra\u2019."
+        ]
+      },
+      {
+        "prompt": "captain",
+        "answer": [
+          "I\u2019m one of the few captains who sail here at all. The waters of Krailos are dangerous. Hidden underwater shelves were the bane of many a ship \u2013 as you may gather by the wreckage all around here. \u2026",
+          "But I sail people to Krailos and back to various Tibian locations."
+        ]
+      },
+      {
+        "prompt": "passage / trip",
+        "answer": [
+          "The \u2018Silver Hydra\u2019 is ready to bring you to Venore, Edron, Darashia, Issavi or Oramond."
+        ]
+      },
+      {
+        "prompt": "port hope / thais / carlin / yalahar / liberty bay / ankrahmun / ab\u2019dendriel / kazordoon / zao / farmine / gray island / darama / roshamuul / svargrond",
+        "answer": [
+          "I\u2019m sorry, but I don\u2019t sail there."
+        ]
+      },
+      {
+        "prompt": "Krailos",
+        "answer": [
+          "Krailos is this big peninsula north of Oramond. The two regions are separated by a high mountain range, so Krailos is only accessible by water. And that\u2019s not easy either, as many dangerous underwater shelves surround Krailos. \u2026",
+          "The island is covered by a vast steppe and dangerous. That\u2019s because of the ogres, naturally. Beware of those beasts \u2013 they are maneaters. You should set foot on these shores only on careful deliberation."
+        ]
+      },
+      {
+        "prompt": "ogres",
+        "answer": [
+          "They are big, brutal and dull creatures and it is said they love the taste of human flesh. Yet it is rumoured that lately, one single tribe tolerates the presence of humans. \u2026",
+          "But I don\u2019t know if that\u2019s true or just idle gossip, so be careful. Oh, and you have to swim to the coast. Because of the reefs here I can\u2019t come closer to the shore, I\u2019m sorry."
+        ]
+      },
+      {
+        "prompt": "berth",
+        "answer": [
+          "Oh, you have to swim to the coast. Because of the reefs here I can\u2019t come closer to the shore, I\u2019m sorry."
+        ]
+      },
+      {
+        "prompt": "bye / farewell",
+        "answer": [
+          "Good bye and beware of the ogres!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Krailos/Krailos_Mines/An_Imprisoned_Goblin.txt",
