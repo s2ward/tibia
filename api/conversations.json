@@ -93298,7 +93298,207 @@
   {
     "file": "npc/Carlin/Fields_of_Glory/Ajax.txt",
     "name": "Ajax",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi outfit",
+        "answer": [
+          "Eh?"
+        ]
+      },
+      {
+        "prompt": "addon",
+        "answer": [
+          "Go away."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "No time for such stupid thing."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Ajax."
+        ]
+      },
+      {
+        "prompt": "Gelagos",
+        "answer": [
+          "Annoying kid. Won't let him near me."
+        ]
+      },
+      {
+        "prompt": "Bron",
+        "answer": [
+          "Me no talk about him."
+        ]
+      },
+      {
+        "prompt": "fight",
+        "answer": [
+          "You. Weak."
+        ]
+      },
+      {
+        "prompt": "mine",
+        "answer": [
+          "Nothing is yours. No house, no ship, no shiny weapon."
+        ]
+      },
+      {
+        "prompt": "weapon",
+        "answer": [
+          "Me like shiny weapons."
+        ]
+      },
+      {
+        "prompt": "fighting spirit",
+        "answer": [
+          "Is veeeeery important. Especially for barbarian. If you have none, ask Djinn."
+        ]
+      },
+      {
+        "prompt": "mine (with quest activated)",
+        "answer": [
+          "YOURS? WHAT IS YOURS! NOTHING IS YOURS! IS MINE! GO AWAY, YES?!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "YOU STUPID! STUBBORN! I KILL YOU! WILL LEAVE NOW?!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "ARRRRRRRRRR! YOU ME DRIVE MAD! HOW I MAKE YOU GO??"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "I GIVE YOU NO!"
+        ]
+      },
+      {
+        "prompt": "say please",
+        "answer": [
+          "Please? What you mean please? Like I say please you say bye? Please?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Oh. Easy. Okay. Please is good. Now don't say anything. Head aches."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "You back. You know, you right. Brother is right. Fist not always good. Tell him that!"
+        ]
+      },
+      {
+        "prompt": "Gelagos (after going to Bron)",
+        "answer": [
+          "Annoying kid. Bro hates him, but talking no help. Bro needs fighting spirit!"
+        ]
+      },
+      {
+        "prompt": "Fighting Spirit",
+        "answer": [
+          "If you want to help bro, bring him fighting spirit. Magic fighting spirit. Ask Djinn."
+        ]
+      },
+      {
+        "prompt": "present (after completing first quest)",
+        "answer": [
+          "Bron gave me present. Ugly, but nice from him. Me want to give present too. You help me?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good! Me make shiny weapon. If you help me, I make one for you too. Like axe I wear. I need stuff. Listen. ...",
+          "Me need 100 iron ore. Then need crude iron. Then after that 50 behemoth fangs. And 50 lizard leather. You understand?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good. You get 100 iron ore first. Come back."
+        ]
+      },
+      {
+        "prompt": "iron ore",
+        "answer": [
+          "You bring 100 iron ore?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good! Now bring crude iron."
+        ]
+      },
+      {
+        "prompt": "crude iron",
+        "answer": [
+          "You bring crude iron?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good! Now bring 50 behemoth fangs."
+        ]
+      },
+      {
+        "prompt": "behemoth fang",
+        "answer": [
+          "You bring 50 behemoth fangs?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good! Now bring 50 lizard leather."
+        ]
+      },
+      {
+        "prompt": "lizard leather",
+        "answer": [
+          "You bring 50 lizard leather?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Ah! All stuff there. I will start making axes now. Come later and ask me for axe."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Whatcha do in my place?"
+        ]
+      },
+      {
+        "prompt": "axe",
+        "answer": [
+          "Axe is done! For you. Take. Wear like me."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Bye."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Carlin/Fields_of_Glory/Bron.txt",
