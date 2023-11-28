@@ -80510,6 +80510,30 @@
         ]
       },
       {
+        "prompt": "fighting spirit",
+        "answer": [
+          "I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "I understand. Perhaps another time then."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Al Adhra Zubana Akras!"
+        ]
+      },
+      {
+        "prompt": "yes (without having two royal helmets)",
+        "answer": [
+          "I hate to disappoint you, but it seems you do not have the required amount."
+        ]
+      },
+      {
         "prompt": "bye",
         "answer": [
           "Goodbye human Ahnimone.",
