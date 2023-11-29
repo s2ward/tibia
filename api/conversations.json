@@ -79315,7 +79315,20 @@
   {
     "file": "npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/Cobra.txt",
     "name": "Cobra",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Begone! Hissssss! You bear not the mark of the cobra!"
+        ]
+      },
+      {
+        "prompt": "hi (marked)",
+        "answer": [
+          "Venture the path of decay!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Ankrahmun/Mal'ouquah/Ubaid.txt",

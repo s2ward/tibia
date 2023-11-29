@@ -32,6 +32,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ahmet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ahmet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Ankrahmun Pharaoh Tombs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">An Ancient Priest</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/An_Ancient_Priest.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cobra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/Cobra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Crone</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/The_Crone.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arito</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Arito.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arkhothep</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Arkhothep.txt)  
