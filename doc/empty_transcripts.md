@@ -20,8 +20,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Hercule.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jean_Pierre.txt)  
-├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cerebrir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs/Cerebrir.txt)  
 ├─&nbsp;&nbsp;<strong>Carlin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Lost Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/A_Lost_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Tainted Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/A_Tainted_Soul.txt)  
