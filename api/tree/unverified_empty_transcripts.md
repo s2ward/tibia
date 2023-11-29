@@ -35,8 +35,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jean_Pierre.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Southern Darama Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Messenger of Heaven</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert/Messenger_of_Heaven.txt)  
-├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cerebrir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs/Cerebrir.txt)  
 ├─&nbsp;&nbsp;<strong>Carlin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Lost Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/A_Lost_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Tainted Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/A_Tainted_Soul.txt)  
