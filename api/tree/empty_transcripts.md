@@ -17,8 +17,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ukea</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Ukea.txt)  
 ├─&nbsp;&nbsp;<strong>Ankrahmun</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Agostina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Agostina.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Ankrahmun Pharaoh Tombs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cobra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Ankrahmun_Pharaoh_Tombs/Cobra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Hercule.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jean_Pierre.txt)  
