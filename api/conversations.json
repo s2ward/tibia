@@ -94451,7 +94451,22 @@
   {
     "file": "npc/Port_Hope/Player_Level_999_(Female).txt",
     "name": "Player_Level_999_(Female)",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Wait in line please. (third in line, walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "I reached level 999 and all I got was ... Wait, what anyway?",
+          "You there! Make your choice!",
+          "Hey! No jostling!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Gilmak_Copperbeard.txt",
@@ -94993,7 +95008,22 @@
   {
     "file": "npc/Port_Hope/Player_Level_1003.txt",
     "name": "Player_Level_1003",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Oh, get in line please! I'll feel much better when I'm not the last in the queue! (fifth in line, walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "<sigh> I guess I'll go swimming.",
+          "Does someone have a pack of cards?",
+          "Hurry! Hurry!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Myra.txt",
@@ -95158,7 +95188,22 @@
   {
     "file": "npc/Port_Hope/Player_Level_1000.txt",
     "name": "Player_Level_1000",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "You're sure you want to line up? (fourth in line, walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "Booooring!",
+          "I should rather go and buy some cookies.",
+          "That takes ages! I'll return in five levels."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/The_Blind_Prophet.txt",
@@ -95899,7 +95944,34 @@
   {
     "file": "npc/Port_Hope/Relaxed_Bartender.txt",
     "name": "Relaxed_Bartender",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hello! You want to buy something?"
+        ]
+      },
+      {
+        "prompt": "buy",
+        "answer": [
+          "Of course, just browse through my wares."
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "Should I take this one or that one? I really don't know ...",
+          "The helmet also looks great ...",
+          "Quiet there in the back! I feel pressurised!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Maybe later."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Clyde.txt",
@@ -96085,12 +96157,42 @@
   {
     "file": "npc/Port_Hope/Player_Level_1001.txt",
     "name": "Player_Level_1001",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "The end of the queue is over there in the back. (second in line, walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "I should have stayed on Rookgaard!",
+          "That guy already stood there when I was level 1000!",
+          "What are you waiting for?"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Stressed_Storeman.txt",
     "name": "Stressed_Storeman",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hi! (walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "<sigh> Sir, there are still other people waiting. Please pick your reward now.",
+          "I already showed you all items.",
+          "Take this one or that one! Make your choice!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Charles.txt",
@@ -96344,7 +96446,22 @@
   {
     "file": "npc/Port_Hope/Player_Level_999_(Male).txt",
     "name": "Player_Level_999_(Male)",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Sorry, no time for gossip. I have to choose my reward. (first in line, walks away)"
+        ]
+      },
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "Should I take this one or that one? I really don't know ...",
+          "The helmet also looks great ...",
+          "Quiet there in the back! I feel pressurised!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Port_Hope/Guide_Tiko.txt",

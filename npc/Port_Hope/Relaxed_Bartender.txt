@@ -1,0 +1,10 @@
+Player: hi 
+Relaxed Bartender: Hello! You want to buy something? 
+Player: buy
+Relaxed Bartender: Of course, just browse through my wares.
+Player: (idle)
+Relaxed Bartender: Should I take this one or that one? I really don't know ...
+Relaxed Bartender: The helmet also looks great ...
+Relaxed Bartender: Quiet there in the back! I feel pressurised!
+Player: bye 
+Relaxed Bartender: Maybe later.

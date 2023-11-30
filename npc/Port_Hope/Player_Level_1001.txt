@@ -1,0 +1,6 @@
+Player: hi 
+Player Level 1001: The end of the queue is over there in the back. (second in line, walks away)
+Player: (idle)
+Player Level 1001: I should have stayed on Rookgaard!
+Player Level 1001: That guy already stood there when I was level 1000!
+Player Level 1001: What are you waiting for?
