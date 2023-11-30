@@ -38706,57 +38706,106 @@
     "name": "Skjaar",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi ( < lvl 15 )",
+        "answer": [
+          "I don't talk to little children!!"
+        ]
+      },
+      {
+        "prompt": "hi (knight)",
         "answer": [
           "Another creature who believes thinks physical strength is more important than wisdom! Why are you disturbing me?"
         ]
       },
       {
-        "prompt": "Door",
+        "prompt": "hi (paladin)",
         "answer": [
-          "This door seals a crypt."
+          "Neither strong enough to be a knight nor wise enough to be a real mage. You like it easy, don't you? Why are you disturbing me?"
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "hi (sorcerer)",
+        "answer": [
+          "It's good to see somebody who has chosen the path of wisdom. What do you want?"
+        ]
+      },
+      {
+        "prompt": "hi (druid)",
+        "answer": [
+          "Hail, friend of nature! How may I help you?"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "I am Skjaar the Mage, master of all spells."
+        ]
+      },
+      {
+        "prompt": "job",
         "answer": [
           "Once I was the master of all mages, but now I only protect this crypt."
         ]
       },
       {
-        "prompt": "Crypt",
-        "answer": [
-          "Here lies my master. Only his closest followers may enter."
-        ]
-      },
-      {
-        "prompt": "Master",
-        "answer": [
-          "If you are one of his followers, you need not ask about him, for you will know. And if you aren't, you are not worthy anyway!"
-        ]
-      },
-      {
-        "prompt": "Time",
+        "prompt": "time",
         "answer": [
           "To those who have lived for a thousand years time holds no more terror."
         ]
       },
       {
-        "prompt": "Castle",
+        "prompt": "help",
+        "answer": [
+          "I'm not here to help anybody. I only protect my master's crypt."
+        ]
+      },
+      {
+        "prompt": "door",
+        "answer": [
+          "This door seals a crypt."
+        ]
+      },
+      {
+        "prompt": "crypt",
+        "answer": [
+          "Here lies my master. Only his closest followers may enter."
+        ]
+      },
+      {
+        "prompt": "master",
+        "answer": [
+          "If you are one of his followers, you need not ask about him, for you will know. And if you aren't, you are not worthy anyway!"
+        ]
+      },
+      {
+        "prompt": "mountain",
+        "answer": [
+          "Hundreds of years my master's castle stood on the top of this mountain. Now there is a volcano."
+        ]
+      },
+      {
+        "prompt": "castle",
         "answer": [
           "The castle was destroyed when my master tried to summon a nameless creature. All that is left is this volcano."
         ]
       },
       {
-        "prompt": "Volcano",
+        "prompt": "volcano",
         "answer": [
           "I can still feel the magical energy in the volcano."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "key",
         "answer": [
-          "Farewell, Player!"
+          "I will give the key to the crypt only to the closest followers of my master. Would you like me to test you?"
+        ]
+      },
+      {
+        "prompt": "bye / farewell",
+        "answer": [
+          "Farewell, Player!",
+          "Run away, unworthy Player!"
         ]
       }
     ]
