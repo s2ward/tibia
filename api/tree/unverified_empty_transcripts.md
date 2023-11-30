@@ -171,7 +171,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zizzle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Zizzle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demonic Messenger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension/Demonic_Messenger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Heavenly Messenger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension/Heavenly_Messenger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lizard Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Lizard_Prisoner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lizard Tunnel Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Lizard_Tunnel_Guard.txt)  

@@ -186,6 +186,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Awareness of the Emperor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Awareness_of_the_Emperor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Esrik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Esrik.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Demonic Messenger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension/Demonic_Messenger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Muggy Plains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains/Nina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zurak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains/Zurak.txt)  
