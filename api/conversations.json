@@ -53977,7 +53977,62 @@
   {
     "file": "npc/Farmine/Halls_of_Ascension/Demonic_Messenger.txt",
     "name": "Demonic_Messenger",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Greetings, foolish mortals. I'm not here in the halls of ascension to fight, but act as a humble messenger."
+        ]
+      },
+      {
+        "prompt": "messenger",
+        "answer": [
+          "I'm a messenger of the dark gods. I'm here to remind you of the guilt you have brought upon yourself, and offer you a chance to redeem yourself at least a little bit."
+        ]
+      },
+      {
+        "prompt": "guilt",
+        "answer": [
+          "You helped an unspeakable force of destruction to get the most powerful weapon in existence. In the wrong hands, where it rests now, thanks to you, it can cause the obliteration of creation as we know it."
+        ]
+      },
+      {
+        "prompt": "redeem",
+        "answer": [
+          "Though the godbreaker is lost for now, you still have a chance to stop Ferumbras. Though his ascension will surely not happen, he has to be stopped as soon as possible. ...",
+          "His manipulation already destroyed much of the fabric of the world here. This is why the gods can't intervene on their own. ...",
+          "The world is highly fragile at this place and time and godly powers would surely shatter it. This is where you are needed to correct at least a part of your error. ...",
+          "Now Ferumbras is in a process of transformation and though incredibly powerful, he is yet subject to certain vulnerabilities. ...",
+          "In every passing moment, more energy will be provided to the forces of annihilation and should he finish the process, an unspeakable thing might be fully pulled into our world ...",
+          "Whereas the empowered Ferumbras will inevitably become mad by its touch and become a mindless force of destruction on the loose. ...",
+          "Even if you kill him, the damage will be done, but with the help of the gods the worst might be contained - at least for a short while. ...",
+          "Regardless, the thing from beyond will triumph today. All we can do is to diminish this triumph as good as we can. So you should hurry, but be prepared for the fight."
+        ]
+      },
+      {
+        "prompt": "prepared",
+        "answer": [
+          "In the process of ascension he will be difficult to hurt. But as could be seen in the failed ascension attempt of the snake-thing in Zao, it can be done if timed right. ...",
+          "You will have to force his essence to split, and destroy the splinters. Those splinters will be far more vulnerable, and he can't fully recover and reabsorb each splinter's energy. ...",
+          "To split his power, you should try to corrupt his power-transfer crystals with negative energy. If you manage to force him to split, he will become more vulnerable to the chaotic energies of the rift that are on the loose. ...",
+          "Try to rip his essence from the splinters and let the void suck them in. How exactly this can be accomplished, I have no idea. ...",
+          "So you might eventually drain him of energy, even force him into a somewhat mortal form which can be destroyed by using the rift he opened against him somehow. ...",
+          "Your chances are slim though; but it is of your own doing, so you deserve no better."
+        ]
+      },
+      {
+        "prompt": "(any word)",
+        "answer": [
+          "There is no time for chitchat, you fool."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good ridance!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Halls_of_Ascension/Heavenly_Messenger.txt",
