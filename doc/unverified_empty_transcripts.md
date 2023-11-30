@@ -491,8 +491,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jamesfrancis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Jamesfrancis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Markwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Markwin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mount Sternum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mount_Sternum)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Skjaar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mount_Sternum/Skjaar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Muriel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Muriel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Noozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Noozer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Orcsoberfest Island</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Orcsoberfest_Island)  
