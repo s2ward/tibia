@@ -74,7 +74,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zizzle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Zizzle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Heavenly Messenger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension/Heavenly_Messenger.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lizard Tunnel Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Lizard_Tunnel_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Muggy Plains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Strange Chalice</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains/A_Strange_Chalice.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oberon's Bile</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Oberon's_Bile.txt)  
