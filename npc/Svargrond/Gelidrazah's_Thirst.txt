@@ -1,0 +1,13 @@
+Player: Hi (quest)
+Gelidrazah'S Thirst : Have you come to answer Gelidrazah's questions?
+Player: Yes
+Gelidrazah'S Thirst : There are three questions. First: What is the name of the princess who fell in love with a Thai nobleman during the regency of Pharaoh Uthemath? Second: Who is the author of the book, The Language of the Wolves'? ...
+Gelidrazah'S Thirst : Third: Which ancient Tibian race reportedly traveled the sky in cloud ships? Can you answer these questions?
+Player: Yes
+Gelidrazah'S Thirst : So I ask you: What is the name of the princess who fell in love with a Thai nobleman during the regency of pharaoh Uthemath?
+Player: Tahmehe
+Gelidrazah'S Thirst : That's right. Listen to the second question: Who is the author of the book, The Language of the Wolves'?
+Player: Ishara
+Gelidrazah'S Thirst : That's right. Listen to the third question: Which ancient Tibian race reportedly traveled the sky in cloud ships?
+Player: Svir
+Gelidrazah'S Thirst : That is correct. You satisfactorily answered all questions. You may pass and enter Gelidrazah's lair.
