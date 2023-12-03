@@ -28816,9 +28816,57 @@
         ]
       },
       {
+        "prompt": "Name",
+        "answer": [
+          "You may call me Muriel."
+        ]
+      },
+      {
+        "prompt": "Muriel",
+        "answer": [
+          "I don't like jokes about my name!"
+        ]
+      },
+      {
         "prompt": "Job",
         "answer": [
           "I am the second sorcerer. I am selling spellbooks and spells."
+        ]
+      },
+      {
+        "prompt": "Time",
+        "answer": [
+          "Time is unimportant."
+        ]
+      },
+      {
+        "prompt": "News",
+        "answer": [
+          "Our guild is working on a new spell, but I won't give away any details yet."
+        ]
+      },
+      {
+        "prompt": "King / Tibianus",
+        "answer": [
+          "The king is a patron of the arcane arts."
+        ]
+      },
+      {
+        "prompt": "army / general",
+        "answer": [
+          "We supply the army with some sorcerer recruits now and then."
+        ]
+      },
+      {
+        "prompt": "wisdom",
+        "answer": [
+          "The wisdom of spellcasting is the source of power."
+        ]
+      },
+      {
+        "prompt": "ancestor",
+        "answer": [
+          "There have been many generations of sorcerers in the past. Today, a lot of people want to join us."
         ]
       },
       {
@@ -28834,9 +28882,39 @@
         ]
       },
       {
-        "prompt": "King / Tibianus",
+        "prompt": "vocation",
         "answer": [
-          "The king is a patron of the arcane arts."
+          "Your vocation is your profession. There are four vocations in Tibia: Sorcerers, paladins, knights, and druids."
+        ]
+      },
+      {
+        "prompt": "spellbook",
+        "answer": [
+          "In a spellbook, your spells are listed. There you can find the pronunciation of each spell. Do you want to buy one for 150 gold?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Hmm, maybe next time."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Here you are."
+        ]
+      },
+      {
+        "prompt": "rune",
+        "answer": [
+          "Each spell that starts with 'Ad' needs a rune. You have to have a blank rune with you when you cast it. You can buy runes at the magic shop."
+        ]
+      },
+      {
+        "prompt": "Spell",
+        "answer": [
+          "I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that. (se o player for sorcerer)"
         ]
       },
       {
@@ -28864,7 +28942,13 @@
         ]
       },
       {
-        "prompt": "Pits of Inferno",
+        "prompt": "flaming pits",
+        "answer": [
+          "These pits you refer to might be the legendary 'Pits of Inferno', also known as the 'Nightmare Pits'."
+        ]
+      },
+      {
+        "prompt": "Pits of Inferno / nightmare pits",
         "answer": [
           "They are rumoured to be hidden somewhere in the Plains of Havoc, far to the east."
         ]
@@ -28889,33 +28973,15 @@
         ]
       },
       {
-        "prompt": "News",
-        "answer": [
-          "Our guild is working on a new spell, but I won't give away any details yet."
-        ]
-      },
-      {
-        "prompt": "Name",
-        "answer": [
-          "You may call me Muriel."
-        ]
-      },
-      {
-        "prompt": "Spell",
-        "answer": [
-          "I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that. (se o player for sorcerer)"
-        ]
-      },
-      {
-        "prompt": "Time",
-        "answer": [
-          "Time is unimportant."
-        ]
-      },
-      {
         "prompt": "Ferumbras",
         "answer": [
           "I wonder how he actually got these awesome powers."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "The enchantments on this weapon must be awesome."
         ]
       },
       {
@@ -28955,15 +29021,15 @@
         ]
       },
       {
-        "prompt": "McRonald",
+        "prompt": "McRonald / sherry / ronald",
         "answer": [
           "Simple farmers."
         ]
       },
       {
-        "prompt": "Muriel",
+        "prompt": "baxter",
         "answer": [
-          "I don't like jokes about my name!"
+          "I don't know him."
         ]
       },
       {
@@ -28973,15 +29039,85 @@
         ]
       },
       {
+        "prompt": "marvik",
+        "answer": [
+          "Marvik and his sorcerers lack spells with real power."
+        ]
+      },
+      {
         "prompt": "Sam",
         "answer": [
           "A simple smith."
         ]
       },
       {
+        "prompt": "oswald",
+        "answer": [
+          "Only his boss keeps him from being burnt to ashes."
+        ]
+      },
+      {
         "prompt": "Xodet",
         "answer": [
           "He has our permission to sell mana fluids."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "He's not as dumb as the average fighter but a warrior nonetheless."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "He is rumoured to possess some secrets our guild might find ... interesting."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "I don't think he's any competition. I rarely see him anyway and I don't deem his skills noteworthy."
+        ]
+      },
+      {
+        "prompt": "mission",
+        "answer": [
+          "Indeed, there is something you can do for me. You must know I am researching for a new spell against the undead. ...",
+          "To achieve that I need a desecrated bone. There is a cursed bone pit somewhere in the dungeons north of Thais where the dead never rest. ...",
+          "Find that pit, dig for a well-preserved human skeleton and conserve a sample in a special container which you receive from me. Are you going to help me?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Ohh, then I need to find another adventurer who wants to earn a great reward. Bye!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Great! Here is the container for the bone. Once, I used it to collect ectoplasma of ghosts, but it will work here as well. ...",
+          "If you lose it, you can buy a new one from the explorer's society in North Port or Port Hope. Ask me about the mission when you come back."
+        ]
+      },
+      {
+        "prompt": "mission / bone pit",
+        "answer": [
+          "The rotworms dug deep into the soil north of Thais. Rumours say that you can access a place of endless moaning from there. ...",
+          "No one knows how old that common grave is but the people who died there are cursed and never come to rest."
+        ]
+      },
+      {
+        "prompt": "mission",
+        "answer": [
+          "Excellent! Now I can try to put my theoretical thoughts into practice and find a cure for the symptoms of undead. Here, take this for your efforts."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell."
         ]
       }
     ]
