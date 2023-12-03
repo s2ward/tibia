@@ -543,6 +543,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rotem Valos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Adventurers'_Guild/Rotem_Valos.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Yana</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Adventurers'_Guild/Yana.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zethra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Adventurers'_Guild/Zethra.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aruda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Aruda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Baxter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Baxter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Benjamin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Benjamin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Black Bert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Black_Bert.txt)  
