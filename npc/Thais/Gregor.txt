@@ -70,5 +70,43 @@ Player: excalibug
 Gregor: Many brave warriors died on the quest to find that fabled weapon.
 Player: the first dragon
 Gregor: I heard he moved to a dungeon.
+Player: behemoth fangs
+Gregor: You're not serious asking that, are you? They come from behemoths, of course. Unless there are behemoth rabbits. Duh.
+Player: ramsay the reckless
+Gregor: These pesky apes steal everything they can get their dirty hands on.
+Player: warriors sweat
+Gregor: Warrior's sweat can be magically extracted from headgear worn by a true warrior, but only in small amounts. Djinns are said to be good at magical extractions.
+Player: royal steel
+Gregor: Royal steel can only be refined by very skilled smiths.
+Player: adorned helmet / outfit (quest)
+Gregor: Only the bravest warriors may wear adorned helmets. They are traditionally awarded after having completed a difficult task for our guild.
+Player: task
+Gregor: You've already completed the task and can consider yourself a mighty warrior, Player.
+Player: Task
+Gregor: You mean, you would like to prove that you deserve to wear such a helmet?
+Player: Yes
+Gregor: Well then, listen closely. First, you will have to prove that you are a fierce and restless warrior by bringing me 100 perfect behemoth fangs. ...
+Gregor: Secondly, please retrieve a helmet for us which has been lost a long time ago. The famous Ramsay the Reckless wore it when exploring an ape settlement. ...
+Gregor: Third, we need a new flask of warrior's sweat. We've run out of it recently, but we need a small amount for the show battles in our arena. ...
+Gregor: Lastly, I will have our smith refine your helmet if you bring me royal steel, an especially noble metal. ...
+Gregor: Did you understand everything I told you and are willing to handle this task?
+Player: Yes
+Gregor: Alright then. Come back to me once you have collected 100 perfect behemoth fangs.
+Player: Behemoth fangs
+Gregor: Have you really managed to fulfil the task and brought me 100 perfect behemoth fangs?
+Player: Yes
+Gregor: I'm deeply impressed, (brave Knight) Player. (Even if you are not a knight, you certainly possess knight qualities.) Now, please retrieve Ramsay's helmet.
+Player: Ramsay the Reckless Helmet
+Gregor: Did you recover the helmet of Ramsay the Reckless?
+Player: Yes
+Gregor: Good work, (brave Knight) Player! Even though it is damaged, it has a lot of sentimental value. Now, please bring me warrior's sweat.
+Player: Warrior's sweat
+Gregor: Were you able to get hold of a flask with pure warrior's sweat?
+Player: Yes
+Gregor: Now that is a pleasant surprise, (brave Knight) Player! There is only one task left now: Obtain royal steel to have your helmet refined.
+Player: Royal steel
+Gregor: Ah, have you brought the royal steel?
+Player: Yes
+Gregor: You truly deserve to wear an adorned helmet, (brave Knight) Player. Please talk to Sam and tell him I sent you. I'm sure he will be glad to refine your helmet.
 Player: Bye
 Gregor: Be careful on your journeys.
