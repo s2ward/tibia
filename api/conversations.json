@@ -23237,7 +23237,14 @@
   {
     "file": "npc/Thais/Lungelen.txt",
     "name": "Lungelen",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Please don't disturb me, I am very busy in my recent researches. Have a nice day!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Thais/Smaralda.txt",
