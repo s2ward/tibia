@@ -25575,39 +25575,255 @@
     "name": "Quentin",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Welcome, adventurer Player! If you are new in Tibia, ask me for help."
+          "Welcome, adventurer Player If you are new in Tibia, ask me for help or healing."
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "name",
+        "answer": [
+          "My name is Quentin."
+        ]
+      },
+      {
+        "prompt": "job",
         "answer": [
           "Job? I have no job. I just live for the gods of Tibia."
         ]
       },
       {
-        "prompt": "King",
+        "prompt": "time",
         "answer": [
-          "Our king resides in the castle to the west."
+          "Now, it is 10:39 am. Ask Gorn for a watch, if you need one."
         ]
       },
       {
-        "prompt": "Help",
+        "prompt": "help / healing",
         "answer": [
-          "First you should try to get some gold to buy better equipment."
+          "You do not need any healing right now."
         ]
       },
       {
-        "prompt": "Gods",
+        "prompt": "news",
+        "answer": [
+          "Sorry, I know nothing new. Please ask Frodo about that topic."
+        ]
+      },
+      {
+        "prompt": "adventurers stone",
+        "answer": [
+          "Keep your adventurer's stone well."
+        ]
+      },
+      {
+        "prompt": "stake",
+        "answer": [
+          "You already received my line of the prayer."
+        ]
+      },
+      {
+        "prompt": "life",
+        "answer": [
+          "On Tibia there are many forms of life. There are plants and people and monsters."
+        ]
+      },
+      {
+        "prompt": "plants",
+        "answer": [
+          "Just walk around, you will see grass, trees, and bushes."
+        ]
+      },
+      {
+        "prompt": "god",
         "answer": [
           "They created Tibia and all life on it."
         ]
       },
       {
-        "prompt": "Life",
+        "prompt": "tibia",
         "answer": [
-          "On Tibia there are many forms of life."
+          "That is where we are. The world of Tibia. Admire its beauty."
+        ]
+      },
+      {
+        "prompt": "king / tibianus",
+        "answer": [
+          "Our king resides in the castle to the west."
+        ]
+      },
+      {
+        "prompt": "army",
+        "answer": [
+          "I don't know much about the Tibian army. Ask general Harkath Bloodblade about that."
+        ]
+      },
+      {
+        "prompt": "general",
+        "answer": [
+          "Harkath Bloodblade is his name."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "A hard man but his heart is in the right place."
+        ]
+      },
+      {
+        "prompt": "people",
+        "answer": [
+          "I am a simple monk. I just know Sam, Frodo, and Gorn. They all live in the main street to the north."
+        ]
+      },
+      {
+        "prompt": "sam",
+        "answer": [
+          "He is our blacksmith. He sells weapons and armour."
+        ]
+      },
+      {
+        "prompt": "frodo",
+        "answer": [
+          "He is the owner of Frodo's Hut, the tavern north of this temple."
+        ]
+      },
+      {
+        "prompt": "gorn",
+        "answer": [
+          "He is selling equipment. If you still have no backpack you should go and ask him for one."
+        ]
+      },
+      {
+        "prompt": "elane",
+        "answer": [
+          "She is the leader of the local Paladins' guild."
+        ]
+      },
+      {
+        "prompt": "muriel",
+        "answer": [
+          "Muriel is a famous sorcerer. He is the keeper of arcane secrets that are known only to few mortals."
+        ]
+      },
+      {
+        "prompt": "gregor",
+        "answer": [
+          "The leader of the Knights' guild is a man of few words."
+        ]
+      },
+      {
+        "prompt": "marvik",
+        "answer": [
+          "I admire the healing skills of Marvik."
+        ]
+      },
+      {
+        "prompt": "lynda",
+        "answer": [
+          "She is a highly competent priest."
+        ]
+      },
+      {
+        "prompt": "bozo",
+        "answer": [
+          "He is the king's jester, but he believes himself to be the king of fools."
+        ]
+      },
+      {
+        "prompt": "baxter",
+        "answer": [
+          "He is the guard of the royal castle."
+        ]
+      },
+      {
+        "prompt": "oswald",
+        "answer": [
+          "This man is spreading horrible rumours all the time."
+        ]
+      },
+      {
+        "prompt": "sherry / donald / mcronald",
+        "answer": [
+          "The McRonalds run the local farm."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "I hope I won't become that forgetful when I'm old. But he is a good man, although I don't know him very well."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "Please do not mention the fallen one."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "Hush! Do not mention the Evil One in these walls."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "Legends tell us that that Excalibug is a gift of the gods. Banor used in his battles. They say it was passed on to one of his followers."
+        ]
+      },
+      {
+        "prompt": "task / quest / what to do",
+        "answer": [
+          "First you should try to get some gold to buy better equipment."
+        ]
+      },
+      {
+        "prompt": "gold / money",
+        "answer": [
+          "If you need money you should slay monsters and take their gold. Look for spiders and rats."
+        ]
+      },
+      {
+        "prompt": "spider",
+        "answer": [
+          "There are spiders' nests beyond our city near Gorn's shop and at the McRonalds' farm in the east."
+        ]
+      },
+      {
+        "prompt": "rat",
+        "answer": [
+          "There are sewers underneath the city. They say these sewers are brimming with rats."
+        ]
+      },
+      {
+        "prompt": "sewer",
+        "answer": [
+          "You can enter the sewers thorugh a sewer grate. But watch out. There are many rats. And don't forget to bring a torch."
+        ]
+      },
+      {
+        "prompt": "equipment",
+        "answer": [
+          "First you should buy a bag or backpack. That way your hands will be free to hold a weapon and a shield."
+        ]
+      },
+      {
+        "prompt": "fight / slay",
+        "answer": [
+          "Take a weapon into your hand and select a target. If you are wounded you should eat some food to heal your wounds."
+        ]
+      },
+      {
+        "prompt": "eat / food",
+        "answer": [
+          "If you would like to heal your wounds you should eat some food. Frodo sells excellent meals. But if you are very weak you can also come to me. I will heal you."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye, Player"
         ]
       }
     ]
