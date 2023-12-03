@@ -564,6 +564,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gorn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gorn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Greenshore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tokel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore/Tokel.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gregor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gregor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Luke</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Guide_Luke.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hanna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hanna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hardek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hardek.txt)  
