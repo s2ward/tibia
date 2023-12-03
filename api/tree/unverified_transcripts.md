@@ -188,7 +188,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marvik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Marvik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Markwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/Markwin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Muriel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Muriel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Noozer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Noozer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paulette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Paulette.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pig</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Pig.txt)  
