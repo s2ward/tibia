@@ -588,6 +588,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Partos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Partos.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Robin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sam</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Sam.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sherry McRonald</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Sherry_McRonald.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Stutch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Stutch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Suzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Suzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Thais Northern Dungeon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Thais_Northern_Dungeon)  
