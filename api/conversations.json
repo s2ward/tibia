@@ -35524,27 +35524,15 @@
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am selling equipment of all kinds. Do you need anything?"
-        ]
-      },
-      {
-        "prompt": "Ng / Tibianus",
-        "answer": [
-          "The king supports Tibia's economy a lot."
-        ]
-      },
-      {
-        "prompt": "Magic",
-        "answer": [
-          "Magic? Ask a sorcerer or druid about that."
-        ]
-      },
-      {
         "prompt": "Name",
         "answer": [
           "I am Gorn. My goods are known all over Tibia."
+        ]
+      },
+      {
+        "prompt": "Job",
+        "answer": [
+          "I am selling equipment of all kinds. Do you need anything?"
         ]
       },
       {
@@ -35554,27 +35542,87 @@
         ]
       },
       {
-        "prompt": "Druids",
+        "prompt": "news",
+        "answer": [
+          "Taxes will increase soon, so buy as much as you can right now."
+        ]
+      },
+      {
+        "prompt": "offer / goods / sell / buy / equipment / book",
+        "answer": [
+          "My inventory of general goods and paperware is large, ask me for a trade to take a look."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Of course, just browse through my wares. Footballs have to be purchased separately."
+        ]
+      },
+      {
+        "prompt": "ammunition / bow / crossbow / arrow / bolt",
+        "answer": [
+          "Galuna sells them now in her own shop. Go and ask her about that."
+        ]
+      },
+      {
+        "prompt": "galuna",
+        "answer": [
+          "In the past she delivered all the bows and arrows to me. She has now her own shop at the paladin guild."
+        ]
+      },
+      {
+        "prompt": "king / Tibianus",
+        "answer": [
+          "The king supports Tibia's economy a lot."
+        ]
+      },
+      {
+        "prompt": "army",
+        "answer": [
+          "Armies are too hierarchical for my taste."
+        ]
+      },
+      {
+        "prompt": "general",
+        "answer": [
+          "I don't like titles."
+        ]
+      },
+      {
+        "prompt": "fluid",
+        "answer": [
+          "Find the magic shop."
+        ]
+      },
+      {
+        "prompt": "Magic",
+        "answer": [
+          "Magic? Ask a sorcerer or druid about that."
+        ]
+      },
+      {
+        "prompt": "Druids / marvik",
         "answer": [
           "This druids are nice people, you will find them in the east of the town."
         ]
       },
       {
-        "prompt": "Knights",
+        "prompt": "Knights / gregor",
         "answer": [
           "Even the strong knights need my equipment on their travels though Tibia."
         ]
       },
       {
-        "prompt": "Sorcerers",
+        "prompt": "Sorcerers / muriel",
         "answer": [
-          "You can find him in the sorcerer guild."
+          "You can find Muriel in the sorcerer guild."
         ]
       },
       {
         "prompt": "Paladins / Elane",
         "answer": [
-          "She's the leader of the paladin guild."
+          "Elane is the leader of the paladin guild."
         ]
       },
       {
@@ -35586,7 +35634,7 @@
       {
         "prompt": "Bozo",
         "answer": [
-          "Bah! Go away with this bozoguy."
+          "Bah! Go away with this bozo guy."
         ]
       },
       {
@@ -35602,27 +35650,15 @@
         ]
       },
       {
-        "prompt": "Gregor",
+        "prompt": "lynda",
         "answer": [
-          "Even the strong knights need my equipment on their travels though Tibia."
+          "That's a pretty one. Men tend to buy her all kinds of presents to win her affection. I have no clue what she might like, though."
         ]
       },
       {
-        "prompt": "Lynda",
-        "answer": [
-          "That's a pretty one."
-        ]
-      },
-      {
-        "prompt": "McRonald",
+        "prompt": "McRonald / sherry / donald",
         "answer": [
           "I hardly know the McRonalds."
-        ]
-      },
-      {
-        "prompt": "Muriel",
-        "answer": [
-          "You can find him in the sorcerer guild."
         ]
       },
       {
@@ -35647,6 +35683,30 @@
         "prompt": "Xodet",
         "answer": [
           "He owns the magic shop here. But be aware: The prices are enormous."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "I hardly know him."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "Never heard that name."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "I sometimes see him from afar, but he never makes it as far as my store, usually stops at Frodo's hut."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "It's told that some hero killed him and absorbed his power."
         ]
       },
       {
