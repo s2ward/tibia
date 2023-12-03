@@ -464,7 +464,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorenzo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lorenzo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lost Traveler</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lost_Traveler.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lubo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lubo.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lynda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lynda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Meluna</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alissa</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Alissa.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nienna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Nienna.txt)  

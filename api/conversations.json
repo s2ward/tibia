@@ -24901,27 +24901,9 @@
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "how are you",
         "answer": [
-          "I am a priest of the great pantheon."
-        ]
-      },
-      {
-        "prompt": "King",
-        "answer": [
-          "King Tibianus is our benevolent sovereign."
-        ]
-      },
-      {
-        "prompt": "Life",
-        "answer": [
-          "Life is a gift of the gods, honor life and don't destroy it."
-        ]
-      },
-      {
-        "prompt": "Mission / quest",
-        "answer": [
-          "It is my mission to spread knowledge about the gods."
+          "Thank you, I'm fine, and humble in the knowledge that the Gods are with me."
         ]
       },
       {
@@ -24931,9 +24913,15 @@
         ]
       },
       {
-        "prompt": "Tibia",
+        "prompt": "Job / pilgrim",
         "answer": [
-          "The world of Tibia is the creation of the gods."
+          "I am a priest of the great pantheon."
+        ]
+      },
+      {
+        "prompt": "priest",
+        "answer": [
+          "Well, as a priest I can tell you everything about blessings. I can also carry out a marriage ceremony to bind your and your beloved's soul together."
         ]
       },
       {
@@ -24943,75 +24931,208 @@
         ]
       },
       {
-        "prompt": "Monsters",
+        "prompt": "news",
         "answer": [
-          "They are creatures of the gods of evil!"
+          "Sorry, I have had no enlightening visions lately."
         ]
       },
       {
-        "prompt": "Fire",
+        "prompt": "sell",
         "answer": [
-          "Fire is one of the primal elemental forces, sometimes worshipped by tribal shamans."
+          "The grace of the Gods must be earned, and can not bought!"
         ]
       },
       {
-        "prompt": "Air",
+        "prompt": "heal",
         "answer": [
-          "Air is one of the primal elemental forces, sometimes worshipped by tribal shamans."
+          "You do not need any healing right now."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "tibia",
         "answer": [
-          "Good bye, Player. May the gods guard you, my child!"
+          "The world of Tibia is the creation of the Gods."
         ]
       },
       {
-        "prompt": "Sins",
+        "prompt": "king",
         "answer": [
-          "Do you wish to confess your sins, my child?"
+          "King Tibianus is our benevolent sovereign."
         ]
       },
       {
-        "prompt": "Yes",
+        "prompt": "citizen",
         "answer": [
-          "So tell me, what shadows your soul, my child."
+          "The things I know about our citizens are confidential."
         ]
       },
       {
-        "prompt": "I killed a deer (ou o que quiser dizer)",
+        "prompt": "fight / slay",
+        "answer": [
+          "It is MY mission to teach, it is YOUR mission to fight!"
+        ]
+      },
+      {
+        "prompt": "life",
+        "answer": [
+          "Life is a gift of the Gods. Therefore, you should honour life and don't destroy it."
+        ]
+      },
+      {
+        "prompt": "monsters",
+        "answer": [
+          "They are creatures of the Gods of Evil!"
+        ]
+      },
+      {
+        "prompt": "mission",
+        "answer": [
+          "It is my mission to spread knowledge about the Gods."
+        ]
+      },
+      {
+        "prompt": "ritual",
+        "answer": [
+          "I don't wish to be rude, but I am terribly busy right now, Player. All these premium believers demand my attention, and they have priority. I'm sorry!"
+        ]
+      },
+      {
+        "prompt": "Ritual",
+        "answer": [
+          "Please let me focus for a while, Player."
+        ]
+      },
+      {
+        "prompt": "Ritual",
+        "answer": [
+          "I'm glad to tell you that I have finished the ritual, player. Here is your new wand. I hope you carry it proudly for everyone to see."
+        ]
+      },
+      {
+        "prompt": "ritual",
+        "answer": [
+          "Sorry, but I can't make another blessed wand for you."
+        ]
+      },
+      {
+        "prompt": "ice cream",
+        "answer": [
+          "Ice cream?? What ... ice cream you are talking about?"
+        ]
+      },
+      {
+        "prompt": "venorean ice cream",
+        "answer": [
+          "Are you saying you have ... some Venorean ice cream for me?!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "To get a girl's hopes up like that and then to smash them is just cruel."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Oh, that is marvellous. Thank you very much. You know, I just LOVE ice cream! Of course it can't be compared to the love to the gods ...",
+          "To truly love is pure happiness of heart and soul. <She tells you much about pure love and devotion. You learn a lot for life.>"
+        ]
+      },
+      {
+        "prompt": "angelina",
+        "answer": [
+          "Thank the Gods she is now in safety."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "He is a follower of evil. The Gods will punish him in due course."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "May the Gods protect him. And others around him. It's not easy living the way he does. Nor is it safe."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "I heard he moved to a dungeon."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "He is a favourite of the Gods of Evil and one of their Champions. He will have his come uppance one day."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "This fabled weapon was lost in ancient times. The person who finds it will be all but invincible."
+        ]
+      },
+      {
+        "prompt": "magic sulphur",
+        "answer": [
+          "Magic Sulphur can be extracted from magical weapons. Mystic powers are needed to do so though, so only mystical creatures can extract it."
+        ]
+      },
+      {
+        "prompt": "soul stone",
+        "answer": [
+          "I fear that only a few soul stones are in existance in Tibia. I heard of a mighty Necromancer using one for his dark rituals, but he is seldom seen."
+        ]
+      },
+      {
+        "prompt": "ankh",
+        "answer": [
+          "It is a holy talisman."
+        ]
+      },
+      {
+        "prompt": "sins",
+        "answer": [
+          "Do you wish to confess your sins?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "As you wish."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "So tell me what shadows your soul, my child."
+        ]
+      },
+      {
+        "prompt": "(anything)",
         "answer": [
           "Meditate on that and pray for your soul."
         ]
       },
       {
-        "prompt": "Donation",
+        "prompt": "gods",
         "answer": [
-          "Do you want to make a donation?"
+          "The Gods of Good guard us and guide us and value life, the Gods of evil want to destroy us and steal our souls!"
         ]
       },
       {
-        "prompt": "Yes",
+        "prompt": "Good",
         "answer": [
-          "May the gods bless you!"
-        ]
-      },
-      {
-        "prompt": "Gods",
-        "answer": [
-          "The gods of good guard us and guide us, the gods of evil want to destroy us and steal our souls!"
-        ]
-      },
-      {
-        "prompt": "The gods of good",
-        "answer": [
-          "The gods we call the good ones are Fardos, Uman, the Elements, Suon, Crunor, Nornur, Bastesh, Kirok, Toth, and Banor."
+          "The Gods we call Good are Fardos, Uman, the Elements, Suon, Crunor, Nornur, Bastesh, Kirok, Toth, and Banor."
         ]
       },
       {
         "prompt": "Fardos",
         "answer": [
-          "Fardos is the creator, the great obsever. He is our caretaker."
+          "Fardos is the Creator, the Great Obsever. He is our caretaker."
         ]
       },
       {
@@ -25021,93 +25142,106 @@
         ]
       },
       {
+        "prompt": "Elements",
+        "answer": [
+          "Once, all elements were one. But when Tibiasula was murdered by Zathroth, fire, water, air and earth were birthed."
+        ]
+      },
+      {
         "prompt": "Suon",
         "answer": [
-          "Suon is the lifebringing sun. He observes the creation with love."
+          "Suon is the Life Bringing Sun. He observes the creation with love and blesses us with warmth and growth."
         ]
       },
       {
         "prompt": "Crunor",
         "answer": [
-          "Crunor, the great tree, is the father of all plantlife. He is a prominent god for many druids."
+          "Crunor, the Great Tree, is the father of all plant life. His branches provide shade and his sturdiness provides wisdom. He is an important God for many druids."
         ]
       },
       {
         "prompt": "Nornur",
         "answer": [
-          "Nornur is the mysterious god of fate. Who knows if he is its creator or just a chronist?"
+          "Nornur is the mysterious God of Fate. Who knows if he is its creator or just a chronist?"
         ]
       },
       {
         "prompt": "Bastesh",
         "answer": [
-          "Bastesh, the deep one, is the goddess of the sea and its creatures."
+          "Bastesh, the deep one, is the Goddess of the sea and its creatures."
         ]
       },
       {
         "prompt": "Kirok",
         "answer": [
-          "Kirok, the mad one, is the god of scientists and jesters."
+          "Kirok, the Mad One, is the god of scientists and jesters."
         ]
       },
       {
         "prompt": "Toth",
         "answer": [
-          "Toth, lord of death, is the keper of the souls, the guardian of the afterlife."
+          "Toth, the Lord of Death, is the keeper of the souls, the guardian of the afterlife."
         ]
       },
       {
         "prompt": "Banor",
         "answer": [
-          "Banor, the heavenly warrior, is the patron of all fighters against evil. He is the gift of the gods to inspire humanity."
+          "Banor, the Heavenly Warrior, is the patron of those who combat evil. He is the gift of the Gods who inspires humanity."
         ]
       },
       {
-        "prompt": "Gods of evil",
+        "prompt": "tibiasula",
         "answer": [
-          "The goods we call the evil ones are Zathroth, Fafnar, Brog, Urgith, and the Archdemons!"
+          "Tibiasula lost her life, but out of her essence the world was created.go"
         ]
       },
       {
-        "prompt": "Zathroth",
+        "prompt": "tibia",
         "answer": [
-          "Zathroth is the destructive aspect of magic. He is the deceiver and the thief of souls."
+          "Tibia is the essence of the elemental power of earth"
         ]
       },
       {
-        "prompt": "Fafnar",
+        "prompt": "sula",
         "answer": [
-          "Fafnar is the scorching sun. She observes the creation with hate and jealousy."
+          "Sula is the essence of the elemental power of water."
         ]
       },
       {
-        "prompt": "Brog",
+        "prompt": "air",
         "answer": [
-          "Brog, the raging one, is the great destroyer. The berserk of darkness."
+          "Air is one of the primal elemental forces, sometimes worshipped by tribal shamans."
         ]
       },
       {
-        "prompt": "Urgith",
+        "prompt": "fire",
         "answer": [
-          "The bonemaster Urgith is the lord of the undead and keeper of the damned souls."
+          "Fire is one of the primal elemental forces, sometimes worshipped by tribal shamans."
         ]
       },
       {
-        "prompt": "The Archdemons",
+        "prompt": "donation / gold / money",
         "answer": [
-          "The demons are followers of Zathroth. The cruelest are known as the ruthless seven."
+          "Do you wish to make a donation?"
         ]
       },
       {
-        "prompt": "Ruthless Seven",
+        "prompt": "no",
         "answer": [
-          "I dont want to talk about that subject!"
+          "As you wish."
         ]
       },
       {
-        "prompt": "Ferumbras",
+        "prompt": "yes",
         "answer": [
-          "He is a favourite of the Gods of Evil and one of their Champions. He will have his come uppance one day."
+          "May the Gods bless you!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye, Player May the Gods watch over you, my child!",
+          "May the Gods be with you!"
         ]
       }
     ]
