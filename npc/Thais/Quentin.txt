@@ -54,7 +54,7 @@ Player: baxter
 Quentin: He is the guard of the royal castle.
 Player: oswald
 Quentin: This man is spreading horrible rumours all the time.
-Player: sherry
+Player: sherry / donald / mcronald
 Quentin: The McRonalds run the local farm.
 Player: eclesius
 Quentin: I hope I won't become that forgetful when I'm old. But he is a good man, although I don't know him very well.
