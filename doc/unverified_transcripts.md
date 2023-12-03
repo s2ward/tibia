@@ -167,7 +167,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aruda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Aruda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dino.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dog Lady</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dog_Lady.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Elane.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Emilie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dermot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Dermot.txt)  
