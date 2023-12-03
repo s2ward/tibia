@@ -8,33 +8,13 @@ on:
 permissions: write-all
 
 jobs:
-  prepare:
-    if: github.event.issue.pull_request && contains(github.event.comment.body, '/apply')
-    runs-on: ubuntu-latest
-    outputs:
-      pr_head_sha: ${{ steps.set_pr_details.outputs.pr_head_sha }}
-      pr_base_ref: ${{ steps.set_pr_details.outputs.pr_base_ref }}
-      pr_branch_name: ${{ steps.set_pr_details.outputs.pr_branch_name}}
-    steps:
-      - name: Fetch PR details
-        id: get_pr_details
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/${{ github.repository }}/pulls/${{ github.event.issue.number }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Set PR Details
-        id: set_pr_details
-        run: |
-          PR_HEAD_SHA=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .head.sha)
-          PR_BASE_REF=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .base.ref)
-          PR_BRANCH_NAME=$(echo '${{ steps.get_pr_details.outputs.data }}' | jq -r .head.ref)
-          echo "PR HEAD SHA: $PR_HEAD_SHA"
-          echo "PR BASE REF: $PR_BASE_REF"
-          echo "branch name: $PR_BRANCH_NAME"
-          echo "::set-output name=pr_head_sha::$PR_HEAD_SHA"
-          echo "::set-output name=pr_branch_name::$PR_BRANCH_NAME"
-          echo "::set-output name=pr_base_ref::$PR_BASE_REF"
+  prepare: 
+      run: |
+        PR_API_URL="${{ github.event.issue.pull_request.url }}"
+        PR_DATA=$(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "$PR_API_URL")
+        PR_BRANCH_NAME=$(echo "$PR_DATA" | jq -r .head.ref)
+        echo "PR Branch: $PR_BRANCH_NAME"
+        echo "::set-output name=pr_branch_name::$PR_BRANCH"
 
   convert:
     needs: 
