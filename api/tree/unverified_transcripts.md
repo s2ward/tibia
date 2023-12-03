@@ -165,7 +165,6 @@
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Albinius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Albinius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aruda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Aruda.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chester Kahs</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Chester_Kahs.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dino.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dog Lady</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dog_Lady.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Elane.txt)  
