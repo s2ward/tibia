@@ -11,6 +11,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Anerui</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Anerui.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Benevola</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Benevola.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ceiron</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Ceiron.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Skeleton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Demon_Skeleton.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Draconia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Draconia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">An Old Dragonlord</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Draconia/An_Old_Dragonlord.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elathriel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Elathriel.txt)  
