@@ -182,7 +182,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kendra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Kendra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kulag&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Kulag,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorenzo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lorenzo.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Loria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Loria.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lost Traveler</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lost_Traveler.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lubo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lubo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lynda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lynda.txt)  
