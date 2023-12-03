@@ -36109,6 +36109,18 @@
     "name": "A_Frog",
     "conversation": [
       {
+        "prompt": "ribbit",
+        "answer": [
+          "Ribbit."
+        ]
+      },
+      {
+        "prompt": "Eeny, meeny, miny, moe - I stay here and you will go!",
+        "answer": [
+          "Uhhhhhh... ribbit... wow, I don't believe it. That must be the first time one of the old fool's spells have actually worked! Ribbit! Thank you!"
+        ]
+      },
+      {
         "prompt": "hi",
         "answer": [
           "Hi, Player."

@@ -1,5 +1,7 @@
-NPC: A Frog  
-Note: Transcription was made after completion the The Scatterbrained Sorcerer Quest.  
+Player: ribbit
+A frog: Ribbit.
+Player: Eeny, meeny, miny, moe - I stay here and you will go!
+A frog: Uhhhhhh... ribbit... wow, I don't believe it. That must be the first time one of the old fool's spells have actually worked! Ribbit! Thank you!
 Player: hi  
 A Frog: Hi, Player.  
 Player: assistant  
