@@ -20801,7 +20801,45 @@
   {
     "file": "npc/Svargrond/Gelidrazah's_Thirst.txt",
     "name": "Gelidrazah's_Thirst",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "Hi (quest)",
+        "answer": [
+          "Have you come to answer Gelidrazah's questions?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "There are three questions. First: What is the name of the princess who fell in love with a Thai nobleman during the regency of Pharaoh Uthemath? Second: Who is the author of the book, The Language of the Wolves'? ...",
+          "Third: Which ancient Tibian race reportedly traveled the sky in cloud ships? Can you answer these questions?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "So I ask you: What is the name of the princess who fell in love with a Thai nobleman during the regency of pharaoh Uthemath?"
+        ]
+      },
+      {
+        "prompt": "Tahmehe",
+        "answer": [
+          "That's right. Listen to the second question: Who is the author of the book, The Language of the Wolves'?"
+        ]
+      },
+      {
+        "prompt": "Ishara",
+        "answer": [
+          "That's right. Listen to the third question: Which ancient Tibian race reportedly traveled the sky in cloud ships?"
+        ]
+      },
+      {
+        "prompt": "Svir",
+        "answer": [
+          "That is correct. You satisfactorily answered all questions. You may pass and enter Gelidrazah's lair."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Svargrond/Nelly.txt",
