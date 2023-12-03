@@ -547,6 +547,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Black Bert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Black_Bert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bozo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Bozo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Bluebear</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Captain_Bluebear.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chester Kahs</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Chester_Kahs.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cillia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Cillia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Donald McRonald</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Donald_McRonald.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dorian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dorian.txt)  
