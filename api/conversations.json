@@ -32677,6 +32677,56 @@
     "name": "A_Confused_Frog",
     "conversation": [
       {
+        "prompt": "ribbit (quest)",
+        "answer": [
+          "Ribbit?!"
+        ]
+      },
+      {
+        "prompt": "kiss",
+        "answer": [
+          "..... ..."
+        ]
+      },
+      {
+        "prompt": "kiss",
+        "answer": [
+          ".... ribbit ... ribbitribbit. <the frog looks at you with sad eyes>"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Err... ribbit?"
+        ]
+      },
+      {
+        "prompt": "Eeny, meeny, miny, moe - ribbit, ribbit head to toe!",
+        "answer": [
+          "........ ...",
+          "Ri..... ...",
+          "Ritual didn't work. RIBBIT?! I can speak the human language again! Ribbit! Well, at least sometimes it seems. Ribbit. And who the heck are you??"
+        ]
+      },
+      {
+        "prompt": "Player",
+        "answer": [
+          "Are you? I see. I saw you poking around here earlier. Ribbit. Well whatever you were trying to do, I'm not sure it was successful. Ribbit. What was that princess thing all about, anyway??"
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "That old fool! He should be locked up with his weird theories and ideas and forced to study some serious magic! Rrrribbit!"
+        ]
+      },
+      {
+        "prompt": "human",
+        "answer": [
+          "You know... being a frog isn't that bad. Ribbit. I don't want to be a human again. I just wish I could get out of this cage and live by a lovely little pond."
+        ]
+      },
+      {
         "prompt": "Assistant",
         "answer": [
           "I don't want to be an assistant anymore. Ribbit. I just want my dream pond."
@@ -32728,12 +32778,6 @@
         "prompt": "Ribbit",
         "answer": [
           "Yeah, you said it. Ribbit. Told you, being a frog isn't that bad, see."
-        ]
-      },
-      {
-        "prompt": "Eclesius",
-        "answer": [
-          "That old fool! He should be locked up with his weird theories and ideas and forced to study some serious magic! Rrrribbit!"
         ]
       },
       {
