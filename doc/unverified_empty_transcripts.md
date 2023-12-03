@@ -490,8 +490,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Red Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Red_Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sherry McRonald</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Sherry_McRonald.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Smaralda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Smaralda.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Thais Northern Dungeon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Thais_Northern_Dungeon)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lugri</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Thais_Northern_Dungeon/Lugri.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Theodora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Theodora.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tim&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Tim,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Underground Isle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Underground_Isle)  

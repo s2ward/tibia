@@ -38558,9 +38558,45 @@
         ]
       },
       {
+        "prompt": "how are you",
+        "answer": [
+          "Fine, thank you for asking - I mean - I revel in the rising tide of evil and darkness that is engulfing this land, and I am loving every minute of it!"
+        ]
+      },
+      {
+        "prompt": "Name",
+        "answer": [
+          "My name is Lugri."
+        ]
+      },
+      {
         "prompt": "Job",
         "answer": [
           "I am a priest of Zathroth, the bringer of dark secrets."
+        ]
+      },
+      {
+        "prompt": "Time",
+        "answer": [
+          "Who cares?"
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "You will soon see the 'news' with your own eyes, so be watchful! <chuckle>"
+        ]
+      },
+      {
+        "prompt": "sell",
+        "answer": [
+          "I'm in the death business. You really wouldn't like what I have to offer."
+        ]
+      },
+      {
+        "prompt": "tibia",
+        "answer": [
+          "The world of Tibia is there to be taken by the strongest. When the time is right, it will fall like an overripe plum..."
         ]
       },
       {
@@ -38570,13 +38606,7 @@
         ]
       },
       {
-        "prompt": "Life",
-        "answer": [
-          "Life is war. It's about survival of the fittest."
-        ]
-      },
-      {
-        "prompt": "Mission / Quest",
+        "prompt": "Mission / Quest / survival / supremacy",
         "answer": [
           "Aren't we all on a quest for survival and supremacy?"
         ]
@@ -38588,33 +38618,33 @@
         ]
       },
       {
+        "prompt": "Life",
+        "answer": [
+          "Life is war. It's about survival of the fittest."
+        ]
+      },
+      {
+        "prompt": "slay",
+        "answer": [
+          "The weak have to be slain by the strong!"
+        ]
+      },
+      {
         "prompt": "Help",
         "answer": [
           "If you cant help yourself you are not worth of my assistance."
         ]
       },
       {
-        "prompt": "People",
+        "prompt": "heal",
+        "answer": [
+          "Your wounds are your problem, not mine."
+        ]
+      },
+      {
+        "prompt": "People / citizen",
         "answer": [
           "The people of Tibia are sheep, so be smart and strong enough to become their wolf."
-        ]
-      },
-      {
-        "prompt": "Name",
-        "answer": [
-          "My name is Lugri."
-        ]
-      },
-      {
-        "prompt": "Tibia",
-        "answer": [
-          "The world of Tibia is to be taken by the strongest."
-        ]
-      },
-      {
-        "prompt": "Time",
-        "answer": [
-          "Who cares?"
         ]
       },
       {
@@ -38648,21 +38678,75 @@
         ]
       },
       {
-        "prompt": "God",
+        "prompt": "ferumbras",
+        "answer": [
+          "He is one of Zathroth's most devoted followers and wields special powers, given to him by the Dark One."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "So many claimed to have found and slain him but they had nothing to prove it."
+        ]
+      },
+      {
+        "prompt": "priest",
+        "answer": [
+          "I'm a servant of the only true God - Zathroth. As such I can also carry out divorces. Just in case you're interested."
+        ]
+      },
+      {
+        "prompt": "divorces",
+        "answer": [
+          "Spreading anguish and divorcing couples are fun leisure activities. Are you married, you fool?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Then let us leave it at that."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "I can divorce you. Just so you know. Is that a spark of interest in your eyes?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Then get lost before I do it anyway."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Sacrifice 10000 gold coins to the great Zathroth and I'll call upon him to break that unholy bond. What do you say?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Then get lost and languish in your misery."
+        ]
+      },
+      {
+        "prompt": "Gods",
         "answer": [
           "The gods of darkness give us the chance to reach our whole potentials, the gods of good want to capture us in eternal stasis!"
         ]
       },
       {
-        "prompt": "Gods Of Darkness",
+        "prompt": "evil / Darkness",
         "answer": [
-          "The glorious gods of darkness are Zathroth, Fafnar, Brog, Urgith, and the Archdemons."
+          "The glorious Gods of Darkness are Zathroth, Fafnar, Brog, Urgith, and the Archdemons. May they be praised!"
         ]
       },
       {
         "prompt": "Zathroth",
         "answer": [
-          "Zathroth represents the true and unbound power of magic. He is the keeper of great secrets."
+          "Zathroth represents the true and unbound power of magic. He is the keeper of Great Secrets."
         ]
       },
       {
@@ -38674,13 +38758,13 @@
       {
         "prompt": "Brog",
         "answer": [
-          "Brog, the raging one, the great destroyer, the berserk of darkness ... call him how you like, but fear his awesome power."
+          "Brog, the Raging One, the Great Destroyer, the Berserker of Darkness ... he has many names, but each inspires fear in the prudent."
         ]
       },
       {
         "prompt": "Urgith",
         "answer": [
-          "Urgith is the master of the undead. The bonemaster also takes care of the damned souls."
+          "Urgith is the master of the undead. The Bonemaster is also patron of damned souls."
         ]
       },
       {
@@ -38704,41 +38788,41 @@
       {
         "prompt": "Pumin",
         "answer": [
-          "He is the lord of despair."
+          "He is the Lord of Despair."
         ]
       },
       {
         "prompt": "Verminor",
         "answer": [
-          "Ah, the plaguelord."
+          "Ah, the Plaguelord."
         ]
       },
       {
         "prompt": "Tafariel",
         "answer": [
-          "She is the mistress of the damned! Rewarding or torturing, it is the same for her victims!"
+          "She is the Mistress of the Damned! Rewarding or torturing, it is the same for her victims!"
         ]
       },
       {
         "prompt": "Apocalypse",
         "answer": [
-          "It is said even speaking its TRUE name will bring total destruction to you!"
+          "It is said even speaking its TRUE name will bring total destruction upon you! <takes a step back from you>"
         ]
       },
       {
         "prompt": "Bazir",
         "answer": [
-          "He is the great deciver, the lord of lies."
+          "He is the Great Deciver, the Lord of Lies."
         ]
       },
       {
         "prompt": "Ashfalor",
         "answer": [
-          "The right hand of Urgith. The general of the undead hordes."
+          "The right hand of Urgith. The general of the Undead Hordes."
         ]
       },
       {
-        "prompt": "Good Or Light",
+        "prompt": "Good / Light",
         "answer": [
           "The so-called Gods of Good are Fardos, Uman, the Elements, Suon, Crunor, Nornur, Bastesh, Kirok, Toth, and Banor."
         ]
@@ -38753,12 +38837,6 @@
         "prompt": "Uman",
         "answer": [
           "Uman is a jealous keeper of magic. He shares only fragments of his knowledge with the mortals. To be strong one must take, not wait to be given, with Gods like that!."
-        ]
-      },
-      {
-        "prompt": "Elements",
-        "answer": [
-          "The Elements are Tibia, Sula, Air and Fire."
         ]
       },
       {
@@ -38788,7 +38866,7 @@
       {
         "prompt": "Kirok",
         "answer": [
-          "Kirok, the mad one, is the patron of scientists and jesters, more a nuisance than a god."
+          "Kirok, the Mad One, is the patron of scientists and jesters, more a nuisance than a God."
         ]
       },
       {
@@ -38804,9 +38882,21 @@
         ]
       },
       {
+        "prompt": "tibiasula",
+        "answer": [
+          "Zathroth took her life, recoginzig it was necessary for the process of creation."
+        ]
+      },
+      {
+        "prompt": "Elements",
+        "answer": [
+          "The Elements are Tibia, Sula, Air and Fire."
+        ]
+      },
+      {
         "prompt": "Tibia",
         "answer": [
-          "The world of Tibia is there to be taken by the strongest. When the time is right, it will fall like an overripe plum..."
+          "Tibia is just the mindless elemental power of earth."
         ]
       },
       {
@@ -38828,9 +38918,86 @@
         ]
       },
       {
+        "prompt": "Donation / gold / money",
+        "answer": [
+          "Do you want to make a donation?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "As you wish."
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "May the gods of darkness bless you!"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Don't be ashamed but you lack the gold."
+        ]
+      },
+      {
+        "prompt": "death to noodles",
+        "answer": [
+          "So, I guess you have brought me a magic crystal?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Fine. Now you get what you deserve, you fool! DIE IN AGONY!"
+        ]
+      },
+      {
+        "prompt": "outfit",
+        "answer": [
+          "You have already proven your loyalty to Zathroth. I have nothing more to give you, Player. Only the Queen of Darkness could... maybe."
+        ]
+      },
+      {
+        "prompt": "Outfit",
+        "answer": [
+          "This skull shows that you are a true follower of Zathroth and the glorious gods of darkness. Are you willing to prove your loyalty?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "It will be a hard task which requires many sacrifices. Do you still want to proceed?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Good decision, <name>. Your first sacrifice will be a medusa shield. Bring it to me and do give it happily."
+        ]
+      },
+      {
+        "prompt": "Medusa shield",
+        "answer": [
+          "Is it your true wish to sacrifice a medusa shield to Zathroth?",
+          "Is it your true wish to sacrifice a dragon scale mail to Zathroth?",
+          "Is it your true wish to sacrifice crown legs to Zathroth?",
+          "Is it your true wish to sacrifice a ring of the sky to Zathroth?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Good. I accept your sacrifice. You have proven that you are a true follower of Zathroth and do not hesitate to sacrifice worldly goods. Thus, I will reward you with this headgear."
+        ]
+      },
+      {
         "prompt": "Task",
         "answer": [
-          "What? Who are you to imply I need help from a worm like you? ..."
+          "What? Who are you to imply I need help from a worm like you? ...",
+          "I don't need help. But if you desperately wish to do something to earn the favour of Zathroth, feel free. Don't expect any reward though. ...",
+          "Do you want to help and serve Zathroth out of your own free will, without demanding payment or recognition?"
         ]
       },
       {
@@ -38842,21 +39009,43 @@
         ]
       },
       {
-        "prompt": "Donation",
+        "prompt": "task",
         "answer": [
-          "Do you want to make a donation?"
+          "You've slain a mere 4000 necromancers and priestesses. Still, you've shown some dedication. Maybe that means you can kill one of those so-called 'leaders' too. ...'",
+          "Deep under Drefia, a necromancer called Necropharus is hiding in the Halls of Sacrifice. I'll place a spell on you with which you will be able to pass his weak protective gate. ...'",
+          "Know that this will be your only chance to enter his room. If you leave it or die, you won't be able to return. We'll see if you really dare enter those halls.'"
         ]
       },
       {
-        "prompt": "Yes",
+        "prompt": "task",
         "answer": [
-          "May the gods of darkness bless you!"
+          "So you had the guts to enter that room. Well, it's all fake magic anyway and no real threat. ...",
+          "What are you looking at me for? Waiting for something? I told you that there was no reward. Despite being allowed to stand before me without being squashed like a bug. Get out of my sight!"
+        ]
+      },
+      {
+        "prompt": "task",
+        "answer": [
+          "You can't live without serving, can you? Although you are quite annoying, you're still somewhat useful. Continue killing Necromancers and Priestesses for me. 1000 are enough this time. What do you say?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good. Then go."
+        ]
+      },
+      {
+        "prompt": "task",
+        "answer": [
+          "You've slain a pitiable x necromancers and priestesses. You're supposed to kill 1000. Now go and spread some pain!"
         ]
       },
       {
         "prompt": "Bye",
         "answer": [
-          "Leave now, Player. The gods of darkness will watch your soul!"
+          "Leave now, Player. The gods of darkness will watch your soul!",
+          "May darkness be with you!"
         ]
       }
     ]
