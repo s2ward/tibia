@@ -36561,19 +36561,7 @@
       {
         "prompt": "hi",
         "answer": [
-          "Hello Player! Welcome to our humble farm."
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I and my husband run this farm."
-        ]
-      },
-      {
-        "prompt": "king or Tibianus",
-        "answer": [
-          "King Tibianus granted us this farm to earn a living."
+          "Hello Player! Welcome to our humble farm. If you need food, just ask me for a trade."
         ]
       },
       {
@@ -36583,9 +36571,45 @@
         ]
       },
       {
+        "prompt": "job",
+        "answer": [
+          "I and my husband run this farm."
+        ]
+      },
+      {
         "prompt": "time",
         "answer": [
           "Sorry, I don't have a watch."
+        ]
+      },
+      {
+        "prompt": "offer / buy / food / sell / wares / goods / equpiment",
+        "answer": [
+          "I can offer you cheese, cherries, pumpkins and melons. I also buy bread. If you'd like to see my offers, ask me for a trade."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Of course, just browse through my wares."
+        ]
+      },
+      {
+        "prompt": "husband",
+        "answer": [
+          "My husband Donald is busy on the fields almost all night and day."
+        ]
+      },
+      {
+        "prompt": "weather",
+        "answer": [
+          "The weather is the best friend and the worst enemy of a farmer."
+        ]
+      },
+      {
+        "prompt": "farm",
+        "answer": [
+          "It is a hard work, but the city needs us."
         ]
       },
       {
@@ -36601,43 +36625,37 @@
         ]
       },
       {
-        "prompt": "mill",
-        "answer": [
-          "The miller is a lazy fellow and afraid of his own mill, because he thinks it is spooked."
-        ]
-      },
-      {
-        "prompt": "monsters or spider",
-        "answer": [
-          "Spiders infested the sewers beneath our farm. We need some help to exterminate them. My husband pays a reward for killed spiders."
-        ]
-      },
-      {
-        "prompt": "buy",
-        "answer": [
-          "I can offer you cheese, cherries, and melons."
-        ]
-      },
-      {
-        "prompt": "farm",
-        "answer": [
-          "It is a hard work, but the city needs us."
-        ]
-      },
-      {
-        "prompt": "husband",
-        "answer": [
-          "My husband Donald is busy on the fields almost all night and day."
-        ]
-      },
-      {
         "prompt": "fields",
         "answer": [
           "The druids helped us by placing a blessing on our fields."
         ]
       },
       {
-        "prompt": "Elane",
+        "prompt": "mill",
+        "answer": [
+          "The miller is a lazy fellow and afraid of his own mill, because he thinks it is spooked."
+        ]
+      },
+      {
+        "prompt": "spooked",
+        "answer": [
+          "I don't know for sure. The miller claims that his mill is threatened by some monsters sometimes."
+        ]
+      },
+      {
+        "prompt": "king / Tibianus",
+        "answer": [
+          "King Tibianus granted us this farm to earn a living."
+        ]
+      },
+      {
+        "prompt": "monsters / spider / help",
+        "answer": [
+          "Spiders infested the sewers beneath our farm. We need some help to exterminate them. My husband pays a reward for killed spiders."
+        ]
+      },
+      {
+        "prompt": "Elane / gregor / marvik / muriel",
         "answer": [
           "We a mere peasants and don't know much about the guild leaders."
         ]
@@ -36655,27 +36673,21 @@
         ]
       },
       {
-        "prompt": "Gregor",
-        "answer": [
-          "We a mere peasants and don't know much about the guild leaders."
-        ]
-      },
-      {
         "prompt": "Lynda",
         "answer": [
           "She is sooo charming. I can't believe she is not married yet! Have you met her?"
         ]
       },
       {
-        "prompt": "Muriel",
-        "answer": [
-          "We a mere peasants and don't know much about the guild leaders."
-        ]
-      },
-      {
         "prompt": "Oswald",
         "answer": [
           "This lazy fellow has nothing better to do than to spread rumours."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "He is an impressive warrior as far as I can tell."
         ]
       },
       {
@@ -36691,9 +36703,40 @@
         ]
       },
       {
+        "prompt": "eclesius",
+        "answer": [
+          "Oh, he's a nice old man. He often comes and buys our goods. I haven't seen him since a while though."
+        ]
+      },
+      {
+        "prompt": "lynda",
+        "answer": [
+          "She is sooo charming. I can't believe she is not married yet! Have you met her?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Oh, if you say so."
+        ]
+      },
+      {
+        "prompt": "yes (female)",
+        "answer": [
+          "She really should find a husband with ease! If you know a bachelor, introduce him to her."
+        ]
+      },
+      {
+        "prompt": "yes (male)",
+        "answer": [
+          "She really should find a husband with ease! You should ask her for a date."
+        ]
+      },
+      {
         "prompt": "bye",
         "answer": [
-          "Grace our home with another visit soon"
+          "Grace our home with another visit soon, Player.",
+          "What a strange person."
         ]
       }
     ]
