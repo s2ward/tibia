@@ -1,5 +1,21 @@
-NPC: A Confused Frog  
-Note: Conversation only possible during the mission (The Scatterbrained Sorcerer Quest).  
+Player: ribbit (quest)
+A Confused Frog: Ribbit?!
+Player: kiss
+A Confused Frog: ..... ...
+Player: kiss
+A Confused Frog: .... ribbit ... ribbitribbit. <the frog looks at you with sad eyes>
+Player: hi
+A confused frog: Err... ribbit?
+Player: Eeny, meeny, miny, moe - ribbit, ribbit head to toe!
+A confused frog: ........ ...
+A confused frog: Ri..... ...
+A confused frog: Ritual didn't work. RIBBIT?! I can speak the human language again! Ribbit! Well, at least sometimes it seems. Ribbit. And who the heck are you??
+Player: Player
+A confused frog: Are you? I see. I saw you poking around here earlier. Ribbit. Well whatever you were trying to do, I'm not sure it was successful. Ribbit. What was that princess thing all about, anyway??
+Player: eclesius
+A confused frog: That old fool! He should be locked up with his weird theories and ideas and forced to study some serious magic! Rrrribbit!
+Player: human
+A confused frog: You know... being a frog isn't that bad. Ribbit. I don't want to be a human again. I just wish I could get out of this cage and live by a lovely little pond.
 Player: Assistant  
 A Confused Frog: I don't want to be an assistant anymore. Ribbit. I just want my dream pond.  
 Player: Kiss  
@@ -18,8 +34,6 @@ Player: Frog
 A Confused Frog: You know... being a frog isn't that bad. Ribbit. I don't want to be a human again. I just wish I could get out of this cage and live by a lovely little pond.  
 Player: Ribbit  
 A Confused Frog: Yeah, you said it. Ribbit. Told you, being a frog isn't that bad, see.  
-Player: Eclesius  
-A Confused Frog: That old fool! He should be locked up with his weird theories and ideas and forced to study some serious magic! Rrrribbit!  
 Player: Pond  
 A Confused Frog: I like the pond north of Thais. It's a really cosy place. Not just for humans, but especially for frogs. Ribbit.  
 Player: Bye  
