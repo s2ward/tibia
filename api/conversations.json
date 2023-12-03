@@ -31793,21 +31793,21 @@
     "name": "Aruda",
     "conversation": [
       {
-        "prompt": "hi",
+        "prompt": "hi (male)",
         "answer": [
-          "Oh, hello, handsome! It's a pleasure to meet you, Player. Gladly I have the time to chat a bit."
+          "Oh, hello, handsome! It's a pleasure to meet you Player. Gladly I have the time to chat a bit."
         ]
       },
       {
-        "prompt": "name",
+        "prompt": "hi (female)",
         "answer": [
-          "I'm a little sad that you seem to have forgotten me, handsome. I'm Aruda."
+          "Oh, hello Player your hair looks great! Who did it for you? Gladly I have the time to chat a bit."
         ]
       },
       {
-        "prompt": "help",
+        "prompt": "(any word)",
         "answer": [
-          "I'm deeply sorry, I can't help you."
+          "I would never have guessed that."
         ]
       },
       {
@@ -31817,9 +31817,33 @@
         ]
       },
       {
-        "prompt": "chat or job",
+        "prompt": "job",
         "answer": [
           "I do some work now and then. Nothing unusual, though. So I have plenty time to chat. If you are interested in any topic just ask me."
+        ]
+      },
+      {
+        "prompt": "name (male)",
+        "answer": [
+          "I am a little sad, that you seem to have forgotten me, handsome. I am Aruda."
+        ]
+      },
+      {
+        "prompt": "aruda (male)",
+        "answer": [
+          "Oh, I like it, how you say my name."
+        ]
+      },
+      {
+        "prompt": "name (female)",
+        "answer": [
+          "I'm Aruda."
+        ]
+      },
+      {
+        "prompt": "aruda (female)",
+        "answer": [
+          "Yes, that's me!"
         ]
       },
       {
@@ -31829,33 +31853,39 @@
         ]
       },
       {
-        "prompt": "rumors or rumours",
+        "prompt": "time",
         "answer": [
-          "I'm a little shy and so I don't hear many rumours"
+          "Please don't be so rude to look for the time if you are talking to me."
         ]
       },
       {
-        "prompt": "gods",
+        "prompt": "sell",
         "answer": [
-          "You should ask about that in one of the temples."
+          "Sorry, I have nothing to sell."
         ]
       },
       {
-        "prompt": "Yenny",
+        "prompt": "help",
         "answer": [
-          "Yenny? I know no Yenny, nor have I ever used that name! You must have mistaken me with someone else. (leaves the discussion)"
+          "I'm deeply sorry, I can't help you."
         ]
       },
       {
-        "prompt": "thief",
+        "prompt": "thief / theft",
         "answer": [
-          "Oh sorry, I have to hurry, bye! (leaves the discussion)"
+          "Oh sorry, I have to hurry, bye!"
         ]
       },
       {
-        "prompt": "dogs",
+        "prompt": "chat",
         "answer": [
-          "I like dogs, the little ones at least. Do you like dogs, too?"
+          "I do some work now and then. Nothing unusual, though. So I have plenty time to chat. If you are interested in any topic just ask me."
+        ]
+      },
+      {
+        "prompt": "tibia",
+        "answer": [
+          "I'd like to visit the beach more often, but I guess it's too dangerous."
         ]
       },
       {
@@ -31871,111 +31901,184 @@
         ]
       },
       {
-        "prompt": "kiss",
-        "answer": [
-          "Oh, you little devil, stop talking about that! <blush>"
-        ]
-      },
-      {
-        "prompt": "Aruda",
-        "answer": [
-          "Oh, I like the way you say my name."
-        ]
-      },
-      {
-        "prompt": "Benjamin",
-        "answer": [
-          "He is a little simple minded but always nice and well dressed."
-        ]
-      },
-      {
-        "prompt": "Bozo",
-        "answer": [
-          "Oh, isn't he funny? I could listen to him the whole day."
-        ]
-      },
-      {
-        "prompt": "Eclesius",
-        "answer": [
-          "He often passes me on the way to Frodo's."
-        ]
-      },
-      {
-        "prompt": "Elane",
-        "answer": [
-          "I personally think it's inappropriate for a woman to become a warrior, what do you think about that?"
-        ]
-      },
-      {
-        "prompt": "Frodo",
-        "answer": [
-          "Oh, a girl like me shouldn't go to this place."
-        ]
-      },
-      {
-        "prompt": "Gorn",
-        "answer": [
-          "He should really sell some stylish gowns or something like that. We Tibians never get some clothing of the latest fashion. It's a shame."
-        ]
-      },
-      {
-        "prompt": "Gregor",
-        "answer": [
-          "I like brave fighters like him."
-        ]
-      },
-      {
-        "prompt": "Marvik",
-        "answer": [
-          "Druids seldom visit a town. What do you know about druids?"
-        ]
-      },
-      {
-        "prompt": "Muriel",
-        "answer": [
-          "Powerful sorcerers frighten me a little."
-        ]
-      },
-      {
-        "prompt": "Noodles",
+        "prompt": "noodles",
         "answer": [
           "Oh, he is sooooo cute!"
         ]
       },
       {
-        "prompt": "Oswald",
+        "prompt": "dogs / poodles",
         "answer": [
-          "As far as I know, he's working in the castle."
+          "I like dogs, the little ones at least. Do you like dogs, too?"
         ]
       },
       {
-        "prompt": "Partos",
+        "prompt": "monster / dungeon",
         "answer": [
-          "I ... don't know someone named like that."
+          "UH! What a terrifying topic. Please let us speak about something more pleasant, I'm a weak and small woman after all."
         ]
       },
       {
-        "prompt": "Quentin",
+        "prompt": "sewer",
         "answer": [
-          "I don't understand this lonely monks. I love company too much to become one. Hehehe!"
+          "What gives you the impression that I'm the kind of women you find in sewers?"
         ]
       },
       {
-        "prompt": "Sam",
+        "prompt": "god",
+        "answer": [
+          "You should ask about that in one of the temples."
+        ]
+      },
+      {
+        "prompt": "rumour / rumor / gossip",
+        "answer": [
+          "I'm a little shy and so I don't hear many rumours"
+        ]
+      },
+      {
+        "prompt": "frodo",
+        "answer": [
+          "Oh, a girl like me shouldn't go to this place."
+        ]
+      },
+      {
+        "prompt": "sam (male)",
         "answer": [
           "He is soooo strong! What muscles! What a body! On the other hand, compared to you he looks quite puny."
         ]
       },
       {
-        "prompt": "Tibia",
+        "prompt": "sam (female)",
         "answer": [
-          "I'd like to visit the beach more often, but I guess it's too dangerous."
+          "He is soooo strong! What muscles! What a body! Did you ask him for a date?"
         ]
       },
       {
-        "prompt": "monsters",
+        "prompt": "benjamin",
         "answer": [
-          "UH! What a terrifying topic. Please let us speak about something more pleasant, I'm a weak and small woman after all."
+          "He is a little simple minded but always nice and well dressed."
+        ]
+      },
+      {
+        "prompt": "gorn",
+        "answer": [
+          "He should really sell some stylish gowns or something like that. We Tibians never get some clothing of the latest fashion. It's a shame."
+        ]
+      },
+      {
+        "prompt": "quentin",
+        "answer": [
+          "I don't understand this lonely monks. I love company too much to become one. Hehehe!"
+        ]
+      },
+      {
+        "prompt": "bozo",
+        "answer": [
+          "Oh, isn't he funny? I could listen to him the whole day."
+        ]
+      },
+      {
+        "prompt": "oswald",
+        "answer": [
+          "As far as I know, he's working in the castle."
+        ]
+      },
+      {
+        "prompt": "muriel",
+        "answer": [
+          "Powerful sorcerers frighten me a little."
+        ]
+      },
+      {
+        "prompt": "elane",
+        "answer": [
+          "I personally think it's inappropriate for a woman to become a warrior, what do you think about that?"
+        ]
+      },
+      {
+        "prompt": "marvik",
+        "answer": [
+          "Druids seldom visit a town. What do you know about druids?"
+        ]
+      },
+      {
+        "prompt": "gregor",
+        "answer": [
+          "I like brave fighters like him."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "He often passes me on the way to Frodo's."
+        ]
+      },
+      {
+        "prompt": "weapon",
+        "answer": [
+          "I know only little about weapons. Can you tell me something about them, please?"
+        ]
+      },
+      {
+        "prompt": "magic",
+        "answer": [
+          "I believe that love is stronger than magic, don't you agree?"
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "If you'd ask me - what you just did - it's only a myth."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "Oh, I am just a girl and know nothing about magic swords and such things."
+        ]
+      },
+      {
+        "prompt": "yenny",
+        "answer": [
+          "Yenny? I know no Yenny, nor have I ever used that name! You must have mistaken me with someone else. (idle)"
+        ]
+      },
+      {
+        "prompt": "partos",
+        "answer": [
+          "I ... don't know someone named like that."
+        ]
+      },
+      {
+        "prompt": "spouse / girlfriend",
+        "answer": [
+          "Well ... I have met him for a little while .. but this was nothing serious."
+        ]
+      },
+      {
+        "prompt": "fruit",
+        "answer": [
+          "I remember that grapes were his favourites. He was almost addicted to them."
+        ]
+      },
+      {
+        "prompt": "kiss (male)",
+        "answer": [
+          "Oh, you little devil, stop talking about that! <blush>"
+        ]
+      },
+      {
+        "prompt": "kiss (female)",
+        "answer": [
+          "Uhm, let's change the subject, please."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye, Player I really hope we'll talk again soon.",
+          "I hope to see you soon."
         ]
       }
     ]
