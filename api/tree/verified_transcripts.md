@@ -555,6 +555,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eclesius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Eclesius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edgar-Ellen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Edgar-Ellen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edowir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Edowir.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Elane.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eddy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Eddy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Simon the Beggar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Simon_the_Beggar.txt)  
