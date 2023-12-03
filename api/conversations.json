@@ -30483,6 +30483,30 @@
     "name": "Gregor",
     "conversation": [
       {
+        "prompt": "hi (knight)",
+        "answer": [
+          "Welcome home, Knight Player!"
+        ]
+      },
+      {
+        "prompt": "hi (other vocations)",
+        "answer": [
+          "Greetings, Player. What do you want?"
+        ]
+      },
+      {
+        "prompt": "Name",
+        "answer": [
+          "You are joking, eh? Of course, you know me. I am Gregor, the first knight."
+        ]
+      },
+      {
+        "prompt": "gregor",
+        "answer": [
+          "A great name, isn't it?"
+        ]
+      },
+      {
         "prompt": "Job",
         "answer": [
           "I am the first knight. I trained some of the greatest heroes of Tibia."
@@ -30495,27 +30519,15 @@
         ]
       },
       {
-        "prompt": "King",
+        "prompt": "Time",
         "answer": [
-          "Hail to our King!"
+          "It is time to join the Knights!"
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "news",
         "answer": [
-          "You are joking, eh? Of course, you know me. I am Gregor, the first knight."
-        ]
-      },
-      {
-        "prompt": "Gregor",
-        "answer": [
-          "A great name, isn't it?"
-        ]
-      },
-      {
-        "prompt": "Spell",
-        "answer": [
-          "I have spells for all magic levels up to level 3. In what level do you want to learn a spell?"
+          "Times of war are at hand."
         ]
       },
       {
@@ -30525,15 +30537,57 @@
         ]
       },
       {
-        "prompt": "Time",
+        "prompt": "King / tibianus",
         "answer": [
-          "It is time to join the Knights!"
+          "Hail to our King!"
+        ]
+      },
+      {
+        "prompt": "army",
+        "answer": [
+          "I personally taught many of the guards."
+        ]
+      },
+      {
+        "prompt": "general",
+        "answer": [
+          "General Harkath Bloodblade, a rolemodel."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "One of Tibia's greatest warriors and strategists."
+        ]
+      },
+      {
+        "prompt": "Spell",
+        "answer": [
+          "I have spells for all magic levels up to level 3. In what level do you want to learn a spell?"
+        ]
+      },
+      {
+        "prompt": "spell",
+        "answer": [
+          "Sorry, I don't teach spells for your vocation."
+        ]
+      },
+      {
+        "prompt": "vocation",
+        "answer": [
+          "Your vocation is your profession. There are four vocations in Tibia: Knights, paladins, sorcerers, and druids."
         ]
       },
       {
         "prompt": "Knights",
         "answer": [
           "Knights are the warriors of Tibia. Without us, no one would be safe. Every brave and strong man or woman can join us."
+        ]
+      },
+      {
+        "prompt": "spellbook",
+        "answer": [
+          "In a spellbook, your spells are listed. There you will find the pronunciation of each spell. If you want to buy one, visit Muriel, the sorcerer."
         ]
       },
       {
@@ -30557,7 +30611,7 @@
       {
         "prompt": "Gorn",
         "answer": [
-          "Always concerned with his profit. What a loss! He was adventuring with baxter in the old days."
+          "Always concerned with his profit. What a loss! He was adventuring with Baxter in the old days."
         ]
       },
       {
@@ -30573,7 +30627,7 @@
         ]
       },
       {
-        "prompt": "McRonald",
+        "prompt": "McRonald / sherry / donald",
         "answer": [
           "Peaceful farmers."
         ]
@@ -30588,6 +30642,12 @@
         "prompt": "Muriel",
         "answer": [
           "Bah, go away with these sorcerer tricks. Only cowards use tricks."
+        ]
+      },
+      {
+        "prompt": "marvik",
+        "answer": [
+          "Old Marvik saved life and limb of many of my boys and girls."
         ]
       },
       {
@@ -30609,9 +30669,139 @@
         ]
       },
       {
-        "prompt": "Tibianus",
+        "prompt": "eclesius",
         "answer": [
-          "Hail to our King!"
+          "Now what would I have to do with a sorcerer? I have no need to talk to sorcerers."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "If he had some guts he would fight for what he's talking about."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "A fine game to hunt. But be careful, he cheats!"
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "Many brave warriors died on the quest to find that fabled weapon."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "I heard he moved to a dungeon."
+        ]
+      },
+      {
+        "prompt": "behemoth fangs",
+        "answer": [
+          "You're not serious asking that, are you? They come from behemoths, of course. Unless there are behemoth rabbits. Duh."
+        ]
+      },
+      {
+        "prompt": "ramsay the reckless",
+        "answer": [
+          "These pesky apes steal everything they can get their dirty hands on."
+        ]
+      },
+      {
+        "prompt": "warriors sweat",
+        "answer": [
+          "Warrior's sweat can be magically extracted from headgear worn by a true warrior, but only in small amounts. Djinns are said to be good at magical extractions."
+        ]
+      },
+      {
+        "prompt": "royal steel",
+        "answer": [
+          "Royal steel can only be refined by very skilled smiths."
+        ]
+      },
+      {
+        "prompt": "adorned helmet / outfit (quest)",
+        "answer": [
+          "Only the bravest warriors may wear adorned helmets. They are traditionally awarded after having completed a difficult task for our guild."
+        ]
+      },
+      {
+        "prompt": "task",
+        "answer": [
+          "You've already completed the task and can consider yourself a mighty warrior, Player."
+        ]
+      },
+      {
+        "prompt": "Task",
+        "answer": [
+          "You mean, you would like to prove that you deserve to wear such a helmet?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Well then, listen closely. First, you will have to prove that you are a fierce and restless warrior by bringing me 100 perfect behemoth fangs. ...",
+          "Secondly, please retrieve a helmet for us which has been lost a long time ago. The famous Ramsay the Reckless wore it when exploring an ape settlement. ...",
+          "Third, we need a new flask of warrior's sweat. We've run out of it recently, but we need a small amount for the show battles in our arena. ...",
+          "Lastly, I will have our smith refine your helmet if you bring me royal steel, an especially noble metal. ...",
+          "Did you understand everything I told you and are willing to handle this task?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Alright then. Come back to me once you have collected 100 perfect behemoth fangs."
+        ]
+      },
+      {
+        "prompt": "Behemoth fangs",
+        "answer": [
+          "Have you really managed to fulfil the task and brought me 100 perfect behemoth fangs?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "I'm deeply impressed, (brave Knight) Player. (Even if you are not a knight, you certainly possess knight qualities.) Now, please retrieve Ramsay's helmet."
+        ]
+      },
+      {
+        "prompt": "Ramsay the Reckless Helmet",
+        "answer": [
+          "Did you recover the helmet of Ramsay the Reckless?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Good work, (brave Knight) Player! Even though it is damaged, it has a lot of sentimental value. Now, please bring me warrior's sweat."
+        ]
+      },
+      {
+        "prompt": "Warrior's sweat",
+        "answer": [
+          "Were you able to get hold of a flask with pure warrior's sweat?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Now that is a pleasant surprise, (brave Knight) Player! There is only one task left now: Obtain royal steel to have your helmet refined."
+        ]
+      },
+      {
+        "prompt": "Royal steel",
+        "answer": [
+          "Ah, have you brought the royal steel?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "You truly deserve to wear an adorned helmet, (brave Knight) Player. Please talk to Sam and tell him I sent you. I'm sure he will be glad to refine your helmet."
         ]
       },
       {
