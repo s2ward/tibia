@@ -6,7 +6,6 @@
 
 .&nbsp;&nbsp;─&nbsp;&nbsp;<strong>Ab'Dendriel</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Seagull</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Captain_Seagull.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Skeleton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Demon_Skeleton.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Faluae</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Faluae.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Finarfin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Finarfin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hellgate</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate)  

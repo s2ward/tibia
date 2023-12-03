@@ -9,7 +9,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brasith</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Brasith.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Briasol</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Briasol.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Seagull</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Captain_Seagull.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Skeleton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Demon_Skeleton.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Edala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elvith</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Elvith.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eroth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Eroth.txt)  
