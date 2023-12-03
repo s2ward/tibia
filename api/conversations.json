@@ -100088,7 +100088,14 @@
   {
     "file": "npc/Ab'Dendriel/Demon_Skeleton.txt",
     "name": "Demon_Skeleton",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Ab'Dendriel/Bashira.txt",
