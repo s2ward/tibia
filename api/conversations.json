@@ -31516,45 +31516,9 @@
         ]
       },
       {
-        "prompt": "Army",
+        "prompt": "hi (druid)",
         "answer": [
-          "I don't care about armies."
-        ]
-      },
-      {
-        "prompt": "Job",
-        "answer": [
-          "I am the chief druid. I am responsible for all members."
-        ]
-      },
-      {
-        "prompt": "Druid",
-        "answer": [
-          "I am a druid. Druids concentrate their magic on defence, healing, and nature."
-        ]
-      },
-      {
-        "prompt": "Magic / Power",
-        "answer": [
-          "Everyone who joins the Druids has the opportunity to learn many magic spells."
-        ]
-      },
-      {
-        "prompt": "Spells",
-        "answer": [
-          "Sorry, I only sell spells to druids."
-        ]
-      },
-      {
-        "prompt": "Members",
-        "answer": [
-          "Our members use their magic power to protect their life and the life of other creatures."
-        ]
-      },
-      {
-        "prompt": "Ng / Tibianus",
-        "answer": [
-          "Kings come and go."
+          "Nice to see you, Player! I guess you are looking for new spells."
         ]
       },
       {
@@ -31570,9 +31534,45 @@
         ]
       },
       {
+        "prompt": "Job",
+        "answer": [
+          "I am the chief druid. I am responsible for all members."
+        ]
+      },
+      {
         "prompt": "Time",
         "answer": [
           "Eh, I haven't seen daylight for a long time. So, don't ask me, what time it is."
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "Why are you so concerned with news if you haven't even understood the old things you know?"
+        ]
+      },
+      {
+        "prompt": "King / Tibianus",
+        "answer": [
+          "Kings come and go."
+        ]
+      },
+      {
+        "prompt": "Army / general",
+        "answer": [
+          "I don't care about armies."
+        ]
+      },
+      {
+        "prompt": "Magic / Power",
+        "answer": [
+          "Everyone who joins the Druids has the opportunity to learn many magic spells."
+        ]
+      },
+      {
+        "prompt": "Druid",
+        "answer": [
+          "I am a druid. Druids concentrate their magic on defence, healing, and nature."
         ]
       },
       {
@@ -31582,21 +31582,33 @@
         ]
       },
       {
-        "prompt": "Excalibug",
+        "prompt": "Spells",
         "answer": [
-          "Even in my visions, I couldn't get any enlightenment about the whereabouts of this weapon of legend."
+          "Sorry, I only sell spells to druids."
         ]
       },
       {
-        "prompt": "Ferumbras",
+        "prompt": "Members",
         "answer": [
-          "A misguided follower of evil."
+          "Our members use their magic power to protect their life and the life of other creatures."
         ]
       },
       {
         "prompt": "Crunor",
         "answer": [
           "Crunor, the eternal tree, is more than nature. Even more as the sum of each part of nature."
+        ]
+      },
+      {
+        "prompt": "crunors caress",
+        "answer": [
+          "It was a small order of druids in the past. Their followers wanted the druids to become more involved with the daily affairs of men."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "A confused magician living outside of the city walls. I never talked to him."
         ]
       },
       {
@@ -31612,7 +31624,7 @@
         ]
       },
       {
-        "prompt": "Donald McRonald",
+        "prompt": "McRonald / sherry / donald",
         "answer": [
           "The McRonalds are true believers."
         ]
@@ -31681,6 +31693,18 @@
         "prompt": "Lugri",
         "answer": [
           "A misguided soul who lost the path in the darkness."
+        ]
+      },
+      {
+        "prompt": "Excalibug",
+        "answer": [
+          "Even in my visions, I couldn't get any enlightenment about the whereabouts of this weapon of legend."
+        ]
+      },
+      {
+        "prompt": "Ferumbras",
+        "answer": [
+          "A misguided follower of evil."
         ]
       },
       {
