@@ -1,3 +1,5 @@
+Player: hi
+Theodora: You already got your share!
 Player: Hi  
 Theodora: I can see you collected some Theons. I may have something for you.  
 Player: Something  

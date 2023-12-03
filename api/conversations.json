@@ -30960,6 +30960,12 @@
     "name": "Theodora",
     "conversation": [
       {
+        "prompt": "hi",
+        "answer": [
+          "You already got your share!"
+        ]
+      },
+      {
         "prompt": "Hi",
         "answer": [
           "I can see you collected some Theons. I may have something for you."
