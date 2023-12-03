@@ -593,6 +593,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oswald</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Oswald.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Palomino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Palomino.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Partos</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Partos.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Prisoner.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Quentin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Quentin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Quero</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Quero.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Robin.txt)  
