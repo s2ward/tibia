@@ -573,6 +573,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Henricus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Henricus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hoaxette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hoaxette.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">King Tibianus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/King_Tibianus.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Loria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Loria.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Miles&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Miles,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mintwallin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Prisoner</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Mintwallin/A_Prisoner.txt)  

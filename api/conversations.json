@@ -34812,15 +34812,15 @@
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "Name",
         "answer": [
-          "I am studying the power of magic all the time."
+          "I am Loria, a former apprentice of Alatar, the Sage."
         ]
       },
       {
-        "prompt": "Magic",
+        "prompt": "Job",
         "answer": [
-          "I could tell you much about all sorcerer spells, but you won't understand it. Anyway, feel free to ask me."
+          "I am studying the power of magic all the time."
         ]
       },
       {
@@ -34830,9 +34830,9 @@
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "Alatar",
         "answer": [
-          "I am Loria, a former apprentice of Alatar, the Sage."
+          "Well, he was my great master. He taught me all these fantastic things about magic. I really miss him."
         ]
       },
       {
@@ -34842,15 +34842,27 @@
         ]
       },
       {
-        "prompt": "Alatar",
+        "prompt": "praise alatar",
         "answer": [
-          "Well, he was my great master. He taught me all these fantastic things about magic. I really miss him."
+          "I praise my master Alatar."
+        ]
+      },
+      {
+        "prompt": "buy",
+        "answer": [
+          "I don't care for money, I care for magic."
         ]
       },
       {
         "prompt": "Power",
         "answer": [
           "Although your attack spells get stronger with your usage of magic, real power is gained by finding strategies to properly use your magic abilities."
+        ]
+      },
+      {
+        "prompt": "kill",
+        "answer": [
+          "Killing and destruction are just foolish steaps to entrophy."
         ]
       },
       {
@@ -34878,15 +34890,9 @@
         ]
       },
       {
-        "prompt": "Spell",
+        "prompt": "magic crystal",
         "answer": [
-          "Oh, I can tell you a lot about all sorcerer spells. Feel free to ask me about the spell name or the formula to cast it."
-        ]
-      },
-      {
-        "prompt": "Formula Mana",
-        "answer": [
-          "Mana is the source of all magic. If you use spells, it will drain mana from your energy pool. This mana regenerates slowly, if you eat, or if you drink those mana potions you can buy at Xodet's"
+          "The mystic crystal should be able to resurrect fresh corpses.."
         ]
       },
       {
@@ -34905,6 +34911,48 @@
         "prompt": "Muriel",
         "answer": [
           "He runs his magic shop in the southwest of the city. He sells runes and spells and helps you, if you want to become a sorcerer."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "It's told that some hero killed him and absorbed his power."
+        ]
+      },
+      {
+        "prompt": "Magic",
+        "answer": [
+          "I could tell you much about all sorcerer spells, but you won't understand it. Anyway, feel free to ask me."
+        ]
+      },
+      {
+        "prompt": "magic",
+        "answer": [
+          "Oh, I can tell you a lot about all sorcerer spells. Feel free to ask me about the spell name or the formula to cast it."
+        ]
+      },
+      {
+        "prompt": "Mana",
+        "answer": [
+          "Mana is the source of all magic. If you use spells, it will drain mana from your energy pool. This mana regenerates slowly, if you eat, or if you drink those mana potions you can buy at Xodet's"
+        ]
+      },
+      {
+        "prompt": "formula",
+        "answer": [
+          "Which is the spell you need the formula to?"
+        ]
+      },
+      {
+        "prompt": "(light healing, etc)",
+        "answer": [
+          "Say the words: exura (etc)"
+        ]
+      },
+      {
+        "prompt": "Spell",
+        "answer": [
+          "Oh, I can tell you a lot about all sorcerer spells. Feel free to ask me about the spell name or the formula to cast it."
         ]
       },
       {
@@ -34956,33 +35004,27 @@
         ]
       },
       {
+        "prompt": "Energy Field",
+        "answer": [
+          "This one will create a field of energy. Everyone stepping in will be struck from lightning. This field will not last as long as poison or fire fields, but it is more deadly."
+        ]
+      },
+      {
         "prompt": "Heavy Magic Missile",
         "answer": [
           "Remember the spell where you only got to wave your hand? Well, wave it twice and shoot a heavy magic missile at your enemy. This spell will create a rune with five charges."
         ]
       },
       {
-        "prompt": "Magic Shield",
+        "prompt": "magic shield",
         "answer": [
-          "I could tell you much about all sorcerer spells, but you won't understand it. Anyway, feel free to ask me."
+          "Well, mages are more bookworms than sportsmen, and as such often neglect their physical fitness. In ancient tomes lies the power to use mana as an equivalent to life. So use this spell to survive."
         ]
       },
       {
         "prompt": "Fireball",
         "answer": [
           "A perfect symbiosis of fire and wind. More is not to be said about this spell. Use this fireball as a warning or as your defence, but don't burn your fingers."
-        ]
-      },
-      {
-        "prompt": "Magicshield",
-        "answer": [
-          "I could tell you much about all sorcerer spells, but you won't understand it. Anyway, feel free to ask me."
-        ]
-      },
-      {
-        "prompt": "Energy Field",
-        "answer": [
-          "This one will create a field of energy. Everyone stepping in will be struck from lightning. This field will not last as long as poison or fire fields, but it is more deadly."
         ]
       },
       {
@@ -35010,7 +35052,7 @@
         ]
       },
       {
-        "prompt": "Firebomb",
+        "prompt": "Firebomb / fire bomb",
         "answer": [
           "With a snip of your finger you can cover the floor with a burning carpet that keeps on burning for a while."
         ]
@@ -35022,15 +35064,33 @@
         ]
       },
       {
+        "prompt": "firewall / Fire wall",
+        "answer": [
+          "As the poison wall, this spell creates an even larger wall of fire, burning everyone who passes."
+        ]
+      },
+      {
+        "prompt": "Energy Wall",
+        "answer": [
+          "Attracts lightning bolts from the sky, to form a giant wall, seriously damaging everyone who passes."
+        ]
+      },
+      {
+        "prompt": "energybeam",
+        "answer": [
+          "A ray of energy will strike everyone in your current direction"
+        ]
+      },
+      {
         "prompt": "Explosion",
         "answer": [
           "A strong blast of fire wounds the opponent you point at, and the adjacent squares."
         ]
       },
       {
-        "prompt": "Firewall",
+        "prompt": "energy wave",
         "answer": [
-          "As the poison wall, this spell creates an even larger wall of fire, burning everyone who passes."
+          "Shoots a triangular bundle of lightning bolts in the direction you look."
         ]
       },
       {
@@ -35052,9 +35112,9 @@
         ]
       },
       {
-        "prompt": "Energy Wall",
+        "prompt": "creature illusion",
         "answer": [
-          "Attracts lightning bolts from the sky, to form a giant wall, seriously damaging everyone who passes."
+          "A good one to scare children. You can change your appearance to any monster. You can be as handsome as a ghoul!"
         ]
       },
       {
@@ -35067,12 +35127,6 @@
         "prompt": "Ultimate Explosion",
         "answer": [
           "A strong blast of fire wounds the opponent you point at, and the adjacent squares."
-        ]
-      },
-      {
-        "prompt": "Crystals",
-        "answer": [
-          "The mystic crystal should be able to resurrect fresh corpses.."
         ]
       },
       {
