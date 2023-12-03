@@ -191,7 +191,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paulette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Paulette.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pig</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Pig.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Quentin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Quentin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Quero</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Quero.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Red Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Red_Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Smaralda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Smaralda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Theodora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Theodora.txt)  

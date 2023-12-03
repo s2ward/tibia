@@ -36949,21 +36949,27 @@
         ]
       },
       {
+        "prompt": "Name",
+        "answer": [
+          "My name is Quero."
+        ]
+      },
+      {
         "prompt": "Job",
         "answer": [
           "I make instruments and sometimes I'm wandering through the lands of Tibia as a bard."
         ]
       },
       {
-        "prompt": "Instruments",
+        "prompt": "Time",
         "answer": [
-          "You can buy a lyre, lute, drum, and simple fanfare."
+          "Sorry, I don't know what time it is."
         ]
       },
       {
-        "prompt": "Bard",
+        "prompt": "offer / instruments",
         "answer": [
-          "Selling instruments isn't enough to live on and I love music. That's why I wander through the lands from time to time."
+          "You can buy a lyre, lute, drum, and simple fanfare. If you'd like to see my offers, ask me for a trade."
         ]
       },
       {
@@ -36973,15 +36979,39 @@
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "elf / elves",
         "answer": [
-          "My name is Quero."
+          "They live in the northeast of Tibia."
         ]
       },
       {
-        "prompt": "Time",
+        "prompt": "Bard",
         "answer": [
-          "Sorry, I don't know what time it is."
+          "Selling instruments isn't enough to live on and I love music. That's why I wander through the lands from time to time."
+        ]
+      },
+      {
+        "prompt": "benjamin",
+        "answer": [
+          "He's nice."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "That name rings a bell, wait... I've last seen him several days ago when he went to buy some bread at the farm."
+        ]
+      },
+      {
+        "prompt": "child / kid",
+        "answer": [
+          "Yes, I have a small daughter. Her room is upstairs."
+        ]
+      },
+      {
+        "prompt": "tooth",
+        "answer": [
+          "I wonder why this matters to you. But yes, my daughter lost her first tooth a few days ago."
         ]
       },
       {
