@@ -443,7 +443,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Albinius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Albinius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aruda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Aruda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Biff The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Biff_The_Baker.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chester Kahs</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Chester_Kahs.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Denominator</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Denominator.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dino.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dog Lady</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dog_Lady.txt)  
