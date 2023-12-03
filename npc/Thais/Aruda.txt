@@ -1,62 +1,97 @@
-Player: hi  
-Aruda: Oh, hello, handsome! It's a pleasure to meet you, Player. Gladly I have the time to chat a bit.  
-Player: name  
-Aruda: I'm a little sad that you seem to have forgotten me, handsome. I'm Aruda.  
-Player: help  
-Aruda: I'm deeply sorry, I can't help you.  
-Player: how are you  
-Aruda: Thank you very much. How kind of you to care about me. I'm fine, thank you.  
-Player: chat or job  
-Aruda: I do some work now and then. Nothing unusual, though. So I have plenty time to chat. If you are interested in any topic just ask me.  
-Player: news  
-Aruda: You should ask Oswald about news. He loves them.  
-Player: rumors or rumours  
-Aruda: I'm a little shy and so I don't hear many rumours  
-Player: gods  
-Aruda: You should ask about that in one of the temples.  
-Player: Yenny  
-Aruda: Yenny? I know no Yenny, nor have I ever used that name! You must have mistaken me with someone else. (leaves the discussion)  
-Player: thief  
-Aruda: Oh sorry, I have to hurry, bye! (leaves the discussion)  
-Player: dogs  
-Aruda: I like dogs, the little ones at least. Do you like dogs, too?  
-Player: king  
-Aruda: The king that lives in this fascinating castle? I think he does look kind of cute in his luxurious robes, doesn't he?  
-Player: castle  
-Aruda: I love this castle! It's so beautiful.  
-Player: kiss  
-Aruda: Oh, you little devil, stop talking about that! <blush>  
-Player: Aruda  
-Aruda: Oh, I like the way you say my name.  
-Player: Benjamin  
-Aruda: He is a little simple minded but always nice and well dressed.  
-Player: Bozo  
-Aruda: Oh, isn't he funny? I could listen to him the whole day.  
-Player: Eclesius  
-Aruda: He often passes me on the way to Frodo's.  
-Player: Elane  
-Aruda: I personally think it's inappropriate for a woman to become a warrior, what do you think about that?  
-Player: Frodo  
-Aruda: Oh, a girl like me shouldn't go to this place.  
-Player: Gorn  
-Aruda: He should really sell some stylish gowns or something like that. We Tibians never get some clothing of the latest fashion. It's a shame.  
-Player: Gregor  
-Aruda: I like brave fighters like him.  
-Player: Marvik  
-Aruda: Druids seldom visit a town. What do you know about druids?  
-Player: Muriel  
-Aruda: Powerful sorcerers frighten me a little.  
-Player: Noodles  
-Aruda: Oh, he is sooooo cute!  
-Player: Oswald  
-Aruda: As far as I know, he's working in the castle.  
-Player: Partos  
-Aruda: I ... don't know someone named like that.  
-Player: Quentin  
-Aruda: I don't understand this lonely monks. I love company too much to become one. Hehehe!  
-Player: Sam  
-Aruda: He is soooo strong! What muscles! What a body! On the other hand, compared to you he looks quite puny.  
-Player: Tibia  
-Aruda: I'd like to visit the beach more often, but I guess it's too dangerous.  
-Player: monsters  
-Aruda: UH! What a terrifying topic. Please let us speak about something more pleasant, I'm a weak and small woman after all.  
+Player: hi (male)
+Aruda: Oh, hello, handsome! It's a pleasure to meet you Player. Gladly I have the time to chat a bit.
+Player: hi (female)
+Aruda: Oh, hello Player your hair looks great! Who did it for you? Gladly I have the time to chat a bit.
+Player: (any word)
+Aruda: I would never have guessed that.
+Player: how are you
+Aruda: Thank you very much. How kind of you to care about me. I'm fine, thank you.
+Player: job
+Aruda: I do some work now and then. Nothing unusual, though. So I have plenty time to chat. If you are interested in any topic just ask me.
+Player: name (male)
+Aruda: I am a little sad, that you seem to have forgotten me, handsome. I am Aruda.
+Player: aruda (male)
+Aruda: Oh, I like it, how you say my name.
+Player: name (female)
+Aruda: I'm Aruda.
+Player: aruda (female)
+Aruda: Yes, that's me!
+Player: news
+Aruda: You should ask Oswald about news. He loves them.
+Player: time
+Aruda: Please don't be so rude to look for the time if you are talking to me.
+Player: sell
+Aruda: Sorry, I have nothing to sell.
+Player: help
+Aruda: I'm deeply sorry, I can't help you.
+Player: thief / theft
+Aruda: Oh sorry, I have to hurry, bye!
+Player: chat
+Aruda: I do some work now and then. Nothing unusual, though. So I have plenty time to chat. If you are interested in any topic just ask me.
+Player: tibia
+Aruda: I'd like to visit the beach more often, but I guess it's too dangerous.
+Player: king
+Aruda: The king that lives in this fascinating castle? I think he does look kind of cute in his luxurious robes, doesn't he?
+Player: castle
+Aruda: I love this castle! It's so beautiful.
+Player: noodles
+Aruda: Oh, he is sooooo cute!
+Player: dogs / poodles
+Aruda: I like dogs, the little ones at least. Do you like dogs, too?
+Player: monster / dungeon
+Aruda: UH! What a terrifying topic. Please let us speak about something more pleasant, I'm a weak and small woman after all.
+Player: sewer
+Aruda: What gives you the impression that I'm the kind of women you find in sewers?
+Player: god
+Aruda: You should ask about that in one of the temples.
+Player: rumour / rumor / gossip
+Aruda: I'm a little shy and so I don't hear many rumours
+Player: frodo
+Aruda: Oh, a girl like me shouldn't go to this place.
+Player: sam (male)
+Aruda: He is soooo strong! What muscles! What a body! On the other hand, compared to you he looks quite puny.
+Player: sam (female)
+Aruda: He is soooo strong! What muscles! What a body! Did you ask him for a date?
+Player: benjamin
+Aruda: He is a little simple minded but always nice and well dressed.
+Player: gorn
+Aruda: He should really sell some stylish gowns or something like that. We Tibians never get some clothing of the latest fashion. It's a shame.
+Player: quentin
+Aruda: I don't understand this lonely monks. I love company too much to become one. Hehehe!
+Player: bozo
+Aruda: Oh, isn't he funny? I could listen to him the whole day.
+Player: oswald
+Aruda: As far as I know, he's working in the castle.
+Player: muriel
+Aruda: Powerful sorcerers frighten me a little.
+Player: elane
+Aruda: I personally think it's inappropriate for a woman to become a warrior, what do you think about that?
+Player: marvik
+Aruda: Druids seldom visit a town. What do you know about druids?
+Player: gregor
+Aruda: I like brave fighters like him.
+Player: eclesius
+Aruda: He often passes me on the way to Frodo's.
+Player: weapon
+Aruda: I know only little about weapons. Can you tell me something about them, please?
+Player: magic
+Aruda: I believe that love is stronger than magic, don't you agree?
+Player: the first dragon
+Aruda: If you'd ask me - what you just did - it's only a myth.
+Player: excalibug
+Aruda: Oh, I am just a girl and know nothing about magic swords and such things.
+Player: yenny
+Aruda: Yenny? I know no Yenny, nor have I ever used that name! You must have mistaken me with someone else. (idle)
+Player: partos
+Aruda: I ... don't know someone named like that.
+Player: spouse / girlfriend
+Aruda: Well ... I have met him for a little while .. but this was nothing serious.
+Player: fruit
+Aruda: I remember that grapes were his favourites. He was almost addicted to them.
+Player: kiss (male)
+Aruda: Oh, you little devil, stop talking about that! <blush>
+Player: kiss (female)
+Aruda: Uhm, let's change the subject, please.
+Player: bye
+Aruda: Good bye, Player I really hope we'll talk again soon.
+Aruda: I hope to see you soon.
