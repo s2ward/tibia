@@ -27564,13 +27564,169 @@
         ]
       },
       {
-        "prompt": "help or job",
+        "prompt": "elane",
+        "answer": [
+          "Yes?"
+        ]
+      },
+      {
+        "prompt": "help / job",
         "answer": [
           "I am the leader of the Paladins. I help our members."
         ]
       },
       {
-        "prompt": "paladins",
+        "prompt": "Time",
+        "answer": [
+          "Oops. I have forgotten my watch."
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "I am a paladin, not a storyteller."
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "King Tibianus is a wise ruler."
+        ]
+      },
+      {
+        "prompt": "general",
+        "answer": [
+          "Harkath Bloodblade is the royal general."
+        ]
+      },
+      {
+        "prompt": "army",
+        "answer": [
+          "Some paladins serve in the kings army."
+        ]
+      },
+      {
+        "prompt": "quentin",
+        "answer": [
+          "A humble monk and a wise man."
+        ]
+      },
+      {
+        "prompt": "lynda",
+        "answer": [
+          "Mhm, a little too nice for my taste. Still, it's amazing how she endures all those men stalking her, especially this creepy Oswald."
+        ]
+      },
+      {
+        "prompt": "oswald",
+        "answer": [
+          "If there wouldn't be higher powers to protect him..."
+        ]
+      },
+      {
+        "prompt": "harkath bloodblade",
+        "answer": [
+          "A fine warrior and a skilled general."
+        ]
+      },
+      {
+        "prompt": "sam",
+        "answer": [
+          "Strong man. But a little shy."
+        ]
+      },
+      {
+        "prompt": "gorn",
+        "answer": [
+          "He sells a lot of useful equipment."
+        ]
+      },
+      {
+        "prompt": "frodo",
+        "answer": [
+          "The alcohol he sells shrouds the mind and the eye."
+        ]
+      },
+      {
+        "prompt": "galuna",
+        "answer": [
+          "One of the most important members of our guild. She makes all the bows and arrows we need."
+        ]
+      },
+      {
+        "prompt": "bozo",
+        "answer": [
+          "How spineless do you have to be to become a jester?"
+        ]
+      },
+      {
+        "prompt": "baxter",
+        "answer": [
+          "He has some potential."
+        ]
+      },
+      {
+        "prompt": "sherry / donald / mcronald",
+        "answer": [
+          "The McRonalds are simple farmers."
+        ]
+      },
+      {
+        "prompt": "muriel",
+        "answer": [
+          "Just another arrogant sorcerer."
+        ]
+      },
+      {
+        "prompt": "gregor",
+        "answer": [
+          "He and his guildfellows lack the grace of a true warrior."
+        ]
+      },
+      {
+        "prompt": "marvik",
+        "answer": [
+          "A skilled healer, that's for sure."
+        ]
+      },
+      {
+        "prompt": "eclesius",
+        "answer": [
+          "He must have been skilled before he became the way he is now. Such a pity."
+        ]
+      },
+      {
+        "prompt": "lugri",
+        "answer": [
+          "A follower of evil that will get what he deserves one day."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "So many claimed to have found and slain him but they had nothing to prove it."
+        ]
+      },
+      {
+        "prompt": "Excalibug",
+        "answer": [
+          "A weapon of myth. I don't believe that this weapon exists."
+        ]
+      },
+      {
+        "prompt": "Ferumbras",
+        "answer": [
+          "Someday I will slay that bastard!"
+        ]
+      },
+      {
+        "prompt": "vocation",
+        "answer": [
+          "Your vocation is your profession. There are four vocations in Tibia: Paladins, knights, sorcerers, and druids."
+        ]
+      },
+      {
+        "prompt": "paladins / skill",
         "answer": [
           "Paladins are great warriors and magicians. Besides that we are excellent missile fighters. Many people in Tibia want to join us."
         ]
@@ -27594,19 +27750,13 @@
         ]
       },
       {
-        "prompt": "news",
-        "answer": [
-          "I am a paladin, not a storyteller."
-        ]
-      },
-      {
         "prompt": "members",
         "answer": [
           "Every paladin profits from his vocation. It has many advantages to be a paladin."
         ]
       },
       {
-        "prompt": "advantages",
+        "prompt": "advantages / profit",
         "answer": [
           "We will help you to improve your skills. Besides I offer spells for paladins."
         ]
@@ -27618,33 +27768,27 @@
         ]
       },
       {
-        "prompt": "general",
+        "prompt": "Task",
         "answer": [
-          "Harkath Bloodblade is the royal general."
+          "So you are saying that you would like to prove that you deserve to wear such a hooded cloak?"
         ]
       },
       {
-        "prompt": "army",
+        "prompt": "Yes",
         "answer": [
-          "Some paladins serve in the kings army."
+          "Alright, I will give you a chance. Pay close attention to what I'm going to tell you now. ...",
+          "Recently, one of our members moved to Liberty Bay out of nowhere, talking about some strange cult. That is not the problem, but he took my favourite crossbow with him. ...",
+          "Please find my crossbow. It has my name engraved on it and is very special to me. ...",
+          "Secondly, we need a lot of leather for new quivers. 100 pieces of lizard leather and 100 pieces of red dragon leather should suffice. ...",
+          "Third, since we are giving out tiaras, we are always in need of enchanted chicken wings. Please bring me 5, that would help us tremendously. ...",
+          "Lastly, for our arrow heads we need a lot of steel. Best would be one piece of royal steel, one piece of draconian steel and one piece of hell steel. ...",
+          "Did you understand everything I told you and are willing to handle this task?"
         ]
       },
       {
-        "prompt": "Excalibug",
+        "prompt": "task",
         "answer": [
-          "A weapon of myth. I don't believe that this weapon exists."
-        ]
-      },
-      {
-        "prompt": "Ferumbras",
-        "answer": [
-          "Someday I will slay that bastard!"
-        ]
-      },
-      {
-        "prompt": "Time",
-        "answer": [
-          "Oops. I have forgotten my watch."
+          "You've already completed all tasks, Player."
         ]
       },
       {
@@ -27654,7 +27798,7 @@
         ]
       },
       {
-        "prompt": "Addon, Outfit or Tiara",
+        "prompt": "Addon / Outfit / Tiara",
         "answer": [
           "Oh, my winged tiara? Those are traditionally awarded after having completed a difficult task for our guild, only to female aspirants though. Male warriors will receive a hooded cloak."
         ]
@@ -27669,6 +27813,12 @@
         "prompt": "Sniper gloves",
         "answer": [
           "We are always looking for sniper gloves. They are supposed to raise accuracy. If you find a pair, bring them here. Maybe I can offer you a nice trade."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Bye, Player."
         ]
       }
     ]
