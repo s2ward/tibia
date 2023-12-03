@@ -32270,7 +32270,14 @@
   {
     "file": "npc/Thais/Prisoner.txt",
     "name": "Prisoner",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(no response)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Thais/Marvik.txt",
