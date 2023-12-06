@@ -21,6 +21,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jakahr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jakahr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Southern Darama Desert</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Messenger of Heaven</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Southern_Darama_Desert/Messenger_of_Heaven.txt)  
+├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs)  
+│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Bloodshade</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs/A_Bloodshade.txt)  
 ├─&nbsp;&nbsp;<strong>Carlin</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Alia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bambi Bonecrusher</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Bambi_Bonecrusher.txt)  
