@@ -84,12 +84,16 @@
             "Messenger_of_Heaven": "UNVERIFIED"
         },
         "Tesha": "VERIFIED",
-        "Tothdral": "VERIFIED"
+        "Tothdral": "VERIFIED",
+        "Secretive_Rascoohal": "EMPTY"
     },
     "Boss_Lairs": {
         "Cerebrir": "VERIFIED",
         "The_First_Dragon": "VERIFIED",
-        "Yselda": "VERIFIED"
+        "Yselda": "VERIFIED",
+        "A_Bloodshade": "UNVERIFIED",
+        "Airclairebear": "EMPTY",
+        "Altar": "EMPTY"
     },
     "Carlin": {
         "A_Ghostly_Woman": "VERIFIED",
@@ -203,7 +207,9 @@
         },
         "Domizian": "UNVERIFIED",
         "Drefia": {
-            "Samir": "VERIFIED"
+            "Samir": "VERIFIED",
+            "Inquisition_Guardsman": "EMPTY",
+            "Torkada": "EMPTY"
         },
         "Drefia_Spirit_Grounds": {
             "The_Gate_Keeper": "VERIFIED"
@@ -843,7 +849,10 @@
         "Ustan": "EMPTY",
         "Vescu": "VERIFIED",
         "Yawno": "VERIFIED",
-        "Zaidal": "EMPTY"
+        "Zaidal": "EMPTY",
+        "Iksupan": {
+            "Ahau's_Dead_Chamberlain": "EMPTY"
+        }
     },
     "Rathleton": {
         "Alaistar": "VERIFIED",
@@ -1311,7 +1320,8 @@
             "Corym_Worker": "EMPTY"
         },
         "Venore_Southern_Swamp": {
-            "Appaloosa": "VERIFIED"
+            "Appaloosa": "VERIFIED",
+            "Cheaty": "EMPTY"
         },
         "Vladruc": "VERIFIED",
         "Warbert": "VERIFIED",
@@ -1320,7 +1330,8 @@
         "Yanni": "EMPTY",
         "Yberius": "UNVERIFIED",
         "Yulas": "VERIFIED",
-        "Zebron": "UNVERIFIED"
+        "Zebron": "UNVERIFIED",
+        "The_Dracoon": "EMPTY"
     },
     "Yalahar": {
         "A_Beautiful_Girl": "UNVERIFIED",
@@ -1408,5 +1419,15 @@
         },
         "Yalahari": "VERIFIED",
         "Znozel": "VERIFIED"
+    },
+    "Oskayaat": {
+        "Gerib": "EMPTY",
+        "Kiru": "EMPTY",
+        "Tamru": "EMPTY",
+        "Tonar": "EMPTY",
+        "Undercity": {
+            "Niral": "EMPTY"
+        },
+        "Yerga": "EMPTY"
     }
 }

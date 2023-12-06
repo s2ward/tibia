@@ -108,6 +108,28 @@
         ]
     },
     {
+        "name": "A_Bloodshade",
+        "job": "Unknown",
+        "race": "Elemental",
+        "gender": "Unknown",
+        "location": "Boss Lairs",
+        "subarea": "Blood Vestibule",
+        "map": "https://tibiamaps.io/map#34070,31981,14:2",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Rotten Blood Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Rotten_Blood_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            34070,
+            31981,
+            14
+        ]
+    },
+    {
         "name": "A_Confused_Frog",
         "job": "Assistant",
         "race": "Frog",
@@ -1062,6 +1084,28 @@
         ]
     },
     {
+        "name": "Ahau's_Dead_Chamberlain",
+        "job": "Unknown",
+        "race": "Ghost",
+        "gender": "Unknown",
+        "location": "Port Hope",
+        "subarea": "Iksupan",
+        "map": "https://tibiamaps.io/map#34040,31724,10:2",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "Adventures of Galthen Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Adventures_of_Galthen_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            34040,
+            31724,
+            10
+        ]
+    },
+    {
         "name": "Ahmet",
         "job": "Equipment",
         "race": "Human",
@@ -1091,6 +1135,28 @@
             33126,
             32809,
             6
+        ]
+    },
+    {
+        "name": "Airclairebear",
+        "job": "Unknown",
+        "race": "Were",
+        "gender": "Unknown",
+        "location": "Boss Lairs",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33387,31412,15:1",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "20 Years a Cook Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33387,
+            31412,
+            15
         ]
     },
     {
@@ -1376,6 +1442,28 @@
             32991,
             32061,
             6
+        ]
+    },
+    {
+        "name": "Altar",
+        "job": "Unknown",
+        "race": "Unknown",
+        "gender": "Unknown",
+        "location": "Boss Lairs",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33466,31323,7:2",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Rotten Blood Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Rotten_Blood_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33466,
+            31323,
+            7
         ]
     },
     {
@@ -4522,6 +4610,28 @@
             33547,
             31947,
             7
+        ]
+    },
+    {
+        "name": "Cheaty",
+        "job": "Unknown",
+        "race": "Were",
+        "gender": "Unknown",
+        "location": "Venore",
+        "subarea": "Venore Southern Swamp",
+        "map": "https://tibiamaps.io/map#32844,32137,6:2",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "20 Years a Cook Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            32844,
+            32137,
+            6
         ]
     },
     {
@@ -8423,6 +8533,23 @@
         ]
     },
     {
+        "name": "Gerib",
+        "job": "Postman",
+        "race": "Weretiger",
+        "gender": "Unknown",
+        "location": "Oskayaat",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33008,32935,5:0",
+        "version": "13.20",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33008,
+            32935,
+            5
+        ]
+    },
+    {
         "name": "Gerimor",
         "job": "Druid",
         "race": "Human",
@@ -11319,6 +11446,23 @@
         ]
     },
     {
+        "name": "Inquisition_Guardsman",
+        "job": "Inquisitor",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Darashia",
+        "subarea": "Drefia",
+        "map": "https://tibiamaps.io/map#33032,32426,7:2",
+        "version": "13.20",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33032,
+            32426,
+            7
+        ]
+    },
+    {
         "name": "Iptar-Sin",
         "job": "Cleric",
         "race": "Human",
@@ -12679,6 +12823,23 @@
             32311,
             32170,
             6
+        ]
+    },
+    {
+        "name": "Kiru",
+        "job": "Trader",
+        "race": "Unknown",
+        "gender": "Unknown",
+        "location": "Oskayaat",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33022,32914,3:2",
+        "version": "13.20",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33022,
+            32914,
+            3
         ]
     },
     {
@@ -15552,6 +15713,28 @@
             33778,
             32836,
             6
+        ]
+    },
+    {
+        "name": "Niral",
+        "job": "Cleric",
+        "race": "Human",
+        "gender": "Female",
+        "location": "Oskayaat",
+        "subarea": "Undercity",
+        "map": "https://tibiamaps.io/map#33033,32912,9:1",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Grimvale Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Grimvale_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33033,
+            32912,
+            9
         ]
     },
     {
@@ -18695,6 +18878,28 @@
         ]
     },
     {
+        "name": "Secretive_Rascoohan",
+        "job": "Unknown",
+        "race": "Were",
+        "gender": "Unknown",
+        "location": "Ankrahmun",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33187,32775,7:2",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "20 Years a Cook Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33187,
+            32775,
+            7
+        ]
+    },
+    {
         "name": "Ser_Tybald",
         "job": "Knight",
         "race": "Human",
@@ -20033,6 +20238,23 @@
         ]
     },
     {
+        "name": "Tamru",
+        "job": "Trader",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Oskayaat",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33035,32948,2:2",
+        "version": "13.20",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33035,
+            32948,
+            2
+        ]
+    },
+    {
         "name": "Tanaro",
         "job": "Food",
         "race": "Human",
@@ -20516,6 +20738,28 @@
             32115,
             32014,
             7
+        ]
+    },
+    {
+        "name": "The_Dracoon",
+        "job": "Unknown",
+        "race": "Were",
+        "gender": "Unknown",
+        "location": "Venore",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#32973,32082,8:2",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "20 Years a Cook Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            32973,
+            32082,
+            8
         ]
     },
     {
@@ -21079,6 +21323,30 @@
         ]
     },
     {
+        "name": "Tonar",
+        "job": "Unknown",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Oskayaat",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33070,32919,7:2",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Grimvale Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Grimvale_Quest"
+            }
+        ],
+        "dialogues": [
+            "I don't feel safe here ... I hope we can return to Ankrahmun soon."
+        ],
+        "coordinates": [
+            33070,
+            32919,
+            7
+        ]
+    },
+    {
         "name": "Tony",
         "job": "Guard",
         "race": "Human",
@@ -21181,6 +21449,33 @@
         "coordinates": [
             32185,
             32823,
+            7
+        ]
+    },
+    {
+        "name": "Torkada",
+        "job": "Inquisitor",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Darashia",
+        "subarea": "Drefia",
+        "map": "https://tibiamaps.io/map#33035,32424,7:2",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Rotten Blood Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Rotten_Blood_Quest"
+            }
+        ],
+        "dialogues": [
+            "These are dark times.",
+            "My superiors must learn about this",
+            "This is most peculiar."
+
+        ],
+        "coordinates": [
+            33035,
+            32424,
             7
         ]
     },
@@ -22699,6 +22994,28 @@
             33660,
             31989,
             7
+        ]
+    },
+    {
+        "name": "Yerga",
+        "job": "Trader",
+        "race": "Were",
+        "gender": "Male",
+        "location": "Oskayaat",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33022,32931,2:2",
+        "version": "13.20",
+        "quests": [
+            {
+                "quest-name": "Grimvale Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Grimvale_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33022,
+            32931,
+            2
         ]
     },
     {

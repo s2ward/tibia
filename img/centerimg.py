@@ -38,7 +38,7 @@ def center_image_with_alpha(image_path):
     centered_image.save(image_path, format='PNG')
 
 # Loop through all images in image_dir directory
-image_dir = "book"
+image_dir = "npc"
 for filename in os.listdir(image_dir):
     if filename.endswith(".png"):
         image_path = os.path.join(image_dir, filename)
