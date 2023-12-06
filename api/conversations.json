@@ -39595,43 +39595,31 @@
       {
         "prompt": "hi",
         "answer": [
-          "Oh its you again. What do you want, hornless messenger?"
+          "No! The hornless have reached my city! BODYGUARDS TO ME!"
         ]
       },
       {
-        "prompt": "job",
+        "prompt": "hi",
+        "answer": [
+          "Well ... my guards are defeated! Now everything is over! I guess I will have to answer your questions now."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Oh, it's you again. What do you want, hornless messenger?"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "I am Markwin, the old and real king of this city."
+        ]
+      },
+      {
+        "prompt": "job / answer",
         "answer": [
           "I am the king of all minotaurs. I have been the king for more than 320 years."
-        ]
-      },
-      {
-        "prompt": "king",
-        "answer": [
-          "I am the real king!"
-        ]
-      },
-      {
-        "prompt": "Mintwallin",
-        "answer": [
-          "The former glorious city lies in the dirt. It is my home. I founded it about 180 years ago, when we found this lovely place."
-        ]
-      },
-      {
-        "prompt": "place",
-        "answer": [
-          "Na! You will have to find it yourself!"
-        ]
-      },
-      {
-        "prompt": "prisoner",
-        "answer": [
-          "He is totally mad. I don't know how he could find the way through the labyrinth. I arrested him in the prison."
-        ]
-      },
-      {
-        "prompt": "human",
-        "answer": [
-          "I hate them all. Minotaurs have no own spelling, so I used the speech of the humans. Once I was a prisoner of them. Since then I hate them - and since then I can speak and write in their language."
         ]
       },
       {
@@ -39641,27 +39629,45 @@
         ]
       },
       {
-        "prompt": "Palkar",
+        "prompt": "kaplar",
+        "answer": [
+          "I really don't know what it means. But ALL minos say it! Terrible!"
+        ]
+      },
+      {
+        "prompt": "minotaurs / minos",
+        "answer": [
+          "My fellows all are minotaurs. It is my folk. I am the king of all minos."
+        ]
+      },
+      {
+        "prompt": "king / tibianus",
+        "answer": [
+          "I am the real king of Mintwallin!"
+        ]
+      },
+      {
+        "prompt": "real",
+        "answer": [
+          "Yes, I am the real king. Palkar is the leader of the outcasts."
+        ]
+      },
+      {
+        "prompt": "Palkars",
         "answer": [
           "He is the leader of the outcast. In former times he was my best warrior, but now he is my worst enemy."
         ]
       },
       {
-        "prompt": "secret laboratory",
-        "answer": [
-          "Hehe - you will never find a way to enter it. The outcast stole the key. You are too weak to conquer it. HARHARHAR."
-        ]
-      },
-      {
-        "prompt": "outcasts",
+        "prompt": "outcast",
         "answer": [
           "Those are no minos any longer. They left the city and killed their brothers. And they stole the key to my secret lab."
         ]
       },
       {
-        "prompt": "key",
+        "prompt": "secret lab",
         "answer": [
-          "There are many keys. The outcast stole the key to our secret lab! They should burn!"
+          "Hehe - you will never find a way to enter it. The outcast stole the key. You are too weak to conquer it. HARHARHAR."
         ]
       },
       {
@@ -39671,7 +39677,7 @@
         ]
       },
       {
-        "prompt": "enter the laboratory",
+        "prompt": "enter lab",
         "answer": [
           "First of all you will need a second fellow to help you."
         ]
@@ -39689,9 +39695,45 @@
         ]
       },
       {
-        "prompt": "poisonous place",
+        "prompt": "key",
         "answer": [
-          "Na! You will have to find it yourself!"
+          "There are many keys. The outcast stole the key to our secret lab! They should burn!"
+        ]
+      },
+      {
+        "prompt": "mintwallin / city",
+        "answer": [
+          "The former glorious city lies in the dirt. It is my home. I founded it about 180 years ago, when we found this lovely place."
+        ]
+      },
+      {
+        "prompt": "place",
+        "answer": [
+          "The best protection for our city is secrecy and the labyrinth."
+        ]
+      },
+      {
+        "prompt": "labyrinth",
+        "answer": [
+          "It protected us for a long time. There are lots of traps in it. And many long tunnels. There haven't been many foes that found their way through it. Only that prisoner once arrived."
+        ]
+      },
+      {
+        "prompt": "prisoner",
+        "answer": [
+          "He is totally mad. I don't know how he could find the way through the labyrinth. I arrested him in the prison."
+        ]
+      },
+      {
+        "prompt": "human",
+        "answer": [
+          "I hate them all. Minotaurs have no own spelling, so I used the speech of the humans. Once I was a prisoner of them. Since then I hate them - and since then I can speak and write in their language."
+        ]
+      },
+      {
+        "prompt": "books / chronicle",
+        "answer": [
+          "I am one of the minotaurs that are able to write. So I wrote most of the history of my beloved city Mintwallin in some books."
         ]
       },
       {
@@ -39701,21 +39743,59 @@
         ]
       },
       {
+        "prompt": "light / sun / surface",
+        "answer": [
+          "I would like to see the light of the sun again, but you will probably kill me. Go away!"
+        ]
+      },
+      {
         "prompt": "milk",
         "answer": [
           "No! I won't tell you the powers of our milk!"
         ]
       },
       {
-        "prompt": "books",
+        "prompt": "riddle",
         "answer": [
-          "I am one of the minotaurs that are able to write. So I wrote most of the history of my beloved city Mintwallin in some books."
+          "Riddle? I don't know riddles!"
+        ]
+      },
+      {
+        "prompt": "karl",
+        "answer": [
+          "The man who explored this part of the map first. Strange guy. He likes to be announced as hunter. I don't like him. He is a human."
+        ]
+      },
+      {
+        "prompt": "letter (quest)",
+        "answer": [
+          "A letter from my Moohmy?? Do you have a letter from my Moohmy to me?"
+        ]
+      },
+      {
+        "prompt": "yes (no letter)",
+        "answer": [
+          "Don't mock the king of the minotaurs or you will regret that!"
+        ]
+      },
+      {
+        "prompt": "(any but yes)",
+        "answer": [
+          "Uh? What??"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Uhm, well thank you, hornless beeing."
         ]
       },
       {
         "prompt": "bye",
         "answer": [
-          "Hm ... good bye."
+          "Go to hell! Burn!",
+          "Hm ... good bye.",
+          "Yes! Leave me alone. Vanish to dust."
         ]
       }
     ]
