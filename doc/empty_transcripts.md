@@ -19,7 +19,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Hercule.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Jean_Pierre.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Secretive Rascoohal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Secretive_Rascoohal.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Secretive Rascoohan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Secretive_Rascoohan.txt)  
 ├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Airclairebear</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs/Airclairebear.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Altar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Boss_Lairs/Altar.txt)  

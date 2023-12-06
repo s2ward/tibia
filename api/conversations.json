@@ -80323,11 +80323,6 @@
     ]
   },
   {
-    "file": "npc/Ankrahmun/Secretive_Rascoohal.txt",
-    "name": "Secretive_Rascoohal",
-    "conversation": []
-  },
-  {
     "file": "npc/Ankrahmun/Ahmet.txt",
     "name": "Ahmet",
     "conversation": [
@@ -80688,6 +80683,11 @@
         ]
       }
     ]
+  },
+  {
+    "file": "npc/Ankrahmun/Secretive_Rascoohan.txt",
+    "name": "Secretive_Rascoohan",
+    "conversation": []
   },
   {
     "file": "npc/Ankrahmun/Feizuhl.txt",
