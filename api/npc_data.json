@@ -17857,6 +17857,24 @@
         ]
     },
     {
+        "name": "Ratha",
+        "job": "Unknown",
+        "race": "Unknown",
+        "gender": "Male",
+        "location": "Kazordoon",
+        "subarea": "",
+        "map": "",
+        "version": "13.30",
+        "quests": [
+            {
+                "quest-name": "20 Years a Cook Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/20_Years_a_Cook_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": []
+    },
+    {
         "name": "Ray",
         "job": "Postman",
         "race": "Human",
