@@ -407,6 +407,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tyrias</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Tyrias.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Banuta</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost of a Priest</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta/Ghost_of_a_Priest.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Hairycles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta/Hairycles.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clark</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clark.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clyde</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clyde.txt)  
