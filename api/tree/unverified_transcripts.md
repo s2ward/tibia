@@ -136,8 +136,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Klaus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Klaus.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Andrew Lyze</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Andrew_Lyze.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Banuta</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost of a Priest</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta/Ghost_of_a_Priest.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imbul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Imbul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Lorek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ray</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ray.txt)  
