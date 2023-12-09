@@ -124,6 +124,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hofech</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hofech.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ishina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Ishina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kasmir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Kasmir.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kazzan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Kazzan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mazarius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Mazarius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Miraia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Miraia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Morun</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Morun.txt)  

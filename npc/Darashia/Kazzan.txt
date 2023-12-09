@@ -1,5 +1,5 @@
 Player: hi
-Kazzan: Feel welcome in the lands of the children of the enlightened Daraman, Simula.
+Kazzan: Feel welcome in the lands of the children of the enlightened Daraman, Player.
 Player: name
 Kazzan: I am Kazzan Ibn Gadral, caliph of Darama.
 Player: job
@@ -35,5 +35,5 @@ Kazzan: We keep in touch with the queen, but we have not taken sides in the conf
 Player: excalibug
 Kazzan: Once a djinn claimed to have seen it in a dream. I guess it's just that, some dream of a supernatural creature.
 Player: bye
-Kazzan: May your soul flourish, Simula.
+Kazzan: May your soul flourish, Player.
 Kazzan: May your soul flourish.

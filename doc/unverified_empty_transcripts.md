@@ -99,7 +99,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hyaena Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Skull</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs/A_Skull.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Rhargu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Hyaena_Lairs/Rhargu.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kazzan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Kazzan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Lion Sanctum</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Lion_Sanctum)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Heliodor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Lion_Sanctum/Heliodor.txt)  
 ├─&nbsp;&nbsp;<strong>Dawnport</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Dawnport)  
