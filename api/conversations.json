@@ -79704,27 +79704,45 @@
     "name": "Ivalisse",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Hello, worshipper of the Astral Shapers! Welcome to the temple."
+          "Hello, worshipper of the Astral Shapers! Welcome to the temple! While you are here to pay tribute, you can also learn something about the ancient art of imbuing."
         ]
       },
       {
-        "prompt": "Temple",
+        "prompt": "name",
         "answer": [
-          "Well, I hope you like it here. We tried to rebuild in the Shaper's will. I am a bit preoccupied at the moment because of the absence of my father. I may not be the best of help currently, sorry."
+          "My name is Ivalisse."
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "time",
+        "answer": [
+          "There is always time to make a change."
+        ]
+      },
+      {
+        "prompt": "job / mission",
         "answer": [
           "Besides my various duties in the temple, I also take care of visitors. Well, I would but right now I can't get my mind of how my father's doing. I am sorry."
         ]
       },
       {
-        "prompt": "Duties",
+        "prompt": "(any)",
         "answer": [
-          "I help linking the portals of this temple to other ancient sites of the Astral Shapers."
+          "Alright then, you are very welcome to explore the temple!"
+        ]
+      },
+      {
+        "prompt": "gates / duties",
+        "answer": [
+          "I help linking the gates of is temple to other ancient sites of the Astral Shapers."
+        ]
+      },
+      {
+        "prompt": "temple",
+        "answer": [
+          "Well, I hope you like it here. We tried to rebuild in the Shaper's will. I am a bit preoccupied at the moment because of the absence of my father. I may not be the best of help currently, sorry."
         ]
       },
       {
@@ -79734,30 +79752,29 @@
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "rumours",
         "answer": [
-          "My name is Ivalisse."
+          "I hope he's alright... ah, nevermind."
         ]
       },
       {
-        "prompt": "Silus",
+        "prompt": "imbuements / imbuing / imbue",
         "answer": [
-          "My father, can you tell me if he's alright?"
-        ]
-      },
-      {
-        "prompt": "Thais",
-        "answer": [
-          "Alright then, you are very welcome to explore the temple!"
+          "The astral Shapers had many ways to shape and refine weapons and equipment. They built shrines dedicated to this world's energies, focussing it and utilising it like a tool to enhance objects. ...",
+          "They called this process imbuing and perfected it throughout time. Remains of these shrines are scattered all over Tibia. ...",
+          "If you truly want to master this art, you will need to visit the various ancient sites related to the original Shaper imbuements. There is one for each element and we know of at least one other besides these. ...",
+          "The discovery of the foundations of this very temple we are standing in, was the key to access their legacy. It is now the center of all our efforts in getting closer to the astral predecessors. ...",
+          "They found ways to connect various sites with a system of gates, all concentrating energy to allow travel to far away places. The more we learn, the more we can restore of these ancient gateways. ...",
+          "We see the gates as an invitation, use them to your advantage and follow the ways of the Shapers. Access to one of these ancient shrines is the only way to learn additional imbuements. ...",
+          "But beware, as far as we know, some of them have been claimed by other ancient beings and there is now way for us to prepare you what lies beyond any of those gates."
         ]
       },
       {
         "prompt": "father",
         "answer": [
-          "Papa- my father has recently started an adventure on his own. His name is Silus, he is a member of the Edron academy. ...",
-          "Ever since he has joined what he called a 'special research division', he went on and on about Zao and how venturing there would help him get ahead. ...",
-          "You must know he lives for science, especially concerning far-away lands and cultures. He talked about the importance of practical field studies but, frankly, he isn't particularly cut out for that. ...",
-          "I know he has to focus to get his research done right now and I simply cannot leave my duties in the temple. You seem like a person who travels a lot, would you be willing to help me?"
+          "What? You're telling me you found father? How is he, what did papa say? A chalice? As a disguise? The whole time? ...",
+          "Well, I am not as much surprised as I am happy to hear that he's alright. You know, after the incident with the duck and the umbrella - it doesn't get to me that easily anymore. ...",
+          "Thank you very much for doing all this for me, I will be forever grateful. I have nothing to repay you with but you are already blessed to have been able to lay eyes on the sacred shaper ruins."
         ]
       },
       {
@@ -79778,9 +79795,22 @@
         ]
       },
       {
+        "prompt": "silus",
+        "answer": [
+          "My father, can you tell me if he's alright?"
+        ]
+      },
+      {
+        "prompt": "chalice",
+        "answer": [
+          "I don't really know what you're talking about, sorry."
+        ]
+      },
+      {
         "prompt": "bye",
         "answer": [
-          "Goodbye, have a pleasant day."
+          "Goodbye, have a pleasant day.",
+          "Oh, farewell!"
         ]
       }
     ]
