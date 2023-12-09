@@ -445,7 +445,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Sirik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Thorwulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Thorwulf.txt)  
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Albinius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Albinius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Biff The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Biff_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Denominator</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Denominator.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dino.txt)  
