@@ -172,7 +172,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Greenshore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ulrik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore/Ulrik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grof&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Grof,_The_Guard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ivalisse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Ivalisse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kendra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Kendra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kulag&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Kulag,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorenzo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lorenzo.txt)  
