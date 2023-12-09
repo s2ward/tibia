@@ -84128,82 +84128,166 @@
     "name": "Lubo",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Welcome to my adventurer shop, Player! What do you need?"
+          "Welcome to my adventurer shop, Player! What do you need? Ask me for a trade to look at my wares."
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am selling equipment for adventurers. Do you need anything?"
-        ]
-      },
-      {
-        "prompt": "Equipment",
-        "answer": [
-          "I sell torches, fishing rods, ropes, water hoses, backpacks, apples, and maps."
-        ]
-      },
-      {
-        "prompt": "Maps",
-        "answer": [
-          "Oh! I'm sorry, I sold the last one just five minutes ago."
-        ]
-      },
-      {
-        "prompt": "Magic",
-        "answer": [
-          "There's a lot of magic flowing in the mountain to the north."
-        ]
-      },
-      {
-        "prompt": "Name",
+        "prompt": "name",
         "answer": [
           "I am Lubo, the owner of this shop."
         ]
       },
       {
-        "prompt": "Time",
+        "prompt": "job",
         "answer": [
-          "It is exactly 0:00 am."
+          "I am selling equipment for adventurers. If you need anything, let me know."
         ]
       },
       {
-        "prompt": "Weapon",
+        "prompt": "time",
+        "answer": [
+          "It is exactly (time) am/pm."
+        ]
+      },
+      {
+        "prompt": "offer / equipment / goods",
+        "answer": [
+          "I sell torches, fishing rods, worms, ropes, water hoses, backpacks, apples, and maps."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Of course, just browse through my offers."
+        ]
+      },
+      {
+        "prompt": "inn",
+        "answer": [
+          "Frodo runs a nice inn in the near town Thais."
+        ]
+      },
+      {
+        "prompt": "food",
+        "answer": [
+          "I sell the best apples in Tibia."
+        ]
+      },
+      {
+        "prompt": "weapon",
         "answer": [
           "If you want to buy weapons, you'll have to go to a town or city."
         ]
       },
       {
-        "prompt": "Mountains",
+        "prompt": "map",
+        "answer": [
+          "Oh! I'm sorry, I sold the last one just five minutes ago."
+        ]
+      },
+      {
+        "prompt": "dog",
+        "answer": [
+          "This is Ruffy my dog, please don't do him any harm."
+        ]
+      },
+      {
+        "prompt": "pet",
+        "answer": [
+          "There are some strange stories about a magicians pet names. Ask Hoggle about it."
+        ]
+      },
+      {
+        "prompt": "finger",
+        "answer": [
+          "Oh, you sure mean this old story about the mage Dago, who lost two fingers when he conjured a dragon."
+        ]
+      },
+      {
+        "prompt": "magic",
+        "answer": [
+          "There's a lot of magic flowing in the mountain to the north."
+        ]
+      },
+      {
+        "prompt": "mountain",
         "answer": [
           "It is said that once there lived a great magician on the top of this mountain."
         ]
       },
       {
-        "prompt": "Magician",
+        "prompt": "magician",
         "answer": [
           "I don't remember his name, but it's said that his banner was the black eye."
         ]
       },
       {
-        "prompt": "Crunor's Cottage",
+        "prompt": "crunors cottage",
         "answer": [
           "Ah yes, I remember my grandfather talking about that name. This house used to be an inn a long time ago. My family bought it from some of these flower guys."
         ]
       },
       {
-        "prompt": "Flower guys",
+        "prompt": "flower guys",
         "answer": [
-          "Oh, I mean druids of course. They sold the cottage to my family after some of them died in an accident or something like that.Player: Accident",
+          "Oh, I mean druids of course. They sold the cottage to my family after some of them died in an accident or something like that."
+        ]
+      },
+      {
+        "prompt": "accident",
+        "answer": [
           "As far as I can remember the story, a pet escaped its stable behind the inn. It got somehow involved with powerful magic at a ritual and was transformed in some way."
         ]
       },
       {
-        "prompt": "Stable",
+        "prompt": "stable",
+        "answer": [
+          "Sorry, speak louder, I can't hear you."
+        ]
+      },
+      {
+        "prompt": "stable (quest)",
         "answer": [
           "My grandpa told me, in the old days there were some behind this cottage. Nothing big though, just small ones, for chicken or rabbits."
+        ]
+      },
+      {
+        "prompt": "hat",
+        "answer": [
+          "My hat? Hanna made this one for me."
+        ]
+      },
+      {
+        "prompt": "outfit",
+        "answer": [
+          "Sorry, the backpack I wear is not for sale. It's handmade from rare minotaur leather."
+        ]
+      },
+      {
+        "prompt": "outfit",
+        "answer": [
+          "Sorry, but I can only make one backpack per person, else I'd have to close my shop and open a leather manufactory."
+        ]
+      },
+      {
+        "prompt": "backpack",
+        "answer": [
+          "Well, if you really like this backpack, I could make one for you, but minotaur leather is hard to come by these days. Are you willing to put some work into this?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Sorry, but I don't run a welfare office, you know... no pain, no gain."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye, Player.",
+          "Good bye."
         ]
       }
     ]
