@@ -582,6 +582,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hoaxette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hoaxette.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">King Tibianus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/King_Tibianus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Loria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Loria.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lubo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lubo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lungelen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lungelen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lynda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lynda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Marvik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Marvik.txt)  
