@@ -36,7 +36,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fenbala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fenbala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fields of Glory</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Fluffy Squirrel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/A_Fluffy_Squirrel.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aneus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Aneus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bruno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Bruno.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Graubart</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Graubart.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Marlene</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/Marlene.txt)  
