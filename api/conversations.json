@@ -57846,6 +57846,18 @@
         ]
       },
       {
+        "prompt": "name",
+        "answer": [
+          "Such concepts are of little consequence for the dead."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "We are the guardians. We are all what is left from the glory of the past."
+        ]
+      },
+      {
         "prompt": "mortal",
         "answer": [
           "We are the guardians. We are all what is left from the glory of the past."
@@ -57883,19 +57895,6 @@
         ]
       },
       {
-        "prompt": "sceptre",
-        "answer": [
-          "Even though we are spirits, we can't create anything out of thin air. You will have to donate some precious metal which we can drain for energy and substance. ...",
-          "The equivalent of 5000 gold will do. Are you willing to make such a donation?"
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "We are the guardians. We are all what is left from the glory of the past."
-        ]
-      },
-      {
         "prompt": "banuta",
         "answer": [
           "What you call Banuta was once a centre of our civilisation and culture. We gave those apes so much, but they wanted more. In the end, the Great Snake used them as a tool to teach our people a painful but necessary lesson."
@@ -57916,12 +57915,6 @@
         ]
       },
       {
-        "prompt": "dragon",
-        "answer": [
-          "Dragons are one of the greatest creations of the Great Snake. Yet, they are still distanced from the Great Snake and susceptible for corruption and the lies of the egg stealers."
-        ]
-      },
-      {
         "prompt": "corruption",
         "answer": [
           "There are many forms of corruption in this world. All of it is the work of the egg stealers who spread their taint. The creation hatched by the Great Snake was perfect without even the option of corruption."
@@ -57932,6 +57925,12 @@
         "answer": [
           "We understand what he is and what he has become. We were not aware there were others like us left in the world. ...",
           "Perhaps there is still a chance our race can redeem itself in the eyes of the Great Snake."
+        ]
+      },
+      {
+        "prompt": "dragon",
+        "answer": [
+          "Dragons are one of the greatest creations of the Great Snake. Yet, they are still distanced from the Great Snake and susceptible for corruption and the lies of the egg stealers."
         ]
       },
       {
@@ -57967,12 +57966,6 @@
         ]
       },
       {
-        "prompt": "name",
-        "answer": [
-          "Such concepts are of little consequence for the dead."
-        ]
-      },
-      {
         "prompt": "serpent spawn",
         "answer": [
           "They are a manifestation of the snake god's power. They are its avatars in some way."
@@ -57995,19 +57988,6 @@
         "prompt": "creatures",
         "answer": [
           "They are the false-born. They hatched from foul eggs - poisoned by the egg stealers. They are numerous and like a plague for the world."
-        ]
-      },
-      {
-        "prompt": "mission",
-        "answer": [
-          "Even though we are spirits, we can't create anything out of thin air. You will have to donate some precious metal which we can drain for energy and substance. ...",
-          "The equivalent of 5000 gold will do. Are you willing to make such a donation?"
-        ]
-      },
-      {
-        "prompt": "yes",
-        "answer": [
-          "So be it! Here is my part of the sceptre. Combine it with the other parts on the altar of the Great Snake in the depths of this temple."
         ]
       },
       {
@@ -58034,6 +58014,19 @@
         "answer": [
           "We were once the heigh priests of the Great Snake. We willingly left our mortal existence behind to become bound to this temple. ...",
           "In this state we can serve the Great Snake in a more suitable way. You have to understand that it is an honour and a privilege, not a sacrifice."
+        ]
+      },
+      {
+        "prompt": "mission / sceptre",
+        "answer": [
+          "Even though we are spirits, we can't create anything out of thin air. You will have to donate some precious metal which we can drain for energy and substance. ...",
+          "The equivalent of 5000 gold will do. Are you willing to make such a donation?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "So be it! Here is my part of the sceptre. Combine it with the other parts on the altar of the Great Snake in the depths of this temple."
         ]
       },
       {
