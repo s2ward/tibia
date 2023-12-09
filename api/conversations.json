@@ -91938,79 +91938,146 @@
     "name": "Hoggle",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Welcome to my humble home!"
+          "Welcome to my humble home."
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am just a poor fisherman."
-        ]
-      },
-      {
-        "prompt": "Fisherman",
-        "answer": [
-          "It's a very hard job, cause without a boat I have to swim and fish at the same time!"
-        ]
-      },
-      {
-        "prompt": "Fish",
-        "answer": [
-          "I think they can talk, but they are wise enough to be silent. Once I saw a mermaid."
-        ]
-      },
-      {
-        "prompt": "Mermaid",
-        "answer": [
-          "I saw one! She had the body of a fish, and also the head of a fish. Amazing!"
-        ]
-      },
-      {
-        "prompt": "Mountain",
-        "answer": [
-          "Yes, there is a mountain to the north, but it's of no interest. There isn't any fish on it."
-        ]
-      },
-      {
-        "prompt": "Map",
-        "answer": [
-          "If you go north-west you will find Lubo and his adventurer shop. I think he sells maps."
-        ]
-      },
-      {
-        "prompt": "Name",
+        "prompt": "name",
         "answer": [
           "I am Hoggle. I live in this house."
         ]
       },
       {
-        "prompt": "Time",
+        "prompt": "job / home",
         "answer": [
-          "No, it's not time now to go fishing."
+          "I'm just a poor fisherman. Leave me alone in my misery, ok?"
         ]
       },
       {
-        "prompt": "Carlin",
+        "prompt": "time",
         "answer": [
-          "There are stories about a city behind the mountain, but why should I go there? There is enough fish here."
+          "No, this is not the time to go fishing."
         ]
       },
       {
-        "prompt": "Thais",
+        "prompt": "fisherman",
+        "answer": [
+          "It's a very hard job, cause without a boat I have to swim and fish at the same time!"
+        ]
+      },
+      {
+        "prompt": "boat",
+        "answer": [
+          "My boat sunk. I thought it would be more aerodynamic with holes in it."
+        ]
+      },
+      {
+        "prompt": "fish",
+        "answer": [
+          "I think they can talk, but they are wise enough to be silent. Once I saw a mermaid."
+        ]
+      },
+      {
+        "prompt": "mermaid",
+        "answer": [
+          "I saw one! She had the body of a fish, and also the head of a fish. Amazing!"
+        ]
+      },
+      {
+        "prompt": "map",
+        "answer": [
+          "If you go north-west you will find Lubo and his adventurer shop. I think he sells maps."
+        ]
+      },
+      {
+        "prompt": "food",
+        "answer": [
+          "If you are hungry you can go downstairs, perhaps you will find some fish. You can also take some shoes if you want."
+        ]
+      },
+      {
+        "prompt": "thais",
         "answer": [
           "I know this city. Sometimes I sell fish to Frodo."
         ]
       },
       {
-        "prompt": "Frodo",
+        "prompt": "frodo",
         "answer": [
           "He buys my fish."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "carlin",
+        "answer": [
+          "There are stories about a city behind the mountain, but why should I go there? There is enough fish here."
+        ]
+      },
+      {
+        "prompt": "mountain",
+        "answer": [
+          "Yes, there is a mountain to the north, but it's of no interest. There isn't any fish on it."
+        ]
+      },
+      {
+        "prompt": "stupid",
+        "answer": [
+          "My mom always said, stupid is who stupid does."
+        ]
+      },
+      {
+        "prompt": "secret",
+        "answer": [
+          "Can you keep a secret? I think fish can't breath on land!"
+        ]
+      },
+      {
+        "prompt": "finger",
+        "answer": [
+          "No, fish don't have fingers."
+        ]
+      },
+      {
+        "prompt": "pet name",
+        "answer": [
+          "Once there was a magician who named all his creatures like their species read backward."
+        ]
+      },
+      {
+        "prompt": "garden",
+        "answer": [
+          "My garden is full of wild-growing plants and my back is aching like hell. Perhaps you are interested in cutting these pest plants ...",
+          "I'll give you 5 shiny pieces of gold for this job. Is this a deal?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Excellent. You will have to rattle at the garden gate a bit to get it open, it's quite old, you know. Tell me about the garden when you are finished."
+        ]
+      },
+      {
+        "prompt": "garden",
+        "answer": [
+          "From my window I can see that you are not finished yet."
+        ]
+      },
+      {
+        "prompt": "garden",
+        "answer": [
+          "I hope you were diligent and accurate. Here is your gold. Don't spend it on alcohol or tobacco!"
+        ]
+      },
+      {
+        "prompt": "garden",
+        "answer": [
+          "I tried to breed fish in my garden but to no avail."
+        ]
+      },
+      {
+        "prompt": "bye",
         "answer": [
           "Good bye."
         ]
