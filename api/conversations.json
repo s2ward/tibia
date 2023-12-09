@@ -73699,7 +73699,7 @@
       {
         "prompt": "hi",
         "answer": [
-          "Feel welcome in the lands of the children of the enlightened Daraman, Simula."
+          "Feel welcome in the lands of the children of the enlightened Daraman, Player."
         ]
       },
       {
@@ -73807,7 +73807,7 @@
       {
         "prompt": "bye",
         "answer": [
-          "May your soul flourish, Simula.",
+          "May your soul flourish, Player.",
           "May your soul flourish."
         ]
       }
