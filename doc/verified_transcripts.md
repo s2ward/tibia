@@ -730,6 +730,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dorbin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Dorbin.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fenrock</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Fenrock)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Golem Servant</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Fenrock/Golem_Servant.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Golem Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Golem_Guardian.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gree Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Gree_Dee.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Edna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Guide_Edna.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Karith</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Karith.txt)  
