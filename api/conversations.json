@@ -13767,7 +13767,14 @@
   {
     "file": "npc/Yalahar/Orc_Berserker.txt",
     "name": "Orc_Berserker",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Yalahar/Vincent.txt",
