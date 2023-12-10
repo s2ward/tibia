@@ -737,6 +737,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorietta</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Lorietta.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Magician Quarter</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Magician_Quarter)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tamoril</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Magician_Quarter/Tamoril.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Menacing Mummy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Menacing_Mummy.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Morpel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Morpel.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Oiriz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Oiriz.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Orc Berserker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Orc_Berserker.txt)  
