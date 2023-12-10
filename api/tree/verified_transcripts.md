@@ -707,6 +707,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Xed</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Xed.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yulas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Yulas.txt)  
 └─&nbsp;&nbsp;<strong>Yalahar</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Grumpy Cyclops</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/A_Grumpy_Cyclops.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Beregar</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Beregar)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bolfona</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Beregar/Bolfona.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bolfona And Drog</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Beregar/Bolfona_And_Drog.txt)  

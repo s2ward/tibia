@@ -354,8 +354,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cheaty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Venore_Southern_Swamp/Cheaty.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Yanni</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Yanni.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Dracoon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/The_Dracoon.txt)  
-├─&nbsp;&nbsp;<strong>Yalahar</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Grumpy Cyclops</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/A_Grumpy_Cyclops.txt)  
 └─&nbsp;&nbsp;<strong>Oskayaat</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Oskayaat)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gerib</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Oskayaat/Gerib.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kiru</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Oskayaat/Kiru.txt)  
