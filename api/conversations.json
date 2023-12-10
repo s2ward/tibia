@@ -85213,6 +85213,24 @@
     "name": "Naji",
     "conversation": [
       {
+        "prompt": "hi",
+        "answer": [
+          "HELP! We have been robbed! I can't give you any gold until the robber has been brought to justice or we have received a compensation from the king. I think the robbers ran towards the Ancient Temple."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "I'm sorry, but we have been robb- hey, what's that bag? Have you hunted down the bank robbers?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Hey, awesome. Good job. Here's some gold for all your work. Thanks to you we can open the bank again."
+        ]
+      },
+      {
         "prompt": "hi / hello",
         "answer": [
           "Welcome to the Tibian bank, Player! What can I do for you?"
@@ -85231,7 +85249,7 @@
         ]
       },
       {
-        "prompt": "paw / hunting",
+        "prompt": "Paw and Fur - hunting elite",
         "answer": [
           "The Paw and Fur - Hunting Elite is a newly founded hunting society in Port Hope. It is said that they send you on hunting mission. Sounds great if you ask me."
         ]
@@ -85240,137 +85258,6 @@
         "prompt": "time",
         "answer": [
           "It is exactly 11:35 am."
-        ]
-      },
-      {
-        "prompt": "bored",
-        "answer": [
-          "Okay okay, no need to be rude! It seems you already know everything."
-        ]
-      },
-      {
-        "prompt": "buy / sell / offer / do you have / bank",
-        "answer": [
-          "We can change money for you. You can also access your bank account or your guild account options."
-        ]
-      },
-      {
-        "prompt": "money",
-        "answer": [
-          "We can change money for you. You can also access your bank account or your guild account options."
-        ]
-      },
-      {
-        "prompt": "advanced",
-        "answer": [
-          "Your bank account will be used automatically when you want to rent a house or place an offer on an item on the market. Let me know if you want to know about how either one works."
-        ]
-      },
-      {
-        "prompt": "balance",
-        "answer": [
-          "You certainly have made a pretty penny. Your account balance is 148679 gold."
-        ]
-      },
-      {
-        "prompt": "bank account",
-        "answer": [
-          "Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...",
-          "Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?"
-        ]
-      },
-      {
-        "prompt": "basic",
-        "answer": [
-          "You can check the balance of your bank account, deposit money or withdraw it. You can also transfer money to other characters, provided that they have a vocation and are not on Dawnport."
-        ]
-      },
-      {
-        "prompt": "change",
-        "answer": [
-          "There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say 'change gold' and then '1 platinum'."
-        ]
-      },
-      {
-        "prompt": "change crystal",
-        "answer": [
-          "How many crystal coins would you like to change into platinum?"
-        ]
-      },
-      {
-        "prompt": "change gold",
-        "answer": [
-          "How many platinum coins would you like to get?"
-        ]
-      },
-      {
-        "prompt": "change platinum",
-        "answer": [
-          "Would you like to change your platinum coins into gold or crystal?"
-        ]
-      },
-      {
-        "prompt": "deposit",
-        "answer": [
-          "You don't have any gold with you."
-        ]
-      },
-      {
-        "prompt": "guild",
-        "answer": [
-          "You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. ...",
-          "If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. ...",
-          "As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. ...",
-          "Please keep in mind that we may need some time to process such requests."
-        ]
-      },
-      {
-        "prompt": "guild deposit",
-        "answer": [
-          "You are not a member of a guild."
-        ]
-      },
-      {
-        "prompt": "guild player transfer",
-        "answer": [
-          "I am sorry but it seems you are currently not in any guild."
-        ]
-      },
-      {
-        "prompt": "guild transfer",
-        "answer": [
-          "I am sorry but it seems you are currently not in any guild."
-        ]
-      },
-      {
-        "prompt": "guild withdraw",
-        "answer": [
-          "I am sorry but it seems you are currently not in any guild."
-        ]
-      },
-      {
-        "prompt": "market",
-        "answer": [
-          "If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!"
-        ]
-      },
-      {
-        "prompt": "rent",
-        "answer": [
-          "Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...",
-          "Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month."
-        ]
-      },
-      {
-        "prompt": "transfer",
-        "answer": [
-          "Please tell me the amount of gold you would like to transfer."
-        ]
-      },
-      {
-        "prompt": "withdraw",
-        "answer": [
-          "Please tell me how much gold you would like to withdraw."
         ]
       },
       {
