@@ -192,8 +192,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alwin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Alwin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chephan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Chephan.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dagomir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dagomir.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Demon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Demon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dove</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Dove.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eustacio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Eustacio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Haunted Nexus</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Haunted_Nexus)  
