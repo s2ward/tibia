@@ -80292,67 +80292,109 @@
     "name": "Galuna",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Oh, please come in, Player. What do you need?"
+          "Oh, please come in, Player. What do you need? Distance weapons? I sell lots of them."
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am the local fletcher. I am selling bows, crossbows, and ammunition. Do you need anything?"
-        ]
-      },
-      {
-        "prompt": "Name",
+        "prompt": "name",
         "answer": [
           "I am Galuna, paladin and fletcher."
         ]
       },
       {
-        "prompt": "Tibia / Forest",
+        "prompt": "job / fletcher",
         "answer": [
-          "Tibia, a green island. Here it is wunderful to walk into the forests and to hunt with a bow."
+          "I am the local fletcher. I am selling bows, crossbows, and ammunition. Do you need anything?"
         ]
       },
       {
-        "prompt": "Time",
+        "prompt": "time",
         "answer": [
           "Don't bother me. Go and buy a watch."
         ]
       },
       {
-        "prompt": "Paladins",
+        "prompt": "paladin",
         "answer": [
           "We are feared warriors and good marksmen. Ask Elane if want to know more about the guild."
         ]
       },
       {
-        "prompt": "Elf",
-        "answer": [
-          "It is rumored that they live in the northeast of Tibia. They are the best in archery."
-        ]
-      },
-      {
-        "prompt": "Thais",
-        "answer": [
-          "We have visitors of all kind in Thais, only elves show up seldom."
-        ]
-      },
-      {
-        "prompt": "Elane",
+        "prompt": "elane",
         "answer": [
           "She is the leader of all paladins."
         ]
       },
       {
-        "prompt": "Gorn",
+        "prompt": "gorn",
         "answer": [
           "I supplied him with my goods in the past, now I sell them myself."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "eclesius",
+        "answer": [
+          "I heard about him."
+        ]
+      },
+      {
+        "prompt": "the first dragon",
+        "answer": [
+          "If you'd ask me - what you just did - it's only a myth."
+        ]
+      },
+      {
+        "prompt": "tibia / forest",
+        "answer": [
+          "Tibia, a green island. Here it is wunderful to walk into the forests and to hunt with a bow."
+        ]
+      },
+      {
+        "prompt": "thais",
+        "answer": [
+          "We have visitors of all kind in Thais, only elves show up seldom."
+        ]
+      },
+      {
+        "prompt": "elf / elves",
+        "answer": [
+          "It is rumored that they live in the northeast of Tibia. They are the best in archery."
+        ]
+      },
+      {
+        "prompt": "equipment / weapons / offer / goods / buy / sell",
+        "answer": [
+          "My offers are bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade."
+        ]
+      },
+      {
+        "prompt": "arrows / bolts",
+        "answer": [
+          "I sell arrows for bows and bolts for crossbows. Ask me for a trade if you're interested to see my wares."
+        ]
+      },
+      {
+        "prompt": "bows",
+        "answer": [
+          "I don't buy used bows. If you want to buy one, just ask me for a trade."
+        ]
+      },
+      {
+        "prompt": "crossbows",
+        "answer": [
+          "I don't buy used crossbows. If you want to buy one, just ask me for a trade."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Of course, just browse through my wares."
+        ]
+      },
+      {
+        "prompt": "bye",
         "answer": [
           "Good bye."
         ]

@@ -568,6 +568,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Timur</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Timur.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Frodo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Frodo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gaberiel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gaberiel.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Galuna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Galuna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gamel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gamel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gamon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gamon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gorn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gorn.txt)  
