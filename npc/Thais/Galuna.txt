@@ -1,22 +1,36 @@
-Player: Hi  
-Galuna: Oh, please come in, Player. What do you need?  
-Player: Job  
-Galuna: I am the local fletcher. I am selling bows, crossbows, and ammunition. Do you need anything?  
-Player: Name  
-Galuna: I am Galuna, paladin and fletcher.  
-Player: Tibia / Forest  
-Galuna: Tibia, a green island. Here it is wunderful to walk into the forests and to hunt with a bow.  
-Player: Time  
-Galuna: Don't bother me. Go and buy a watch.  
-Player: Paladins  
-Galuna: We are feared warriors and good marksmen. Ask Elane if want to know more about the guild.  
-Player: Elf  
-Galuna: It is rumored that they live in the northeast of Tibia. They are the best in archery.  
-Player: Thais  
-Galuna: We have visitors of all kind in Thais, only elves show up seldom.  
-Player: Elane  
-Galuna: She is the leader of all paladins.  
-Player: Gorn  
-Galuna: I supplied him with my goods in the past, now I sell them myself.  
-Player: Bye  
-Galuna: Good bye.  
+Player: hi
+Galuna: Oh, please come in, Player. What do you need? Distance weapons? I sell lots of them.
+Player: name
+Galuna: I am Galuna, paladin and fletcher.
+Player: job / fletcher
+Galuna: I am the local fletcher. I am selling bows, crossbows, and ammunition. Do you need anything?
+Player: time
+Galuna: Don't bother me. Go and buy a watch.
+Player: paladin
+Galuna: We are feared warriors and good marksmen. Ask Elane if want to know more about the guild.
+Player: elane
+Galuna: She is the leader of all paladins.
+Player: gorn
+Galuna: I supplied him with my goods in the past, now I sell them myself.
+Player: eclesius
+Galuna: I heard about him.
+Player: the first dragon
+Galuna: If you'd ask me - what you just did - it's only a myth.
+Player: tibia / forest
+Galuna: Tibia, a green island. Here it is wunderful to walk into the forests and to hunt with a bow.
+Player: thais
+Galuna: We have visitors of all kind in Thais, only elves show up seldom.
+Player: elf / elves
+Galuna: It is rumored that they live in the northeast of Tibia. They are the best in archery.
+Player: equipment / weapons / offer / goods / buy / sell
+Galuna: My offers are bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade.
+Player: arrows / bolts
+Galuna: I sell arrows for bows and bolts for crossbows. Ask me for a trade if you're interested to see my wares.
+Player: bows
+Galuna: I don't buy used bows. If you want to buy one, just ask me for a trade.
+Player: crossbows
+Galuna: I don't buy used crossbows. If you want to buy one, just ask me for a trade.
+Player: trade
+Galuna: Of course, just browse through my wares.
+Player: bye
+Galuna: Good bye.
