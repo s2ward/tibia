@@ -12356,7 +12356,14 @@
   {
     "file": "npc/Yalahar/A_Grumpy_Cyclops.txt",
     "name": "A_Grumpy_Cyclops",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Yalahar/Guide_Edna.txt",
