@@ -556,7 +556,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Dracoon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/The_Dracoon.txt)  
 ├─&nbsp;&nbsp;<strong>Yalahar</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Beautiful Girl</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/A_Beautiful_Girl.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Grumpy Cyclops</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/A_Grumpy_Cyclops.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Magician Quarter</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Magician_Quarter)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lucius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Yalahar/Magician_Quarter/Lucius.txt)  
 └─&nbsp;&nbsp;<strong>Oskayaat</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Oskayaat)  
