@@ -85213,6 +85213,24 @@
     "name": "Naji",
     "conversation": [
       {
+        "prompt": "hi",
+        "answer": [
+          "HELP! We have been robbed! I can't give you any gold until the robber has been brought to justice or we have received a compensation from the king. I think the robbers ran towards the Ancient Temple."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "I'm sorry, but we have been robb- hey, what's that bag? Have you hunted down the bank robbers?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Hey, awesome. Good job. Here's some gold for all your work. Thanks to you we can open the bank again."
+        ]
+      },
+      {
         "prompt": "hi / hello",
         "answer": [
           "Welcome to the Tibian bank, Player! What can I do for you?"
