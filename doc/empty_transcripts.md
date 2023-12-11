@@ -314,7 +314,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ferryman Kamil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Ferryman_Kamil.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gareth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gareth.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jack Springer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Jack_Springer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Meluna</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alissa</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Alissa.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nienna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Meluna/Nienna.txt)  
