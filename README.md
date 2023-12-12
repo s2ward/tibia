@@ -2,15 +2,15 @@
 
 A repository for all things Tibia.  
 
-- Research: [s2ward/docs](https://github.com/s2ward/docs), [reddit](https://www.reddit.com/r/SolvingTibia)  
-- TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)  
+- TalesOfTibia.com: [Open Source](https://github.com/s2ward/talesoftibia.com)
+- Discord: [Explorer Society](https://discord.gg/JRvjSuU99U)
 - Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
 - Search Books: [LIBSearch](https://www.talesoftibia.com/libsearch)  
-- NPC Page: [all NPCS](https://github.com/s2ward/tibia/tree/main/npc)  
+- Research: [s2ward/docs](https://github.com/s2ward/docs), [reddit](https://www.reddit.com/r/SolvingTibia)   
 - All Transcripts: [↗](./doc/all_transcripts.md)  
 
-The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
-NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
+The `npc/` directory and its content is used by [NPSearch](https://www.talesoftibia.com/npsearch)  
+The `api/books.json` contains 1370~ books and is used by [LIBSearch](https://www.talesoftibia.com/libsearch)
 
 By searching in the Tree views below, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
 
@@ -21,7 +21,7 @@ By searching in the Tree views below, you can quickly get to your NPC you are lo
 - Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
 - Empty or Unverified transcripts: [↗](./doc/unverified_empty_transcripts.md)  
 
-npc/ directory structure:  
+npc/ directory structure: [npc/town/subarea/npc.txt](https://github.com/s2ward/tibia/tree/main/npc)
 ```
 ├── Yalahar
 │   ├── A_Beautiful_Girl.txt
@@ -37,9 +37,6 @@ And so on.
 
 ## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
 
-Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder. 
-I can make you a collaborator on request if you wish to contribute.
-
 A great way to contribute is by checking [unverified or empty](./doc/unverified_empty_transcripts.md) transcripts and pick one.  
 You can CTRL+F for your NPC and click on the link to access their corresponding .txt file.
 
@@ -48,13 +45,8 @@ When you have collected your transcript(s), paste your content in an NPC file in
 Player: <your keyword>  
 NPC: <npc response>  
 ```
-
-On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/validate.yml) will make sure that the format is correct by running src/validate.py
-
-When maintainer approves, publish-conversations.json will run and update api/file-mappings.json based on what changes have been done.  
-Tree views doc/*_transcripts.md will be generated and updated using api/file-mappings.json.  
-Another job will run which will convert all transcripts including your new contribution into api/conversations.json.  
-Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/npsearch) fetches the .json and uses it for search using src/search.js  
+Create a pull-request.
+Note: You can ask for collaborator access in discord/reddit or in a pull-request. 
 
 If you want to contribute but have no idea how, you may also send the transcripts through:  
 - [discord](https://discord.gg/JRvjSuU99U) (preferred)  
@@ -64,9 +56,9 @@ If you want to contribute but have no idea how, you may also send the transcript
 
 [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
 
-To find all the tricky and secret single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
+To find tricky, hidden single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
 
-See it in action on YouTube [here](https://youtu.be/YMx6i2K9K00?t=41)
+## See it in action on YouTube [here!](https://youtu.be/YMx6i2K9K00?t=41)
 
 It consists of strings of unique words with a maximum of 255 characters.  
 - These strings are populated to Action-Bar buttons. 
@@ -102,7 +94,6 @@ You can go to settings in Tibia and click 'Open screenshots folder' to quickly f
         }
 ```
 Add a comma `,` and paste the contents of clientoptions.json
-
 ```
                     }
                 ]
@@ -110,10 +101,9 @@ Add a comma `,` and paste the contents of clientoptions.json
             x<-- there
         }
 ```
+To confirm that the new clientoptions.json is correct, copy-paste the entirety of your clientoptions.json into [json validater](https://jsonlint.com/) to check if it's valid. 
 
-Confirm that the new .json is correct. Copy-paste the entirety of your clientoptions.json into [json validater](https://jsonlint.com/) to check if it contains any errors. 
-
-#### Is this legal?  
+### Is this legal?  
 
 Yes. It violates no rules/ToS. You are effectively just importing/restoring hotkeys.  
 
@@ -151,7 +141,7 @@ As well as some from Tibiasecrets.com discord community.
 
 # Getting started with the world of Tibia Lore & Mysteries.  
 
-## 1. What is the lore? 
+### 1. What is the lore? 
 
 The lore of Tibia is truly unique and nothing like you've seen in any other game.  
 It can provide answers to *every single mystery* in Tibia, both big and small. Once you've learnt something new, five more mysteries arise you've never even heard or thought of. You'll see that 99% percent of the mysteries are never even discussed online.   
@@ -243,11 +233,21 @@ Do what you feel like. Do what you think is fun.
 10. Thinking that a mystery cannot be solved
 	- A lot of people assume a mystery can't be solved due to lazy developers or that they don't agree with how Cip is running things. This is absolutely not the case. If you ever stumble upon an inconsistency, you've stumbled upon a great mystery that can be explained. One example of such is [The First Dragon](https://www.tibiaqa.com/710/why-is-the-first-dragon-called-first-dragon-and-not-garsharak). While there might not be a physical reward for every single mystery, the riddles can be solved and their existence can be answered.
 
-# Most Importantly
+### Most Importantly
 
 Have fun!
 
 --- 
+
+## Workflows
+
+On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/validate.yml) will make sure that the format is correct by running src/validate.py
+
+When maintainer approves, .github/worflows/publish-conversations.yaml will run and update api/file-mappings.json, doc/<tree views> and api/conversations.json based on changes.  
+Tree views doc/*_transcripts.md will be generated and updated based on api/file-mappings.json.  
+All NPC.txt files including incoming changes creates api/conversations.json.  
+Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/npsearch) fetches the jsons. 
+
 
 All NPC transcripts & books are the work of CipSoft GMBH.  
 I do not own them, this is merely fan-based work.  
