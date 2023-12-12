@@ -12,53 +12,46 @@ A repository for all things Tibia.
 The NPC section is used to power up [NPSearch](https://www.talesoftibia.com/npsearch)  
 NPC transcript layout: [npc/{town}/{subarea}/{npc}.txt](https://github.com/s2ward/tibia/tree/main/npc)
 
-By searching in the Tree views below, you can quickly get to your NPC you are looking for (CTRL + F "A Prisoner").  
+By searching in the Tree views below, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
 
 ### Tree views  
-All Transcripts: [↗](./doc/all_transcripts.md)   
-Verified Transcripts: [↗](./doc/verified_transcripts.md)   
-Empty transcripts: [↗](./doc/empty_transcripts.md)  
-Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
-Empty or Unverified transcripts: [↗](./doc/unverified_empty_transcripts.md)  
+- All Transcripts: [↗](./doc/all_transcripts.md)   
+- Verified Transcripts: [↗](./doc/verified_transcripts.md)   
+- Empty transcripts: [↗](./doc/empty_transcripts.md)  
+- Unverified transcripts: [↗](./doc/unverified_transcripts.md)  
+- Empty or Unverified transcripts: [↗](./doc/unverified_empty_transcripts.md)  
 
-Repository NPC structure:  
+npc/ directory structure:  
 ```
 ├── Yalahar
 │   ├── A_Beautiful_Girl.txt
-│   ├── A_Grumpy_Cyclops.txt
 │   ├── Beregar
 │   │   ├── Bolfona.txt
-│   │   ├── Bolfona_And_Drog.txt
-│   │   ├── Drog.txt
-│   │   ├── Emperor_Rehal.txt
-│   │   ├── Frok,_The_Guard.txt
 │   │   ├── Harog.txt
-│   │   └── Kihil,_The_Guard.txt
+│   │   └── ...
 │   ├── Beregar_Mines
-│   │   ├── Frafnar.txt
+│   │   ├── ...
 ... 
 And so on.  
 ```
 
 ## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
 
-- First request collaborator access (preffered)
+Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder. 
+I can make you a collaborator on request if you wish to contribute.
 
-- Create a pull-request and edit any NPC within [npc](https://github.com/s2ward/tibia/tree/main/npc) folder.  
+A great way to contribute is by checking [unverified or empty](./doc/unverified_empty_transcripts.md) transcripts and pick one.  
+You can CTRL+F for your NPC and click on the link to access their corresponding .txt file.
 
-A great way to contribute is by checking [Empty](./docs/empty_files_tree.md) or [unverified](./docs/unverified_files_tree.md) transcripts and just pick one.  
-You can CTRL+F for you favorite NPCs and click on the link to them.  
-
-- When you have your transcript logs, paste your content in an NPC file like this:  
-
+When you have collected your transcript(s), paste your content in an NPC file in this format:  
 ```
-Player: {your keyword}  
-NPC: {npc response}  
+Player: <your keyword>  
+NPC: <npc response>  
 ```
 
 On pull-request, an [automatic job](https://github.com/s2ward/tibia/tree/main/.github/workflows/validate.yml) will make sure that the format is correct by running src/validate.py
 
-When approver approves, publish-conversations.json will run and update api/file-mappings.json based on what changes have been done.  
+When maintainer approves, publish-conversations.json will run and update api/file-mappings.json based on what changes have been done.  
 Tree views doc/*_transcripts.md will be generated and updated using api/file-mappings.json.  
 Another job will run which will convert all transcripts including your new contribution into api/conversations.json.  
 Upon merge by a repository maintainer, the transcript will deploy to GitHub pages where [NPSearch](https://talesoftibia.com/npsearch) fetches the .json and uses it for search using src/search.js  
@@ -67,14 +60,17 @@ If you want to contribute but have no idea how, you may also send the transcript
 - [discord](https://discord.gg/JRvjSuU99U) (preferred)  
 - [reddit](https://www.reddit.com/user/s2w) 
 
-# [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
+# Hotkey Mania
 
-![image](https://user-images.githubusercontent.com/25346191/230845416-bfe24fe7-62df-48be-abbc-760926d835bb.png)
+[hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
 
-To find all the tricky and secret single-word keywords, I've made a hotkey preset you can import into your pre-existing hotkey file.   
+To find all the tricky and secret single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
 
-It consists of strings of unique words with a maximum of 255 characters which is the length limit for one message in Tibia.  
-These strings are populated to Action-Bar buttons. Effort has been made to make all words unique, but there will be duplicates, it's not 100% perfect but pretty close. All words have been shuffeled to make words spread out instead of having loads of commonly 'responed-to' words in one button to make it easier when two or more words are in one button.  
+See it in action on YouTube [here](https://youtu.be/YMx6i2K9K00?t=41)
+
+It consists of strings of unique words with a maximum of 255 characters.  
+- These strings are populated to Action-Bar buttons. 
+- Duplicate words by design randomly spread out between buttons
 
 There are currently three hotkey presets: "NPC1", "NPC2" and "NPC3". You can cycle through them using CTRL + J.  
 The content of the hotkey presets are as follows (in order):  
@@ -83,34 +79,45 @@ The content of the hotkey presets are as follows (in order):
 - 10 000 most **common**ly used english words.  
 - 15 000 words we find in **books** of Tibia.  
 
-When talking to NPCs, you can click-spam all of these actionbar buttons in approx 10 minutes! No more copy-pasting for hours and hours lasting a whole day. If ten people do 10 NPCs in 6 days, we'd finish all NPCs with excellent quality and can then find and move on to multi-word keywords. Such as 'gabel is a rebel' 'magic crystal lugri deathcurse' or 'one eyed stranger'  
+When talking to NPCs, you can click-spam all of these actionbar buttons in approx 10-30 minutes _while_ saving the transcripts into a .txt
 
 ### How to import your hotkeys to your pre-existing hotkey file  
 
 For windows, your hotkeys reside here:  
 
-- Windows: %APPDATA%\Tibia\packages\Tibia\conf\\**clientoptions.json**  
+- Windows: `%LOCALAPPDATA%\Tibia\packages\Tibia\conf\` 
 
 You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
 
 ## Step by step how-to:  
 
 1. Close Tibia (important)
-2. Backup clientopsions.json (important)
+2. Backup clientoptions.json (important)
 3. Open clientoptions.json with a text-editor.  
-4. Paste the contents of hotkeys.json here:  
+4. Copy the whole block below and search for it (CTRL + F)
+```
+                    }
+                ]
+            }
+        }
+```
+Add a comma `,` and paste the contents of clientoptions.json
 
-![image](https://user-images.githubusercontent.com/25346191/230849013-b8a6e683-dac7-40a3-bd47-f2590f98cee8.png)  
-Above picture is where you start your paste, picture below is the end of the paste, just make sure to paste between the correct curly brackets `{` and brackets `[`.  
+```
+                    }
+                ]
+            }, 
+            x<-- there
+        }
+```
 
-3. Confirm that the new .json is correct. Copy-paste the entirety of your clientoptions.json into [json validater](https://jsonformatter.curiousconcept.com/) to check if it contains any errors.  
-
-Congratulations.  
-You now have a never-before done and completely legal new edge in finding unheard of new mysteries.  
+Confirm that the new .json is correct. Copy-paste the entirety of your clientoptions.json into [json validater](https://jsonlint.com/) to check if it contains any errors. 
 
 #### Is this legal?  
 
 Yes. It violates no rules/ToS. You are effectively just importing/restoring hotkeys.  
+
+# Contributors
 
 ### Top transcript contributors:  
 
@@ -124,26 +131,23 @@ Yes. It violates no rules/ToS. You are effectively just importing/restoring hotk
 - 🥈 [tibia.fandom.com/](https://tibia.fandom.com/) ~1220 books in library
 - 🥉 s2w (Cony Island) Merged and added books to reach ~1370 books in library
 
-### Individual contributors: 
+## Individual contributors: 
 
-You can view all contributions here, in an issue that automatically updates:  
+You can view all individual contributions in [Contributions Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
 
-Contributions [Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
-
+Roughly:
 - Cony Island with 200 contributions.  
-- LucH (Cookie12345678) with 40 contributions.  
+- LucH (Cookie12345678) with 50 contributions.  
 - elkolorado with 4 contributions.
 - BrunoBrockweldAlves With 1 contribution.
 
-# Research:  
+As well as some from Tibiasecrets.com discord community.
 
----
+# Research:  
 
 - [469](https://s2ward.github.io/docs/469/1/)
 - [Island Dianscher, 469](https://www.reddit.com/r/TibiaMMO/comments/15832tv/lore_warlocks_draconia_trolls_the_mysterious/)
 - [getting-started](https://s2ward.github.io/docs/getting-started/)
-
----
 
 # Getting started with the world of Tibia Lore & Mysteries.  
 
