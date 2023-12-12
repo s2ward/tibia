@@ -12,6 +12,10 @@ A repository for all things Tibia.
 The `npc/` directory and its content is used by [NPSearch](https://www.talesoftibia.com/npsearch)  
 The `api/books.json` contains 1370~ books and is used by [LIBSearch](https://www.talesoftibia.com/libsearch)
 
+## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
+
+A great way to contribute is by checking [unverified or empty](./doc/unverified_empty_transcripts.md) transcripts and pick one.  
+
 By searching in the Tree views below, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
 
 ### Tree views  
@@ -35,16 +39,12 @@ npc/ directory structure: [npc/town/subarea/npc.txt](https://github.com/s2ward/t
 And so on.  
 ```
 
-## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
-
-A great way to contribute is by checking [unverified or empty](./doc/unverified_empty_transcripts.md) transcripts and pick one.  
-You can CTRL+F for your NPC and click on the link to access their corresponding .txt file.
-
 When you have collected your transcript(s), paste your content in an NPC file in this format:  
 ```
 Player: <your keyword>  
 NPC: <npc response>  
 ```
+
 Create a pull-request.
 Note: You can ask for collaborator access in discord/reddit or in a pull-request. 
 
@@ -58,7 +58,7 @@ If you want to contribute but have no idea how, you may also send the transcript
 
 To find tricky, hidden single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
 
-## See it in action on YouTube [here!](https://youtu.be/YMx6i2K9K00?t=41)
+### See it in action on YouTube ----> [here!](https://youtu.be/YMx6i2K9K00?t=41) <----
 
 It consists of strings of unique words with a maximum of 255 characters.  
 - These strings are populated to Action-Bar buttons. 
@@ -81,7 +81,7 @@ For windows, your hotkeys reside here:
 
 You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
 
-## Step by step how-to:  
+### Step by step how-to:  
 
 1. Close Tibia (important)
 2. Backup clientoptions.json (important)
@@ -121,7 +121,7 @@ Yes. It violates no rules/ToS. You are effectively just importing/restoring hotk
 - 🥈 [tibia.fandom.com/](https://tibia.fandom.com/) ~1220 books in library
 - 🥉 s2w (Cony Island) Merged and added books to reach ~1370 books in library
 
-## Individual contributors: 
+### Individual contributors: 
 
 You can view all individual contributions in [Contributions Table](https://github.com/s2ward/tibia/issues/51#issuecomment-1506364610)  
 
