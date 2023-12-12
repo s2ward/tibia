@@ -87,7 +87,7 @@ You can go to settings in Tibia and click 'Open screenshots folder' to quickly f
 1. Close Tibia (important)
 2. Backup clientoptions.json (important)
 3. Open clientoptions.json with a text-editor.  
-4. Copy the whole block below and search for it (CTRL + F)
+4. Copy the whole block below (including spaces) and search for it (CTRL + F)
 ```
                     }
                 ]
@@ -206,7 +206,7 @@ Here we follow the leads of a contained place into another contained place and a
 
 Do what you feel like. Do what you think is fun.  
 
-# Common pitfalls 
+## Common pitfalls 
 
 1. Thinking that a reward is around every corner.
 	- The thrill of figuring something out or seeing something new might convince you that there is a physical reward just around the corner. While it might be fun to try and come up with ideas, it's easy to get stuck in this phase. The lore is *HUGE* and the mysteries are endless. My opinion is that any mechanical quest / physical reward will emerge just like the solution to the various riddles and mysteries.  
