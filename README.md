@@ -15,8 +15,22 @@ The `api/books.json` contains 1370~ books and is used by [LIBSearch](https://www
 ## How to contribute to [NPSearch](https://www.talesoftibia.com/npsearch)  
 
 A great way to contribute is by checking [unverified or empty](./doc/unverified_empty_transcripts.md) transcripts and pick one.  
+You may look into "Hotkey Mania" below to ask thousands of words per minute if you want to document an entire NPCs transcripts. 
 
-By searching in the Tree views below, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
+By searching in the tree view from above link, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
+
+When you have your transcript(s), paste your content in an NPC file in this format:  
+```
+Player: <your keyword>  
+NPC: <npc response>  
+```
+
+Create a pull-request.
+Note: You can ask for collaborator access in discord/reddit or in a pull-request. 
+
+If you want to contribute but have no idea how, you may also send the transcripts through:  
+- [discord](https://discord.gg/JRvjSuU99U) (preferred)  
+- [reddit](https://www.reddit.com/user/s2w)
 
 ### Tree views  
 - All Transcripts: [↗](./doc/all_transcripts.md)   
@@ -38,19 +52,6 @@ npc/ directory structure: [npc/town/subarea/npc.txt](https://github.com/s2ward/t
 ... 
 And so on.  
 ```
-
-When you have collected your transcript(s), paste your content in an NPC file in this format:  
-```
-Player: <your keyword>  
-NPC: <npc response>  
-```
-
-Create a pull-request.
-Note: You can ask for collaborator access in discord/reddit or in a pull-request. 
-
-If you want to contribute but have no idea how, you may also send the transcripts through:  
-- [discord](https://discord.gg/JRvjSuU99U) (preferred)  
-- [reddit](https://www.reddit.com/user/s2w) 
 
 # Hotkey Mania
 
