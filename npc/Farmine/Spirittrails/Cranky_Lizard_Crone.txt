@@ -14,12 +14,23 @@ Player: emperor
 Cranky Lizard Crone: Hm, I don't really know, it seemz I.. cannot really remember. Well, I guezz he did not interfere wiz ze lifez of uz small folk here in ze village. And we alwayz had problemz of our own.
 Player: zao
 Cranky Lizard Crone: The world in which we all dwell. I have been here for zo long now, zo long.
-Player: cape / hat
-Cranky Lizard Crone: I made zomezing for you, didn't I? Now leave ziz plaze, hush! Leave me alone.
 Player: cape
 Cranky Lizard Crone: Oh yez, I darned many capez, hatz and other clozez for my family back in ze day. Oh indeed I did.
 Player: hat
 Cranky Lizard Crone: I uzed to mend hatz a long time ago. I was.. quite good at it. If I remember correctly.
+Player: cape (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Mh, I zee, well I probably darned more capez in my time than you wore in your entire life. Give it here, one more or lezz will not make a differenze, right?
+Player: yes (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Hm, alright zen. Give me a minute. ...
+Cranky Lizard Crone: Zo, zere you go. Now finally leave me be.
+Player: hat (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Do I look like your perzonal hatter?! ...
+Cranky Lizard Crone: Well, on ze ozer hand, I do have zome experienze from my time working for zeze people. And zat hat surely needz a makeover. Care to give it to me?
+Player: yes (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Alright let me zee. ...
+Cranky Lizard Crone: Here you are. Now begone.
+Player: cape / hat (Wayfarer Outfits Quest)
+Cranky Lizard Crone: I made zomezing for you, didn't I? Now leave ziz plaze, hush! Leave me alone.
 Player: mission / quest
 Cranky Lizard Crone: Oooh... I am alone again, alone forever. Oooh. And nozing to do, nozing. But I want to help.. want to make up for the trouble I cauzed. ...
 Cranky Lizard Crone: YOU - you zere, I can help you.. maybe, I can clean your houze, no? Or make breakfazt, no? Do you have any trouzerz, hat, cape or clozez you need to fix, no? Ah, I am alone, ever alone.
