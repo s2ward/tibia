@@ -11,7 +11,6 @@ Ratha: I almost solved the riddle of the paradox tower yet my backpain made the 
 Ratha: I once fell in love with a woman, who turned out to be a cultist that wanted to sacrifice me in the dark cathedral!
 Ratha: I wonder who's the strongest. That giant ape in the forbidden land of Tiquanda or Nimmersatt?
 Ratha: I once won a boxing contest against a bunch of ruffians. Henceforth they were known as the toothless seven!
-Ratha: I visited the Pits of Inferno once by accident. I misheard a friend of mine, thinking he invited me to a pizza inferno.
 Ratha: You know it's rather dirty in here. I wonder what kinds of thoughts caused this!
 Ratha: You know, before my untimely demise I was just preparing to do the Annihilator quest.
 Ratha: One night I got so drunk, I walked straight into the hellgate in Ab'Dendriel!
@@ -25,5 +24,8 @@ Ratha: The orc king stole my bottled djinn. I wonder what he used his wish for.
 Ratha: My precious watch was stolen in Thais by some red headed street kid. I wonder what became of her.
 Ratha: I applied to the gnomish bigfoot brigade, but I failed to pass the test!
 Ratha: Oh, if you ever hear stories about me, being tricked into kissing a pig, those stories are just lies of course!
-Ratha: A friend of mine was driven mad by his studies of some 'outer god'. He ended up living in the wilds and roping up monks.
+Ratha: I visited the Pits of Inferno once by accident. I misheard a friend of mine, thinking he invited me to a pizza inferno.
 Ratha: A friend of mine was a scholar of the Nightmare Knights and the Brotherhood of Bones! Of Goshnar in particular.
+Ratha: A friend of mine was driven mad by his studies of some 'outer god'. He ended up living in the wilds and roping up monks.
+Ratha: I used to work as Captain Caveworn's sidekick for a while! (typo: captain caveworm)
+Ratha: Have you ever met this arrogant Ava Tar guy in Edron? I wonder if he's still around!
