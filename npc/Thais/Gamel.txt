@@ -7,7 +7,8 @@ Gamel: I sell maces, staffs, daggers and brass helmets. Ask me for a trade.
 Player: trade  
 Gamel: There you go.  
 Player: name  
-Gamel: Names don't matter.  
+Gamel: Names don't matter.
+Player: Rebellion
 Gamel: Uhm... who sent you?  
 Player: berfasmur  
 Gamel: So, you are a new recruit in the ranks of the rebellion! To proof your worthyness, go and get us a magic crystal.  
@@ -26,6 +27,8 @@ Gamel: I am selling some... things.
 Player: berfasmur  
 Gamel: Never heard that name!  
 Player: first dragon  
-Gamel: My grandfather had seen it with his own eyes!  
+Gamel: My grandfather had seen it with his own eyes!
+Player: Hi / hello (Kingsday)
+Gamel: Shh. Especially on Kingsday it's important not too attract too much attention.
 Player: farewell/bye  
 Gamel: Bye. Tell others about... my little shop here.  
