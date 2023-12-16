@@ -119,7 +119,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chrystal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Chrystal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Cormaya</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Majestic Warwolf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/A_Majestic_Warwolf.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dedoras</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Dedoras.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghostly Wolf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Ghostly_Wolf.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkhurst</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Hawkhurst.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pemaret</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Pemaret.txt)  
