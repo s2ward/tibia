@@ -25272,7 +25272,12 @@
       {
         "prompt": "name",
         "answer": [
-          "Names don't matter.",
+          "Names don't matter."
+        ]
+      },
+      {
+        "prompt": "Rebellion",
+        "answer": [
           "Uhm... who sent you?"
         ]
       },
@@ -25328,6 +25333,12 @@
         "prompt": "first dragon",
         "answer": [
           "My grandfather had seen it with his own eyes!"
+        ]
+      },
+      {
+        "prompt": "Hi / hello (Kingsday)",
+        "answer": [
+          "Shh. Especially on Kingsday it's important not too attract too much attention."
         ]
       },
       {
