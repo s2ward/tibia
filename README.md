@@ -19,13 +19,44 @@ You may look into "Hotkey Mania" below to ask thousands of words per minute if y
 
 By searching in the tree view from above link, you can quickly get to your NPC you are looking for. (CTRL + F "A Prisoner").  
 
-When you have your transcript(s), paste your content in an NPC file in this format:  
+1. When you have your transcript(s), paste your content in an NPC file in this format:  
+
 ```
 Player: <your keyword>  
 NPC: <npc response>  
 ```
 
-Create a pull-request.
+We also strive to group up what makes sense.
+
+```markdown
+# Introduction Queries
+hi, name, job, time
+
+# Miscellaneous Queries
+army, news, rumors
+
+# Queries About Places
+thais, venore, carlin
+
+# Queries About Other Characters
+sam, frodo, oswald
+
+# Chained Conversations
+Follow the flow as NPC leads with new keywords
+
+# Quest-Related Conversations
+- holy orchid (Wizard Outfits Quest)
+
+# Ending the Conversation
+bye
+```
+
+Example: [Chester Kahs](https://github.com/s2ward/tibia/blob/main/npc/Thais/Chester_Kahs.txt)
+
+If they have the same response for e,g, 'offer', 'goods' and 'buy', use format:  
+Player: offer / goods / buy
+
+2. Create a pull-request.
 Note: You can ask for collaborator access in discord/reddit or in a pull-request. 
 
 If you want to contribute but have no idea how, you may also send the transcripts through:  
