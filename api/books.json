@@ -890,6 +890,47 @@
         ]
     },
     {
+        "name": "An_Amalgam_of_Carnage_and_Madness",
+        "author": "?",
+        "description": "A short report on the blood god in the gods' war.",
+        "locations": [
+            "Ab'Dendriel -> Tree Library I", 
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library",
+            "Ab'Dendriel Libraries"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "Blood_God_Worshiping",
+        "previous-book": "The_Blood_God",
+        "img": [
+            "Book_(Black)",
+            "Book_(Brown)"
+        ],
+        "text": "In the times of the god wars a blasphemous creature, an amalgam of carnage and madness arose from the blood soaked battlefields. It was a gigantic, self-aware blood golem, created by the magical powers used in the war, fused with the souls and suffering of the fallen. In it's madness the creature claimed godhood for itself and roamed the world, subjugating followers and devouring those who would not yield to its will. Its delusions of grandeur were such intense that it's hunger and arrogance stopped for no one. So at some point it and its followers came upon a great, pitched battle of the forces of good and evil.\nIn it's madness the self proclaimed god and his followers attacked the warring parties. The blood thing planned to devour them all as it had done countless times before. Yet the armies brought their battle to a hold and accessing the situations the commanders decided to join forces. In unison they struck against the army of the blood god which was only prepared to strike at confused enemies, fighting each other. Soon the blood army was scattered and in retreat. The blood creature, sensing the danger took flight too but the enemies did persist.",
+        "map": [
+            "https://tibiamaps.io/map#32689,31658,7:2",
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Main Continent - Cities",
+            "area": "Ab'Dendriel",
+            "subarea": "Tree Library I"
+          },
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
         "name": "The_Manasphere_Critique",
         "author": "Othis Ethna",
         "description": "Arguement dragging out the flaws in The Manasphere .",
@@ -1209,6 +1250,38 @@
                 "area": "Ab'dendriel",
                 "subarea": "Shadow Caves Library"
             }
+        ]
+    },
+    {
+        "name": "The_Blood_Queen",
+        "author": "?",
+        "description": "Report on the Blood Queen.",
+        "locations": [
+            "Ab'Dendriel -> Shadow Caves Library"
+        ],
+        "libraries": [
+            "Ab'Dendriel Libraries"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "The_Splinters",
+        "previous-book": "References_About_the_Blood_God",
+        "img": [
+            "Book_(Black)"
+        ],
+        "text": "Legends and myths surrounding a powerful creature known as the Blood Queen have persisted through the ages, often told in hushed whispers by those brave enough to speak of her. The Blood Queen is said to have been a being of immense power and beauty, able to control blood and command armies of the undead. Some sources claim that she was born from the ashes of a great war, while others suggest that she was a goddess of death and destruction. Regardless of her origin, it is widely believed that the Blood Queen was eventually defeated by a coalition of heroes from various realms. However, some rumors persist that she still lurks in the shadows, bidding her time until she can once again rise to power and dominate the world.",
+        "map": [
+            "https://tibiamaps.io/map#32681,31646,8:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Main Continent - Cities",
+            "area": "Ab'Dendriel",
+            "subarea": "Shadow Caves Library"
+          }
         ]
     },
     {
@@ -14117,6 +14190,39 @@
                 "area": "Kazordoon",
                 "subarea": "Halls of Sorcery Library"
             }
+        ]
+    },
+    {
+        "name": "Blood_God_Worshiping",
+        "author": "?",
+        "description": "A report about the worship of the blood god by a secret cult.",
+        "locations": [
+            "Kazordoon -> Halls of Sorcery"
+        ],
+        "libraries": [
+            "Kazordoon Libraries"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "The_Blood_Cult",
+        "previous-book": "An_Amalgam_of_Carnage_and_Madness",
+        "img": [
+            "Book_(Red)",
+            "Book_(Brown)"
+        ],
+        "text": "In ancient times, a god of blood was revered by a cult of fanatical followers. This cult was said to have performed gruesome blood rituals and sacrifices to appease their deity and gain access to its immense power. Some sources claim that this god of blood was responsible for creating the first vampires, imbuing them with his own power and granting them immortality. Others suggest that the cult's rituals were simply an attempt to emulate the power of the blood god, rather than a direct channeling of his power. Regardless of the truth, the cult eventually fell out of favor and its practices were suppressed by the ruling powers of the time. Yet, whispers still persist of secret blood cults that venerate the blood god and seek to tap into its otherworldly power.",
+        "map": [
+            "https://tibiamaps.io/map#32630,31920,4:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Main Continent - Cities",
+            "area": "Kazordoon",
+            "subarea": "Halls of Sorcery Library"
+          }
         ]
     },
     {
@@ -44421,6 +44527,38 @@
         ]
     },
     {
+        "name": "Legends_About_the_Blood_God",
+        "author": "?",
+        "description": "Discusses the reverence of the blood god by vampires.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "References_About_the_Blood_God",
+        "previous-book": "The_Blood_Cult",
+        "img": [
+            "Book_(Brown_Square)"
+        ],
+        "text": "Legends that predate the rise of humanity tell of a god of blood, revered by an ancient race of vampires. Supposedly the progenitor of their race, it became old and bloated, only fed by its offspring through sacrifices.\nIn the god wars, its reverence reached a high, as all the blood from the countless battles could be used to feed it. It grew immensely in size and power, eventually bursting out of its hideout and crawling over the battlefields, devouring and consuming the fallen and wounded alike. As the battles raged, the god of blood was widely ignored by the warring parties. Eventually, the creature became so bloated on blood and corpses that it could no longer sustain its form and just burst into disgusting remains that littered the entire world. These splinters infected other creatures and gave rise to new generations of vampires. However, these vampires are seen as abominations by the first pure and true vampires.",
+        "map": [
+            "https://tibiamaps.io/map#32961,32942,7:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
         "name": "The_History_of_King_Zelos_II",
         "author": "?",
         "description": "The fall of King Zelos.",
@@ -45567,6 +45705,166 @@
         ]
     },
     {
+        "name": "References_About_the_Blood_God",
+        "author": "?",
+        "description": "Discusses references to the blood god and its impact on the Tibian world.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "The_Blood_Queen",
+        "previous-book": "Legends_About_the_Blood_God",
+        "img": [
+            "Book_(Brown)"
+        ],
+        "text": "The references to a prehistoric blood god, left over by the elder races are numerous and diverse enough to verify it's existence to some extent. The power of said entity is disputable and the references to godhood might be exaggerated yet they can't be outright discarded. The entity might have been in existence before the god wars although most resources suggest the god wars were the cause of its existence. It seems likely that, whatever its origin was, it gained significant amount of power due to the god wars. Several sources link this rise of power to the bloodshed in the countless battles of those times. At some point this power leads to the entities downfall though, specifics get a bit more sketchy here. The actual reason and circumstances of it's demise are more then uncertain yet most sources agree that the entity left some kind of legacy, be it in the form of a secret blood cult or in the form of some residue that contained fragments of its power. Most sources link the entity to the origin of vampires or at least identity vampiric creatures as it's followers. The few modern vampires that could be interrogated in that matter claimed ignorance of this history though.",
+        "map": [
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
+        "name": "The_Blood_Cult",
+        "author": "?",
+        "description": "Discusses the cults that arose around the blood god.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "Legends_About_the_Blood_God",
+        "previous-book": "Blood_God_Worshiping",
+        "img": [
+            "Book_(Grey)"
+        ],
+        "text": "The blood cult\nThe blood god's rise to power also brought about the birth of a blood cult, a circle of devout followers, a sect devoted to worshiping and serving their deity. The cult's roots were steeped in darkness and their practices were macabre and gruesome. The blood god flourished. The first inhuman vampire spawn were his creations. The vampire priests served as his heralds and prophets and gathered a flock of devout followers, lured into their folds by promises of immortality and power. The inner circle of his priesthood was taught the darkest secrets of the blood. They learned forbidden things that were even unknown to the gods themselves. The truths they learned opened their minds to the true powers of their vampiric forms and elevated them far above their kin. Their splendor and power lured in more and more subjects, willing to undergo the transformation, yet only the most worthy were chosen.\nThis neglect leads to envy though and one of the most powerful among the scorned betrayed the cult and gave away their secrets to their enemies. Yet they were afraid of the might of the blood priests and only when the gods struck down the god of blood they dared to strike on their own, attacking the confused priests and their followers. They routed out all they could find and brought a cruel end to their existence, which otherwise would have hardened the test of time.",
+        "map": [
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
+        "name": "The_Blood_God",
+        "author": "?",
+        "description": "Origins of the blood god.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "An_Amalgam_of_Carnage_and_Madness",
+        "previous-book": "_NOPREV",
+        "img": [
+            "Book_(Red)"
+        ],
+        "text": "The blood god\nThe god wars had reached levels unimaginable before in the history of the gods. The battlefield was a gruesome sight to behold, with blood and gore spilling everywhere. All the carnage and killing gave rise to an entirely new entity. An entity bound to the blood and suffering that the war brought forth. The fury of the war was so intense that the entity rivaled any god in power.\nWhen the gods became aware of its existence the war came to a halt. The existence of the newly created blood god left them startled and horrified. With disgust they looked upon the newly created blood god, which was a blasphemous competitor, an abomination and anathema to them. For once their quarrels were put aside and in unison they struck against this blasphemous competitor. The combined might of the gods was unparalleled, and they unleashed their fury upon the blood god. They tore the entity apart and stripped away any godly essence it might have possessed.\nIn their fury the gods left nothing of the blood god and only splinters and shreds remained.",
+        "map": [
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
+        "name": "The_Splinters",
+        "author": "?",
+        "description": "Discusses the fragments that remained of the blood god.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "Vampire_Whispers",
+        "previous-book": "The_Blood_Queen",
+        "img": [
+            "Book_(Orange)"
+        ],
+        "text": "The splinters\nThe most powerful splinter, representing the blood was whisked away by the followers of the blood god and forged into a powerful artefact whose traces have been lost in time though.\nThe other splinters, left alone festered and evolved. They grew in potency and acquired sentience, contained an echo of the memory of the dark god which spawned them.\nLooking for a suitable host the corruptive powers sought out the most potential creatures that they could get a hold on. They found it in the form of some ancient dragons, whom they lured into an unholy alliance with promises of power and true immortality. They nested in the dragons and over time twisted their forms and minds. Promised to become the rulers of everything they became mindless slaves to the powers that inhabited them.\nSome lesser splinters found their way into the hearts of powerful sorcerers, twisting their magic and turning them into dark mages. Others found their way into the hands of ruthless warlords, who used the splinter's power to conquer and subjugate entire nations. Rumor has it, that those splinters were gathered by unknown forces and forged into a powerful artefact.",
+        "map": [
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
+        "name": "Vampire_Whispers",
+        "author": "?",
+        "description": "Origins of the blood goddess from the perspective of vampires.",
+        "locations": [
+            "Isle of the Kings -> Library"
+        ],
+        "libraries": [
+            "Isle of the Kings Library"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "_NONEXT",
+        "previous-book": "The_Splinters",
+        "img": [
+            "Book_(Brown_Thin)"
+        ],
+        "text": "The vampires whisper about a blood mother as their progenitor. A creature as old as the gods themselves, she was born from the blood of Zathroth's attack on Tibiasula. The blood goddess was shunned by the other gods for her origin but she was content to dwell in the darkness far away from the other gods and their struggles. When the god wars started and she witnessed all the carnage and mayhem, she sensed that she might become a target too despite her absence from godly affairs. So she prepared herself and used the blood that flowed in the countless battles of the god wars to amplify her strength. However, the newfound surge of power was overwhelming and too much for her to handle, yet she was unable to stop the consumption of power as long as the blood was flowing so freely.\nIn her despair, she pleaded to the gods for help. The gods stopped their struggles in a moment and passed their judgment upon her in the form of death. They struck down the blood mother and ripped her powers into pieces.",
+        "map": [
+            "https://tibiamaps.io/map#32174,31932,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Islands",
+            "area": "Isle of the Kings",
+            "subarea": "Library"
+          }
+        ]
+    },
+    {
         "name": "Carlin_and_the_Rise_of_the_Women_II.II",
         "author": "?",
         "description": "?",
@@ -45900,7 +46198,7 @@
         "next-book": "Puldrak's_Wisdom_About_Elves_IV_Fragmented",
         "previous-book": "Puldrak's_Wisdom_About_Elves_V.I",
         "img": [
-            "Default"
+            "Book_(Brown)"
         ],
         "text": "Puldraks wisdom about elves Pt. 5\nThen something happened. The dimension that harboured the elven valley began to collapse. Pice for pice their land was torn away and the wisest of the elves found out that the valley would ultimately 'fall' back in the world it belonged to. Great efforts were undertaken to prevent it. All were futile. As this was recognized it was almost too late. All magic was concentrated to preserve the lives of the elves. Protective shells were created, spells to deflect damage, enchantements to keep harm away.\nThe 'return' was aweful. Almost half of the elves perished. All of the valley and its wonders were destroyed. Almost nothing remained. Artifacts and books shattered and burnt alike. The battered elves retreated and begun to wander aimlessly through the lands, until they encountered scouts of the Deraisim who led them to the safety of their woods. At first they were disgusted by the primitive lifestyle of their brethren, but soon they decided they had to guide and lead them back to true values of elvenkind. So one of their encampements was choosen as new home for the elvenkind and the city of Ab'Dendriel was founded.",
         "map": [
@@ -49426,6 +49724,38 @@
         ]
     },
     {
+        "name": "Diary_of_Arne_S.",
+        "author": "Arne S.",
+        "description": "",
+        "locations": [
+            "Marapur -> Silvertides Library"
+        ],
+        "libraries": [
+            "Marapur Libraries"
+        ],
+        "version": "12.9",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "_NONEXT",
+        "previous-book": "_NOPREV",
+        "img": [
+            "Book_(Brown)"
+        ],
+        "text": "Diary of Arne S.\n<This book appears to be written in ciphers>",
+        "map": [
+            "https://tibiamaps.io/map#33708,32933,14:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+            {
+                "mainarea": "Islands",
+                "area": "Marapur",
+                "subarea": "Gnomprona"
+            }
+        ]
+    },
+    {
         "name": "Flora_of_Marapur",
         "author": "?",
         "description": "?",
@@ -49819,16 +50149,18 @@
         "next-book": "_NONEXT",
         "previous-book": "_NOPREV",
         "img": [
-            "Default"
+            "Scroll_(Brown)"
         ],
         "text": "My travels in the service of the Tibian Explorer Society have led me here, to this island called Oskayaat, south of Chor and Ankrahmun. It is geographically split into two quite different regions. In the west it is covered with jungle, while a steppe extends in the east. A mountain reach in the centre divides the island into the dry east and the humid, overgrown west. Built into those mountains is the beautiful city Oska. In the south-east, on a smaller island, there is a still sometimes active volcano.\nThe people of Oskayaat are quite highly developed. Their civilization is one of art and beauty, well known for its rich culture and history. The Oskayaans are educated and sophisticated and have a strong appreciation for the arts. They have a deep understanding of history, mythology and philosophy, and they respect and value ancient knowledge and traditions. The culture is rich with religious and spiritual beliefs and the people are very religious and pious as well as peaceful and respectful of others.\nOnce the Oskayaans worshipped Suon, the sun god, and Amati, the moon goddess in equal measure. It appears that Amati is a manifestation of Uaris, which is worshipped as a divine aspect of the moon in some areas of the Darama. As their understanding of the world increased, the Oskayaans started to realize that the suns were the source of all life and the moon only reflects their light. Suon became associated with creation, while Amati was associated with the cycle of life. Eventually, the sun became more worshipped than the moon, as it was seen as the more powerful and important force.\nBut then something happened: A curse reached the island, that transformed people into were creatures. Because the animals are were not wolves or bears but tigers, panthers and crocodiles, the people transformed into weretigers, werepanthers and werecrocodiles. The moon kind of took over. Maybe the curse was brought about by some evil force or deity that wanted to cause chaos and destruction on the otherwise peaceful island. Or perhaps it was just bad luck. But the curse spread rapidly, causing madness and mayhem among the people. I myself have been lucky enough to be spared from the curse so far. I have left the town of Oska in panic to escape the wild beasts that the once so civilised and educated people here have become. I must hurry and reach Port Hope before they pick up my scent and tear me to pieces ...",
-        "map": [],
+        "map": [
+            "https://tibiamaps.io/map#32961,32942,7:2"
+        ],
         "type": "book",
         "locations-wip": [
             {
                 "mainarea": "Darama - Isle",
                 "area": "Oskayaat",
-                "subarea": ""
+                "subarea": "Jungle"
             }
         ]
     },
@@ -49837,7 +50169,7 @@
         "author": "?",
         "description": "?",
         "locations": [
-            "Oskayaat"
+            "Oskayaat -> City"
         ],
         "libraries": [
             "Oskayaat Libraries"
@@ -49852,14 +50184,48 @@
             "Parchment_(White)"
         ],
         "text": "The special flora of Oskayaat, which is shimmering blue in the moonlight, is a recent phenomenon on the island. There are various theories about its origin. Some think it is related to the moon goddess. Amati is a gentle and benevolent deity who brings joy and peace to the world. She created the dewberry palm and the foxmouse, her holy plant and animal.\nRecently, Amati was in pain because she had witnessed a volcanic eruption destroying and killing many of her beloved creations. She mourned for the loss of so much life and beauty and her tears fell to the earth. Where they did, the plants changed and became bluish in the moonlight. This signifies that the plants are connected to Amati and her tears and that they can draw power from her presence. It is a sign that Amati is watching over her faithful followers.\nOthers are convinced that the reasons are more sinister. They think the plants are affected by something that is already known in other parts of Tibia as the Curse of the Full Moon. Actually, this phenomenon has so far only affected animals. Humans, when bitten by such cursed animals, turn into ravenous beasts themselves: wolves, bears, foxes, hyaenas ... But on Oskayaat, for the first time, plants also seem to be affected. Some palms, ferns or cacti turn into bluish specimens during the full moon. Worse still, it didn't stop with the plants changing only during the full moon. Recently, they seem to change their appearance every night. Our scholars suspect that, at some point, the consumption of dewberries from affected palms could trigger such a transformation in humans as well. It is therefore to be strongly recommended to all inhabitants of Oskayaat to refrain from eating such blue dewberries.",
-        "map": [],
+        "map": [
+            "https://tibiamaps.io/map#33007,32924,3:2"
+        ],
         "type": "book",
         "locations-wip": [
             {
                 "mainarea": "Darama - Isle",
                 "area": "Oskayaat",
-                "subarea": ""
+                "subarea": "City"
             }
+        ]
+    },
+    {
+        "name": "About_Foxmice",
+        "author": "?",
+        "description": "A book about the Foxmouse species.",
+        "locations": [
+            "Oskayaat -> City"
+        ],
+        "libraries": [
+            "Oskayaat Libraries"
+        ],
+        "version": "13.20",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "_NONEXT",
+        "previous-book": "_NOPREV",
+        "img": [
+            "Book_(Brown_Square)"
+        ],
+        "text": "About Foxmice\nThe foxmouse is a mammal species that looks like a combination of a fox and a mouse, yet big enough to serve as a mount for humans. Foxmice typically have red-orange fur, large ears and a shaggy tail. Nocturnal animals, they are most active in the evening and night hours. They are social creatures and are usually found in groups of up to ten, but their subterranean caves are very hidden and hard to find.\nFoxmice have the ability to sense magnetic fields and use them to navigate. Their senses are highly developed and they use them to find food, detect potential predators and communicate with other foxmice. They have sharp eyesight, hearing and smell. Although living in underground burrows, they are excellent climbers and can even scale trees and cliffs with their strong claws.\nFoxmice are omnivores, eating both plants and animals. They will eat berries, fruits, nuts and seeds as well as insects, fish and small creatures.",
+        "map": [
+            "https://tibiamaps.io/map#33021,32955,4:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+          {
+            "mainarea": "Darama - Isle",
+            "area": "Oskayaat",
+            "subarea": "City"
+          }
         ]
     },
     {
@@ -62687,6 +63053,998 @@
             {
                 "mainarea": "Tibia.com",
                 "area": "Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Bloated_Man-maggots",
+        "author":"?",
+        "description":"The Bloated Man-Maggot is a grotesque entity, teeming with nauseating vitality. It's an abomination that defies categorization, with observers uncertain if it was once a humanoid being that became a nest of larvae or a blasphemous amalgam of larvae skillfully joined to mimic a humanoid form.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"Rotten_Man-maggots",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Bloated_Man-maggot"
+        ],
+        "text":"It is an abomination that defies categorization, leaving observers uncertain whether it was once a humanoid being that became a hive of maggots or a blasphemous amalgamation of maggots cleverly bonded to mock a humanoid shape. The Bloated Man-Maggot is a grotesque entity, pulsating with a nauseating vitality. Thousands of wriggling maggots writhe and squirm within its bloated flesh, their insatiable hunger never sated. The stench of decay and the sickening sound of churning insects accompany its every movement. Despite its repulsive appearance, the Bloated Man-Maggot possesses a perverse strength, its misshapen limbs capable of delivering devastating blows. Those unfortunate enough to witness this abomination in combat are left with a haunting memory that lingers long after the encounter.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Rotten_Man-maggots",
+        "author":"?",
+        "description":"The Rotten Man-Maggot is a revolting creature held together by additional layers of rot and decay. Its body, a macabre tapestry of putrid flesh and decomposing matter, appears on the verge of disintegration. Foul gases leak from its decaying form, creating a toxic cloud that precedes its arrival.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"Bloated_Man-maggots",
+        "img":[
+            "Rotten_Man-maggot"
+        ],
+        "text":"Sharing a connection with its bloated counterpart, the Rotten Man-Maggot is a revolting creature held together by additional layers of rot and decay. Its body, a macabre tapestry of putrid flesh and decomposing matter, seems on the verge of disintegration. Foul-smelling gases seep from its decaying form, creating a noxious cloud that precedes its arrival. Like a grotesque puppet, the Rotten Man-Maggot moves with a sickening gait, its movements accompanied by the squelching of decayed flesh. Its jagged, skeletal appendages lash out with surprising speed, fueled by an unholy strength drawn from the very rot that binds its form. It is a macabre testament to the twisted nature of the fallen realm, embodying the horrors that lurk within its darkest corners.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Oozing_Carcasses",
+        "author":"?",
+        "description":"Oozing Carcasses are miserable beings that were once fervent followers of the blood god. Now reduced to rotting husks, their existence is sustained by the remnants of a twisted, semi-sentient decay. Within their decrepit forms, a dark ichor oozes incessantly, a grotesque manifestation of the profane influence that befell them.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Sopping_Carcasses",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Oozing_Carcass"
+        ],
+        "text":"The Oozing Carcasses are wretched beings that were once fervent followers of the blood god. Now reduced to rotting shells, their existence is sustained by the remnants of a twisted, semi-sentient decay. Within their decrepit forms, a murky ichor oozes incessantly, a grotesque manifestation of the unholy influence that has befallen them. These semi-living monstrosities shuffle through the desolate landscapes, their movements accompanied by a nauseating squelching sound. While their minds have been reduced to fragmented memories and impulses, the Oozing Carcasses still retain a flicker of their former loyalty, instinctively drawn to areas of concentrated decay where they gather in macabre communion.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Sopping_Carcasses",
+        "author":"?",
+        "description":"Sopping Carcasses are unfortunate followers who apparently did not have the fortune to die with their fallen god but were taken alive by decay and rot, likely ages ago. Their desiccated bodies are trapped in a state of perpetual decay, perpetually soaked in a putrid sludge that seeps from their withered flesh.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Oozing_Carcasses",
+        "img":[
+            "Sopping_Carcass"
+        ],
+        "text":"The Sopping Carcasses are unfortunate followers who seemingly had not the luck to die with their fallen god but were instead taken over alive by decay and rot, likely eons ago. Their desiccated bodies are trapped in a state of perpetual decay, perpetually soaked in a putrid sludge that oozes from their withering flesh. The scent of decay hangs heavy in the air around them, a nauseating reminder of their eternal torment. These wretched beings shuffle aimlessly through the fallen realm, their existence a testament to the relentless grip of decay and the insidious nature of the realm they inhabit. Despite their deteriorating forms, the Sopping Carcasses possess a twisted vitality, fueled by the foul energies that course through their veins. They lash out with clumsy yet potent attacks, driven by an instinctual desire to spread the corruption that has consumed them.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Oozing_Corpus",
+        "author":"?",
+        "description":"Among the fallen followers of the dead blood god, the Oozing Corpus represents a morbid manifestation of eternal decay. These abominations, even after ages, continue to exude self-sustaining decay, a testament to their cursed existence.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Sopping_Corpus",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Oozing_Corpus"
+        ],
+        "text":"Among the fallen followers of the dead blood god, the Oozing Corpus represents a morbid manifestation of eternal decay. These abominations, even after eons, continue to ooze self-feeding decay, a testament to their cursed existence. Their bodies, once robust and filled with vitality, have been reduced to grotesque amalgamations of putrefaction and rot. Every movement is accompanied by a nauseating sludge, as if the very essence of decay seeps from their pores. The Oozing Corpuses, their minds fragmented and trapped in an eternal torment, mindlessly wander the fallen realm, perpetuating the cycle of decay as they leave a trail of foulness in their wake.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Sopping_Corpus",
+        "author":"?",
+        "description":"Sopping Corpuses, unlike their brethren, are the only semi-dead rotting creatures in the fallen realm that retain remnants of their original dark souls embodied. These cursed entities are eternal prisoners of the decay that befell their withering bodies, trapped forever in a half-life state.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Oozing_Corpus",
+        "img":[
+            "Sopping_Corpus"
+        ],
+        "text":"The Sopping Corpuses, unlike their brethren, are the only semi-undead rot creatures in the fallen realm that retain remnants of their original dark souls embedded within. These cursed entities are eternal prisoners of the decay that befell their withering bodies, forever trapped in a state of half-life. Their forms, ravaged by time and decay, exude an aura of despair and sorrow, as if their tortured existence weighs heavily upon their rotting souls. Their movements are slow and agonizing, their bodies oozing with a mixture of decaying matter and a sinister, otherworldly essence. The Sopping Corpuses emit pitiful moans and wails, their voices carrying the anguish of lost souls trapped in an unending cycle of decay and torment. Those who encounter these pitiable creatures cannot help but feel a sense of profound sadness and pity for their cursed existence.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Converters",
+        "author":"?",
+        "description":"Converters are monstrous beings of living devouring energy, born from the darkest recesses of the fallen realm. Their existence is sustained by an insatiable appetite for various forms of life force, which they consume with disturbing voracity.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Converter"
+        ],
+        "text":"The Converters are monstrous beings of living devouring energy, born from the darkest recesses of the fallen realm. Their existence is sustained by their insatiable appetite for various forms of life force, which they consume with an unsettling voracity. They appear as a swirling vortex of shadow and ethereal energy, constantly shifting and distorting as they draw in and assimilate the vital essence of their surroundings. The air crackles with malevolent energy in their presence, and the ambient light seems to dim as they grow stronger. The Converters serve as conduits of the fallen realm's power, transforming and channeling the life force they consume into a raw, corrupted energy that fuels the insidious workings of the decaying realm.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Meandering_Mushrooms",
+        "author":"?",
+        "description":"A unique type of creature in Tibia.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Meandering_Mushroom"
+        ],
+        "text":"An unsettling sight to behold, the Meandering Mushroom is a fungoid mass driven by instinctive needs to devour and spread rot. Its existence is solely dedicated to the relentless pursuit of sustenance, causing everything it touches to wither and decay. With each step it takes, a sickly miasma emanates from its cap, suffusing the air with a putrid stench. Though lacking intelligence, its insatiable hunger propels it forward, leaving a trail of blighted landscapes and twisted flora in its wake. The Meandering Mushroom is drawn to sources of life, consuming them with a ravenous hunger, and ensuring that the realm's decay perpetuates unabated.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Mycobiontic_Beetles",
+        "author":"?",
+        "description":"Mycobiontic Beetles are creatures that have not only adapted but thrived in the decaying aura of the rotten realm over countless generations. These beetles possess supernatural resilience and ferocity, making them a formidable force in the fallen realm.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Mycobiontic_Beetle"
+        ],
+        "text":"The Mycobiontic Beetles are creatures that have not only adapted but thrived in the decaying aura of the putrid realm over countless generations. These beetles possess an otherworldly resilience and ferocity, making them a formidable force in the fallen realm. Their exoskeletons shimmer with an eerie iridescence, hinting at the corruption that permeates their bodies. Through their prolonged exposure to the decaying essence of the realm, these beetles have absorbed its malevolent energy, making them next to natural monsters in their power and tenacity. They scuttle through the desolate landscapes, their chitinous shells resonating with the ominous whispers of the decaying realm, as they hunt and seek to further their dominance in this nightmarish realm.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Walking_Pillars",
+        "author":"?",
+        "description":"Walking Pillars are gigantic monstrosities driven by a malicious purpose, formed from a profane union of colossal stones and the malevolent essence of the fallen realm.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Wandering_Pillars",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Walking_Pillar"
+        ],
+        "text":"Fused by burning unlight, the Walking Pillars are towering monstrosities driven by a malicious purpose. These hulking entities are formed from an unholy union of colossal stones and the malevolent essence of the fallen realm. As they roam the desolate landscapes, their footsteps reverberate with a bone-rattling intensity, sending tremors through the ground. Burning with a dim, maleficent glow, their stony surfaces crack and shift, revealing glimpses of the volatile darklight contained within. The Walking Pillars possess an unrelenting determination, wielding their massive limbs to unleash devastating attacks upon any who dare cross their path. Their malevolent presence casts a foreboding shadow upon the land, a constant reminder of the ever-present dangers that lurk in the fallen realm.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Wandering_Pillars",
+        "author":"?",
+        "description":"Wandering Pillars, similar to their walking counterparts, are infused with burning black light that seems to consume and drain energy and light.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Walking_Pillars",
+        "img":[
+            "Wandering_Pillar"
+        ],
+        "text":"The Wandering Pillars, akin to their Walking counterparts, are infused with burning darklight that seems to consume and suck in energy and light. These enigmatic entities are rarely seen stationary, as if driven by an eternal restlessness. Their movements are unpredictable, as if guided by an inscrutable will, making them elusive and difficult to track. The air crackles with an otherworldly energy in their proximity, causing distortions in the ambient light and an unnerving sense of disorientation. Some whisper that the Wandering Pillars possess the ability to phase through reality, allowing them to traverse great distances in the blink of an eye. Encountering a Wandering Pillar is a disconcerting experience, leaving observers questioning the true nature of these enigmatic creatures.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Werecrocodiles",
+        "author":"?",
+        "description":"Werecrocodiles are humans under a curse or an infectious disease that transforms them into wild beasts. They are strong and bulky but slightly clumsy and not very fast on land. They prefer warm and humid areas like jungles with large bodies of water.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Feral_Werecrocodiles",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Werecrocodile"
+        ],
+        "text":"Werecrocodiles are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerecrocodiles are strong and bulky, yet a bit clumsy and not very quick on land. They are dangerous predators nonetheless and their appearance is a mix between a crocodile and a human being. Like crocodiles, Werecrocodiles favour warm and humid areas such as jungles with larger bodies of water as homesteads. They behave very aggressively towards intruders.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Feral_Werecrocodiles",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Werepanthers",
+        "previous-book":"About_Werecrocodiles",
+        "img":[
+            "Weretiger"
+        ],
+        "text":"Weretigers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWeretigers are strong and tough, yet not too agile. They are dangerous predators and their appearance is a mix between a tiger and a human being. Like tigers, Weretigers favour warm jungles as homesteads and are territorial and aggressive.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Werepanthers",
+        "author":"?",
+        "description":"Werepanthers are humans under a curse or an infectious disease that transforms them into wild beasts. They are fast and agile but not as resilient and strong as weretigers. They prefer warm jungles and are intelligent and adaptable.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Cunning_Werepanthers",
+        "previous-book":"About_Feral_Werecrocodiles",
+        "img":[
+            "Werepanther"
+        ],
+        "text":"Werepanthers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerepanthers are quick and agile, but not as tough and strong as the weretigers. They are cunning predators and their appearance is a mix between a panther and a human being. Like panthers, Werepanthers favour warm jungles as their homesteads and are smart and adaptable.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Cunning_Werepanthers",
+        "author":"?",
+        "description":"Werepanthers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerepanthers are quick and agile, but not as tough and strong as the weretigers. They are cunning predators and their appearance is a mix between a panther and a human being. Like panthers, Werepanthers favour warm jungles as their homesteads and are smart and adaptable. It is believed that werepanthers whose fur has a bluish hue are even more cunning than their black-furred counterparts.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Weretigers",
+        "previous-book":"About_Cunning_Werepanthers",
+        "img":[
+            "Cunning_Werepanther"
+        ],
+        "text":"Werepanthers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWerepanthers are quick and agile, but not as tough and strong as the weretigers. They are cunning predators and their appearance is a mix between a panther and a human being. Like panthers, Werepanthers favour warm jungles as their homesteads and are smart and adaptable.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_White_Tigers",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_White_Weretigers",
+        "previous-book":"About_Weretigers",
+        "img":[
+            "White_Tiger"
+        ],
+        "text":"White tigers are unique on the island of Oskayaat. There, they stalk through the jungle, looking for prey. They strike by surprise, quickly and deadly. Fast and lethal, those fighting machines are a hurricane of teeth and claws when it comes to combat. Like all tigers they are solitary creatures, although small tiger families are not an uncommon view. Even though they are mostly hunting smaller mammals of the jungle, sometimes they are also after larger prey. They easily feel threatened and like most warlike creatures, they react on threats with violence.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_White_Weretigers",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_White_Tigers",
+        "img":[
+            "White_Weretiger"
+        ],
+        "text":"Weretigers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWeretigers are strong and tough, yet not too agile. They are dangerous predators and their appearance is a mix between a tiger and a human being. Like tigers, Weretigers favour warm jungles as homesteads and are territorial and aggressive.White Weretigers are rarer and stronger than their orange-coloured counterparts.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Weretigers",
+        "author":"?",
+        "description":"Weretigers are a type of creature in the Tibia universe, known for their tiger-like features and behaviors.",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_White_Weretigers",
+        "img":[
+            "Weretiger"
+        ],
+        "text":"Weretigers are humans under a curse - others claim infected with a disease - that causes them to transform into savage beasts. At the beginning, the transformation only takes place at full moon, and the victim regains its human appearance the next morning. In the course of time, the transformation lasts longer and the full moon is no longer a necessary condition for the transformation. At a certain point, the beast takes over more and more often.\nWeretigers are strong and tough, yet not too agile. They are dangerous predators and their appearance is a mix between a tiger and a human being. Like tigers, Weretigers favour warm jungles as homesteads and are territorial and aggressive.\nThe curse of the Full Moon, as it is frequently called, is usually spread by the infectious bite or scratch of other were-creatures. Forbidden books also tell about methods that allow to turn somebody into a were-creature with the help of dark rites. Some twisted individuals even call the curse upon themselves in the hope of using their new powers to avenge an injustice or insult.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Darklight_Matters",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Darklight_Constructs",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Darklight_Matter"
+        ],
+        "text":"A mass of living unlight, the Darklight Matter is a writhing entity pulsating with corrupted energy. It is an aberration, formed from the merging of darkness and light in the fallen realm. Dark tendrils writhe and coil within its form, as if reaching out to snuff out any remaining traces of illumination. The Darklight Matter emanates an aura of suppressed power, drawing in the surrounding shadows and distorting the fabric of reality. Its mere presence causes disturbances in the natural flow of energy, leaving a trail of darkness and corruption wherever it ventures. To encounter the Darklight Matter is to confront a living paradox, an entity birthed from the very essence of the fallen realm.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Darklight_Constructs",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Darklight_Emitters",
+        "previous-book":"About_Darklight_Matters",
+        "img":[
+            "Darklight_Construct"
+        ],
+        "text":"As the decay of the fallen realm takes hold of living things, the corrupting influence of the Darklight extends its reach to unliving entities. Stones and crystals, once dormant and lifeless, become animated by the unholy fusion of darkness and light. The Darklight Constructs stand as twisted embodiments of this corrupted union, their forms bearing the scars of their transformation. Veins of pulsating, malevolent energy traverse their stony bodies, emanating an eerie glow that casts haunting shadows in their wake. These constructs, infused with an unholy sentience, wield their newfound powers with an unsettling grace, becoming relentless agents of destruction under the influence of the darklight's corruptive touch.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Darklight_Emitters",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Darklight_Sources",
+        "previous-book":"About_Darklight_Constructs",
+        "img":[
+            "Darklight_Emitter"
+        ],
+        "text":"Opposing its unholy brethren, the Darklight Constructs, the Darklight Emitters possess a unique ability, they do not absorb light but emit darklight. These twisted entities pulse with an unholy radiance, emanating waves of corrupted energy that cast sinister shadows on their surroundings. Some speculate that they are connected to the constructs in an abominable symbiotic relationship, serving as catalysts for the darklight's corruptive powers. The Darklight Emitters stand as beacons of malevolence, their presence instilling a profound sense of unease and foreboding in those unfortunate enough to encounter them.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Darklight_Sources",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Darklight_Strikers",
+        "previous-book":"About_Darklight_Emitters",
+        "img":[
+            "Darklight_Source"
+        ],
+        "text":"The Darklight Sources are malignant constructs of darklight and stone, unlike their mindless brethren, possessing a palpable hatred for the truly living beings that venture into the fallen realm. These abominations pulse with a malefic energy, their crystalline forms infused with the corrupted essence of the darklight. They stand as guardians of the realm's twisted secrets, channeling the decaying energy to unleash devastating attacks upon any perceived intruders. The Darklight Sources radiate an aura of malevolence, casting an eerie glow that illuminates their surroundings with an unholy light. The air crackles with suppressed power in their presence, as if the very fabric of reality recoils from their dark influence. To confront a Darklight Source is to face an entity fueled by hatred and dark intent, a testament to the fallen realm's malevolent nature.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Darklight_Strikers",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.20",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Darklight_Sources",
+        "img":[
+            "Darklight_Striker"
+        ],
+        "text":"The Darklight Striker is a creature formed of rock and unlight, bound to an unstable existence that defies conventional understanding. Legends speak of these elusive entities dispersing at random, only to reform in another location, leaving observers puzzled by their enigmatic nature. Darklight pulses within their core, resonating with chaotic energy, and their stony exteriors are etched with jagged cracks, hinting at the volatile forces contained within. The Darklight Strikers move with an unnatural grace, their movements accompanied by discharges of dark energy that crackle and writhe. Their attacks are swift and devastating, as they harness the destructive potential of the darklight to unleash a barrage of ethereal assaults upon their foes. While accounts of their transient nature persist, the true nature of the Darklight Strikers remains shrouded in mystery, leaving those who encounter them in awe of their enigmatic existence.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Bulltaur_Forgepriests",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Bulltaur_Brutes",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Bulltaur_Forgepriest"
+        ],
+        "text":"The Bulltaur Forge Priests are the revered and mighty leaders of their race. Born into priestly families and indoctrinated from their earliest days, they are unwavering, unflinching devotees of Father Forge and Mother Flame, convinced in their superiority and right to to rule. Within Bulltaur culture, the Forge symbolizes both birth and death, in an twisting of traditional roles that challenges and reshapes their beliefs. Their strength and ingenuity are the hallmarks of their people, with their self-made weapons and armor serving as a testament to their skill and determination. The highest-ranking priest, known as the Priest-King, is typically the strongest among them and is chosen through a trial by combat, relying on self-fashioned weapons and armor to assert their authority and leadership. The bulltaurs leading castes awaits the arrival of the prophetized forge-born, a mythical figure that is supposed to lead their people into an age of unparalleled craftsmanship that will ultimately lead to the recreation of the world by Father Forge and Mother Flame into a perfect version ruled over by the bulltaurs, reforged in perfect, metal bodies.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Bulltaur_Brutes",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Bulltaur_Alchemists",
+        "previous-book":"About_Bulltaur_Forgepriests",
+        "img":[
+            "Bulltaur_Brute"
+        ],
+        "text":"Bulltaur Brutes are the most physically imposing members of their species, standing taller than the average Bulltaur and boasting incredible strength and stamina. Their unwavering devotion and deep-rooted believe of the Great Father Forge and Mother Fire, their otherwise nameless gods who bless their craftsmanship ensure their loyalty to their sacred leaders. They view every product of the bulltaur's forges as a sacred gift, which they proudly display in the form of elaborate tattoos and the armor and weaponry worn. Despite their brutish nature, they are rather simple-minded and superstitious, often deferring to the wisdom of their elders and leaders, whom they blindly follow. This makes them easy targets for manipulations by priests and astrologers that use them as pawns in their power games. Their every action is governed by their unyielding belief in the divine origins of their forged equipment, making their use in war a sacred act, often accompanied by simple battle prayers. Some among their kind revere the occasional warrior saints, who scholars see as remnants of a long forgotten war-cult that was obliterated but not entirely erased when the Forge Cult claimed dominance. Squads of brutes are often accompanied by an alchemist 'advisor' who is responsible for tactics that he acquires from horoscopes and reading the stars.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Bulltaur_Alchemists",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Bulltaur_Brutes",
+        "img":[
+            "Bulltaur_Alchemist"
+        ],
+        "text":"Bulltaur Alchemists play a pivotal and multifaceted role in the Bulltaur race. These enigmatic, esteemed members of their species are scholars deeply entwined with the celestial, their alchemy intertwined with the vast expanse of the night sky and therefore astrology. They serve as soothsayers and fortune tellers, their arcane insights often shaping political decisions. Deeply entwined in their own, often convoluted belief system, they are often bound to odd behavioural patterns to appease the forces of fate. In their world, alchemist cabals continually scheme and connive against one another, fiercely competing for influence in the ever-evolving tapestry of their society. A substantial portion of their work and research is dedicated to the mystical pursuit of enhancing their forging capabilities, crafting novel alloys with wondrous properties. Following their teachings, mixing alchemy and astrology, they try to find the perfect alloy, created at the perfect alignment of stars.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Mitmah_Scouts",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Mitmah_Seers",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Mitmah_Scout"
+        ],
+        "text":"With a long history of invading a colourful palette of the exotic civilisations in different dimensions, the Mitmah are intruders, marauders, thieves. They robbed whole continents of their cultures and legacy, stole treasure, art and even whole monuments and structures including their inhabitants all and sundry. Yet they see themselves as benefactors. Vanguards of art and culture, history and the legacy of all kinds of ancient beings. Creators of unforgettable experiences and builders of museums and exhibitions accross an interdimensional array of countless exotic realms. The scouts of the Mitmah are fast and versatile, yet protected by a solid coat of metal armour. As all Mitmah are not born warriors but rather cowardly manipulators, they hide in cases of metal and let their magic do the work for them. From the outside this doesn't take away from the fact, however, that they are absolutely not to be trifled with and still pose a formidable threat.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Mitmah_Seers",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Mitmah_Scouts",
+        "img":[
+            "Mitmah_Seer"
+        ],
+        "text":"With a long history of invading a colourful palette of the exotic civilisations in different dimensions, the Mitmah are intruders, marauders, thieves. They robbed whole continents of their cultures and legacy, stole treasure, art and even whole monuments and structures including their inhabitants all and sundry. Yet they see themselves as benefactors. Vanguards of art and culture, history and the legacy of all kinds of ancient beings. Creators of unforgettable experiences and builders of museums and exhibitions accross an interdimensional array of countless exotic realms. The Mitmah seer is a specifically vile specimen which utilises his magical abilities to a maximum while hiding inside a fortified metal case of unknown origin. Seemingly impenetrable they wield their arcane powers efficiently and with finesse.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Wardragons",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Mega_Dragons",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Wardragon"
+        ],
+        "text":"Wardragons are the result of Elder Dragon Nimmersatt's relentless efforts to create unstoppable engines of war. Lacking the capacity to feel fear and pain, these dragons are as unfeeling as they are relentless. They are like inexorable juggernauts on the battlefield, never swaying, never wavering. With their peculiar perception of time, they value a second in the past as much as a day in the present, rendering the concept of death meaningless to them. They relish in their great strength and sheer power. As wardragons are infertile and seem genderless, it is still an enigma how Nimmersatt is able to muster them in such great numbers. Theories are abound about a supposed wardragon queen or Nimmersatts knowledge of stashed away wardragons from the past. Wardragons are viewed as tools by their master, tools devoid of the comprehension that they are seen as disposable pawns in the grand machinations of dragons. Sometimes squads of them are deployed to just create havoc but usually they accompany other, more intelligent dragons as bodyguards or warriors.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Mega_Dragons",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"About_Dragolisks",
+        "previous-book":"About_Wardragons",
+        "img":[
+            "Mega_Dragon"
+        ],
+        "text":"Mega Dragons are bred to be the new ruling class of dragonkind, a reflection of the ancient dragon Nimmersatt's grand vision and himself. These colossal and conceited creatures, adorned with three heads, are constantly engaged in fierce battles for supremacy. Their internecine struggles are exacerbated by their shared belief that they are the epitome of excellence. It doesn't help they were taught to be the best of the best as each head tends to see those words as addressed to himself only. Rarely do the heads find accord, but when they do, the Mega Dragon ascends rapidly in power. Whenever one of their kind becomes overly influential, it is prone to draw the attention of Nimmersatt. In theory such dragons should be all what Nimmersatt envisioned then to be. However, this often triggers his vanity, leading to the unfortunate fate of the influential dragons being invited to his dinner table - as lunch. Nimmersatt's casual disregard for the potential consequences of his actions may prove detrimental to his ambitions of dragon dominance, but in his eyes, Nimmersatt is always right.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Dragolisks",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"About_Mega_Dragons",
+        "img":[
+            "Dragolisk"
+        ],
+        "text":"Dracolisks are a heretical creation among dragonkind, designed to rival the fabled basilisks with a dark and potent grace. While they may not quite match the basilisks' otherworldly power, dracolisks are undeniably menacing and dangerous creatures, which is amplified by their malicious shrewdness. These dragons bear a subtle, smouldering resentment toward their kin, their bitterness manifesting as sarcasm and cunning. Harbouring little sympathy for other dragons, they are unusually comfortable amongst other dracolisks, forming cabals and circles to work towards common goals. As longtime goals and personal ambitions seldom align, for most of the time a dracolisk is often a loner, following its own agenda. Dracolisks excel in manipulation through their dark intellect and deceptive wiles, relishing in the slow torture, subversion, and ultimate destruction of individuals and communities. Instead of relying on brute force, they take pleasure in devious tactics like poisoning wells and abducting villagers to accomplish their sinister objectives.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
+            }
+        ]
+    },
+    {
+        "name":"About_Iks_Yapunacs",
+        "author":"?",
+        "description":"",
+        "locations":[
+            "Tibia.com"
+        ],
+        "libraries":[
+            "Creature Library"
+        ],
+        "version":"13.30",
+        "related-articles":[
+            "_NOREL"
+        ],
+        "next-book":"_NONEXT",
+        "previous-book":"_NOPREV",
+        "img":[
+            "Iks_Yapunac"
+        ],
+        "text":"The Iks were an ancient civilisation of proud warriors, builders and artists long lost to the world of Tibia. Their origins lie far from the known continents, only fragments of obscure lore and cultural remains tell of their history and legacy. A great catastrophe at the evolutionary height of their society led to exile and the scattering of surviving Iks in various parts of Tibia centuries ago. The Yapunac are stronger than most of their brethren and wield sacred ceremonial gear that enhance their combat prowess. They rank as some of the highest Iks warriors in the hierarchy and can be seen as a group of ancient special forces. Now long dead and controlled by their evil benefactors, they are a seemingly unstoppable force to be reckoned with.",
+        "map":[
+            ""
+        ],
+        "type":"creature",
+        "locations-wip":[
+            {
+                "mainarea":"Tibia.com",
+                "area":"Creature Library"
             }
         ]
     },
