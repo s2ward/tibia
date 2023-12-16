@@ -79,6 +79,14 @@ Dedoras: A lucky survivor told me about a portal at the very top of the palace t
 Player: isle  
 Dedoras: Talk to Captain Charles in Port Hope. He told me that he once ran ashore on a small island where he discovered a small ruin. The architecture was like nothing he had seen before.  
 Player: check
+Dedoras: Marvellous! With this information combined we have all that's needed! ...
+Dedoras: So let me see. ...
+Dedoras: Hmm, interesting. And we shouldn't forget about the chant! Yes, excellent! ...
+Dedoras: So listen: To enter the veiled library, travel to the white raven monastery on the Isle of Kings and enter its main altar room. ...
+Dedoras: There, use an ordinary scythe on the right of the two monuments, while concentrating on this glyph here and chant the words: Chamek Athra Thull Zathroth ...
+Dedoras: Oh, and one other thing. For your efforts I want to reward you with one of my old outfits, back from my adventuring days. May it suit you well! ...
+Dedoras: Hurry now my friend. Time is of essence!
+Player: check
 Dedoras: As I told you: To enter the veiled library, travel to the white raven monastery on the Isle of Kings and enter its main altar room. ...
 Dedoras: There, use an ordinary scythe on the right of the two monuments, while concentrating on this glyph here and chant the words: Chamek Athra Thull Zathroth ...
 Dedoras: Hurry now my friend. Time is of essence!
@@ -103,5 +111,15 @@ Dedoras: We guess the vanishing of the Yalahari, who came to know of the un-thin
 Dedoras: Something that was devoured and reborn as part of Variphor in some way.
 Player: Uman
 Dedoras: We don't ask Uman for guidance but for wisdom. It is up to ourselves to find solutions and to use our knowledge appropriately.
+Player: Addon
+Dedoras: Are you interested in one or two addons to your battle mage outfit?
+Player: Yes
+Dedoras: I provide two addons. For the first one I need you to bring me five sturdy books. For the second addon you need twenty epaulettes. Do you want one of these addons?
+Player: Yes
+Dedoras: What do you have for me: the sturdy books or the epaulettes?
+Player: Book
+Dedoras: Very good! You gained the first addon to the battle mage outfit.
+Player: Epaulette
+Dedoras: Very good! You gained the second addon to the battle mage outfit.
 Player: bye
 Dedoras: Greetings friend. It's good to see you again.
