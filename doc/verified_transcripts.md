@@ -152,6 +152,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bonifacius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Bonifacius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chief Grarkharok</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Chief_Grarkharok.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Cormaya</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dedoras</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Dedoras.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gurbasch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Gurbasch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ebenizer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Ebenizer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eliza</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Eliza.txt)  
