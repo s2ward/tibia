@@ -51,7 +51,9 @@ Dedoras: The enemy is moving and I have reports that suggest the minions of Vari
 Dedoras: We must be the first to reach the hoard and make sure the enemy doesn't get the information he needs.  
 Player: reach  
 Dedoras: I'd recommend to follow the few leads me and my associates could gather so far. ...  
-Dedoras: Old myths, some rumors about old texts and other pieces of knowledge that I could use to figure out where to locate the hidden library and how to enter it.  
+Dedoras: Old myths, some rumours about old texts and other pieces of knowledge that I could use to figure out where to locate the hidden library and how to enter it.  
+Player: associates
+Dedoras: My associates prefer to remain unnamed and I understand and respect that.
 Player: rumours  
 Dedoras: Hints about the shrouded hoard are numerous, though most are general mentions in texts that deal with Zathroth. But there are other sources. ...  
 Dedoras: Like texts about ancient liturgies of Zathroth and historical documents that might give us clues. I already compiled everything of value from the sources that were openly available. ...  
