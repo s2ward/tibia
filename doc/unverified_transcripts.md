@@ -220,7 +220,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pyro Peter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Pyro_Peter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Romella</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Romella.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shiantis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Shiantis.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uncle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Uncle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Urkalio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Urkalio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Velvet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Velvet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Weakened Forest Fury</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Weakened_Forest_Fury.txt)  

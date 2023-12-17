@@ -700,6 +700,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Stan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Stan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sylvester</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Sylvester.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Talesia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Talesia.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uncle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Uncle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Upper Spike</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Upper_Spike)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomilly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Upper_Spike/Gnomilly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnommander</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Upper_Spike/Gnommander.txt)  
