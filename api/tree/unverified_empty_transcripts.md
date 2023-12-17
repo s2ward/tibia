@@ -534,7 +534,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shiantis</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Shiantis.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sniff</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Sniff.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Solkrin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Solkrin.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uncle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Uncle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Urkalio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Urkalio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Velvet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Velvet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Venore Corym Dungeons</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Venore_Corym_Dungeons)  
