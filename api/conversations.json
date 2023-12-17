@@ -38431,6 +38431,12 @@
         ]
       },
       {
+        "prompt": "name",
+        "answer": [
+          "I'm Robson Stonespitter, Son of Earth of the Dragoneater fellowship."
+        ]
+      },
+      {
         "prompt": "job",
         "answer": [
           "I was once a trader but after some years stranded on this remote isle, I felt that I liked that kind of life better and just stayed here even after steamships found that isle."
@@ -38461,19 +38467,13 @@
         ]
       },
       {
-        "prompt": "name",
-        "answer": [
-          "I'm Robson Stonespitter, Son of Earth of the Dragoneater fellowship."
-        ]
-      },
-      {
         "prompt": "goblin",
         "answer": [
           "You mean the little guy over there? I call him Lunch. He is my ... uhm friend ... I guess."
         ]
       },
       {
-        "prompt": "Lunch",
+        "prompt": "lunch",
         "answer": [
           "You won't believe it, but I found him in a giant fish that I captured. When I cut the beast in pieces, I saw a little goblin cowering inside. ...",
           "He did not seem to be a threat and I kind of adopted him. Since I captured the fish for lunch and it was lunchtime I named him Lunch. ...",
@@ -38481,9 +38481,52 @@
         ]
       },
       {
+        "prompt": "steamboat",
+        "answer": [
+          "What an irony. I was stranded here for years and now my isle becomes part of an regular shipping route. But so I have the best of both worlds. My solitude and provisions. That's enough for me."
+        ]
+      },
+      {
+        "prompt": "parcel",
+        "answer": [
+          "Do you want to buy a parcel for 15 gold?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "I knew I would never get rid of them."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Fine."
+        ]
+      },
+      {
+        "prompt": "label",
+        "answer": [
+          "Do you want to buy a label for 1 gold?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "I knew I would be stuck with that stuff."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Good."
+        ]
+      },
+      {
         "prompt": "bye",
         "answer": [
-          "See you next time!"
+          "See you next time!",
+          "No patience at all!"
         ]
       }
     ]
