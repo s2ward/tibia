@@ -68862,7 +68862,13 @@
         ]
       },
       {
-        "prompt": "want / job",
+        "prompt": "name",
+        "answer": [
+          "Just call me Uncle, my dear friend. Sooner or later, we might become very familiar."
+        ]
+      },
+      {
+        "prompt": "job",
         "answer": [
           "I have the privilege to serve as the headman of the AVIN."
         ]
@@ -68876,21 +68882,7 @@
         ]
       },
       {
-        "prompt": "TBI",
-        "answer": [
-          "They are bureaucrats, content when counting pennies and wasting the king's resources ...",
-          "All tries to make this humongous organisation more effective have been without success."
-        ]
-      },
-      {
-        "prompt": "CGB",
-        "answer": [
-          "The CGB are amateurish patriots. They lack any refinement or subtlety that is necessary in this business ...",
-          "When you need a fine sharp knife, they come with a chopping axe. But like all fanatics they can become dangerous if you do not monitor them."
-        ]
-      },
-      {
-        "prompt": "city / Venore",
+        "prompt": "city / venore",
         "answer": [
           "Venore is the queen of all cities. Here rules an open and clear mind, represented by the traders of our city. No trivial politics govern our actions but the crystal clear goal of profit ...",
           "Only the intelligent will be able to make profit and profit ensures that we and our city are prospering."
@@ -68903,69 +68895,104 @@
         ]
       },
       {
+        "prompt": "CGB",
+        "answer": [
+          "The CGB are amateurish patriots. They lack any refinement or subtlety that is necessary in this business ...",
+          "When you need a fine sharp knife, they come with a chopping axe. But like all fanatics they can become dangerous if you do not monitor them."
+        ]
+      },
+      {
+        "prompt": "TBI",
+        "answer": [
+          "They are bureaucrats, content when counting pennies and wasting the king's resources ...",
+          "All tries to make this humongous organisation more effective have been without success."
+        ]
+      },
+      {
+        "prompt": "beer / barrel",
+        "answer": [
+          "Hmph. Do I look like a bartender?"
+        ]
+      },
+      {
+        "prompt": "thais",
+        "answer": [
+          "Thais is somehow the great brother of our lovely Venore. Of course, we are under the legislation of the Thaian king but our wise traders were able to gain many concessions in the past and we are planning on keeping this process running."
+        ]
+      },
+      {
+        "prompt": "kazordoon",
+        "answer": [
+          "Dwarfs are stubborn and greedy but they see the value of some good profit. I think they could be valuable allies in certain ventures. If they were only a bit more flexible."
+        ]
+      },
+      {
+        "prompt": "ab'dendriel",
+        "answer": [
+          "Those elves are such a strange people, childish and feral at the same time. It's hard to make a good deal with them."
+        ]
+      },
+      {
+        "prompt": "svargrond",
+        "answer": [
+          "Svargrond is a barbarian town where the prude women of Carlin hope to establish a power basis. It is only a question of time until it explodes like a faulty firebomb rune."
+        ]
+      },
+      {
+        "prompt": "liberty bay",
+        "answer": [
+          "With the help of Venore, it has become a model colony. It is a fine example to show where our efforts can lead to."
+        ]
+      },
+      {
+        "prompt": "port hope",
+        "answer": [
+          "Sadly, this Thaian colony will fail. The decision to keep Venorean traders out has crippled the venture from the beginning."
+        ]
+      },
+      {
+        "prompt": "ankrahmun",
+        "answer": [
+          "A city with a death cult and undeads in its midst is certainly something to keep a close eye on."
+        ]
+      },
+      {
+        "prompt": "darashia",
+        "answer": [
+          "We have hardly any business with Darashia. Only the import of sand wasp honey is of interest. Apart from this, it is a boring and unimportant little place."
+        ]
+      },
+      {
+        "prompt": "join",
+        "answer": [
+          "Well, well, well! As you might know, we are entrusted by the Venorean tradesmen to ensure the safety of their ventures. ...",
+          "This task often puts our representatives in rather dangerous and challenging situations. On the other hand, you can expect a generous compensation for your efforts on our behalf. ...",
+          "Just keep in mind though that we expect quick action and that we are rather intolerant to needless questions and moral doubts. ...",
+          "If you join our ranks, you cannot join the service of another city! So do I understand you correctly, you want to join our small business?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Too bad. Perhaps you should consider the benefits."
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Then welcome to the family."
+        ]
+      },
+      {
         "prompt": "join",
         "answer": [
           "Don't try to fool the good old uncle. You won't like uncle if he gets angry."
         ]
       },
       {
-        "prompt": "name",
+        "prompt": "join",
         "answer": [
-          "Just call me Uncle, my dear friend. Sooner or later, we might become very familiar."
-        ]
-      },
-      {
-        "prompt": "Thais",
-        "answer": [
-          "Thais is somehow the great brother of our lovely Venore. Of course, we are under the legislation of the Thaian king but our wise traders were able to gain many concessions in the past and we are planning on keeping this process running."
-        ]
-      },
-      {
-        "prompt": "Carlin",
-        "answer": [
-          "These women would be amusing if their stupidity were not endangering so many of our important projects."
-        ]
-      },
-      {
-        "prompt": "Kazordoon",
-        "answer": [
-          "Dwarfs are stubborn and greedy but they see the value of some good profit. I think they could be valuable allies in certain ventures. If they were only a bit more flexible."
-        ]
-      },
-      {
-        "prompt": "Ab'Dendriel",
-        "answer": [
-          "Those elves are such a strange people, childish and feral at the same time. It's hard to make a good deal with them."
-        ]
-      },
-      {
-        "prompt": "Svargrond",
-        "answer": [
-          "Svargrond is a barbarian town where the prude women of Carlin hope to establish a power basis. It is only a question of time until it explodes like a faulty firebomb rune."
-        ]
-      },
-      {
-        "prompt": "Liberty Bay",
-        "answer": [
-          "With the help of Venore, it has become a model colony. It is a fine example to show where our efforts can lead to."
-        ]
-      },
-      {
-        "prompt": "Port Hope",
-        "answer": [
-          "Sadly, this Thaian colony will fail. The decision to keep Venorean traders out has crippled the venture from the beginning."
-        ]
-      },
-      {
-        "prompt": "Ankrahmun",
-        "answer": [
-          "A city with a death cult and undeads in its midst is certainly something to keep a close eye on."
-        ]
-      },
-      {
-        "prompt": "Darashia",
-        "answer": [
-          "We have hardly any business with Darashia. Only the import of sand wasp honey is of interest. Apart from this, it is a boring and unimportant little place."
+          "I hope you are just joking and did not forget that you are already a part of the family."
         ]
       },
       {
