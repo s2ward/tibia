@@ -86,11 +86,11 @@ And so on.
 
 # Hotkey Mania
 
-[hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
-
 To find tricky, hidden single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
 
-### See it in action on YouTube ----> [here!](https://youtu.be/YMx6i2K9K00?t=41) <----
+Link: [hotkeys.json](https://github.com/s2ward/tibia/blob/main/hotkeys.json)  
+
+### See it in action on YouTube --> [here!](https://youtu.be/YMx6i2K9K00?t=41) <--
 
 It consists of strings of unique words with a maximum of 255 characters.  
 - These strings are populated to Action-Bar buttons. 
@@ -107,16 +107,16 @@ When talking to NPCs, you can click-spam all of these actionbar buttons in appro
 
 ### How to import your hotkeys to your pre-existing hotkey file  
 
-For windows, your hotkeys reside here:  
+For windows, your hotkeys reside here, in a file named `clientoptions.json`  
 
 - Windows: `%LOCALAPPDATA%\Tibia\packages\Tibia\conf\` 
 
-You can go to settings in Tibia and click 'Open screenshots folder' to quickly find %APPDATA%\Tibia\packages\Tibia and browse to the correct folder.  
+You can go to settings in Tibia and click 'Open screenshots folder' to get into `Tibia\packages\Tibia` and then open `conf` folder.  
 
 ### Step by step how-to:  
 
-1. Close Tibia (important)
-2. Backup clientoptions.json (important)
+1. Close Tibia (**important**)
+2. Backup clientoptions.json (**important**)
 3. Open clientoptions.json with a text-editor.  
 4. Copy the whole block below (including spaces) and search for it (CTRL + F)
 ```
