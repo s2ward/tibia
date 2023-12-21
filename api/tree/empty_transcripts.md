@@ -203,7 +203,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Evrard the Miller</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Evrard_the_Miller.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fitzmaurice</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Fitzmaurice.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fral the Butcher</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Fral_the_Butcher.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Innkeeper Alphonse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Innkeeper_Alphonse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jehan the Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Jehan_the_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">John (Bounac)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/John_(Bounac).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">John the Carpenter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/John_the_Carpenter.txt)  

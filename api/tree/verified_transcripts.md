@@ -346,6 +346,8 @@
 ├─&nbsp;&nbsp;<strong>Liberty Bay</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Berenice</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Berenice.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bertram</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bertram.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Bounac</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Innkeeper Alphonse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bounac/Innkeeper_Alphonse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Braden</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Braden.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bradford</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Bradford.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Calassa</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Calassa)  
