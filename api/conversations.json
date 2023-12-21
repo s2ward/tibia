@@ -20321,7 +20321,116 @@
   {
     "file": "npc/Liberty_Bay/Bounac/Innkeeper_Alphonse.txt",
     "name": "Innkeeper_Alphonse",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome, customer! Enjoy a hot meal, fine cheese or a glass of wine!"
+        ]
+      },
+      {
+        "prompt": "name / alphonse",
+        "answer": [
+          "The name's Alphonse, pleased to meet you!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the innkeeper of the Lionheart. Doing this for quite a few decades now."
+        ]
+      },
+      {
+        "prompt": "Lionheart",
+        "answer": [
+          "Indeed, the best tavern in Bounac! I am very proud of it and named it to honour the courage of my long lost son, Valdyn."
+        ]
+      },
+      {
+        "prompt": "meal / cheese / wine",
+        "answer": [
+          "Enjoy your stay!"
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Those two brothers, Drume and Fugue have been quite a nuisance lately. They were never nice people - but this?!"
+        ]
+      },
+      {
+        "prompt": "seer",
+        "answer": [
+          "Well yes, we have a seer here, too. You can find him up in the mountains. Near the village."
+        ]
+      },
+      {
+        "prompt": "kesar",
+        "answer": [
+          "Kesar is a good lad, you can trust him. We all do, he stood by us through some harsh times."
+        ]
+      },
+      {
+        "prompt": "john / carpenter",
+        "answer": [
+          "John was bitten by a snake, can you imagine that? A snake!"
+        ]
+      },
+      {
+        "prompt": "wes / smith",
+        "answer": [
+          "Wes is our smith, he's also teaching after work."
+        ]
+      },
+      {
+        "prompt": "dal / hunter / huntress",
+        "answer": [
+          "Dal is a fine young lad, she often comes here to lighten up my mood."
+        ]
+      },
+      {
+        "prompt": "jehan / baker",
+        "answer": [
+          "Did you try baker Jehan's pastries yet? I don't like'em. Everybody seems to just love'em, I don't understand it."
+        ]
+      },
+      {
+        "prompt": "fral / butcher",
+        "answer": [
+          "Well, he's an elf, so what I say."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Onfroi doesn't come here very often. I guess he just doesn't like the hustle and bustle in here, can't blame in."
+        ]
+      },
+      {
+        "prompt": "evrard / miller",
+        "answer": [
+          "I've known Evrard for a long time, hope is doing well."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "TRADER AUGUSTIN!"
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "The one and uniquely pitiful, poor Yselda of Bounac."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell, traveller!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Dal_the_Huntress.txt",
