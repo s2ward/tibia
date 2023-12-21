@@ -124,6 +124,8 @@ Player: yselda
 Spectulus: That name... it means something to you, yes? Do you want to tell me about it?  
 Player: no  
 Spectulus: There is value in all stories, and more so in a story as tragic as this one.  
+Player: onfroi
+Spectulus: Onfroi! Of course, he is a dear friend of mine. Did you meet him? I wonder how he's doing...!
 Player: time machine / tempus  
 Spectulus: Well a project of me and Jack, my former intern. One day we played a game of... chess if I remember correctly. We discussed one of our moves when one of the chess pieces fell on the floor and under the table. ...  
 Spectulus: Jack couldn't reach it so I crawled under the table. And while I was bending down the greatest idea ever came to me - together with quite a lumbago - a working time machine! ...  
