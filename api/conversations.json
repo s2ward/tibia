@@ -20687,7 +20687,14 @@
   {
     "file": "npc/Liberty_Bay/Bounac/An_Idol.txt",
     "name": "An_Idol",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "VBOX",
+        "answer": [
+          "J-T B^C J^BXT\u00b0"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Kesar_the_Younger.txt",
