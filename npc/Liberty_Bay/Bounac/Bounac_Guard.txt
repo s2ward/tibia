@@ -1,0 +1,9 @@
+Player: hi
+Bounac Guard: YOU CANNOT PASS, TRAVELLER. THE CASTLE OF BOUNAC IS UNDER SIEGE.
+Player: pass
+Bounac Guard: YOU WANT PASSAGE, TRAVELLER?
+Player: no
+Bounac Guard: Move along then!
+Player: yes
+Bounac Guard: ALRIGHT ALRIGHT, LOWER YOUR VOICE STRANGER, I'M NOT DEAF! ...
+Bounac Guard: Alright, traveller, I've already heard of you. You can enter the castle. Good luck!

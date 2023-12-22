@@ -1,0 +1,45 @@
+Player: hi
+Wes the Blacksmith: Hail, customer! Welcome to Wes and son, blacksmith (and teacher). Can I do something for you?
+Player: no
+Wes the Blacksmith: Alright, then!
+Player: yes (night)
+Wes the Blacksmith: Well, sorry, not at this hour. Feel free to come by my shop during daytime!
+Player: yes (day)
+Wes the Blacksmith: Good! Feel free to browse my hand-made equipment then!
+Player: browse
+Wes the Blacksmith: There you are, traveller!
+Player: name / wes
+Wes the Blacksmith: My name's Wes. Pleased to meet you, traveller!
+Player: job / smith
+Wes the Blacksmith: I am a smith and part-time teacher.
+Player: son
+Wes the Blacksmith: That ne'er-do-well. Who knows what he's currently on about. He's seeems keenly interested in distance fighting, however. Which is the ONE THING I do not have any equipment for.
+Player: trade / browse
+Wes the Blacksmith: Come to my shop during daytime, I don't store any of my wares at home.
+Player: lesh the seer
+Wes the Blacksmith: The seer, Lesh? Strange guy.
+Player: john the carpenter
+Wes the Blacksmith: Now that you say it, haven't heard anything from John in days.
+Player: kesar the younger
+Wes the Blacksmith: Ah yes, our good king Kesar. The Younger of course. To be honest, he's not that young anymore. And not actually king, really. ...
+Wes the Blacksmith: We do not actually have a king 'round here. But we give him that feeling, y'know? He's a good leader after all and keeps this lot in check.
+Player: dal the huntress / hunter
+Wes the Blacksmith: Dal is a wonderful woman. Hope she's alright.
+Player: jehan the baker
+Wes the Blacksmith: Jehan's a good baker, you should try his pastries!
+Player: fral the butcher
+Wes the Blacksmith: The butcher may appear a bit harsh but he's a good soul.
+Player: evrard the miller
+Wes the Blacksmith: Evrard will help anyone, fine lad.
+Player: innkeeper alphonse
+Wes the Blacksmith: Ah yes, good Alphonse. Who doesn't like the Lionheart inn!
+Player: augustin
+Wes the Blacksmith: A trader in special wares as far as I know.
+Player: onfroi
+Wes the Blacksmith: Nice fellow, I helped him build some really strange contraptions he needed for an experiment of sorts.
+Player: yselda
+Wes the Blacksmith: A truly beautiful name, isn't it. I wish you all the best!
+Player: siege / drume / fugue
+Wes the Blacksmith: If you ask me, this siege better be over sooner than later. Bounac's people are weary of this.
+Player: bye
+Wes the Blacksmith: Farewell!

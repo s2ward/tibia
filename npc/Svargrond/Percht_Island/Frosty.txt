@@ -1,0 +1,36 @@
+Player: hi
+Frosty: No, you can't have my nose! If you're in need of a carrot, go to the market or just dig up one!
+Player: name
+Frosty: I'm Frosty, freeze to meet you!
+Player: job
+Frosty: Well, I'm kind of... attached to this location anyway so might as well give you some hints on what's going on around here.
+Player: carrot
+Frosty: What about 'no' do you not understand, hrm? You are more annoying than any percht around here! Not to mention those bothersome bunnies who try to gnaw away my nose!
+Player: bunnies
+Frosty: Annoying little critters! Now and again they come here and try to nibble at my nose. It is, in equal measure, tiring and outrageous. But hey, I have an idea. If you want to help an old snowman to get his revenge, do the following. ...
+Frosty: Grab a wooden hammer from one of the barrels down there. Then creep up on one of those pink monstrosities and bash them over the head with the tool. That should teach them a lesson!
+Player: percht
+Frosty: The winter opens doorways to the home realms of the percht. That way they can enter this world to haunt its inhabitants. But to be honest, I'm not eager to ramble on those shaggy beasts. ...
+Frosty: If you are really interested, you may read the books on the nearby table. They were written by someone who called herself a member of the Explorer Society and they should answer all your questions. ...
+Frosty: Although I can't understand why you should concern yourself with those critters. But if you bring me one of their skulls... in this case I have something for you.
+Player: Explorer Society
+Frosty: She came here some years ago and made exhaustive inquiries about the perchts. Their nature, their origins, their habits and so on. She knocked up a makeshift shack, barely enough to shelter her from wind and weather to write her books. ...
+Frosty: However, sometimes she relaxed, drinking mulled wine and building snowmen. Yes, me and those other guys around here. Then she left, leaving behind the shack and a copy of her scientific treatise. ...
+Frosty: Some months later, a lonely ice witch came by and decided to practice some of her spells here. One of those spells had an interesting effect on the snowmen in this area: They came to live. ...
+Frosty: Since this day I linger here, having a hard time being pestered by hungry bunnies and stinky perchts. A bit of advice: If you are planning to build any snowmen, bear in mind that they might come to live. And most of them are not as friendly as I am.
+Player: reward / something
+Frosty: Well, that witch I told you about... she not only brought snowmen to live. ...
+Frosty: She also bound some of the lesser perchts to sleds which helped her carry around her stuff - don't ask me how, ask me what colour you like! ...
+Frosty: Yes, I managed to come by some of them in the hope of getting out of this place. But it doesn't work that way it seems, I can't even get on one of those things. No dice. ...
+Frosty: So if you want one... just bring me one of the percht skulls and we will see. You can even choose one out of three different types.
+Player: skull
+Frosty: So, you got one? Well, give it to me then! Come on! Don't you want your reward...? Just tell me which type of sleigh you want: dark, bright or cold. ...
+Frosty: Or do you want to add a variation to one you already have or add a finish to an existing variant?
+Player: variation / dark / bright / cold
+Frosty: Where is it then? I don't see it and I sure don't smell it.
+Player: variation
+Frosty: Do you want a variation for the dark, bright or cold sleigh?
+Player: dark / bright / cold
+Frosty: There you go, enjoy.
+Player: bye
+Frosty: Goodbye!
