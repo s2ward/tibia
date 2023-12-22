@@ -1,0 +1,40 @@
+Player: hi
+Evrard: Welcome! I hope you're well and good today. If you just want to use the mill, feel free to do so.
+Player: name
+Evrard: My name is Evrard.
+Player: evrard
+Evrard: That's me. Evrard the miller.
+Player: job
+Evrard: I am the local miller.
+Player: mill / flour
+Evrard: Well, you can make some excellent flour here. Just put your grain under the millstone and and grind.
+Player: bounac
+Evrard: A fine place, we got everything we need here. There's traders for everything, a nice inn, a castle and even a cathedral. ...
+Evrard: We also have a harbour but trade overseas is basically non-existent. And not exactly needed, I might add. ...
+Evrard: Still, the siege has taken its toll on our fine city and its people.
+Player: siege / drume / fugue
+Evrard: Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people.
+Player: onfroi
+Evrard: Onfroi is also a healer and quite fun guy once you lean to know him better. He has his quirks, sure - but who doesn't.
+Player: john the carpenter
+Evrard: John's been bitten by a snake as far as I heard. Hope he's alright.
+Player: kesar the younger / king
+Evrard: Kesar is our king, let nobody tell you otherwise.
+Player: wes the smith
+Evrard: Wes is our blacksmith and a very skilled one indeed.
+Player: dal the huntress / hunter
+Evrard: Dal is a kind souls, return her kindness with some respect.
+Player: jehan the baker
+Evrard: I often deliver flour directly to Jehan but it's become a bit of a hassle during the siege.
+Player: fral the butcher
+Evrard: Our butcher, Fral, is well-known for his fine meat.
+Player: innkeeper alphonse
+Evrard: You'll like Alphonse, I guarantee. And if you don't, you'll like his exquisite wine and cheese.
+Player: augustin
+Evrard: Augustin is a trader working for Kesar. I wonder who his sources and suppliers are.
+Player: yselda
+Evrard: Did I tell you of this? Well, remember it then.
+Player: siege / drume / fugue
+Evrard: Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people.
+Player: bye
+Evrard: Farewell then.

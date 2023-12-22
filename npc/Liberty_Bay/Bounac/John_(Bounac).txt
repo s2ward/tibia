@@ -1,0 +1,43 @@
+Player: hi
+John: Good evening, sorry but it's already quite late and I'm technically on vacation... please make it quick!
+Player: name
+John: My name is John, nice to meet you! Even if... it's a bit late, don't you think? Quite late indeed.
+Player: john
+John: That would be me. I was bitten by a snake, that's why I have to take a bath in a lake beneath Bounac just as Lesh told me.
+Player: job
+John: I am the local carpenter.
+Player: bounac
+John: Bounac is an excellent place to live, don't you agree? Of course you do.
+Player: fragments
+John: Fragments... you say? I have quite a fragmented back, hopping down here all the way from the mountain just to get a moment of peace here in that well. So - if you'd kindly leave me recure in peace, thanks!
+Player: fragments
+John: Here! Please take a look, hero of Bounac!
+Player: fragments
+John The Carpenter: I once got ahold of these... strange cloth fragments. I don't know what they are but a traveller once wanted to pay me a ridiculous sum to just take a look at one
+Player: lesh the seer
+John: Lesh is our seer, a strange guy but he knows his stuff around nature and its hazards.
+Player: onfroi
+John: Onfroi will heal you, sure. But try to go to him to treat a simple snake bite. He will turn you away! Go to Lesh for that.
+Player: kesar the younger / king
+John: As for me porsonally, Kesar is the king and rightful ruler of these lands, I have no doubts about him.
+Player: wes the smith
+John: Wes is a good friend of mine. He's probably the best blacksmith I know.
+Player: dal the huntress
+John: Dal hunts all sorts of creatures and provides for the people of Bounac. In turn some of the people of Bounac also seem to be on the hunt... ...
+John: ...on the hunt for Dal's attention.
+Player: jehan the baker
+John: I am the local carpenter.
+Player: fral the butcher
+John: Fral is this town's butcher.
+Player: evrard the miller
+John: Evrard, yes, our local miller. Honest type.
+Player: innkeeper alphonse
+John: Alphonse runs the local inn, the Lionheart just south of town.
+Player: augustin
+John: Augustin trades a lot of exotic wares.
+Player: yselda
+John: Ah yes, Yselda. All but lost yet ever remembered by the people of Bounac.
+Player: siege / drume / fugue
+John: I used to stay away from politics but times have changed it seems.
+Player: bye
+John: Goodbye for now!

@@ -1,0 +1,38 @@
+Player: hi
+Fral the Butcher: Hello, customer! I got meat.
+Player: name / fral
+Fral the Butcher: Name's Dinha. Fral Dinha. Nice to meet you, I guess.
+Player: job
+Fral the Butcher: I am a butcher. I cleave meat, among other things.
+Player: meat
+Fral the Butcher: Sure, enjoy.
+Player: meat
+Fral the Butcher: What. Now? I got nothing here, find me in my shop during daytime if you want to buy meat.
+Player: bounac
+Fral the Butcher: BOUNAC!
+Player: augustine
+Fral the Butcher: Actually met hin once. Told me he had some original eleven stuff. Has no idea.
+Player: lesh the seer
+Fral the Butcher: Hm, never talked to him much.
+Player: onfroi
+Fral the Butcher: You can go to him for basically all your magical needs. He can also heal you if you're hurt.
+Player: john the carpenter
+Fral the Butcher: The carpenter is currently out of town.
+Player: kesar the younger
+Fral the Butcher: Kesar is a good ruler.
+Player: wes the smith
+Fral the Butcher: Our blacksmith is quite well-known, you should visit Wes some time.
+Player: dal the huntress
+Fral the Butcher: Dal is... beautiful. I mean, a beautifully skilled huntress. A huntress, Dal is a huntress you know.
+Player: jehan the baker
+Fral the Butcher: Jehan bakes very good bread and oooh his pastries... hmm!
+Player: evrard the miller
+Fral the Butcher: Didn't talk much to Evrard, guess he's alright.
+Player: innkeeper alphonse
+Fral the Butcher: INNKEEPER ALPHONSE?! Oh no. Don't even get me started with that one.
+Player: augustin
+Fral the Butcher: Actually met hin once. Told me he had some original eleven stuff. Has no idea.
+Player: yselda
+Fral the Butcher: Nice name I guess. Well, all the best!
+Player: bye
+Fral the Butcher: Farewell.

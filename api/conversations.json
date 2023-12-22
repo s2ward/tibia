@@ -20281,37 +20281,554 @@
   {
     "file": "npc/Liberty_Bay/Bounac/Evrard_the_Miller.txt",
     "name": "Evrard_the_Miller",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome! I hope you're well and good today. If you just want to use the mill, feel free to do so."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Evrard."
+        ]
+      },
+      {
+        "prompt": "evrard",
+        "answer": [
+          "That's me. Evrard the miller."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the local miller."
+        ]
+      },
+      {
+        "prompt": "mill / flour",
+        "answer": [
+          "Well, you can make some excellent flour here. Just put your grain under the millstone and and grind."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "A fine place, we got everything we need here. There's traders for everything, a nice inn, a castle and even a cathedral. ...",
+          "We also have a harbour but trade overseas is basically non-existent. And not exactly needed, I might add. ...",
+          "Still, the siege has taken its toll on our fine city and its people."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Onfroi is also a healer and quite fun guy once you lean to know him better. He has his quirks, sure - but who doesn't."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "John's been bitten by a snake as far as I heard. Hope he's alright."
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "Kesar is our king, let nobody tell you otherwise."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Wes is our blacksmith and a very skilled one indeed."
+        ]
+      },
+      {
+        "prompt": "dal the huntress / hunter",
+        "answer": [
+          "Dal is a kind souls, return her kindness with some respect."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "I often deliver flour directly to Jehan but it's become a bit of a hassle during the siege."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "Our butcher, Fral, is well-known for his fine meat."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "You'll like Alphonse, I guarantee. And if you don't, you'll like his exquisite wine and cheese."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Augustin is a trader working for Kesar. I wonder who his sources and suppliers are."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Did I tell you of this? Well, remember it then."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell then."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Bounac_Guard.txt",
     "name": "Bounac_Guard",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "YOU CANNOT PASS, TRAVELLER. THE CASTLE OF BOUNAC IS UNDER SIEGE."
+        ]
+      },
+      {
+        "prompt": "pass",
+        "answer": [
+          "YOU WANT PASSAGE, TRAVELLER?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Move along then!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "ALRIGHT ALRIGHT, LOWER YOUR VOICE STRANGER, I'M NOT DEAF! ...",
+          "Alright, traveller, I've already heard of you. You can enter the castle. Good luck!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/John_(Bounac).txt",
     "name": "John_(Bounac)",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Good evening, sorry but it's already quite late and I'm technically on vacation... please make it quick!"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is John, nice to meet you! Even if... it's a bit late, don't you think? Quite late indeed."
+        ]
+      },
+      {
+        "prompt": "john",
+        "answer": [
+          "That would be me. I was bitten by a snake, that's why I have to take a bath in a lake beneath Bounac just as Lesh told me."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the local carpenter."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "Bounac is an excellent place to live, don't you agree? Of course you do."
+        ]
+      },
+      {
+        "prompt": "fragments",
+        "answer": [
+          "Fragments... you say? I have quite a fragmented back, hopping down here all the way from the mountain just to get a moment of peace here in that well. So - if you'd kindly leave me recure in peace, thanks!"
+        ]
+      },
+      {
+        "prompt": "fragments",
+        "answer": [
+          "Here! Please take a look, hero of Bounac!"
+        ]
+      },
+      {
+        "prompt": "fragments",
+        "answer": [
+          "I once got ahold of these... strange cloth fragments. I don't know what they are but a traveller once wanted to pay me a ridiculous sum to just take a look at one"
+        ]
+      },
+      {
+        "prompt": "lesh the seer",
+        "answer": [
+          "Lesh is our seer, a strange guy but he knows his stuff around nature and its hazards."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Onfroi will heal you, sure. But try to go to him to treat a simple snake bite. He will turn you away! Go to Lesh for that."
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "As for me porsonally, Kesar is the king and rightful ruler of these lands, I have no doubts about him."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Wes is a good friend of mine. He's probably the best blacksmith I know."
+        ]
+      },
+      {
+        "prompt": "dal the huntress",
+        "answer": [
+          "Dal hunts all sorts of creatures and provides for the people of Bounac. In turn some of the people of Bounac also seem to be on the hunt... ...",
+          "...on the hunt for Dal's attention."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "I am the local carpenter."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "Fral is this town's butcher."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "Evrard, yes, our local miller. Honest type."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "Alphonse runs the local inn, the Lionheart just south of town."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Augustin trades a lot of exotic wares."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Ah yes, Yselda. All but lost yet ever remembered by the people of Bounac."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "I used to stay away from politics but times have changed it seems."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Goodbye for now!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Fral_the_Butcher.txt",
     "name": "Fral_the_Butcher",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hello, customer! I got meat."
+        ]
+      },
+      {
+        "prompt": "name / fral",
+        "answer": [
+          "Name's Dinha. Fral Dinha. Nice to meet you, I guess."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am a butcher. I cleave meat, among other things."
+        ]
+      },
+      {
+        "prompt": "meat",
+        "answer": [
+          "Sure, enjoy."
+        ]
+      },
+      {
+        "prompt": "meat",
+        "answer": [
+          "What. Now? I got nothing here, find me in my shop during daytime if you want to buy meat."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "BOUNAC!"
+        ]
+      },
+      {
+        "prompt": "augustine",
+        "answer": [
+          "Actually met hin once. Told me he had some original eleven stuff. Has no idea."
+        ]
+      },
+      {
+        "prompt": "lesh the seer",
+        "answer": [
+          "Hm, never talked to him much."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "You can go to him for basically all your magical needs. He can also heal you if you're hurt."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "The carpenter is currently out of town."
+        ]
+      },
+      {
+        "prompt": "kesar the younger",
+        "answer": [
+          "Kesar is a good ruler."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Our blacksmith is quite well-known, you should visit Wes some time."
+        ]
+      },
+      {
+        "prompt": "dal the huntress",
+        "answer": [
+          "Dal is... beautiful. I mean, a beautifully skilled huntress. A huntress, Dal is a huntress you know."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "Jehan bakes very good bread and oooh his pastries... hmm!"
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "Didn't talk much to Evrard, guess he's alright."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "INNKEEPER ALPHONSE?! Oh no. Don't even get me started with that one."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Actually met hin once. Told me he had some original eleven stuff. Has no idea."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Nice name I guess. Well, all the best!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/An_Idol.txt",
     "name": "An_Idol",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "VBOX",
+        "answer": [
+          "J-T B^C J^BXT\u00b0"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Kesar_the_Younger.txt",
     "name": "Kesar_the_Younger",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hail, what can I do for the hero of Bounac? The siege is finally under control, thanks to you."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Kesar the Younger. You are welcome."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I take care of these humble lands and its inhabitants, helping to organise life on this island in every way I can."
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "Many a king and queen have ruled the lands of Tibia. I do not consider myself one of them."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "Our ancestors came to Bounac centuries ago. As part of the Order of the Lion, they journeyed across the lands to bring peace, knightly virtues and prosperity to the known world. ...",
+          "They settled down here to found what is now know as Bounac."
+        ]
+      },
+      {
+        "prompt": "siege",
+        "answer": [
+          "It is done. Drume's forces lie broken on the battlefield. You witnessed the fall of a great enemy of the Order of the Lion. ...",
+          "You stood tall against the enemy forces and helped our cause wherever you could. ...",
+          "I therefore announced you the 'Hero of Bounac'. You are honourable citizen of this town now. ...",
+          "Feel free to roam Bounac as you please. This also means certain benefits when trading with our court trader Augustin. ...",
+          "Whenever you're here for a visit, the large house to the south of Bounac is now completely at your disposal. ...",
+          "And if we can persuade you into a longer stay perhaps, there is a small house further to the south of the island which may pique your interest. ...",
+          "Thank you for your service to Bounac, Hero."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Yselda... my Yselda. What do you know about her, hero of Bounac?"
+        ]
+      },
+      {
+        "prompt": "(any)",
+        "answer": [
+          "Wait, before you say anything - you truly have earned my trust and the goodwill of all the people of Bounac. However, this matter is of the most delicate nature. ...",
+          "Her name is merely a whisper accross these lands and I dare not summon the cruel ghosts of our cursed past. ...",
+          "Yselda, my beloved wife has been taken from me. I am sure of it. Dark forces far beyond my control took a part in this malicious play. ...",
+          "Someone, or something... took her. Away from me, away from Bounac I fear and into the depths of a dark misery not even the foulest of creatures could have conjured up. ...",
+          "I've seen it. I have seen her. Standing there, just standing. Trying to talk to me. Shrouded in a black mass ...",
+          "I visited a seer, Lesh, he showed me her dark fate. To this day I battle the dreams I paid this unsettling knowledge with. ...",
+          "She is not dead, nor is she alive. She just stands there, waiting. Breathing, watching. Excuse me, I cannot bear these thoughts much longer."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Yselda... my Yselda. Only time itself now has the power to show mercy over her poor soul."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell then, traveller."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Augustin.txt",
     "name": "Augustin",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome, Hero of Bounac! Feel free to trade to your heart's content! I also buy several ethereal and gnomish items."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Augustin. Welcome, hero!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I trade in all kinds of things at Kesar's personal behest."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Immediately."
+        ]
+      },
+      {
+        "prompt": "ethereal",
+        "answer": [
+          "Looks like you're not quite there yet, sorry."
+        ]
+      },
+      {
+        "prompt": "gnomish",
+        "answer": [
+          "Sure!"
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "I would trust Kesar with my life. He made some hard decisions in the past but he is the most trustworthy person I know."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell then, hero!",
+          "Goodbye!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Wes_the_Blacksmith.txt",
@@ -20359,43 +20876,43 @@
         ]
       },
       {
-        "prompt": "seer",
+        "prompt": "lesh the seer",
         "answer": [
           "Well yes, we have a seer here, too. You can find him up in the mountains. Near the village."
         ]
       },
       {
-        "prompt": "kesar",
+        "prompt": "kesar the younger",
         "answer": [
           "Kesar is a good lad, you can trust him. We all do, he stood by us through some harsh times."
         ]
       },
       {
-        "prompt": "john / carpenter",
+        "prompt": "john the carpenter",
         "answer": [
           "John was bitten by a snake, can you imagine that? A snake!"
         ]
       },
       {
-        "prompt": "wes / smith",
+        "prompt": "wes the smith",
         "answer": [
           "Wes is our smith, he's also teaching after work."
         ]
       },
       {
-        "prompt": "dal / hunter / huntress",
+        "prompt": "dal the huntress / hunter",
         "answer": [
           "Dal is a fine young lad, she often comes here to lighten up my mood."
         ]
       },
       {
-        "prompt": "jehan / baker",
+        "prompt": "jehan the baker",
         "answer": [
           "Did you try baker Jehan's pastries yet? I don't like'em. Everybody seems to just love'em, I don't understand it."
         ]
       },
       {
-        "prompt": "fral / butcher",
+        "prompt": "fral the butcher",
         "answer": [
           "Well, he's an elf, so what I say."
         ]
@@ -20407,7 +20924,7 @@
         ]
       },
       {
-        "prompt": "evrard / miller",
+        "prompt": "evrard the miller",
         "answer": [
           "I've known Evrard for a long time, hope is doing well."
         ]
@@ -20435,42 +20952,880 @@
   {
     "file": "npc/Liberty_Bay/Bounac/Dal_the_Huntress.txt",
     "name": "Dal_the_Huntress",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome, traveller! Feel free to browse my selection of furs."
+        ]
+      },
+      {
+        "prompt": "name / dal",
+        "answer": [
+          "My name is Dal, nice to meet you!"
+        ]
+      },
+      {
+        "prompt": "job / hunter / huntress",
+        "answer": [
+          "I am a huntress. There are plenty of deer around Bounac that needs to be kept in check."
+        ]
+      },
+      {
+        "prompt": "furs / sell / buy",
+        "answer": [
+          "Sure, thanks to you I was able to reopen my business! Here you go!"
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "Aaah, don't you just love it here? Well, I do."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Quite a confused man but also really interesting once you got to know him a bit better."
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "Our good king Kesar treats us fair and acts with wits and kindness."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "John had an accident with a snake it seems. He's currently trying to recover."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Wes, our blacksmith, is also a fine teacher. Go visit him some time!"
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "Jehan is a nice guy, not exactly the brightest spot under the sun but... I shouldn't say that, he's kind and always nice to me."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "Fral is our local butcher. He's actually an elf, did you know that? Didn't know they were so skilled with meat."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "You know Evrard? He's quite tough but can also crack a joke now and then, I quite like that."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "Alphonse is a good friend, I sometimes come to the Lionheart when nothing much is going on and we just talk. ...",
+          "Not much opportunities for that anymore during the siege, however."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Augustin is a trader at Kesar's court as far as I know."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "I quite like that name. I wish you all the best on your travels!"
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "There is some kind of feud between Drume, Fugue and Kesar. Don't ask me when and where that started but it's no secret that they never got along."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Goodbye, traveller!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/John_the_Carpenter.txt",
     "name": "John_the_Carpenter",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hail, customer! Welcome to Wes and son, blacksmith (and teacher). Can I do something for you?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Alright, then!"
+        ]
+      },
+      {
+        "prompt": "yes (night)",
+        "answer": [
+          "Well, sorry, not at this hour. Feel free to come by my shop during daytime!"
+        ]
+      },
+      {
+        "prompt": "yes (day)",
+        "answer": [
+          "Good! Feel free to browse my hand-made equipment then!"
+        ]
+      },
+      {
+        "prompt": "browse",
+        "answer": [
+          "There you are, traveller!"
+        ]
+      },
+      {
+        "prompt": "name / wes",
+        "answer": [
+          "My name's Wes. Pleased to meet you, traveller!"
+        ]
+      },
+      {
+        "prompt": "job / smith",
+        "answer": [
+          "I am a smith and part-time teacher."
+        ]
+      },
+      {
+        "prompt": "son",
+        "answer": [
+          "That ne'er-do-well. Who knows what he's currently on about. He's seeems keenly interested in distance fighting, however. Which is the ONE THING I do not have any equipment for."
+        ]
+      },
+      {
+        "prompt": "trade / browse",
+        "answer": [
+          "Come to my shop during daytime, I don't store any of my wares at home."
+        ]
+      },
+      {
+        "prompt": "lesh the seer",
+        "answer": [
+          "The seer, Lesh? Strange guy."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "Now that you say it, haven't heard anything from John in days."
+        ]
+      },
+      {
+        "prompt": "kesar the younger",
+        "answer": [
+          "Ah yes, our good king Kesar. The Younger of course. To be honest, he's not that young anymore. And not actually king, really. ...",
+          "We do not actually have a king 'round here. But we give him that feeling, y'know? He's a good leader after all and keeps this lot in check."
+        ]
+      },
+      {
+        "prompt": "dal the huntress / hunter",
+        "answer": [
+          "Dal is a wonderful woman. Hope she's alright."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "Jehan's a good baker, you should try his pastries!"
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "The butcher may appear a bit harsh but he's a good soul."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "Evrard will help anyone, fine lad."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "Ah yes, good Alphonse. Who doesn't like the Lionheart inn!"
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "A trader in special wares as far as I know."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Nice fellow, I helped him build some really strange contraptions he needed for an experiment of sorts."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "A truly beautiful name, isn't it. I wish you all the best!"
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "If you ask me, this siege better be over sooner than later. Bounac's people are weary of this."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Kesar's_Valet.txt",
     "name": "Kesar's_Valet",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi (day)",
+        "answer": [
+          "HAIL THEE!"
+        ]
+      },
+      {
+        "prompt": "hi (night)",
+        "answer": [
+          "QUIET! MIND THE HOUR!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Jehan_the_Baker.txt",
     "name": "Jehan_the_Baker",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome to the Bread & Butter! Do you want to buy bread or pastries?"
+        ]
+      },
+      {
+        "prompt": "name / jehan",
+        "answer": [
+          "My name is Jehan."
+        ]
+      },
+      {
+        "prompt": "job / baker",
+        "answer": [
+          "I am the local baker."
+        ]
+      },
+      {
+        "prompt": "lesh the seer",
+        "answer": [
+          "Well, I certainly know pastries better than any medicine or magic but I trust him."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Our wizard Onfroi will heal you in times of need."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "I like it here in Bounac."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "John is our carpenter, he's currently not in town due to an accident or something."
+        ]
+      },
+      {
+        "prompt": "kesar the younger",
+        "answer": [
+          "I quite like Kesar, he doesn't want to be known as a true king but trust me, he is a born leader."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Yeah, Wes, our blacksmith, he's alright I guess."
+        ]
+      },
+      {
+        "prompt": "dal the huntress",
+        "answer": [
+          "I like Dal, she's a brave huntress and has done a lot for this town."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "Fral is a strange fellow, I don't know."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "Evrard is the local miller, trustworthy guy."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "Ah yes, Alphonse. You got to go visit the Lionheart inn, it's just south of town, near the beach."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Augustin is a trader on Kesar's court, never talked to him."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "A delicious name, don't you think? All the best to you!"
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Drume and Fugue just returned here to invade us. I don't know what's really going on, your guess is as good as mine."
+        ]
+      },
+      {
+        "prompt": "bread / pastries",
+        "answer": [
+          "Of course, here you are!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Goodbye."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Fitzmaurice.txt",
     "name": "Fitzmaurice",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Oh, hello there!"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Fitzmaurice. Maybe you already made the acquaintance of one of my older brothers."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Do I look like I'm working?"
+        ]
+      },
+      {
+        "prompt": "brothers / fitzwilliam",
+        "answer": [
+          "They're about as steadfast as me and could be practically anywhere and nowhere these days. ...",
+          "Fitzwilliam has always wanted to visit exotic locations. Then again, he never did go out much in the first place. ...",
+          "Fitzgerald also liked the warmth of this world's southern regions but he's not known to be that enthusiastic about travelling in general."
+        ]
+      },
+      {
+        "prompt": "fitz",
+        "answer": [
+          "Don't know who you're talking about there, sorry."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "What a fine place to live, eat, drink and enjoy life!"
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "Kesar is a good ruler. They say he doesn't see himself much of a king, well, to each their own I guess."
+        ]
+      },
+      {
+        "prompt": "prison",
+        "answer": [
+          "Yes, welcome! Well it may be more of a prison to you than it is to me. I grew quite fond of it."
+        ]
+      },
+      {
+        "prompt": "siege",
+        "answer": [
+          "Ah, you know, battering rams here, catapults there... overall it has been pretty quite down here so far."
+        ]
+      },
+      {
+        "prompt": "help",
+        "answer": [
+          "Help? You need help? What can I do for... oh, you mean me? No, no thanks. I'm good, just fine."
+        ]
+      },
+      {
+        "prompt": "fine",
+        "answer": [
+          "Of course! I mean, look around you! I got everything I need here! It's dry, not too hot during the warmer days and I've got plenty to eat! ...",
+          "You get better food down here in this prison than in most places up there out in the world. ...",
+          "Well, there is one thing, though... but I wouldn't want to bother you with an errand."
+        ]
+      },
+      {
+        "prompt": "errand / wine",
+        "answer": [
+          "Hm, nah, I shouldn't really bother you with this. You know, they have some excellent food down here but the wine... ...",
+          "It sure tastes like the real thing but they seem to stretch it with water. ...",
+          "Now I don't know if this is just for us prisoners down here or if it's because of the siege but I'd really like to taste some good wine. ...",
+          "Don't know if you ever met my brothers but one of them, Fitzwilliam, is a keen gourmet of wine and used to have a vineyard estate."
+        ]
+      },
+      {
+        "prompt": "wine",
+        "answer": [
+          "Hm, nah, I shouldn't really bother you with this. You know... what do you have there? Wine? A Fitzwilliam's Special...? Oh! ...",
+          "Now that's what I call WINE, thank you very much! Hope you enjoy your stay in Bounac as much as I do, my friend!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Evrard.txt",
     "name": "Evrard",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome! I hope you're well and good today. If you just want to use the mill, feel free to do so."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Evrard."
+        ]
+      },
+      {
+        "prompt": "evrard",
+        "answer": [
+          "That's me. Evrard the miller."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the local miller."
+        ]
+      },
+      {
+        "prompt": "mill / flour",
+        "answer": [
+          "Well, you can make some excellent flour here. Just put your grain under the millstone and and grind."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "A fine place, we got everything we need here. There's traders for everything, a nice inn, a castle and even a cathedral. ...",
+          "We also have a harbour but trade overseas is basically non-existent. And not exactly needed, I might add. ...",
+          "Still, the siege has taken its toll on our fine city and its people."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people."
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Onfroi is also a healer and quite fun guy once you lean to know him better. He has his quirks, sure - but who doesn't."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "John's been bitten by a snake as far as I heard. Hope he's alright."
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "Kesar is our king, let nobody tell you otherwise."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Wes is our blacksmith and a very skilled one indeed."
+        ]
+      },
+      {
+        "prompt": "dal the huntress / hunter",
+        "answer": [
+          "Dal is a kind souls, return her kindness with some respect."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "I often deliver flour directly to Jehan but it's become a bit of a hassle during the siege."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "Our butcher, Fral, is well-known for his fine meat."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "You'll like Alphonse, I guarantee. And if you don't, you'll like his exquisite wine and cheese."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Augustin is a trader working for Kesar. I wonder who his sources and suppliers are."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Did I tell you of this? Well, remember it then."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell then."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Lesh_the_Seer.txt",
     "name": "Lesh_the_Seer",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "A good day I wish, wanderer. Are you here because of the curse? I know you're here because of it... I know it."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Lesh is my name, an important one for you to remember."
+        ]
+      },
+      {
+        "prompt": "lesh",
+        "answer": [
+          "That's me, I am Lesh, the seer. The same you're currently talking to, unless you're actually talking to someone else."
+        ]
+      },
+      {
+        "prompt": "job / seer",
+        "answer": [
+          "I am a seer. The most valued seer in all of Bounac. And the only one since my evil adversary Bosh turned tail and ran."
+        ]
+      },
+      {
+        "prompt": "Bosh",
+        "answer": [
+          "I have to say - a man worthy of our profession. He was a skilled healer, always a lot of things on his mind, ever busy and... then he just vanished. ...",
+          "You know, I didn't very much like him when he was still around but now that he's gone and I'm stuck with old Onfroi here - let's just say I wish him all the best."
+        ]
+      },
+      {
+        "prompt": "onfroi / wizard",
+        "answer": [
+          "Pah. Onfroi doesn't know the first thing about medicine. He likes to dabble in obscure magic and research preposterous spells. While all he'd need is everywhere around him: nature."
+        ]
+      },
+      {
+        "prompt": "bounac / nature / life",
+        "answer": [
+          "Nature is pure around Bounac. Healthy and strong like a giant root, grasping firmly to the warm core of the world. With gentle arms it holds us in custody, nurturing all beings with life."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "Yes, I treated him. Treated him well and good. He was bitten by a snake. Regular warm and healthy baths in the hot springs beneath the mountain will heal him."
+        ]
+      },
+      {
+        "prompt": "kesar the younger / king",
+        "answer": [
+          "Kesar, I serve him well and true. He will know what has befallen him and his line, his eyes towards fate will be open - always. I will see to that."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "Wes is quite helpful with my cooking stuff, he always fixes my things."
+        ]
+      },
+      {
+        "prompt": "dal the huntress",
+        "answer": [
+          "If you need fur, Dal can provide a good assortment of hides, furs and leather."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "Not my kind of meal."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "He is trustworthy, if a bit obnoxious at times."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "A good person, helping and knowledgable."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "Alphonse owns the Lionheart inn, I don't go there much but it's south of town if you want."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "That guy seems to elude me all the time. Even more so than the old wizard."
+        ]
+      },
+      {
+        "prompt": "curse",
+        "answer": [
+          "A curse, yes. A curse has befallen the queen. Our poor king will utter Yselda's name no more, yet his heart longs for a conclusion."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Yselda, yes, an important name. The lands are in turmoil as of now and the king as an occupied mind, however."
+        ]
+      },
+      {
+        "prompt": "siege / drume / fugue",
+        "answer": [
+          "Intrigues and lies and war and death, the usurpers have no respect for anything and will not let anyone stand in their way."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell and keep safe, wanderer."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Bounac/Onfroi.txt",
     "name": "Onfroi",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome, traveller! Is it tea you're looking... oh, is it still morning? Anyway, browse my stock now."
+        ]
+      },
+      {
+        "prompt": "stock / trade",
+        "answer": [
+          "Of course, traveller. Feel free to browse!"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "They call me TRAVELLER! Yehees! Oh, I mean, no - NO! They call me Onfroi. I am Onfroi, the wizard. Pleased to meet you, traveller!"
+        ]
+      },
+      {
+        "prompt": "onfroi",
+        "answer": [
+          "Oh yes, that's me, indeed!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the local healer currently. Well, most of the time. I'm actually a well-known wizard, you might not know me, though."
+        ]
+      },
+      {
+        "prompt": "healer / help",
+        "answer": [
+          "You do not need any healing right now."
+        ]
+      },
+      {
+        "prompt": "bounac",
+        "answer": [
+          "A fine place, I absolutely love it here. Time and space for all my experiments and I'm free to do as I please."
+        ]
+      },
+      {
+        "prompt": "spectulus",
+        "answer": [
+          "You know him? Spectulus is a very old friend of mine! We haven't seen in years now, however. I wonder how he's doing...!"
+        ]
+      },
+      {
+        "prompt": "lesh the seer",
+        "answer": [
+          "Lesh is a mysterium, an enigma. A big, unstable question mark. He knows nothing about healing magic and I don't know what he does to people."
+        ]
+      },
+      {
+        "prompt": "john the carpenter",
+        "answer": [
+          "John is not here, we had to send him out of town for medicine as even I couldn't treat his bite."
+        ]
+      },
+      {
+        "prompt": "wes the smith",
+        "answer": [
+          "The blacksmith has some quite handy tools. He helped me building some of the machinery I need during my experiments."
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "Oh you mean Kesar, he is quite alright. I like him. You know, the whole part of him trying not to act like a king. ...",
+          "It's adorable. And of course he is. A true king, I mean."
+        ]
+      },
+      {
+        "prompt": "dal the huntress",
+        "answer": [
+          "Dal is always kind to me. And I have the most refreshing conversations with her."
+        ]
+      },
+      {
+        "prompt": "jehan the baker",
+        "answer": [
+          "Jehan makes some delicious pastry. You got to try it."
+        ]
+      },
+      {
+        "prompt": "fral the butcher",
+        "answer": [
+          "We have an excellent butcher in town, skilled and knowledgeable in all things meat."
+        ]
+      },
+      {
+        "prompt": "evrard the miller",
+        "answer": [
+          "Evrard is our miller, he's very honest and trustworthy."
+        ]
+      },
+      {
+        "prompt": "innkeeper alphonse",
+        "answer": [
+          "I don't visit the inn much but Alphonse is a nice person."
+        ]
+      },
+      {
+        "prompt": "augustin",
+        "answer": [
+          "Kesar's royal trader, he trades in the most peculiar wares."
+        ]
+      },
+      {
+        "prompt": "yselda",
+        "answer": [
+          "Beautiful name. Mysterious and delicate. Have a fine day, my friend!"
+        ]
+      },
+      {
+        "prompt": "siege / drume /",
+        "answer": [
+          "Pah, the siege. It's horrible! Nobody can finish their experiments... well I can't for one... it's unbearable."
+        ]
+      },
+      {
+        "prompt": "potion",
+        "answer": [
+          "We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers."
+        ]
+      },
+      {
+        "prompt": "vial",
+        "answer": [
+          "Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Hmm, but please keep Tibia litter free."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell, traveller..."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Treasure_Island/Eranth.txt",
@@ -116102,7 +117457,96 @@
   {
     "file": "npc/Svargrond/Percht_Island/Frosty.txt",
     "name": "Frosty",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "No, you can't have my nose! If you're in need of a carrot, go to the market or just dig up one!"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "I'm Frosty, freeze to meet you!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Well, I'm kind of... attached to this location anyway so might as well give you some hints on what's going on around here."
+        ]
+      },
+      {
+        "prompt": "carrot",
+        "answer": [
+          "What about 'no' do you not understand, hrm? You are more annoying than any percht around here! Not to mention those bothersome bunnies who try to gnaw away my nose!"
+        ]
+      },
+      {
+        "prompt": "bunnies",
+        "answer": [
+          "Annoying little critters! Now and again they come here and try to nibble at my nose. It is, in equal measure, tiring and outrageous. But hey, I have an idea. If you want to help an old snowman to get his revenge, do the following. ...",
+          "Grab a wooden hammer from one of the barrels down there. Then creep up on one of those pink monstrosities and bash them over the head with the tool. That should teach them a lesson!"
+        ]
+      },
+      {
+        "prompt": "percht",
+        "answer": [
+          "The winter opens doorways to the home realms of the percht. That way they can enter this world to haunt its inhabitants. But to be honest, I'm not eager to ramble on those shaggy beasts. ...",
+          "If you are really interested, you may read the books on the nearby table. They were written by someone who called herself a member of the Explorer Society and they should answer all your questions. ...",
+          "Although I can't understand why you should concern yourself with those critters. But if you bring me one of their skulls... in this case I have something for you."
+        ]
+      },
+      {
+        "prompt": "Explorer Society",
+        "answer": [
+          "She came here some years ago and made exhaustive inquiries about the perchts. Their nature, their origins, their habits and so on. She knocked up a makeshift shack, barely enough to shelter her from wind and weather to write her books. ...",
+          "However, sometimes she relaxed, drinking mulled wine and building snowmen. Yes, me and those other guys around here. Then she left, leaving behind the shack and a copy of her scientific treatise. ...",
+          "Some months later, a lonely ice witch came by and decided to practice some of her spells here. One of those spells had an interesting effect on the snowmen in this area: They came to live. ...",
+          "Since this day I linger here, having a hard time being pestered by hungry bunnies and stinky perchts. A bit of advice: If you are planning to build any snowmen, bear in mind that they might come to live. And most of them are not as friendly as I am."
+        ]
+      },
+      {
+        "prompt": "reward / something",
+        "answer": [
+          "Well, that witch I told you about... she not only brought snowmen to live. ...",
+          "She also bound some of the lesser perchts to sleds which helped her carry around her stuff - don't ask me how, ask me what colour you like! ...",
+          "Yes, I managed to come by some of them in the hope of getting out of this place. But it doesn't work that way it seems, I can't even get on one of those things. No dice. ...",
+          "So if you want one... just bring me one of the percht skulls and we will see. You can even choose one out of three different types."
+        ]
+      },
+      {
+        "prompt": "skull",
+        "answer": [
+          "So, you got one? Well, give it to me then! Come on! Don't you want your reward...? Just tell me which type of sleigh you want: dark, bright or cold. ...",
+          "Or do you want to add a variation to one you already have or add a finish to an existing variant?"
+        ]
+      },
+      {
+        "prompt": "variation / dark / bright / cold",
+        "answer": [
+          "Where is it then? I don't see it and I sure don't smell it."
+        ]
+      },
+      {
+        "prompt": "variation",
+        "answer": [
+          "Do you want a variation for the dark, bright or cold sleigh?"
+        ]
+      },
+      {
+        "prompt": "dark / bright / cold",
+        "answer": [
+          "There you go, enjoy."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Goodbye!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Svargrond/Tyrsung/Baltim.txt",

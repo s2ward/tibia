@@ -1,0 +1,40 @@
+Player: hi
+Evrard The Miller: Welcome! I hope you're well and good today. If you just want to use the mill, feel free to do so.
+Player: name
+Evrard The Miller: My name is Evrard.
+Player: evrard
+Evrard The Miller: That's me. Evrard the miller.
+Player: job
+Evrard The Miller: I am the local miller.
+Player: mill / flour
+Evrard The Miller: Well, you can make some excellent flour here. Just put your grain under the millstone and and grind.
+Player: bounac
+Evrard The Miller: A fine place, we got everything we need here. There's traders for everything, a nice inn, a castle and even a cathedral. ...
+Evrard The Miller: We also have a harbour but trade overseas is basically non-existent. And not exactly needed, I might add. ...
+Evrard The Miller: Still, the siege has taken its toll on our fine city and its people.
+Player: siege / drume / fugue
+Evrard The Miller: Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people.
+Player: onfroi
+Evrard The Miller: Onfroi is also a healer and quite fun guy once you lean to know him better. He has his quirks, sure - but who doesn't.
+Player: john the carpenter
+Evrard The Miller: John's been bitten by a snake as far as I heard. Hope he's alright.
+Player: kesar the younger / king
+Evrard The Miller: Kesar is our king, let nobody tell you otherwise.
+Player: wes the smith
+Evrard The Miller: Wes is our blacksmith and a very skilled one indeed.
+Player: dal the huntress / hunter
+Evrard The Miller: Dal is a kind souls, return her kindness with some respect.
+Player: jehan the baker
+Evrard The Miller: I often deliver flour directly to Jehan but it's become a bit of a hassle during the siege.
+Player: fral the butcher
+Evrard The Miller: Our butcher, Fral, is well-known for his fine meat.
+Player: innkeeper alphonse
+Evrard The Miller: You'll like Alphonse, I guarantee. And if you don't, you'll like his exquisite wine and cheese.
+Player: augustin
+Evrard The Miller: Augustin is a trader working for Kesar. I wonder who his sources and suppliers are.
+Player: yselda
+Evrard The Miller: Did I tell you of this? Well, remember it then.
+Player: siege / drume / fugue
+Evrard The Miller: Drume and Fugue have caused quite a ruckus around here. This siege is very hard for Bounac and its people.
+Player: bye
+Evrard The Miller: Farewell then.
