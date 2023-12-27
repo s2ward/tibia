@@ -61885,25 +61885,25 @@
     "name": "Ned_Nobel",
     "conversation": [
       {
-        "prompt": "hi / hello",
+        "prompt": "hi",
         "answer": [
           "Hi fellow, do you need rockits for the upcoming turn of the year? Just let me know if you want to trade."
         ]
       },
       {
-        "prompt": "Alfred",
+        "prompt": "name",
         "answer": [
-          "He laid the foundation for my invention."
+          "My name is Ned. Ned Nobel. Maybe you knew my father, his name was Alfred!"
         ]
       },
       {
-        "prompt": "equipment / goods / stuff / offer / sell / ware",
+        "prompt": "job",
         "answer": [
-          "I can offer you rockits to celebrate the upcoming new year! Just ask me for a trade."
+          "I'm an inventor and a salesman. You know, without money no inventions."
         ]
       },
       {
-        "prompt": "father",
+        "prompt": "father / alfred nobel",
         "answer": [
           "He laid the foundation for my invention."
         ]
@@ -61915,27 +61915,27 @@
         ]
       },
       {
-        "prompt": "job",
-        "answer": [
-          "I'm an inventor and a salesman. You know, without money no inventions."
-        ]
-      },
-      {
-        "prompt": "name",
-        "answer": [
-          "My name is Ned. Ned Nobel. Maybe you knew my father, his name was Alfred!"
-        ]
-      },
-      {
-        "prompt": "secret",
+        "prompt": "secret (idle)",
         "answer": [
           "No, I will not tell you and now stop bothering me I have to work."
         ]
       },
       {
-        "prompt": "stop / next",
+        "prompt": "stop / tomorrow / next",
         "answer": [
           "Tomorrow, I'll return to my secret laboratory and be sure that I won't tell you where that is. I need that privacy to come up with new inventions."
+        ]
+      },
+      {
+        "prompt": "else",
+        "answer": [
+          "I invented many, many things. It would go too far to explain every single invention to you."
+        ]
+      },
+      {
+        "prompt": "equipment / goods / stuff / offer / sell / ware",
+        "answer": [
+          "I can offer you rockits to celebrate the upcoming new year! Just ask me for a trade."
         ]
       },
       {
@@ -61945,7 +61945,7 @@
         ]
       },
       {
-        "prompt": "bye / farewell",
+        "prompt": "bye",
         "answer": [
           "I wish you a prosperous new year Player!"
         ]
