@@ -1,5 +1,7 @@
-Player: hi
+Player: hi (day)
 Jehan the Baker: Welcome to the Bread & Butter! Do you want to buy bread or pastries?
+Player: hi (night)
+Jehan the Baker: Welcome to the Bread & Butter! Do you... hey, it's already closing time. This is my home!
 Player: name / jehan
 Jehan the Baker: My name is Jehan.
 Player: job / baker
