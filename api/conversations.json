@@ -68096,9 +68096,33 @@
         ]
       },
       {
+        "prompt": "name",
+        "answer": [
+          "What's a name worth in your eyes? And more important: Does the choice of your name decide your fate? Perhaps we will never know."
+        ]
+      },
+      {
         "prompt": "wanderer / job",
         "answer": [
           "I consider myself as a guide, a guardian for the souls who transcend the border to another world."
+        ]
+      },
+      {
+        "prompt": "time",
+        "answer": [
+          "It's 4:38 am now, but the true question is: How much time is left?"
+        ]
+      },
+      {
+        "prompt": "buy / sell / offer / stuff / equipment / ware / goods",
+        "answer": [
+          "I'm offering vases and amphoras, the perfect vessel for all kinds of dusty remains. Ask me for a trade if you're interested."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Yes, it's a wise idea not to leave the choice of your future vessel to chance. Have a look."
         ]
       },
       {
@@ -68108,10 +68132,15 @@
         ]
       },
       {
-        "prompt": "zarganash",
+        "prompt": "leeland slim",
         "answer": [
-          "In a time when even death was young, the caverns of Zarganash were a place, where the souls of the dead rested for a while before they passed into the great beyond. ...",
-          "Over the course of aeons, the caverns of Zarganash became a vast plane, filled with lost souls and far more powerful entities. ... Zarganash is a part of the Netherworld, the place where souls of sentient beings go after death. But it is not completely congruent with the Netherworld, it is just a part of this vast and mysterious realm."
+          "This man is so old and looks so unhealthy that I expect him to become my customer every day."
+        ]
+      },
+      {
+        "prompt": "abran ironeye",
+        "answer": [
+          "At least his temper brought me some customers."
         ]
       },
       {
@@ -68133,15 +68162,21 @@
         ]
       },
       {
-        "prompt": "gods",
+        "prompt": "birth",
         "answer": [
-          "Once you leave your mortal shell, you'll become one with the gods."
+          "Birth might be the beginning but death is certainly not the end."
         ]
       },
       {
-        "prompt": "name",
+        "prompt": "fire",
         "answer": [
-          "What's a name worth in your eyes? And more important: Does the choice of your name decide your fate? Perhaps we will never know."
+          "The purging force of fire ... it helps to free souls and its smoke helps them to find their way to another world."
+        ]
+      },
+      {
+        "prompt": "gods",
+        "answer": [
+          "Once you leave your mortal shell, you'll become one with the gods."
         ]
       },
       {
@@ -68181,18 +68216,6 @@
         ]
       },
       {
-        "prompt": "buy / sell / offer / stuff / equipment / ware / goods",
-        "answer": [
-          "I'm offering vases and amphoras, the perfect vessel for all kinds of dusty remains. Ask me for a trade if you're interested."
-        ]
-      },
-      {
-        "prompt": "help",
-        "answer": [
-          "What help could I offer apart from guidance? Would you like me to help you to transcend the border to the afterlife?"
-        ]
-      },
-      {
         "prompt": "king",
         "answer": [
           "Kings, queens ... I've seen them come and go. Everything fades, even the glory and wealth of the richest."
@@ -68205,15 +68228,15 @@
         ]
       },
       {
-        "prompt": "crematory",
+        "prompt": "cemetery",
         "answer": [
-          "Such an ugly word for this wonderful place. It's a door, a portal to a better world."
+          "It would be a shame to let worms do the work that is meant to be done by cleansing fire."
         ]
       },
       {
-        "prompt": "time",
+        "prompt": "crematory",
         "answer": [
-          "It's 4:38 am now, but the true question is: How much time is left?"
+          "Such an ugly word for this wonderful place. It's a door, a portal to a better world."
         ]
       },
       {
@@ -68223,15 +68246,15 @@
         ]
       },
       {
-        "prompt": "fire",
-        "answer": [
-          "The purging force of fire ... it helps to free souls and its smoke helps them to find their way to another world."
-        ]
-      },
-      {
         "prompt": "help",
         "answer": [
           "What help could I offer apart from guidance? Would you like me to help you to transcend the border to the afterlife?"
+        ]
+      },
+      {
+        "prompt": "No",
+        "answer": [
+          "Come back when you have changed your mind, wanderer."
         ]
       },
       {
@@ -68244,18 +68267,6 @@
         "prompt": "yes",
         "answer": [
           "Hmm... seems you are not ready yet to let go."
-        ]
-      },
-      {
-        "prompt": "birth",
-        "answer": [
-          "Birth might be the beginning but death is certainly not the end."
-        ]
-      },
-      {
-        "prompt": "trade",
-        "answer": [
-          "Yes, it's a wise idea not to leave the choice of your future vessel to chance. Have a look."
         ]
       },
       {
@@ -68272,39 +68283,11 @@
         ]
       },
       {
-        "prompt": "slim",
+        "prompt": "zarganash",
         "answer": [
-          "This man is so old and looks so unhealthy that I expect him to become my customer every day."
-        ]
-      },
-      {
-        "prompt": "ironeye",
-        "answer": [
-          "At least his temper brought me some customers."
-        ]
-      },
-      {
-        "prompt": "cemetery",
-        "answer": [
-          "It would be a shame to let worms do the work that is meant to be done by cleansing fire."
-        ]
-      },
-      {
-        "prompt": "death",
-        "answer": [
-          "Does it mean anything than losing your weak physical shell? And isn't the true power in the universe rather mental than physical?"
-        ]
-      },
-      {
-        "prompt": "help",
-        "answer": [
-          "What help could I offer apart from guidance? Would you like me to help you to transcend the border to the afterlife?"
-        ]
-      },
-      {
-        "prompt": "No",
-        "answer": [
-          "Come back when you have changed your mind, wanderer."
+          "In a time when even death was young, the caverns of Zarganash were a place, where the souls of the dead rested for a while before they passed into the great beyond. ...",
+          "Over the course of aeons, the caverns of Zarganash became a vast plane, filled with lost souls and far more powerful entities. ...",
+          "Zarganash is a part of the Netherworld, the place where souls of sentient beings go after death. But it is not completely congruent with the Netherworld, it is just a part of this vast and mysterious realm."
         ]
       },
       {
