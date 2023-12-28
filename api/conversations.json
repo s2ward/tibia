@@ -3453,9 +3453,15 @@
     "name": "The_Gate_Keeper",
     "conversation": [
       {
-        "prompt": "hi / hello",
+        "prompt": "hi",
         "answer": [
           "Are you the Key Master?"
+        ]
+      },
+      {
+        "prompt": "no (idle)",
+        "answer": [
+          "<loses interest immediately>"
         ]
       },
       {
@@ -3465,7 +3471,7 @@
         ]
       },
       {
-        "prompt": "spirit ground",
+        "prompt": "Spirit Grounds",
         "answer": [
           "The realm between realms, where all doors open on themselves only. The place where the spirits dwell that have unfinished business or were... called."
         ]
@@ -3477,9 +3483,107 @@
         ]
       },
       {
-        "prompt": "Ancients",
+        "prompt": "ancients / arrival",
         "answer": [
           "Enough! Don't waste your breath, mortal. Go now onto the grounds to do what you came here to do."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is unpronouncable in your language."
+        ]
+      },
+      {
+        "prompt": "unpronouncable",
+        "answer": [
+          "The nearest you may come to is Zg'!kch of Cthle-Z\u00fcuKh'lkrlxchwr."
+        ]
+      },
+      {
+        "prompt": "Zg'!kch of Cthle-Z\u00fcuKh'lkrlxchwr",
+        "answer": [
+          "Really! No need to be rude."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the Gate Keeper. I guard the doors and await the Key Master."
+        ]
+      },
+      {
+        "prompt": "Key",
+        "answer": [
+          "The balance has been broken, the doors pried open, the keys scattered and lost. ...",
+          "The Key Master will find them and close the doors that were not meant to be open. ...",
+          "And then he will unlock the Other Door."
+        ]
+      },
+      {
+        "prompt": "Other Door",
+        "answer": [
+          "The Key Master will know."
+        ]
+      },
+      {
+        "prompt": "why",
+        "answer": [
+          "Too many doors were opened that lead astray. The spirits gather in anger, here. Show them the path."
+        ]
+      },
+      {
+        "prompt": "path / what",
+        "answer": [
+          "Use a sharp blade, a powerful staff or spell to send them on their way."
+        ]
+      },
+      {
+        "prompt": "here",
+        "answer": [
+          "This is a... pause between two breaths. All times, held and spent at once in a place that is not a place."
+        ]
+      },
+      {
+        "prompt": "tibianus",
+        "answer": [
+          "As a child would sit on a castle made of sand."
+        ]
+      },
+      {
+        "prompt": "tibia",
+        "answer": [
+          "Too many doors open. Too tempting for some. The shadows run and hide."
+        ]
+      },
+      {
+        "prompt": "shadows",
+        "answer": [
+          "The breath of darkness, the eye of the night, the body of the other."
+        ]
+      },
+      {
+        "prompt": "necromancer",
+        "answer": [
+          "Serving the dark ones. Some do not know what they are meddling with, rattling at the doors like children."
+        ]
+      },
+      {
+        "prompt": "priestess",
+        "answer": [
+          "Soothing the pains of the festering sores."
+        ]
+      },
+      {
+        "prompt": "blood priest",
+        "answer": [
+          "Insolent beggars, prying into dark windows."
+        ]
+      },
+      {
+        "prompt": "pupil",
+        "answer": [
+          "Ah. Some were keys, some were leaves. All scattered, all blown away in the icy draft between the doors."
         ]
       },
       {
@@ -3496,29 +3600,9 @@
         ]
       },
       {
-        "prompt": "shadow",
+        "prompt": "undead",
         "answer": [
-          "The breath of darkness, the eye of the night, the body of the other."
-        ]
-      },
-      {
-        "prompt": "blood priest",
-        "answer": [
-          "Insolent beggars, prying into dark windows."
-        ]
-      },
-      {
-        "prompt": "key",
-        "answer": [
-          "The balance has been broken, the doors pried open, the keys scattered and lost. ...",
-          "The Key Master will find them and close the doors that were not meant to be open. ...",
-          "And then he will unlock the Other Door."
-        ]
-      },
-      {
-        "prompt": "other door",
-        "answer": [
-          "The Key Master will know."
+          "Travellers between the doors."
         ]
       },
       {
@@ -3528,91 +3612,20 @@
         ]
       },
       {
-        "prompt": "here",
+        "prompt": "zarganash",
         "answer": [
-          "This is a... pause between two breaths. All times, held and spent at once in a place that is not a place."
+          "Zarganash ... the place that wasn't meant to exist, but exists nonetheless. The place, where the souls of the dead rest for a while before they pass into the great beyond. ...",
+          "Zarganash is a part of the Netherworld, the place where souls of sentient beings go after death. But it is not completely congruent with the Netherworld, it is just a part of this vast and mysterious realm."
         ]
       },
       {
-        "prompt": "zg",
+        "prompt": "Netherworld",
         "answer": [
-          "Really! No need to be rude."
+          "Yes, of course I know about it. There are some rumours that the descent to the Netherworld is difficult yet possible for those still living."
         ]
       },
       {
-        "prompt": "path / what",
-        "answer": [
-          "Use a sharp blade, a powerful staff or spell to send them on their way."
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I am the Gate Keeper. I guard the doors and await the Key Master."
-        ]
-      },
-      {
-        "prompt": "name",
-        "answer": [
-          "My name is unpronouncable in your language."
-        ]
-      },
-      {
-        "prompt": "unpronouncable",
-        "answer": [
-          "The nearest you may come to is Zg'!kch of Cthle-Z\u00fcuKh'lkrlxchwr."
-        ]
-      },
-      {
-        "prompt": "tibianus",
-        "answer": [
-          "As a child would sit on a castle made of sand."
-        ]
-      },
-      {
-        "prompt": "tibia",
-        "answer": [
-          "Too many doors open. Too tempting for some. The shadows run and hide."
-        ]
-      },
-      {
-        "prompt": "undead",
-        "answer": [
-          "Travellers between the doors."
-        ]
-      },
-      {
-        "prompt": "necrom / necromancer",
-        "answer": [
-          "Serving the dark ones. Some do not know what they are meddling with, rattling at the doors like children."
-        ]
-      },
-      {
-        "prompt": "pupil",
-        "answer": [
-          "Ah. Some were keys, some were leaves. All scattered, all blown away in the icy draft between the doors."
-        ]
-      },
-      {
-        "prompt": "priestess",
-        "answer": [
-          "Soothing the pains of the festering sores."
-        ]
-      },
-      {
-        "prompt": "why",
-        "answer": [
-          "Too many doors were opened that lead astray. The spirits gather in anger, here. Show them the path."
-        ]
-      },
-      {
-        "prompt": "no",
-        "answer": [
-          "<loses interest immediately>"
-        ]
-      },
-      {
-        "prompt": "bye / farewell",
+        "prompt": "bye",
         "answer": [
           "Yes. For a while."
         ]
