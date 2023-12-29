@@ -407,7 +407,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>The Cube (Location)</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location))  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Deepling Idol</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location)/Deepling_Idol.txt)  
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Starving Dog</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/A_Starving_Dog.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Eirik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Formorgar Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Dragon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines/A_Dragon_Mother.txt)  
