@@ -327,7 +327,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nihaka</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Nihaka.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Saraki</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Saraki.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sessek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Sessek.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sissek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Sissek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sundara</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Sundara.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Udu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Udu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vrisaki</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Vrisaki.txt)  
