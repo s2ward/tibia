@@ -111686,7 +111686,26 @@
   {
     "file": "npc/Svargrond/A_Starving_Dog.txt",
     "name": "A_Starving_Dog",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "sniffler",
+        "answer": [
+          "<sniff>"
+        ]
+      },
+      {
+        "prompt": "(any)",
+        "answer": [
+          "Grrr! (idle)"
+        ]
+      },
+      {
+        "prompt": "meat",
+        "answer": [
+          "<munch>"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Svargrond/Captain_Haba.txt",
