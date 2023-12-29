@@ -32,7 +32,182 @@
   {
     "file": "npc/Marapur/Moonfall/Sissek.txt",
     "name": "Sissek",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Greetingsss, dear guessst! What may I do for you? Bank businessss, perhapsss?"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Sissek is my name."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am running thisss bank."
+        ]
+      },
+      {
+        "prompt": "time",
+        "answer": [
+          "It isss 8:02 am, precisssely."
+        ]
+      },
+      {
+        "prompt": "rumors / rumours / news",
+        "answer": [
+          "If you want to hear sssome newsss, go to the market place. The tradersss there know all the gossssip."
+        ]
+      },
+      {
+        "prompt": "tibia",
+        "answer": [
+          "It'sss the name of the world we live in."
+        ]
+      },
+      {
+        "prompt": "marapur",
+        "answer": [
+          "It'sss thisss island here. At itsss centre lie the Ssstardance Mountainsss with the city Moonfall."
+        ]
+      },
+      {
+        "prompt": "thais / venore / carlin / edron / ab'dendriel / kazordoon / darashia",
+        "answer": [
+          "I'm sssorry but I have never heard of thisss place."
+        ]
+      },
+      {
+        "prompt": "kilmaresh / issavi / krailos / oramond / rathleton",
+        "answer": [
+          "I have never been there."
+        ]
+      },
+      {
+        "prompt": "elfs / elves / dwarves / dwarfs",
+        "answer": [
+          "I don't know much about them."
+        ]
+      },
+      {
+        "prompt": "nilavarna",
+        "answer": [
+          "He isss the raja of the coast folk. Their king ssso to sssay."
+        ]
+      },
+      {
+        "prompt": "candra",
+        "answer": [
+          "She isss the daughter of Nilavarna, the coassstal nagasss' raja."
+        ]
+      },
+      {
+        "prompt": "saraki",
+        "answer": [
+          "She isss the maharani of Moonfall and very beloved by her people."
+        ]
+      },
+      {
+        "prompt": "nihaka",
+        "answer": [
+          "He isss the ssson of Saraki, our maharani."
+        ]
+      },
+      {
+        "prompt": "amra",
+        "answer": [
+          "If you want to sssend a letter or parcel to sssomeone, asssk Amra at the possst office here in Moonfall."
+        ]
+      },
+      {
+        "prompt": "asphota",
+        "answer": [
+          "Asssphota sellsss toolsss at the market of Sssilvertidesss."
+        ]
+      },
+      {
+        "prompt": "giri",
+        "answer": [
+          "If you want to sssell some gemsss, Giri isss the one you ssshould asssk. You can find him at the market here in Moonfall."
+        ]
+      },
+      {
+        "prompt": "isika",
+        "answer": [
+          "Isssika sellsss ammunition at the market of Sssilvertidesss."
+        ]
+      },
+      {
+        "prompt": "nipuna",
+        "answer": [
+          "Nipuna isss ssselling wandsss and runesss at the market of Sssilvertidesss."
+        ]
+      },
+      {
+        "prompt": "sundara",
+        "answer": [
+          "She isss a gifted alchemissst and isss selling potionsss at the market here in Moonfall."
+        ]
+      },
+      {
+        "prompt": "haani",
+        "answer": [
+          "She isss a young two-leg from Issavi and isss ssselling two-leg friendly furniture at the market here in Moonfall."
+        ]
+      },
+      {
+        "prompt": "sessek",
+        "answer": [
+          "He isss my brother and arrived together with me from Zzzao, a long time ago. He runsss the tavern in the Houssse of Ressst and Wisssdom here in Moonfall."
+        ]
+      },
+      {
+        "prompt": "udu",
+        "answer": [
+          "She isss an assstronomer here in Moonfall and hasss a laboratory ssslightly away from the city."
+        ]
+      },
+      {
+        "prompt": "vrisaki",
+        "answer": [
+          "She isss the shaman here, a very wissse woman with a ssstrong connection to the mountain spiritsss and the Moon Goddessss alike."
+        ]
+      },
+      {
+        "prompt": "tarisu",
+        "answer": [
+          "He isss the coast folk'sss shaman, a powerful wave shaper."
+        ]
+      },
+      {
+        "prompt": "kaumudi",
+        "answer": [
+          "Kaumudi isss one of our hatch-mothersss. That meansss she caresss for the eggsss of all of Moonfall'sss nagasss."
+        ]
+      },
+      {
+        "prompt": "dhira",
+        "answer": [
+          "I'm not quite sssure, but I guessss he isss one of the coassstal nagasss' beaver keepersss."
+        ]
+      },
+      {
+        "prompt": "ziyad",
+        "answer": [
+          "He hasss a magic carpet with which he can fly through the air. If you asssk him, he might be able to fly you to other islandsss or continentsss."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Marapur/Moonfall/Nihaka.txt",
