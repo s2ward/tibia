@@ -333,7 +333,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ziyad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Moonfall/Ziyad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Silvertides</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asphota</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Asphota.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Candra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Candra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dhira</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Dhira.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Isika</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Isika.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jata</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Jata.txt)  
