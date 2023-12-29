@@ -91601,10 +91601,58 @@
           "There is no way, someone just figured out how to not only break but even corrupt such powerful enchantments. The invaders must have knowledge only an insider could possess. ...",
           "And obviously the invaders from beyond are joined in their attack by demonic forces. Some of them seem to have even embraced the powers from beyond and changed. ...",
           "Most of the traitors are low ranking, half-sentient rank and file demons, that just do what their superiors order them to do. ...",
-          "It couldn't be more obvious that there's a betrayer in our ranks and considering the circumstances and insight this traitor has, it's someone high-ranking. However, that's something to deal with on another day. hi (after attack) The battle was won but ultimately we lost. lost Their major attack was a feint! While we were fighting, someone secretly passed the wards and stole the knowledge of the godbreaker. someone It must have been the high-ranking traitor himself. Someone with intimate knowledge of the wards that were woven and the powers to pass them unnoticed. unnoticed Only someone who was present when the wards were created could have done this at all. This narrows the number of suspects significantly. suspects Demons are prone to infighting and the wards are older than you could comprehend. So most of the participants are dead by now. ...",
-          "Prince Drazzak was mindwiped, locked away and is probably dead by now anyway. This leaves only select few candidates. candidates The hints are there, beginning with the acquisition of the godbreaker parts by Variphors minions. Considering all evidence and information, the traitor is none other than...",
-          "... ... seven The minions used in this coup will be worthless as sources of information, but there are other clues and leads. ...",
-          "Trust in the fact that Zathroth will not take this insult lightly. The master of forbidden knowledge and secrets will not tolerate this treachery and find out who is behind this betrayal. betrayal The time of reckoning will come and one of the seven will fall. Zathroth's wrath will know no bounds and he will choose the executors to carry out his will. ...",
+          "It couldn't be more obvious that there's a betrayer in our ranks and considering the circumstances and insight this traitor has, it's someone high-ranking. However, that's something to deal with on another day."
+        ]
+      },
+      {
+        "prompt": "hi (after attack)",
+        "answer": [
+          "The battle was won but ultimately we lost."
+        ]
+      },
+      {
+        "prompt": "lost",
+        "answer": [
+          "Their major attack was a feint! While we were fighting, someone secretly passed the wards and stole the knowledge of the godbreaker."
+        ]
+      },
+      {
+        "prompt": "someone",
+        "answer": [
+          "It must have been the high-ranking traitor himself. Someone with intimate knowledge of the wards that were woven and the powers to pass them unnoticed."
+        ]
+      },
+      {
+        "prompt": "unnoticed",
+        "answer": [
+          "Only someone who was present when the wards were created could have done this at all. This narrows the number of suspects significantly."
+        ]
+      },
+      {
+        "prompt": "suspects",
+        "answer": [
+          "Demons are prone to infighting and the wards are older than you could comprehend. So most of the participants are dead by now. ...",
+          "Prince Drazzak was mindwiped, locked away and is probably dead by now anyway. This leaves only select few candidates."
+        ]
+      },
+      {
+        "prompt": "candidates",
+        "answer": [
+          "The hints are there, beginning with the acquisition of the godbreaker parts by Variphors minions. Considering all evidence and information, the traitor is none other than...",
+          "... ..."
+        ]
+      },
+      {
+        "prompt": "seven",
+        "answer": [
+          "The minions used in this coup will be worthless as sources of information, but there are other clues and leads. ...",
+          "Trust in the fact that Zathroth will not take this insult lightly. The master of forbidden knowledge and secrets will not tolerate this treachery and find out who is behind this betrayal."
+        ]
+      },
+      {
+        "prompt": "betrayal",
+        "answer": [
+          "The time of reckoning will come and one of the seven will fall. Zathroth's wrath will know no bounds and he will choose the executors to carry out his will. ...",
           "You have proven competent in fighting the forces from beyond and their traitorous allies. ...",
           "When the time comes, Zathroth will remember this and you might be called to serve him in his judgment. Until then, prepare yourself. ...",
           "The battles to come will be challenging and deadly. Hone your skills, improve your equipment and gather allies. You need all of those when the time comes. ...",
