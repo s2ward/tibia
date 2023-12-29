@@ -24049,27 +24049,21 @@
         ]
       },
       {
+        "prompt": "How are you?",
+        "answer": [
+          "Oh well. I am cursed to live in this unworthy shape but I still hope that the curse will be lifted one day."
+        ]
+      },
+      {
         "prompt": "Name",
         "answer": [
           "My name is Shantalla."
         ]
       },
       {
-        "prompt": "Kiss",
+        "prompt": "Job / Me",
         "answer": [
-          "*sigh* You are truly the best kisser in the world."
-        ]
-      },
-      {
-        "prompt": "Best kisser",
-        "answer": [
-          "You probably have the potential. If your kiss does not lift the curse, travel the world to learn more about kissing."
-        ]
-      },
-      {
-        "prompt": "Pig",
-        "answer": [
-          "It's just the appearance. Inside I am still the beautiful princess I used to be."
+          "Once I was a beautiful princess but now I'm only an ordinary pig without much dignity!"
         ]
       },
       {
@@ -24079,15 +24073,9 @@
         ]
       },
       {
-        "prompt": "Prince/Curse",
+        "prompt": "Pig",
         "answer": [
-          "An evil witch has cursed me to live as a pig until the best kisser in the world gives me a kiss."
-        ]
-      },
-      {
-        "prompt": "Job/Me",
-        "answer": [
-          "Once I was a beautiful princess but now I'm only an ordinary pig without much dignity!"
+          "It's just the appearance. Inside I am still the beautiful princess I used to be."
         ]
       },
       {
@@ -24103,9 +24091,90 @@
         ]
       },
       {
-        "prompt": "How are you?",
+        "prompt": "Princess / Curse",
         "answer": [
-          "Oh well. I am cursed to live in this unworthy shape but I still hope that the curse will be lifted one day."
+          "An evil witch has cursed me to live as a pig until the best kisser in the world gives me a kiss."
+        ]
+      },
+      {
+        "prompt": "Best kisser",
+        "answer": [
+          "You probably have the potential. If your kiss does not lift the curse, travel the world to learn more about kissing."
+        ]
+      },
+      {
+        "prompt": "kissing",
+        "answer": [
+          "Learn as much about kissing as you can. I'm sure you can learn the basics in the major cities. To refine your skill you might need to travel to the countryside, explore sparsely populated areas and even face some dangers."
+        ]
+      },
+      {
+        "prompt": "kiss",
+        "answer": [
+          "Do you want to try to release me with a kiss?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Oh, please rethink your decision! Just keep in mind the good you'd do and the reward of course."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Uh. Uhm. That was ... unskilled. Sorry, you have to learn MUCH about kissing."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Uhhh. Well, that was ... promising. But you are FAR from being the best kisser in the land."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Mhmm. Nice try. You definitely have some experience but you should improve your skill DRASTICALLY."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Mhmmm. Oh my, you have learnt a few tricks indeed. But it takes more to become the best kisser in the world. FAR more."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Mhm Uhhh. Not bad, not bad at all! But you can still improve your skill a LOT."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Ahhh. That was really nice. But you STILL lack the refinement of perfection."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Mhm. Ahh. In ... incredible ... but ... I fear there's still something to learn for you."
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Uhh. Ahh. Mhm. By the gods, you are really and truly the best kisser in the whole land. But ... I'm afraid I have to confess something ...",
+          "There is no curse. I'm nothing than an ordinary pig that is able to speak by coincidence and loves to kiss. But your efforts shall not go unrewarded ...",
+          "Of course I can't marry you - my mother would turn on her skewer. But I can tell you the hiding-place of some ancient sword ...",
+          "Look in the basement of this farm. You should find a chest there containing the mighty Firlefanz."
+        ]
+      },
+      {
+        "prompt": "Kiss",
+        "answer": [
+          "*sigh* You are truly the best kisser in the world."
         ]
       },
       {
@@ -24115,7 +24184,7 @@
         ]
       },
       {
-        "prompt": "Bye/Farewell",
+        "prompt": "Bye / Farewell",
         "answer": [
           "Bye."
         ]

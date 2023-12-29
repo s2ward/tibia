@@ -453,7 +453,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Orcsoberfest Island</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Orcsoberfest_Island)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Xaver</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Orcsoberfest_Island/Xaver.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paulette</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Paulette.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Pig</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Pig.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Red Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Red_Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Smaralda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Smaralda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tim&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Tim,_The_Guard.txt)  
