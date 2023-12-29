@@ -529,6 +529,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Morax Dream</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Upper_Roshamuul/Morax_Dream.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zedrulon the Fallen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Zedrulon_the_Fallen.txt)  
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Starving Dog</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/A_Starving_Dog.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bertha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Bertha.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Buddel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Buddel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Breezelda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Captain_Breezelda.txt)  
