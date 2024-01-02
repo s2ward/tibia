@@ -81547,7 +81547,14 @@
   {
     "file": "npc/Issavi/Tamed_Lion.txt",
     "name": "Tamed_Lion",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Grrr!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Issavi/Moe.txt",
