@@ -1,0 +1,54 @@
+Player: hi
+Guard Inurta: Suon's and Bastesh's blessings! Welcome to Issavi, traveller.
+Player: how are you
+Guard Inurta: I am always ready to protect the Golden City.
+Player: name
+Guard Inurta: My name is Inurta.
+Player: job
+Guard Inurta: I am a member of the Sapphire Blade and thus a protector of the people of Kilmaresh.
+Player: lion
+Guard Inurta: This is my loyal companion.
+Player: guard
+Guard Inurta: This information is confidential.
+Player: sell / buy
+Guard Inurta: Go to the market place in the middle of the city.
+Player: news
+Guard Inurta: The Fafnar cultists cause a lot of trouble these days.
+Player: cult
+Guard Inurta: The Fafnar cultists live and act in secret but they try to exert their influence wherever possible. This can happen by violence or by intrigue. ...
+Guard Inurta: Sometimes they raid the city and surrounding villages, sometimes they try to influence powerful people here in Issavi. The cult consists of two major groups: the Burning Gladiators and the Priestesses of the Wild Sun.
+Player: suon
+Guard Inurta: He is the Sun God, we also call him the Benevolent Sun.
+Player: fafnar
+Guard Inurta: I really don't think I should talk about the Feared One.
+Player: bastesh
+Guard Inurta: She is the Goddess of the Sea, we also call her the Keeper of Wisdom.
+Player: empress
+Guard Inurta: The Sphinx Empress is ruling Kilmaresh wisely and benevolently. She resides in the palace of Issavi.
+Player: thief
+Guard Inurta: I don't want to blame someone without evidence. But this ape, Moe, seems to be quite suspicious. Ramina told me that he steals food. Well, according to Kilmaresh's laws that's not considered a crime. ...
+Guard Inurta: Yet, I can't help but wonder: If he steals food at the tavern, what else might he steal?
+Player: moe
+Guard Inurta: He's a sibang who often visits our local tavern. Ramina doesn't seem to be happy about him.
+Player: ramina
+Guard Inurta: She's running Issavi's tavern. I encourage you to go for a meal there. Ramina serves delicious menus.
+Player: neferi
+Guard Inurta: She works as a scribe in the library, but we have good reason to believe that she is secretly working as a spy for the Fafnar cultists.
+Player: hetai
+Guard Inurta: This woman is a known Priestess of the Wild Sun. She is really dangerous! Should you ever find her and be strong enough, bring her here dead or alive!
+Player: Priestess
+Guard Inurta: Those priestesses serve Fafnar with great devotion. Other than the Burning Gladiators they seek to restore Fafnar's worship by intrigues and scheming rather than brute force.
+Player: Gladiators
+Guard Inurta: The Burning Gladiators are fierce warriors who seek to enforce Fafnar's will with a vengeance. If necessary they also protect the Priestesses of the Wild Sun on their rather subtle missions.
+Player: issavi / city
+Guard Inurta: Issavi is the capital of Kilmaresh, also called the Golden City. This city has a motto: An open gate for those of peace. This means, anyone is welcome here as long as they respect our laws, be it humans, elves, minotaurs or even a medusa.
+Player: kilmaresh
+Guard Inurta: This is the continent you are currently visiting. You will find vast, dry steppes here as well as high mountains, the river Nykri and the big city Issavi.
+Player: sapphire blade
+Guard Inurta: We are a group of elite warriors. All of us carry blades made of a blue metal called tagralt. It is our holy duty to protect the city Issavi and all of Kilmaresh.
+Player: tagralt
+Guard Inurta: In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. The members of my order, the Sapphire Blade, use this metal for their swords.
+Player: sheep
+Guard Inurta: Sheep are very important for the Kilmareshian people as they provide meat, milk and wool. It is forbidden to kill a sheep and the penalty for doing so is a considerable fine. The same applies to hunting dogs and hunting birds.
+Player: bye
+Guard Inurta: May Suon and Bastesh guard your ways!
