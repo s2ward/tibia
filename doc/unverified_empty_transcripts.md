@@ -234,7 +234,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eshaya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Eshaya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Faloriel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Faloriel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Bazaya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Bazaya.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Inurta</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Inurta.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Saros</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Saros.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Inkaef</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Inkaef.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iptar-Sin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Iptar-Sin.txt)  
