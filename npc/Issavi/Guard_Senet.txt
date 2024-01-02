@@ -1,0 +1,59 @@
+Player: hi
+Guard Senet: Those who are allowed to ride a gryphon are truly blessed by Suon!
+Player: how are you
+Guard Senet: I am always ready to protect the Golden City.
+Player: name
+Guard Senet: My name is Senet.
+Player: job
+Guard Senet: I am a member of the Sapphire Blade and thus a protector of the people of Kilmaresh.
+Player: guard
+Guard Senet: This information is confidential.
+Player: sell / buy
+Guard Senet: Go to the market place in the middle of the city.
+Player: news
+Guard Senet: The Fafnar cultists cause a lot of trouble these days.
+Player: cult
+Guard Senet: The Fafnar cultists live and act in secret but they try to exert their influence wherever possible. This can happen by violence or by intrigue. ...
+Guard Senet: Sometimes they raid the city and surrounding villages, sometimes they try to influence powerful people here in Issavi. The cult consists of two major groups: the Burning Gladiators and the Priestesses of the Wild Sun.
+Player: biting / book / biting book
+Guard Senet: I'm really not sure where those monsters come from. All I know is that a wizard apprentice accidentally opened a portal in the library and those creatures slipped through. ...
+Guard Senet: They are very strong and we could not kill them. Yet, we managed to lure them into one of the cells down here with ink and parchment which they seem to eat. ...
+Guard Senet: Now we keep them here and study them to learn more about their origin and abilities. Better stay away from them, they are fierce and dangerous!
+Player: Suon
+Guard Senet: He is the Sun God, we also call him the Benevolent Sun.
+Player: Fafnar
+Guard Senet: I really don't think I should talk about the Feared One.
+Player: Bastesh
+Guard Senet: She is the Goddess of the Sea, we also call her the Keeper of Wisdom.
+Player: empress
+Guard Senet: The Sphinx Empress is ruling Kilmaresh wisely and benevolently. She resides in the palace of Issavi.
+Player: prisoner
+Guard Senet: One of the prisoners is a known Fafnar cultist. He worked together with Hetai and will be executed soon enough. Another one is a former city guard who accepted a bribe. Shame on him! ...
+Guard Senet: The last one is a thief. She stole some spell components and will be released soon.
+Player: thief
+Guard Senet: I don't want to blame someone without evidence. But this ape, Moe, seems to be quite suspicious. Ramina told me that he steals food. Well, according to Kilmaresh's laws that's not considered a crime. ...
+Guard Senet: Yet, I can't help but wonder: If he steals food at the tavern, what else might he steal?
+Player: Moe
+Guard Senet: He's a sibang who often visits our local tavern. Ramina doesn't seem to be happy about him.
+Player: Ramina
+Guard Senet: She's running Issavi's tavern. I encourage you to go for a meal there. Ramina serves delicious menus.
+Player: Neferi
+Guard Senet: She works as a scribe in the library, but we have good reason to believe that she is secretly working as a spy for the Fafnar cultists.
+Player: Hetai
+Guard Senet: This woman is a known Priestess of the Wild Sun. She is really dangerous! Should you ever find her and be strong enough, bring her here dead or alive!
+Player: Priestess
+Guard Senet: Those priestesses serve Fafnar with great devotion. Other than the Burning Gladiators they seek to restore Fafnar's worship by intrigues and scheming rather than brute force.
+Player: Gladiators
+Guard Senet: The Burning Gladiators are fierce warriors who seek to enforce Fafnar's will with a vengeance. If necessary they also protect the Priestesses of the Wild Sun on their rather subtle missions.
+Player: Issavi / city
+Guard Senet: Issavi is the capital of Kilmaresh, also called the Golden City. This city has a motto: An open gate for those of peace. This means, anyone is welcome here as long as they respect our laws, be it humans, elves, minotaurs or even a medusa.
+Player: Kilmaresh
+Guard Senet: This is the continent you are currently visiting. You will find vast, dry steppes here as well as high mountains, the river Nykri and the big city Issavi.
+Player: sheep
+Guard Senet: Sheep are very important for the Kilmareshian people as they provide meat, milk and wool. It is forbidden to kill a sheep and the penalty for doing so is a considerable fine. The same applies to hunting dogs and hunting birds.
+Player: Sapphire Blade
+Guard Senet: We are a group of elite warriors. All of us carry blades made of a blue metal called tagralt. It is our holy duty to protect the city Issavi and all of Kilmaresh.
+Player: tagralt
+Guard Senet: In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. The members of my order, the Sapphire Blade, use this metal for their swords.
+Player: bye
+Guard Senet: May Suon and Bastesh guard your ways!
