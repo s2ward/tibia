@@ -148,7 +148,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Coohan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Rascacoon/Captain_Coohan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Om'Wake Naha</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Rascacoon/Om'Wake_Naha.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tik'hi Tak'he</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Rascacoon/Tik'hi_Tak'he.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tamed Lion</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Tamed_Lion.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tanyt</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Tanyt.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Taya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Taya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Empress</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/The_Empress.txt)  
