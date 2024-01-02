@@ -80728,7 +80728,175 @@
   {
     "file": "npc/Issavi/Guard_Senet.txt",
     "name": "Guard_Senet",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Those who are allowed to ride a gryphon are truly blessed by Suon!"
+        ]
+      },
+      {
+        "prompt": "how are you",
+        "answer": [
+          "I am always ready to protect the Golden City."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Senet."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am a member of the Sapphire Blade and thus a protector of the people of Kilmaresh."
+        ]
+      },
+      {
+        "prompt": "guard",
+        "answer": [
+          "This information is confidential."
+        ]
+      },
+      {
+        "prompt": "sell / buy",
+        "answer": [
+          "Go to the market place in the middle of the city."
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "The Fafnar cultists cause a lot of trouble these days."
+        ]
+      },
+      {
+        "prompt": "cult",
+        "answer": [
+          "The Fafnar cultists live and act in secret but they try to exert their influence wherever possible. This can happen by violence or by intrigue. ...",
+          "Sometimes they raid the city and surrounding villages, sometimes they try to influence powerful people here in Issavi. The cult consists of two major groups: the Burning Gladiators and the Priestesses of the Wild Sun."
+        ]
+      },
+      {
+        "prompt": "biting / book / biting book",
+        "answer": [
+          "I'm really not sure where those monsters come from. All I know is that a wizard apprentice accidentally opened a portal in the library and those creatures slipped through. ...",
+          "They are very strong and we could not kill them. Yet, we managed to lure them into one of the cells down here with ink and parchment which they seem to eat. ...",
+          "Now we keep them here and study them to learn more about their origin and abilities. Better stay away from them, they are fierce and dangerous!"
+        ]
+      },
+      {
+        "prompt": "Suon",
+        "answer": [
+          "He is the Sun God, we also call him the Benevolent Sun."
+        ]
+      },
+      {
+        "prompt": "Fafnar",
+        "answer": [
+          "I really don't think I should talk about the Feared One."
+        ]
+      },
+      {
+        "prompt": "Bastesh",
+        "answer": [
+          "She is the Goddess of the Sea, we also call her the Keeper of Wisdom."
+        ]
+      },
+      {
+        "prompt": "empress",
+        "answer": [
+          "The Sphinx Empress is ruling Kilmaresh wisely and benevolently. She resides in the palace of Issavi."
+        ]
+      },
+      {
+        "prompt": "prisoner",
+        "answer": [
+          "One of the prisoners is a known Fafnar cultist. He worked together with Hetai and will be executed soon enough. Another one is a former city guard who accepted a bribe. Shame on him! ...",
+          "The last one is a thief. She stole some spell components and will be released soon."
+        ]
+      },
+      {
+        "prompt": "thief",
+        "answer": [
+          "I don't want to blame someone without evidence. But this ape, Moe, seems to be quite suspicious. Ramina told me that he steals food. Well, according to Kilmaresh's laws that's not considered a crime. ...",
+          "Yet, I can't help but wonder: If he steals food at the tavern, what else might he steal?"
+        ]
+      },
+      {
+        "prompt": "Moe",
+        "answer": [
+          "He's a sibang who often visits our local tavern. Ramina doesn't seem to be happy about him."
+        ]
+      },
+      {
+        "prompt": "Ramina",
+        "answer": [
+          "She's running Issavi's tavern. I encourage you to go for a meal there. Ramina serves delicious menus."
+        ]
+      },
+      {
+        "prompt": "Neferi",
+        "answer": [
+          "She works as a scribe in the library, but we have good reason to believe that she is secretly working as a spy for the Fafnar cultists."
+        ]
+      },
+      {
+        "prompt": "Hetai",
+        "answer": [
+          "This woman is a known Priestess of the Wild Sun. She is really dangerous! Should you ever find her and be strong enough, bring her here dead or alive!"
+        ]
+      },
+      {
+        "prompt": "Priestess",
+        "answer": [
+          "Those priestesses serve Fafnar with great devotion. Other than the Burning Gladiators they seek to restore Fafnar's worship by intrigues and scheming rather than brute force."
+        ]
+      },
+      {
+        "prompt": "Gladiators",
+        "answer": [
+          "The Burning Gladiators are fierce warriors who seek to enforce Fafnar's will with a vengeance. If necessary they also protect the Priestesses of the Wild Sun on their rather subtle missions."
+        ]
+      },
+      {
+        "prompt": "Issavi / city",
+        "answer": [
+          "Issavi is the capital of Kilmaresh, also called the Golden City. This city has a motto: An open gate for those of peace. This means, anyone is welcome here as long as they respect our laws, be it humans, elves, minotaurs or even a medusa."
+        ]
+      },
+      {
+        "prompt": "Kilmaresh",
+        "answer": [
+          "This is the continent you are currently visiting. You will find vast, dry steppes here as well as high mountains, the river Nykri and the big city Issavi."
+        ]
+      },
+      {
+        "prompt": "sheep",
+        "answer": [
+          "Sheep are very important for the Kilmareshian people as they provide meat, milk and wool. It is forbidden to kill a sheep and the penalty for doing so is a considerable fine. The same applies to hunting dogs and hunting birds."
+        ]
+      },
+      {
+        "prompt": "Sapphire Blade",
+        "answer": [
+          "We are a group of elite warriors. All of us carry blades made of a blue metal called tagralt. It is our holy duty to protect the city Issavi and all of Kilmaresh."
+        ]
+      },
+      {
+        "prompt": "tagralt",
+        "answer": [
+          "In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. The members of my order, the Sapphire Blade, use this metal for their swords."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "May Suon and Bastesh guard your ways!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Issavi/Iptar-Sin.txt",

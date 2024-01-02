@@ -131,7 +131,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Bazaya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Bazaya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Inurta</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Inurta.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Saros</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Saros.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Senet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Senet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Inkaef</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Inkaef.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iptar-Sin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Iptar-Sin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kallimae</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Kallimae.txt)  
