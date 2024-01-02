@@ -246,6 +246,7 @@
 ├─&nbsp;&nbsp;<strong>Issavi</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alyxo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Alyxo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ambassador of Rathleton</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Ambassador_of_Rathleton.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guard Senet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guard_Senet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Meruka</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Guide_Meruka.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Moe</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Moe.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Narsai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Narsai.txt)  
