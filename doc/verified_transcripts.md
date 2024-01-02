@@ -251,6 +251,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Narsai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Narsai.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Rascacoon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Rascacoon)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Jack Rat</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Rascacoon/Captain_Jack_Rat.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tamed Lion</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Tamed_Lion.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Librarian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/The_Librarian.txt)  
 ├─&nbsp;&nbsp;<strong>Kazordoon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bezil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Bezil.txt)  
