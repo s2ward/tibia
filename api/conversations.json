@@ -100231,7 +100231,14 @@
   {
     "file": "npc/Farmine/Oberon's_Spite.txt",
     "name": "Oberon's_Spite",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Crowned_Tree.txt",
@@ -100440,7 +100447,14 @@
   {
     "file": "npc/Farmine/Oberon's_Bile.txt",
     "name": "Oberon's_Bile",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Cael.txt",
@@ -101185,12 +101199,26 @@
   {
     "file": "npc/Farmine/Oberon's_Hate.txt",
     "name": "Oberon's_Hate",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Oberon's_Ire.txt",
     "name": "Oberon's_Ire",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Pompan.txt",
