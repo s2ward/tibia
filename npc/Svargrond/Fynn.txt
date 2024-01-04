@@ -90,8 +90,6 @@ Fynn: HAA, he thinks his weapons are the best!! Too weak to hold a real barbaria
 Player: romir
 Fynn: He is an old hermit who lives in a hut on the elevated plain north of Svargrond . He is some kind of male witch, you know what I mean? ...
 Fynn: He knows magic and all that. Maybe he teaches his knowledge to others.
-Player: sirik
-Fynn: Sven the Younger is our jarl. At this time he should be at the tavern. Follow the main road to the west and at the furrier quarter turn south.
 Player: thorwulf
 Fynn: He is the trainer for knights. You find him near the arena.
 Player: siflind
