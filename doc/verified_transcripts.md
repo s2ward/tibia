@@ -185,6 +185,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Cael.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Chazorai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Chrak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai/Chrak.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Corrupted Gardens</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gate Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Corrupted_Gardens/Gate_Guardian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dragonblaze Peaks</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Dragonblaze_Peaks)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ztiss</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Dragonblaze_Peaks/Ztiss.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
