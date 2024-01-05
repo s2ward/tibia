@@ -103441,7 +103441,51 @@
   {
     "file": "npc/Farmine/Corrupted_Gardens/Gate_Guardian.txt",
     "name": "Gate_Guardian",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Chhhhzzz. Ugly humanzzz! You better have a good reazzzon to be here!"
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Namezzz are unimportant."
+        ]
+      },
+      {
+        "prompt": "job / here",
+        "answer": [
+          "I am a guard, zzzilly creature. Are you here to pazz zzhrough zze gate?"
+        ]
+      },
+      {
+        "prompt": "entrance / gate / passage / mission / city",
+        "answer": [
+          "Word hazz arrived of a killer zzztalking zzze town. In all zzze chaozzz it'zzz hard to underzzztand what izzz going on but no one izzz allowed to enter or leave."
+        ]
+      },
+      {
+        "prompt": "entrance / gate / passage / mission / city",
+        "answer": [
+          "You want entranzzze to zzze zzzity?"
+        ]
+      },
+      {
+        "prompt": "Yes",
+        "answer": [
+          "Mh, zzzezzze paperzzz zzzeem legit, I have orderzzz to let you Pazzz. Zzzo be it."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Leave and never return.",
+          "Dezzzpicable."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Chazorai/Chrak.txt",
