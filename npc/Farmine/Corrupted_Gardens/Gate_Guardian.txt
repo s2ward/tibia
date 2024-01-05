@@ -1,0 +1,15 @@
+Player: hi
+Gate Guardian: Chhhhzzz. Ugly humanzzz! You better have a good reazzzon to be here!
+Player: name
+Gate Guardian: Namezzz are unimportant.
+Player: job / here
+Gate Guardian: I am a guard, zzzilly creature. Are you here to pazz zzhrough zze gate?
+Player: entrance / gate / passage / mission / city
+Gate Guardian: Word hazz arrived of a killer zzztalking zzze town. In all zzze chaozzz it'zzz hard to underzzztand what izzz going on but no one izzz allowed to enter or leave.
+Player: entrance / gate / passage / mission / city
+Gate Guardian: You want entranzzze to zzze zzzity?
+Player: Yes
+Gate Guardian: Mh, zzzezzze paperzzz zzzeem legit, I have orderzzz to let you Pazzz. Zzzo be it.
+Player: bye
+Gate Guardian: Leave and never return.
+Gate Guardian: Dezzzpicable.
