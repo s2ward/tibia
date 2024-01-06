@@ -72248,7 +72248,13 @@
       {
         "prompt": "hi",
         "answer": [
-          "Pssst! Keep it down!<gives you an elaborate report on monster activity>"
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
     ]
@@ -72343,7 +72349,13 @@
       {
         "prompt": "hi",
         "answer": [
-          "Pssst! Keep it down!<gives you an elaborate report on monster activity>"
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
     ]
@@ -72355,7 +72367,13 @@
       {
         "prompt": "hi",
         "answer": [
-          "Pssst! Keep it down!<gives you an elaborate report on monster activity>"
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
     ]
@@ -72367,7 +72385,13 @@
       {
         "prompt": "hi",
         "answer": [
-          "Pssst! Keep it down!<gives you an elaborate report on monster activity>"
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
     ]
@@ -72445,6 +72469,12 @@
       {
         "prompt": "hi",
         "answer": [
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
           "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
@@ -72453,12 +72483,67 @@
   {
     "file": "npc/Venore/Lower_Spike/Gnome_Trooper.txt",
     "name": "Gnome_Trooper",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Greetings, but I'm on duty. Please move on!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Do you have something to deliver?"
+        ]
+      },
+      {
+        "prompt": "something",
+        "answer": [
+          "It's a pipe! What can be more relaxing for a gnome than to smoke his pipe after a day of duty at the front. At least it's a chance to do something really dangerous after all!"
+        ]
+      },
+      {
+        "prompt": "something",
+        "answer": [
+          "Ah, a letter from home! Oh - I had no idea she felt that way! This is most interesting!"
+        ]
+      },
+      {
+        "prompt": "something",
+        "answer": [
+          "It's a model of the gnomebase Alpha! For self-assembly! With toothpicks...! Yeeaah...! I guess."
+        ]
+      },
+      {
+        "prompt": "something",
+        "answer": [
+          "A medal of honour! At last they saw my true worth!"
+        ]
+      },
+      {
+        "prompt": "something",
+        "answer": [
+          "It's a fruit cake! From my sister! Wait. I have no sister... but... it looks delicious! Thank you very much!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye. Take care out there."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Venore/Lower_Spike/A_Drillworm.txt",
     "name": "A_Drillworm",
     "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Get lost! You are blowing my cover!"
+        ]
+      },
       {
         "prompt": "hi",
         "answer": [
@@ -72474,6 +72559,12 @@
       {
         "prompt": "hi",
         "answer": [
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
           "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
@@ -72486,6 +72577,12 @@
       {
         "prompt": "hi",
         "answer": [
+          "Get lost! You are blowing my cover!"
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
           "Pssst! Keep it down! <gives you an elaborate report on monster activity>"
         ]
       }
@@ -72495,6 +72592,12 @@
     "file": "npc/Venore/Lower_Spike/A_Dragon_Lord.txt",
     "name": "A_Dragon_Lord",
     "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Get lost! You are blowing my cover!"
+        ]
+      },
       {
         "prompt": "hi",
         "answer": [
