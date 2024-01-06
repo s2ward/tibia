@@ -72293,18 +72293,6 @@
         ]
       },
       {
-        "prompt": "Below",
-        "answer": [
-          "I sometimes think they are so alien, they don't even know they are fighting us... yet."
-        ]
-      },
-      {
-        "prompt": "Spike",
-        "answer": [
-          "Now that's gnomish ingenuity given shape! Who but a gnome would come up with such a plan to defeat our enemies."
-        ]
-      },
-      {
         "prompt": "Gnome",
         "answer": [
           "It's good to be a gnome for sure!"
@@ -72320,6 +72308,24 @@
         "prompt": "Human",
         "answer": [
           "I think you humans are fun, but a bit noisy. With some guidance from us gnomes, your people might prosper."
+        ]
+      },
+      {
+        "prompt": "Below",
+        "answer": [
+          "I sometimes think they are so alien, they don't even know they are fighting us... yet."
+        ]
+      },
+      {
+        "prompt": "alpha",
+        "answer": [
+          "I like the pioneer feeling here more, but of course the Spike never felt home like gnomebase Alpha did."
+        ]
+      },
+      {
+        "prompt": "Spike",
+        "answer": [
+          "Now that's gnomish ingenuity given shape! Who but a gnome would come up with such a plan to defeat our enemies."
         ]
       },
       {
@@ -72389,12 +72395,6 @@
         ]
       },
       {
-        "prompt": "Spike",
-        "answer": [
-          "I came here as a crystal farmer and know the Spike all the way back to when it was a little baby crystal. I admit I feel a little fatherly pride in how big and healthy it has become. ..."
-        ]
-      },
-      {
         "prompt": "Gnomes",
         "answer": [
           "What could I say about gnomes that anyone would not know? I mean, we're interesting if not fascinating, after all."
@@ -72407,15 +72407,27 @@
         ]
       },
       {
+        "prompt": "Humans",
+        "answer": [
+          "You humans are quite funny. Not only because of how awkward you look with those ridiculous long limbs, but how you talk and behave, too."
+        ]
+      },
+      {
+        "prompt": "Spike",
+        "answer": [
+          "I came here as a crystal farmer and know the Spike all the way back to when it was a little baby crystal. I admit I feel a little fatherly pride in how big and healthy it has become. ..."
+        ]
+      },
+      {
         "prompt": "Below",
         "answer": [
           "I think that every setback we faced here was more or less directly the work of the unseen hand of those below. They know we are coming. And they are afraid!"
         ]
       },
       {
-        "prompt": "Humans",
+        "prompt": "alpha",
         "answer": [
-          "You humans are quite funny. Not only because of how awkward you look with those ridiculous long limbs, but how you talk and behave, too."
+          "Gnomebase Alpha is a busy place with many opportunities for gnomes and their allies. But I prefer the remoteness of the Spike, as I can mind my own business more easily here."
         ]
       },
       {
@@ -72552,6 +72564,13 @@
         "prompt": "Below",
         "answer": [
           "They are an enigma. They are cunning and powerful, and this hints at a small stature. Then again they are ruthless and evil, which hints at a large stature."
+        ]
+      },
+      {
+        "prompt": "alpha",
+        "answer": [
+          "The good old gnomebase has served us quite well. Usually, we have bases only temporarily, and are constantly on the move; but some of the bases endure. ...",
+          "Gnomebase Alpha is one of them and we are quite proud of it."
         ]
       },
       {
@@ -75266,6 +75285,12 @@
         "prompt": "Human",
         "answer": [
           "I wonder if it hurts to be a human. I mean ... you are so ... stretched!"
+        ]
+      },
+      {
+        "prompt": "alpha",
+        "answer": [
+          "Gnomebase Alpha does its best to supply us with goods, but we thrive and strive to become completely independent. Already we can send some raw materials back to them."
         ]
       },
       {
