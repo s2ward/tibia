@@ -22,6 +22,8 @@ Player: Gnome
 Gnombold: Gnomes have lived autonomous for so long that it still feels odd to work with strangers for many of us.  
 Player: Human  
 Gnombold: I wonder if it hurts to be a human. I mean ... you are so ... stretched!  
+Player: alpha
+Gnombold: Gnomebase Alpha does its best to supply us with goods, but we thrive and strive to become completely independent. Already we can send some raw materials back to them.
 Player: Below  
 Gnombold: Dangerous but cowardly. In the end we will prevail. They will likely give up eventually.  
 Player: Bye  
