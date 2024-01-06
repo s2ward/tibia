@@ -179,8 +179,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Wandering Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/A_Wandering_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Garzon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/Garzon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Vengoth Mountain Caves</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kito</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves/Kito.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Namasa</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves/Namasa.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tatak</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth_Mountain_Caves/Tatak.txt)  
 ├─&nbsp;&nbsp;<strong>Feyrist</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dream Labyrinth</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Dream_Labyrinth)  
