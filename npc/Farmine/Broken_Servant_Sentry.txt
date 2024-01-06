@@ -1,8 +1,6 @@
 Player: hi
 Broken Servant Sentry: The Master is-is-is-is de-ad. Plea*chrrrrchk*se. Be. In. Mourning.
 Player: hi
-Servant Sentry: The. Slime. Has. Entered. Our. Master. Has. Left! We. Must. Help.
-Player: hi
 Broken Servant Sentry: Be Greeted. Greeted. Greeted. On. Be-Be-Behalf. Of. The. The. The. Master. *chhhrrrr* En-En-En-Entering. His-s-s-s. La-ir. Is. Forbidden.
 Player: hi
 Broken Servant Sentry: I. Have-ve-ve-veee*chrrrck*. Also. Cleaned. Your. Clothes. Master. It. Is. No-No-No*chhrrrrk*Now. Free. Of. Sample. Stains.
@@ -28,10 +26,6 @@ Broken Servant Sentry: In. The. Case. Of. A. Dead. Master. The-The-The-T-T-T*chr
 Player: Collapse
 Broken Servant Sentry: If. The. Portal. Collapses. It. Will. Not. Be. Possible. To. Traverse. The. Dimension. Behind. It. Safe-Safe-Safe-Sa*chhhrrrkchrk*Safely. ...
 Broken Servant Sentry: The. Dimension. Will. Stay. Real. For. About. Sixty. Minutes. Before. Com-Com-Complete. *chrk* Dissolution.
-Player: fungus / slime / sample
-Servant Sentry: Defeat. Slime. We. Will. Why. Did. You. Kill. Us? Do. You. Want. To. Rectify. And. Help?
-Player: yes
-Servant Sentry: Then. Take. This. Gobbler. Always. Hungry. Eats. Slime. Fungus. Go.
 Player: fungus / slime / sample
 Broken Servant Sentry: If. You. Bring. Slime. Fungus. Samples. Fro-Fro-Fro-Frrrr*chhhhchrk*From. Other. Tower. You. Must. Be. The. Master. Are. You. There. Master?
 Player: no
