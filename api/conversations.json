@@ -102934,7 +102934,81 @@
   {
     "file": "npc/Farmine/Vengoth_Mountain_Caves/Namasa.txt",
     "name": "Namasa",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Kara me, um?"
+        ]
+      },
+      {
+        "prompt": "name (keyword triggers 1/10 of times)",
+        "answer": [
+          "Kito."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Ata naha? Djop?"
+        ]
+      },
+      {
+        "prompt": "lazaran",
+        "answer": [
+          "Lazaran maka te ola!"
+        ]
+      },
+      {
+        "prompt": "ulala",
+        "answer": [
+          "Eh, Ulala sola si."
+        ]
+      },
+      {
+        "prompt": "tatak",
+        "answer": [
+          "Ma lu anta."
+        ]
+      },
+      {
+        "prompt": "kito",
+        "answer": [
+          "Eh, Kito... husu..."
+        ]
+      },
+      {
+        "prompt": "makao",
+        "answer": [
+          "Si kema te."
+        ]
+      },
+      {
+        "prompt": "(if your keyword trigger no response 1/10)",
+        "answer": [
+          "No, nono. No."
+        ]
+      },
+      {
+        "prompt": "(any word, random)",
+        "answer": [
+          "Bebe lisaka to me.",
+          "Tesana ki?",
+          "Loka da tete.",
+          "Makito tete laza nerebe.",
+          "Ungh?",
+          "Pun sa med lo kiroki.",
+          "Ai, ehehe!",
+          "Ai mene lano ta. Ugha."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Eh, bai! Ehehe! Ugha!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Vengoth_Mountain_Caves/Lazaran.txt",
@@ -103388,7 +103462,81 @@
   {
     "file": "npc/Farmine/Vengoth_Mountain_Caves/Kito.txt",
     "name": "Kito",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Ugha."
+        ]
+      },
+      {
+        "prompt": "name (keywords trigger 1/10 times)",
+        "answer": [
+          "Kito."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Hunt. Ungh ungh."
+        ]
+      },
+      {
+        "prompt": "lazaran",
+        "answer": [
+          "Ungh! Ungh!! Lazaran!"
+        ]
+      },
+      {
+        "prompt": "ulala",
+        "answer": [
+          "Ulala me ka meraza"
+        ]
+      },
+      {
+        "prompt": "tatak",
+        "answer": [
+          "Ki teka sora."
+        ]
+      },
+      {
+        "prompt": "namasa",
+        "answer": [
+          "Ooooh, Namasa! Ugha!"
+        ]
+      },
+      {
+        "prompt": "makao",
+        "answer": [
+          "Hmmmm grrr... Makao ne lak tat."
+        ]
+      },
+      {
+        "prompt": "(if your keyword triggers no response, 1/10 times)",
+        "answer": [
+          "No, nono. No."
+        ]
+      },
+      {
+        "prompt": "(any word, random)",
+        "answer": [
+          "Bebe lisaka to me.",
+          "Tesana ki?",
+          "... ungh....",
+          "Loka da tete.",
+          "Makito tete laza nerebe.",
+          "Ungh?",
+          "Pun sa med lo kiroki.",
+          "Ai mene lano ta. Ugha."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Gud hunt."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Vengoth_Mountain_Caves/Makao.txt",
@@ -103401,21 +103549,12 @@
         ]
       },
       {
-        "prompt": "random word",
+        "prompt": "(any word, random)",
         "answer": [
-          "A te saka!! Ungh, ungh!!"
-        ]
-      },
-      {
-        "prompt": "random word",
-        "answer": [
-          "Ti ta, ta toka, toka ti!"
-        ]
-      },
-      {
-        "prompt": "random word",
-        "answer": [
-          "Toka, toka, tata..."
+          "Ti ta, ta toka, toka ti!",
+          "Toka, toka, tata... x",
+          "Loka da tete.",
+          "A te saka!! Ungh, ungh!! x"
         ]
       }
     ]
