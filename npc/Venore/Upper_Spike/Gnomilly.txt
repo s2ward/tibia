@@ -21,6 +21,9 @@ Player: Human
 Gnomilly: I still wonder how we should feed all of you. You are so many and absurdly huge!  
 Player: Below  
 Gnomilly: They are an enigma. They are cunning and powerful, and this hints at a small stature. Then again they are ruthless and evil, which hints at a large stature.  
+Player: alpha
+Gnomilly: The good old gnomebase has served us quite well. Usually, we have bases only temporarily, and are constantly on the move; but some of the bases endure. ...
+Gnomilly: Gnomebase Alpha is one of them and we are quite proud of it.
 Player: Spike  
 Gnomilly: It's time for us gnomes to strike back at our enemies. The Spike will help us accomplish that.  
 Player: Bye  
