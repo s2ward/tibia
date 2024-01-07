@@ -80,9 +80,7 @@
         "Memech": "VERIFIED",
         "Ormuhn": "VERIFIED",
         "Rahkem": "VERIFIED",
-        "Southern_Darama_Desert": {
-            "Messenger_of_Heaven": "UNVERIFIED"
-        },
+        "Southern_Darama_Desert": {},
         "Tesha": "VERIFIED",
         "Tothdral": "VERIFIED",
         "Secretive_Rascoohan": "EMPTY"
@@ -380,8 +378,7 @@
         "Esrik": "VERIFIED",
         "Halls_of_Ascension": {
             "Demonic_Messenger": "VERIFIED",
-            "Heavenly_Messenger": "EMPTY",
-            "Messenger_of_Heaven": "VERIFIED"
+            "Heavenly_Messenger": "EMPTY"
         },
         "Lizard_Prisoner": "VERIFIED",
         "Lizard_Tunnel_Guard": "VERIFIED",
@@ -428,7 +425,8 @@
         },
         "Zao_Steppe": {
             "Curos": "VERIFIED",
-            "Zalamon": "VERIFIED"
+            "Zalamon": "VERIFIED",
+            "Messenger_of_Heaven": "VERIFIED"
         },
         "Zumtah": "VERIFIED"
     },
