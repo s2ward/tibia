@@ -380,7 +380,8 @@
         "Esrik": "VERIFIED",
         "Halls_of_Ascension": {
             "Demonic_Messenger": "VERIFIED",
-            "Heavenly_Messenger": "EMPTY"
+            "Heavenly_Messenger": "EMPTY",
+            "Messenger_of_Heaven": "VERIFIED"
         },
         "Lizard_Prisoner": "VERIFIED",
         "Lizard_Tunnel_Guard": "VERIFIED",
