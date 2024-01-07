@@ -63,6 +63,8 @@ Player: chakoya
 Fynn: These chakoyas are nasty little creatures. Not very dangerous for an ambitious fighter but still nasty.
 Player: dragons
 Fynn: A special kind of them lives on Okolnir, the frost dragons. They adapted well to the cold conditions here.
+Player: geyser
+Fynn: I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there.
 Player: zora / baltim
 Fynn: Never heard that name.
 Player: nor
@@ -71,6 +73,8 @@ Player: hjaern
 Fynn: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
 Player: bertha
 Fynn: She trades with general goods. You can find her in her shop near the harbour.
+Player: nilsor
+Fynn: He is one of our shamans that live on Nibelor.
 Player: dankwart
 Fynn: He is the keeper of our Tavern. No need to explain where you find him.
 Player: hawkyr
@@ -117,6 +121,8 @@ Player: Grimlund
 Fynn: Stay away from there! It's the home of the chakoyas.
 Player: nibelor
 Fynn: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
+Player: okolnir
+Fynn: The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards.
 Player: tyrsung
 Fynn: That is the big island east of Hrodmir. Venorian hunters settled there ..... or maybe they got eaten up by the frost giants.
 Player: helheim
