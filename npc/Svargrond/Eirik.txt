@@ -63,6 +63,8 @@ Player: chakoya
 Eirik: These chakoyas are nasty little creatures. Not very dangerous for an ambitious fighter but still nasty.
 Player: dragons
 Eirik: A special kind of them lives on Okolnir, the frost dragons. They adapted well to the cold conditions here.
+Player: geyser
+Eirik: I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there.
 Player: zora / baltim
 Eirik: Never heard that name.
 Player: nor
@@ -71,6 +73,8 @@ Player: hjaern
 Eirik: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
 Player: bertha
 Eirik: She trades with general goods. You can find her in her shop near the harbour.
+Player: nilsor
+Eirik: He is one of our shamans that live on Nibelor.
 Player: dankwart
 Eirik: He is the keeper of our Tavern. No need to explain where you find him.
 Player: hawkyr
@@ -119,6 +123,8 @@ Player: nibelor
 Eirik: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
 Player: tyrsung
 Eirik: That is the big island east of Hrodmir. Venorian hunters settled there ..... or maybe they got eaten up by the frost giants.
+Player: okolnir
+Eirik: The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards.
 Player: helheim
 Eirik: A small island north east of Tyrsung. Nothing important there. Maybe one of the fishermen can bring you there if you like to go.
 Player: camps
