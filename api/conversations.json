@@ -112966,6 +112966,12 @@
         ]
       },
       {
+        "prompt": "geyser",
+        "answer": [
+          "I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there."
+        ]
+      },
+      {
         "prompt": "zora / baltim",
         "answer": [
           "Never heard that name."
@@ -112987,6 +112993,12 @@
         "prompt": "bertha",
         "answer": [
           "She trades with general goods. You can find her in her shop near the harbour."
+        ]
+      },
+      {
+        "prompt": "nilsor",
+        "answer": [
+          "He is one of our shamans that live on Nibelor."
         ]
       },
       {
@@ -113121,6 +113133,12 @@
         "prompt": "nibelor",
         "answer": [
           "It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there."
+        ]
+      },
+      {
+        "prompt": "okolnir",
+        "answer": [
+          "The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards."
         ]
       },
       {
@@ -116858,6 +116876,12 @@
         ]
       },
       {
+        "prompt": "geyser",
+        "answer": [
+          "I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there."
+        ]
+      },
+      {
         "prompt": "zora / baltim",
         "answer": [
           "Never heard that name."
@@ -116879,6 +116903,12 @@
         "prompt": "bertha",
         "answer": [
           "She trades with general goods. You can find her in her shop near the harbour."
+        ]
+      },
+      {
+        "prompt": "nilsor",
+        "answer": [
+          "He is one of our shamans that live on Nibelor."
         ]
       },
       {
@@ -117019,6 +117049,12 @@
         "prompt": "tyrsung",
         "answer": [
           "That is the big island east of Hrodmir. Venorian hunters settled there ..... or maybe they got eaten up by the frost giants."
+        ]
+      },
+      {
+        "prompt": "okolnir",
+        "answer": [
+          "The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards."
         ]
       },
       {
@@ -118633,6 +118669,12 @@
         ]
       },
       {
+        "prompt": "geyser",
+        "answer": [
+          "I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there."
+        ]
+      },
+      {
         "prompt": "zora / baltim",
         "answer": [
           "Never heard that name."
@@ -118654,6 +118696,12 @@
         "prompt": "bertha",
         "answer": [
           "She trades with general goods. You can find her in her shop near the harbour."
+        ]
+      },
+      {
+        "prompt": "nilsor",
+        "answer": [
+          "He is one of our shamans that live on Nibelor."
         ]
       },
       {
@@ -118788,6 +118836,12 @@
         "prompt": "nibelor",
         "answer": [
           "It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there."
+        ]
+      },
+      {
+        "prompt": "okolnir",
+        "answer": [
+          "The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards."
         ]
       },
       {
