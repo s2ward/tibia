@@ -628,6 +628,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hoggle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Hoggle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ivalisse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Ivalisse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jack Springer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Jack_Springer.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kendra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Kendra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">King Tibianus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/King_Tibianus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Loria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Loria.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lubo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Lubo.txt)  
