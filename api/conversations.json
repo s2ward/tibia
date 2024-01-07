@@ -104498,11 +104498,6 @@
     "conversation": []
   },
   {
-    "file": "npc/Gray_Beach/Vigintius.txt",
-    "name": "Vigintius",
-    "conversation": []
-  },
-  {
     "file": "npc/Gray_Beach/Old_Rock_Boy.txt",
     "name": "Old_Rock_Boy",
     "conversation": []
@@ -104561,6 +104556,378 @@
     "file": "npc/Gray_Beach/Orockle.txt",
     "name": "Orockle",
     "conversation": []
+  },
+  {
+    "file": "npc/Gray_Beach/Vigintia/Vigintius.txt",
+    "name": "Vigintius",
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hi there, Player It's always a joy to follow your newest heroic deeds in Tibia."
+        ]
+      },
+      {
+        "prompt": "Tibia",
+        "answer": [
+          "You've been around a while, sometimes even in disguise - not that you could fool me <wink> <wink>. But imagine, there are still places to be discovered! Do you remember that one place, you never figured out how to enter? ...",
+          "Took you tons of time but no clue yet, eh? Know what? I've been there. Seen it all - but I won't tell!"
+        ]
+      },
+      {
+        "prompt": "disguise",
+        "answer": [
+          "C'mon man. We all get curious about other vocations now and then. Nothing to be ashamed of! Thing is, everything is about fun in the end, isn't it?"
+        ]
+      },
+      {
+        "prompt": "fun",
+        "answer": [
+          "Yeah, man. Fun is what this is all about! Speaking of fun, sorry I tested that voodoo doll of yours lately. I heard it made you dizzy as a dwarf after a family reunion! I never thought it would actually work. ...",
+          "Seriously! Oh and speaking of things to be sorry for. There's something else I have to tell you."
+        ]
+      },
+      {
+        "prompt": "sorry",
+        "answer": [
+          "Do you remember that thing that you could have sworn that you'd put it in your depot, but then it was gone? - Well I ate it! Sorry man, I was so drunk. ...",
+          "Someone switched my mana pots with wine and in the heat of battle against some dragons, I didn't recognise it. When I returned to town I mistook your depot for mine. ...",
+          "Next thing I remember was that I ate this thing out of your depot box. I know it was inedible. Don't ask me how I managed that stunt. My mother always told me I had the digestive system of a dragon. ...",
+          "Oh and, well, there is a slight possibility that I might left it in quite a mess! Oh and by the way, that food you had in this backpack - you threw it away anyway, right? But I also have some good news!"
+        ]
+      },
+      {
+        "prompt": "good",
+        "answer": [
+          "The battle against the dragons! I won, man! And the loot was quite decent! Of course I almost died because of the wine prank, but hey, we all almost die now and then, don't we?"
+        ]
+      },
+      {
+        "prompt": "almost",
+        "answer": [
+          "Do you remember that time you almost died? Or the other time? Or the other? Hm, thinking about it, you 'almost die' an awful lot. Take better care, man! Would hate to loot your corpse one day. ...",
+          "Unless you have that special something with you of course. Then I'd be glad to loot you! - Ah man, just kidding. I'd return your stuff of course."
+        ]
+      },
+      {
+        "prompt": "stuff",
+        "answer": [
+          "Boy, you don't know, but you had some really baaaad luck with your loot, y'know? I've peeked into the tables and I've seen you were soooo close to the loot jackpot at least three times. That's what I call bad luck. ...",
+          "On the other hand - you never knew, so no harm done. Oh, wait, I just told you. Well - bad luck again I guess, man. Sometimes ignorance is bliss."
+        ]
+      },
+      {
+        "prompt": "ignorance",
+        "answer": [
+          "You still remember those times when you were a rookie, don't ya? Well I do and you were one of the rookiest rookies I've ever seen - and I've seen my share, man. ...",
+          "How you tried to get out of that hole! Pure comedy, I tell ya. I also know you were a bit afraid of trolls! LOL! Imagine, trolls! ...",
+          "And you were scared like mad of orcs: 'Oh, they will kill me! Must get out of here!' Priceless! Don't feel ashamed, man. We all've been there! In the end you turned out quite well I must say! Well, at least you could have turned out worse, man."
+        ]
+      },
+      {
+        "prompt": "worse",
+        "answer": [
+          "Yeah, like that one guy that was getting on your nerves in that dungeon. Some people can really be a pain. Can't remember how things turned out back then but I'm pretty sure you remember it quite well <wink>! Ah all those memories."
+        ]
+      },
+      {
+        "prompt": "memories",
+        "answer": [
+          "There are so many of them! Like that crazy guy in this one city, wasn't it - Thais? I've definitely seen my share of crazy stuff but that guy was as nuts as a coconut. ...",
+          "I wonder what became of him. Do you know? Ah never mind, man. There are too many nice fellows around to care about those who are nuts. As entertaining as they might be from time to time."
+        ]
+      },
+      {
+        "prompt": "entertaining",
+        "answer": [
+          "Yeah, just remember all the hunts, the cool people you've met and that guy you befriended? Of course you do, man! That's what this is all about after all! ...",
+          "I'm pretty sure you're already on your way to your next adventure and someone's waiting. Don't let an old dodderer like me keep you. Go out there and have fun! Don't forget: I'll keep an eye on ya!"
+        ]
+      },
+      {
+        "prompt": "treasure",
+        "answer": [
+          "The southern beach on this island is reportedly dotted with treasures. You can go there and dig a bit for a small fee. ...",
+          "You have a shovel with you, I assume? A real one, it should not be too light and it needs to be large enough so you can dig fast. If not I could offer you one. Interested?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Alright then, it's your loss!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Fine, it will cost you 150 gold to visit the treasure zone once for 90 seconds and no refunds - still willing to risk that investment?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Well then, there you go! You can keep what ever you find! Good luck!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "You already gave me enough gold and are all set and ready to go! The treasure zone is just over there, to the south!"
+        ]
+      },
+      {
+        "prompt": "can",
+        "answer": [
+          "Interested in a little game of action? I prepared a bunch of cans just over there - took me a while to build this architectural masterpiece but the more important question is: what does it take you to tear them down? So?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Alright then, but you're missing out!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Fine, it will cost you 100 gold for each toss and you can ask me for a reward, ready to go?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Alright then, but think of all the fun you could have had with those cans..!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "Well then, there you go! You can keep what ever you find! Good luck!"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "You already gave me enough gold and are all set and ready to go! The cans are just over there, on the counter of that booth!"
+        ]
+      },
+      {
+        "prompt": "reward",
+        "answer": [
+          "Didn't see anything spectacular over there... whatever you did, there were no cans involved."
+        ]
+      },
+      {
+        "prompt": "reward",
+        "answer": [
+          "Alright, let's see what you got! Do you want to check your bronze rewards (one to four cans), silver rewards (five to seven cans), gold rewards (eight to nine cans) or the main prize?"
+        ]
+      },
+      {
+        "prompt": "bronze",
+        "answer": [
+          "Looks like you did not score anything in that category. Shall we check your silver or gold score, maybe you even got the main prize?"
+        ]
+      },
+      {
+        "prompt": "silver",
+        "answer": [
+          "Looks like you did not score anything in that category. Shall we check your bronze or gold score, maybe you even got the main prize?"
+        ]
+      },
+      {
+        "prompt": "gold",
+        "answer": [
+          "Looks like you did not score anything in that category. Shall we check your bronze or silver score, maybe you even got the main prize?"
+        ]
+      },
+      {
+        "prompt": "main",
+        "answer": [
+          "Looks like you did not score anything in that category. Shall we check your bronze, silver or gold score?"
+        ]
+      },
+      {
+        "prompt": "bronze / silver / gold",
+        "answer": [
+          "Well done! Here you go!"
+        ]
+      },
+      {
+        "prompt": "bronze / silver / gold / main",
+        "answer": [
+          "Looks like you need to free some space to carry your reward!"
+        ]
+      },
+      {
+        "prompt": "main",
+        "answer": [
+          "Impressive, you actually knocked all the cans down! You're a true professional, here's your reward!"
+        ]
+      },
+      {
+        "prompt": "trade / offer / buy / sale",
+        "answer": [
+          "Of course, just browse through my wares. I sell tasty food, if you want some. Also some other useful things."
+        ]
+      },
+      {
+        "prompt": "(any)",
+        "answer": [
+          "Okay, then just browse through all of my wares."
+        ]
+      },
+      {
+        "prompt": "food",
+        "answer": [
+          "Have a look. You can also browse through my other wares."
+        ]
+      },
+      {
+        "prompt": "other",
+        "answer": [
+          "Have a look. I also sell tasty food, if you want some."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "You're already leaving? Well, enjoy the party then!"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "npc/Gray_Beach/Vigintia/Lora.txt",
+    "name": "Lora",
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Oh, hello dear visitor. Be welcome to participate in the festivities."
+        ]
+      },
+      {
+        "prompt": "festivities",
+        "answer": [
+          "Isn't it always surprising how fast time flies? The years have positively flown by in a mist of happiness."
+        ]
+      },
+      {
+        "prompt": "special",
+        "answer": [
+          "Some of you have been witnesses to the evolution of this world, others have only recently begun their journey with us and still have so much to learn about the past."
+        ]
+      },
+      {
+        "prompt": "years",
+        "answer": [
+          "From humble beginnings something special has been forged in the fire of the hardships of time to metamorphose into something that is so beautiful for so many."
+        ]
+      },
+      {
+        "prompt": "beginnings",
+        "answer": [
+          "In the beginning there was only an idea, a vision. Back then no one could foresee how things would evolve. The past has shown that the world can change the course of the people and the people can change the course of the world. ...",
+          "Fates have crossed and parted. None of these encounters were insignificant. Even small pebbles make large waves, especially so, when one life impacts upon another. ...",
+          "This little idea which was born so many, many years ago has influenced so many, many lives throughout the whole world. In return many hands have helped to shape and refine that idea."
+        ]
+      },
+      {
+        "prompt": "past",
+        "answer": [
+          "It is in the nature of things to start out small and shaky just like a toddler taking its first steps. The world is continuously growing and changing. Hopefully for the better. ...",
+          "And just as it takes a village to raise a child, it takes a community to grow a world. The past laid the foundation for a plethora of ideas and concepts, which have combined in unique ways to become what we know today."
+        ]
+      },
+      {
+        "prompt": "today",
+        "answer": [
+          "It has been a long journey but what a ride it has been! Imagination led to adventure. Friends were made and lost, people fell in love and got married. Everything because of this little idea. ...",
+          "A vision has changed the world - at least a little bit. For some of us more than for others."
+        ]
+      },
+      {
+        "prompt": "world",
+        "answer": [
+          "We live in a world that is changing and growing. This is a wonderful thing. It has been such a fascinating time we have shared."
+        ]
+      },
+      {
+        "prompt": "time",
+        "answer": [
+          "Time moves on and now the time has come again to celebrate and to look back and to remember."
+        ]
+      },
+      {
+        "prompt": "celebrate",
+        "answer": [
+          "Good times, come on! It's a celebration! Just look around and have fun! Talk about it. Tell people about your experiences and memories. Take some time to listen to their stories. ...",
+          "Don't be a wallflower! Join in! It is you who we are celebrating here."
+        ]
+      },
+      {
+        "prompt": "stories",
+        "answer": [
+          "In the end the whole world is nothing but a blank canvas, waiting to be filled with your experiences, your stories of friendship and hardship, of drama and love."
+        ]
+      },
+      {
+        "prompt": "experiences",
+        "answer": [
+          "In the end your experiences are part of our story - the story of a journey, of growth, of maturity. We all have created this together. Without each other none of this would exist. ...",
+          "Thank you for listening! Thank you for forging friendships! Thank you for going on adventures! Thank you for exploring! Thank you for being a part of it! It is truly you who is truly celebrated here and now. Thank you! Thank you for everything!"
+        ]
+      },
+      {
+        "prompt": "anniversary",
+        "answer": [
+          "It's a fine day to celebrate."
+        ]
+      },
+      {
+        "prompt": "party",
+        "answer": [
+          "Have fun and tell your friends about it!"
+        ]
+      },
+      {
+        "prompt": "tibia",
+        "answer": [
+          "A world filled with wonders and adventures! All of this is waiting to be explored - by you!"
+        ]
+      },
+      {
+        "prompt": "gods",
+        "answer": [
+          "They are the hands that weave our fate, but don't forget about your own power and influence."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "He's not invited."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "Just relax and have fun. Your treasure hunt continues soon enough."
+        ]
+      },
+      {
+        "prompt": "bonelord language",
+        "answer": [
+          "Whether a bonelord has something interesting to say or not lies in the eye of the beholder."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell and enjoy the festivities."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Various/Dread_Guardian.txt",
@@ -104902,120 +105269,6 @@
         "prompt": "test2",
         "answer": [
           "Hi"
-        ]
-      }
-    ]
-  },
-  {
-    "file": "npc/Various/Lora.txt",
-    "name": "Lora",
-    "conversation": [
-      {
-        "prompt": "Excalibug",
-        "answer": [
-          "Just relax and have fun. Your treasure hunt continues soon enough."
-        ]
-      },
-      {
-        "prompt": "Gods",
-        "answer": [
-          "They are the hands that weave our fate, but don't forget about your own power and influence."
-        ]
-      },
-      {
-        "prompt": "Worlds",
-        "answer": [
-          "We live in a world that is changing and growing. This is a wonderful thing. It has been such a fascinating time we have shared."
-        ]
-      },
-      {
-        "prompt": "Time",
-        "answer": [
-          "Time moves on and now the time has come again to celebrate and to look back and to remember."
-        ]
-      },
-      {
-        "prompt": "Celebrate",
-        "answer": [
-          "Good times, come on! It's a celebration! Just look around and have fun! Talk about it. Tell people about your experiences and memories. Take some time to listen to their stories. ...",
-          "Don't be a wallflower! Join in! It is you who we are celebrating here."
-        ]
-      },
-      {
-        "prompt": "Stories",
-        "answer": [
-          "In the end the whole world is nothing but a blank canvas, waiting to be filled with your experiences, your stories of friendship and hardship, of drama and love."
-        ]
-      },
-      {
-        "prompt": "Experiences",
-        "answer": [
-          "In the end your experiences are part of our story - the story of a journey, of growth, of maturity. We all have created this together. Without each other none of this would exist. ...",
-          "Thank you for listening! Thank you for forging friendships! Thank you for going on adventures! Thank you for exploring! Thank you for being a part of it! It is truly you who is truly celebrated here and now. Thank you! Thank you for everything!"
-        ]
-      },
-      {
-        "prompt": "Ferumbras",
-        "answer": [
-          "He's not invited."
-        ]
-      },
-      {
-        "prompt": "Bonelord",
-        "answer": [
-          "Whether a bonelord has something interesting to say or not lies in the eye of the beholder."
-        ]
-      },
-      {
-        "prompt": "Tibia",
-        "answer": [
-          "A world filled with wonders and adventures! All of this is waiting to be explored - by you!"
-        ]
-      },
-      {
-        "prompt": "Party",
-        "answer": [
-          "Have fun and tell your friends about it!"
-        ]
-      },
-      {
-        "prompt": "Past",
-        "answer": [
-          "It is in the nature of things to start out small and shaky just like a toddler taking its first steps. The world is continuously growing and changing. Hopefully for the better. ...",
-          "And just as it takes a village to raise a child, it takes a community to grow a world. The past laid the foundation for a plethora of ideas and concepts, which have combined in unique ways to become what we know today."
-        ]
-      },
-      {
-        "prompt": "Today",
-        "answer": [
-          "It has been a long journey but what a ride it has been! Imagination led to adventure. Friends were made and lost, people fell in love and got married. Everything because of this little idea. ...",
-          "A vision has changed the world - at least a little bit. For some of us more than for others."
-        ]
-      },
-      {
-        "prompt": "Special",
-        "answer": [
-          "Some of you have been witnesses to the evolution of this world, others have only recently begun their journey with us and still have so much to learn about the past."
-        ]
-      },
-      {
-        "prompt": "Years",
-        "answer": [
-          "From humble beginnings something special has been forged in the fire of the hardships of time to metamorphose into something that is so beautiful for so many."
-        ]
-      },
-      {
-        "prompt": "beginning",
-        "answer": [
-          "In the beginning there was only an idea, a vision. Back then no one could foresee how things would evolve. The past has shown that the world can change the course of the people and the people can change the course of the world. ...",
-          "Fates have crossed and parted. None of these encounters were insignificant. Even small pebbles make large waves, especially so, when one life impacts upon another. ...",
-          "This little idea which was born so many, many years ago has influenced so many, many lives throughout the whole world. In return many hands have helped to shape and refine that idea."
-        ]
-      },
-      {
-        "prompt": "Bye",
-        "answer": [
-          "Farewell and enjoy the festivities."
         ]
       }
     ]

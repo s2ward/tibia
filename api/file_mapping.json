@@ -470,7 +470,10 @@
         "Rock_Steady": "EMPTY",
         "Rock_With_A_Soft_Spot": "EMPTY",
         "Rock_in_a_Hard_Place": "EMPTY",
-        "Vigintius": "EMPTY"
+        "Vigintia": {
+            "Vigintius": "VERIFIED",
+            "Lora": "VERIFIED"
+        }
     },
     "Isle_of_Destiny": {
         "Captain_Kurt": "VERIFIED",
@@ -1182,7 +1185,6 @@
         "...": "EMPTY",
         "Dread_Guardian": "UNVERIFIED",
         "Kizar": "UNVERIFIED",
-        "Lora": "VERIFIED",
         "Messenger_of_Santa": "VERIFIED",
         "Santa_Claus": "VERIFIED",
         "TEST": "VERIFIED",
