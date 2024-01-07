@@ -37599,9 +37599,15 @@
     "name": "Kendra",
     "conversation": [
       {
+        "prompt": "hi (thais)",
+        "answer": [
+          "Welcome on board, Madam Player. I can sail you to Vigintia Island and the lovely Nostalgia that lies close nearby. It's free!"
+        ]
+      },
+      {
         "prompt": "hi",
         "answer": [
-          "Welcome on board, Sir <player>. May I sail you to Vigintia Island and the lovely Nostalgia that lies close nearby?"
+          "Welcome on board, Madam Player May I sail you back to Thais?"
         ]
       },
       {
@@ -37617,27 +37623,87 @@
         ]
       },
       {
-        "prompt": "tibia Nostalgia",
+        "prompt": "nostalgia",
         "answer": [
-          "This is a very old island. It magically appeared five years ago and then disappeared again. But now it has returned somehow! It's for sure worth a visit if you want to travel into Tibia's past."
+          "This is a very old island. It magically appears and disappears. Right now it has returned somehow! It's for sure worth a visit if you want to travel into Tibia's past."
         ]
       },
       {
-        "prompt": "Vigintia",
+        "prompt": "vigintia",
         "answer": [
           "This lovely island is close to Nostalgia. There are a fair, beautiful beaches, some festive diversion and of course enough to eat and drink."
         ]
       },
       {
-        "prompt": "passage",
+        "prompt": "thais",
+        "answer": [
+          "That's where we are."
+        ]
+      },
+      {
+        "prompt": "venore / carlin / edron / roshamuul / darashia / ankrahmun / darama / yalahar / ab'dendriel / svargrond / liberty bay / oramond / krailos",
+        "answer": [
+          "I'm sorry, but I don't sail there."
+        ]
+      },
+      {
+        "prompt": "travora",
+        "answer": [
+          "Sorry, but I've never heard of this place."
+        ]
+      },
+      {
+        "prompt": "ship",
+        "answer": [
+          "I'd rather call it a boat or a ferry, to be honest."
+        ]
+      },
+      {
+        "prompt": "boat",
+        "answer": [
+          "It is a ferry. I can sail you to the islands Vigintia and Nostalgia."
+        ]
+      },
+      {
+        "prompt": "ferry",
+        "answer": [
+          "I can sail you to the islands Vigintia and Nostalgia."
+        ]
+      },
+      {
+        "prompt": "first dragon",
+        "answer": [
+          "So many claimed to have found and slain him but they had nothing to prove it."
+        ]
+      },
+      {
+        "prompt": "passage / sail / go",
         "answer": [
           "Do you seek a passage to Vigintia and Nostalgia Island? It's for free!"
+        ]
+      },
+      {
+        "prompt": "passage / sail / go",
+        "answer": [
+          "Do you seek a passage back to Thais? It's for free!"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "Maybe later."
         ]
       },
       {
         "prompt": "yes",
         "answer": [
           "Here we go!"
+        ]
+      },
+      {
+        "prompt": "kick",
+        "answer": [
+          "Off with you!"
         ]
       },
       {
