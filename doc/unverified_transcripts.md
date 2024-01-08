@@ -151,7 +151,6 @@
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Halvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Halvar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkyr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Hawkyr.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jessica</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Jessica.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Thorwulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Thorwulf.txt)  
