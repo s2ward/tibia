@@ -9,7 +9,8 @@ Lucius: Well, I use to call myself a 'lightbearer'. I provide magical torches to
 Player: light / lightbearer  
 Lucius: Let's not talk here. I prefer to meet you in the Temple of Light. Will you accompany me there now?  
 Player: yes  
-No Temple of Light:  
+Lucius: (missing answer)
+Player: hi (Temple of Light)
 Lucius: Greetings, Player! We have no time to waste. Let's talk about an urgent mission.  
 Player: mission  
 Lucius: This is the time of the year where demons try hardest to break through to our world. I try my best to keep them away by spiritually empowering those magical fire basins here in the Temple of Light. ...  

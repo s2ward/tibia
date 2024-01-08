@@ -12110,11 +12110,6 @@
     ]
   },
   {
-    "file": "npc/Carlin/Fields of Glory/Aneus.txt",
-    "name": "Aneus",
-    "conversation": []
-  },
-  {
     "file": "npc/Carlin/Senja/Scott.txt",
     "name": "Scott",
     "conversation": [
@@ -41800,21 +41795,6 @@
         ]
       }
     ]
-  },
-  {
-    "file": "npc/Thais/Underground Isle/Lunch.txt",
-    "name": "Lunch",
-    "conversation": []
-  },
-  {
-    "file": "npc/Thais/Underground Isle/Junkar.txt",
-    "name": "Junkar",
-    "conversation": []
-  },
-  {
-    "file": "npc/Thais/Underground Isle/Robson.txt",
-    "name": "Robson",
-    "conversation": []
   },
   {
     "file": "npc/Thais/Greenshore/Ulrik.txt",
@@ -91917,104 +91897,7 @@
     ]
   },
   {
-    "file": "npc/Kazordoon/Gnomegate/Gnomelvis.txt",
-    "name": "Gnomelvis",
-    "conversation": [
-      {
-        "prompt": "hi",
-        "answer": [
-          "Hello. Is it me you're looking for?"
-        ]
-      },
-      {
-        "prompt": "name / yes",
-        "answer": [
-          "My name is Gnomelvis. I'm the gnomish musical supervisor!"
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I'm the gnomish musical supervisor!"
-        ]
-      },
-      {
-        "prompt": "looking",
-        "answer": [
-          "I'm the gnomish musical supervisor!"
-        ]
-      },
-      {
-        "prompt": "musical",
-        "answer": [
-          "Congratulations on finding your soul melody."
-        ]
-      },
-      {
-        "prompt": "dwarf",
-        "answer": [
-          "Dwarfs have been our allies for quite a while now."
-        ]
-      },
-      {
-        "prompt": "gnome",
-        "answer": [
-          "We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes."
-        ]
-      },
-      {
-        "prompt": "mushroom",
-        "answer": [
-          "In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance."
-        ]
-      },
-      {
-        "prompt": "global warming",
-        "answer": [
-          "Those below are heating up the earth. Probably to burn everything but themselves."
-        ]
-      },
-      {
-        "prompt": "those below",
-        "answer": [
-          "The more we learn about them, the more it becomes clear how little we know."
-        ]
-      },
-      {
-        "prompt": "crystal",
-        "answer": [
-          "Crystals are one of the most progressive things gnomish ingenuity has come up with. Even most gnomes don't fully understand how the usage of the crystals resonances and light breaking capabilities work. ...",
-          "For outsiders it must seem like magic."
-        ]
-      },
-      {
-        "prompt": "thais",
-        "answer": [
-          "We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city."
-        ]
-      },
-      {
-        "prompt": "surface",
-        "answer": [
-          "For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!"
-        ]
-      },
-      {
-        "prompt": "sky",
-        "answer": [
-          "The sky is a somewhat frightening concept to us gnomes."
-        ]
-      },
-      {
-        "prompt": "bye",
-        "answer": [
-          "Good bye and take care!"
-        ]
-      }
-    ]
-  },
-  {
-    "file": "npc/Kazordoon/Gnomegate/Gnomegate_Golem_Workshop/Gnomenezer.txt",
+    "file": "npc/Kazordoon/Gnomegate/Gnomenezer.txt",
     "name": "Gnomenezer",
     "conversation": [
       {
@@ -92118,6 +92001,103 @@
         "prompt": "sky",
         "answer": [
           "Some say it looks almost as beautiful as some crystals."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye and take care!"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "npc/Kazordoon/Gnomegate/Gnomelvis.txt",
+    "name": "Gnomelvis",
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hello. Is it me you're looking for?"
+        ]
+      },
+      {
+        "prompt": "name / yes",
+        "answer": [
+          "My name is Gnomelvis. I'm the gnomish musical supervisor!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I'm the gnomish musical supervisor!"
+        ]
+      },
+      {
+        "prompt": "looking",
+        "answer": [
+          "I'm the gnomish musical supervisor!"
+        ]
+      },
+      {
+        "prompt": "musical",
+        "answer": [
+          "Congratulations on finding your soul melody."
+        ]
+      },
+      {
+        "prompt": "dwarf",
+        "answer": [
+          "Dwarfs have been our allies for quite a while now."
+        ]
+      },
+      {
+        "prompt": "gnome",
+        "answer": [
+          "We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes."
+        ]
+      },
+      {
+        "prompt": "mushroom",
+        "answer": [
+          "In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance."
+        ]
+      },
+      {
+        "prompt": "global warming",
+        "answer": [
+          "Those below are heating up the earth. Probably to burn everything but themselves."
+        ]
+      },
+      {
+        "prompt": "those below",
+        "answer": [
+          "The more we learn about them, the more it becomes clear how little we know."
+        ]
+      },
+      {
+        "prompt": "crystal",
+        "answer": [
+          "Crystals are one of the most progressive things gnomish ingenuity has come up with. Even most gnomes don't fully understand how the usage of the crystals resonances and light breaking capabilities work. ...",
+          "For outsiders it must seem like magic."
+        ]
+      },
+      {
+        "prompt": "thais",
+        "answer": [
+          "We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city."
+        ]
+      },
+      {
+        "prompt": "surface",
+        "answer": [
+          "For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!"
+        ]
+      },
+      {
+        "prompt": "sky",
+        "answer": [
+          "The sky is a somewhat frightening concept to us gnomes."
         ]
       },
       {
@@ -110740,11 +110720,6 @@
     ]
   },
   {
-    "file": "npc/Yalahar/Magician Quarter/Lucius.txt",
-    "name": "Lucius",
-    "conversation": []
-  },
-  {
     "file": "npc/Yalahar/Yalahar_Trade_Quarter/Mr._West.txt",
     "name": "Mr._West",
     "conversation": [
@@ -112206,7 +112181,7 @@
     ]
   },
   {
-    "file": "npc/Yalahar/Magician_Quarter/Lucius.txt",
+    "file": "npc/Yalahar/Yalahar_Magician_Quarter/Lucius.txt",
     "name": "Lucius",
     "conversation": [
       {
@@ -112230,7 +112205,13 @@
       {
         "prompt": "yes",
         "answer": [
-          " Greetings, Player! We have no time to waste. Let's talk about an urgent mission."
+          "(missing answer)"
+        ]
+      },
+      {
+        "prompt": "hi (Temple of Light)",
+        "answer": [
+          "Greetings, Player! We have no time to waste. Let's talk about an urgent mission."
         ]
       },
       {
@@ -112364,160 +112345,6 @@
         "prompt": "bye",
         "answer": [
           "Farewell and safe journeys, Player."
-        ]
-      }
-    ]
-  },
-  {
-    "file": "npc/Yalahar/Magician_Quarter/Tamoril.txt",
-    "name": "Tamoril",
-    "conversation": [
-      {
-        "prompt": "hi",
-        "answer": [
-          "Another pesky mortal who believes his gold outweighs his nutrition value."
-        ]
-      },
-      {
-        "prompt": "job",
-        "answer": [
-          "I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful."
-        ]
-      },
-      {
-        "prompt": "name",
-        "answer": [
-          "My real name is not pronounceable for a human."
-        ]
-      },
-      {
-        "prompt": "mortal / human",
-        "answer": [
-          "You puny mortals are an annoyance. However, the little magic your simple minds are able to comprehend earns me enough money not to kill you."
-        ]
-      },
-      {
-        "prompt": "gold / money",
-        "answer": [
-          "I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful."
-        ]
-      },
-      {
-        "prompt": "yalahar",
-        "answer": [
-          "The city is dying. It is mortal just like you and for this reason, it is insignificant. I will still be around when this city is long forgotten."
-        ]
-      },
-      {
-        "prompt": "dragon",
-        "answer": [
-          "Dragons are the most powerful creatures of the world. Every year, we gain more and more power. ...",
-          "Hardly anyone of us dies of old age. Instead we find death by diseases brought to our race by you mortal pests, and countless of my younger brethren and sisters have been slaughtered by humans. ...",
-          "Expect little from me mortal. And even for that little, you will have to pay dearly."
-        ]
-      },
-      {
-        "prompt": "magic",
-        "answer": [
-          "What you call magic is only a pale shadow of real magic. The more you try, the more magic will retreat from you. ...",
-          "To us dragons magic comes natural. It is a part of us, and not a tool we have to learn to control like you do."
-        ]
-      },
-      {
-        "prompt": "Spells",
-        "answer": [
-          "I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that."
-        ]
-      },
-      {
-        "prompt": "yalahari",
-        "answer": [
-          "They are strange beings at best. If I had any interest in mortals, I might be curious. Regardless of what they claim, they smell of mortality."
-        ]
-      },
-      {
-        "prompt": "alchemist quarter",
-        "answer": [
-          "I'm not surprised about the things that happened there. Humans are unable to handle the higher forces."
-        ]
-      },
-      {
-        "prompt": "magician quarter",
-        "answer": [
-          "Another bunch of humans who dabbles in the arcane arts to become godlike beings."
-        ]
-      },
-      {
-        "prompt": "alchemist quarter",
-        "answer": [
-          "I'm not surprised about the things that happened there. Humans are unable to handle the higher forces."
-        ]
-      },
-      {
-        "prompt": "factory quarter",
-        "answer": [
-          "You humans are unable to live on your own. You rely on your little tools and protection. Your sheer inferiority makes me sick."
-        ]
-      },
-      {
-        "prompt": "sunken quarter",
-        "answer": [
-          "That was only the beginning. I will be there when everything comes to an end."
-        ]
-      },
-      {
-        "prompt": "foreign quarter",
-        "answer": [
-          "A museum of races who will sooner or later be wiped out."
-        ]
-      },
-      {
-        "prompt": "arena quarter",
-        "answer": [
-          "Sometimes I fly there for some exercise."
-        ]
-      },
-      {
-        "prompt": "trade quarter",
-        "answer": [
-          "I'm not interested in your human quarrels."
-        ]
-      },
-      {
-        "prompt": "gods / banor",
-        "answer": [
-          "Gods are of no use for us dragons. One day, a dragon will become old and powerful enough to destroy all gods. Fear that day mortal, from then on the age of the dragons will have begun."
-        ]
-      },
-      {
-        "prompt": "animate dead",
-        "answer": [
-          "Do you want to learn the spell 'Animate Dead Rune' for 1200 gold?"
-        ]
-      },
-      {
-        "prompt": "no / yes",
-        "answer": [
-          "Then not.",
-          "Here you are. Look in your spellbook for the pronunciation of this spell."
-        ]
-      },
-      {
-        "prompt": "blood crystal",
-        "answer": [
-          "If I had one, I'd surely add it to my treasure and not give it to you."
-        ]
-      },
-      {
-        "prompt": "trade",
-        "answer": [
-          "I usually prefer to plunder instead of a fair trade. However, I have enough gold and could use some more shiny valuables."
-        ]
-      },
-      {
-        "prompt": "bye",
-        "answer": [
-          "Come back if you dare, Player."
         ]
       }
     ]
@@ -112860,6 +112687,160 @@
         "prompt": "farewell / bye",
         "answer": [
           "Bye, Player."
+        ]
+      }
+    ]
+  },
+  {
+    "file": "npc/Yalahar/Yalahar_Magician_Quarter/Tamoril.txt",
+    "name": "Tamoril",
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Another pesky mortal who believes his gold outweighs his nutrition value."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My real name is not pronounceable for a human."
+        ]
+      },
+      {
+        "prompt": "mortal / human",
+        "answer": [
+          "You puny mortals are an annoyance. However, the little magic your simple minds are able to comprehend earns me enough money not to kill you."
+        ]
+      },
+      {
+        "prompt": "gold / money",
+        "answer": [
+          "I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful."
+        ]
+      },
+      {
+        "prompt": "yalahar",
+        "answer": [
+          "The city is dying. It is mortal just like you and for this reason, it is insignificant. I will still be around when this city is long forgotten."
+        ]
+      },
+      {
+        "prompt": "dragon",
+        "answer": [
+          "Dragons are the most powerful creatures of the world. Every year, we gain more and more power. ...",
+          "Hardly anyone of us dies of old age. Instead we find death by diseases brought to our race by you mortal pests, and countless of my younger brethren and sisters have been slaughtered by humans. ...",
+          "Expect little from me mortal. And even for that little, you will have to pay dearly."
+        ]
+      },
+      {
+        "prompt": "magic",
+        "answer": [
+          "What you call magic is only a pale shadow of real magic. The more you try, the more magic will retreat from you. ...",
+          "To us dragons magic comes natural. It is a part of us, and not a tool we have to learn to control like you do."
+        ]
+      },
+      {
+        "prompt": "Spells",
+        "answer": [
+          "I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that."
+        ]
+      },
+      {
+        "prompt": "yalahari",
+        "answer": [
+          "They are strange beings at best. If I had any interest in mortals, I might be curious. Regardless of what they claim, they smell of mortality."
+        ]
+      },
+      {
+        "prompt": "alchemist quarter",
+        "answer": [
+          "I'm not surprised about the things that happened there. Humans are unable to handle the higher forces."
+        ]
+      },
+      {
+        "prompt": "magician quarter",
+        "answer": [
+          "Another bunch of humans who dabbles in the arcane arts to become godlike beings."
+        ]
+      },
+      {
+        "prompt": "alchemist quarter",
+        "answer": [
+          "I'm not surprised about the things that happened there. Humans are unable to handle the higher forces."
+        ]
+      },
+      {
+        "prompt": "factory quarter",
+        "answer": [
+          "You humans are unable to live on your own. You rely on your little tools and protection. Your sheer inferiority makes me sick."
+        ]
+      },
+      {
+        "prompt": "sunken quarter",
+        "answer": [
+          "That was only the beginning. I will be there when everything comes to an end."
+        ]
+      },
+      {
+        "prompt": "foreign quarter",
+        "answer": [
+          "A museum of races who will sooner or later be wiped out."
+        ]
+      },
+      {
+        "prompt": "arena quarter",
+        "answer": [
+          "Sometimes I fly there for some exercise."
+        ]
+      },
+      {
+        "prompt": "trade quarter",
+        "answer": [
+          "I'm not interested in your human quarrels."
+        ]
+      },
+      {
+        "prompt": "gods / banor",
+        "answer": [
+          "Gods are of no use for us dragons. One day, a dragon will become old and powerful enough to destroy all gods. Fear that day mortal, from then on the age of the dragons will have begun."
+        ]
+      },
+      {
+        "prompt": "animate dead",
+        "answer": [
+          "Do you want to learn the spell 'Animate Dead Rune' for 1200 gold?"
+        ]
+      },
+      {
+        "prompt": "no / yes",
+        "answer": [
+          "Then not.",
+          "Here you are. Look in your spellbook for the pronunciation of this spell."
+        ]
+      },
+      {
+        "prompt": "blood crystal",
+        "answer": [
+          "If I had one, I'd surely add it to my treasure and not give it to you."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "I usually prefer to plunder instead of a fair trade. However, I have enough gold and could use some more shiny valuables."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Come back if you dare, Player."
         ]
       }
     ]
