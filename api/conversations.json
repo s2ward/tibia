@@ -105242,18 +105242,6 @@
     ]
   },
   {
-    "file": "npc/Various/TEST2.txt",
-    "name": "TEST2",
-    "conversation": [
-      {
-        "prompt": "test2",
-        "answer": [
-          "Hi"
-        ]
-      }
-    ]
-  },
-  {
     "file": "npc/Yalahar/Palimuth.txt",
     "name": "Palimuth",
     "conversation": [
