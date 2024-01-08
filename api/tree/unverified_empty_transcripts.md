@@ -396,7 +396,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Halvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Halvar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nomad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nomad.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Robert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Robert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Thorwulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Thorwulf.txt)  
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Biff The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Biff_The_Baker.txt)  
