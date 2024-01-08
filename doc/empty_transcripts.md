@@ -250,7 +250,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Abandoned Headquarters</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Abandoned_Headquarters)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Glimpse of Allusion</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Abandoned_Headquarters/Glimpse_of_Allusion.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">WOX</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Abandoned_Headquarters/WOX.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yielothax (NPC)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Abandoned_Headquarters/Yielothax_(NPC).txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yielothax</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Abandoned_Headquarters/Yielothax.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Deeper Ingol</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Deeper_Ingol)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Absentminded Assistant</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Deeper_Ingol/Absentminded_Assistant.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aletta</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Deeper_Ingol/Aletta.txt)  
