@@ -563,6 +563,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fynn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Fynn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimlund</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Grimlund)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Sinatuki</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Grimlund/Sinatuki.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkyr</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Hawkyr.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iskan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Iskan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iyad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Iyad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Janz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Janz.txt)  
