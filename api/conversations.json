@@ -116465,68 +116465,56 @@
     "name": "Halvar",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Hello competitor! Do you want to fight in the arena or shall I explain the rules first?"
+          "HAIL to the Warlord of the arena, Player! Hero of Svargrond!"
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "job",
         "answer": [
           "My job is to explain about the rules and to get the fee from the competitors."
         ]
       },
       {
-        "prompt": "Mission",
-        "answer": [
-          "Well I would rather call it an 'Ultimate Challenge' than a mission."
-        ]
-      },
-      {
-        "prompt": "Name / King / Queen / Gods / Ferumbras / Excalibug / News / Druids / Shamans / Carlin / Edron / Port Hope / Svargrond / Thais / Venore / Dwarf / Elf / Dragon / Yeti / Chakoya / Cult / Bait / Jarl / Barbarian / Raiders / Mines / Chyll / Nibelor / Banor / Years Of Serpents / How Are You?",
+        "prompt": "(any common svargrond keyword)",
         "answer": [
           "I have no time to talk and you should FIGHT instead of wasting your time here!"
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "greenhorn",
         "answer": [
-          "Bye."
+          "That is the easiest way in our arena. The fee is 1000 gold. We were setting this up for of our children to challenge some easy monsters and train them for the future."
         ]
       },
       {
-        "prompt": "Death / Backpack / Die",
+        "prompt": "scrapper",
         "answer": [
-          "It would be better not to die! In every pit there is an emergency exit to the south. If you die in a pit... well... your corpse and backpack are gone, so enter at your own risk."
+          "The most common difficulty for us. The fee is 5000 gold. So if you are experienced in fighting middle class monsters this is your challenge!"
         ]
       },
       {
-        "prompt": "Potion",
+        "prompt": "warlord",
         "answer": [
-          "Like I said: Everything is allowed. Go in, kill monsters and try not to get killed by your own."
+          "Only the strongest among us will take this challenge. The fee is 10000 gold. If you pass that I promise you the respect of all citizens here. You will be a hero!"
         ]
       },
       {
-        "prompt": "Weapon",
-        "answer": [
-          "You can use whatever you want but be aware that you might lose items and your backpack if you die."
-        ]
-      },
-      {
-        "prompt": "Rules",
+        "prompt": "rules",
         "answer": [
           "What do you want to know? Something about the three different difficulties, the general rules or the prices? Maybe you also want to know what happens when you die?"
         ]
       },
       {
-        "prompt": "Fee / Prices",
+        "prompt": "difficulties",
         "answer": [
-          "The fee depends on the difficulty you choose. If you are a Greenhorn you have to pay 1000 gold, as a Scrapper you have to pay 5000 gold and as a Warlord the participation fee is 10000 gold. ...",
-          "Each competitor who manages to win all ten pits will win the arena goblet and an unique item appropriate to your difficulty level."
+          "There are three difficulties: Greenhorn, Scrapper and Warlord. On each challenge you will be confronted with ten monsters increasing in strength. ...",
+          "Besides the glory and honour you will earn we have unique awards for those who manage to pass the arena completely."
         ]
       },
       {
-        "prompt": "General",
+        "prompt": "general",
         "answer": [
           "First you pay me the participation fee according to the difficulty you choose. This will grant you access to the door near me. ...",
           "In the next room there you will find three teleporters. They all lead to the first pit, which you can enter as soon as there is no battle going on there anymore. ...",
@@ -116541,40 +116529,94 @@
         ]
       },
       {
-        "prompt": "Difficulties",
+        "prompt": "prices",
         "answer": [
-          "There are three difficulties: Greenhorn, Scrapper and Warlord. On each challenge you will be confronted with ten monsters increasing in strength. ...",
-          "Besides the glory and honour you will earn we have unique awards for those who manage to pass the arena completely."
+          "The fee depends on the difficulty you choose. If you are a Greenhorn you have to pay 1000 gold, as a Scrapper you have to pay 5000 gold and as a Warlord the participation fee is 10000 gold. ...",
+          "Each competitor who manages to win all ten pits will win the arena goblet and an unique item appropriate to your difficulty level."
         ]
       },
       {
-        "prompt": "Warlord",
+        "prompt": "die",
         "answer": [
-          "Only the strongest among us will take this challenge. The fee is 10000 gold. If you pass that I promise you the respect of all citizens here. You will be a hero!"
+          "It would be better not to die! In every pit there is an emergency exit to the south. If you die in a pit... well... your corpse and backpack are gone, so enter at your own risk."
         ]
       },
       {
-        "prompt": "Scrapper",
+        "prompt": "rings / amulets / fluids / potions",
         "answer": [
-          "The most common difficulty for us. The fee is 5000 gold. So if you are experienced in fighting middle class monsters this is your challenge!"
+          "Like I said: Everything is allowed. Go in, kill monsters and try not to get killed by your own."
         ]
       },
       {
-        "prompt": "Greenhorn",
+        "prompt": "runes",
         "answer": [
-          "That is the easiest way in our arena. The fee is 1000 gold. We were setting this up for of our children to challenge some easy monsters and train them for the future."
+          "As long as you can carry them you can use them in the arena."
         ]
       },
       {
-        "prompt": "Arena / Fight / Challenge / Pit",
+        "prompt": "armor / weapon",
+        "answer": [
+          "You can use whatever you want but be aware that you might lose items and your backpack if you die."
+        ]
+      },
+      {
+        "prompt": "backpack / corpse / death",
+        "answer": [
+          "It would be better not to die! In every pit there is an emergency exit to the south. If you die in a pit... well... your corpse and backpack are gone, so enter at your own risk."
+        ]
+      },
+      {
+        "prompt": "mission / quest",
+        "answer": [
+          "Well, I would rather call it an 'Ultimate Challenge' than a quest."
+        ]
+      },
+      {
+        "prompt": "fight / arena / pit / challenge",
         "answer": [
           "So you agree to the rules and want to participate in the challenge? Which difficulty do you choose, Greenhorn, Scrapper or Warlord?"
         ]
       },
       {
-        "prompt": "Qualquer Palavra",
+        "prompt": "(any but below)",
         "answer": [
-          "Then not. Get away and don't waste my time!"
+          "Then not. Get away and don't waste my time! (idle)"
+        ]
+      },
+      {
+        "prompt": "greenhorn",
+        "answer": [
+          "The fee is 1000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the easiest difficulty?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "I would like to see you in the arena one day! You look very promising!"
+        ]
+      },
+      {
+        "prompt": "scrapper",
+        "answer": [
+          "The fee is 5000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the medium difficulty?"
+        ]
+      },
+      {
+        "prompt": "warlord",
+        "answer": [
+          "The fee is 10000 gold for one try. Remember that if you die, it is YOUR problem and you won't be able to get back to your corpse and your backpack. Do you really want to participate in the arena in the hardest difficulty?"
+        ]
+      },
+      {
+        "prompt": "yes",
+        "answer": [
+          "As you wish! You can pass the door now and enter the teleporter to the pits."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Farewell, Warlord of the arena, Player, Hero of Svargrond!"
         ]
       }
     ]
