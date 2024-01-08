@@ -601,7 +601,7 @@
             "Gnomette": "VERIFIED",
             "Gnomewart": "VERIFIED",
             "Gnomillion": "VERIFIED",
-            "Gnominicia": "VERIFIED",
+            "Gnomincia": "VERIFIED",
             "Gnominus": "VERIFIED",
             "Gnomission": "VERIFIED",
             "Gnomole": "VERIFIED"
@@ -955,7 +955,7 @@
         "Abandoned_Headquarters": {
             "Glimpse_of_Allusion": "EMPTY",
             "WOX": "EMPTY",
-            "Yielothax_(NPC)": "EMPTY"
+            "Yielothax": "EMPTY"
         },
         "Asnarus": "VERIFIED",
         "Auron": "VERIFIED",
@@ -1370,10 +1370,6 @@
         "Karith": "VERIFIED",
         "Lisander": "VERIFIED",
         "Lorietta": "VERIFIED",
-        "Magician_Quarter": {
-            "Lucius": "UNVERIFIED",
-            "Tamoril": "VERIFIED"
-        },
         "Menacing_Mummy": "VERIFIED",
         "Morpel": "VERIFIED",
         "Oiriz": "VERIFIED",
@@ -1405,7 +1401,9 @@
             "Ethan": "VERIFIED",
             "Ortheus": "VERIFIED",
             "Reed": "VERIFIED",
-            "Tamara": "VERIFIED"
+            "Tamara": "VERIFIED",
+            "Lucius": "UNVERIFIED",
+            "Tamoril": "VERIFIED"
         },
         "Yalahar_Sunken_Quarter": {
             "Barry": "VERIFIED",
