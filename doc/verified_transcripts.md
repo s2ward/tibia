@@ -584,6 +584,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Romir</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Romir.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Sirik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sven</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Sven.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thorwulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Thorwulf.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Tyrsung</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Tyrsung)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Baltim</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Tyrsung/Baltim.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Tyrsung/Zora.txt)  
