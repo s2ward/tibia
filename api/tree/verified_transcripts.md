@@ -566,6 +566,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iskan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Iskan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iyad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Iyad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Janz</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Janz.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jessica</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Jessica.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kjesse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Kjesse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Krimhorn</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Freezhild</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Freezhild.txt)  
