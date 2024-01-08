@@ -149,7 +149,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Oracle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard/The_Oracle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Willie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard/Willie.txt)  
 ├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Halvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Halvar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Dino.txt)  
