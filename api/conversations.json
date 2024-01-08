@@ -115252,189 +115252,238 @@
     "name": "Hawkyr",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
-          "Hello fellow hunter. Are you looking for paladin spells? I'm your man."
+          "HAIL to the Warlord of the arena! Hero of Svargrond! Are you looking for paladin spells?"
         ]
       },
       {
-        "prompt": "Name",
-        "answer": [
-          "I am Hawkyr the hunter."
-        ]
-      },
-      {
-        "prompt": "Job",
-        "answer": [
-          "I am a hunter and bowyer. If you need some training, I am the man you want to see."
-        ]
-      },
-      {
-        "prompt": "Mission / Task",
-        "answer": [
-          "Sorry, I don't have anything to do for you."
-        ]
-      },
-      {
-        "prompt": "King",
-        "answer": [
-          "In our lands, the most successful hunter is the king. Be it beast or man."
-        ]
-      },
-      {
-        "prompt": "Queen",
-        "answer": [
-          "In our lands, the most successful huntress is the queen. Be it beast or woman."
-        ]
-      },
-      {
-        "prompt": "Gods",
-        "answer": [
-          "The gods of the south seem to have little influence here."
-        ]
-      },
-      {
-        "prompt": "Spells",
-        "answer": [
-          "Sorry, I don't teach spells for your vocation."
-        ]
-      },
-      {
-        "prompt": "Druid / Shaman",
-        "answer": [
-          "They know the ways of spirits and nature. You can learn a lot from them just by listening. Still, you can always learn a lot if you're listening well to what nature tells you."
-        ]
-      },
-      {
-        "prompt": "Ferumbras",
-        "answer": [
-          "Better ask the Southerners about that one."
-        ]
-      },
-      {
-        "prompt": "Excalibug",
-        "answer": [
-          "A weapon hardly useful for a hunter."
-        ]
-      },
-      {
-        "prompt": "News",
-        "answer": [
-          "The wolves are very hungry lately."
-        ]
-      },
-      {
-        "prompt": "Carlin",
-        "answer": [
-          "I don't think I'd like that place and it's not only that this is not my marked territory."
-        ]
-      },
-      {
-        "prompt": "Edron / Port Hope",
-        "answer": [
-          "Only foreigners talk about that place now and then."
-        ]
-      },
-      {
-        "prompt": "Svargrond",
-        "answer": [
-          "I admire the safety of the burrow and the closeness of the pack. It's a good thing to have a lair to which you can withdraw to lick your wounds."
-        ]
-      },
-      {
-        "prompt": "Thais",
-        "answer": [
-          "Thais is some far away city."
-        ]
-      },
-      {
-        "prompt": "Venore",
-        "answer": [
-          "Carlin and Venore seem to live in some sort of rivalry."
-        ]
-      },
-      {
-        "prompt": "Dwarf",
-        "answer": [
-          "Most dwarfs I've seen seem to lack the stealthiness to become a good hunter."
-        ]
-      },
-      {
-        "prompt": "Elf",
-        "answer": [
-          "Elves are good hunters. Even I was able to learn something from the elves that came here. I am thinking about visiting their city some day."
-        ]
-      },
-      {
-        "prompt": "Chakoya",
-        "answer": [
-          "The chakoya are ferocious hunters. They don't only kill out of hunger, they love the carnage they are causing."
-        ]
-      },
-      {
-        "prompt": "Yeti",
-        "answer": [
-          "Yetis are rare but they do exist. Everyone that has been hunting in the frozen wastes for some time can share stories of their sightings."
-        ]
-      },
-      {
-        "prompt": "Dragon",
-        "answer": [
-          "It's not easy to hunt dragons. Suddenly, a hunter might become the hunted in their lairs."
-        ]
-      },
-      {
-        "prompt": "Cult",
-        "answer": [
-          "I don't know anything about it."
-        ]
-      },
-      {
-        "prompt": "Barbarian",
-        "answer": [
-          "Being a barbarian means to be one with nature and its instincts."
-        ]
-      },
-      {
-        "prompt": "Raiders",
-        "answer": [
-          "Their packs are not of our kin anymore. They left our pack. We will see how they prosper. They have nothing to expect from us except for cold steel in their hearts."
-        ]
-      },
-      {
-        "prompt": "Mines",
-        "answer": [
-          "As far as I have understood it, they are of some importance for the people of Carlin."
-        ]
-      },
-      {
-        "prompt": "Chyll",
-        "answer": [
-          "Father north wind knows best."
-        ]
-      },
-      {
-        "prompt": "Nibelor",
-        "answer": [
-          "An isle on which the shamans live."
-        ]
-      },
-      {
-        "prompt": "Years Of Serpents",
-        "answer": [
-          "I wonder if even bigger hunter have driven them away."
-        ]
-      },
-      {
-        "prompt": "How Are You?",
+        "prompt": "how are you",
         "answer": [
           "I only feel alive when I'm on a hunt. But even I need some time to rest and regain strength."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "name",
         "answer": [
-          "Good hunting, Player."
+          "I am Hawkyr the hunter."
+        ]
+      },
+      {
+        "prompt": "news",
+        "answer": [
+          "The wolves are very hungry lately."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am a hunter and bowyer. If you need some training, I am the man you want to see."
+        ]
+      },
+      {
+        "prompt": "mission",
+        "answer": [
+          "Sorry, I don't have anything to do for you."
+        ]
+      },
+      {
+        "prompt": "everspring",
+        "answer": [
+          "The happy hunting grounds are left for the afterlife. Here we will have to face and brave all kinds of obstacles and grow from it."
+        ]
+      },
+      {
+        "prompt": "barbarians",
+        "answer": [
+          "Being a barbarian means to be one with nature and its instincts."
+        ]
+      },
+      {
+        "prompt": "yeti",
+        "answer": [
+          "Yetis are rare but they do exist. Everyone that has been hunting in the frozen wastes for some time can share stories of their sightings."
+        ]
+      },
+      {
+        "prompt": "bonelords",
+        "answer": [
+          "I think there is no such creature. The Southerners are just making up those stories."
+        ]
+      },
+      {
+        "prompt": "chakoya",
+        "answer": [
+          "The chakoya are ferocious hunters. They don't only kill out of hunger, they love the carnage they are causing."
+        ]
+      },
+      {
+        "prompt": "dragon",
+        "answer": [
+          "It's not easy to hunt dragons. Suddenly, a hunter might become the hunted in their lairs."
+        ]
+      },
+      {
+        "prompt": "elf",
+        "answer": [
+          "Elves are good hunters. Even I was able to learn something from the elves that came here. I am thinking about visiting their city some day."
+        ]
+      },
+      {
+        "prompt": "dwarf",
+        "answer": [
+          "Most dwarfs I've seen seem to lack the stealthiness to become a good hunter."
+        ]
+      },
+      {
+        "prompt": "monster",
+        "answer": [
+          "There are no monsters. It's only a matter of being hunting or being hunted."
+        ]
+      },
+      {
+        "prompt": "enemies",
+        "answer": [
+          "We have many enemies but our spirit and our bodies are strong. We are fit enough to survive."
+        ]
+      },
+      {
+        "prompt": "svargrond",
+        "answer": [
+          "I admire the safety of the burrow and the closeness of the pack. It's a good thing to have a lair to which you can withdraw to lick your wounds."
+        ]
+      },
+      {
+        "prompt": "thais",
+        "answer": [
+          "Thais is some far away city."
+        ]
+      },
+      {
+        "prompt": "venore",
+        "answer": [
+          "Carlin and Venore seem to live in some sort of rivalry."
+        ]
+      },
+      {
+        "prompt": "carlin",
+        "answer": [
+          "I don't think I'd like that place and it's not only that this is not my marked territory."
+        ]
+      },
+      {
+        "prompt": "port hope / edron",
+        "answer": [
+          "Only foreigners talk about that place now and then."
+        ]
+      },
+      {
+        "prompt": "camps",
+        "answer": [
+          "The camps of the raiders are to the south. Although, you can find hunting parties almost everywhere on those isles."
+        ]
+      },
+      {
+        "prompt": "nibelor",
+        "answer": [
+          "An isle on which the shamans live."
+        ]
+      },
+      {
+        "prompt": "join",
+        "answer": [
+          "You will have to speak with our jarl Sven to begin the barbarian test."
+        ]
+      },
+      {
+        "prompt": "leader",
+        "answer": [
+          "Our city benefits much from the strength and wisdom of our jarl. He is a great top dog who knows what is best for his kin."
+        ]
+      },
+      {
+        "prompt": "jarl",
+        "answer": [
+          "Our jarl was a great hunter in his younger days. He is still my idol."
+        ]
+      },
+      {
+        "prompt": "king",
+        "answer": [
+          "In our lands, the most successful hunter is the king. Be it beast or man."
+        ]
+      },
+      {
+        "prompt": "queen",
+        "answer": [
+          "In our lands, the most successful huntress is the queen. Be it beast or woman."
+        ]
+      },
+      {
+        "prompt": "druids",
+        "answer": [
+          "They know the ways of spirits and nature. You can learn a lot from them just by listening. Still, you can always learn a lot if you're listening well to what nature tells you."
+        ]
+      },
+      {
+        "prompt": "shamans",
+        "answer": [
+          "They know the ways of spirits and nature. You can learn a lot from them just by listening. Still, you can always learn a lot if you're listening well to what nature tells you."
+        ]
+      },
+      {
+        "prompt": "cult",
+        "answer": [
+          "I don't know anything about it."
+        ]
+      },
+      {
+        "prompt": "mines",
+        "answer": [
+          "As far as I have understood it, they are of some importance for the people of Carlin."
+        ]
+      },
+      {
+        "prompt": "years of the serpents",
+        "answer": [
+          "I wonder if even bigger hunter have driven them away."
+        ]
+      },
+      {
+        "prompt": "chyll",
+        "answer": [
+          "Father north wind knows best."
+        ]
+      },
+      {
+        "prompt": "gods",
+        "answer": [
+          "The gods of the south seem to have little influence here."
+        ]
+      },
+      {
+        "prompt": "zathroth / uman / banor",
+        "answer": [
+          "I heard that's some god in the South."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "Better ask the Southerners about that one."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "A weapon hardly useful for a hunter."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good hunting, Player.",
+          "Farewell, Warlord of the arena, Hero of Svargrond!"
         ]
       }
     ]
