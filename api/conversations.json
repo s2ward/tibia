@@ -118563,218 +118563,260 @@
     "name": "Robert",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
           "Hello, Player! Nice to see you, welcome to my weapon shop."
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "how are you",
+        "answer": [
+          "Oh, don't even ask."
+        ]
+      },
+      {
+        "prompt": "name",
         "answer": [
           "My name is Robert."
         ]
       },
       {
-        "prompt": "Job",
-        "answer": [
-          "I am responsible for the trade with weapons and armor here in the arena. I constantly beg my superior Bertha to give me some other job or, even better, to send me back to Carlin but the cold seems to have frozen her heart."
-        ]
-      },
-      {
-        "prompt": "Weapon",
-        "answer": [
-          "I have many weapons to offer, including bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade."
-        ]
-      },
-      {
-        "prompt": "Armor",
-        "answer": [
-          "I am selling leather, chain, and brass armor. If you'd like to see my offers, ask me for a trade."
-        ]
-      },
-      {
-        "prompt": "Legs",
-        "answer": [
-          "I am selling chain legs. If you'd like to see my offers, ask me for a trade."
-        ]
-      },
-      {
-        "prompt": "Mission / task",
-        "answer": [
-          "No, I don't have anything to do for you."
-        ]
-      },
-      {
-        "prompt": "King",
-        "answer": [
-          "I heard they have a king in Thais."
-        ]
-      },
-      {
-        "prompt": "Queen",
-        "answer": [
-          "If only our beloved queen would know what dangers we have to face here. I am sure she would call us back to the safety of Carlin."
-        ]
-      },
-      {
-        "prompt": "Gods",
-        "answer": [
-          "I daily pray to the gods to protect me from harm. I still believe in a wonder to come which will get me back to Carlin."
-        ]
-      },
-      {
-        "prompt": "Druids",
-        "answer": [
-          "If there were some more druids around with all their awesome healing powers, I'd feel more comfortable."
-        ]
-      },
-      {
-        "prompt": "Shamans",
-        "answer": [
-          "They are the local witch doctors. I'd rather wait for the rare visit of a druid from Carlin than to put my life in the hands of one of those people."
-        ]
-      },
-      {
-        "prompt": "Ferumbras",
-        "answer": [
-          "Shush! Don't speak that name aloud. It might call him here."
-        ]
-      },
-      {
-        "prompt": "Excalibug",
-        "answer": [
-          "Sorry, I think we are out of stock."
-        ]
-      },
-      {
-        "prompt": "News",
+        "prompt": "news",
         "answer": [
           "The good news are: I got not killed by some drunken barbarian or unskilled axe thrower. The bad news are: I am still stranded here."
         ]
       },
       {
-        "prompt": "Offer",
+        "prompt": "job",
         "answer": [
-          "My offers are weapons, ammunition, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a {trade}."
+          "I am responsible for the trade with weapons and armor here in the arena. I constantly beg my superior Bertha to give me some other job or, even better, to send me back to Carlin but the cold seems to have frozen her heart."
         ]
       },
       {
-        "prompt": "Carlin",
+        "prompt": "offer",
         "answer": [
-          "Oh sweet Carlin, when will I see you again?"
+          "My offers are weapons, ammunition, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade."
         ]
       },
       {
-        "prompt": "Edron",
+        "prompt": "mission / quest",
         "answer": [
-          "Edron is in the other end of the world. I wish I were there."
+          "No, I don't have anything to do for you."
         ]
       },
       {
-        "prompt": "Port Hope",
+        "prompt": "rumour",
         "answer": [
-          "Port Hope and its cannibal orcs is almost as bad as Svargrond."
+          "Have you talked to Thorwulf yet?? Be careful, I heard that he killed an experienced fighter in one hit just because he was called a coward after rejecting a challenge. I myself don't even dare to look in his eyes."
         ]
       },
       {
-        "prompt": "Thais",
+        "prompt": "everspring",
+        "answer": [
+          "Some of the locals mock me by threatening to bring me there one day. So I guess it's not such a pleasant place as the name is promising."
+        ]
+      },
+      {
+        "prompt": "raiders",
+        "answer": [
+          "The raiders are even wilder and, well ... more barbaric than the local barbarians. Can you imagine?!"
+        ]
+      },
+      {
+        "prompt": "barbarian",
+        "answer": [
+          "Even if they have no bad intentions, they are still dangerous due to their short temper and love for alcohol and risky contests."
+        ]
+      },
+      {
+        "prompt": "yeti",
+        "answer": [
+          "Yetis are huge, but perfectly camouflaged in the snow. They attack out of nowhere and before you can scream you are dead."
+        ]
+      },
+      {
+        "prompt": "bonelords",
+        "answer": [
+          "The dragons, giants and other monsters are already enough."
+        ]
+      },
+      {
+        "prompt": "chakoya",
+        "answer": [
+          "For all I heard, the palisades won't stop them when they come at night to kidnap sleeping people and to eat them alive."
+        ]
+      },
+      {
+        "prompt": "elf",
+        "answer": [
+          "Elves are strange creatures. I heard each of them can cast spells and curses. Every time an elf is looking in my direction, it gives me shivers."
+        ]
+      },
+      {
+        "prompt": "dwarf",
+        "answer": [
+          "You know, I thought dwarfs were rude drunkards. However, that was before I met the people here."
+        ]
+      },
+      {
+        "prompt": "monster",
+        "answer": [
+          "In this area, there are more monsters than snow rabbits. Just everything seems to prey on each other."
+        ]
+      },
+      {
+        "prompt": "enemies",
+        "answer": [
+          "This city is surrounded by enemies and hostile creatures. And it's inhabitants are only slightly better."
+        ]
+      },
+      {
+        "prompt": "svargrond",
+        "answer": [
+          "Sure it looks peaceful, but to be honest, those wild barbarians are scary."
+        ]
+      },
+      {
+        "prompt": "thais",
         "answer": [
           "Even Thais could not be worse than this frozen hell hole here."
         ]
       },
       {
-        "prompt": "Venore",
+        "prompt": "carlin",
+        "answer": [
+          "Oh sweet Carlin, when will I see you again?"
+        ]
+      },
+      {
+        "prompt": "venore",
         "answer": [
           "Jessica says they have agents everywhere. I wonder if they try to kill me to hinder our trade here ...",
           "Since the day I spoke with Jessica, I sleep under my bed, just to be on the safe side."
         ]
       },
       {
-        "prompt": "Svargrond",
+        "prompt": "port hope",
         "answer": [
-          "Sure it looks peaceful, but to be honest, those wild barbarians are scary."
+          "Port Hope and its cannibal orcs is almost as bad as Svargrond."
         ]
       },
       {
-        "prompt": "Dwarf",
+        "prompt": "edron",
         "answer": [
-          "You know, I thought dwarfs were rude drunkards. However, that was before I met the people here."
+          "Edron is in the other end of the world. I wish I were there."
         ]
       },
       {
-        "prompt": "Elf",
+        "prompt": "camps",
         "answer": [
-          "Elves are strange creatures. I heard each of them can cast spells and curses. Every time an elf is looking in my direction, it gives me shivers."
+          "The raiders have several small camps in the wilderness. I don't want to know what horrible things they might do there."
         ]
       },
       {
-        "prompt": "Chakoya",
-        "answer": [
-          "For all I heard, the palisades won't stop them when they come at night to kidnap sleeping people and to eat them alive."
-        ]
-      },
-      {
-        "prompt": "Yeti",
-        "answer": [
-          "Yetis are huge, but perfectly camouflaged in the snow. They attack out of nowhere and before you can scream you are dead."
-        ]
-      },
-      {
-        "prompt": "Cult",
-        "answer": [
-          "I don't know what you mean."
-        ]
-      },
-      {
-        "prompt": "Jarl",
-        "answer": [
-          "The local jarl is a fine man, measured by local standards that is. Still he can't bring me back from the dead when some of the barbarians go berserk and kill me."
-        ]
-      },
-      {
-        "prompt": "Raiders",
-        "answer": [
-          "The raiders are even wilder and, well ... more barbaric than the local barbarians. Can you imagine?!"
-        ]
-      },
-      {
-        "prompt": "Mines",
-        "answer": [
-          "The mines are lost. If only the people in Carlin were to accept that and call us back."
-        ]
-      },
-      {
-        "prompt": "Chyll",
-        "answer": [
-          "That is some spirit the barbarians seem to fear."
-        ]
-      },
-      {
-        "prompt": "Nibelor",
+        "prompt": "nibelor",
         "answer": [
           "It's a haunted isle where the shamans call spirits and such to our world."
         ]
       },
       {
-        "prompt": "Years Of Serpents",
+        "prompt": "join",
         "answer": [
-          "If those sea serpents had not vanished, I could still sit in the warm and safe Carlin. Cursed serpents."
+          "If you plan to become one of the barbarians, you are mad."
         ]
       },
       {
-        "prompt": "How Are You?",
+        "prompt": "honourary",
         "answer": [
-          "Oh, don't even ask."
+          "In some gruesome and dangerous test you might become a honourary barbarian."
         ]
       },
       {
-        "prompt": "Rumours",
+        "prompt": "jarl / leader",
         "answer": [
-          "Have you talked to Thorwulf yet?? Be careful, I heard that he killed an experienced fighter in one hit just because he was called a coward after rejecting a challenge. I myself don't even dare to look in his eyes."
+          "The local jarl is a fine man, measured by local standards that is. Still he can't bring me back from the dead when some of the barbarians go berserk and kill me."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "king",
+        "answer": [
+          "I heard they have a king in Thais."
+        ]
+      },
+      {
+        "prompt": "queen",
+        "answer": [
+          "If only our beloved queen would know what dangers we have to face here. I am sure she would call us back to the safety of Carlin."
+        ]
+      },
+      {
+        "prompt": "druids",
+        "answer": [
+          "If there were some more druids around with all their awesome healing powers, I'd feel more comfortable."
+        ]
+      },
+      {
+        "prompt": "shamans",
+        "answer": [
+          "They are the local witch doctors. I'd rather wait for the rare visit of a druid from Carlin than to put my life in the hands of one of those people."
+        ]
+      },
+      {
+        "prompt": "cult",
+        "answer": [
+          "I don't know what you mean."
+        ]
+      },
+      {
+        "prompt": "mines",
+        "answer": [
+          "The mines are lost. If only the people in Carlin were to accept that and call us back."
+        ]
+      },
+      {
+        "prompt": "chyll",
+        "answer": [
+          "That is some spirit the barbarians seem to fear."
+        ]
+      },
+      {
+        "prompt": "gods",
+        "answer": [
+          "I daily pray to the gods to protect me from harm. I still believe in a wonder to come which will get me back to Carlin."
+        ]
+      },
+      {
+        "prompt": "zathroth",
+        "answer": [
+          "You are scaring me with that name. Please stop it."
+        ]
+      },
+      {
+        "prompt": "uman",
+        "answer": [
+          "I know enough about magic to know that it is too dangerous."
+        ]
+      },
+      {
+        "prompt": "banor",
+        "answer": [
+          "The barbarians have almost no feeling for the attitude of a real knight."
+        ]
+      },
+      {
+        "prompt": "ferumbras",
+        "answer": [
+          "Shush! Don't speak that name aloud. It might call him here."
+        ]
+      },
+      {
+        "prompt": "excalibug",
+        "answer": [
+          "Sorry, I think we are out of stock."
+        ]
+      },
+      {
+        "prompt": "bye",
         "answer": [
           "Good bye, Player."
         ]
