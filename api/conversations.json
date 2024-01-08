@@ -116143,204 +116143,270 @@
     "name": "Jessica",
     "conversation": [
       {
-        "prompt": "Hi",
+        "prompt": "hi",
         "answer": [
           "Greetings stranger. Let me know if you want to trade gems or jewellery. I am also the local bank contact."
         ]
       },
       {
-        "prompt": "Name",
+        "prompt": "how are you",
         "answer": [
-          "My name is Jessica."
+          "I am fine. Odd that you ask though ... I hope you are not up to something."
         ]
       },
       {
-        "prompt": "Job",
+        "prompt": "name",
         "answer": [
-          "I sell jewellery and serve as the local bank contact."
+          "My name is Jessica"
         ]
       },
       {
-        "prompt": "Jewellery",
+        "prompt": "news",
         "answer": [
-          "Currently you can purchase Wedding Rings, Golden Amulets, and Ruby Necklaces. We also buy Gold Ingots."
+          "There are no news. I think that's quite suspicious"
         ]
       },
       {
-        "prompt": "Bank",
-        "answer": [
-          "We can change money for you. You can also access your bank account."
-        ]
-      },
-      {
-        "prompt": "Bored",
-        "answer": [
-          "Okay okay, no need to be rude! It seems you are already know everything."
-        ]
-      },
-      {
-        "prompt": "Money",
-        "answer": [
-          "We can change money for you. You can also access your bank account."
-        ]
-      },
-      {
-        "prompt": "Advanced",
-        "answer": [
-          "Renting a house has never been this easy. Simply make a bid for an auction. We will check immediately if you have enough money ...",
-          "Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month."
-        ]
-      },
-      {
-        "prompt": "Mission / task",
+        "prompt": "quest / mission",
         "answer": [
           "I don't have anything to do for you."
         ]
       },
       {
-        "prompt": "King",
+        "prompt": "rumour",
+        "answer": [
+          "I heard the jarl opened a head hunt on the Venoreans. As this is a secret, you have to use the keyword blubber to gain his trust in that case. He promised 1000 gold for every dead Venorean hunter."
+        ]
+      },
+      {
+        "prompt": "everspring",
+        "answer": [
+          "That's some afterlife myth of the locals."
+        ]
+      },
+      {
+        "prompt": "raiders",
+        "answer": [
+          "Of course those raiders work for Venore. The only question is if they are aware of it or not."
+        ]
+      },
+      {
+        "prompt": "barbarian",
+        "answer": [
+          "Those are simple people. Sadly, they have been influenced by others."
+        ]
+      },
+      {
+        "prompt": "yeti",
+        "answer": [
+          "There are no yetis. That's just another story to draw off our attention from what is really happening."
+        ]
+      },
+      {
+        "prompt": "bonelords",
+        "answer": [
+          "It's too cold for bonelords here."
+        ]
+      },
+      {
+        "prompt": "chakoya",
+        "answer": [
+          "We have never ever seen one here. Instead of talking about far-off chakoyas, they should concentrate on REAL threats like the Venoreans."
+        ]
+      },
+      {
+        "prompt": "elf",
+        "answer": [
+          "The elves are not interested in our problems at all."
+        ]
+      },
+      {
+        "prompt": "dwarf",
+        "answer": [
+          "There is a mine but no dwarfs. What do they know what we don't, I ask you? I am convinced they know that Venore will make anyone suffer that is trying to claim these mines."
+        ]
+      },
+      {
+        "prompt": "monster",
+        "answer": [
+          "There are enough monsters around to suit the taste of any adventurer. It's all too easy to forget the Venorean threat here."
+        ]
+      },
+      {
+        "prompt": "enemies",
+        "answer": [
+          "Well, there is Venore and there are those who work for Venore. They SEEM to lack any interest in here but I know it better! The frightening thing is that we have no idea to what they are up this time."
+        ]
+      },
+      {
+        "prompt": "svargrond",
+        "answer": [
+          "This wannabe city full of hardly civilised barbarians is a dangerous mixture. It takes little for the Venorean agents to cause havoc here."
+        ]
+      },
+      {
+        "prompt": "thais",
+        "answer": [
+          "Thais is just a puppet of Venore without knowing it."
+        ]
+      },
+      {
+        "prompt": "port hope / edron",
+        "answer": [
+          "All Thaian colonies are in the firm grip of the schemes of Venorean trade barons."
+        ]
+      },
+      {
+        "prompt": "camps",
+        "answer": [
+          "I wonder what we'd find in the camps of those raiders. Some weapons and goods from far away Venore perhaps?"
+        ]
+      },
+      {
+        "prompt": "nibelor",
+        "answer": [
+          "Some mysterious isle which was hardly seen by any outsider. I wonder what's happening there in all that secrecy."
+        ]
+      },
+      {
+        "prompt": "join",
+        "answer": [
+          "In an obscure ceremony, people might become honourary barbarians."
+        ]
+      },
+      {
+        "prompt": "honourary",
+        "answer": [
+          "A questionable honour if you ask me. And I heard the test is quite dangerous too."
+        ]
+      },
+      {
+        "prompt": "jarl / leader",
+        "answer": [
+          "The local chieftain does nothing to help us. It would be so easy for him to drive those other barbarians away from the mines. I suspect he was bribed to remain inactive by agents of Venore."
+        ]
+      },
+      {
+        "prompt": "king",
         "answer": [
           "The king in Thais works for the Venorean trade barons. I can't imagine what sinister ideas they might implant into his mind right now."
         ]
       },
       {
-        "prompt": "Gods",
+        "prompt": "queen",
         "answer": [
-          "The gods only help those who help themselves."
+          "If only our queen would know, how the Venoreans are scheming her downfall."
         ]
       },
       {
-        "prompt": "Druid",
+        "prompt": "druids",
         "answer": [
           "We had hardly any assistance from the druids here. I think that's more than suspicious ...",
           "There might be some agent from Venore who has been infiltrated into their ranks. It is also possible that these treehuggers were bribed with a handful of acorns. Who knows!"
         ]
       },
       {
-        "prompt": "Ferumbras",
-        "answer": [
-          "There are enough heroes around to take care of those obvious threats."
-        ]
-      },
-      {
-        "prompt": "Edron",
-        "answer": [
-          "All Thaian colonies are in the firm grip of the schemes of Venorean trade barons."
-        ]
-      },
-      {
-        "prompt": "Svargrond",
-        "answer": [
-          "This wannabe city full of hardly civilised barbarians is a dangerous mixture. It takes little for the Venorean agents to cause havoc here."
-        ]
-      },
-      {
-        "prompt": "Venore",
-        "answer": [
-          "The trade barons are the worst enemies one can have. They have their hidden agents everywhere and murder and treachery are natural to them."
-        ]
-      },
-      {
-        "prompt": "Dwarf",
-        "answer": [
-          "There is a mine but no dwarfs. What do they know what we don't, I ask you? I am convinced they know that Venore will make anyone suffer that is trying to claim these mines."
-        ]
-      },
-      {
-        "prompt": "Elf",
-        "answer": [
-          "The elves are not interested in our problems at all."
-        ]
-      },
-      {
-        "prompt": "Chakoya",
-        "answer": [
-          "We have never ever seen one here. Instead of talking about far-off chakoyas, they should concentrate on REAL threats like the Venoreans."
-        ]
-      },
-      {
-        "prompt": "Yeti",
-        "answer": [
-          "There are no yetis. That's just another story to draw off our attention from what is really happening."
-        ]
-      },
-      {
-        "prompt": "Cult",
-        "answer": [
-          "Spare me with that cult stories. This was no cult but some Venorean agents who were heading to their hired barbarians which had occupied our mines."
-        ]
-      },
-      {
-        "prompt": "Talons",
-        "answer": [
-          "We don't trade with them."
-        ]
-      },
-      {
-        "prompt": "Jarl",
-        "answer": [
-          "The local chieftain does nothing to help us. It would be so easy for him to drive those other barbarians away from the mines. I suspect he was bribed to remain inactive by agents of Venore."
-        ]
-      },
-      {
-        "prompt": "Barbarians",
-        "answer": [
-          "Those are simple people. Sadly, they have been influenced by others."
-        ]
-      },
-      {
-        "prompt": "Mines",
-        "answer": [
-          "How convenient for Venore that we lost control over the mines. And isn't it also convenient for Venore that Carlin seems to lack interest to recapture the mines. I'd say that smells like conspiracy."
-        ]
-      },
-      {
-        "prompt": "Shamans",
+        "prompt": "shamans",
         "answer": [
           "I can't say that I trust these fellows."
         ]
       },
       {
-        "prompt": "Chyll",
+        "prompt": "cult",
+        "answer": [
+          "Spare me with that cult stories. This was no cult but some Venorean agents who were heading to their hired barbarians which had occupied our mines."
+        ]
+      },
+      {
+        "prompt": "mines",
+        "answer": [
+          "How convenient for Venore that we lost control over the mines. And isn't it also convenient for Venore that Carlin seems to lack interest to recapture the mines. I'd say that smells like conspiracy."
+        ]
+      },
+      {
+        "prompt": "chyll",
         "answer": [
           "That belongs to some superstitious belief of the locals."
         ]
       },
       {
-        "prompt": "Nibelor",
-        "answer": [
-          "Some mysterious isle which was hardly seen by any outsider. I wonder what's happening there in all that secrecy."
-        ]
-      },
-      {
-        "prompt": "Years Of Serpents",
+        "prompt": "years of the serpents",
         "answer": [
           "The sea serpents were surely the work of Venore. They are the only ones that are unscrupulous enough to execute such a plan. Their disappearance was just part of some conspiracy to lure us here for some reason ...",
           "I am only wondering how the Venoreans managed to lure that many serpents to the north."
         ]
       },
       {
-        "prompt": "How Are You?",
+        "prompt": "gods / zathroth / uman / banor",
         "answer": [
-          "I am fine. Odd that you ask though ... I hope you are not up to something."
+          "The gods only help those who help themselves."
         ]
       },
       {
-        "prompt": "News",
+        "prompt": "ferumbras",
         "answer": [
-          "There are no news. I think that's quite suspicious."
+          "There are enough heroes around to take care of those obvious threats."
         ]
       },
       {
-        "prompt": "Rumours",
+        "prompt": "excalibug",
         "answer": [
-          "I heard the jarl opened a head hunt on the Venorans. As this is a secret, you have to use the keyword \"blubber\" to gain his trust in that case. He promised 1000 gold for every dead Venorean hunter."
+          "If that weapon existed, some greedy Venorean would have dug it up and sold it to the highest bidder."
         ]
       },
       {
-        "prompt": "Bye",
+        "prompt": "offer",
         "answer": [
-          "Good bye."
+          "Well, I'm a bank clerk and also sell gems and goblets. If you'd like to see my offers, ask me for a trade. I can also tell you about the functions of this bank."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Here, take a look."
+        ]
+      },
+      {
+        "prompt": "goblets",
+        "answer": [
+          "Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication."
+        ]
+      },
+      {
+        "prompt": "sell",
+        "answer": [
+          "I sell and buy gems and jewellery. I also serve as the local bank clerk."
+        ]
+      },
+      {
+        "prompt": "gems",
+        "answer": [
+          "You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes."
+        ]
+      },
+      {
+        "prompt": "jewel",
+        "answer": [
+          "Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots."
+        ]
+      },
+      {
+        "prompt": "pearls",
+        "answer": [
+          "There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell."
+        ]
+      },
+      {
+        "prompt": "talons",
+        "answer": [
+          "We don't trade with them."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Good bye.",
+          "<SARCASTIC> AND GOOD BYE TO YOU TOO!"
         ]
       }
     ]
