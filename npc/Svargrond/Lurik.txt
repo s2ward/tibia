@@ -71,6 +71,8 @@ Player: monster
 Lurik: There are many dangerous creatures that roam our isles. But having seen what men can do to each other, I wouldn't call any of them a monster.
 Player: enemies
 Lurik: This is a dangerous, unforgiving land. If you leave the city, you will have to deal with creatures that survive in this harsh environment. They are for sure a challenge for the unwary.
+Player: monster
+Lurik: There are many dangerous creatures that roam our isles. But having seen what men can do to each other, I wouldn't call any of them a monster.
 Player: thais
 Lurik: We understand that our friends from Carlin are wary with the realm ruled by Thais but this is not of our concern.
 Player: carlin
