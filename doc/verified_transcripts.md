@@ -573,6 +573,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Krimhorn</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Freezhild</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Freezhild.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Nor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Krimhorn/Nor.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nelly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nelly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nibelor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nibelor)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hjaern</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nibelor/Hjaern.txt)  
