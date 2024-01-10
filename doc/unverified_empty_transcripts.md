@@ -393,7 +393,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Formorgar Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Dragon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines/A_Dragon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gelidrazah's Thirst</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Gelidrazah's_Thirst.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Lurik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Nomad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nomad.txt)  
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Biff The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Biff_The_Baker.txt)  
