@@ -103738,7 +103738,38 @@
   {
     "file": "npc/Farmine/Vengoth_Mountain_Caves/Tatak.txt",
     "name": "Tatak",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Ungh."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "Tatak!"
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "Ai, eh."
+        ]
+      },
+      {
+        "prompt": "(any)",
+        "answer": [
+          "No, no. No. No speek!"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Ugha."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Vengoth/Garzon.txt",
