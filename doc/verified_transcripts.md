@@ -579,6 +579,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hjaern</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nibelor/Hjaern.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nilsor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nibelor/Nilsor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Siflind</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nibelor/Siflind.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nomad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Nomad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Percht Island</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Percht_Island)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Frosty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Percht_Island/Frosty.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rashid</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Rashid.txt)  
