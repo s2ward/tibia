@@ -179,8 +179,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Vuzrog</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Krailos/Ogre_Village/Vuzrog.txt)  
 ├─&nbsp;&nbsp;<strong>Liberty Bay</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Billy The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Billy_The_Baker.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Goroma</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Atrad</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Goroma/Atrad.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nargor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Polly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Polly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Skeleton Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Skeleton_Guard.txt)  
