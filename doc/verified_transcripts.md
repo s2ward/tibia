@@ -298,6 +298,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnome Guard Captain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnome_Guard_Captain.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnome Guard Night Shift</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnome_Guard_Night_Shift.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnome Outer Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnome_Outer_Guard.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnominimus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnominimus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnomus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klom Stonecutter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Klom_Stonecutter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lardoc Bashsmite</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Lardoc_Bashsmite.txt)  
