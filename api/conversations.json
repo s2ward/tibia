@@ -103871,7 +103871,14 @@
   {
     "file": "npc/Farmine/Vengoth/Garzon.txt",
     "name": "Garzon",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "(does not respond)"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Farmine/Vengoth/A_Wandering_Soul.txt",
