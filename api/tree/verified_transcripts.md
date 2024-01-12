@@ -322,6 +322,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnominus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnomegate/Gnominus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomission</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnomegate/Gnomission.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomole</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnomegate/Gnomole.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomystery</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnomystery.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grodrik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grodrik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hemor&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Hemor,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Humgolf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Humgolf.txt)  

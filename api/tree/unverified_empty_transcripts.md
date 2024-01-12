@@ -259,7 +259,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnomus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klom Stonecutter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Klom_Stonecutter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lardoc Bashsmite</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Lardoc_Bashsmite.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomystery</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnomystery.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grotto of the Lost</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">GNOPS Member</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost/GNOPS_Member.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomenerdia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost/Gnomenerdia.txt)  
