@@ -561,6 +561,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dankwart</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Dankwart.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eirik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Eirik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Formorgar Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Dragon Mother</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines/A_Dragon_Mother.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Restless Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Formorgar_Mines/A_Restless_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fynn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Fynn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimlund</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Grimlund)  
