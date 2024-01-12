@@ -273,6 +273,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">The Librarian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/The_Librarian.txt)  
 ├─&nbsp;&nbsp;<strong>Kazordoon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bezil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Bezil.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brodraem Orcbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Brodraem_Orcbeard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brodrosch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Brodrosch.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cruleo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Cruleo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dukosch</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Dukosch.txt)  

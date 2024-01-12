@@ -247,7 +247,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Antrum of the Fallen</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Antrum_of_the_Fallen)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomoney</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Antrum_of_the_Fallen/Gnomoney.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomonster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Antrum_of_the_Fallen/Gnomonster.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brodraem Orcbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Brodraem_Orcbeard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brom</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Brom.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Burt</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Burt.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dwarf Outpost Soldier</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Dwarf_Outpost_Soldier.txt)  
