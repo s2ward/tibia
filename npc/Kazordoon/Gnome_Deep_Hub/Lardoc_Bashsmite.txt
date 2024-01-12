@@ -1,0 +1,30 @@
+Player: hi
+Lardoc Bashsmite: Since you are obviously not one of my relatives who pays me a long overdue visit, we should get work right away. We'll see if you can prove your worth to our alliance.
+Player: name
+Lardoc Bashsmite: Bashsmite. That's all you need to know.
+Player: time
+Lardoc Bashsmite: Time for action, recruit - now get back to work.
+Player: job
+Lardoc Bashsmite: Leading the charge! It's a war down here. I maintain the outer defences and supplies which are organised back in Kazordoon and also by the gnomes. ...
+Lardoc Bashsmite: I have sealed some of the areas far too dangerous for anyone to enter. If you can prove you're capable, you'll get an opportunity to help destroying the weird machines, pumping lava into the caves leading to the most dangerous enemies.
+Player: rumours / news
+Lardoc Bashsmite: Well, swell. We're defending this position, we got barely enough warriors to fight of all the threats and we're being attacked aggressively with no end in sight.
+Player: work / mission
+Lardoc Bashsmite: Here's the situation: a tide of hazardous bugs, the gnomes named them diremaws, threatens our base. Then there is some kind of growth which seems connected to them somehow. We need to get rid of both.
+Player: Growth
+Lardoc Bashsmite: Our explosive barrel depot is still unguarded and those diremaws are almost impossible to control if we don't do something against those sponges they seem to love so much ...
+Lardoc Bashsmite: We need someone to take those barrels to the source of the ever growing sponge and burn it down. All of it. There should be at least three locations, possibly even more. Are you up for that?
+Player: diremaws
+Lardoc Bashsmite: If I understood the gnomes correctly, they actually 'grew' a device to completely neutralise diremaw corpses. ...
+Lardoc Bashsmite: A lot of diremaw remains are lying around wherever these creatures are being hunted. Now we need more volunteers to clean up as many of those remains as possible ...
+Lardoc Bashsmite: Are you willing to help us again?
+Player: worth
+Lardoc Bashsmite: You're already known amongst the gnomes, member of the Bigfoot Brigade. I will make sure that the alliance learns of your deeds but you'll still need to help the dwarves and gnomes of this outpost to show your worth. ...
+Lardoc Bashsmite: We also found suspicious devices carried by all kinds of creatures down here. Down here, they are of extreme worth to us since they could contain the key to what's happening all around us. ...
+Lardoc Bashsmite: If you can aquire any, return them to me and I make sure to tell the others of your generosity. Return to me afterwards to check on your current status.
+Player: suspicious devices
+Lardoc Bashsmite: If you bring me any suspicious devices on creatures you slay down here, I'll make it worth your while by telling the others of your generosity. How many do you want to offer?
+Player: status
+Lardoc Bashsmite: So you want to know what we all think about your deeds? What leader's opinion are you interested in, the gnomes (Gnomus), the dwarves (Klom Stonecutter) or the scouts (Lardoc Bashsmite)?
+Player: bye
+Lardoc Bashsmite: Hmph.
