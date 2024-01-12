@@ -355,6 +355,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Storkus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Storkus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Talphion</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Talphion.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tezila</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Tezila.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Too Hot To Handle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomevisor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Too_Hot_To_Handle/Gnomevisor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tulf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Tulf.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uzgod</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Uzgod.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Xelvar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Xelvar.txt)  
