@@ -72,7 +72,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Urks The Mute</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Primal_Gnome_Hub/Urks_The_Mute.txt)  
 ├─&nbsp;&nbsp;<strong>Farmine</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Sleeping Dragon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/A_Sleeping_Dragon.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Crowned Tree</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Crowned_Tree.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zizzle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Zizzle.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
