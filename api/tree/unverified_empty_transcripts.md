@@ -253,8 +253,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Femor Hills</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thanita</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills/Thanita.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Uzon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills/Uzon.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Gnome Deep Hub</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnominimus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnominimus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grotto of the Lost</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">GNOPS Member</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost/GNOPS_Member.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomenerdia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost/Gnomenerdia.txt)  
