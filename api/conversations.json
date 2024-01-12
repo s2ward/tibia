@@ -85570,7 +85570,57 @@
   {
     "file": "npc/Kazordoon/Brodraem_Orcbeard.txt",
     "name": "Brodraem_Orcbeard",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "hi",
+        "answer": [
+          "Welcome! What a tragedy! My business was doing well but now these unexpected incidents queered my pitch."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "My name is Brodraem Orcbeard."
+        ]
+      },
+      {
+        "prompt": "job",
+        "answer": [
+          "I am the grave digger of the recently opened Kazordoon crypt. This should be a place to keep a worthy memory to all deceased inhabitants of this town."
+        ]
+      },
+      {
+        "prompt": "business",
+        "answer": [
+          "Well, I have to make the coffins and sarcophagi my customers want. Their wishes can be very different and sometimes impossible."
+        ]
+      },
+      {
+        "prompt": "incidents",
+        "answer": [
+          "First I thought it would be enough to clean the sarcophagi more often. But then some of the floor tiles broke and some columns crumbled. ...",
+          "I had so much to do that I had to stop my business. You want me to hire you for investigating the crypt?"
+        ]
+      },
+      {
+        "prompt": "no",
+        "answer": [
+          "It is your decision. Come back if you have changed your mind. Otherwise I have to find someone else. (idle)"
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Keep up your good work, Player."
+        ]
+      },
+      {
+        "prompt": "(vanish)",
+        "answer": [
+          "Take care!"
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Kazordoon/Humnog,_The_Guard.txt",
