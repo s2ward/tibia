@@ -20346,7 +20346,104 @@
   {
     "file": "npc/Liberty_Bay/Goroma/Atrad.txt",
     "name": "Atrad",
-    "conversation": []
+    "conversation": [
+      {
+        "prompt": "(idle)",
+        "answer": [
+          "Oh man, how do I deserve being constantly bugged by those kids..."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "What the hell are you doing here? Get out, you're not hot enough for my taste. (idle)"
+        ]
+      },
+      {
+        "prompt": "hi (burning)",
+        "answer": [
+          "Hehe. That's a good show, Player With all the pyrotechnical effects, you got my attention - for a minute at least."
+        ]
+      },
+      {
+        "prompt": "name",
+        "answer": [
+          "You know my name already, else you wouldn't have come pestering me. You're boring. Get out."
+        ]
+      },
+      {
+        "prompt": "hi",
+        "answer": [
+          "Hehe. That's a good show, Player With all the pyrotechnical effects, you got my attention - for a minute at least."
+        ]
+      },
+      {
+        "prompt": "job / attention",
+        "answer": [
+          "I'm the bad guy with the big katana."
+        ]
+      },
+      {
+        "prompt": "bad guy",
+        "answer": [
+          "You're pretty good at repeating words, eh? You're boring. Get out. (idle)"
+        ]
+      },
+      {
+        "prompt": "katana",
+        "answer": [
+          "That's mine. Don't touch it."
+        ]
+      },
+      {
+        "prompt": "assassin",
+        "answer": [
+          "Kids shouldn't play with sharp objects."
+        ]
+      },
+      {
+        "prompt": "trade",
+        "answer": [
+          "Nope, I don't think I got anything for you."
+        ]
+      },
+      {
+        "prompt": "trade (after quest)",
+        "answer": [
+          "Okay, I guess you might be able to handle it."
+        ]
+      },
+      {
+        "prompt": "vescu",
+        "answer": [
+          "He is a drunken fool."
+        ]
+      },
+      {
+        "prompt": "erayo",
+        "answer": [
+          "He's a smart one. He doesn't talk much, but he has a sharp mind."
+        ]
+      },
+      {
+        "prompt": "addon / outfit (after quest)",
+        "answer": [
+          "You look like an assassin now. But does that mean that you are one? I doubt it."
+        ]
+      },
+      {
+        "prompt": "bye",
+        "answer": [
+          "Goodbye, and keep your fire burning."
+        ]
+      },
+      {
+        "prompt": "(vanish)",
+        "answer": [
+          "I guess someone blew out the candle."
+        ]
+      }
+    ]
   },
   {
     "file": "npc/Liberty_Bay/Goroma/Jack_Fate.txt",
