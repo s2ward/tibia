@@ -148,7 +148,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Thanita</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Femor_Hills/Thanita.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Gnome Deep Hub</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnominimus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnominimus.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Gnomus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klom Stonecutter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Klom_Stonecutter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lardoc Bashsmite</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Gnome_Deep_Hub/Lardoc_Bashsmite.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grotto of the Lost</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Grotto_of_the_Lost)  
