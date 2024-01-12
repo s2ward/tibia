@@ -1,0 +1,64 @@
+Player: hi
+Gnomus: Greetings, member of the Bigfoot Brigade. We could really use some help from you right now. You should prove worthy to our alliance.
+Player: name
+Gnomus: My name is Gnomus.
+Player: job
+Gnomus: I'm the main gnomish contact for this base. I coordinate our efforts with those of the dwarves to ensure everything is running smoothly.
+Player: time
+Gnomus: Indeed it's been some time since the last reinforcements arrived. We need as much help as we can get out here.
+Player: base
+Gnomus: Gnomish supplies and ingenuity have helped to establish and fortify this outpost. ...
+Gnomus: Our knowledge of the enemy and it's tactics would be of more use if the dwarves would listen to us somewhat more. But gnomes have learned to live with the imperfection of the other races.
+Player: efforts
+Gnomus: Our surveys of the area showed us some spikes in heat and seismic activity at very specific places. ...
+Gnomus: We conclude this is no coincidence and the enemy is using devices to pump up the lava to flood the area. We have seen it before and had to retreat each time. ...
+Gnomus: This time though we might have a counter prepared - given me manage to pierce their defences.
+Player: rumours / news
+Gnomus: If you're interested in how our analysis of the Big Crimson is getting along, I suggest you take a look at it yourself. We are as puzzled as you are right now.
+Player: dwarf
+Gnomus: The dwarfs are a bit gruffly and grumpy but if you learn to get along with them they are actually quite entertaining. ...
+Gnomus: And you can't deny they have a knack for metals and smithing which comes in handy down here. Moreover, they know how to swing an axe at those nasties from below. ...
+Gnomus: They tend to behave somewhat stubborn though - and with somewhat I mean extremely.
+Player: those below
+Gnomus: Those below are up to no good. But what might be their current plan is up to speculation. ...
+Gnomus: Our best guess is they want to overtake this area. Given the severity of attacks has lessened a bit may hint at them planning something else - and by something else I mean something huge and nasty.
+Player: planning
+Gnomus: Those below are still an enigma to us. They are the puppeteers that orchestrated numerous attacks on our hold from the deepest depths of the world. ...
+Gnomus: But they are not content with what they have conquered, they want more - they want all.
+Player: puppeteers
+Gnomus: They bound several beasts and lesser races to their service. We don't know if or how they communicate with them. ...
+Gnomus: Now and then we encounter some of their most powerful minions. We assume they're higher ranks, probably some kind of generals.
+Player: generals
+Gnomus: Even those come not from a single race but several. We assume they are the most powerful specimens of their kind and have earned some status in the ranks of those bellow. ...
+Gnomus: As for the creatures behind all this, we know almost nothing at all about them.
+Player: nothing
+Gnomus: For all we know it's not only one individual though, but if it's some enigmatic race or some kind of coalition we can't tell. ...
+Gnomus: They don't even seem to think like any other creature that we have encountered before. This makes it even harder to figure out their plans and impossible to negotiate at all.
+Player: worthy
+Gnomus: You're already known amongst the gnomes, member of the Bigfoot Brigade. I will make sure that the alliance learns of your deeds but you'll still need to help the dwarves and gnomes of this outpost to show your worth. ...
+Gnomus: We also found suspicious devices carried by all kinds of creatures down here. Down here, they are of extreme worth to us since they could contain the key to what's happening all around us. ...
+Gnomus: If you can aquire any, return them to me and I make sure to tell the others of your generosity. Return to me afterwards to check on your current status.
+Player: suspicious devices
+Gnomus: If you bring me any suspicious devices on creatures you slay down here, I'll make it worth your while by telling the others of your generosity. How many do you want to offer?
+Player: status
+Gnomus: So you want to know what we all think about your deeds? What leader's opinion are you interested in, the gnomes (Gnomus), the dwarves (Klom Stonecutter) or the scouts (Lardoc Bashsmite)?
+Player: missions / help
+Gnomus: If you're willing to help us, we could need an escort for arriving ordnance, help with charting the cave system and someone needs to get some heat measurements fast.
+Player: Ordnance
+Gnomus: New ordnance is about to arrive at the crystal teleporter to the east of the cave system. We need someone to navigate the new arrivals through the hazards of the dangerous caves. ...
+Gnomus: Hideous creatures and hot lava makes travelling extremely dangerous. And on top of that there is also the constant danger from falling rocks in the area. ...
+Gnomus: Are you willing to help?
+Player: measurements
+Gnomus: We need to find out what the rising heat means for this place and for us gnomes. You can help us do this by grabbing one of our trignometres and collecting as much as data from the heat in this area as possible. ...
+Gnomus: Are you willing to do this?
+Player: charting
+Gnomus: We need more information on the ancient structures you already helped us with. As we have still have a lot on our plates, we could need your help once again to chart the unknown parts of this underground labyrinth ...
+Gnomus: I am especially interested in the scattered dark structures around these parts. Would you do that?
+Player: ordnance
+Gnomus: So you find them, bring them to safety and if you can spare the time - take care of some of their pack animals, too!
+Player: measurements
+Gnomus: Use a trignometre from the stack behind me next to a source of extreme heat. The device will tell us what really happens with the temperature down here.
+Player: charting
+Gnomus: Try to find as many of the ancient structures around here as possible. You may have to travel a bit around if you really want to get all of them.
+Player: bye
+Gnomus: Alright, goodbye then.
