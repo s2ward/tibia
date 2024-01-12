@@ -48,7 +48,7 @@ def process_file(file_name, input_name):
                 line = re.sub(r'^\d{2}:\d{2}\s+', '', line)  # Remove timestamps
                 line = re.sub(r'\[\d+\]', '', line)  # Remove [n] where n is any number
                 line = re.sub(rf'({input_name})(\W)*:', 'Player:', line)  # Replace input_name with "Player" before the colon
-                line = re.sub(rf'({input_name})(\W)+', 'Player ', line)  # Replace input_name followed by a non-word character with "Player"
+                line = re.sub(rf'({input_name})(\W?)', 'Player\\2', line)  # Replace input_name followed by an optional non-word character with "Player"
                 line = line.strip()  # Remove leading/trailing whitespaces
 
                 if line:  # Print to console only if the line is not empty
