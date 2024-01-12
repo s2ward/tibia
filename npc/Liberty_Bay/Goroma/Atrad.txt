@@ -1,0 +1,32 @@
+Player: (idle)
+Atrad: Oh man, how do I deserve being constantly bugged by those kids...
+Player: hi
+Atrad: What the hell are you doing here? Get out, you're not hot enough for my taste. (idle)
+Player: hi (burning)
+Atrad: Hehe. That's a good show, Player With all the pyrotechnical effects, you got my attention - for a minute at least.
+Player: name
+Atrad: You know my name already, else you wouldn't have come pestering me. You're boring. Get out.
+Player: hi
+Atrad: Hehe. That's a good show, Player With all the pyrotechnical effects, you got my attention - for a minute at least.
+Player: job / attention
+Atrad: I'm the bad guy with the big katana.
+Player: bad guy
+Atrad: You're pretty good at repeating words, eh? You're boring. Get out. (idle)
+Player: katana
+Atrad: That's mine. Don't touch it.
+Player: assassin
+Atrad: Kids shouldn't play with sharp objects.
+Player: trade
+Atrad: Nope, I don't think I got anything for you.
+Player: trade (after quest)
+Atrad: Okay, I guess you might be able to handle it.
+Player: vescu
+Atrad: He is a drunken fool.
+Player: erayo
+Atrad: He's a smart one. He doesn't talk much, but he has a sharp mind.
+Player: addon / outfit (after quest)
+Atrad: You look like an assassin now. But does that mean that you are one? I doubt it.
+Player: bye
+Atrad: Goodbye, and keep your fire burning.
+Player: (vanish)
+Atrad: I guess someone blew out the candle.
