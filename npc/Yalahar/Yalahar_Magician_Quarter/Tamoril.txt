@@ -86,5 +86,11 @@ Player: life
 Tamoril: The desire for life is connected to the restlessness of undeath and the longing for days long lost. This trial means to visit three places connected to the power of living. Only if you do this you will be able to enter Zorvorax' secret lair.
 Player: living
 Tamoril: I never thought about it, little human. Perhaps it could be something connected to the elves. Or a druidic site. Or maybe it is something symbolic. Like water in the desert, that kind of romantic stuff.
+Player: find
+Tamoril: What do you want to do, if you know about these mighty dragons' abodes? Go there and look for a fight?
+Player: no
+Tamoril: Hrhrhr, I thought so, cowardly little human. (idle)
+Player: yes
+Tamoril: Good luck then.
 Player: bye  
 Tamoril: Come back if you dare, Player.  
