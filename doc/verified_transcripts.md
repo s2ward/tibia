@@ -223,6 +223,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thorgrin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Thorgrin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Vengoth</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Fading Memory</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/A_Fading_Memory.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Wandering Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/A_Wandering_Soul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Garzon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/Garzon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Harlow</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/Harlow.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Melian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth/Melian.txt)  
