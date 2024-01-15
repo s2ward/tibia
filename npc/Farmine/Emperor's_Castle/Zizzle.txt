@@ -6,11 +6,9 @@ Player: mission
 Zizzle: You have your orderz, good luck. I will wait here until.. until Zalamon requeztz me to return, yez.. yez.
 Player: (any)
 Zizzle: Zere iz no time to chat, ziz matter iz urgent.
-Player: bye
-Zizzle: Ze Great Znake may guide you.
-Player: mizzion / mission (spoilers ahead)
+Player: mizzion / mission 
 Zizzle: You made it! Az zoon az you are prepared, I will brief you for your nexzt mizzion.
-Player: mizzion / mission
+Player: mizzion / mission (Wrath of the Emperor - Mission 09: The Sleeping Dragon)
 Zizzle: Ze dragon emperor controlz ze whole empire wiz hiz willpower. But even he iz not powerful enough to uze ziz control continuouzly wizout zome form of aid. ...
 Zizzle: From what I learnt from my informantz, ze emperor uzez zome kind of magic cryztalz zat amplify hiz powerz and tranzmit hiz will into ze land. ...
 Zizzle: Wiz ze ancient zeptre zat you acquired for uz earlier, I can charge ozer zeptrez wiz azpectz of power of ze Great Znake. If you manage to touch one of ze tranzmitter cryztalz wiz ze zeptre, itz godly power will realign ze cryztal. ...
@@ -25,11 +23,9 @@ Player: yes
 Zizzle: Didn't exzpect anyzing lezz from you. Alright, zankz to your effortz to build an effective reziztanze, our comradez zalvaged ziz potion and ze formula you need to utter to breach hiz zubconzciouznezz. ...
 Zizzle: Drink it and when you are cloze to ze dragon zpeak: Z...z.. well, juzt take ze sheet wiz ze word and read it yourzelf. A lot of rebelz have died to retrieve ziz information, uze it wizely. ...
 Zizzle: Now go and try to find a way to reach ze emperor and to free ze land from it'z opprezzor. Onze you have found a way, return to me and I will explain what to do wiz ze cryztalz. May ze Great Znake guide you!
-Player: (any word)
-Zizzle: Zere iz no time to chat, ziz matter iz urgent.
 Player: mizzion / mission
 Zizzle: Find ze zleeping dragon in front of ze gate he iz guarding and free him.
-Player: mizzion / mission (after awakening A Sleeping Dragon)
+Player: mizzion / mission (Wrath of the Emperor -  Mission 10: A Message of Freedom)
 Zizzle: You freed ze dragon! And you pozzezz ze key to enter ze inner realmz of ze emperor, well done. ...
 Zizzle: Now you are ready to reach ze inner zanctum of ze emperor. Zalamon'z revelationz showed him zat zere are four cryztalz channelling ze will of ze emperor into ze land. ...
 Zizzle: Wiz ze relic you gained from Zalamon we were able to create powerful replicaz of ze zeptre. Take ziz wiz you. ...
@@ -44,3 +40,5 @@ Player: no
 Zizzle: Off you go zen. I wish you luck.
 Player: yes
 Zizzle: Oh come on, it may be a replica but ziz iz ztill hard to come by. We run out of time. Hm, come back later I will zee what I can do.
+Player: bye
+Zizzle: Ze Great Znake may guide you.
