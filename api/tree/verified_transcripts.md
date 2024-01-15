@@ -182,6 +182,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Zarganash</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zarganash)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Flickering Soul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zarganash/Flickering_Soul.txt)  
 ├─&nbsp;&nbsp;<strong>Farmine</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Sleeping Dragon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/A_Sleeping_Dragon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Broken Servant Sentry</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Broken_Servant_Sentry.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Cael.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Chazorai</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Chazorai)  
