@@ -372,8 +372,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Vasko</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/Ingol/Vasko.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>The Cube (Location)</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location))  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Deepling Idol</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Roshamuul/The_Cube_(Location)/Deepling_Idol.txt)  
-├─&nbsp;&nbsp;<strong>Svargrond</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gelidrazah's Thirst</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Svargrond/Gelidrazah's_Thirst.txt)  
 ├─&nbsp;&nbsp;<strong>Thais</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Biff The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Biff_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Denominator</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Denominator.txt)  
