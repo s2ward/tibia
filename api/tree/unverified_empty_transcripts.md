@@ -168,8 +168,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Sleeping Dragon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/A_Sleeping_Dragon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Emperor's Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zizzle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Emperor's_Castle/Zizzle.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Halls of Ascension</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Heavenly Messenger</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Halls_of_Ascension/Heavenly_Messenger.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Muggy Plains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Strange Chalice</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Muggy_Plains/A_Strange_Chalice.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Vengoth</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/Vengoth)  
