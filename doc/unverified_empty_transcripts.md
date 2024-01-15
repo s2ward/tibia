@@ -164,8 +164,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thomas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Thomas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ursula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Ursula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zoltan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zoltan.txt)  
-├─&nbsp;&nbsp;<strong>Farmine</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Sleeping Dragon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Farmine/A_Sleeping_Dragon.txt)  
 ├─&nbsp;&nbsp;<strong>Feyrist</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dream Labyrinth</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Dream_Labyrinth)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Farhilorn of the Winter Court</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Dream_Labyrinth/Farhilorn_of_the_Winter_Court.txt)  
