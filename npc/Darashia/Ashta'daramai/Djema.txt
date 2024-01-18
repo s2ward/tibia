@@ -10,6 +10,8 @@ Djema: That is my name. I do not like it much, though. Everybody around here cal
 Player: librarian
 Djema: Yes. I administrate the library. You know - registering new books, sorting them in alphabetical order etc. ...
 Djema: To be honest I am not very good in this. Thank goodness daddy gave that magical blackboard to me. It is quite useful.
+Player: blackboard
+Djema: Yes! All books we have are listed in it! The whole library! And the best thing is that whenever a new book is added or one is removed the list is updated by magic. Isn't that great! Take a look!
 Player: dad / gabel / father
 Djema: Gabel is my father. He runs this place. Of course, he is not my real daddy. But he adopted me, you know. Or rather, all the Marid adopted me.
 Player: adopted / parents
