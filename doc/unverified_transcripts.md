@@ -150,7 +150,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Emilie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dermot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Fibula/Dermot.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost Captain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Ghost_Captain.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Greenshore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ulrik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore/Ulrik.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grof&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Grof,_The_Guard.txt)  

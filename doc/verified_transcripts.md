@@ -647,6 +647,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Galuna</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Galuna.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gamel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gamel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gamon</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gamon.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost Captain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Ghost_Captain.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gorn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Gorn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Greenshore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tokel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Greenshore/Tokel.txt)  
