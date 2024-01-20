@@ -51,7 +51,6 @@
 ├─&nbsp;&nbsp;<strong>Darashia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Balduin The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Balduin_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bozarn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Bozarn.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Casper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Casper.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Domizian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Domizian.txt)  
 ├─&nbsp;&nbsp;<strong>Dawnport</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Dawnport)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Coltrayne</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Dawnport/Coltrayne.txt)  
