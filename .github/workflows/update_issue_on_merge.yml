@@ -14,7 +14,7 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Setup Python
       uses: actions/setup-python@v2
@@ -26,6 +26,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install PyGithub
         pip install requests
+
+    - name: Run NPC Progress Script and Set Output
+      id: npc_progress
+      run: |
+        output="$(python src/npc_progress.py api/file_mapping.json)"
+        echo "npc_progress_output=$output" >> $GITHUB_ENV
 
     - name: Update issue
       env:
@@ -84,9 +90,12 @@ jobs:
           issue.create_comment(table)
 
         # Send a message to the Discord channel
+        npc_status_output = os.environ.get('npc_status_output', 'No NPC status output found')
         for f in pr_files:
           file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
+          npc_name = f.split('/')[-1].replace('.txt', '')
+          npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}&s=&a=1&n=1&r=1&k=1&m=1&rc=All&l=All&j=All&v=All&i={npc_name}'
           discord_message = {
-            'content': f'**{pr_opener}** has made a contribution! :first_place: \nFile: [{f}]({file_url})\nIssue: [{pr_title}](<{pr_url}>)'
+            'content': f'**{pr_opener}** has made a contribution! :first_place: \nFile: [{f}]({file_url})\nIssue: [{pr_title}](<{pr_url}>)\n\n**NPC Progress**:\n{npc_progress_output}\n\nRead them on [NPSearch](<{npsearch_url}>)'
           }
           requests.post(discord_webhook_url, json=discord_message)"
