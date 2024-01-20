@@ -50,3 +50,6 @@ if __name__ == '__main__':
         file_path = sys.argv[1]
     else:
         file_path = 'api/file_mapping.json'
+        
+    npc_output = count_npcs(file_path)
+    print(npc_output)
