@@ -1,3 +1,4 @@
+import base64
 import json
 import sys
 
@@ -46,10 +47,18 @@ def count_npcs(file_path):
     return output
 
 if __name__ == '__main__':
+    # Default values
+    file_path = 'api/file_mapping.json'
+    output_format = 'plain'
+
     if len(sys.argv) > 1:
         file_path = sys.argv[1]
-    else:
-        file_path = 'api/file_mapping.json'
+    if len(sys.argv) > 2:
+        output_format = sys.argv[2]
         
     npc_output = count_npcs(file_path)
-    print(npc_output)
+
+    if output_format == 'base64':
+        print(base64.b64encode(npc_output.encode('utf-8')).decode('utf-8'))
+    else:
+        print(npc_output)
