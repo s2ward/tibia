@@ -106,6 +106,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Umar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Ashta'daramai/Umar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asima</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Asima.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Azil</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Azil.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Casper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Casper.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chemar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Chemar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dabui</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Dabui.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Deeper Drefia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Deeper_Drefia)  
