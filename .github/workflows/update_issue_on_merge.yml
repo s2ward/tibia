@@ -30,10 +30,10 @@ jobs:
     - name: Run NPC Status Script and Set Output
       id: npc_status
       run: |
-        output="$(python src/npc_status.py api/file_mapping.json)"
+        output="$(python src/npc_status.py api/file_mapping.json base64)"
         echo "npc_status_output=$output" >> $GITHUB_ENV
-        echo "npc_status_output: $npc_status_output"
-
+        echo "npc_status_output: $output"
+    
     - name: Update issue
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -41,4 +41,9 @@ jobs:
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         GITHUB_EVENT_PATH: ${{ github.event_path }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-      run: python src/update_status.py
+        NPC_STATUS_OUTPUT: ${{ env.npc_status_output }}
+      run: |
+        # Decode the Base64-encoded output before using it
+        npc_status_output=$(echo $NPC_STATUS_OUTPUT | base64 --decode)
+        echo "Decoded NPC Status Output: $npc_status_output"
+        python src/update_status.py
