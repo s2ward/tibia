@@ -86,7 +86,6 @@
 ├─&nbsp;&nbsp;<strong>Darashia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Balduin The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Balduin_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bozarn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Bozarn.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Casper</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Casper.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Caverna Exanima</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Caverna_Exanima)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Angelo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Caverna_Exanima/Angelo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Domizian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Darashia/Domizian.txt)  
