@@ -27,11 +27,11 @@ jobs:
         pip install PyGithub
         pip install requests
 
-    - name: Calculate npc status
-      id: npc_status
+    - name: Run NPC Progress Script and Set Output
+      id: npc_progress
       run: |
-        output="$(python src/npc_status.py)"
-        echo "npc_status_output=$output" >> $GITHUB_ENV
+        output="$(python src/npc_progress.py api/file_mapping.json)"
+        echo "npc_progress_output=$output" >> $GITHUB_ENV
 
     - name: Update issue
       env:
