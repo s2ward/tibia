@@ -32,6 +32,7 @@ jobs:
       run: |
         output="$(python src/npc_status.py api/file_mapping.json)"
         echo "npc_status_output=$output" >> $GITHUB_ENV
+        echo "npc_status_output: $npc_status_output"
 
     - name: Update issue
       env:
@@ -94,8 +95,17 @@ jobs:
         for f in pr_files:
           file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
           npc_name = f.split('/')[-1].replace('.txt', '')
+          npc_progress_output = npc_progress_output.strip()
           npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}&s=&a=1&n=1&r=1&k=1&m=1&rc=All&l=All&j=All&v=All&i={npc_name}'
+          content_lines = [
+            f"**{pr_opener}** has made a contribution! :first_place:",
+            f"File: [{f}]({file_url})",
+            f"Issue: [{pr_title}](<{pr_url}>)",
+            "\n**Project Status**:\n" + npc_progress_output if npc_progress_output else "\n**Project Status**: *Data not available*",
+            f"\nRead them on [NPSearch](<{npsearch_url}>)"
+          ]
+          discord_message_content = "\n".join(content_lines)
           discord_message = {
-            'content': f'**{pr_opener}** has made a contribution! :first_place: \nFile: [{f}]({file_url})\nIssue: [{pr_title}](<{pr_url}>)\n\n**Project Status**:\n{npc_status_output}\n\nRead them on [NPSearch](<{npsearch_url}>)'
+            'content': discord_message_content
           }
           requests.post(discord_webhook_url, json=discord_message)"
