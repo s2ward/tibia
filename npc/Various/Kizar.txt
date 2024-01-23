@@ -1,5 +1,7 @@
 Player: hi
 Kizar: Greetings, brave adventurer!
+Player: name
+Kizar: My name is Kizar.
 Player: dragon
 Kizar: Yes he hired me as his butler so to say. He is a real pain sometimes and requires me to bath in hot water - along with loads of vegetables. However, he is also not worse than my boss before him.
 Player: butler
@@ -17,3 +19,9 @@ Player: toll
 Kizar: There is always this pressure and the possibility of failure. Also, there is a good chance that people hold you - a travelling stranger - responsible for everything from weather to bad harvests.
 Player: responsible
 Kizar: I couldn't stand the pressure anymore and decided I'd prefer working for a dragon.
+Player: ferumbras
+Kizar: He was here as a visitor years ago. He left after a heated argument and never returned.
+Player: gods
+Kizar: I just try not to upset the gods.
+Player: thais
+Kizar: I was born and raised there. Later I travelled the whole world as a bard.
