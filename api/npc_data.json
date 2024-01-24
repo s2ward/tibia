@@ -10969,6 +10969,31 @@
         ]
     },
     {
+        "name":"Hector_The_Mentor",
+        "job":"Tutor",
+        "race":"Human",
+        "gender":"Male",
+        "location":"Thais",
+        "subarea":"",
+        "map":"https://tibiamaps.io/map#32476,32285,7:2",
+        "version":"13.32.14520",
+        "quests": [
+            {
+                "quest-name": "Ravenous Madness",
+                "quest-url": "https://tibia.fandom.com/wiki/Ravenous_Madness_Quest"
+            }
+        ],
+        "dialogues":[
+            "I'm Hector, your combat instructor. I'm here to teach you some basics about combat.",
+            "You look quite adept handling your weapon now. Remember that you can always ask me for help."
+        ],
+        "coordinates":[
+            32476,
+            32285,
+            7
+        ]
+    },
+    {
         "name": "Heliodor",
         "job": "Unknown",
         "race": "Werelion",
