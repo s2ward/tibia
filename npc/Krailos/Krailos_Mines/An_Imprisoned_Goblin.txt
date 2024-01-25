@@ -1,0 +1,72 @@
+Player: hi
+An Imprisoned Goblin: What want with starving goblin, hu-man?
+Player: hi (after quest)
+An Imprisoned Goblin: Hello, helpful hu-man!
+Player: name
+An Imprisoned Goblin: Name lost in sorrow! Took new one to show tragic fate of goblinkind! Garamor Avolok Tor-Mazak!
+Player: Garamor Avolok Tor-Mazak
+An Imprisoned Goblin: Black Veil on Mind, Shadow on Heart, Tears of Blood, Weeping for Thousands Killed by Greed! Near enough translation.
+Player: goblin
+An Imprisoned Goblin: Once, goblins stupid and greedy like rest of this world! But then, Frog God gave vision to Sugatrap how to progress. Went to holy mountain! Grew goblin civilization! Peace! Plenty! Harmony! ...
+An Imprisoned Goblin: But alas, goblins lost greatness again, devoured by insatiable ogre appetite for goblin flesh.
+Player: ogre
+An Imprisoned Goblin: Bane of goblins! Maybe sent to punish us? But why? All we know, they greedy, and they enslave and eat goblins. Horrible fate!
+Player: grubokk
+An Imprisoned Goblin: Him worst of all ogres. Him put me here to starve to death. Him happy to torment goblins. Him poison goblin food, me certain of it! And him eat goblins.
+Player: frog
+An Imprisoned Goblin: Not enough for all people! Some very, very weak in lower tunnels. Only I enough strength to talk! ...
+An Imprisoned Goblin: Need - hmmm - yes, need twenty for all of us to at least have a little bite and spread word of revolt!
+Player: revolt
+An Imprisoned Goblin: Goblins need strength and weapons for that, hu-man!
+Player: city
+An Imprisoned Goblin: I remember when last great goblin clans still lived there. These days, hunger lives in goblin city. Goblins weak, not can eat, always hunted by ogres if leave small secret tunnels. Made to work as slaves in mines or in ogre camp if caught!
+Player: sugatrap
+An Imprisoned Goblin: Long time ago, he given vision by Frog God, and founded hidden city of goblins. Free goblins! First among equals he was! But great times long gone. All devastated by greedy ogres.
+Player: hopgoblin
+An Imprisoned Goblin: Greatest thinker of golden age. 'I think, therefore I goblin!' When ogre found secret tunnel entrance, it Hopgoblin who told famous riddle to make ogre think long enough, saving hundreds of goblins!
+Player: swordfish
+An Imprisoned Goblin: Him best friend of Sugatrap. Found city founding stone, and him become protector of city. ...
+An Imprisoned Goblin: Many great deeds defending first goblin generations from hungry ogres poking around in mountains! Long we safe because of him!
+Player: riddle
+An Imprisoned Goblin: You not know answer. It unsolvable. Classic paradox!
+Player: mines
+An Imprisoned Goblin: Slavery! Poor goblins dig through hard earth for precious stones and crystals, all for greedy ogres.
+Player: crystals
+An Imprisoned Goblin: Holy crystals to us, but not as holy to ogre brutes! Have to give crystals or die in dirt.
+Player: hammer
+An Imprisoned Goblin: Hammers heavy. Some goblins stole ogre hammers and brought, but not strength enough to wield.
+Player: salt
+An Imprisoned Goblin: Poison! Always very near, very near. Poor goblins die fast if touch it or drink it. Ogres cruel, make us mine near salt lakes, not give us enough fresh water.
+Player: onyx
+An Imprisoned Goblin: Molten earth from fall of Frog God from sky. Ogres think onyx is talisman against danger, so they want onyx all for themselves. Many goblins died to dig up onyx.
+Player: obsidian
+An Imprisoned Goblin: Holy earth! Cooled fall of Frog God when he fell from sky! Chilled Fire Snake, kept evil away for many many millennia! You not know this?? Humans strange!
+Player: library
+An Imprisoned Goblin: Defiled by ogres crashing through mountain ceiling. Trampled bookshelves and goblins, tore up scrolls and books! Sad, sad day! ...
+An Imprisoned Goblin: But one day, this library be rebuilt, and known throughout goblinhood! If ever manage to break free, will not stay in hiding, will bring enlightenment to other goblins!
+Player: imprisoned
+An Imprisoned Goblin: Got sealed in as example to others, without food or water! Me left here to die! But wait for help! Pray to Frog God that it will come!
+Player: lost
+An Imprisoned Goblin: We all lost here, hu-man. What you lost in particular, if not mind?
+Player: no
+An Imprisoned Goblin: <shrugs shoulder> Then I not know what you want, hu-man.
+Player: (any)
+An Imprisoned Goblin: Me not understand human tongue well. Say again what lost.
+Player: key (during quest)
+An Imprisoned Goblin: That bad. Very bad. You trapped like me. You need friend to help you out.
+Player: password
+An Imprisoned Goblin: <looks at you askance> Why ask when no need? You presume much, hu-man! Goblins learned to not trust unnecessarily.
+Player: help (after quest)
+An Imprisoned Goblin: Kind human! Not sure possible. Go find goblin chieftain. Him taken prisoner by ogre. If him alive, if him says yes, you can help. I not decide. I hope he alive!
+Player: help / mission
+An Imprisoned Goblin: You help? You come from Golozo Taku Narkat Kash Bartak Har-Alhad?
+Player: no
+An Imprisoned Goblin: But you must, hu-man! He sent you here. Some very, very weak in lower tunnels. Only I enough strength to talk! ...
+An Imprisoned Goblin: Need - hmmm - yes, need twenty holy frogs for all of us to at least have a little bite and spread word of revolt!
+Player: yes
+An Imprisoned Goblin: You must find holy food! It up mountains! Please get it! If not, we all lost. Tunnels caved in, too weak, starved. ...
+An Imprisoned Goblin: Need - hmmm - yes, need twenty holy frogs for all of us to at least have a little bite and spread word of revolt!
+Player: (any)
+An Imprisoned Goblin: What you say? Me not understand.
+Player: bye
+An Imprisoned Goblin: All go away.

@@ -1,0 +1,72 @@
+Player: hi
+A Goblin Exile: Hello, hu-man! Away put your weapon, I am meaning no harm.
+Player: name
+A Goblin Exile: Used to have one, when still in city. Left it behind. Now, old hermit waiting for goblin redemption I am. Nemmo Tokrok Argkaz Ar-Vanda Ho'Memot.
+Player: Nemmo Tokrok Argkaz Ar-Vanda Ho'Memot
+A Goblin Exile: Not name, more description of what is. Roughly means, The One Who Is No-One, Whose Name Is Buried in Memories of Days Lost Behind Closed Eyes.
+Player: job
+A Goblin Exile: Used to be philosopher priest shaman for East Waterwhirl clans! Keeper of sacredness! Truth teller! But this no say anything to you, hu-man. ...
+A Goblin Exile: These days, me exile hermit waiting for new time. Keep things safe and hallow lost artefacts of goblins, for Frog God to look kindly on our last hope! ...
+A Goblin Exile: Frog God leads me to places where find useful stuff needed for salvation of goblinkind. I pray, his golden eyes lead. I find. I hide.
+Player: time
+A Goblin Exile: Hopefully, time near when goblinkind free again. Me await sign every day.
+Player: Golozo Taku Narkat Kash Bartak Har-Alhad / nibble
+A Goblin Exile: You seen Golozo Taku Narkat Kash Bartak Har-Alhad! If him still alive, there still hope. Great leader, almost golden fire of Sugatrap in him. Him never give up.
+Player: larek
+A Goblin Exile: Fellow hu-man, hmm? Seen him write down things. Think he interested in Krailos. Pity ogres caught him.
+Player: vuzrog
+A Goblin Exile: Who he? One ogre clan chieftain or other always about to wage war on other ogre clan. They all alike.
+Player: ghorza
+A Goblin Exile: Heard of her. Shaman of Great Hunger. Clever ogress, but of unenlightened belief she devoted follower. Dark times, dark times.
+Player: mugruu
+A Goblin Exile: Ogre doing trade? Maybe they able of learning after all.
+Player: grubokk
+A Goblin Exile: That name of mine jailer now? I remember other ogre jailer. Bit him into shin before me went into exile. Heheh.
+Player: goblin
+A Goblin Exile: For long time, goblins safe in mountains. Lived and prospered! Sang songs of golden times, passed on knowledge from old to new goblins! Then ogres came.
+Player: ogre
+A Goblin Exile: Always hungry, always, take, kill, eat, destroy! Must have been spewn out by Night Snake to prey on poor Frog God children.
+Player: frog
+A Goblin Exile: Holy, holy, holy. Poor goblin pray to Frog God for new time of peace for goblins!
+Player: peace
+A Goblin Exile: Goblins wait for Third Time of Peace. Will be end of world as we know it. Frog God will return to be tadpole, Night Snake will devour skies and die, and earth will be one with water again.
+Player: city
+A Goblin Exile: Peaceful and prosper. Goblins lived in harmony, unbeknownst by ogres. Then heavy ogre crashed into tunnel. Found tasty goblin squash! Begin of goblin ordeal.
+Player: sugatrap / hopgoblin / swordfish (before quest)
+A Goblin Exile: No! You lie! That not true. Golden eyes averted from you!
+Player: sugatrap
+A Goblin Exile: Visionary goblin city founder, led by Frog God golden eyes! Him charismatic as no goblin before and after! Everyone say 'I am Sugatrap', proverbial for I know right! ...
+A Goblin Exile: Him do what right, no matter obstacles! Him sacrifice everything, him slay fiends, him eyes fixed on goal set! Him never stop!
+Player: hopgoblin
+A Goblin Exile: Wisest goblin of past times, founded three school of rival philosophies! Very selfless goblin, died for goblinkind! ...
+A Goblin Exile: His riddle stopped ogre killing long enough for goblins to flee back home, collapsing secret tunnels! But Hopgoblin stay behind and angry ogre kill him and break his staff. ...
+A Goblin Exile: His broken staff in my family for hundred generations! Proud heirloom! One day will be made whole when goblins free again!
+Player: swordfish
+A Goblin Exile: Him best friend of Sugatrap. Bravest goblin scout, master of disguise and fleet-footed! Found city founding stone! Protector of city! ...
+A Goblin Exile: Dressed up as ogre girl to distract hungry ogres from holy food finders! ...
+A Goblin Exile: Sang snarky songs to lure ogres away from wounded Sugatrap, then ran back and carried him to nearest hidden tunnel entrance! ...
+A Goblin Exile: Lots more stories but no time to tell, hu-man!
+Player: onyx
+A Goblin Exile: Molten earth from fall of Frog God from sky. Old earth burned and bled, except where Frog God fell. Then cooled off again, slowly, bleeding stilled. Only onyx now to remember it happen.
+Player: obsidian
+A Goblin Exile: Cooled fall of Frog God when he fell from sky, but chilled Fire Snake so it kept away from earth for long time. Second Age of Peace, but long before time of goblins and hu-mans.
+Player: crime
+A Goblin Exile: In youth, was blinded by wanting and arrogance. Overbearing. Thought I knew will of Frog God. ...
+A Goblin Exile: Demanded first place as goblin chief from twin brother. Trial by ordeal which I lost. Went away to redeem self, searching for holy things lost.
+Player: night snake
+A Goblin Exile: No story to tell in dark times, not here. Might come when called! Suffice it to say that it chases Frog God and hates cool earth and water, no friend of goblins.
+Player: paradox / riddle
+A Goblin Exile: Ah yes, very interesting it is! What we caught we not keep, what we keep, we not caught... what is caught that we keep? <sigh> Ogre not think this funny.
+Player: exile
+A Goblin Exile: Used to have one, when still in city. Left it behind. Now, old hermit waiting for goblin redemption I am. Nemmo Tokrok Argkaz Ar-Vanda Ho'Memot.
+Player: runaway
+A Goblin Exile: His name not told by goblins so not even Night Snake find trace of him. Him live in secret, even more than exile hermit me.
+Player: imprison
+A Goblin Exile: Ah, me know him. Young goblin scholar, heart of philosopher. Best pupil he was! ...
+A Goblin Exile: Him rally other goblins in time of need and bear their soul load. Sign of golden eyes looking on him, great deed and burden, oh yes.
+Player: password
+A Goblin Exile: Go to trusted friend in dark place to receive true word. Begone! (idle)
+Player: password (after quest)
+A Goblin Exile: Goblin words have to pass in secret in these dark times.
+Player: bye
+A Goblin Exile: Goodbye, hu-man. Don't let ogres bite you.
