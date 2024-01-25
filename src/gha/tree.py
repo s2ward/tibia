@@ -7,7 +7,7 @@ pipe = '│'
 end = '└'
 dash = '─'
 
-root_folder = '../npc'
+root_folder = 'tibia/npc'
 repo_url = 'https://github.com/s2ward/tibia/blob/main/npc'
 
 class Tree(object):
@@ -148,7 +148,6 @@ post_process_file('doc/verified_transcripts.md')
 post_process_file('doc/empty_transcripts.md')
 post_process_file('doc/unverified_transcripts.md')
 post_process_file('doc/unverified_empty_transcripts.md')
-
 
 # Add navigation
 add_navigation('doc/all_transcripts.md', 0)
