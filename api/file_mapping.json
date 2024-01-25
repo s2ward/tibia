@@ -660,23 +660,23 @@
     },
     "Krailos": {
         "Krailos_Mines": {
-            "An_Imprisoned_Goblin": "EMPTY",
+            "An_Imprisoned_Goblin": "VERIFIED",
             "Grubokk": "VERIFIED"
         },
         "Krailos_Spider_Lair": {
-            "A_Goblin_Exile": "EMPTY"
+            "A_Goblin_Exile": "VERIFIED"
         },
         "Krailos_Steppe": {
-            "A_Runaway_Goblin": "EMPTY",
+            "A_Runaway_Goblin": "VERIFIED",
             "Captain_Pelagia": "VERIFIED"
         },
         "Ogre_Village": {
-            "Ghorza": "EMPTY",
-            "Kaya": "EMPTY",
-            "Larek": "EMPTY",
-            "Mugruu": "EMPTY",
-            "Nibble": "EMPTY",
-            "Vuzrog": "EMPTY"
+            "Ghorza": "VERIFIED",
+            "Kaya": "VERIFIED",
+            "Larek": "VERIFIED",
+            "Mugruu": "VERIFIED",
+            "Nibble": "VERIFIED",
+            "Vuzrog": "VERIFIED"
         }
     },
     "Liberty_Bay": {

@@ -1,0 +1,114 @@
+Player: hi
+Larek: Greetings!
+Player: name
+Larek: My name is Larek. Some call me Larek the Wayfarer, because of my voyages to many faraway lands.
+Player: job
+Larek: I like to think of myself as a discoverer and explorer of unknown regions and cultures. At the moment I'm acting as a kind of merchant. It is a convenient way to get Vuzrog's permission to live here for a time without getting eaten.
+Player: time
+Larek: Unfortunately I lost my watch some weeks ago when exploring the steppe and cataloguing the plant life.
+Player: news / rumours / rumors
+Larek: As I heard the shaman, Ghorza, is worried these days. She thinks the Great Hunger is upset.
+Player: Great Hunger
+Larek: Ogres worhip the Great Hunger, a kind of spirit being they believe will eat up the entire world if not fed regularly. Therefore they often perform rites of sacrifice - with food but also with living creatures, to feed this entity.
+Player: explorer society
+Larek: The Explorer Society is an elite society of adventurers that explore and research all aspects of our world. We are interested in the many different creatures of Tibia, as well as the history of curious structures and items.
+Player: ogre
+Larek: The ogres are simple, warlike people, more interested in a fight and good food than in politics. Ogres like conflict; they are impulsive and quick to anger. They prefer to solve conflicts through combat rather than words. ...
+Larek: They are distrustful towards strangers like us and tend to welcome them with avoidance in the best case. Lately yet, the Bloody Skulls tribe here has shown a sort of interest in trade with other peoples.
+Player: food
+Larek: An honorable death is not the highest purpose in an ogre's life, but rather a fulfilled life, which primarily means enough food and a comfortable hut. Food carries great weight in ogre life and society.
+Player: life
+Larek: The ogres are a tribal people, divided into several different clans. Leader of a tribe is usually the strongest male ogre. The chieftain is supported by an ogre-shaman. If the shaman is female, the two are often, but not necessarily, a couple.
+Player: chieftain
+Larek: The strongest male ogre is a tribe's chieftain. For the Bloody Skulls this is Vuzrog, at least at the moment. But Ghorza seems to expect that a younger ogre will challenge him soon.
+Player: Vuzrog
+Larek: He's the chieftain of the Bloody Skulls tribe and, to be honest, he is the exemplary ogre: big, strong, always hungry, blunt and not very clever. ...
+Larek: But as he is the strongest individual of this tribe, he also is the big boss, as the ogres often call the chieftain.
+Player: Ghorza
+Larek: Ghorza is the tribe's shaman. I have the impression that she is a rather unusual ogress, because she's interested in humans not only in the sense of a tasty snack. She seems to think that we could be useful to her and the tribe.
+Player: shaman
+Larek: The shaman is very important for an ogre tribe. Often, but not always, the shaman is an elder ogress. She cares for the spiritual welfare of the tribe, appeases the spirits, blesses newborn ogre-children and the like. ...
+Larek: This tribe's shaman is Ghorza.
+Player: mugruu
+Larek: He's one of the ogres living here. He studied me for a while and now seems to imitate my behavior. He dabbles in trading now, buying different things. ...
+Larek: You could talk to him but I suppose, he'll not make a trade with you without the chieftain's permission.
+Player: grubokk
+Larek: He's strong but narrow-minded even by ogre standards. He's not often here in the village so I have seen him just a few times. And it's better that way for I assume he's cruel and sadistic.
+Player: nibble
+Larek: He's a goblin who is being kept as a slave by the chieftain Vuzrog. Poor little fellow.
+Player: goblins
+Larek: There are quite a few goblins living here in Krailos. I suppose they originally arrived as stowaways on the ships that now and then burst at Krailos' rocky shores. Most of these goblins are kept as slaves by the ogres. ...
+Larek: As are other smaller races like dworcs or coryms.
+Player: Bloody Skulls
+Larek: That's the tribe living in this village. They are one of the settled clans, whilst others are still nomadic. In addition, they seem to be the only tribe so far that tolerates humans. ...
+Larek: Mainly because the shaman sees a benefit in our presence.
+Player: benefit
+Larek: Ogres value food above all things. They like meat or beer, but as I found out they also adore sweets! They're downright scoffing them. But they don't know how to make cookies or candy. And at this point the humans come in. ...
+Larek: As far as I'm concerned, I survive amongst the ogres because I play the role of a merchant here. I provide them with sweets, they let me live here and pursue my studies about Krailos.
+Player: Krailos
+Larek: Krailos is this vast grassland and steppe you are standing in, and is mainly populated by ogres. The region is located north of Oramond, bordered by high mountains to the south and a wild sea to the east, west and north. ...
+Larek: It's a secluded area, but it seems to has a very interesting history.
+Player: Oramond
+Larek: Oramond lies south of here, separated from Krailos by a high mountain chain. It's very different from the ogre lands, but also dangerous. Many minotaurs live there.
+Player: secluded
+Larek: Krailos is surrounded by many underwater shelves. They make it difficult for ships to reach the coast unscathed. At the rugged shores you may find the one or other shipwreck.
+Player: history
+Larek: Once a sophisticated, but peaceful grassland empire existed on this peninsula. It was noted for its advanced architecture and philosophy. ...
+Larek: But it was destroyed hundreds of years ago through social breakdown, caused by their interest in forbidden things. ...
+Larek: In this empire the ogres were not quite slaves, but rather a kind of deprived lower class. Yet it seems they were the only ones to survive the downfall of this ancient realm, perhaps simply because of their physical strength.
+Player: forbidden
+Larek: The humans who lived here so long ago worshipped the suns of our world. Not only the calm and considerate Suon but also his reckless and wild sister Fafnar. As far as I found out, the veneration of these two aspects was in balance for a long time. ...
+Larek: But the adherents to the wild goddess Fafnar prevailed and the destructive nature of their goddess eventually caused the downfall of this ancient empire.
+Player: Suon
+Larek: Suon is one of the two suns of our world, considered as one of the gods, the son of Fardos, by many. Some call him the Life-Bringing Sun and believe that he observes creation with love and blesses us with warmth and growth. ...
+Larek: Others guess he is just the misguided sibling of Fafnar and that his light turns pale compared to her brightness.
+Player: Fafnar
+Larek: Fafnar is one of the two suns of our world, considered as one of the gods, the daughter of Fardos, by many. Some call her the Scorching Sun and believe that she observes creation with hate and jealousy. ...
+Larek: But others think she's the stronger of the two suns, that Suon's light turns pale compared to her brightness.
+Player: Fardos
+Larek: Fardos is considered the creator, often called the Great Observer. Many people believe that it was his doing that we possess divine souls.
+Player: water
+Larek: Yes, the drying of seas and rivers is a big problem in Krailos. Gradually, all sources of fresh water are fading away. If you want to know more, you should ask Ghorza.
+Player: cookies
+Larek: The ogres love them. If you need cookies I could sell you some. Of course, you also might try to bake them yourself. In that case I could sell you flour and milk.
+Player: cake
+Larek: Unfortunately, I don't have one at the moment. But you could try to bake one yourself. I could sell you flour and milk. If you find some fruit to decorate it, you could bake a tasty cake.
+Player: beer
+Larek: No, I don't sell beer. The ogres brew beer themselves, they have no need of a merchant selling it.
+Player: prickly pear / juice
+Larek: The ogres regularly eat prickly pears which grow on the big cactus trees everywhere in the steppe. Often ogres carry some with them as a kind of provisions. ...
+Larek: That a tasty juice can be made of these fruit was a new experience for the ogres. If you'd like to press out some juice, I can sell you a squeezer.
+Player: meat
+Larek: Ogres mainly eat the meat of the clomp, a large pachyderm which resembles a crossing between a mammoth and a rhino. The ogres also eat the raw meat, but they prefer it roasted. Of course, they're also eating ... uhm, men now and then.
+Player: clomp
+Larek: The clomp, as the ogres call this animal, is a large pachyderm which resembles a crossing between a mammoth and a rhino. Clomps are the largest animals in Krailos. ...
+Larek: But although they are very strong and have a reputation for being tough, they are quite easily hunted by the ogres, as the clomps visit water holes daily and can be killed while they drink.
+Player: hyaena
+Larek: The shaman Ghorza has a hyaena, her totem animal. I heard that it ran away some days ago. Unfortunately I have no idea where the beast could be. Hm ... But I guess the goblin Nibble might know something. He mentioned a hyaena in a small cave.
+Player: quartz
+Larek: You can find these quartzes all over the steppe. They have an orange tone with a golden shade and are often half-buried in the steppe sand.
+Player: depot
+Larek: I have, indeed, a small depot here. I found the buried ruins of some small rooms right under my tent and used them to establish a depot and a bank. But before I open the grille for you I'd ask you a small favour.
+Player: bank
+Larek: Science can be a hard way to earn your living, you know. So I thought it would be wise to find another subsistence, just in case. The bank is in a subterranean room under my tent. But before I open the grille for you I'd ask you a small favour.
+Player: mission / quest / task / favour
+Larek: Indeed there is something. As I may have mentioned I am a discoverer and explorer. I want to learn as much as possible about Krailos to write it down in a book. ...
+Larek: I already wrote an essay about the ogres, but I want to publish something more comprehensive. The problem is that I also have to play the role of a merchant here. ...
+Larek: If I don't provide the ogres with enough sweets like cookies and candy, the chieftain, Vuzrog, no longer will see my benefit for this village and eat me up. So I can't leave the village for too long. ...
+Larek: But you could. Would you go out and search something for me?
+Player: no
+Larek: But that would be such an important contribution to science in general and botany in particular! Please think it over again. Perhaps you'll change your mind.
+Player: sell / other / trade
+Larek: Of course, just browse through my wares. I'm also interested in gems, if you have some.
+Player: gems
+Larek: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.
+Player: pearls
+Larek: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.
+Player: talons
+Larek: We don't trade with them.
+Player: jewel
+Larek: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.
+Player: (any)
+Larek: Okay, then just browse through all of my wares.
+Player: bye
+Larek: Farewell.

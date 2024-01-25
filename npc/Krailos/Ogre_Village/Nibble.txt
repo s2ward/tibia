@@ -1,0 +1,104 @@
+Player: (idle)
+Nibble: Work, work, work... <sigh>
+Nibble: No hurt me! Please!
+Nibble: Making grub as fast as can!
+Nibble: Poor goblin! Poor goblin!
+Nibble: <sigh>
+Player: hi
+Nibble: <ducks head> Not to hurt! Please! Kind sir!
+Player: name
+Nibble: <sigh> Ogre bosses call me Nibble.
+Player: time
+Nibble: Eating time for ogre bosses. Cleaning pigsty time foor poor goblin, always and again.
+Player: nibble
+Nibble: Not funny! Me full name Golozo Taku Narkat Kash Bartak Har-Alhad, ignorant hu-man!
+Player: Golozo Taku Narkat Kash Bartak Har-Alhad
+Nibble: You mispronounce badly, hu-man! But no matter.
+Player: larek
+Nibble: Him slave like me, baking cookies for glutton chieftain. Him never leave camp again alive.
+Player: vuzrog
+Nibble: Acting chieftain of tribe. Him always hungry, always make me stir horrible ogre soup with goblin bones in it! <sob> ...
+Nibble: Him see everything as either to be eaten, be beaten or to be used for menial task. Bah.
+Player: ghorza
+Nibble: Ogress of power. Serve horrible hungry god, but she at least not interested in goblins, she always leave Nibble alone.
+Player: mugruu
+Nibble: Him only ogre in camp with flicker of cleverness. Him learn from hu-man Larek how to trade. Before, him used to make crude tools like rest of ogres. ...
+Nibble: One time, goblins steal some of Mugruu's tools and ran away. Not know what became of them. Hope they smuggled to people in mines! ...
+Nibble: But after that, all goblin slaves in camp killed except for me. I left alive as punishment! But will not give up! One day, we goblins free again!
+Player: grubokk
+Nibble: Urgh, him bane of goblins, cruel and vicious! Was made overseer for mines because he always hungry for goblin flesh and not interested in any other thing. ...
+Nibble: Him stay ten thousand years in acid belly of Night Snake when dead and writhe in eternal torment!
+Player: night snake
+Nibble: Evil dark, lie in wait for Frog God. You not talk of it so loudly, hu-man.
+Player: goblin
+Nibble: Chosen folk of Frog God. Lived free in free goblin city! Golden age of goblins before ogre came! ...
+Nibble: Now slaves of ogres, mining for crystals. Source of deep shame. You not understand, you no goblin.
+Player: frog god
+Nibble: You not worthy of croaking his name! He no listen to you, he no turn golden eye on you, hu-man!
+Player: bog frog
+Nibble: Holy food! Incarnation of water spirit, spat out by Frog God as first of all animals! Lives in bogs high up mountains. Give goblins in mines strength of Frog God!
+Player: toad
+Nibble: Holy animal, likeness of Frog God! Earth spirit, patron of goblin city, ignorant hu-man!
+Player: ogre
+Nibble: Big, brutes, barbarians. Them worship greed, always greedy. Greedy for crystals! Greedy for tasty food! Greedy for violence! ...
+Nibble: But goblins will not give up. One day we free again. ...
+Nibble: And then, will rebuild great city greater than ever, and never be seen again by hulky ogres or hu-mans! Happiness!
+Player: city
+Nibble: Hidden. Ogre not know of it for long time. Then when ogre fell into goblin tunnel, he see source of tasty goblins. He stay! Dismay! Despair! ...
+Nibble: Goblins civilized, no have weapons. Never had war since great Sugatrap founded secret city! Peace and plenty! All goblins equal! Protected by Frog God! ...
+Nibble: But young goblins wanted to find forbidden outside and dug too far. Found ogres, oh yes! ...
+Nibble: And now, ogre make goblins dig with bare hands tunnels into stone to find crystals. For shame! Frog God averted his golden eye from goblins!
+Player: sugatrap
+Nibble: Great forefather. Led goblins to holy mountains to raise city in honour of Frog God. Every goblin whelp know his story! Him lived in dark times. ...
+Nibble: Then, all under heel of stupid ancient goblin clans, always warring and quarreling with everyone, with orcs, trolls, humans, elves! Not good for goblins! Always hunted above and beneath earth! ...
+Nibble: But Sugatrap clever! Saw this not way forward to better times. Him thought weapons resort of the stupid. Thought of new things. ...
+Nibble: Devised traps for flies to offer to Frog God. So God Frog turned golden eyes on him and showed him way. ...
+Nibble: Sugatrap saw goblins had to leave and build new civilization. But when he tell other goblins, they laugh and say, 'Who you to say we must change goblin ways?' And he say, 'I Am Sugatrap. And I say.' ...
+Nibble: And they laugh again, and Sugatrap know they never come with him but stay stupid and kill each other. So he killed all who laugh. But he weep to have to kill fellow goblins. ...
+Nibble: Sad time, long ago now. Rest of goblins clever enough to follow Sugatrap into bright future.
+Player: hopgoblin
+Nibble: Him great philosopher goblin, wisest of all! Him see what need be done in thought and deed, and him do it, even if weak minds often not understand. ...
+Nibble: Him said, goblin need many thoughts, many voices. Him said, freedom in spirit. Him said, responsibility in action. In the end, him make ultimate sacrifice. Said need of many goblins outweigh need of one! But his sad, sad loss.
+Player: swordfish
+Nibble: Hero of past days, made clever pranks on ogres to save many fellow goblins. Right hand of Sugatrap during trek to find holy mountain, and trusted friend after. ...
+Nibble: Him patron of secret city. Countless tales of his deeds, told little goblin whelps in their crib! Every goblin want to be like him - feisty, fast and funny Swordfish!
+Player: key
+Nibble: Yes, goblins locked in like animals! But key bound to be somewhere. You look! Ogre not very clever, you certain to find, even if be pea-brained hu-man!
+Player: weapon
+Nibble: <looks around furtively> Shsh! Goblins not allowed one. If you know where be found, keep secret, talk to goblin in mines.
+Player: hammer
+Nibble: Not allowed for goblin. Also, ogre hammers verrrrry heavy for poor exhausted goblins in mines. But if we full with holy strength, this be great weapon! <sigh>
+Player: tools
+Nibble: Goblins not allowed to use many, are given only those that go kaput. Ogres afraid we better at using tools than they! And they right for once! ...
+Nibble: Ogre make own crude tools. Only Mugruu once try to learn from hu-man how to make delicate tools, but always squashed parts, brute ogre that him is!
+Player: pliers
+Nibble: <sigh> If I were allowed tools... you better chance of getting some from ogres than me, hu-man.
+Player: mines
+Nibble: Goblin folk use to live happy in secret. Then one day ogre fall into goblin tunnel. Baaaaad day for goblins! ...
+Nibble: Ogre come and eat goblin babies. Ogre come and make goblin mine for holy crystals. Sacrilege! Slavery! ...
+Nibble: Ogre take goblin chief as slave in camp. Ignominy! Cannot leave camp! Cannot free people!
+Player: crystal
+Nibble: Ancient stars that evil Fire Snake shattered when he chased Frog God from skies. Frog God caught shards and hid in earth, to remind him of home. ...
+Nibble: When goblin find crystal, him dig it in again, make shrine there and find other way through earth. Maybe one day find Frog God earth home when digging deep enough, heh. ...
+Nibble: But greedy ogre tear crystals out and use for frivolous jewellery and weapons! Kill goblins if not find crystals! The horror!
+Player: salt
+Nibble: Poison flakes from Fire Snake wriggling above earth. Make skin shrivel and eats water. Laid out as trap for Frog God to catch and bind him. Not good for goblins, oh no. Never touch!
+Player: onyx
+Nibble: Molten earth from fall of Frog God from sky. Ogres think onyx is talisman against danger, so they want onyx all for themselves. Many goblins died to dig up onyx.
+Player: exile
+Nibble: Self-inflicted punishment for not having followed God Frog's orders, once. Now holy goblin seeks solitude and danger, serving Frog God. Atonement for faulty step long time ago, but goblins diligent!
+Player: lost
+Nibble: What you lost?
+Player: meaning
+Nibble: Chieftain name one of power. Will not divulge meaning here, hu-man!
+Player: hyaena
+Nibble: Shaman totem animal? Yes, seen it running away some days ago, it lucky! Me heard other goblin say that before ogres caught him, him spotted hyaena at smaller mountain range near western shore. ...
+Nibble: Him say it burrow a hole into sand, so perhaps you need search underground, hu-man.
+Player: mission / quest / task
+Nibble: Shshsh! Not so loud! ... You help? Be goblin champion?
+Player: no
+Nibble: You side with ogre oppressors. Frog God sees. You be judged by him one day!
+Player: bye
+Nibble: <sigh> Poor goblin always left behind.
+Player: (vanish)
+Nibble: Huh. Some manners.

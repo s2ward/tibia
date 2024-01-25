@@ -1,0 +1,48 @@
+Player: hi
+Mugruu: Hello tasty!
+Player: name
+Mugruu: Me Mugruu.
+Player: job
+Mugruu: Me buying things. Me watching Larek. Then me think good idea buying things.
+Player: larek
+Mugruu: He shrimpy human. Looking tasty. But had good idea: buying things!
+Player: time
+Mugruu: Always mealtime!
+Player: Chieftain
+Mugruu: Chieftain is Vuzrog. He big boss of Bloody Skull tribe.
+Player: Vuzrog
+Mugruu: He big boss of Bloody Skulls. That meaning chieftain.
+Player: Bloody Skulls
+Mugruu: That our tribe. Always battles against Thunder Tusks.
+Player: Thunder Tusks
+Mugruu: Hostile tribe. Try stealing food, water and women. Many battles against Bloody Skulls.
+Player: water
+Mugruu: Not enough water in Krailos. Big problem.
+Player: Krailos
+Mugruu: That meaning ogre lands. Steppe and grassland. Many fat clomps, few water.
+Player: clomps
+Mugruu: Clomp tasty beast. Much meat, very yummy!
+Player: ghorza
+Mugruu: She shaman of Bloody Skulls. Knowing many things.
+Player: shaman
+Mugruu: Shaman is Ghorza. She always busy with spirits. And with Great Hunger.
+Player: Great Hunger
+Mugruu: Most powerful spirit. Must always get enough food. If not will eat up entire world.
+Player: grubokk
+Mugruu: Grubokk overseeing goblins. Sometimes eating them. He strong and always hungry. Nearly as hungry as chieftain.
+Player: goblins
+Mugruu: Shrimpy titches good for eating up. Or good for cooking meals and cleaning huts. Many working in mountains. Searching for onyx and opals. Ogres not want searching for themselves. So goblins have to search. Grubokk overseeing goblins.
+Player: nibble
+Mugruu: Shrimpy goblin. Cooking for Vuzrog.
+Player: trade / offer / spiky
+Mugruu: Mugruu not trading with human. Only if chieftain says yes. Back off!
+Player: trade / offer
+Mugruu: Yes, you look. Perhaps want only buy spiky things that humans use so often.
+Player: spiky
+Mugruu: You look
+Player: hyaena
+Mugruu: Mugruu knowing nothing about hyaena.
+Player: mission / quest / task
+Mugruu: Ask Ghorza or Vuzrog. Or perhaps ask Grubokk, too.
+Player: bye
+Mugruu: This time you buyer, next time perhaps you meal. Hrhrhr.
