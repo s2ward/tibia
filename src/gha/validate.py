@@ -54,8 +54,9 @@ def check_txt_files_for_errors(folder):
 
     return has_errors
 
+npc_folder_path = os.path.join("npc")
 
-folders = [os.path.join("..", "npc", folder) for folder in os.listdir(os.path.join("..", "npc")) if os.path.isdir(os.path.join("..", "npc", folder))]
+folders = [os.path.join(npc_folder_path, folder) for folder in os.listdir(npc_folder_path) if os.path.isdir(os.path.join(npc_folder_path, folder))]
 
 print("Current working directory:", os.getcwd())
 

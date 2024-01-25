@@ -25,5 +25,4 @@ jobs:
 
       - name: Validate changes
         run: |
-          cd npc
-          python ../src/validate.py
+          python src/gha/validate.py

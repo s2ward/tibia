@@ -52,7 +52,7 @@ jobs:
   
       - name: Convert txt files to JSON
         run: |
-          python src/txt_to_json.py
+          python src/gha/txt_to_json.py
 
       - name: Commit conversations.json
         uses: stefanzweifel/git-auto-commit-action@v4
@@ -106,7 +106,7 @@ jobs:
           MODIFIED_FILES=${MODIFIED_FILES[@]}
           RENAMED_FILES=${RENAMED_FILES[@]}
           DELETED_FILES=${DELETED_FILES[@]}
-          python src/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+          python src/gha/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
         env:
           repo_dir: ${{ github.workspace }}
           base_dir: ${{ github.workspace }}/base
@@ -148,7 +148,7 @@ jobs:
 
       - name: Generate trees
         run: |
-          python src/tree.py
+          python src/gha/tree.py
   
       - name: Commit tree files
         uses: stefanzweifel/git-auto-commit-action@v4
