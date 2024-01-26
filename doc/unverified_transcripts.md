@@ -128,7 +128,6 @@
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Andrew Lyze</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Andrew_Lyze.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imbul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Imbul.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Lorek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ray</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ray.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Tarun</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tarun.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rookgaard)  

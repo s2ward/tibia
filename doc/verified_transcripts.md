@@ -485,6 +485,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clyde</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clyde.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Grizzly Adams</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Grizzly_Adams.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Tiko</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Guide_Tiko.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Lorek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Adall</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Old_Adall.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Player Level 1000</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Player_Level_1000.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Player Level 1001</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Player_Level_1001.txt)  
