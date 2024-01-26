@@ -305,7 +305,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ray</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ray.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tandros</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tandros.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tarun</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tarun.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Blind Prophet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/The_Blind_Prophet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ustan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ustan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Zaidal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Zaidal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Iksupan</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Iksupan)  
