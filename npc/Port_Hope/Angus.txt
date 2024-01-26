@@ -1,0 +1,42 @@
+Player: hi
+Angus: Greetings, what can I do for you?
+Player: job
+Angus: I am the local representative of the explorer society.
+Player: explorer society
+Angus: Our noble society is dedicated to exploring the unknown. No location is too remote for our members to travel there ...
+Angus: No beast is too wild to be hunted. No treasure buried too deep to be unearthed ...
+Angus: Only the most dedicated and fearless adventurers may join our ranks.
+Player: join
+Angus: But you are already a member, Player.
+Player: missions
+Angus: There are no new missions available right now.
+Player: base
+Angus: Currently we maintain public bases in Port Hope and Northport.
+Player: portals
+Angus: The portals should be ready to be used now. If you have an orichalcum pearl with you, enter the portal.
+Player: orichalcum
+Angus: Do you want to buy an orichalcum pearl for 80 gold?
+Player: no
+Angus: Is there anything else I can do for you?
+Player: yes
+Angus: Here, use it wisely.
+Player: ratha
+Angus: Ratha was a great explorer and even greater ladies' man. Thank you for returning his remains.
+Player: giant smith hammer
+Angus: The explorer society was looking for a genuine giant smith hammer until you brought us one. Thank you again.
+Player: scroll lizard / parchment
+Angus: The examination of scrolls with lizard writings is a valuable source of information. We buy such scrolls for 500 gold. Are you interested to sell one?
+Player: no
+Angus: If you ever aquire a parchment with lizard writings, bring it here.
+Player: yes
+Angus: Thank you in the name of science.
+Player: crown backpacks
+Angus: Do you want to buy a crown backpack for 800 gold?
+Player: no
+Angus: Is there anything else I can do for you?
+Player: yes
+Angus: Here, better not lose it.
+Player: bye
+Angus: Good bye.
+Player: (vanish)
+Angus: How rude!

@@ -287,7 +287,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Kaumudi</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Stardance_Mountains/Kaumudi.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Andrew Lyze</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Andrew_Lyze.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Angus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Angus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ben</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ben.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brengus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Brengus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brewster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Brewster.txt)  
