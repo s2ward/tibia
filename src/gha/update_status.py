@@ -65,7 +65,7 @@ npc_status_output = os.environ.get('npc_status_output', 'No NPC status output fo
 
 for f in pr_files:
     file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
-    npc_name = f.split('/')[-1].replace('.txt', '').replace('_', ' ')
+    npc_name = f.split('/')[-1].replace('.txt', '')
     npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}'
     content_lines = [
         f"**{pr_opener}** has made a contribution! :first_place:",
