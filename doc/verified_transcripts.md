@@ -493,6 +493,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Relaxed Bartender</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Relaxed_Bartender.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Rosemarie</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Rosemarie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Stressed Storeman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Stressed_Storeman.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Blind Prophet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/The_Blind_Prophet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uso</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Uso.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vescu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Vescu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Yawno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Yawno.txt)  
