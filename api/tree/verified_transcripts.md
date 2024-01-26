@@ -477,6 +477,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Silvertides</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Candra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Silvertides/Candra.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Angus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Angus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Banuta</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ghost of a Priest</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta/Ghost_of_a_Priest.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Hairycles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Banuta/Hairycles.txt)  
