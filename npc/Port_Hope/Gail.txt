@@ -1,0 +1,44 @@
+Player: hi
+Gail: Please feel welcome to my gem and jewellery store.
+Player: name
+Gail: My name is Gail, nice to meet you.
+Player: job
+Gail: I am buying and selling gems and jewellery. My offers are quite impressive.
+Player: offer
+Gail: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.
+Player: time
+Gail: I am sorry but watches are not that common here. Time has little meaning in this quite boring colony.
+Player: tibia
+Gail: There is so much left that still needs to be discovered in this world.
+Player: king
+Gail: The Thaian monarch entrusted Venore with much responsibility to manage this colony. Sadly he did not entrust the entire control in our hands which is a constant reason for all kinds of problems.
+Player: apes
+Gail: Those animals are one of the worst things we have to face here.
+Player: lizards
+Gail: There must be some way to leverage their hatred towards those apes.
+Player: dworcs
+Gail: Luckily, this horrible ugly things stay in their own territory but who knows for how long? We should never show them any sign of weakness.
+Player: thais
+Gail: A somewhat chaotic town. I understand how its growth dictated the shape of its community but I also see the flaws in the outcome.
+Player: venore
+Gail: Venore is a beautiful city and its community is built up on commerce. Therefore it serves the needs of everyone who wants to contribute his share to the welfare of the city.
+Player: edron
+Gail: Another area that could and should prosper under Venoran guidance. If the king sees how we handle this settlement, he will for sure be impressed enough to allow us more freedom on that promising isle.
+Player: carlin
+Gail: Their independence is just insane viewed from an economic angle. A complete waste of resources.
+Player: darama
+Gail: This continent is a challenge and an opportunity at the same time.
+Player: darashia
+Gail: People there are somewhat strange. In my opinion their philosophy isn't good for business but the minds of people can be changed if you use the right arguments.
+Player: ankrahmun
+Gail: Well, I admit I fail to see any profit that could safely be made by trading with that city, but even unsafe profit is a good one. Prices have to be adjusted accordingly to the course.
+Player: kazordoon / dwarves / dwarfs
+Gail: Dwarven craftsmen are some of the best in their fields. Sadly they charge quite a lot for their work and it's hard to make some profit with dwarven wares.
+Player: ab'dendriel / elfs / elves
+Gail: Elves are bad customers. We did not manage to break into their market yet.
+Player: ferumbras
+Gail: One evil sorcerer, no matter how powerful he might be, can have only a certain influence on the market. There are other threats to our profit that are more urgent.
+Player: excalibug
+Gail: A knight's fairy tale.
+Player: bye
+Gail: Good bye.

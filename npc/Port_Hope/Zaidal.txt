@@ -36,7 +36,7 @@ Player: kazordoon
 Zaidal: The dwarves of Kazordoon are experts in mining resources like gems and ore.
 Player: dwarves / dwarfs
 Zaidal: The dwarves of Kazordoon are experts in mining resources like gems and ore.
-Player: ab'dendriel elfs / elves
+Player: ab'dendriel / elfs / elves
 Zaidal: Those elves are a bit complicated when it comes to trees and environmental matters. They must learn that you have to crush an egg to bake a cake.
 Player: ferumbras
 Zaidal: If we could guide his attention in useful directions, he wouldn't be the problem he poses nowadays.

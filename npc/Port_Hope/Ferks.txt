@@ -1,0 +1,46 @@
+Player: hi
+Ferks: A good day to you, Player, and welcome to the Tibian Bank.
+Player: name
+Ferks: My name is Ferks <bows slightly>.
+Player: job
+Ferks: I am a banker, my job is to exchange coins.
+Player: offer
+Ferks: We can change money for you. You can also access your bank account or your guild account options.
+Player: time
+Ferks: It is exactly 1:16 am right now.
+Player: tibia
+Ferks: Sometimes I wonder why the gods don't put more effort into bringing us order but I am a banker, not a priest.
+Player: king
+Ferks: His royal highness might visit this little but promising community one day if we develop well.
+Player: jungle
+Ferks: This jungle is dangerous. The more area we can finally cultivate, the better. Only if we chop and burn enough of it down and create new farmland, we can build a new centre of commerce.
+Player: apes
+Ferks: They mindlessly attack our settlement to steal tools and everything else they get into their hairy hands.
+Player: lizards
+Ferks: They live so far away in the jungle that we know only little of them. Perhaps this primitive race can be used in some way.
+Player: dworcs
+Ferks: Evil little bastards they are.
+Player: thais
+Ferks: Thais is still a power that must be taken into account. Power is not everything of course.
+Player: venore
+Ferks: Our city and society could be a role model for all Tibians.
+Player: edron
+Ferks: Edron has little to offer. It's overestimated. Let those silly knights have it. In the end it will be us who clean up the mess and bring order into the chaos that will be left when they finally leave.
+Player: carlin
+Ferks: Carlin is nothing but a nuisance.
+Player: darama
+Ferks: This wilderness and the dry desert need to be colonised by civilised people like us. We bring the light of order and prosperity to this continent.
+Player: darashia
+Ferks: This town has little that we are interested in.
+Player: ankrahmun
+Ferks: I have to admit that I somehow admire the strong guidance of this pharao. Most fail to acknowledge that his subjects are in need of such a strict leadership.
+Player: kazordoon / dwarves / dwarfs
+Ferks: Dwarves are disciplined people, which I appreciate.
+Player: ab'dendriel / elves / elfs
+Ferks: Those elves are erratic and unreliable. They need to be taught some manners.
+Player: ferumbras
+Ferks: A servant of chaos. I wonder why all the Thaian military power can't stop him for good.
+Player: excalibug
+Ferks: A fictitious weapon is of no use at all.
+Player: bye
+Ferks: Good bye.
