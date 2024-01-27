@@ -179,7 +179,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Stardance Mountains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Stardance_Mountains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Kaumudi</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Stardance_Mountains/Kaumudi.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brewster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Brewster.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Charles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Charles.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gilmak Copperbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Gilmak_Copperbeard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Helor.txt)  
