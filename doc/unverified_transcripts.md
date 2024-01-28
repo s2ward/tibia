@@ -103,8 +103,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thomas</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Thomas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ursula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Ursula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zoltan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zoltan.txt)  
-├─&nbsp;&nbsp;<strong>Gray Beach</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Eighty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Eighty.txt)  
 ├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Neill</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Neill.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Salbra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Salbra.txt)  

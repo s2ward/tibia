@@ -262,6 +262,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maelyrra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Maelyrra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Taegen</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Taegen.txt)  
 ├─&nbsp;&nbsp;<strong>Gray Beach</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eighty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Eighty.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Vigintia</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Vigintia)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vigintius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Vigintia/Vigintius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Vigintia/Lora.txt)  

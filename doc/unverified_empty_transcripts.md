@@ -177,7 +177,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Valindara</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Valindara.txt)  
 ├─&nbsp;&nbsp;<strong>Gray Beach</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alternative Rock</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Alternative_Rock.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eighty</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Eighty.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Navigator</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Navigator.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Rock Boy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Old_Rock_Boy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Orockle</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Orockle.txt)  
