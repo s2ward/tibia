@@ -493,6 +493,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Helor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imbul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Imbul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Lorek.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Myra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Myra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Adall</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Old_Adall.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Perod</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Perod.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Player Level 1000</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Player_Level_1000.txt)  
