@@ -507,6 +507,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tandros</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tandros.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Blind Prophet</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/The_Blind_Prophet.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Uso</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Uso.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ustan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ustan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Vescu</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Vescu.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Yawno</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Yawno.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zaidal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Zaidal.txt)  
