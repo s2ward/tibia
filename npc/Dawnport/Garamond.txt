@@ -16,7 +16,7 @@ Garamond: I am Garamond Starstream.
 Player: Job  
 Garamond: Did you not listen? I am the teacher of druid and sorcerer spells for level 8 to 18. I teach young adventurers spells they can use once they have the proper vocation - druid or sorcerer.  
 Player: Rookgaard  
-Garamond: I have an old friend there. Haven't heard from him in a while.  
+Garamond: I have an old friend there, Seymour. Haven't heard from him in a while.  
 Player: Dawnport  
 Garamond: Oh, it's not too bad here, believe me. At least I always get young and enthusiast disciples! Though I must confess I miss the vastness of the Tibian plains. <sighs>  
 Player: Tibian  
