@@ -24,7 +24,7 @@ Player: thais
 Helor: Thais has its mistakes but it's a town's people that form a society and it's its people that have to be blamed for a society's failure.
 Player: venore
 Helor: Those tradesmen would gladly sell their souls. And they would sell them cheap.
-Player: carline
+Player: carlin
 Helor: In their own way they are still following the word of the gods.
 Player: edron
 Helor: There are certain problems in Edron for sure and the defection of some of the knights was a great loss and caused much shame. But we are growing on the obstacles we have to overcome.
