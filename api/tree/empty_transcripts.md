@@ -179,7 +179,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Stardance Mountains</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Stardance_Mountains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Kaumudi</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Marapur/Stardance_Mountains/Kaumudi.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kais</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Kais.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mysterious Device</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Mysterious_Device.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Iksupan</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Iksupan)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ahau's Dead Chamberlain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Iksupan/Ahau's_Dead_Chamberlain.txt)  
