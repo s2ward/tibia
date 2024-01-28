@@ -484,6 +484,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ben</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ben.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brengus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Brengus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brewster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Brewster.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Charles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Charles.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clark</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clark.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Clyde</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Clyde.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ferks</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ferks.txt)  
