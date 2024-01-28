@@ -293,7 +293,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Myra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Myra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mysterious Device</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Mysterious_Device.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tarun</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Tarun.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ustan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Ustan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Iksupan</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Iksupan)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ahau's Dead Chamberlain</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Iksupan/Ahau's_Dead_Chamberlain.txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Rathleton)  
