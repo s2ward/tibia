@@ -289,7 +289,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Andrew Lyze</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Andrew_Lyze.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Charles</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Charles.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gilmak Copperbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Gilmak_Copperbeard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Helor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kais</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Kais.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Myra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Myra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mysterious Device</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Mysterious_Device.txt)  
