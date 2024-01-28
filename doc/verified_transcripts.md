@@ -494,6 +494,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Tiko</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Guide_Tiko.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Helor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Helor.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Imbul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Imbul.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kais</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Kais.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lorek</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Lorek.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Myra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Myra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Old Adall</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Port_Hope/Old_Adall.txt)  
