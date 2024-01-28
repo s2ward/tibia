@@ -1,0 +1,25 @@
+Player: hi
+Gilmak Copperbeard: Ha! You're still free, lucky you.
+Player: name
+Gilmak Copperbeard: My name is Gilmak Copperbeard.
+Player: job
+Gilmak Copperbeard: I'm a dwarf as you may easily see. We have a camp nearby, where my luckier brethren still dwell.
+Player: time
+Gilmak Copperbeard: Do I look like I have a clock in this cell?
+Player: free
+Gilmak Copperbeard: Yes, unlike me. I'm a prisoner in this palace. I was careless enough to leave our camp in the north alone. So I was easy prey for the damned asuri.
+Player: palace
+Gilmak Copperbeard: At the first glance it is a place of great beauty, filled with riches and luxury, as you certainly have noticed yet. But in truth it is a threshold to hell, full of demons.
+Player: demons
+Gilmak Copperbeard: Yes, the so called asuri. They are demonic creatures who usually hide their faces and appear in the form of a beautiful woman.
+Player: faces
+Gilmak Copperbeard: In truth they are ugly and ill-favoured. And this palace is as foul as the asuri are. ...
+Gilmak Copperbeard: Behind its marvellous veneer, it is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. Take care of yourself!
+Player: mission / quest / task
+Gilmak Copperbeard: I fear there is nothing you can do for this old dwarf. These damned demonesses already took too much of my vital energy.
+Player: rumours / rumors / news
+Gilmak Copperbeard: The only news I know: I'm a prisoner here!
+Player: prisoner
+Gilmak Copperbeard: Yes, I'm a prisoner in this palace. Stupid old me, leaving camp all alone like that. Easy prey for the damned asuri.
+Player: bye
+Gilmak Copperbeard: Farewell. Take care of yourself!
