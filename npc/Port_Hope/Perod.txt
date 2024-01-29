@@ -1,5 +1,7 @@
 Player: hi
 Perod: Greetings, dear Player. What do you need? I sell general equipment and distance weapons.
+Player: name
+Perod: I am Perod, how could you forget that, Player? We fought back-to-back in those troll caves on Rookgard a long time ago.
 Player: tibia
 Perod: I have travelled a lot and still I have not seen everything. So I abandoned my life as an explorer and became an employee of a trading company domiciled in Venore.
 Player: king
