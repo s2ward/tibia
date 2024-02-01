@@ -1313,12 +1313,12 @@
         "Urkalio": "UNVERIFIED",
         "Velvet": "UNVERIFIED",
         "Venore_Corym_Dungeons": {
-            "Corym_Butler": "EMPTY",
-            "Corym_Footman": "EMPTY",
-            "Corym_Ratter": "EMPTY",
-            "Corym_Servant": "EMPTY",
-            "Corym_Slave": "EMPTY",
-            "Corym_Worker": "EMPTY"
+            "Corym_Butler": "VERIFIED",
+            "Corym_Footman": "VERIFIED",
+            "Corym_Ratter": "VERIFIED",
+            "Corym_Servant": "VERIFIED",
+            "Corym_Slave": "VERIFIED",
+            "Corym_Worker": "VERIFIED"
         },
         "Venore_Southern_Swamp": {
             "Appaloosa": "VERIFIED",
