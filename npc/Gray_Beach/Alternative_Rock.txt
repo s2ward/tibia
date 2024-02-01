@@ -1,0 +1,31 @@
+Player: hi
+Alternative Rock: Hello there! Are you really here to help us, friend? Need the latest news on what's going on on this island?
+Player: name
+Alternative Rock: We are the Rock Boys. I'm Alternative. And I guess so are you man. So are you.
+Player: job
+Alternative Rock: I ain't no working man, nope. You need some work? Go to Old Rock Boy over there.
+Player: mission / quest
+Alternative Rock: No, no man. No missions here, sorry man. You can help me a bit, though. And you can talk to Old Rock Boy over there.
+Player: qjell / gods / coral / pits / heart / deeplings / gem
+Alternative Rock: Yeah well, I guess you better ask Old Rock Boy about that.
+Player: rock
+Alternative Rock: Yeah we're the Boys. The Rock Boys. Me, Steady, that strange oracle guy and Old Rock Boy. And there are more of us. Some won't say a thing, though.
+Player: first
+Alternative Rock: Oh that guy? I think, well, he was quite busy all the time. Yes, a busy kinda guy. Didn't talk to him much, no.
+Player: soul nets
+Alternative Rock: The bad spirits are coming down to the creatures of the deep to curse their spawn. Not that I am very fond of those Deepling things - but CURSED Deepling things? No thanks. ...
+Alternative Rock: It is possible to catch a demon before it materialises. If you use one of these nets to capture an evil spirit, you will be able to prevent that the Deepling spawn is being cursed.
+Player: help
+Alternative Rock: Yeah yeah, you can help me actually. You know, I feel some bad vibes coming out of the earth, recently. I think there's something wrong with the creatures of the deep. Care to join me?
+Player: no
+Alternative Rock: Your opinion man.
+Player: news
+Alternative Rock: God-king Qjell seems to be pleased, the floodgates to the Drowned Library have opened. However, a passage to reach the outer rim of the caves has still to be created. ...
+Alternative Rock: 99 actions against the Deeplings have been taken. 200 actions are necessary to advance further into the deep.
+Player: news
+Rock Steady: The inner arcanum of the deep has been breached. Now nothing can stop the assault on Qjell's dark guardians. ...
+Rock Steady: 60 actions against the Deeplings have been taken. This position will hold for a while.
+Player: bye
+Alternative Rock: Yeah yeah, no problem man.
+Player: (vanish)
+Alternative Rock: Wha... wait, what?
