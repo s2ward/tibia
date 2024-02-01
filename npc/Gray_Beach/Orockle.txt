@@ -1,0 +1,92 @@
+Player: hi
+Orockle: Greetings pilgrim! I sense you are here to fight the Hive Born.
+Player: name
+Orockle: Names are not important. At least not in the way you mortals might think.
+Player: job
+Orockle: My tasks are numerous. First and foremost, I am here to guide you in your efforts on this isle.
+Player: guide
+Orockle: In this incarnation I oversee your efforts to destroy the dastardly Hive Born.
+Player: incarnation
+Orockle: Silence! This is not for you to know!
+Player: (any other)
+Orockle: I'm not here to answer silly questions. There are urgent matters we have to attend.
+Player: efforts
+Orockle: I can assign you missions that will weaken the Hive Born on the isle. If you mortals are diligent enough, you might breach their defences and gain entrance to their lairs.
+Player: lairs
+Orockle: The Hive Born hold the isle in the firm grip of their claws. Their influence is strongest in the North. There they have erected two great hives. ...
+Orockle: They are guarded by a great barrier which is impenetrable unless the Hive Born are weakened. If the barrier is penetrated, you can gain access to the lesser guarded hive. ...
+Orockle: Think of it as barracks for their workers and soldiers. If you can keep the pressure on the Hive Born, you might even gain access to their main hive which is heavily guarded.
+Player: hive
+Orockle: Where the Hive Born behave like machines, the hive itself behaves like a living being in some regard. The tissue they build their lairs with is organic and somehow living. The hive somehow devours and digests the dead Hive Born and the rubbish. ...
+Orockle: Sometimes even living Hive Born merge with the hive and not even I can tell what their fate is. Yet, parts of the hive are 'more' living and even sentient than others. ...
+Orockle: When the Hive Born are weakened and the hive becomes confused, you might use that to your advantage and enter areas of the hive that are normally closely guarded.
+Player: Hive Born / creatures
+Orockle: The Hive Born are destructive creatures that control almost the entire surface of the isle. Their number seems endless and their queens constantly give birth to new generations of soldiers and workers. ...
+Orockle: If unchecked, they might even be able to spread like a plague over the rest of the world.
+Player: plague
+Orockle: Sometimes they build raft-like structures for some of their eggs and let them float onto the sea. Even I can only assume that their purpose is to spread all over the world. ...
+Orockle: I doubt they do it on purpose though, but rather on instinct. Yet, if they gain a foothold elsewhere in the world, we can only hope that no queen egg survives the travel or that their lair is found in time.
+Player: queens
+Orockle: Just like the other Hive Born, they are more like machines than living beings. Deep in their hives, the heavily guarded queens are constantly producing new eggs from which eventually the different kinds of Hive Born are hatching.
+Player: world
+Orockle: The world is in danger. When the Deeplings or the Hive Born are victorious, they will continue with nothing less than the total conquest of the world.
+Player: deeplings
+Orockle: The Deeplings are an ancient race that dwells beneath the seas. Though more intelligent than the Hive Born, they are cruel and merciless and see all other races as inferior.
+Player: isle
+Orockle: This isle is a battlefield. The Hive Born and the Deeplings are fighting each others since countless centuries. This might be a blessing since it keeps them from turning their attention to the world outside.
+Player: battlefield
+Orockle: The battle on this isle is fought between the hive and its creatures and the submerged temple city of the Deeplings. My foremost efforts are directed towards the progress in the fight against the hive.
+Player: my
+Orockle: Who or what I am is not of your concern, mortal! What is important for you to know is that I watch about the progress of the war and reward those who are diligent in the fight against the hive.
+Player: progress
+Orockle: The hive is breached and vulnerable! Attack! Attack it more! I can feel it's pain. Perhaps you would like a more detailed recount though.
+Player: thais
+Orockle: A town of humans. Somewhat like an insectile hive on its own and sometimes just as dangerous.
+Player: carlin
+Orockle: A town so far away that only rarely stories about it are heard on this isle.
+Player: yalahar
+Orockle: Yalahar is a city somewhere in the North. It is of no concern to you as long as you are here. Other matters are more important.
+Player: zathroth / uman / banor
+Orockle: We have no use for distant gods on this isle.
+Player: fight
+Orockle: You can help in the fight against the hive. There are several missions available to destabilise the hive. Just ask for them if you want to learn more. After completing many missions you might be worthy to get a reward.
+Player: reward
+Orockle: Your efforts are commendable (1188/50). If you wish, I grant you a treatment with a pheromone that will allow you to access some of the best guarded rooms in the hive. ...
+Orockle: But you need to know that the pheromone will wear off after a week and that you can only access the rooms when the hive is weakened and open. When the pheromone wears off, you'll have to put new efforts into our war to get another reward. ...
+Orockle: Remember that you can only collect your reward if the Hive has already started to open itself. So, do you want your reward now?
+Player: no
+Orockle: That might be a smart decision. If you feel the time is right, just ask for your reward.
+Player: news / status / recount
+Orockle: The hives defences have fallen. Its armies are confused and in shambles. All structures are open for invaders. ...
+Orockle: 15 actions have been taken against the Hive Born. This position will hold for a while.
+Player: trade
+Orockle: If you were foolish enough to lose my gifts, you'll have to pay for it.
+Player: mission
+Orockle: Are you here to receive or to report a mission?
+Player: receive
+Orockle: As usual you could try to blind the hive, you might disrupt its digestion, you could gather acid or you can disable the swarm pores. ...
+Orockle: Due to our recent success, the hive's defences are broken and it is also possible to kill the guards or to break the control crystals.
+Player: blind
+Orockle: You might have noticed the antennae that grow out of the hive structures sometimes. With them the hive communicates with the Hive Born. If you mess up the antennae, their communication is disrupted. ...
+Orockle: Soldiers will not be deployed or reinforced anymore, workers won't build or repair where it is needed. All you have to do is use a bag of this blinding powder on them. Do you want to take this mission?
+Player: digestion
+Orockle: In some regards, the hive is a living thing. To disrupt its digestion is a blow on the hive itself. I will give you some projectiles, fuelled by the acid of the Hive Born themselves. ...
+Orockle: Use them in the digestion chambers underneath the small hive pyramid far east of the pools of dread. I will mark it on your map. ...
+Orockle: Look for the knots of transported nutrients and aim at them with the acid bag. You will recognize them as blobs moving under the floor. Destroy 7 of them. This way the hive will get 'sick'. ...
+Orockle: Do not destroy more, else the room might fill up with digestive acid and you'd be nothing more than hive-food yourself. Do you want to take this mission?
+Player: acid
+Orockle: For the sabotage of the hive we need a supply of dissolved chitin from the Hive Born which we can turn into a potent acid. The crawlers offer the best of it. ...
+Orockle: To gain the acid we will have to turn the hive against itself. Use a dissolver on the corpse of a crawler that has died just a short moment ago. Then use the drum I'll give you to call one of the swarmer hatchlings that I could tame. ...
+Orockle: Feed the dissolved chitin to the hatchling. It will return imediately to me and turn the digested fluid into a potent acid. Feed it 8 units of dissolved chitin and return to me. You can only call a hatchling on the ground level though. ...
+Orockle: Do you want to take this mission?
+Player: disable
+Orockle: The hive can even transport and control several eggs. They can be used to quickly create some lesser Hive Born. Though unremarkable on their own, their sheer number and unceasing assaults are a threat. ...
+Orockle: You can use a special goo to disrupt the spawn pores of the hive in the east. Disable 7 of them to stop their threat. Do you want to take this mission?
+Player: kill
+Orockle: The guards of the hive have numerous functions which are essential for the survival of the hive. Killing them will disrupt the functions of the hive severely. It will be your task to kill 9 creatures of the kollos strain. Do you want to take this mission?
+Player: break
+Orockle: In the hive you can find ominous crystals. With them, the will of the hive is focused and transmitted. Destroy 5 of them to plunge the hive into chaos! Do you want to take this mission?
+Player: no
+Orockle: As you wish. Then choose another one.
+Player: bye
+Orockle: Bye.

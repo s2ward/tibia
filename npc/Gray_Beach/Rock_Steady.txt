@@ -1,0 +1,25 @@
+Player: hi
+Rock Steady: Need help? Or are you only here for some news. Either way, make it short.
+Player: name
+Rock Steady: We are the Rock Boys. My name's Rock Steady, you can ask the other boys yourself.
+Player: job
+Rock Steady: Besides standing around here at the beach all day? Well, we actually spend a lot of time here at the beach. You could say ALL DAY. AND NOW LEAVE ME ALONE.
+Player: rock
+Rock Steady: Congratulations. I am a rock. Did you figure this out all on your own? Good job.
+Player: qjell / god / deepling  / heart / coral / cut / pits
+Rock Steady: Well, maybe you should talk to Old Rock Boy over there.
+Player: first visitor
+Rock Steady: Yeah, there was some traveller here. Quite some time ago. He didn't talk to me, I didn't talk to him. I wouldn't have had much to say anyway.
+Player: help
+Rock Steady: If you want anything, you should talk to Old Rock Boy over there. I do collect stuff, though. So just ask if you're interested in helping me.
+Player: collect
+Rock Steady: I collect everything that reflects light in strange ways. However, I am bored by my collection. And there wasn't anything new to add for years. ...
+Rock Steady: I like pearls for example - but I have already enough. I also like shells - but I can't even count how many I already own. ...
+Rock Steady: If you find anything of REAL VALUE - bring it to me. I will reward you well. You don't already have something for me by chance?
+Player: yes
+Rock Steady: Great! Let me see. What? That's nothing. Are you trying to trick me? Begone.
+Player: news
+Rock Steady: The inner arcanum of the deep has been breached. Now nothing can stop the assault on Qjell's dark guardians. ...
+Rock Steady: 133 actions against the Deeplings have been taken. 200 actions are necessary to advance further into the deep. It is impossible to hold this position any longer, however.
+Player: bye
+Rock Steady: Yeah whatever, whatever.
