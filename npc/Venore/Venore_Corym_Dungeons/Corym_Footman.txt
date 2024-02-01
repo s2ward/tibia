@@ -1,0 +1,16 @@
+Player: hi
+Corym Footman: My hero! A friend of mine sent you to liberate me? A true friend! I am poor but nevertheless I give you this as a little reward.
+Player: hi
+Corym Footman: Every man is the architect of his own fortune. We have nearly died of hunger.
+Player: hunger
+Corym Footman: What we get to eat is really ridiculous. Particularly in view of the fact that we should dig up an insane amount of ores.
+Player: rare earth
+Corym Footman: This material can only be found in the stomaches of stonerefiners. These creatures eat common stones and process them to rare earth. Even scientists don't know how this works exactly. Otherwise they would have reconstructed the process in their labs.
+Player: enormous
+Corym Footman: The deeper you are in a tunnel the hotter it is. That is known, but here the temperature rises much faster.
+Player: hi
+Corym Footman: The revolution is about to happen. Take arms!
+Player: bye
+Corym Footman: Bye
+Player: (vanish)
+Corym Footman: No goodbye?
