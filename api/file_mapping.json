@@ -462,14 +462,14 @@
         "Valindara": "EMPTY"
     },
     "Gray_Beach": {
-        "Alternative_Rock": "EMPTY",
+        "Alternative_Rock": "VERIFIED",
         "Eighty": "VERIFIED",
-        "Navigator": "EMPTY",
-        "Old_Rock_Boy": "EMPTY",
-        "Orockle": "EMPTY",
-        "Rock_Steady": "EMPTY",
-        "Rock_With_A_Soft_Spot": "EMPTY",
-        "Rock_in_a_Hard_Place": "EMPTY",
+        "Navigator": "VERIFIED",
+        "Old_Rock_Boy": "VERIFIED",
+        "Orockle": "VERIFIED",
+        "Rock_Steady": "VERIFIED",
+        "Rock_With_A_Soft_Spot": "VERIFIED",
+        "Rock_in_a_Hard_Place": "VERIFIED",
         "Vigintia": {
             "Vigintius": "VERIFIED",
             "Lora": "VERIFIED"
