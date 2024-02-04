@@ -15,8 +15,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Faluae</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Faluae.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Finarfin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Finarfin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gruffy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Gruffy.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Hellgate</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Larfion the Shaman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Larfion_the_Shaman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Irea</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Irea.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Mysterious Ornate Chest</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Mysterious_Ornate_Chest.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roderick</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Roderick.txt)  
