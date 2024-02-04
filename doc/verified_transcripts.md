@@ -21,6 +21,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Wrinkled Bonelord</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/A_Wrinkled_Bonelord.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ashari</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Ashari.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dreadeye</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Dreadeye.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Larfion the Shaman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Larfion_the_Shaman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Repenter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Hellgate/Repenter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Huntsman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Huntsman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lavirias</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Lavirias.txt)  
