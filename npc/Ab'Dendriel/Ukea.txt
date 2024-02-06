@@ -1,0 +1,18 @@
+Player: hi / ashari
+Ukea: Ashari Player. Welcome to Ab'Dendriel furniture store.
+Player: name
+Ukea: My name is Ukea. I run this store.
+Player: job
+Ukea: Have you moved to a new home? I'm the specialist for equipping it.
+Player: time
+Ukea: It is 8:13 pm. Do you need a clock for your house?
+Player: news
+Ukea: You mean my specials, don't you?
+Player: offer / buy / sell / goods / furniture / equipment
+Ukea: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.
+Player: trade
+Ukea: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?
+Player: type
+Ukea: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?
+Player: bye / asha thrazi
+Ukea: Asha Thrazi, Player.
