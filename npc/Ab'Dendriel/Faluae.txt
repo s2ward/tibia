@@ -1,0 +1,68 @@
+Player: hi / ashari
+Faluae: Greetings, traveller. If you're looking for paladin or druid spells, I might be able to help you.
+Player: name
+Faluae: I am known as Faluae Ethrathil.
+Player: job
+Faluae: I am the spokesperson of the Deraisim caste.
+Player: time
+Faluae: Sorry, I don't know.
+Player: news
+Faluae: Sorry, the only news I have concern the growth of plants and the coming and going of animal herds.
+Player: spells
+Faluae: I teach the spells 'Find Person', 'Find Fiend', 'Light', 'Great Light' and 'Food'.
+Player: level
+Faluae: Just ask me for spells, that's the fastest way to find out which spells I have.
+Player: magic
+Faluae: I learned a little about some minor spells.
+Player: firebomb / invisible / destroy field
+Faluae: Eroth is good at fields, shields and other illusion spells.
+Player: stalagmite / explosion / avalanche
+Faluae: Elathriel is specialised in this aggressive spell.
+Player: cure poison / intense healing / ultimate healing
+Faluae: I suppose Maealil could help you with healing magic.
+Player: sorcerer
+Faluae: They are so ... destructive.
+Player: druid
+Faluae: Druids are very close to Crunor.
+Player: crunor
+Faluae: I praise the Great Tree and Mother Earth, who gave birth to all life, and Nera, the celestial paladin.
+Player: nera
+Faluae: The lady of spring, helper of Crunor and Earth itself.
+Player: humans
+Faluae: I don't like their stone cities and their stench.
+Player: troll
+Faluae: I still can't stand the thought of the Kuridai keeping these disgusting creatures in our settlement.
+Player: dwarfs
+Faluae: Funny little people sometimes. But their tunnels are harmful to the enviroment.
+Player: elves
+Faluae: The elves are split in three castes: the Deraisim, the Kuridai, and the Cenath.
+Player: deraisim
+Faluae: We only stay here to keep our people together. We hunt for them, provide them with food, and scout the area.
+Player: kuridai
+Faluae: They are paranoid, what makes them so aggressive.
+Player: cenath
+Faluae: They think they are so wise but they lost the ability to adore the simple things.
+Player: abdaisim
+Faluae: Our lost brothers and sisters. Oh, we miss them so much.
+Player: teshial
+Faluae: I can only hope they will return one day.
+Player: king
+Faluae: I know nothing about kings.
+Player: army
+Faluae: I don't understand what you mean.
+Player: roderick
+Faluae: He is the thaian ambassador.
+Player: olrik
+Faluae: He is the assistant of the thaian ambassador.
+Player: thais
+Faluae: Thais is far away and that is a good thing.
+Player: venore
+Faluae: I don't appreciate that my people buy that much human wares but there is little I can do about it.
+Player: carlin
+Faluae: For a human city Carlin is not that bad. Its still a scar in the natural enviroment of course.
+Player: ferumbras
+Faluae: I hope this fallen servant of evil will never find us.
+Player: excalibug
+Faluae: What is that?
+Player: bye / asha thrazi
+Faluae: Asha Thrazi, traveller.

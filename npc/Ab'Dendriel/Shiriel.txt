@@ -1,0 +1,42 @@
+Player: hi / ashari
+Shiriel: Ashari Player. If you need to trade magical equipment, ask me.
+Player: name
+Shiriel: I am Shiriel Sharaziel.
+Player: job
+Shiriel: I sell mystic runes, spellbooks, wands, rods and potions of health or mana.
+Player: time
+Shiriel: Time was mastered by my people long ago.
+Player: news
+Shiriel: News are secrets and you are not worthy of my secrets.
+Player: offer / goods / stuff / buy / sell
+Shiriel: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.
+Player: trade
+Shiriel: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?
+Player: magic
+Shiriel: I could teach you some spells ... but I won't.
+Player: crunor
+Shiriel: I have no time for superstition.
+Player: humans
+Shiriel: Cursed with a short lifespan and not worth to be remembered.
+Player: troll
+Shiriel: We should eradicate them all.
+Player: dwarfs
+Shiriel: Not worth to bother about.
+Player: elves
+Shiriel: Our noble race has knowledge of secrets beyond your comprehension.
+Player: deraisim
+Shiriel: They lack the patience that suits a race with our lifespan.
+Player: kuridai
+Shiriel: Their knowledge is limited.
+Player: cenath
+Shiriel: We are the teachers to the other castes.
+Player: abdaisim
+Shiriel: I think they are lost forever.
+Player: teshial
+Shiriel: They were not prepared for what they encountered in their quest for knowledge. WE will be.
+Player: ferumbras
+Shiriel: A humanbreed abnomination.
+Player: excalibug
+Shiriel: I would love to analyse it one day.
+Player: bye / asha thrazi
+Shiriel: Asha Thrazi, Player.

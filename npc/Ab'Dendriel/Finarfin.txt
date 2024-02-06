@@ -1,0 +1,12 @@
+Player: hi / ashari
+Finarfin: Ashari and welcome to the Tibian bank, Player! What can I do for you?
+Player: name
+Finarfin: I am Finarfin Faelifrin.
+Player: job
+Finarfin: I work in this bank. I can change money for you and help you with your bank account.
+Player: time
+Finarfin: It is exactly 5:15 am.
+Player: offer
+Finarfin: We can change money for you. You can also access your bank account or your guild account options.
+Player: bye / asha thrazi
+Finarfin: Asha Thrazi, Player.

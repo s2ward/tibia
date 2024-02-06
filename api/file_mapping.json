@@ -8,20 +8,19 @@
         "Benevola": "VERIFIED",
         "Brasith": "UNVERIFIED",
         "Briasol": "UNVERIFIED",
-        "Captain_Seagull": "EMPTY",
+        "Captain_Seagull": "VERIFIED",
         "Ceiron": "VERIFIED",
         "Demon_Skeleton": "VERIFIED",
         "Draconia": {
             "An_Old_Dragonlord": "VERIFIED"
         },
-        "Edala": "UNVERIFIED",
+        "Edala": "VERIFIED",
         "Elathriel": "VERIFIED",
         "Elf_Guard": "VERIFIED",
-        "Elvith": "UNVERIFIED",
-        "Eroth": "UNVERIFIED",
-        "Faluae": "EMPTY",
-        "Finarfin": "EMPTY",
-        "Gruffy": "UNVERIFIED",
+        "Elvith": "VERIFIED",
+        "Eroth": "VERIFIED",
+        "Faluae": "VERIFIED",
+        "Finarfin": "VERIFIED",
         "Guide_Thelandil": "VERIFIED",
         "Hellgate": {
             "A_Wrinkled_Bonelord": "VERIFIED",
@@ -31,20 +30,20 @@
             "Repenter": "VERIFIED"
         },
         "Huntsman": "VERIFIED",
-        "Irea": "EMPTY",
+        "Irea": "VERIFIED",
         "Lavirias": "VERIFIED",
         "Llathriel": "VERIFIED",
         "Maealil": "VERIFIED",
-        "Mysterious_Ornate_Chest": "UNVERIFIED",
+        "Mysterious_Ornate_Chest": "VERIFIED",
         "Ned_Nobel": "VERIFIED",
         "Olrik": "VERIFIED",
-        "Roderick": "UNVERIFIED",
-        "Shanar": "EMPTY",
-        "Shiriel": "EMPTY",
+        "Roderick": "VERIFIED",
+        "Shanar": "VERIFIED",
+        "Shiriel": "VERIFIED",
         "Shirith": "VERIFIED",
-        "Tigo": "UNVERIFIED",
-        "Tooth_Fairy": "UNVERIFIED",
-        "Ukea": "EMPTY"
+        "Tigo": "VERIFIED",
+        "Tooth_Fairy": "VERIFIED",
+        "Ukea": "VERIFIED"
     },
     "Ankrahmun": {
         "Agostina": "EMPTY",
@@ -1187,7 +1186,8 @@
         "Kizar": "VERIFIED",
         "Messenger_of_Santa": "VERIFIED",
         "Santa_Claus": "VERIFIED",
-        "Test": "VERIFIED"
+        "Test": "VERIFIED",
+        "Gruffy": "UNVERIFIED"
     },
     "Venore": {
         "A_Ghostly_Woman_(Dream_Realm)": "UNVERIFIED",
