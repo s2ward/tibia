@@ -36,3 +36,6 @@ Player: trade
 Bolfona: Oh well, you don't seem to be THAT bad. What do you want?  
 Player: bye  
 Bolfona: Good news!  
+Bolfona (Iddle): You consider yourself superior? Let me show you the drinking skills of a female dwarf.
+Bolfona (Iddle): YES, I'm female. Got a problem with that?!?
+Bolfona (Iddle): Come on guys, have a drink.
