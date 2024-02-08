@@ -10,3 +10,6 @@ Player: rotworm / urine
 Harog: I'm really busy right now. Leave!  
 Player: bye  
 Harog: It's about time.  
+Harog (Iddle): Armor, weapons! Buy a new one or refurbish your old!
+Harog (Iddle): Buying nails! Got any?
+Harog (Iddle): Is your armor rusty? Try my special rust remover and it will shine again.
