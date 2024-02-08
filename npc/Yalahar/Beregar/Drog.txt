@@ -28,3 +28,4 @@ Player: mine / offer
 Drog: About time, Bol honey!  
 Player: name  
 Drog: <Gulp gulp>....Ahhhh.  
+Drog (Iddle): If you shaved yourself, it would be more obvious Bol!
