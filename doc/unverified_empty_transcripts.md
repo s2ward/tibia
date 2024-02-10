@@ -4,11 +4,7 @@
 4. Unverified Transcripts: [↗](./unverified_transcripts.md)
 5. Unverified or Empty Transcripts:
 
-.&nbsp;&nbsp;─&nbsp;&nbsp;<strong>Ab'Dendriel</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bashira</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Bashira.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brasith</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Brasith.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Briasol</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ab'Dendriel/Briasol.txt)  
-├─&nbsp;&nbsp;<strong>Ankrahmun</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun)  
+.&nbsp;&nbsp;─&nbsp;&nbsp;<strong>Ankrahmun</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Agostina</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Agostina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Sinbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Ankrahmun/Captain_Sinbeard.txt)  
@@ -330,7 +326,8 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Victor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Victor.txt)  
 ├─&nbsp;&nbsp;<strong>Various</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">...</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/....txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dread Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Dread_Guardian.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dread Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Dread_Guardian.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gruffy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Gruffy.txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Ghostly Woman (Dream Realm)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/A_Ghostly_Woman_(Dream_Realm).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Aldo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Aldo.txt)  
