@@ -139,7 +139,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tim&#44; The Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Tim,_The_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Victor</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Thais/Victor.txt)  
 ├─&nbsp;&nbsp;<strong>Various</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dread Guardian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Dread_Guardian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gruffy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Various/Gruffy.txt)  
 ├─&nbsp;&nbsp;<strong>Venore</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Ghostly Woman (Dream Realm)</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/A_Ghostly_Woman_(Dream_Realm).txt)  
