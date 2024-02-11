@@ -93,12 +93,7 @@
         "Altar": "EMPTY"
     },
     "Carlin": {
-        "A_Ghostly_Woman": "VERIFIED",
-        "A_Lost_Soul": "EMPTY",
-        "A_Tainted_Soul": "EMPTY",
-        "A_Tortured_Soul": "EMPTY",
         "Alia": "UNVERIFIED",
-        "An_Apparition": "EMPTY",
         "Arkarra": "EMPTY",
         "Bambi_Bonecrusher": "UNVERIFIED",
         "Barbara": "UNVERIFIED",
@@ -133,7 +128,12 @@
         },
         "Friedolin": "UNVERIFIED",
         "Ghostlands": {
-            "The_Queen_Of_The_Banshees": "VERIFIED"
+            "The_Queen_Of_The_Banshees": "VERIFIED",
+            "A_Ghostly_Woman": "VERIFIED",
+            "A_Lost_Soul": "VERIFIED",
+            "A_Tainted_Soul": "VERIFIED",
+            "A_Tortured_Soul": "VERIFIED",
+            "An_Apparition": "VERIFIED"
         },
         "Guide_Alexena": "VERIFIED",
         "Humphrey": "EMPTY",
