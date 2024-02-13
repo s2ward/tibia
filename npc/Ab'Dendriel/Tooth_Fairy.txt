@@ -6,7 +6,7 @@ Player: job
 Tooth Fairy: I'm the tooth fairy. I would think that says it all. I took over the body of a seagull.
 Player: time
 Tooth Fairy: Time is getting short because quite a few children are waiting for their presents.
-Player: rumours / rumors
+Player: news / rumours / rumors
 Tooth Fairy: My sisters and brothers told me that there is a strange evil that threatens this world.
 Player: tooth fairy
 Tooth Fairy: I'm a fae. A rather unique kind of fae, because - as I said - I have a special responsibility for mortal children's milk teeth.
@@ -35,6 +35,8 @@ Player: valindara
 Tooth Fairy: She is a swan maiden and lives in Feyrist.
 Player: talila
 Tooth Fairy: She is a pixies living in Feyrist.
+Player: benevola
+Tooth Fairy: She's a druid who is living near Ab'Dendriel. Alkestios befriended her, so I guess she is trustworthy.
 Player: tibia
 Tooth Fairy: This is the world we are living in - and this place here in particular is very strange, if you're asking me.
 Player: Ab'Dendriel
