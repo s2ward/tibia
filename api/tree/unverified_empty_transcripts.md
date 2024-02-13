@@ -28,7 +28,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cornelia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Cornelia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dalbrect</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Dalbrect.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Dane.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eva</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Eva.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fenbala</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fenbala.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fields of Glory</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Fluffy Squirrel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Fields_of_Glory/A_Fluffy_Squirrel.txt)  
