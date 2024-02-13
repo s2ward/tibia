@@ -101,7 +101,7 @@
         "Blossom_Bonecrusher": "UNVERIFIED",
         "Bunny_Bonecrusher": "VERIFIED",
         "Busty_Bonecrusher": "UNVERIFIED",
-        "Captain_Greyhound": "UNVERIFIED",
+        "Captain_Greyhound": "VERIFIED",
         "Cerdras": "VERIFIED",
         "Chip": "VERIFIED",
         "Cornelia": "UNVERIFIED",
@@ -166,7 +166,7 @@
         },
         "Shauna": "UNVERIFIED",
         "Tibra": "UNVERIFIED",
-        "Tired_Tree": "EMPTY",
+        "Tired_Tree": "VERIFIED",
         "Toothless_Tim": "VERIFIED",
         "Trisha": "UNVERIFIED",
         "Vega": {
@@ -257,7 +257,7 @@
         "Woblin": "VERIFIED"
     },
     "Edron": {
-        "A_Swan": "UNVERIFIED",
+        "A_Swan": "VERIFIED",
         "Alexander": "UNVERIFIED",
         "Amanda": "UNVERIFIED",
         "Arkulius": "UNVERIFIED",
@@ -273,7 +273,7 @@
         "Cormaya": {
             "A_Majestic_Warwolf": "UNVERIFIED",
             "Dedoras": "VERIFIED",
-            "Ghostly_Wolf": "UNVERIFIED",
+            "Ghostly_Wolf": "VERIFIED",
             "Gurbasch": "VERIFIED",
             "Hawkhurst": "EMPTY",
             "Pemaret": "UNVERIFIED",
@@ -304,7 +304,7 @@
         },
         "Guide_Jonathan": "VERIFIED",
         "Gundralph": "UNVERIFIED",
-        "Ikassis": "UNVERIFIED",
+        "Ikassis": "VERIFIED",
         "Iwan": "UNVERIFIED",
         "Jerom": "VERIFIED",
         "Lailene": "VERIFIED",
@@ -611,7 +611,7 @@
             "GNOPS_Member": "EMPTY",
             "Gnomenerdia": "EMPTY"
         },
-        "Grumpy_Stone": "EMPTY",
+        "Grumpy_Stone": "VERIFIED",
         "Hemor,_The_Guard": "VERIFIED",
         "Humgolf": "VERIFIED",
         "Humnog,_The_Guard": "VERIFIED",
