@@ -1,0 +1,23 @@
+Player: hi
+Peaceful Pooka: Hello, mortal being! Do you want to play a game?
+Player: (any)
+Peaceful Pooka: Cowardly mortal being!
+Player: yes
+Peaceful Pooka: Great! So listen: Pookas have the ability to know what others were dreaming recently. Depending on the dream you had last night, I will carry out something. ...
+Peaceful Pooka: This can be something pleasant like a present ... or something annoying. Are you ready?
+Player: yes (possible outcome 1)
+Peaceful Pooka: A bit of fairy dust for the mortal being! (Sparkles appear over you character)
+Player: yes (possible outcome 2)
+Peaceful Pooka: You're a jinx! (Curses you for 39 damage split in 11 turns)
+Player: yes (possible outcome 3)
+Peaceful Pooka: You win! Take this present and have fun with it! (Gives you a Spellwand)
+Player: yes (possible outcome 4)
+Peaceful Pooka: Haha, off with you! (Teleports you to the north of Feyrist)
+Player: yes (possible outcome 5)
+Peaceful Pooka: Lucky one! I was searching for a babysitter and I'm sure you'll have a lot of fun taking care of my baby here! (Summons a wild Rabbit)
+Player: yes (possible outcome 6)
+Peaceful Pooka: You win! Take this present and have fun with it! (Gives you an Explosive Present)
+Player: yes (possible outcome 7)
+Peaceful Pooka: Haha, you lose! Thanks for the shiny coins, they are pretty! (Takes coins?)
+Player: bye
+Peaceful Pooka: Good luck!

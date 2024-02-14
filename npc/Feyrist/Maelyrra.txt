@@ -102,6 +102,8 @@ Player: starlight vial
 Maelyrra: Ask the mermaid Aurita for the starlight vial. You may find her at the beach in the west of Feyrist.
 Player: sun catcher
 Maelyrra: Ask the faun Taegen for the sun catcher. You can find him here in our village.
+Player: raven herb
+Maelyrra: That's a very rare fern-like plant. If eaten it allows an air breathing creature to breathe underwater for a while. But know that you'll find it only at night. It resembles a common fern but its leaves are of a lighter green.
 Player: Ikassis
 Maelyrra: She is a member of my court and accompanied Alkestios on his mission in the outside world.
 Player: Valindara

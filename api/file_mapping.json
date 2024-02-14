@@ -445,20 +445,20 @@
             "Olhan": "VERIFIED",
             "Shirtalis_of_the_Summer_Court": "EMPTY",
             "The_Dentist": "VERIFIED",
-            "Undal": "EMPTY",
-            "Vanys": "EMPTY",
+            "Undal": "VERIFIED",
+            "Vanys": "VERIFIED",
             "Yrlin": "VERIFIED"
         },
         "Feyrist_Meadows": {
-            "Aurita": "EMPTY",
-            "Dancing_Fairy": "EMPTY",
-            "Gerimor": "EMPTY"
+            "Aurita": "VERIFIED",
+            "Dancing_Fairy": "VERIFIED",
+            "Gerimor": "VERIFIED"
         },
         "Maelyrra": "VERIFIED",
-        "Peaceful_Pooka": "EMPTY",
+        "Peaceful_Pooka": "VERIFIED",
         "Taegen": "VERIFIED",
-        "Talila": "EMPTY",
-        "Valindara": "EMPTY"
+        "Talila": "VERIFIED",
+        "Valindara": "VERIFIED"
     },
     "Gray_Beach": {
         "Alternative_Rock": "VERIFIED",

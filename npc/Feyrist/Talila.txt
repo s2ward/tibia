@@ -1,0 +1,16 @@
+Player: hi
+Talila: Greetings, mortal being!
+Player: name
+Talila: I'm Talila.
+Player: job
+Talila: I sell and buy precious things.
+Player: time
+Talila: Yes, I have time for a little chat or a trade.
+Player: trade / offer
+Talila: Yes, I have some potions and runes if you are interested. Or do you want to buy only potions or only runes? Oh, if you want to sell or buy gems, you may also ask me.
+Player: news / rumours / rumors
+Talila: Something unsettling seems to happen on Feyrist right now. But if you want to know more you should talk to Maelyrra.
+Player: maelyrra
+Talila: Maelyrra is our queen, a beautiful nymph.
+Player: bye
+Talila: Farewell, friend.
