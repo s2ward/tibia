@@ -15,7 +15,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Barbara</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Barbara.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Blossom Bonecrusher</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Blossom_Bonecrusher.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Busty Bonecrusher</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Busty_Bonecrusher.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Greyhound</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Captain_Greyhound.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cornelia</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Cornelia.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dalbrect</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Dalbrect.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dane</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Carlin/Dane.txt)  

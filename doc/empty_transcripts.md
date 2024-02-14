@@ -40,7 +40,6 @@
 ├─&nbsp;&nbsp;<strong>Edron</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Artemyth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Artemyth.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Cormaya</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hawkhurst</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Hawkhurst.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Ysbasra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/Ysbasra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eremo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Eremo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Primal Gnome Hub</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Primal_Gnome_Hub)  
