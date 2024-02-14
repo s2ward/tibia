@@ -1,4 +1,3 @@
-
 Player: hi
 Scott the Scout: Hello, Cony Island. Norman told me a young adventurer would visit. Do you have that grind stone with you?
 Player: no
