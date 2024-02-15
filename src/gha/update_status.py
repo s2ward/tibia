@@ -66,7 +66,7 @@ npc_status_output = os.environ.get('npc_status_output', 'No NPC status output fo
 # Initialize content lines for Discord message
 content_lines = [
     f"**{pr_opener}** has made a contribution! :first_place:",
-    f"Issue: [{pr_title}]({pr_url})",
+    f"Issue: [{pr_title}](<{pr_url}>)",
 ]
 
 # Collect file changes in a list
@@ -77,7 +77,7 @@ for f in pr_files:
     npc_name = f.split('/')[-1].replace('.txt', '')
     npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}'
     file_changes.append(
-        f"File: [{f}](<{file_url}>) - Read {npc_name.replace('_', ' ')} on [NPSearch](<{npsearch_url}>)"
+        f"File: [{f}](<{file_url}>) - Read on [NPSearch](<{npsearch_url}>)"
     )
 
 # Once all file changes are collected
@@ -86,7 +86,7 @@ content_lines.extend(file_changes)
 
 # Add project status at the end, ensuring any URL there is also enclosed in < >
 npc_status_output = os.environ.get('npc_status_output', 'No NPC status output found')
-content_lines.append("\n**Project Status**:\n" + (f"<{npc_status_output}>" if npc_status_output else "\n**Project Status**: *Data not available*"))
+content_lines.append("\n**Project Status**:\n" + (f"{npc_status_output}" if npc_status_output else "\n**Project Status**: *Data not available*"))
 
 # Prepare the final Discord message content
 discord_message_content = "\n".join(content_lines)
