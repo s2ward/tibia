@@ -72,22 +72,21 @@ content_lines = [
 # Collect file changes in a list
 file_changes = []
 for f in pr_files:
-    file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
+    # Enclose file_url and npsearch_url with < >
+    file_url = f'https://github.com/{repo_name}/blob/main/{f}'
     npc_name = f.split('/')[-1].replace('.txt', '')
     npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}'
-    npc_name_with_spaces = npc_name.replace('_', ' ')  # Replace underscores with spaces for display
     file_changes.append(
-        f"File: [{f}]({file_url}) - Read {npc_name_with_spaces} on [NPSearch]({npsearch_url})"
+        f"File: [{f}](<{file_url}>) - Read {npc_name.replace('_', ' ')} on [NPSearch](<{npsearch_url}>)"
     )
 
-# Add file changes to content lines if there are any
-if file_changes:
-    content_lines.append("\n**File Changes:**")
-    content_lines.extend(file_changes)
+# Once all file changes are collected
+content_lines.append("\n**File Changes:**")
+content_lines.extend(file_changes)
 
-# Add project status at the end
+# Add project status at the end, ensuring any URL there is also enclosed in < >
 npc_status_output = os.environ.get('npc_status_output', 'No NPC status output found')
-content_lines.append("\n**Project Status**:\n" + npc_status_output if npc_status_output else "\n**Project Status**: *Data not available*")
+content_lines.append("\n**Project Status**:\n" + (f"<{npc_status_output}>" if npc_status_output else "\n**Project Status**: *Data not available*"))
 
 # Prepare the final Discord message content
 discord_message_content = "\n".join(content_lines)
