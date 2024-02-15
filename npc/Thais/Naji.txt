@@ -6,6 +6,8 @@ Player: yes
 Naji: Hey, awesome. Good job. Here's some gold for all your work. Thanks to you we can open the bank again.
 Player: hi / hello  
 Naji: Welcome to the Tibian bank, Player! What can I do for you?  
+Player: hi
+Naji: Welcome to the Tibian bank, Player! And happy Kingsday. May your fortune grow and prosper.
 Player: job  
 Naji: I work in this bank. I can change money for you and help you with your bank account.  
 Player: name  

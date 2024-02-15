@@ -1,5 +1,7 @@
 Player: hi
 Quentin: Welcome, adventurer Player If you are new in Tibia, ask me for help or healing.
+Player: hi
+Quentin: I'm not all that happy with the decoration they've put up in my temple, but I guess Kingsday is Kingsday. How can I help you?
 Player: name
 Quentin: My name is Quentin.
 Player: job

@@ -1,5 +1,7 @@
 Player: hi
 Sherry McRonald: Hello Player! Welcome to our humble farm. If you need food, just ask me for a trade.
+Player: hi
+Sherry McRonald: Today is just a day like any other - much farmwork to be done.
 Player: name
 Sherry McRonald: I am Sherry McRonald.
 Player: job
