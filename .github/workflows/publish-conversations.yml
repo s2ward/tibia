@@ -60,11 +60,9 @@ jobs:
       - name: Generate trees
         run: python src/gha/tree.py
 
-      - name: Commit and push changes
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add .
-            git commit -m "Apply NPC updates"
-            git push origin $PR_BRANCH_NAME
-          else
-            echo "No changes to commit."
+      - name: Commit file_mapping.json
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Apply NPC updates"
+          file_pattern: .
+          branch: ${{ needs.prepare.outputs.pr_branch_name }}
