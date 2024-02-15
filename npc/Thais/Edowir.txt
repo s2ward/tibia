@@ -1,5 +1,7 @@
 Player: hi  
-Edowir: Oh, hello Player! How nice of you to visit an old man like me.  
+Edowir: Oh, hello Player! How nice of you to visit an old man like me.
+Player: hi
+Edowir: It's Kingsday, you say? About what is it this time? Did the child get a new toy?
 Player: name  
 Edowir: I am Edowir, but don't worry about remembering my name. I will forget your name as well.  
 Player: job / old man  
