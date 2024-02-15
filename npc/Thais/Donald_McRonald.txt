@@ -1,5 +1,7 @@
 Player: hi  
 Donald McRonald: Hmmm, well, hello Player. What brings you here?  
+Player: hi
+Donald McRonald: Today is just a day like any other - much farmwork to be done.
 Player: here / job  
 Donald McRonald: I run a farm, what else?!  
 Player: name  
