@@ -16,6 +16,8 @@ Player: tibia
 Lugri: The world of Tibia is there to be taken by the strongest. When the time is right, it will fall like an overripe plum...
 Player: King
 Lugri: This puny king is no threat for our master's plans.
+Player: kingsday
+Lugri: Oh please. Leave me alone with that rubbish.
 Player: Mission / Quest / survival / supremacy
 Lugri: Aren't we all on a quest for survival and supremacy?
 Player: Fight
