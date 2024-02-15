@@ -1,5 +1,7 @@
 Player: hi / hello  
-Baxter: LONG LIVE KING TIBIANUS!  
+Baxter: LONG LIVE KING TIBIANUS!
+Player: hi
+Baxter: LONG LIVE THE KING! Our wise and generous leader allows all commoners to celebrate Kingsday in the castle. What honour!
 Player: army / guard  
 Baxter: Our brave army, which protects our city, consists of three battle groups.  
 Player: battlegroup  
