@@ -280,7 +280,6 @@
             "Yoem": "VERIFIED",
             "Ysbasra": "VERIFIED"
         },
-        "Cornell": "UNVERIFIED",
         "Daniel_Steelsoul": "UNVERIFIED",
         "Demonwar_Dungeon": {
             "A_Dark_Priestess": "UNVERIFIED"
@@ -300,7 +299,10 @@
             "Falonzo": "VERIFIED"
         },
         "Grimvale": {
-            "Gladys": "UNVERIFIED"
+            "Gladys": "UNVERIFIED",
+            "Cornell": "VERIFIED",
+            "Maeryn": "VERIFIED",
+            "Owin": "VERIFIED"
         },
         "Guide_Jonathan": "VERIFIED",
         "Gundralph": "UNVERIFIED",
@@ -310,23 +312,11 @@
         "Lailene": "VERIFIED",
         "Lesser_Messenger_of_Heaven": "UNVERIFIED",
         "Luna": "UNVERIFIED",
-        "Maeryn": "UNVERIFIED",
         "Milos": "VERIFIED",
         "Mirabell": "VERIFIED",
         "Myzzi": "UNVERIFIED",
-        "Owin": "UNVERIFIED",
         "Pino": "UNVERIFIED",
-        "Primal_Gnome_Hub": {
-            "Gnomadness": "EMPTY",
-            "Gnomfurry": "EMPTY",
-            "Gnominer": "EMPTY",
-            "Gnomish_Operative_(Firefoot)": "EMPTY",
-            "Gnomish_Operative_(GT-M-01)": "EMPTY",
-            "Gnomish_Operative_(Moss)": "EMPTY",
-            "Gnomish_Operative_(Testing)": "EMPTY",
-            "Gnomish_Operative_(Volcano)": "EMPTY",
-            "Urks_The_Mute": "EMPTY"
-        },
+        "Primal_Gnome_Hub": {},
         "Puffels": "VERIFIED",
         "Rudolph": "VERIFIED",
         "Sandra": "UNVERIFIED",
@@ -807,6 +797,17 @@
         },
         "Stardance_Mountains": {
             "Kaumudi": "EMPTY"
+        },
+        "Gnomprona": {
+            "Gnomadness": "EMPTY",
+            "Gnomfurry": "EMPTY",
+            "Gnominer": "EMPTY",
+            "Gnomish_Operative_(Firefoot)": "EMPTY",
+            "Gnomish_Operative_(GT-M-01)": "EMPTY",
+            "Gnomish_Operative_(Moss)": "EMPTY",
+            "Gnomish_Operative_(Testing)": "EMPTY",
+            "Gnomish_Operative_(Volcano)": "EMPTY",
+            "Urks_The_Mute": "EMPTY"
         }
     },
     "Port_Hope": {
