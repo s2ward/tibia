@@ -58,7 +58,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Emilio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Falk</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Falk.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimvale</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gladys</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Gladys.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Cornell</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Cornell.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gundralph</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Gundralph.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Iwan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Iwan.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lesser Messenger of Heaven</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Lesser_Messenger_of_Heaven.txt)  
