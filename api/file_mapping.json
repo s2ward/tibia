@@ -285,9 +285,6 @@
             "A_Dark_Priestess": "VERIFIED"
         },
         "Ebenizer": "VERIFIED",
-        "Edron_Castle": {
-            "Gnomcruiter": "UNVERIFIED"
-        },
         "Edron_Guardsman": "UNVERIFIED",
         "Edvard": "UNVERIFIED",
         "Eliza": "VERIFIED",
@@ -316,7 +313,6 @@
         "Mirabell": "VERIFIED",
         "Myzzi": "UNVERIFIED",
         "Pino": "UNVERIFIED",
-        "Primal_Gnome_Hub": {},
         "Puffels": "VERIFIED",
         "Rudolph": "VERIFIED",
         "Sandra": "UNVERIFIED",
@@ -344,7 +340,8 @@
         "Zarganash": {
             "Flickering_Soul": "VERIFIED"
         },
-        "Zoltan": "UNVERIFIED"
+        "Zoltan": "UNVERIFIED",
+        "Gnomcruiter": "VERIFIED"
     },
     "Farmine": {
         "A_Sleeping_Dragon": "VERIFIED",
