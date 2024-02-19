@@ -199,7 +199,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fury Hell</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Fury_Hell)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Falonzo</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Fury_Hell/Falonzo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grimvale</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cornell</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Cornell.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gladys</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Gladys.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maeryn</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Maeryn.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Owin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Grimvale/Owin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Jonathan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Guide_Jonathan.txt)  
