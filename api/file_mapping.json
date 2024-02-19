@@ -285,9 +285,7 @@
             "A_Dark_Priestess": "VERIFIED"
         },
         "Ebenizer": "VERIFIED",
-        "Edron_Castle": {
-            "Gnomcruiter": "UNVERIFIED"
-        },
+        "Edron_Castle": {},
         "Edron_Guardsman": "UNVERIFIED",
         "Edvard": "UNVERIFIED",
         "Eliza": "VERIFIED",
@@ -344,7 +342,8 @@
         "Zarganash": {
             "Flickering_Soul": "VERIFIED"
         },
-        "Zoltan": "UNVERIFIED"
+        "Zoltan": "UNVERIFIED",
+        "Gnomcruiter": "VERIFIED"
     },
     "Farmine": {
         "A_Sleeping_Dragon": "VERIFIED",
