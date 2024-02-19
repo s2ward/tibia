@@ -49,8 +49,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Seahorse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Captain_Seahorse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chrystal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Chrystal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Daniel Steelsoul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Daniel_Steelsoul.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Edron Castle</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Edron_Castle)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomcruiter</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Edron_Castle/Gnomcruiter.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edron Guardsman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Edron_Guardsman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edvard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Edvard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilio</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Emilio.txt)  
