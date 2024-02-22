@@ -15,7 +15,7 @@ replace_dict = {
 }
 
 def check_txt_files_for_errors(folder):
-    timestamp_pattern = re.compile(r'^\d{2}:\d{2}', re.MULTILINE)
+    timestamp_pattern = re.compile(r'^\d{2}:\d{2}(:\d{2})?', re.MULTILINE)
     number_pattern = re.compile(r'\[\d+\]')
     
     has_errors = False
