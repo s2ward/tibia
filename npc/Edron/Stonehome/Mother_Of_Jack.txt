@@ -1,3 +1,8 @@
+Player: (idle)
+Mother Of Jack: Oh dear, I can't find anything in here!
+Mother Of Jack: There is still some dust on the drawer over there. What were you thinking, Jane?
+Mother Of Jack: Jane!
+Mother Of Jack: JAAAAACK? EVERYTHING ALRIGHT DOWN THERE?
 Player: hi  
 Mother Of Jack: I demand an explanation of you entering our house without any invitation.  
 Player: name  
@@ -8,9 +13,9 @@ Player: time
 Mother Of Jack: It's exactly 6:47 am.  
 Player: news / rumours  
 Mother Of Jack: I'm sorry but I do not have any news for you.  
-Player: Jack  
+Player: jack  
 Mother Of Jack: JAAACK!! Why won't he come up here? Jack!! No, no I can't believe it.  
-Player: Jane / sister / daughter  
+Player: jane / sister / daughter  
 Mother Of Jack: Well, Jane is of course helping me with the household, always doing this and that. Hardworking girl she is, hardworking girl.  
 Player: tibia  
 Mother Of Jack: I'm happy right here as long as Jack and Jane are with me.  
