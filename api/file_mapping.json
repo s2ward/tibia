@@ -97,7 +97,7 @@
         "Arkarra": "EMPTY",
         "Bambi_Bonecrusher": "UNVERIFIED",
         "Barbara": "UNVERIFIED",
-        "Benny_The_Baker": "EMPTY",
+        "Benny_The_Baker": "VERIFIED",
         "Blossom_Bonecrusher": "UNVERIFIED",
         "Bunny_Bonecrusher": "VERIFIED",
         "Busty_Bonecrusher": "UNVERIFIED",
@@ -188,7 +188,7 @@
         },
         "Asima": "VERIFIED",
         "Azil": "VERIFIED",
-        "Balduin_The_Baker": "UNVERIFIED",
+        "Balduin_The_Baker": "VERIFIED",
         "Bozarn": "UNVERIFIED",
         "Casper": "VERIFIED",
         "Caverna_Exanima": {
@@ -266,7 +266,6 @@
         "Beatrice": "VERIFIED",
         "Bonifacius": "VERIFIED",
         "Brian_The_Baker": "UNVERIFIED",
-        "Brutus_The_Baker": "UNVERIFIED",
         "Captain_Seahorse": "UNVERIFIED",
         "Chief_Grarkharok": "VERIFIED",
         "Chrystal": "UNVERIFIED",
@@ -278,7 +277,8 @@
             "Hawkhurst": "VERIFIED",
             "Pemaret": "VERIFIED",
             "Yoem": "VERIFIED",
-            "Ysbasra": "VERIFIED"
+            "Ysbasra": "VERIFIED",
+            "Brutus_The_Baker": "VERIFIED"
         },
         "Daniel_Steelsoul": "UNVERIFIED",
         "Demonwar_Dungeon": {
@@ -668,7 +668,7 @@
     "Liberty_Bay": {
         "Berenice": "VERIFIED",
         "Bertram": "VERIFIED",
-        "Billy_The_Baker": "EMPTY",
+        "Billy_The_Baker": "VERIFIED",
         "Bounac": {
             "An_Idol": "VERIFIED",
             "Augustin": "VERIFIED",
@@ -1055,7 +1055,7 @@
         "Aruda": "VERIFIED",
         "Baxter": "VERIFIED",
         "Benjamin": "VERIFIED",
-        "Biff_The_Baker": "EMPTY",
+        "Biff_The_Baker": "VERIFIED",
         "Black_Bert": "VERIFIED",
         "Bozo": "VERIFIED",
         "Captain_Bluebear": "VERIFIED",
