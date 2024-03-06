@@ -1,5 +1,6 @@
 Player: (idle)
 Jack: Mh...  
+Jack: Now I need to clean up everything again.
 Jack: Could it be...? No. No way.  
 Jack: So much to do, so little time, they say...  
 Player: hi (tricked)
