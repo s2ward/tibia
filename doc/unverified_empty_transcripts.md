@@ -72,7 +72,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Amanda</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Amanda.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Arkulius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Arkulius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Artemyth</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Artemyth.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brian The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Brian_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Seahorse</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Captain_Seahorse.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chrystal</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Chrystal.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Daniel Steelsoul</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Daniel_Steelsoul.txt)  
