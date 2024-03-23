@@ -185,6 +185,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Avar Tar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Avar_Tar.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Beatrice</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Beatrice.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Bonifacius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Bonifacius.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brian The Baker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Brian_The_Baker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Chief Grarkharok</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Chief_Grarkharok.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Cormaya</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Majestic Warwolf</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Cormaya/A_Majestic_Warwolf.txt)  
