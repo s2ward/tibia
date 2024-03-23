@@ -1,3 +1,6 @@
+Player: (idle)
+Drog: If you shaved yourself, it would be more obvious Bol!
+Drog: <gulp gulp>
 Player: hi  
 Drog: <Gulp>... Hellooo<burp>oo!  
 Player: beer / chocolate cake  

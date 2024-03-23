@@ -1,3 +1,7 @@
+Player: (idle)
+Bolfona: You consider yourself superior? Let me show you the drinking skills of a female dwarf.
+Bolfona: YES, I'm female. Got a problem with that?!?
+Bolfona: Come on guys, have a drink.
 Player: hi  
 Bolfona: Are you talking to me? Well, go on chatting but don't expect an answer.  
 Player: beer / chocolate cake  
