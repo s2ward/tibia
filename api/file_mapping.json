@@ -93,39 +93,34 @@
         "Altar": "EMPTY"
     },
     "Carlin": {
-        "A_Ghostly_Woman": "VERIFIED",
-        "A_Lost_Soul": "EMPTY",
-        "A_Tainted_Soul": "EMPTY",
-        "A_Tortured_Soul": "EMPTY",
         "Alia": "UNVERIFIED",
-        "An_Apparition": "EMPTY",
         "Arkarra": "EMPTY",
         "Bambi_Bonecrusher": "UNVERIFIED",
         "Barbara": "UNVERIFIED",
-        "Benny_The_Baker": "EMPTY",
+        "Benny_The_Baker": "VERIFIED",
         "Blossom_Bonecrusher": "UNVERIFIED",
         "Bunny_Bonecrusher": "VERIFIED",
         "Busty_Bonecrusher": "UNVERIFIED",
-        "Captain_Greyhound": "UNVERIFIED",
+        "Captain_Greyhound": "VERIFIED",
         "Cerdras": "VERIFIED",
         "Chip": "VERIFIED",
         "Cornelia": "UNVERIFIED",
         "Dalbrect": "UNVERIFIED",
         "Dane": "UNVERIFIED",
         "Emma": "VERIFIED",
-        "Eva": "EMPTY",
+        "Eva": "VERIFIED",
         "Fenbala": "UNVERIFIED",
         "Fields_of_Glory": {
             "A_Bearded_Woman": "VERIFIED",
-            "A_Fluffy_Squirrel": "UNVERIFIED",
+            "A_Fluffy_Squirrel": "VERIFIED",
             "Ajax": "VERIFIED",
             "Aneus": "VERIFIED",
             "Bron": "VERIFIED",
-            "Bruno": "UNVERIFIED",
+            "Bruno": "VERIFIED",
             "Gelagos": "VERIFIED",
-            "Graubart": "UNVERIFIED",
-            "Marlene": "UNVERIFIED",
-            "Mortimer": "EMPTY"
+            "Graubart": "VERIFIED",
+            "Marlene": "VERIFIED",
+            "Mortimer": "VERIFIED"
         },
         "Florentine": "EMPTY",
         "Folda": {
@@ -133,7 +128,12 @@
         },
         "Friedolin": "UNVERIFIED",
         "Ghostlands": {
-            "The_Queen_Of_The_Banshees": "VERIFIED"
+            "The_Queen_Of_The_Banshees": "VERIFIED",
+            "A_Ghostly_Woman": "VERIFIED",
+            "A_Lost_Soul": "VERIFIED",
+            "A_Tainted_Soul": "VERIFIED",
+            "A_Tortured_Soul": "VERIFIED",
+            "An_Apparition": "VERIFIED"
         },
         "Guide_Alexena": "VERIFIED",
         "Humphrey": "EMPTY",
@@ -166,7 +166,7 @@
         },
         "Shauna": "UNVERIFIED",
         "Tibra": "UNVERIFIED",
-        "Tired_Tree": "EMPTY",
+        "Tired_Tree": "VERIFIED",
         "Toothless_Tim": "VERIFIED",
         "Trisha": "UNVERIFIED",
         "Vega": {
@@ -188,7 +188,7 @@
         },
         "Asima": "VERIFIED",
         "Azil": "VERIFIED",
-        "Balduin_The_Baker": "UNVERIFIED",
+        "Balduin_The_Baker": "VERIFIED",
         "Bozarn": "UNVERIFIED",
         "Casper": "VERIFIED",
         "Caverna_Exanima": {
@@ -257,7 +257,7 @@
         "Woblin": "VERIFIED"
     },
     "Edron": {
-        "A_Swan": "UNVERIFIED",
+        "A_Swan": "VERIFIED",
         "Alexander": "UNVERIFIED",
         "Amanda": "UNVERIFIED",
         "Arkulius": "UNVERIFIED",
@@ -265,30 +265,26 @@
         "Avar_Tar": "VERIFIED",
         "Beatrice": "VERIFIED",
         "Bonifacius": "VERIFIED",
-        "Brian_The_Baker": "UNVERIFIED",
-        "Brutus_The_Baker": "UNVERIFIED",
+        "Brian_The_Baker": "VERIFIED",
         "Captain_Seahorse": "UNVERIFIED",
         "Chief_Grarkharok": "VERIFIED",
         "Chrystal": "UNVERIFIED",
         "Cormaya": {
-            "A_Majestic_Warwolf": "UNVERIFIED",
+            "A_Majestic_Warwolf": "VERIFIED",
             "Dedoras": "VERIFIED",
-            "Ghostly_Wolf": "UNVERIFIED",
+            "Ghostly_Wolf": "VERIFIED",
             "Gurbasch": "VERIFIED",
-            "Hawkhurst": "EMPTY",
-            "Pemaret": "UNVERIFIED",
-            "Yoem": "UNVERIFIED",
-            "Ysbasra": "EMPTY"
+            "Hawkhurst": "VERIFIED",
+            "Pemaret": "VERIFIED",
+            "Yoem": "VERIFIED",
+            "Ysbasra": "VERIFIED",
+            "Brutus_The_Baker": "VERIFIED"
         },
-        "Cornell": "UNVERIFIED",
         "Daniel_Steelsoul": "UNVERIFIED",
         "Demonwar_Dungeon": {
-            "A_Dark_Priestess": "UNVERIFIED"
+            "A_Dark_Priestess": "VERIFIED"
         },
         "Ebenizer": "VERIFIED",
-        "Edron_Castle": {
-            "Gnomcruiter": "UNVERIFIED"
-        },
         "Edron_Guardsman": "UNVERIFIED",
         "Edvard": "UNVERIFIED",
         "Eliza": "VERIFIED",
@@ -300,33 +296,23 @@
             "Falonzo": "VERIFIED"
         },
         "Grimvale": {
-            "Gladys": "UNVERIFIED"
+            "Gladys": "VERIFIED",
+            "Cornell": "VERIFIED",
+            "Maeryn": "VERIFIED",
+            "Owin": "VERIFIED"
         },
         "Guide_Jonathan": "VERIFIED",
         "Gundralph": "UNVERIFIED",
-        "Ikassis": "UNVERIFIED",
+        "Ikassis": "VERIFIED",
         "Iwan": "UNVERIFIED",
         "Jerom": "VERIFIED",
         "Lailene": "VERIFIED",
         "Lesser_Messenger_of_Heaven": "UNVERIFIED",
         "Luna": "UNVERIFIED",
-        "Maeryn": "UNVERIFIED",
         "Milos": "VERIFIED",
         "Mirabell": "VERIFIED",
         "Myzzi": "UNVERIFIED",
-        "Owin": "UNVERIFIED",
         "Pino": "UNVERIFIED",
-        "Primal_Gnome_Hub": {
-            "Gnomadness": "EMPTY",
-            "Gnomfurry": "EMPTY",
-            "Gnominer": "EMPTY",
-            "Gnomish_Operative_(Firefoot)": "EMPTY",
-            "Gnomish_Operative_(GT-M-01)": "EMPTY",
-            "Gnomish_Operative_(Moss)": "EMPTY",
-            "Gnomish_Operative_(Testing)": "EMPTY",
-            "Gnomish_Operative_(Volcano)": "EMPTY",
-            "Urks_The_Mute": "EMPTY"
-        },
         "Puffels": "VERIFIED",
         "Rudolph": "VERIFIED",
         "Sandra": "UNVERIFIED",
@@ -337,9 +323,9 @@
         "Sinclair": "VERIFIED",
         "Spectulus": "VERIFIED",
         "Stonehome": {
-            "Albert": "UNVERIFIED",
-            "Jack": "UNVERIFIED",
-            "James": "UNVERIFIED",
+            "Albert": "VERIFIED",
+            "Jack": "VERIFIED",
+            "James": "VERIFIED",
             "Mother_Of_Jack": "VERIFIED",
             "Sister_Of_Jack": "VERIFIED"
         },
@@ -354,7 +340,8 @@
         "Zarganash": {
             "Flickering_Soul": "VERIFIED"
         },
-        "Zoltan": "UNVERIFIED"
+        "Zoltan": "UNVERIFIED",
+        "Gnomcruiter": "VERIFIED"
     },
     "Farmine": {
         "A_Sleeping_Dragon": "VERIFIED",
@@ -445,20 +432,20 @@
             "Olhan": "VERIFIED",
             "Shirtalis_of_the_Summer_Court": "EMPTY",
             "The_Dentist": "VERIFIED",
-            "Undal": "EMPTY",
-            "Vanys": "EMPTY",
+            "Undal": "VERIFIED",
+            "Vanys": "VERIFIED",
             "Yrlin": "VERIFIED"
         },
         "Feyrist_Meadows": {
-            "Aurita": "EMPTY",
-            "Dancing_Fairy": "EMPTY",
-            "Gerimor": "EMPTY"
+            "Aurita": "VERIFIED",
+            "Dancing_Fairy": "VERIFIED",
+            "Gerimor": "VERIFIED"
         },
         "Maelyrra": "VERIFIED",
-        "Peaceful_Pooka": "EMPTY",
+        "Peaceful_Pooka": "VERIFIED",
         "Taegen": "VERIFIED",
-        "Talila": "EMPTY",
-        "Valindara": "EMPTY"
+        "Talila": "VERIFIED",
+        "Valindara": "VERIFIED"
     },
     "Gray_Beach": {
         "Alternative_Rock": "VERIFIED",
@@ -611,7 +598,7 @@
             "GNOPS_Member": "EMPTY",
             "Gnomenerdia": "EMPTY"
         },
-        "Grumpy_Stone": "EMPTY",
+        "Grumpy_Stone": "VERIFIED",
         "Hemor,_The_Guard": "VERIFIED",
         "Humgolf": "VERIFIED",
         "Humnog,_The_Guard": "VERIFIED",
@@ -681,7 +668,7 @@
     "Liberty_Bay": {
         "Berenice": "VERIFIED",
         "Bertram": "VERIFIED",
-        "Billy_The_Baker": "EMPTY",
+        "Billy_The_Baker": "VERIFIED",
         "Bounac": {
             "An_Idol": "VERIFIED",
             "Augustin": "VERIFIED",
@@ -807,6 +794,17 @@
         },
         "Stardance_Mountains": {
             "Kaumudi": "EMPTY"
+        },
+        "Gnomprona": {
+            "Gnomadness": "EMPTY",
+            "Gnomfurry": "EMPTY",
+            "Gnominer": "EMPTY",
+            "Gnomish_Operative_(Firefoot)": "EMPTY",
+            "Gnomish_Operative_(GT-M-01)": "EMPTY",
+            "Gnomish_Operative_(Moss)": "EMPTY",
+            "Gnomish_Operative_(Testing)": "EMPTY",
+            "Gnomish_Operative_(Volcano)": "EMPTY",
+            "Urks_The_Mute": "EMPTY"
         }
     },
     "Port_Hope": {
@@ -1057,7 +1055,7 @@
         "Aruda": "VERIFIED",
         "Baxter": "VERIFIED",
         "Benjamin": "VERIFIED",
-        "Biff_The_Baker": "EMPTY",
+        "Biff_The_Baker": "VERIFIED",
         "Black_Bert": "VERIFIED",
         "Bozo": "VERIFIED",
         "Captain_Bluebear": "VERIFIED",
@@ -1182,7 +1180,7 @@
     },
     "Various": {
         "...": "EMPTY",
-        "Dread_Guardian": "UNVERIFIED",
+        "Dread_Guardian": "VERIFIED",
         "Kizar": "VERIFIED",
         "Messenger_of_Santa": "VERIFIED",
         "Santa_Claus": "VERIFIED",
@@ -1218,9 +1216,9 @@
         "Dove": "UNVERIFIED",
         "Dustrunner": "VERIFIED",
         "Eustacio": "UNVERIFIED",
-        "Frank_The_Plank": "EMPTY",
+        "Frank_The_Plank": "VERIFIED",
         "Frans": "VERIFIED",
-        "George_The_Boyscout": "EMPTY",
+        "George_The_Boyscout": "VERIFIED",
         "Green_Claw_Swamp": {
             "Wyda": "VERIFIED"
         },
@@ -1296,7 +1294,7 @@
         "Rokyn": "VERIFIED",
         "Romella": "UNVERIFIED",
         "Rose": "VERIFIED",
-        "Scott_The_Scout": "EMPTY",
+        "Scott_The_Scout": "VERIFIED",
         "Shiantis": "UNVERIFIED",
         "Smiley": "VERIFIED",
         "Sniff": "EMPTY",

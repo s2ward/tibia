@@ -1,0 +1,46 @@
+Player: hi (edron)
+Cornell: Welcome on board, Sir Player. May I sail you to the island nearby?
+Player: no
+Cornell: Then not. Have a nice stay on Edron. (idle)
+Player: hi (grimvale)
+Cornell: Welcome on board, Sir Player. May I sail you back?
+Player: no
+Cornell: Then not. Have a nice stay on Grimvale - as far as that's possible here. (idle)
+Player: yes
+Cornell: Off we go!
+Player: name
+Cornell: My name is Cornell.
+Player: job
+Cornell: I'm offering a little ferry service between Edron and Grimvale.
+Player: cornell
+Cornell: That's my name, alright.
+Player: Edron
+Cornell: The isle of Edron is rumoured to have been the home of a powerful ancient race. But King Tibianus III reclaimed it for humanity and founded a colony.
+Player: grimvale (edron)
+Cornell: Grimvale is a small island north-east of here. But I have to warn you - strange and dangerous things are happening there.
+Player: grimvale (grimvale)
+Cornell: Grimvale is the small island you are standing upon. I warned you not to come here, but you wanted to see what was going on.
+Player: dangerous
+Cornell: Werewolves, my friend! They dwell on Grimvale, where a horrible were-sickness transforms peaceful villagers into savage beasts. Why or how the curse found its way to this small island, we do not know. But somehow it did.
+Player: werewolves / curse
+Cornell: Yes, werewolves, indeed dwell on Grimvale. The were-sickness transforms the peaceful villagers into savage beasts. Why or how this curse found us, we do not know yet. Only that it is here now.
+Player: mission / quest / task
+Cornell: You may want to go to Maeryn. Perhaps she has something to do for you.
+Player: gladys
+Cornell: Our druid. She was already old when I was still young, and has been living here on Grimvale for ages. She's very interested in were-creature body parts. If you find any, she might give you some coin for them.
+Player: maeryn
+Cornell: She's become a kind of protector for this village. A forceful woman, very courageous and experienced with the bow.
+Player: owin
+Cornell: He's the village's most experienced hunter. Not a young man anymore, but he can defend himself well enough against the werewolves. He's the one who knows most about Grimvale's forests, animals, and the werewolves here.
+Player: fish / captain
+Cornell: I used to be a fisherman. But it's no use talking of the old, peaceful days...things will never be the same again in this village.
+Player: village
+Cornell: The humble cottages you see over there. The village is usually called Grimvale, just like the island.
+Player: ship
+Cornell: I'd rather call it a boat. But it is seaworthy enough to ferry a passenger to Edron.
+Player: passenger
+Cornell: I would like to welcome you on board.
+Player: kick
+Cornell: Off with you!
+Player: bye
+Cornell: Good bye.

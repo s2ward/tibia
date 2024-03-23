@@ -63,19 +63,36 @@ else:
 # Send a message to the Discord channel
 npc_status_output = os.environ.get('npc_status_output', 'No NPC status output found')
 
+# Initialize content lines for Discord message
+content_lines = [
+    f"**{pr_opener}** has made a contribution! :first_place:",
+    f"Issue: [{pr_title}](<{pr_url}>)",
+]
+
+# Collect file changes in a list
+file_changes = []
 for f in pr_files:
-    file_url = f'<https://github.com/{repo_name}/blob/main/{f}>'
+    # Enclose file_url and npsearch_url with < >
+    file_url = f'https://github.com/{repo_name}/blob/main/{f}'
     npc_name = f.split('/')[-1].replace('.txt', '')
     npsearch_url = f'https://talesoftibia.com/npsearch?t={npc_name}'
-    content_lines = [
-        f"**{pr_opener}** has made a contribution! :first_place:",
-        f"File: [{f}]({file_url})",
-        f"Issue: [{pr_title}](<{pr_url}>)",
-        "\n**Project Status**:\n" + npc_status_output if npc_status_output else "\n**Project Status**: *Data not available*",
-        f"\nRead them on [NPSearch](<{npsearch_url}>)"
-    ]
-    discord_message_content = "\n".join(content_lines)
-    discord_message = {
-        'content': discord_message_content
-    }
-    requests.post(discord_webhook_url, json=discord_message)
+    file_changes.append(
+        f"File: [{f}](<{file_url}>) - Read on [NPSearch](<{npsearch_url}>)"
+    )
+
+# Once all file changes are collected
+content_lines.append("\n**File Changes:**")
+content_lines.extend(file_changes)
+
+# Add project status at the end, ensuring any URL there is also enclosed in < >
+npc_status_output = os.environ.get('npc_status_output', 'No NPC status output found')
+content_lines.append("\n**Project Status**:\n" + (f"{npc_status_output}" if npc_status_output else "\n**Project Status**: *Data not available*"))
+
+# Prepare the final Discord message content
+discord_message_content = "\n".join(content_lines)
+
+# Send a single message to the Discord channel
+discord_message = {
+    'content': discord_message_content
+}
+requests.post(discord_webhook_url, json=discord_message)

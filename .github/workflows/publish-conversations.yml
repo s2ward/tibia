@@ -8,96 +8,42 @@ on:
 permissions: write-all
 
 jobs:
-  prepare:
+  npc_processing:
     if: github.event.issue.pull_request && contains(github.event.comment.body, '/apply')
     runs-on: ubuntu-latest
-    outputs:
-      pr_branch_name: ${{ steps.extract_branch.outputs.pr_branch_name }}
     steps:
-      - name: Extract PR branch name
-        id: extract_branch
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Setup Git User
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+
+      - name: Extract PR branch name and merge main into feature branch
         run: |
           PR_API_URL="${{ github.event.issue.pull_request.url }}"
           PR_DATA=$(curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" "$PR_API_URL")
           PR_BRANCH_NAME=$(echo "$PR_DATA" | jq -r .head.ref)
           echo "PR Branch: $PR_BRANCH_NAME"
-          echo "::set-output name=pr_branch_name::$PR_BRANCH_NAME"
-
-  convert:
-    needs: 
-      - prepare
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ needs.prepare.outputs.pr_branch_name }}
-          fetch-depth: 0
-
-      - name: Setup Git User
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-
-      - name: Merge main into feature branch
-        run: |
           git fetch
-          git fetch origin main
-          git merge origin/main 
+          git checkout $PR_BRANCH_NAME
+          git merge origin/main
 
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-  
+
       - name: Convert txt files to JSON
-        run: |
-          python src/gha/txt_to_json.py
-
-      - name: Commit conversations.json
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update conversations.json"
-          file_pattern: api/conversations.json
-          branch: ${{ needs.prepare.outputs.pr_branch_name }}
-
-  update_file_mapping:
-    needs: 
-      - prepare
-      - convert
-    runs-on: ubuntu-latest
-    if: "!contains(github.event.issue.labels.*.name, 'patch')"
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ needs.prepare.outputs.pr_branch_name }}
-          fetch-depth: 0
-
-      - name: Setup Git User
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-
-      - name: Merge main into feature branch
-        run: |
-          git fetch
-          git fetch origin main
-          git merge origin/main 
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
-      - name: Checkout base branch files
-        run: |
-          git worktree add base FETCH_HEAD
-        env:
-          base_dir: base
+        run: python src/gha/txt_to_json.py
 
       - name: Update file mapping
+        if: "!contains(github.event.issue.labels.*.name, 'patch')"
         run: |
+          git worktree add base FETCH_HEAD
           mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
           mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
           mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
@@ -106,53 +52,17 @@ jobs:
           MODIFIED_FILES=${MODIFIED_FILES[@]}
           RENAMED_FILES=${RENAMED_FILES[@]}
           DELETED_FILES=${DELETED_FILES[@]}
-          python src/gha/update_file_mapping.py "$repo_dir" "$base_dir" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
-        env:
-          repo_dir: ${{ github.workspace }}
-          base_dir: ${{ github.workspace }}/base
+          python src/gha/update_file_mapping.py "$GITHUB_WORKSPACE" "$GITHUB_WORKSPACE/base" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+
+      - name: Sync NPC data
+        run: python src/gha/sync_npc_data.py npc api/npc_data.json
+
+      - name: Generate trees
+        run: python src/gha/tree.py
 
       - name: Commit file_mapping.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update file_mapping.json"
-          file_pattern: api/file_mapping.json
-          branch: ${{ needs.prepare.outputs.pr_branch_name }}
-          
-  generate_trees:
-    needs: 
-      - update_file_mapping
-      - prepare
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-        with:
-          ref: ${{ needs.prepare.outputs.pr_branch_name }}
-          fetch-depth: 0
-
-      - name: Setup Git User
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "actions@github.com"
-
-      - name: Merge main into feature branch
-        run: |
-          git fetch
-          git fetch origin main
-          git merge origin/main 
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
-      - name: Generate trees
-        run: |
-          python src/gha/tree.py
-  
-      - name: Commit tree files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update tree files"
-          file_pattern: 'doc/*_transcripts.md'
+          commit_message: "Apply NPC updates"
+          file_pattern: .
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
