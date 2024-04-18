@@ -17169,6 +17169,38 @@
         ]
     },
     {
+        "name": "The_Astral_Shapers_Punishment",
+        "author": "?",
+        "description": "The gods punish the Astral Shapers for their blasphemy.",
+        "locations": [
+            "Liberty Bay -> Temple"
+        ],
+        "libraries": [
+            "Liberty Bay Libraries"
+        ],
+        "version": "11.02",
+        "related-articles": [
+            "_NOREL"
+        ],
+        "next-book": "_NONEXT",
+        "previous-book": "The_Astral_Shapers",
+        "img": [
+            "Book_(Brown_Thin)"
+        ],
+        "text": "The so-called Astral Shapers were godless people. They mocked the gods and even tried to outdo them in the arts of creation. They created many powerful items which they used to bend the other races to their own will. One day though, they decided to build a device that allowed them to look into the realm of the gods. The gods became aware of this blasphemy, hence they sent a messenger to the Shapers. It was Huodin, the blessed servant of Kurik, who warned them not to cross the line. The vain Shapers, however, were mocking him and chased him away. Then the gods sent a second messenger. Anadron, the voice of Uman-Zathroth, brought them the wisdom to abandon their false ways. The Shapers, however, denied him entry and discarded the wisdom, casting it into the deepest well in one of their cities.\nThen the gods sent Dratur, the adamant sword of Banor. He just walked into their capitol and stood there without any motion, without saying a word, his weapons sheathed. At first the Shapers were fearful, but soon they began to mock the unmoving warrior. Three and three days he stood there while the artefact of the Shapers was almost finalised.\nAs the project was just a few heartbeats away from completion, Dratur drew his sword, blessed by all the gods. In three and three minutes he had slain the entire city. Every Shaper older than three and three years lay dead in their accursed blood. When Dratur sheathed his sword, the gods let fire, toxic slime and brimstone rain upon the cities of the blasphemous Shapers for three and three days.",
+        "map": [
+            "https://tibiamaps.io/map#32316,32819,6:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+            {
+                "mainarea": "Shattered Isles - City",
+                "area": "Liberty Bay",
+                "subarea": "Temple"
+            }
+        ]
+    },
+    {
         "name": "The_Fire_Walkers",
         "author": "?",
         "description": "?",
@@ -29370,7 +29402,7 @@
         "related-articles": [
             "_NOREL"
         ],
-        "next-book": "_NONEXT",
+        "next-book": "The_Astral_Shapers_Punishment",
         "previous-book": "_NOPREV",
         "img": [
             "Book_(Red)"
