@@ -1,3 +1,7 @@
+Player: idle
+Grumpy Stone: Grrrr ... We would need a pair of hands.
+Grumpy Stone: Their backs are itching!
+Grumpy Stone: That's annoying!
 Player: hi
 Grumpy Stone: Please don't bother me, human being. I have my own problems.
 Player: name
