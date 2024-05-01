@@ -56,11 +56,11 @@ jobs:
 
     - name: Sync minimized JSON files and images to Cloudflare R2
       env:
-        CLOUDFLARE_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
-        CLOUDFLARE_SECRET_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
       run: |
-        rclone config create cloudflare s3 provider Cloudflare env_auth true access_key_id ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }} endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
-
+        rclone config create cloudflare s3 provider Cloudflare env_auth true endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
+    
         rclone copy main/api/min-conversations.json cloudflare:data/npcs/transcripts.json
         rclone copy main/api/min-npc-data.json cloudflare:data/npcs/npc-data.json
         rclone copy main/api/min-books.json cloudflare:data/books/books.json
@@ -69,6 +69,7 @@ jobs:
         rclone copy main/img/book/ cloudflare:images/books/
         rclone copy main/img/spell/ cloudflare:images/spells/
         rclone copy main/img/creature/ cloudflare:images/creatures/
+    
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
