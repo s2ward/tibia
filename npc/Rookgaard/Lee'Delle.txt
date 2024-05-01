@@ -1,3 +1,8 @@
+Player: (idle)
+Lee'Delle: No need to run from shop to shop, my place is all that's needed!
+Lee'Delle: Buy and sell everything you want here!
+Lee'Delle: Special offers for premium customers!
+Lee'Delle: Ask me if you need help!
 Player: Hi  
 Lee'Delle: Hello, hello, Player! Please come in, look, and buy!  
 Player: Help  

@@ -1,3 +1,8 @@
+Player: (idle)
+Norma: You know you want a party after all that tiring hunting!
+Norma: Great drinks and snacks at fair prices!
+Norma: Best place in town! Come to my bar!
+Norma: Sing and dance at my bar! Yeah!
 Player: hi  
 Norma: Welcome, welcome! Have a seat! If you like a drink or something to eat, just ask me for a trade!  
 Player: trade  
