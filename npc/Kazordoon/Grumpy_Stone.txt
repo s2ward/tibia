@@ -1,4 +1,4 @@
-Player: idle
+Player: (idle)
 Grumpy Stone: Grrrr ... We would need a pair of hands.
 Grumpy Stone: Their backs are itching!
 Grumpy Stone: That's annoying!
