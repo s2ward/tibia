@@ -1,3 +1,7 @@
+Player: (idle)
+Tom: Oh yeah, I'm also interested in wolf paws and bear paws.
+Tom: Buying fresh corpses of rats, rabbits and wolves.
+Tom: Also buying minotaur leather.
 Player: hi / hello  
 Tom: Hey there, Player. I'm Tom the tanner. If you have fresh corpses, leather, paws or other animal body parts, trade with me.  
 Player: academy  
