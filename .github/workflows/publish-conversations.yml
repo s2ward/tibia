@@ -57,10 +57,13 @@ jobs:
       - name: Sync NPC data
         run: python src/gha/sync_npc_data.py npc api/npc_data.json
 
+      - name: Sync book-images.json
+        run: python src/gha/create_book_images.py
+
       - name: Generate trees
         run: python src/gha/tree.py
 
-      - name: Commit file_mapping.json
+      - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Apply NPC updates"
