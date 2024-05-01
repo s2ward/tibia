@@ -1,3 +1,8 @@
+Player: (idle)
+Willie: You, over there! Stop sniffing around my farm! Either trade with me or leave!
+Willie: Make sure you know what you want before you bug me.
+Willie: Buying and selling food!
+Willie: Ah, what the heck.
 Player: Hi  
 Willie: Hiho Player.  
 Player: God  

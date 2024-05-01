@@ -1,3 +1,11 @@
+Player: (idle)
+Billy: Buying many types of food and ingredients, too!
+Billy: Hmm, hmm, now which ingredients do I need...
+Billy: Add one fresh dead rat and stir it well... 
+Billy: Bread, cheese, ham and meat! All fresh!
+Billy: Need food? I have plenty for sale!
+Billy: Argh, if I only had a pan!
+Billy: Buying fresh dead rats!
 Player: Hi  
 Billy: Howdy Player.  
 Player: God  

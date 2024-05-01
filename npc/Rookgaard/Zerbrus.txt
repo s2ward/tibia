@@ -1,3 +1,9 @@
+Player: (idle)
+Zerbrus: Want to know what monsters are good for you at your level? Just ask me!
+Zerbrus: Are you injured or poisoned? I can help you.
+Zerbrus: The premium side of Rookgaard lies beyond.
+Zerbrus: No monster shall go past me.
+Zerbrus: For Rookgaard! For Tibia!
 Player: hi / hello  
 Zerbrus: <nods> At your service, Player, protecting the village against monsters.  
 Player: academy  
