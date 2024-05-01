@@ -84,6 +84,23 @@ npc/ directory structure: [npc/town/subarea/npc.txt](https://github.com/s2ward/t
 And so on.  
 ```
 
+### Accessible Resources at `resources.talesoftibia.com`
+
+- **JSON Data**
+  - NPC conversations, metadata, books, and book images:
+    - `/data/npcs/transcripts.json`
+    - `/data/npcs/npc-data.json`
+    - `/data/books/books.json`
+    - `/data/books/book-images.json`
+
+- **Images**
+  - NPC, book, spell, and creature images, padded to square in .png format:
+    - `/images/npcs/`
+    - `/images/books/`
+    - `/images/spells/`
+    - `/images/creatures/`
+
+
 # Hotkey Mania
 
 To find tricky, hidden single-word keywords, I've made a hotkey preset you can import into your personal hotkey file.  
@@ -165,11 +182,13 @@ Roughly:
 
 As well as some from Tibiasecrets.com discord community.
 
-# Research:  
+## Research:  
 
 - [469](https://s2ward.github.io/docs/469/1/)
 - [Island Dianscher, 469](https://www.reddit.com/r/TibiaMMO/comments/15832tv/lore_warlocks_draconia_trolls_the_mysterious/)
 - [getting-started](https://s2ward.github.io/docs/getting-started/)
+
+
 
 # Getting started with the world of Tibia Lore & Mysteries.  
 

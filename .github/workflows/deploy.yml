@@ -34,10 +34,10 @@ jobs:
 
     - name: Minimize JSON files
       run: |
-        jq -c . main/api/conversations.json > main/api/min_conversations.json
-        jq -c . main/api/npc_data.json > main/api/min_npc_data.json
-        jq -c . main/api/books.json > main/api/min_books.json
-        jq -c . main/api/book-images.json > main/api/min_book_images.json
+        jq -c . main/api/conversations.json > main/api/min_conversations.json || true
+        jq -c . main/api/npc_data.json > main/api/min_npc_data.json || true
+        jq -c . main/api/books.json > main/api/min_books.json || true
+        jq -c . main/api/book-images.json > main/api/min_book_images.json || echo "[]" > main/api/min_book_images.json
 
     - name: Copy updated docs and minimized JSON to gh-pages branch
       run: |
