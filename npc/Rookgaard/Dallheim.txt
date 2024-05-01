@@ -1,3 +1,9 @@
+Player: (idle)
+Dallheim: The most dangerous monsters of Rookgaard are on the other side of this bridge.
+Dallheim: Want to know what monsters are good for you at your level? Just ask me!
+Dallheim: I'll crush all monsters who dare to attack our base.
+Dallheim: Are you injured or poisoned? I can help you.
+Dallheim: For Rookgaard! For Tibia!
 Player: hi / hello  
 Dallheim: <nods> At your service, Player, protecting the village from monsters.  
 Player: academy  
