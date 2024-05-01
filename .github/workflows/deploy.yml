@@ -64,10 +64,10 @@ jobs:
         rclone copy main/api/min-npc-data.json cloudflare:resources/data/npcs/npc-data.json
         rclone copy main/api/min-books.json cloudflare:resources/data/books/books.json
         rclone copy main/api/min-book-images.json cloudflare:resources/data/books/book-images.json
-        rclone copy main/img/npc/ cloudflare:resources/images/npcs/ --recursive
-        rclone copy main/img/book/ cloudflare:resources/images/books/ --recursive
-        rclone copy main/img/spell/ cloudflare:resources/images/spells/ --recursive
-        rclone copy main/img/creature/ cloudflare:resources/images/creatures/ --recursive
+        rclone copy main/img/npc/ cloudflare:resources/images/npcs/
+        rclone copy main/img/book/ cloudflare:resources/images/books/
+        rclone copy main/img/spell/ cloudflare:resources/images/spells/
+        rclone copy main/img/creature/ cloudflare:resources/images/creatures/
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
