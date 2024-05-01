@@ -1,3 +1,7 @@
+Player: (idle)
+Obi: Selling and buying all sorts of weapons, come and have a look!
+Obi: Give those monsters a good whipping with my weapons!
+Obi: Only quality steel and wood used for my weapons!
 Player: Hi  
 Obi: Hello, hello, Player! Please come in, look, and buy! If you like to see my offers, ask me for a trade!  
 Player: Time  
