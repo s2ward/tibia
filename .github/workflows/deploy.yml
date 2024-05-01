@@ -34,11 +34,10 @@ jobs:
 
     - name: Minimize JSON files
       run: |
-        jq -c . main/api/conversations.json > main/api/min_conversations.json || true
-        jq -c . main/api/npc_data.json > main/api/min_npc_data.json || true
-        jq -c . main/api/books.json > main/api/min_books.json || true
-        jq -c . main/api/book-images.json > main/api/min_book_images.json || echo "[]" > main/api/min_book_images.json
-
+        jq -c . main/api/conversations.json > main/api/min-conversations.json
+        jq -c . main/api/npc_data.json > main/api/min-npc-data.json
+        jq -c . main/api/books.json > main/api/min-books.json
+        jq -c . main/api/book-images.json > main/api/min-book-images.json
     - name: Copy updated docs and minimized JSON to gh-pages branch
       run: |
         mkdir -p gh-pages/img/book
@@ -50,10 +49,10 @@ jobs:
         cp main/img/creature/* gh-pages/img/creature/
         cp main/img/spell/* gh-pages/img/spell/
         cp main/doc/*_transcripts.md gh-pages/api/tree/
-        cp main/api/min_conversations.json gh-pages/api/conversations.json
-        cp main/api/min_npc_data.json gh-pages/api/npc_data.json
-        cp main/api/min_books.json gh-pages/api/books.json
-        cp main/api/min_book_images.json gh-pages/api/book_images.json
+        cp main/api/min-conversations.json gh-pages/api/conversations.json
+        cp main/api/min-npc-data.json gh-pages/api/npc_data.json
+        cp main/api/min-books.json gh-pages/api/books.json
+        cp main/api/min-book-images.json gh-pages/api/book_images.json
 
     - name: Sync minimized JSON files and images to Cloudflare R2
       env:
@@ -61,10 +60,10 @@ jobs:
         CLOUDFLARE_SECRET_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
       run: |
         rclone config create cloudflare s3 provider Cloudflare env_auth false access_key_id ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }} endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com/resources
-        rclone copy main/api/min_conversations.json cloudflare:resources/data/npcs/transcripts.json
-        rclone copy main/api/min_npc_data.json cloudflare:resources/data/npcs/npc-data.json
-        rclone copy main/api/min_books.json cloudflare:resources/data/books/books.json
-        rclone copy main/api/min_book_images.json cloudflare:resources/data/books/book-images.json
+        rclone copy main/api/min-conversations.json cloudflare:resources/data/npcs/transcripts.json
+        rclone copy main/api/min-npc-data.json cloudflare:resources/data/npcs/npc-data.json
+        rclone copy main/api/min-books.json cloudflare:resources/data/books/books.json
+        rclone copy main/api/min-book-images.json cloudflare:resources/data/books/book-images.json
         rclone copy main/img/npc/ cloudflare:resources/images/npcs/ --recursive
         rclone copy main/img/book/ cloudflare:resources/images/books/ --recursive
         rclone copy main/img/spell/ cloudflare:resources/images/spells/ --recursive
