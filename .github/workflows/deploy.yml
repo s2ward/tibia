@@ -59,7 +59,7 @@ jobs:
         CLOUDFLARE_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
         CLOUDFLARE_SECRET_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
       run: |
-        rclone config create cloudflare s3 provider Cloudflare env_auth false access_key_id ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }} endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
+        rclone config create cloudflare s3 provider Cloudflare env_auth true access_key_id ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }} endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
 
         rclone copy main/api/min-conversations.json cloudflare:data/npcs/transcripts.json
         rclone copy main/api/min-npc-data.json cloudflare:data/npcs/npc-data.json
