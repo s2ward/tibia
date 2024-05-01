@@ -64,10 +64,10 @@ jobs:
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
         RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com/resources
       run: |
-        rclone copy main/api/min_conversations.json cloudflare:data/npcs/transcripts.json
-        rclone copy main/api/min_npc_data.json cloudflare:data/npcs/npc-data.json
-        rclone copy main/api/min_books.json cloudflare:data/books/books.json
-        rclone copy main/api/min_book_images.json cloudflare:data/books/book-images.json
+        rclone copyto main/api/min_conversations.json cloudflare:data/npcs/transcripts.json
+        rclone copyto main/api/min_npc_data.json cloudflare:data/npcs/npc-data.json
+        rclone copyto main/api/min_books.json cloudflare:data/books/books.json
+        rclone copyto main/api/min_book_images.json cloudflare:data/books/book-images.json
         rclone copy main/img/npc/ cloudflare:images/npcs/
         rclone copy main/img/book/ cloudflare:images/books/
         rclone copy main/img/spell/ cloudflare:images/spells/
