@@ -1,3 +1,9 @@
+Player: (idle)
+Dixi: Don't let these mean monsters hurt you - get better equipment now!
+Dixi: <CLEARS THROAT> GET YOUR ARMOR AND SHIELDS HEEEEEEERE! UPSTAIRS!
+Dixi: Need some help? Just ask me, I can show you around!
+Dixi: Don't forget to protect yourself with a shield!
+Dixi: Selling the finest armors on Rookgaard!
 Player: Hi  
 Dixi: Hello, Mam. How may I help you, Player.  
 Player: Help  
