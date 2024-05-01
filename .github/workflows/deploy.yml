@@ -59,10 +59,10 @@ jobs:
       env:
         RCLONE_CONFIG_CLOUDFLARE_TYPE: s3
         RCLONE_CONFIG_CLOUDFLARE_PROVIDER: Cloudflare
-        RCLONE_CONFIG_CLOUDFLARE_ENV_AUTH: false
+        RCLONE_CONFIG_CLOUDFLARE_ENV_AUTH: true
         RCLONE_CONFIG_CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
-        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
+        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com/resources
       run: |
         rclone copy main/api/min_conversations.json cloudflare:data/npcs/transcripts.json
         rclone copy main/api/min_npc_data.json cloudflare:data/npcs/npc-data.json
