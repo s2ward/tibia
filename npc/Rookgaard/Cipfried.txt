@@ -1,3 +1,8 @@
+Player: (idle)
+Cipfried: Feeling lost, my child? Ask me for hints or help!
+Cipfried: Welcome to the temple of Rookgaard!
+Cipfried: Come to me if you need healing!
+Cipfried: Don't despair! Help is near!
 Player: hi / hello  
 Cipfried: Hello, Player! I'll heal you if you are injured or poisoned. Feel free to ask me for help or general hints.  
 Player: name  
