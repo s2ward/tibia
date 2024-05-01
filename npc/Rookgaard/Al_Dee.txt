@@ -1,3 +1,8 @@
+Player: (idle)
+Al Dee: Don't head for adventure without a rope and torches! Buy your supplies here!
+Al Dee: Feeling lost? You can always ask me about general hints!
+Al Dee: Are you looking for the best trades? Come to my shop!
+Al Dee: Tools and general equipment at Al Dee's!
 Player: Hi  
 Al Dee: Hello, hello, Player! Please come in, look, and buy! I'm a specialist for all sorts of tools. Just ask me for a trade to see my offers! You can also ask me for general hints about the game. ...  
 Al Dee: You can also ask me about each citizen of the isle.  
