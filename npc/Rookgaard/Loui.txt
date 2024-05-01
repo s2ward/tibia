@@ -1,3 +1,7 @@
+Player: (idle)
+Loui: What are you doing here?? Get away from that hole!
+Loui: BEWARE! Beware of that hole!
+Loui: STAY AWAY FROM THAT HOLE!
 Player: hi / hello  
 Loui: BEWARE! Beware of that hole!  
 Player: hole  
