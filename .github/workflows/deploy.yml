@@ -26,19 +26,17 @@ jobs:
         ref: 'gh-pages'
         path: 'gh-pages'
 
-    - name: Install jq and rclone
+    - name: Install jq
       run: |
         sudo apt-get update
         sudo apt-get install -y jq
-        curl https://rclone.org/install.sh | sudo bash
 
     - name: Minimize JSON files
       run: |
-        jq -c . main/api/conversations.json > main/api/min_conversations.json
-        jq -c . main/api/npc_data.json > main/api/min_npc_data.json
-        jq -c . main/api/books.json > main/api/min_books.json
-        jq -c . main/api/book-images.json > main/api/min_book_images.json
-
+        jq -c . main/api/conversations.json > main/api/min-conversations.json
+        jq -c . main/api/npc_data.json > main/api/min-npc-data.json
+        jq -c . main/api/books.json > main/api/min-books.json
+        jq -c . main/api/book-images.json > main/api/min-book-images.json
     - name: Copy updated docs and minimized JSON to gh-pages branch
       run: |
         mkdir -p gh-pages/img/book
@@ -50,26 +48,36 @@ jobs:
         cp main/img/creature/* gh-pages/img/creature/
         cp main/img/spell/* gh-pages/img/spell/
         cp main/doc/*_transcripts.md gh-pages/api/tree/
-        cp main/api/min_conversations.json gh-pages/api/conversations.json
-        cp main/api/min_npc_data.json gh-pages/api/npc_data.json
-        cp main/api/min_books.json gh-pages/api/books.json
-        cp main/api/min_book_images.json gh-pages/api/book_images.json
+        cp main/api/min-conversations.json gh-pages/api/conversations.json
+        cp main/api/min-npc-data.json gh-pages/api/npc_data.json
+        cp main/api/min-books.json gh-pages/api/books.json
+        cp main/api/min-book-images.json gh-pages/api/book_images.json
 
     - name: Sync minimized JSON files and images to Cloudflare R2
       env:
-        CLOUDFLARE_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
-        CLOUDFLARE_SECRET_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
       run: |
-        rclone config create cloudflare s3 provider Cloudflare env_auth false access_key_id ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }} endpoint https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com/resources
-        rclone copy main/api/min_conversations.json cloudflare:resources/data/npcs/transcripts.json
-        rclone copy main/api/min_npc_data.json cloudflare:resources/data/npcs/npc-data.json
-        rclone copy main/api/min_books.json cloudflare:resources/data/books/books.json
-        rclone copy main/api/min_book_images.json cloudflare:resources/data/books/book-images.json
-        rclone copy main/img/npc/ cloudflare:resources/images/npcs/ --recursive
-        rclone copy main/img/book/ cloudflare:resources/images/books/ --recursive
-        rclone copy main/img/spell/ cloudflare:resources/images/spells/ --recursive
-        rclone copy main/img/creature/ cloudflare:resources/images/creatures/ --recursive
+        mkdir -p tmp/data/npcs tmp/data/books tmp/images/npcs tmp/images/books tmp/images/spells tmp/images/creatures
+        cp main/api/min-conversations.json tmp/data/npcs/transcripts.json
+        cp main/api/min-npc-data.json tmp/data/npcs/npc-data.json
+        cp main/api/min-books.json tmp/data/books/books.json
+        cp main/api/min-book-images.json tmp/data/books/book-images.json
+        cp -r main/img/npc/ tmp/images/npcs/
+        cp -r main/img/book/ tmp/images/books/
+        cp -r main/img/spell/ tmp/images/spells/
+        cp -r main/img/creature/ tmp/images/creatures/
 
+    - name: Set up Rclone
+      uses: wei/rclone-action@v2
+      with:
+        args: config create r2 s3 type=s3 provider=Other access_key_id=${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }} secret_access_key=${{ secrets.CLOUDFLARE_R2_SECRETS_ACCESS_KEY }} endpoint=https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com region=auto
+
+    - name: Sync temporary directory to R2
+      uses: wei/rclone-action@v2
+      with:
+        args: sync ./tmp/ r2:${{ secrets.R2_BUCKET_NAME }} --transfers 4 --checkers 8 --fast-list --progress --s3-no-check-bucket
+    
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
