@@ -56,3 +56,5 @@ Player: pits of inferno
 Demon Mother: I forbid my children to play there. With all those good-doers questing there, they might get hurt.  
 Player: bye  
 Demon Mother: <Grumbles>  
+Player: (vanish)
+Demon Mother: You need a serious beating.
