@@ -39,7 +39,7 @@ Player: yes
 Demon Mother: Hey! I already gave you one of my children! If you have failed to take care of it, it will find me. And then I'll find YOU!  
 Player: no  
 Demon Mother: Though I feel like tearing you apart, I can't even blame you. Still, if your world fails, I will make you suffer!  
-Player: pleased baby 
+Player: baby 
 Demon Mother: Are you here to bring one of my little darlings back to me?  
 Player: no
 Demon Mother: You should know better than to annoy a mother!
