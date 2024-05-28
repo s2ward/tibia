@@ -7,7 +7,7 @@ Player: vocation
 Neill: That means you need to choose what you are going to be - a Knight, a Paladin, a Druid or a Sorcerer. Each of these vocations is going to feel different. They are lifetime jobs, if you will. But enough talk. I bet you want to start, yes?  
 Player: yes  
 Neill: Alright, let's go! Here in this tent you can try if you like close combat and melee fighting. That means, in a fight you will be close to monsters and have physical contact with them. You need a good defense and hitpoints for this kind of fight. Ready?  
-Player: Ready  
+Player: ready  
 Neill: OK. Here is your sword. Remember: Knights always are at the front, they need good armor and many hitpoints. They can't really fight at a distance, or heal others. Always have a health potion ready! ...  
 Neill: Oh, and if you lost your shield, take one from the box, left of the entrance. You can only shield yourself from 2 enemies at once, though. ...  
 Neill: Proceed to the next tent if you are done testing close combat, and have fun!  
@@ -19,3 +19,15 @@ Neill: Here in this tent you can test if you like close combat and melee fightin
 Neill: Just walk through this tent and see how you manage to survive. You might need to kill a party skeleton or two. No worries, they are made of rubber, they don't bite. Hehehe.  
 Player: festival  
 Neill: I can also tell you again what this festival is all about.  
+Player: bye
+Neill: May your sword always be sharp.
+
+Player: hi
+Neill: Hello there! Having fun, I see. Just proceed to the other combat training tents or to a vocation trainer if you're certain about your destiny.
+Player: vocation
+Neill: It is what you choose to be in Tibia - it is your 'profession', and your destiny. Be it knight or sorcerer, druid or paladin: a vocation is a way of living and a style of fighting. ...
+Neill: Choose your vocation well, for it will be a choice never to be revoked.
+Player: name
+Neill: My name is Neill McNeill of the clan of the McNeills.
+Player: (walks away)
+Neill: Have at it!
