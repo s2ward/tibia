@@ -82,7 +82,6 @@ Player: sam
 Benjamin: Ham? No thanks, I already ate fish.
 Player: sherry
 Benjamin: I don't drink alcohol while I'm on duty.
-Player: mcronald
 Player: xodet
 Benjamin: The young sorcerer is a good businessman.
 Player: excalibug
