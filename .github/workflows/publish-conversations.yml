@@ -65,7 +65,8 @@ jobs:
 
       - name: Add 'base' to .gitignore
         run: |
-          echo "base" >> .gitignore
+          echo "base" > .gitignore
+          echo ".gitignore" >> .gitignore
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
