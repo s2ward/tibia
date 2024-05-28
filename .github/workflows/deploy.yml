@@ -82,10 +82,10 @@ jobs:
 
         rclone sync local_sync/ cloudflare:resources
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: './gh-pages'
-          publish_branch: gh-pages
-          commit_message: "Deployed to GitHub Pages by GitHub Actions"
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: './gh-pages'
+        publish_branch: gh-pages
+        commit_message: "Deployed to GitHub Pages by GitHub Actions"
