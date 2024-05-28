@@ -1,0 +1,33 @@
+Player: hi
+The Destiny Seer: Hello, child. Ask, and I will answer with a question.
+Player: question
+The Destiny Seer: Tell me: Do you like to keep your distance, or do you like close combat?
+Player: distance
+The Destiny Seer: Tell me: Do you prefer to fight with bow and spear, or do you want to cast magic?
+Player: bow / spear
+The Destiny Seer: Your destiny is this: Go seek the Paladin Narai on this island to join the ranks of the paladins, noble hunters and rangers of the wild.
+Player: magic
+The Destiny Seer: Tell me: Do you prefer to heal and defend with the power of nature, or cast fire and death?
+Player: heal
+The Destiny Seer: Your destiny is this: Go seek the druid Yandur on this island to be taught the ways of the sage healers and powerful masters of natural magic.
+Player: death
+The Destiny Seer: Your destiny is this: Go seek the sorcerer Estrella on this island to become a sorcerer, a mighty wielder of deathly energies and arcane fire.
+Player: bye
+The Destiny Seer: Goodbye, child.
+
+Player: hi
+The Destiny Seer: Hello, child. Ask, and I will answer with a question.
+Player: name
+The Destiny Sethe Destiny Seer, child. I can tell you your future.
+Player: druid
+The Destiny Seer: Nature and ice are at his magic command, to heal his friends, to defend his land.
+Player: sorcerer
+The Destiny Seer: The master of arcane energy, casting death and fire at his foes, the secret of magical runes he knows.
+Player: paladin
+The Destiny Seer: With bow and spear all foes he will fight, with his holy magic the undead he will blight.
+Player: knight
+The Destiny Seer: Chivalrous and strong is a knight, straightforward and with their hands they fight.
+Player: job
+The Destiny Seer: I help all who are lost. All who cannot decide. All who do not know what to choose. Just ask me your question.
+Player: (walks away)
+The Destiny Seer: Choose well, child.
