@@ -81,6 +81,7 @@ jobs:
         cp -r main/img/creature/* local_sync/images/creatures/
 
         rclone sync local_sync/ cloudflare:resources
+        rm -rf local_sync
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
