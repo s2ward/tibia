@@ -1,3 +1,7 @@
+Player: (idle)
+The Destiny Seer: Feeling lost, child? Ask me, and I will guide you.
+The Destiny Seer: I can help you find your vocation.
+The Destiny Seer: Let me help you find your destiny.
 Player: hi
 The Destiny Seer: Hello, child. Ask, and I will answer with a question.
 Player: question
