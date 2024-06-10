@@ -62,7 +62,7 @@ jobs:
         RCLONE_CONFIG_CLOUDFLARE_ENV_AUTH: true
         RCLONE_CONFIG_CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
-        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com
+        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
       run: |
         mkdir -p local_sync/data/npcs
         mkdir -p local_sync/data/books
