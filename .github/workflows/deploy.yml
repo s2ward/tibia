@@ -55,23 +55,33 @@ jobs:
         cp main/api/min_books.json gh-pages/api/books.json
         cp main/api/min_book_images.json gh-pages/api/book_images.json
 
-    - name: Sync minimized JSON files and images to Cloudflare R2
+    - name: Setup and Sync Local Directory to Cloudflare R2
       env:
         RCLONE_CONFIG_CLOUDFLARE_TYPE: s3
         RCLONE_CONFIG_CLOUDFLARE_PROVIDER: Cloudflare
         RCLONE_CONFIG_CLOUDFLARE_ENV_AUTH: true
         RCLONE_CONFIG_CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
-        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://05ce9959def8839d5f64b138313049bd.r2.cloudflarestorage.com/resources
+        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
       run: |
-        rclone copyto main/api/min_conversations.json cloudflare:data/npcs/transcripts.json
-        rclone copyto main/api/min_npc_data.json cloudflare:data/npcs/npc-data.json
-        rclone copyto main/api/min_books.json cloudflare:data/books/books.json
-        rclone copyto main/api/min_book_images.json cloudflare:data/books/book-images.json
-        rclone copy main/img/npc/ cloudflare:images/npcs/
-        rclone copy main/img/book/ cloudflare:images/books/
-        rclone copy main/img/spell/ cloudflare:images/spells/
-        rclone copy main/img/creature/ cloudflare:images/creatures/
+        mkdir -p local_sync/data/npcs
+        mkdir -p local_sync/data/books
+        mkdir -p local_sync/images/npcs
+        mkdir -p local_sync/images/books
+        mkdir -p local_sync/images/spells
+        mkdir -p local_sync/images/creatures
+
+        cp main/api/min_conversations.json local_sync/data/npcs/transcripts.json
+        cp main/api/min_npc_data.json local_sync/data/npcs/npc-data.json
+        cp main/api/min_books.json local_sync/data/books/books.json
+        cp main/api/min_book_images.json local_sync/data/books/book-images.json
+        cp -r main/img/npc/* local_sync/images/npcs/
+        cp -r main/img/book/* local_sync/images/books/
+        cp -r main/img/spell/* local_sync/images/spells/
+        cp -r main/img/creature/* local_sync/images/creatures/
+
+        rclone sync local_sync/ cloudflare:resources
+        rm -rf local_sync
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
