@@ -529,6 +529,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Raymond Striker</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Meriana/Raymond_Striker.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Sebastian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Meriana/Sebastian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nargor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor)  
+│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klaus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Klaus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">One-Eyed Joe</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/One-Eyed_Joe.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Vulturenose</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Vulturenose.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Norris</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Norris.txt)  
