@@ -161,7 +161,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Wally</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Wally.txt)  
 ├─&nbsp;&nbsp;<strong>Liberty Bay</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Nargor</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Klaus</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Klaus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Polly</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Polly.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Skeleton Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Skeleton_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Skip</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Liberty_Bay/Nargor/Skip.txt)  
