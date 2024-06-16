@@ -31879,6 +31879,41 @@
         ]
     },
     {
+        "name": "The_Dream_Machine",
+        "author": "?",
+        "description": "About the dream machine.",
+        "locations": [
+            "Dream Realm -> Dream Master"
+        ],
+        "libraries": [
+            "Dream Realm Library"
+        ],
+        "version": "7.9",
+        "related-articles": [
+            {
+                "article-name": "Dream Machine",
+                "article-url": "https://tibia.fandom.com/wiki/Dream_Machine"
+            }
+        ],
+        "next-book": "_NONEXT",
+        "previous-book": "_NOPREV",
+        "img": [
+            "Book_(Brown)"
+        ],
+        "text": "The dream machine draws its energy from interaction of opposing forces. Fire and water, life and death will provide the machine with energy. The energy created will be powerful enough to break down the walls of sleep and let the living enter the realm of dreams. The modified teleporter transports the user to a special place in the dream realms that is created by the will of the dream master.",
+        "map": [
+            "https://tibiamaps.io/map#32845,32227,14:2"
+        ],
+        "type": "book",
+        "locations-wip": [
+            {
+                "mainarea": "Main Continent - Southern Wilderness",
+                "area": "Dream Realm",
+                "subarea": "Dream Master"
+            }
+        ]
+    },
+    {
         "name": "In_the_Realm_of_Dreams",
         "author": "?",
         "description": "Guide for the dreamwalker",
