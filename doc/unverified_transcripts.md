@@ -118,7 +118,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Julian</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Julian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kalvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Kalvin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Maria.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Minzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Minzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Norbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Norbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Odemara</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Odemara.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ottokar</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Ottokar.txt)  

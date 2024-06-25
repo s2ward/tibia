@@ -285,7 +285,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Kalvin</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Kalvin.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lightfoot</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lightfoot.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Maria</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Maria.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Minzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Minzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nelliem</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Nelliem.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Norbert</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Norbert.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nurik</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Nurik.txt)  
