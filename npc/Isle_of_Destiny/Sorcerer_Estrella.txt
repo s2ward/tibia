@@ -1,0 +1,172 @@
+Player: (idle)
+Sorcerer Estrella: It is not my style to yell around here. We can have a private conversation if you are interested in the sorcerer vocation.
+Player: hi
+Sorcerer Estrella: Be greeted again, fellow sorcerer Player! If you require information, I will assist you.
+Player: hi
+Sorcerer Estrella: You did not learn all there is to know at the festival. Come back when you did.
+Druid Yandur: Welcome to my humble hut, Player! Are you interested in learning something about the druid vocation?
+Player: hi
+Sorcerer Estrella: Be greeted, Player! Your presence here must mean that you are interested in the sorcerer vocation, right?
+Player: name
+Sorcerer Estrella: My name is Estrella d'Amina, a name which was passed down by generations of wizards and sorcerers.
+Player: estrella
+Sorcerer Estrella: Your pronunciation of my name is not exactly the best.
+Player: job
+Sorcerer Estrella: Are you serious? I'm a sorcerer, of course. And beside of that, I'm also a tutor for sorcery.
+Player: how are you
+Sorcerer Estrella: Could be better, but thanks.
+Player: thank you
+Sorcerer Estrella: Didn't see THAT one coming. You're welcome.
+Player: kurt
+Sorcerer Estrella: A little on the rough side.
+Player: raffael
+Sorcerer Estrella: I visit his shop each day to buy mana potions. Well... twice a day. Or... more.
+Player: shrines
+Sorcerer Estrella: From every main city, special portals close to the local depot lead to elemental shrines. Common gems can be used on these shrines to enchant them with elemental powers. ...
+Sorcerer Estrella: These enchanted gems can be used on melee weapons to temporarily grant knights the power of the elements.
+Player: depot
+Sorcerer Estrella: A depot is basically some sort of a locker room - each large city has at least one. You can store your belongings there safely.
+Player: city
+Sorcerer Estrella: There are many cities worthwhile staying in. The captain can tell you more.
+Player: captain
+Sorcerer Estrella: You'll find him just to the north, up the hill and on the ship docking there.
+Player: ship
+Sorcerer Estrella: It's docked north of here. Once you decided which city you want to move to from here, he'll bring you there.
+Player: druids
+Sorcerer Estrella: Hrm. The healing and nature-loving side of magic. Talk to Yandur if you want to know more.
+Player: knights
+Sorcerer Estrella: Hrm. They just bash on everything unlucky enough to cross their path. Talk to Hykrion if you want to know more.
+Player: paladin
+Sorcerer Estrella: Hrm. Hit-and-runners, and always trying to meddle in magic affairs. Talk to Narai if you want to know more.
+Player: Yandur
+Sorcerer Estrella: It's probably commendable to think so much of others as he does, but without some healthy egoism you won't get far in life.
+Player: Hykrion
+Sorcerer Estrella: That knight... there's something about him which annoys me, but I can't quite grasp it.
+Player: Narai
+Sorcerer Estrella: Sometimes I wish life was as easy and fun as she makes it seem.
+Player: sorcerers
+Sorcerer Estrella: Sorcerers are truly the cream of the crop. As powerful elemental magicians we mastered fire, energy and death magic. We can dish out some earth and ice magic too and we heal ourselves quite well. ...
+Sorcerer Estrella: Since our real strengths are our mind and skill, you will not find us carrying tons of resources. We also cannot use shielding against strong attacks. ...
+Sorcerer Estrella: We don't have so much life energy as we have magic energy - mana -, thus you have to be careful and avoid getting hit by stronger monsters. ...
+Sorcerer Estrella: Experienced sorcerers are very good at shooting their enemies from a distance while using haste spells to outrun their attacks and are also always a valuable addition to a party as one of the main damage dealers. ...
+Sorcerer Estrella: Last but not least, they can create runes storing magic power and enchant gems at elemental shrines to be used in weapons. ...
+Sorcerer Estrella: Once a sorcerer reaches character level 20, he or she can receive a vocation promotion and become a master sorcerer. That's it! If you need other information, let me know.
+Player: magic
+Sorcerer Estrella: Magic is the fuel of our world. What do you want to know? I can tell you about elements, spells or runes.
+Player: elements
+Sorcerer Estrella: There are six elements in Tibia: fire, energy, ice, earth, holy and death. Each element has its counterpart against which it is especially effective.
+Player: magic
+Sorcerer Estrella: Magic is the fuel of our world. What do you want to know? I can tell you about elements, spells or runes.
+Player: fire
+Sorcerer Estrella: Fire spells are especially good against earth-type monsters such as rotworms or spiders. Some spells will even leave your enemy burning for a while.
+Player: energy
+Sorcerer Estrella: Energy spells are a great weapon against water or ice creatures like winter wolves. Just electrocute that beast while it's still wet. Muahaha.
+Player: ice
+Sorcerer Estrella: Druids are best at using those spells, but we have some basic ice magic, too, and we can use most ice runes. Ice is great against fire-type monsters such as fire elementals.
+Player: earth
+Sorcerer Estrella: A speciality of druids, but we have some basic earth magic, too, and we can use most earth runes. Some spells leave the enemy poisoned. Works great against energy monsters!
+Player: holy
+Sorcerer Estrella: Only paladins use holy magic. Undead creatures fear it.
+Player: death
+Sorcerer Estrella: Death magic means business, and we are dealing in it. Death is good against many beast-like or humanoid creatures, give it a try.
+Player: spells
+Sorcerer Estrella: We know a range of instant spells such as the 'Flame Strike' with which we can deal direct damage. We can also cast magic onto blank runes, which will then turn into magic runes to be used whenever we wish to. ...
+Sorcerer Estrella: Your magic will do more damage the higher your magic level is. Our most devastating spells are called 'Hell's Core' and 'Rage of the Skies'. ...
+Sorcerer Estrella: Only really experienced sorcerers can unleash their power. You can buy new spells in each city, just look for a sorcerer trainer.
+Player: magic level
+Sorcerer Estrella: With each spell you cast, you will slowly get better at using magic. Those 'magic levels' are similar to character levels. With each new level you reach, you will deal more damage with your spells.
+Player: runes
+Sorcerer Estrella: We can cast magic onto blank runes, which will then turn into magic runes to be used whenever we wish to. Popular examples are the 'Sudden Death' rune or the 'Heavy Magic Missile' rune.
+Player: elements
+Sorcerer Estrella: There are six elements in Tibia: fire, energy, ice, earth, holy and death. Each element has its counterpart against which it is especially effective.
+Player: mana
+Sorcerer Estrella: This is our magic energy. Each spell costs mana and will decrease your energy, but your mana storage slowly refills itself as long as you eat. You can also use potions to fill up your mana instantly.
+Player: potions
+Sorcerer Estrella: For sorcerers, only mana potions are actually interesting. We usually don't need health potions since we have healing spells. ...
+Sorcerer Estrella: Mana potions can be bought in different sizes and in each large city from the magic shop. They will come in handy once you run out of mana. ...
+Sorcerer Estrella: Simply use one on yourself to drink it and refill your magical energy. They don't come cheap, though, so you might want to save your money until it's really worth it.
+Player: wand
+Sorcerer Estrella: Sorcerers can wield wands which shoot magic flames, energy or deadly blasts. Simply equip one and aim at a monster to shoot. Mana will be consumed with each shot. ...
+Sorcerer Estrella: Each new sorcerer can receive the first wand in the cellar of this building. Currently, there are five different wands. The higher your level, the more powerful is the wand that you can use.
+Player: vocation
+Sorcerer Estrella: You should choose your vocation well and according to your personal taste. A natural born druid won't be happy as knight, and a paladin can't be a sorcerer.
+Player: weapons
+Sorcerer Estrella: I'm not what you'd call a weapon specialist. Knights or paladins are better weapon users.
+Player: armors
+Sorcerer Estrella: Although we can wear most heavy armors, it's better for us to wear light gear such as robes and save our capacity to carry resources.
+Player: robes
+Sorcerer Estrella: New sorcerers will find a basic light robe in the cellar of this building.
+Player: capacity
+Sorcerer Estrella: This determines how many resources and other things you can carry. Each item has a certain weight. ...
+Sorcerer Estrella: You will be able to carry a little bit more with each character level, but as a sorcerer, you'll always remain rather weak compared to a knight.
+Player: hi -> no
+Sorcerer Estrella: No? What are you doing here then? Are you looking for some information before you decide which vocation you will choose?
+Player: no
+Sorcerer Estrella: You have quite a lot to learn, but I doubt that I'd like to waste my brain power on an averse student. Learn how to answer questions properly and then come back. Farewell!
+Player: right
+Sorcerer Estrella: Well, I'm not surprised to hear that. I can either give you some more information or invite you into the sorcerers' guild right away. What do you prefer?
+Player: sorcerers
+Sorcerer Estrella: Are you sure that you are wise enough to become one of us sorcerers and gathered all the needed information?
+Player: yes
+Sorcerer Estrella: Be aware that this decision is final, Player! Step in front of me and announce it proudly: DO YOU WANT TO BE A SORCERER?
+Player: yes
+Sorcerer Estrella: SO BE IT! Rise and feel the power, sorcerer Player! Learn the words of your first three spells: 'UTEVO LUX', 'EXURA' and 'EXORI MIN FLAM'! Light, light healing, Apprentice's strike, ...
+Sorcerer Estrella: You may cast it by saying the magic words 'UTEVO LUX', 'EXURA' or 'EXORI MIN FLAM' while you have enough mana. Also, you have earned the right to enter the cellar of this house. What you find inside the chests there, is yours to take. ...
+Sorcerer Estrella: Equip yourself well and gather some experience in the caves below. You may stay there for a while, but you should leave for the main continent soon. ...
+Sorcerer Estrella: The captain on the ship to the north will bring you to a city of your choice when you are prepared. Farewell, young sorcerer, and don't hesitate to ask me if you have any questions.
+Player: detailed
+Sorcerer Estrella: Fine then. As powerful and noble elemental magicians we mastered fire, energy and death magic. We can dish out some earth and ice magic too and heal ourselves quite well. Can you follow me so far?
+Player: no
+Sorcerer Estrella: Well, again in an easier version: Sorcerers use mainly fire, energy and death magic, but we can also cast ice, earth and healing magic. Can you follow me so far?
+Player: yes
+Sorcerer Estrella: Good. As our real strengths are our mind and skill, you will not find us carrying tons of resources. Also, we have no shielding against strong attacks like knights do. Is that clear so far?
+Player: no
+Sorcerer Estrella: Well, again in an easier version: Sorcerers don't have physical powers and can't carry a lot of stuff. Is that clear so far?
+Player: yes
+Sorcerer Estrella: Fine. We don't have as much life energy as we have magic energy - mana -, thus you have to be careful and avoid getting hit by stronger monsters. Did you understand that?
+Player: yes
+Sorcerer Estrella: Very well. Experienced sorcerers are very good at shooting their enemies from a distance while using haste spells to outrun their attacks. They are also one of the main damage dealers in a hunting party. Can you follow me so far?
+Player: no
+Sorcerer Estrella: Well, again in an easier version: Sorcerers can hunt solo by hit-and-running enemies and are also among the main damage dealers in a hunting party. Was that clear enough?
+Player: yes
+Sorcerer Estrella: Good. Last but not least, we create runes storing magic power and enchant gems at elemental shrines to be used in weapons. At character level 20, we can receive a vocation promotion and become master sorcerers. Do you understand that?
+Player: no
+Sorcerer Estrella: To put it in other words: Sorcerers can create runes and magical gems. At level 20, you can become a master sorcerer to get even more power. Understood?
+Player: yes
+Sorcerer Estrella: Very well. Since you, my aspiring student, were listening so patiently, I will now test your knowledge! Do sorcerers have higher health or higher mana?
+Player: health
+Sorcerer Estrella: No, our health is not our main strength. You'll notice that if you decide to become a sorcerer. Next question: Name one of the elements which we mastered - is it earth, holy or fire?
+Player: mana
+Sorcerer Estrella: True, our magic power is much stronger. You'll notice that within a few levels if you become a sorcerer. Next question: Name one of the elements which we mastered - is it earth, holy or fire?
+Player: (any)
+Sorcerer Estrella: I fear this is not a valid answer. Maybe you didn't understand the question well. Do sorcerers have higher health or mana?
+Player: earth
+Sorcerer Estrella: That's rather a druid's element, although we can use some basic earth magic. You may want to try again: Fire or holy?
+Player: ice
+Sorcerer Estrella: That's rather a druid's element, although we can use some basic ice magic. You may want to try again: Fire, holy or death?
+Player: holy
+Sorcerer Estrella: No, that's not our cup of tea. Only paladins can wield holy magic. You may want to try again: Fire or earth?
+Player: earth
+Sorcerer Estrella: That's rather a druid's element, although we can use some basic earth magic. You may want to try again: Fire or holy?
+Player: energy
+Sorcerer Estrella: Correct, energy is one of our strengths, as well as fire and death. Let's move on: Do you think of a sorcerer as a damage dealer or as a blocker of attacks?
+Player: death
+Sorcerer Estrella: Correct, death is one of our strengths, as well as energy and fire. Let's move on: Do you think of a sorcerer as a damage dealer or as a blocker of attacks?
+Player: fire
+Sorcerer Estrella: Correct, fire is one of our strengths, as well as energy and death. Let's move on: Do you think of a sorcerer as a damage dealer or as a blocker of attacks?
+Player: blocker
+Sorcerer Estrella: No, we cannot take that many hits. If you want to be a strong blocker, you might rather train to become a knight. Now a material question - what do you think a sorcerer spends his money on? Choose one among those: runes, weapons or women!
+Player: damage
+Sorcerer Estrella: Muahahah! Yes! A sorcerer's magic power shouldn't be underestimated! Now, a material question - what do you think a sorcerer spends his or her money on? Choose one among those: runes, weapons or women!
+Player: weapons
+Sorcerer Estrella: Nah, we usually do not dirty our hands by wielding weapons. Let's leave that to the knights or paladins and stick with runes. However, I'd still like to ask you whether you think you might enjoy being a sorcerer, yes or no?
+Player: runes
+Sorcerer Estrella: Indeed, good answer. Most of your hunting income will very likely be spent on runes and mana potions. Now, since you have been such a good student, I'd like to ask you whether you think you might enjoy being a sorcerer, yes or no?
+Player: women
+Sorcerer Estrella: NO! Or well - maybe that's true for really strong and well-known sorcerers, who, however, still need to buy runes. Do not hope for too many women, but still, I'd like to ask you whether you think you might enjoy being a sorcerer, yes or no?
+Player: no
+Sorcerer Estrella: Hmm. Well, that's your business, but you're missing out on some real might and power. Come back to me if you change your mind, and talk to Hykrion, Narai and Yandur, too.
+Player: bye
+Sorcerer Estrella: May the elements fill your soul and enrich it.
+Player: (vanish)
+Sorcerer Estrella: Changed your mind?
