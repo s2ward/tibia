@@ -9,7 +9,7 @@ Neill: Isn't that great?
 Player: hi
 Neill: Hello again! I trust you are having fun? Since you completed your close combat training, feel free to proceed to the next tent, friend. ...
 Neill: Or did you lose your sword and need a new one? Or do you require me to tell you again what this Festival is all about?
-Simael : hi
+Player : hi
 Neill: Hello there! Having fun, I see. Just proceed to the other combat training tents or to a vocation trainer if you're certain about your destiny.
 Player: name
 Neill: My name is Neill McNeill of the clan of the McNeills.
@@ -42,9 +42,9 @@ Player: sword
 Neill: Of course. Here you go, friend.
 Player: sword
 Neill: Sorry, friend, it takes me five minutes at least to carve a new training sword. Come back later.
-Simael : skip
+Player : skip
 Neill: Of course, if you already know which vocation to choose, you can also skip the tour. What do you say?
-Simael : yes
+Player : yes
 Neill: Alright! Choose well!
 Player: bye
 Neill: May your sword always be sharp.
