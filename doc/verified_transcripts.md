@@ -338,6 +338,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Lora</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Gray_Beach/Vigintia/Lora.txt)  
 ├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Kurt</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Captain_Kurt.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Druid Yandur</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Druid_Yandur.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Neill</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Neill.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Salbra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Salbra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
