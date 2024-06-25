@@ -49,7 +49,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paladin Narai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Paladin_Narai.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Raffael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Raffael.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sorcerer Estrella</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Sorcerer_Estrella.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Destiny Seer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/The_Destiny_Seer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Willow</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Willow.txt)  
 ├─&nbsp;&nbsp;<strong>Issavi</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Atur</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi/Atur.txt)  
