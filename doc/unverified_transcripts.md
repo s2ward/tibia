@@ -63,7 +63,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zoltan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zoltan.txt)  
 ├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Ula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Weaponmaster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Weaponmaster.txt)  
 ├─&nbsp;&nbsp;<strong>Kazordoon</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alberto</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Kazordoon/Alberto.txt)  
