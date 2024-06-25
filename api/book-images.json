@@ -5613,6 +5613,13 @@
         "type": "book"
     },
     {
+        "name": "The_Dream_Machine",
+        "img": [
+            "Book_(Brown)"
+        ],
+        "type": "book"
+    },
+    {
         "name": "In_the_Realm_of_Dreams",
         "img": [
             "Book_(Brown)"

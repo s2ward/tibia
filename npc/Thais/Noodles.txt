@@ -1,3 +1,8 @@
+Player: (idle)
+Noodles: <wiggles>
+Noodles: <sniff>
+Noodles: Grrrrrrr.
+Noodles: Wooof!
 Player: random word (as a greeting word)  
 Noodles: Grrrr!  
 Player: hi / hello  
@@ -21,4 +26,4 @@ Noodles: Woof!
 Player: th  
 Noodles: <sniff>  
 Player: bye / farewell  
-Noodles: Woof! <wiggle>  
+Noodles: Woof! <wiggle>

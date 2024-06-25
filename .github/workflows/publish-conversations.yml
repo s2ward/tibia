@@ -63,6 +63,11 @@ jobs:
       - name: Generate trees
         run: python src/gha/tree.py
 
+      - name: Add 'base' to .gitignore
+        run: |
+          echo "base" > .gitignore
+          echo ".gitignore" >> .gitignore
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
