@@ -340,6 +340,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Kurt</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Captain_Kurt.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Neill</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Neill.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Salbra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Salbra.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Destiny Seer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/The_Destiny_Seer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tylius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Tylius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Ula.txt)  
