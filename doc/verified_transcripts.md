@@ -341,6 +341,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Druid Yandur</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Druid_Yandur.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Knight Hykrion</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Knight_Hykrion.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Neill</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Neill.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paladin Narai</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Paladin_Narai.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Salbra</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Salbra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sorcerer Estrella</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Sorcerer_Estrella.txt)  
