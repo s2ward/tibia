@@ -887,6 +887,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomux</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Lower_Spike/Gnomux.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Middle Spike</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Middle_Spike)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnombold</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Middle_Spike/Gnombold.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Minzy</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Minzy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Nathaniel</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Nathaniel.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Norman The Foreman</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Norman_The_Foreman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Outlaw Camp</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Venore/Outlaw_Camp)  
