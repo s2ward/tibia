@@ -62,7 +62,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ursula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Ursula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zoltan</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Edron/Zoltan.txt)  
 ├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Neill</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Neill.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tylius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Tylius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Ula.txt)  
