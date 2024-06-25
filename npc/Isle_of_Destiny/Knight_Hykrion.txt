@@ -1,0 +1,169 @@
+Player: (idle)
+Knight Hykrion: All young aspiring adventurers interested in knighthood come here!
+Knight Hykrion: Keep your armor shiny and your blade clean!
+Knight Hykrion: CHAAARGE! HA!
+Knight Hykrion: Strength and courage!
+Simael : hi
+Knight Hykrion: Welcome, Simael! I can't convince you anymore to join the rank of a knight, but you will find your own path.
+Player: hi
+Knight Hykrion: Honoured to meet you, Player! Are you interested in learning about the knight vocation?
+Player: how are you
+Knight Hykrion: To be honest, I have a sore arm. I think I trained my sword fighting too much last night.
+Player: thank you
+Knight Hykrion: Oh, you're very welcome! And how polite of you, I wish you a great day!
+Player: tibia
+Knight Hykrion: This is the world we live in.
+Player: captain / ship
+Knight Hykrion: Just go up the hill north from here to find the captain's ship. Once you have picked your vocation, he will bring you to a city of your choice.
+Player: city
+Knight Hykrion: Hm, my favourite city must be Liberty Bay. I like to train and hunt in the nearby dungeons. You have to avoid the slums, though.
+Player: Liberty Bay
+Knight Hykrion: I think the captain sails there and might be able to tell you a bit more about this wonderful city.
+Player: kurt
+Knight Hykrion: A fine man, a fine man.
+Player: raffael
+Knight Hykrion: I think one of these days, he will trip over his own greediness.
+Player: hykrion
+Knight Hykrion: Yes, that's my name. But that's another story and shall be told another time.
+Player: story
+Knight Hykrion: I'm not good at telling stories. In my opinion, the sword is stronger than the word.
+Player: narai
+Knight Hykrion: That girl is almost too cute.
+Player: paladin
+Knight Hykrion: I personally like hunting together with paladins. They kill everything which runs out of my reach, while I keep monsters off their backs. Good symbiosis, I'd say!
+Player: yandur
+Knight Hykrion: Serious guy, but always there when you need him.
+Player: druid
+Knight Hykrion: A druid is a knight's best friend when it comes to healing. With their spells they can save me a whole lot of potions, so I gladly share my experience in exchange.
+Player: estrella
+Knight Hykrion: She is a bit snobbish, but don't let that scare you off.
+Player: sorcerer
+Knight Hykrion: Sorcerers can be a valuable addition to a party if they can handle their spells well. If not, they might just end up electrocuting their party members.
+Player: knight
+Knight Hykrion: As a knight, you will courageously confront your enemies face to face. We are true masters of the sword, the axe and the club - whether we wield two-handers seemingly effortlessly or protect ourselves with shields. ...
+Knight Hykrion: You will need a lot of combat training since your weapon skill has direct influence on the damage you deal with that type of weapon. ...
+Knight Hykrion: Also, as knights are not what you would call a talented magician, we heavily rely on healing potions or have a druid friend heal us whenever we fight strong monsters. ...
+Knight Hykrion: Otherwise, our fighting style is quite uncomplicated. When facing enemies which are not that strong, your sword will feel like a knife cutting through butter. ...
+Knight Hykrion: You also won't need a large supply of different runes or ammunition like mages or paladins do. However, you will need to buy stronger weapons and protective equipment regularly. ...
+Knight Hykrion: No good hunting party leaves without a knight! Always in the front row and close to action, I'm confident that you'll be able to protect your teammates well. ...
+Knight Hykrion: Last but not least, a level 20 knight can receive a vocation promotion to become an elite knight. That's it! If you need other information, let me know.
+Player: promotion / elite knight
+Knight Hykrion: Once you are a level 20 knight, it is possible for you to buy a vocation promotion and become an elite knight. Elite knights have a better regeneration and several other advantages. ...
+Knight Hykrion: This promotion is granted for a fee of 20.000 gold pieces by a Tibian royalty, such as King Tibianus in Thais or Queen Eloise in Carlin. ...
+Knight Hykrion: This may seem expensive to you now, but it's worth every single gold piece.
+Player: vocation
+Knight Hykrion: Choosing your vocation is a big step on your adventure, if not the biggest. It will change your life enormously, whether you become a knight, paladin, sorcerer or druid!
+Player: information
+Knight Hykrion: Which information do you require? I can tell you about knights, spells, monsters, weapons, potions or equipment as well as about some other topics, just ask me.
+Player: spells
+Knight Hykrion: Although we cannot cast devastating elemental spells, we are not totally excluded from using magic. Besides some minor healing and support spells, we also have some quite useful attack spells. ...
+Knight Hykrion: Take the spell 'Whirlwind Throw' for example - by using it, you will hurl your weapon towards your enemy and deal damage according to your weapon skill and weapon attack value. ...
+Knight Hykrion: Our most powerful attack is called 'Fierce Berserk', which deals a lot of damage to every creature standing right beside you. But don't bother about that one for now... you are still young and have a lot to learn before you can master this attack.
+Player: magic
+Knight Hykrion: If you're really into using a lot of magic, rather talk to Estrella or Yandur. They know much more about magic than I do.
+Player: mana
+Knight Hykrion: Our magical energy. Even we knights need some of it.
+Player: runes
+Knight Hykrion: Well, although we don't rely on them, some runes might be useful in certain situations. For example, a destroy field rune can remove magic fields which would otherwise hurt you when walking through them. ...
+Knight Hykrion: Most runes can only be used by magicians, though, and are of no use to us. So be careful when shopping for them!
+Player: elements
+Knight Hykrion: Best talk to Estrella or Yandur if you want to know more about the elements. They can explain all that complicated magic stuff much better than a humble knight like me.
+Player: equipment
+Knight Hykrion: What do you want to know? I can tell you about weapons, armors and shields.
+Player: weapons
+Knight Hykrion: There are three weapon types which are suited for a knight - swords, axes and clubs. Whenever you strike with a weapon, your skill in using that weapon will rise. ...
+Knight Hykrion: As a knight, your sword fighting, axe fighting or club fighting skill will rise a lot faster than your distance fighting skill, for example. However, the choice of your weapon type doesn't really matter.
+Player: swords
+Knight Hykrion: After becoming a knight, you can choose a basic sword from the weapon chamber in the cellar. When you feel you need a stronger weapon at some point, you might want to get a serpent sword or a crimson blade. ...
+Knight Hykrion: Willard in Edron sells crimson blades. For other weapons you can try and ask other Tibians politely if they want to trade with you.
+Player: axes
+Knight Hykrion: After becoming a knight, you can choose a basic axe from the weapon chamber in the cellar. When you feel you need a stronger weapon at some point, you might want to get an orcish axe or a barbarian axe. ...
+Knight Hykrion: Willard in Edron sells barbarian axes. For other weapons you can try and ask other Tibians politely if they want to trade with you.
+Player: clubs
+Knight Hykrion: After becoming a knight, you can choose a basic club from the weapon chamber in the cellar. When you feel you need a stronger weapon at some point, you might want to upgrade to a morning star or clerical mace. ...
+Knight Hykrion: Willard in Edron sells clerical maces. For other weapons you can try and ask other Tibians politely if they want to trade with you.
+Player: armors
+Knight Hykrion: There is a brass armor for each new knight in the cellar of this basement. A good upgrade to this would be a scale armor or, even better, a plate armor. ...
+Knight Hykrion: Fellow Tibians might have good offers for you on those armors, but you can also buy most of them in armor shops.
+Player: shields
+Knight Hykrion: Once you become a knight, you will find a basic steel shield in the cellar. This will offer enough protection for a while. ...
+Knight Hykrion: Sooner or later, you might want to start looking for a better shield - perhaps a viking shield or dwarven shield.
+Player: potions
+Knight Hykrion: Graarr, these greedy potion brewers...! Well, we knights need potions to survive, unless you have a druid friend healing you. ...
+Knight Hykrion: There are health potions in different sizes, but as a young knight you can only use the normal sized potion which heals about 150 of your hit points. ...
+Knight Hykrion: You can buy them in each city for 45 gold, even Raffael has them in his small store. When you need healing, use the potion on yourself to drink it.
+Player: monsters
+Knight Hykrion: Our focus on melee fighting is an advantage as well as a disadvantage when killing monsters. We can't kill really strong monsters without using a lot of resources, but ...
+Knight Hykrion: ...on the other hand we can hunt quite effectively and at low cost when sticking to weaker monsters. It's a matter of personal taste and how much you are willing to invest, I guess.
+Player: capacity
+Knight Hykrion: Each item has a certain weight. Capacity determines how much resources and other things you can carry around with you. With each character level, you can carry a little bite more. Experienced knights can carry A LOT.
+Player: knighthood -> no
+Knight Hykrion: Are you sure that you can fulfil the duties of a knight and that you have all needed information?
+Player: hi -> no
+Knight Hykrion: Well, if you still need time to take that decision, I understand perfectly. Maybe I can help you with some information?
+Player: no
+Knight Hykrion: Well, what should I say - then not, I won't force you to become a knight nor to listen to information. Come back anytime if you change your mind. Farewell!
+Player: yes
+Knight Hykrion: Yes, that's the attitude you need as a knight - strong-willed and determined! I can either grant you knighthood immediately or give you some more information about us. What's your wish?
+Player: information
+Knight Hykrion: I understand not everyone has the time to listen to details. I can give you a short lecture or a rather detailed one. What do you prefer?
+Player: short
+Knight Hykrion: In short: Knights are melee fighters using sword, axe and club weapons. We are good tanks, but for stronger monsters we rely heavily on health potions or magicians healing us. Easy to learn, hard to master vocation. Alright?
+Player: detailed
+Knight Hykrion: Good, I value a patient listener. Patience is a virtue as well as kindness and temperance. You should never abuse the powers given to you! As a knight you will courageously confront your enemies face to face. Understood?
+Player: no
+Knight Hykrion: Well, what I mean is that knights fight almost always in close combat. Do you understand?
+Player: yes
+Knight Hykrion: Let's move on. We are true masters of the sword, the axe and the club - whether we wield two-handers seemingly effortlessly or protect ourselves with shields. Can you follow me so far?
+Player: no
+Knight Hykrion: To put it in other words, we have a wide range of weapons that we can use - swords, axes and clubs. We also can shield ourselves well. Is that clearer?
+Player: yes
+Knight Hykrion: You'll need a lot of combat training since your weapon skill has direct influence on the damage you deal with that type of weapon. Do you understand that?
+Player: no
+Knight Hykrion: Well, what I mean is that you can raise, for example, your sword damage by training with a sword. Got that?
+Player: yes
+Knight Hykrion: Also, as knights are not what you would call a talented magician, we heavily rely on healing potions or have a druid friend heal us whenever we fight strong monsters. Alright?
+Player: no
+Knight Hykrion: In short, we spend a lot of money on health potions or need friends to heal us. Do you understand that?
+Player: yes
+Knight Hykrion: Well, otherwise our fighting style is quite uncomplicated. When facing enemies which are weak, your sword will feel like a knife cutting through butter. Got that part?
+Player: no
+Knight Hykrion: Well, I basically said that hunting as a knight is easy. Target and kill, target and kill. Alright?
+Player: yes
+Knight Hykrion: You also won't need a large supply of different runes or ammunition like mages or paladins do. However, you will need to buy stronger weapons and protective equipment regularly. Can you follow me?
+Player: no
+Knight Hykrion: I simply said you will have to spend money regularly on buying better equipment. Okay?
+Player: yes
+Knight Hykrion: No good hunting party leaves without a knight! Always in the front row and close to action, I'm confident that you will be able to protect your teammates well. Do you understand that?
+Player: no
+Knight Hykrion: Well in short, a hunting party needs a good tank. Which would be - a knight. Got that?
+Player: yes
+Knight Hykrion: Last but not least, a level 20 knight can receive a vocation promotion to become an elite knight. Alas! I have some questions for you to check whether you understood how it is to be a knight. Do you think knights are better with magic or with weapons?
+Player: magic
+Knight Hykrion: No - if you want to use magic well, you should rather become a sorcerer or druid. Knights are mostly weapon users. Do you think knights rather fight in close combat or attack from a distance?
+Player: weapons
+Knight Hykrion: That's right. We may not be good at using spells, but we are weapon masters! So, do knights rather fight in close combat or attack from a distance?
+Player: distance
+Knight Hykrion: Although we have some attacks which we can use from a distance, this is not our main strength. Close combat is what we are best at. How about weapons? From the following weapon types, pick one that is NOT usually used by knights: sword, axe or bow?
+Player: close
+Knight Hykrion: Very good! Do not fear standing close to the action! As long as you have healing available, you won't fall easily. What about weapons? From the following weapon types, pick one that is NOT usually used by knights: sword, axe or bow?
+Player: (any)
+Knight Hykrion: No, no, please stick to the options that I gave you. What is NOT used by knights: sword, axe or bow?
+Player: bow
+Knight Hykrion: Right, bows are not used by knights but by paladins, well done! I have another question for you. Would you rather spend your money on sturdy armor or on light robes?
+Player: sword
+Knight Hykrion: No, I asked you which weapons we do NOT use. Wielding a sword is quite common for knights, but there're the paladins that use bows. I have another question for you: Would you rather spend you money on sturdy armor or on light robes?
+Player: axe
+Knight Hykrion: No, I asked you which weapons we do NOT use. Wielding an axe is quite common for knights, but there're the paladins that use bows. I have another question for you: Would you rather spend you money on sturdy armor or on light robes?
+Player: (any)
+Knight Hykrion: You would want to wear that?? No, please answer seriously now, would you buy sturdy armor OR cloth robes to protect yourself?
+Player: robes
+Knight Hykrion: I'm sorry to say that, but cloth robes won't protect you from monsters as good as sturdy armor does. So, after listening to me for a while, are you still interested in becoming a powerful knight?
+Player: armor
+Knight Hykrion: That's an excellent choice indeed! Buy sturdy armor so you can take attacks even better! So, after listening to me for a while, are you still interested in becoming a powerful knight?
+Player: no
+Knight Hykrion: Well, I won't talk you into it. Maybe you would like to hear what Narai, Estrella and Yandur have to say about the other vocations. Ask me about information anytime.
+Player: bye
+Knight Hykrion: Farewell Player, and may your weapon and mind stay sharp!
+Player: (vanish)
+Knight Hykrion: Mind your manners! <grumbles>
