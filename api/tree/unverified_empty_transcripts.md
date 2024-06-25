@@ -103,7 +103,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Raffael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Raffael.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Shanoya</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Shanoya.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sorcerer Estrella</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Sorcerer_Estrella.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">The Destiny Seer</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/The_Destiny_Seer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Tylius</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Tylius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ula</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Ula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Weaponmaster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Weaponmaster.txt)  
