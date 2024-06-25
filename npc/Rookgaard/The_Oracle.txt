@@ -1,4 +1,4 @@
-Player : hi
+Player: hi
 The Oracle: CHILD! COME BACK WHEN YOU HAVE GROWN UP!
 Player: hi
 The Oracle: Player, I CAN'T LET YOU LEAVE - YOU ARE TOO STRONG ALREADY! YOU CAN ONLY LEAVE WITH LEVEL 8 OR 9.
