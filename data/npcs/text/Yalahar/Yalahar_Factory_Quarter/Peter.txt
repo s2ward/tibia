@@ -1,0 +1,38 @@
+Player: hi / hello  
+Peter: Hello. Unless you have official business here or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Peter: There it's even more smelly than in the factory quarter. Smells a bit like rotten eggs.  
+Player: arena quarter  
+Peter: You don't look as if you would last one second there.  
+Player: augur  
+Peter: One day I will walk into the office of my superior and announce my resignment. Probably not long from now.  
+Player: cemetery quarter  
+Peter: Good idea. Go for a walk there. Preferably six feet down.  
+Player: factory quarter  
+Peter: It's too noisy and smelly.  
+Player: foreign quarter  
+Peter: Go there if you wanna get beaten up.  
+Player: job / official  
+Peter: Sergeant first class of the Yalaharian Guard Force. But I don't care about ranks and titles.  
+Player: magician quarter  
+Peter: I can't stand those arrogant fools.  
+Player: mission  
+Peter: Leave me alone with your 'mission' unless you have precise orders from my superiors.  
+Player: name  
+Peter: Peter.  
+Player: pass / gate  
+Peter: Pass the gate? If it must be. Are you headed for the factory or the former trade quarter?  
+Player: quarter  
+Peter: Count them yourself.  
+Player: random word  
+Peter: Listen, I don't get paid enough to chat with citizens. Move on.  
+Player: sunken quarter  
+Peter: That quara brood should be extinguished.  
+Player: trade quarter  
+Peter: The leader of their pack is the biggest criminal among them all.  
+Player: vengoth  
+Peter: Listen, I don't get paid enough to chat with citizens. Move on.  
+Player: Yalahar  
+Peter: You're here. So what?  
+Player: bye  
+Peter: Goodbye citizen!  

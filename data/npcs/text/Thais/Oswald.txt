@@ -1,0 +1,106 @@
+Player: hi  
+Oswald: Oh, hello Player. What is it? Why do you disturb me?  
+Player: disturb / job / important  
+Oswald: I'm honoured to be the assistant of the great, the illustrious, the magnificent Durin!  
+Player: assistant  
+Oswald: I've got a job of great responsibility - I keep annoying persons away from my boss.  
+Player: annoying  
+Oswald: Better don't ask, you wouldn't like the answer.  
+Player: Durin  
+Oswald: Just between you and me, he can be quite a tyrant.  
+Player: tyrant / how are you  
+Oswald: If there weren't so many people harassing me, life would be great.  
+Player: harassing  
+Oswald: You don't need not ask me about that, you are perfect in it.  
+Player: name  
+Oswald: My name is Oswald, but let's proceed, I'm a very busy man.  
+Player: sell  
+Oswald: Hey, I'm not a shopkeeper, I'm an important man!  
+Player: time  
+Oswald: It is nearly tea time, so please hurry!  
+Player: help  
+Oswald: I'll inform the higher officials of your needs.  
+Player: monster  
+Oswald: AHHHH!!! WHERE??? WHERE???  
+Player: dungeon  
+Oswald: If you want to see dungeons, simply refuse to pay your taxes.  
+Player: sewer  
+Oswald: Our sewer system is very modern, but crowded with rats and wannabe heroes.  
+Player: thank you  
+Oswald: You are... uhm... welcome. Are you already done?  
+Player: god  
+Oswald: I think the gods are too busy to care about us mortals, hmm... that makes me feel godlike, too.  
+Player: king  
+Oswald: Ah, yes, yes, hail to King Tibianus! Long live the king and so on...  
+Player: sam  
+Oswald: A simple shopkeeper with minor intelligence.  
+Player: benjamin  
+Oswald: What do you expect from ex-soldiers? He's nuts! He had way too many blows on the head.  
+Player: gorn  
+Oswald: He sells his scrolls far too expensive.  
+Player: quentin  
+Oswald: I heard he was a ladies' man in younger days. Nowadays, it is rumoured that he likes to wear women clothes now and then.  
+Player: bozo  
+Oswald: Isn't he the artist formerly known as the prince?  
+Player: rumour / gossip / news  
+Oswald: You know a rumour? TELL ME! TELL ME! TELL ME!  
+Player: random word  
+Oswald: Fascinating! Absolutely fascinating!  
+Player: mud  
+Oswald: I heard Sam dated a female mud-wrestler once.  
+Player: weapon  
+Oswald: It's rumoured that Sam does not forge all weapons himself. Instead he is buying them from his cousin, who is married to a cyclops.  
+Player: magic  
+Oswald: I overheard a conversation of officials in which they claimed that magic will be forbidden soon.  
+Player: power / rebellion
+Oswald: There are people who talk about a rebellion against King Tibianus.  
+Player: spell  
+Oswald: I heard about a sorcerer who was toasted by a misfired spell of himself.  
+Player: muriel  
+Oswald: It is rumoured that he summons weird demons for... well you know.  
+Player: elane  
+Oswald: They say she's killed over a dozen husbands already.  
+Player: marvik  
+Oswald: Who knows what this old man is up to in his hideout when no one is watching?  
+Player: gregor  
+Oswald: I was told he lost a body part or two in duels.  
+Player: lugri  
+Oswald: Some say he's Ferumbras in disguise.  
+Player: chester  
+Oswald: I never heard any rumour about him, isn't that odd?  
+Player: excalibug  
+Oswald: It's beyond all doubt that certain sinister elements in our city have certain knowledge about this myth.   
+Player: aruda  
+Oswald: She's a little witch, trust me. She used to be the girlfriend of this evil Partos some time ago.  
+Player: partos  
+Oswald: What a shame. He claimed to be the king of thieves and was caught stealing some fruit.  
+Player: gamel  
+Oswald: This man lives in the darkness like a rat and he is also as handsome as one. He surely is up to no good and often consorts with sinister strangers.  
+Player: sinister strangers  
+Oswald: Just last week, a one-eyed man, who had a room at Frodo's, met him in the middle of the night.  
+Player: goshnar  
+Oswald: They say he isn't truly dead. He was... or is a necromant after all.  
+Player: necromant nectar  
+Oswald: You aren't the first one to ask about that. Am I the only one that prefers wine to such disgusting stuff?  
+Player: eclesius  
+Oswald: Eclesius... Eclesius... I think they say about him that he accidentally turned his assistant into a frog. So you better pay attention!  
+Player: lynda  
+Oswald: Sweet as honey, but cold as a fish. The only thing that can soften her heart is this awfully expensive Venorean ice cream.  
+Player: invitation  
+Oswald: I am deeply sorry, there are no invitations left. I hope you didn't lose yours.  
+Player: random word  
+Oswald: Good.  
+Player: invitation  
+Oswald: I am deeply sorry, there are no invitations left. I hope you didn't lose yours.  
+Player: yes  
+Oswald: You strange people lose everything, don't you? If you need another one, it'll cost you dearly. 5000 gold, deal or no deal?  
+Player: yes  
+Oswald: Excellent! Here is your invitation!  
+Player: invitation  
+Oswald: I am deeply sorry, there are no invitations left. I hope you didn't lose yours.  
+Player: yes  
+Oswald: You strange people lose everything, don't you? If you need another one, it'll cost you dearly. 5000 gold, deal or no deal?  
+Player: no  
+Oswald: I thought as much.  
+Player: bye / farewell  
+Oswald: Finally!  

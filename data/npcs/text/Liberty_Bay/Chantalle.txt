@@ -1,0 +1,75 @@
+NPC: Chantalle  
+Player: hi  
+Chantalle: Hello. What brings you here?  
+Player: key / fish  
+Chantalle: What? You lost the key? Well... Lucky for you I made a copy. Do not lose it again!  
+Player: Wyrmslicer  
+Chantalle: He's handsome, yet a bit old. And sadly you'll never get rich being in the army. It's a shame but for these reasons he probably will never be able to find an accomplished woman.  
+Player: Ferumbras  
+Chantalle: He's some evil sorcerer. Sorcerers are horrible people anyway.  
+Player: kiss  
+Chantalle: I'd rather kiss a pig.  
+Player: buy / offer / equipment / goods / sell / stuff / ware  
+Chantalle: I sell gems and goblets. If you'd like to see my offers, ask me for a trade.  
+Player: Thais  
+Chantalle: Thais must be a wonderful place. Almost comparable to Venore as far as I can tell.  
+Player: Liberty Bay  
+Chantalle: What a horrible, horrible little town. Have you seen those huts some people live in? How can they stand this? Silly people. And that stench! Everything and everyone that is native smells like fish! Horrible, I say it's just horrible!  
+Player: Charlotta  
+Chantalle: It's the name of a scary old hag that the natives sometimes call if they are sick. Why don't they just buy some medicine or call for a healer? Silly people.  
+Player: Chondur  
+Chantalle: Who might that be? Probably one of these horrible natives.  
+Player: cult  
+Chantalle: I don't know anything about a cult. On the other hand, I wouldn't be too surprised if this fish smelling natives, that are up to no good anyway, would have some horrible cult.  
+Player: Voodoo  
+Chantalle: Isn't that the name of the governor's daughter's dog?  
+Player: job / here  
+Chantalle: I'm a trader and I sell gems, jewellery and goblets. Just ask me for my offers.  
+Player: Eleonore  
+Chantalle: She's a bit younger than me and a bit jealous that I and her father get along with each other so well.  
+Player: Explorer Society  
+Chantalle: I don't understand why someone would want to go to some dirty corners of the world or crawl through dusty dungeons. Phew.  
+Player: gem  
+Chantalle: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.  
+Player: goblet  
+Chantalle: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.  
+Player: Governor  
+Chantalle: The governor is a fine and polite man. I think he even likes me a bit. <giggles> Sad enough that people who like him or Mr. Loveless are rare here.  
+Player: king  
+Chantalle: The king must be a very special man. I think he's handsome and tall.  
+Player: horrible  
+Chantalle: Yes, horrible. Isn't it?  
+Player: jewel  
+Chantalle: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.  
+Player: Isolde  
+Chantalle: She thinks she is better than everyone else. But I know that a good part of her so-called noble family lives in Carlin, imagine!  
+Player: Loveless / Theodore  
+Chantalle: You can say that Mr. Loveless is kind of an ambassador of Venore. He is very important and I run his business here. He's a good friend of the local governor and back in Venore he's an important figure of the trade association.  
+Player: name  
+Chantalle: My name is Chantalle.  
+Player: native  
+Chantalle: The natives had almost massacred themselves before we arrived to rescue them. And what to we get in return? Now they want to massacre us instead! These horrible people.  
+Player: pearl  
+Chantalle: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.  
+Player: pirate  
+Chantalle: Pirates are scary. Mr. Loveless tries hard to get the army to do more against these horrible pirates. Unfortunately the army people are rather reluctant and always find some excuse for their inactivity.  
+Player: plantation  
+Chantalle: I better don't think about all those dirty people that work on the plantations, else I could no longer enjoy my sugared tea. Imagine that their ugly dirty hands have touched this sugar.  
+Player: quara  
+Chantalle: These horrible fishmen even haunt me in my dreams! I'm sure the natives are in league with them. It's no coincidence that they both smell alike.  
+Player: Raymond Striker  
+Chantalle: That is one of those horrible cutthroats that lead the pirates.  
+Player: rum  
+Chantalle: It tastes horrible. I can't understand what people like about it.  
+Player: time  
+Chantalle: Currently it is 9:08 pm.  
+Player: sugar  
+Chantalle: Sugar is quite important as far as I understand it.  
+Player: talon  
+Chantalle: We don't trade with them.  
+Player: trade  
+Chantalle: Here, take a look.  
+Player: Tristan  
+Chantalle: Quite handsome and what a well-trained body he has. I can't imagine what he sees in this colourless and pale Isolde.  
+Player: bye  
+Chantalle: Farewell.  

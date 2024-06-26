@@ -1,0 +1,64 @@
+Player: hi
+Vuzrog: Hello, tasty little snack.
+Player: name
+Vuzrog: Me Vuzrog.
+Player: job
+Vuzrog: Vuzrog chieftain. Big boss of Bloody Skull tribe.
+Player: time
+Vuzrog: It's mealtime!
+Player: news / rumours
+Vuzrog: Hostile tribe bringing trouble upon Bloody Skull ogres.
+Player: hostile
+Vuzrog: Yes, other tribe. Call themselves Thunder Tusk Clan.
+Player: chieftain
+Vuzrog: Chieftain is big boss of ogre tribe. Strongest ogre always chieftain. Vuzrog strongest ogre here. So Vuzrog is big boss!
+Player: Bloody Skull
+Vuzrog: Bloody Skulls are ogres who live here. This tribe. Most big clan of Krailos. Most strong chieftain. Most wise shaman.
+Player: Krailos
+Vuzrog: This steppe and grassland here. That Krailos. Home of ogres. Sourrounded by mountains and much water. We not know what behind water or mountains.
+Player: shaman
+Vuzrog: Shaman is spirit leader of tribe. Makes things right with spirits and Great Hunger. Blesses newborn ogrelings. Ghorza is Bloody Skulls shaman.
+Player: Great Hunger
+Vuzrog: Great Hunger powerful spirit. Always needs food, very much food. If Great Hunger not getting enough food, its stomach rumbling. Then earth quaking, trembling. At end Great Hunger will eat up entire world. So ogres always feeding Great Hunger.
+Player: Ghorza
+Vuzrog: Ghorza tribe shaman. She wise, old woman. But also stubborn. Seems to like shrimpy humans. Vuzrog not knowing why. But Vuzrog has deal with Ghorza. ...
+Vuzrog: Allows humans coming here. As long as tasty small titches not causing trouble.
+Player: mugruu
+Vuzrog: Mugruu friend of chieftain. Makes things like shrimpy human Larek now. Buying things. But not for you! If want trading with Mugruu, first must help Vuzrog.
+Player: Larek
+Vuzrog: Is shrimpy human living here. First Vuzrog want eat him. But Larek bringing sweets. Cookies and candy. Vuzrog likes sweets! So allowed Larek to stay, if Larek brings sweets for Vuzrog.
+Player: grubokk
+Vuzrog: Grubokk young and impatient. Strong arms, but narrow in head. Oversees goblins in mines near high mountains.
+Player: humans
+Vuzrog: Humans tasty. Ogres often eat them, taste better than goblins. But Ghorza, Bloody Skulls shaman, says: Not eat human visitors anymore.
+Player: goblins
+Vuzrog: Arrgh, wimpy shrimps! Stumbling around like warty toads. Sometimes ogres let them getting black stones from mountains. Small tunnels there, ogres not getting in. But small goblins can. And sometimes ogres eat them.
+Player: nibble
+Vuzrog: Nibble small goblin. Cooking for Vuzrog. Clearing away rubbish. Useful at moment. Perhaps later Vuzrog eats tiny titch.
+Player: thunder tusk
+Vuzrog: Hrmpf. Causing trouble all time. Attacking our village, plundering, taking away our food and water.
+Player: water
+Vuzrog: Very few water in Krailos. Most seas drying out. Ogres fighting for water. If want know more, ask Ghorza.
+Player: cookies
+Vuzrog: Larek making cookies, can ask him. Or making cookies youself, if know how.
+Player: cake
+Vuzrog: Vuzrog not knows how is made. Could ask Larek.
+Player: beer
+Vuzrog: Ogre beer made of cactus seeds and parrot's beak plants. But Vuzrog's last keg stolen by mean nomadic ogres. Get it back, searching in their camps.
+Player: prickly pear
+Vuzrog: Growing on cactus trees. But trees too tall and too many spikes for small human. But ogres often carry with them prickly pears. Perhaps you killing some mean thunder tusk ogres to get them, har, har.
+Player: pear juice
+Vuzrog: Make it of prickly pears. They growing on cactus trees. But trees too tall and too many spikes for small human. But ogres often carry with them prickly pears. Perhaps you killing some mean thunder tusk ogres to get them, har, har.
+Player: meat
+Vuzrog: Clomp meat fine! Hunt clomps, bring their meat. But not raw, but roasted!
+Player: clomp
+Vuzrog: Hmm, clomp large beast living in grassland all around. Thick fur, juicy meat. Ogres hunting clomps often.
+Player: hyaena
+Vuzrog: Yes, Ghorza has mangy lap hyaena. Vuzrog not caring that hyaena ran away. Tell Ghorza to search new totem animal, har har.
+Player: mission / quest / task
+Vuzrog: Vuzrog hungry! Vuzrog needs food, very much food! You looking tasty, small human. But Vuzrog having deal with shaman: Not eating human visitors. Not know why that so important for Ghorza. ...
+Vuzrog: But deal is deal - as long as Vuzrog not too hungry. You find food for Vuzrog, yummy titch?
+Player: no
+Vuzrog: Grrrr. Then get lost, shrimpy human! Before Vuzrog getting too hungry!
+Player: bye
+Vuzrog: Push off!

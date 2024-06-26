@@ -1,0 +1,52 @@
+Player: Hi  
+Clark: Hello, Player. Please don't interrupt me for too long!  
+Player: Name  
+Clark: My name is Clark.  
+Player: Interrupt/job  
+Clark: I'm the captain of the guards and responsible for upholding law and order in the colony.  
+Player: Guards  
+Clark: The guards of Port Hope are led by Lord Seamus, a nobleman from Thais.  
+Player: Seamus  
+Clark: He is ill and I'm in charge of upholding the law now.  
+Player: Thais  
+Clark: Thais is a big city but if we do well enough here, Port Hope might one day rival its size.  
+Player: Venore  
+Clark: The Venoreans are fine and generous people. It's a good thing that they put all this effort into this colony. I don't know what we would do if it weren't for them.  
+Player: Carlin  
+Clark: It's a shame that those women still get away with their independence. Friends told me that too many of Thais's resources are wasted in useless projects, and the army is too weak to claim back our belongings.  
+Player: Ab'dendriel  
+Clark: My guess is that those elves are secretly allied with Carlin. I wouldn't trust an elf if I met one.  
+Player: Kazordoon  
+Clark: As long as the dwarfs stay there, it's alright for me to let them have this ugly piece of rock.  
+Player: Dwarf  
+Clark: Dwarfs are impressive fighters. The Venoreans talked about hiring some of them as mercenaries to help us out.  
+Player: Elves  
+Clark: My guess is that those elves are secretly allied with Carlin. I wouldn't trust an elf if I met one.  
+Player: Edron  
+Clark: The knights of Edron are somewhat arrogant. They keep the resources of the isle all to themselves instead of sharing them.  
+Player: Darashia  
+Clark: A village of harmless cultists. They pose no real threat and could easily be integrated into the Thaian realm.  
+Player: Darama  
+Clark: This continent will be ours one day.  
+Player: Ankrahmun  
+Clark: This city is a threat to Thais's domination of Darama. Unfortunately, we are too weak to handle this threat.  
+Player: Lizard  
+Clark: They don't pose a real threat to us.  
+Player: Apes  
+Clark: Rest assured we'll handle this problem.  
+Player: Dworcs  
+Clark: They fear our power and hide in some caves.  
+Player: Ferumbras  
+Clark: He is the enemy number one of the kingdom and all good people.  
+Player: Excalibug  
+Clark: I heard the knights of Edron hide it somewhere instead of using it for the good of the country.  
+Player: King  
+Clark: Our king can be proud of this colony.  
+Player: Jungle.  
+Clark: The jungle is our first and foremost enemy.  
+Player: Time  
+Clark: It is (the current time) pm right now.  
+Player: Tibia  
+Clark: I guess a good part of the world is under Thaian rule.  
+Player: Bye  
+Clark: Goodbye, Player.  

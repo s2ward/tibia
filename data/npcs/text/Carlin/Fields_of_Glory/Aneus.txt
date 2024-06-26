@@ -1,0 +1,84 @@
+Player: hi
+Aneus: Greetings adventurer Player What brings you to me? I'm just a simple storyteller.
+Player: name
+Aneus: My name is Aneus, the storyteller.
+Player: job
+Aneus: I'm a storyteller.
+Player: carlin
+Aneus: The story of Carlin is closely related to the story of the Fields of Glory. If you are interested in details, ask me about the story.
+Player: thais
+Aneus: Thais is an ancient city. It has its origin in a hamlet called Tradespot. To learn more about its growth and rise, ask someone else. I don't know this story.
+Player: ab'dendriel
+Aneus: The elves love stories. I learnt a lot while I lived in their city for a while. You should travel there and talk to the elves, too, and don't forget to visit their library.
+Player: library
+Aneus: Most cities have small libraries filled with treasures in the form of stories. The biggest library is located in the White Raven Monastery.
+Player: White Raven Monastery
+Aneus: The White Raven Monastery houses the biggest library in the known world. The monks there are a bit reclusive, though, and the Isle of the Kings is somewhat difficult to reach.
+Player: Isle of the Kings
+Aneus: The Isle of the Kings is the burial place of the Thaian nobility. For many centuries each king and many nobles have been buried there.
+Player: bruno
+Aneus: I don't know much about him. I only know that he's selling fish in the village.
+Player: marlene
+Aneus: A lovely woman. Still, I give you a hint: Better stay away from her! <grins>
+Player: graubart
+Aneus: I don't know much about him. He sails much and he has seen nearly the whole world.
+Player: dwarves
+Aneus: The dwarfs have a rich history and like to tell about it. Actually some dwarfs are so old that they experienced many events in history themselves.
+Player: gods
+Aneus: The gods had great influence on humanity and other races. There are many stories related to them ...
+Aneus: In fact, there are so many stories that it won't be sufficient to talk to some people, you will also have to research many books to learn about them.
+Player: ferumbras
+Aneus: The stories about him are stories of grief, revenge and destruction. You can hear them almost everywhere. My story deals with similar topics but with other people.
+Player: excalibug
+Aneus: This is a story for another day.
+Player: storyteller / story
+Aneus: Well, if you wish, I can tell you the story about this place here - the story about the Fields of Glory!
+Player: Fields of Glory
+Aneus: Ok, sit down and listen. Back in the early days, one of the ancestors of our king Tibianus III wanted to build the best city in whole Tibia.
+Player: ancestors
+Aneus: Please forgive me. I forgot his name. I'm getting old.
+Player: city
+Aneus: The work on this new city started and the king sent his best soldiers to protect the workers from orcs and to make them work harder.
+Player: work harder
+Aneus: The soldiers treated them like slaves.
+Player: slaves
+Aneus: You don't know what a slave is? I really hope that you will never have to make this experience.
+Player: soldiers
+Aneus: It was the elite troop of the army. They were called the Red Legion (also known as the Bloody Legion).
+Player: orcs
+Aneus: The orcs attacked the workers from time to time and disturbed the work on the city.
+Player: work on the city
+Aneus: The development of the city went quickly. Also a giant castle was built north-east of the city. ...
+Aneus: But more and more workers started to rebel because of the bad conditions.
+Player: rebel
+Aneus: All rebels were brought to the giant castle. Guarded by the Red Legion, they had to work and live in even worse conditions. ...
+Aneus: Also some friends of the king's sister were brought there.
+Player: friends
+Aneus: The king's sister was pretty upset about the situation there but her brother didn't want to do anything about this matter. ...
+Aneus: So she made a plan to destroy the Red Legion for their cruelty forever.
+Player: cruelty
+Aneus: The soldiers treated the workers like slaves.
+Player: plan
+Aneus: She ordered her loyal druids and hunters to disguise themselves as orcs from the near island and to attack the Red Legion at night over and over again.
+Player: island / attack
+Aneus: The General of the Red Legion became very angry about these attacks and after some months he struck back!
+Player: struck
+Aneus: The soldiers of the Red Legion went to the island by night. The orcs were not prepared and the Red Legion killed hundreds of orcs with nearly no loss. ...
+Aneus: Afterwards, they walked back to the castle.
+Player: walked back
+Aneus: It is said that the orcish shamans cursed the Red Legion. ...
+Aneus: Nobody knows. But one third of the soldiers died due to a disease on the way back. ...
+Aneus: And the orcs wanted to take revenge, and after some days they struck back! ...
+Aneus: The orcs and many allied cyclopes and minotaurs from all over Tibia came to avenge their friends and killed nearly all workers and soldiers in the castle. ...
+Aneus: The help of the king's sister arrived too late.
+Player: help
+Aneus: She tried to rescue the workers but it was too late. The orcs started immediately to attack her troops, too. ...
+Aneus: Her royal troops went back to the city. A trick saved the city from destruction.
+Player: trick / destruction
+Aneus: They used the same trick they had used against the Red Legion, and the orcs started to fight their non-orcish allies. ...
+Aneus: After a bloody and long fight, the orcs went back to their cities. The city of Carlin was rescued. ...
+Aneus: Ever since, a woman has been ruling over Carlin and this statue was made to remind us of their great tactics against the orcs and the Red Legion. ...
+Aneus: So that was the story of Carlin and the Fields of Glory. I hope you liked it. <smiles>
+Player: bye
+Aneus: Good bye and take care of yourself!
+Aneus: Good bye and take care!

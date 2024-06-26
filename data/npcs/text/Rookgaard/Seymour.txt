@@ -1,0 +1,83 @@
+Player: (idle)
+Seymour: Newcomers - visit me! I'll answer your questions!
+Seymour: Gain some knowledge in the academy!
+Seymour: Feeling lost? Ask me for help!
+Player: Hi  
+Seymour: Hello, Player. What do you need?  
+Player: Gods  
+Seymour: You can learn much about Tibia's gods in our library.  
+Player: Help / Hints  
+Seymour: I can assist you with my advice.  
+Player: Advice  
+Seymour: Read the blackboard for some hints and visit the training center in the cellar.  
+Player: Training / Cellar  
+Seymour: You can try some basic things down there, but don't challenge the monsters in our arena if you are inexperienced.  
+Player: Monsters  
+Seymour: You can learn about Tibia's monsters in our library.  
+Player: Job  
+Seymour: I am the master of this fine academy.  
+Player: Academy  
+Seymour: Our academy has a library, a training center in the cellars and the oracle upstairs.  
+Player: Library  
+Seymour: Go and read our books. Ignorance may mean death, so be careful.  
+Player: Name  
+Seymour: My name is Seymour, but to you I am 'Sir' Seymour.  
+Player: Time  
+Seymour: It is 8:26 pm, so you are late. Hurry!  
+Player: King  
+Seymour: Hail to King Tibianus! Long live our king! Not that he cares for an old veteran who is stuck on this godforsaken island...  
+Player: Magic  
+Seymour: The only magic-user on this isle is old Hyacinth.  
+Player: Tibia  
+Seymour: Oh, how I miss the crowded streets of Thais. I know one day I will get promoted and get a job at the castle... I must get out of here! The faster the better! It is people like you who are driving me mad.  
+Player: Sell  
+Seymour: I sell the Key to Adventure for 5 gold! If you are interested, tell me that you want to buy the key.  
+Player: Key  
+Seymour: Do you want to buy the Key to Adventure for 5 gold coins?  
+Player: No  
+Seymour: As you wish.  
+Player: Mission / Quest  
+Seymour: Well I would like to send our king a little present, but I do not have a suitable box. If you find a nice box, please bring it to me.  
+Player: Box  
+Seymour: Do you have a suitable present box for me?  
+Player: No  
+Seymour: HEY! You don't have one! Stop playing tricks on me or I will give some extra work!  
+Player: Weapon  
+Seymour: You need fine weapons to fight the tougher beasts. Unfortunately only the most basic weapons and armor are available here. You will have to fight some monsters to get a better weapon.  
+Player: Castle  
+Seymour: The castle of Thais is the greatest achievement in Tibian history.  
+Player: Dungeon  
+Seymour: There are some dungeons on this isle. You should strong enough to explore them now, but make sure to take a rope with you.  
+Player: Oracle / Vocation  
+Seymour: You will find the oracle upstairs. Talk to the oracle as soon as you have made level 8. Choose a vocation and a new home town, and you will be sent off to the continent.  
+Player: Rat  
+Seymour: Have you brought a dead rat to me to pick up your reward?  
+Player: No  
+Seymour: Go and find some rats to kill!  
+Player: Rookgaard  
+Seymour: Here on Rookgaard we have some people, a temple, some shops, a farm and an academy.  
+Player: People  
+Seymour: Well, there's me, Cipfried, Willie, Obi, Amber, Dallheim, Al Dee, Norma, and Hyacinth.  
+Player: Quentin  
+Seymour: He is responsible for the temple in Thais.  
+Player: Al Dee  
+Seymour: He is a shop owner in the northwestern part of the village.  
+Player: Amber  
+Seymour: A traveller from the main land. I wonder what brought her here, since no one comes here of his own free will.  
+Player: Cipfried  
+Seymour: A humble monk with healing powers, and a pupil of the great Quentin himself.  
+Player: Dallheim  
+Seymour: Oh good Dallheim! What a fighter he is! Without him we would be doomed.  
+Player: Hyacinth  
+Seymour: A mysterious druid who lives somewhere in the wilderness. He sells small health potions just like Lily.  
+Player: Potions  
+Seymour: Use a small health potion in case of emergencies to fill up around 75 health points. You can buy them at Lily's shop. She also has antidote potions.  
+Player: Obi  
+Seymour: A cousin of Thais' smith Sam. He has a shop here where you can buy most stuff an adventurer needs.  
+Player: Willie  
+Seymour: Willie is a fine farmer, although he has short temper.  
+Player: Bye  
+Seymour: Good bye! And remember: No running up and down in the academy!  
+Player: Hi  
+Seymour: Hello, Player. What do you need?  
+Seymour: Good bye! And remember: No running up and down in the academy!  

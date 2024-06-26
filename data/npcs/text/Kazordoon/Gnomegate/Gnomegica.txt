@@ -1,0 +1,41 @@
+Gnomegica: Laaa Laaa LaLa Laa Laaa!
+Gnomegica: Oh my, such a mess! I really should clean up things more often.
+Player: hi
+Gnomegica: Greetings! You came to the right gnome to buy potions, runes or wands. So let's talk about a trade.
+Player: name
+Gnomegica: I'm Gnomegica. It's so nice that you ask.
+Player: offer
+Gnomegica: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.
+Player: trade
+Gnomegica: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?
+Player: potions
+Gnomegica: Have a look. You can also look at wands or runes.
+Player: wands
+Gnomegica: Have a look. You can also look at potions or runes.
+Player: runes
+Gnomegica: Have a look. You can also look at wands or potions. 
+Player: bigfoot
+Gnomegica: The bigfoot troop is a strange idea to me. But in the end these are strange times we live in.
+Player: thais
+Gnomegica: It is the capital of the Thaian kingdom. Not that I'd know what the Thaian kingdom is but that's what people told me.
+Player: sky
+Gnomegica: I've seen the sky once. But I guess it didn't see me because I kept hidden.
+Player: gnome
+Gnomegica: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: dwarf
+Gnomegica: With the enslaved dwarfs fighting on the side of 'those below' we were somewhat suspicious of the dwarfs at first. But after a while we grew to trust each other somewhat. It would be excessive to call it an alliance just yet. ...
+Gnomegica: If the bigfoot project that the dwarfs suggested proves successful we will certainly open up a bit more towards outsiders and surfacers.
+Player: those below
+Gnomegica: The more we learn about them, the more it becomes clear how little we know. 
+Player: global warming
+Gnomegica: The warming is caused by 'those below'. That is what we could piece together, which is admittedly little, especially by gnomish standards.
+Player: below
+Gnomegica: We know little of those below. Even their minions seem to know little about them. Most of them are lead by other minions and they have a certain hierarchy. There are rumours of molten cities of lava at the heart of the earth.
+Player: surface
+Gnomegica: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: crystal
+Gnomegica: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: mushrooms
+Gnomegica: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: bye
+Gnomegica: Good bye and come again.

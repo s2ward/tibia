@@ -1,0 +1,39 @@
+Player: Hi  
+Jimmy: Hello my friend. What's up?  
+Player: Job  
+Jimmy: Guess what? I'm a thief!  
+Player: Name  
+Jimmy: People call me Jimmy Swiftfinger.  
+Player: Ninja  
+Jimmy: What's that? Never heard of it.  
+Player: Yalahar  
+Jimmy: This city is a huge jail with its keepers in the middle. I've never seen its former brilliance so I rather see it in a negative light.  
+Player: Yalahari  
+Jimmy: I don't like them and I can't see how they should ever have managed to build a city like this. I mean, they were never able to organise that many people.  
+Player: Dwarf  
+Jimmy: Some dwarfs live in Yalahar but they are not very talkative. I have no clue where they came from.  
+Player: Beregar  
+Jimmy: Never heard of that.  
+Player: Mistrock  
+Jimmy: This island is weird. It's definitely no ordinary mist that covers the island most of the days. To me it looks more like....steam from a chimney.  
+Player: Fenrock  
+Jimmy: I've never been there because there is no reason to go. It is cold and the island is small and meagre.  
+Player: Quest  
+Jimmy: We had a deal and I kept my word, so what do you want? You'd better leave now.  
+Player: Assassin  
+Jimmy: I don't kill people.  
+Player: Alchemist Quarter  
+Jimmy: I was a little boy when the quarter blew up. It was a huge explosion and the stench was evil. No one made it out there alive. Every living being mutated into some monster.  
+Player: Factory Quarter  
+Jimmy: What are they producing there anyway? Tell me if you find out.  
+Player: Magic Quarter  
+Jimmy: I sneaked in once. You have to know that it is not allowed for 'normal' citizens like me to enter. They carry out dark experiments there, that's for sure.  
+Player: Cemetery Quarter  
+Jimmy: No one knows what really happened there. The whole quarter is overrun with undead and demonic creatures. It's the work of the mages if you ask me.  
+Player: Sunken Quarter  
+Jimmy: A smart person like you has surely seen that most of the city has grown larger than the island it was built on. The Yalahari built metal construction to enlarge the city. ...  
+Jimmy: Well, in the case of the sunken quarter, it didn't work out. The whole quarter broke away and sunk into the sea.  
+Player: Foreigner Quarter  
+Jimmy: The foreigner quarter is almost as shabby as the trade quarter. Be careful there or you might get in trouble.  
+Player: Arena Quarter  
+Jimmy: I like the zoo quarter. I often go there and watch the animals. One advice, though: Stay away from the arena! The gladiators there are always up for a fight and there are rumours about some very strong undead gladiators deep down under the arena.  

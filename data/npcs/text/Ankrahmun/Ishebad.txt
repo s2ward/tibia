@@ -1,0 +1,46 @@
+Player: Hi
+Ishebad: Be mourned, pilgrim in flesh. Are you looking for a promotion?
+Player: name
+Ishebad: I am Ishebad the chosen.
+Player: job / arkhothep
+Ishebad: The pharaoh wants not to be disturbed. I am his grand vizier and responsible for the daily affairs of the city and promotions of heroes.
+Player: time
+Ishebad: Time does not matter to the undead.
+Player: promotion/yes
+Ishebad: Do you want to be promoted in your vocation for 20000 gold?
+Player: yes
+Ishebad: You are already promoted.
+Player: Temple
+Ishebad: The temple will take care of your spiritual matters.
+Player: Tibia
+Ishebad: This world just awaits the wisdom of our pharaoh. It needs that wisdom and will soon learn to appreciate it.
+Player: Kazordoon / Ab'dendriel / Venore / Edron / Thais
+Ishebad: Other cities are of no importance. Ankrahmun will become the centre of the known world anyway.
+Player: Ankrahmun
+Ishebad: Our city will become the capital of a worldwide empire.
+Player: Darashia
+Ishebad: This village is so insignificant that our wise pharaoh has chosen to ignore it.
+Player: Darama
+Ishebad: The rule of our beloved pharaoh will soon span this continent and one day the whole known world.
+Player: daraman
+Ishebad: Some lunatic who was driven mad by the heat of the desert and dehydration.
+Player: Pharaoh
+Ishebad: Our immortal ruler, may he be blessed, is the keeper of our enlightenment and our saviour.
+Player: ashmunrah
+Ishebad: The fallen pharaoh did not see it was time to step back and let his son rule. So he met the fate that he deserved.
+Player: Scarab
+Ishebad: The scarabs are keepers of secrets. Some secrets are not meant for you mortals. Ever keep that in mind.
+Player: ascension / uthun / rah / akh / akh'rah uthun
+Ishebad: Consult a priest to learn how you could achieve ascension.
+Player: ascension
+Ishebad: Consult a priest to learn how you could achieve ascension.
+Player: mourned
+Ishebad: You mortals are all to be mourned for your miserable existence.
+Player: Eremo
+Ishebad: It is said that he lives on a small island near Edron. Maybe the people there know more about him.
+Player: mortality
+Ishebad: If you please our pharaoh, he will reward you and free you from your mortality.
+Player: Undead / Undeath
+Ishebad: Undeath is only for the chosen.
+Player: Farewell/Bye
+Ishebad: Good bye, Player!

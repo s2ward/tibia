@@ -1,0 +1,33 @@
+NPC: Grodrik  
+Player: hi  
+Grodrik: Leave me in peace. I don't want to chat with humans. Got my own worries and problems.  
+Player: beer  
+Grodrik: One of the things you can't have enough of.  
+Player: dating  
+Grodrik: Do I look that desperate? Stop breathing my air.  
+Player: dwarf  
+Grodrik: Yes! To the honour and strength of the dwarfs! <lifts his mug of beer>  
+Player: Eclesius  
+Grodrik: I've never heard that name.  
+Player: elf  
+Grodrik: Yuck.  
+Player: job  
+Grodrik: I'm a smith - surprise. But dwarven smiths are so common that it's hard to find a good position nowadays.  
+Player: kazordoon  
+Grodrik: There aren't enough women here, if you ask me. Particularly, not enough of the kind who are interested in me.  
+Player: love  
+Grodrik: <sigh>  
+Player: mission  
+Grodrik: Huh? What do I look like, a babysitter? Find your own missions, I don't have one for you.  
+Player: name  
+Grodrik:: I'm Grodrik Hammertoe, son of Grimbul Hammertoe.  
+Player: woman  
+Grodrik: <sigh>  
+Player: bye  
+Grodrik: Yeah, bye.  
+Special dialogue:  
+Player: worries / problem  
+Grodrik: <sigh> My current problem is that my beer is empty. Got a mug of beer for me?  
+Player: no  
+Grodrik: Spare me your do-gooding speech on 'beer is bad' yadayada or I'll get angry. Sometimes a man needs his beer.  
+Note: It is possible to talk to Grodrik only when doing some missions during The Scatterbrained Sorcerer Quest. If you answer "yes" after the word "worries / problem" the conversation will go through the quest lines. You can read these lines for example here.  

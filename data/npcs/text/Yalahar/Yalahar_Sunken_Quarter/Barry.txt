@@ -1,0 +1,44 @@
+Player: hi / hello  
+Barry: Hello. Unless you have official business here or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Barry: I'd be careful if I went there. Some people have never come back, and those who did are ill in one or the other way.  
+Player: arena quarter  
+Barry: A lot of trouble has been coming from that quarter lately. It seems that the former fighters and gladiators have changed in most unexpected ways.  
+Player: augur  
+Barry: They were appointed by the Yalahari to execute supervising and controlling tasks.  
+Player: cemetery quarter  
+Barry: You will not be able to attend any religious ceremonies in that quarter, that's a fact. Better stay away.  
+Player: factory quarter  
+Barry: The old factory is just south of here. The machines and worker golems are not really functioning anymore, but you still hear their operating sounds.  
+Player: fenrock  
+Barry: Yes, you're right. People are calling that snowy island Fenrock.  
+Player: foreign quarter  
+Barry: I'm glad I don't have to do shifts there. It's interesting, but there are constantly fights going on.  
+Player: island  
+Barry: Neither Captain Karith nor Captain Cookie are sailing to the outer islands. I haven't found anyone yet to bring me there.  
+Player: job / business  
+Barry: I'm a sergeant of the Yalaharian Guard Force.  
+Player: magician quarter  
+Barry: A quarter full of talented magicians, illustrious figures and dangerous magical creatures. The latter cause most of the problems in this quarter.  
+Player: mission  
+Barry: Excuse me? I'm not sure which mission you are talking about, just tell me what you want from me.  
+Player: mistrock  
+Barry: Mistrock? Yes, maybe that's the name. I'm not sure.  
+Player: name  
+Barry: I'm called Barry.  
+Player: pass / gate  
+Barry: Do you want to pass the gate? Are you going to the magician or the sunken quarter?  
+Player: quarter  
+Barry: We have eight quarters plus the centre, and each of them is like an own microcosm.  
+Player: random word  
+Barry: This is of no importance to me right now.  
+Player: sunken quarter  
+Barry: You know, I was guarding this gate here at the time the southern quarter collapsed. It's something I'll never be able to erase from my mind.  
+Player: trade quarter  
+Barry: Mr. West is not as bad as some people make him look like. He's a bit like 'steal from the rich to give it to the poor', in my opinion.  
+Player: vengoth  
+Barry: I heard about Vengoth, but not much.  
+Player: Yalahar  
+Barry: I actually like the city. There's so much going on in all those small streets and corners, it's really entertaining.  
+Player: bye  
+Barry: Goodbye citizen!  

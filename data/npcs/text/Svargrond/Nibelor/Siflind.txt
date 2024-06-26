@@ -1,0 +1,79 @@
+Siflind: Need potions or magical equipment, my children? Let me know.
+Siflind: Hmm... the northwind brings bad news.
+Player: hi
+Siflind: Be greeted, Player If you are in need of potions or magical equipment, just ask me about my offers.
+Player: how are you
+Siflind: The years have been gracious to me, thanks my child.
+Player: name
+Siflind: I am Siflind, my child.
+Player: job
+Siflind: I am a shaman. That should tell you everything you want to know, my child. But I also sell some potions, wands and runes.
+Player: sell / buy / offer
+Siflind: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.
+Player: trade
+Siflind: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?
+Player: news
+Siflind: News are usually bad news in these times. So be happy if there aren't any news.
+Player: rumour
+Siflind: I don't think much of rumours but in fact there is a story that always comes to my mind. It is more a tale than a rumour, but anyway ...... it says the chakoyas have not always been that hostile. ...
+Siflind: There must have been an incident that shook their trust in manhood so strongly that it would last forever. Imagine that we could be friends if only that incident never happened ......... whatever that was.
+Player: shamans
+Siflind: We are the spiritual shepherds of humanity.
+Player: druids
+Siflind: Druids are not that different from us shamans.
+Player: raiders
+Siflind: They are probably so lost and desperate that they cannot see what is best for them. Instead they listen to false promises.
+Player: barbarian
+Siflind: We barbarians are proud people.
+Player: yeti
+Siflind: Even an old woman like me has not seen a yeti yet. However, this does not mean that they don't exist.
+Player: bonelord
+Siflind: I have never seen such a creature.
+Player: chakoya
+Siflind: The chakoyas can be a terrible menace if they aren't kept away.
+Player: elf / dwarf
+Siflind: They have no business here.
+Player: monster
+Siflind: Monster hunting is quite profitable. If you manage to survive that is.
+Player: enemies
+Siflind: Be careful while exploring. Monsters and raiders are not the only dangers you might have to face. The environment can become an enemy itself.
+Player: venore
+Siflind: Venore is far away.
+Player: carlin
+Siflind: Those women don't even know whom they are annoying. Else they'd run and hide.
+Player: thais
+Siflind: Thais is far away.
+Player: port hope / edron
+Siflind: We hear stories about such distant places now and then.
+Player: camps
+Siflind: The raiders have finally built some steady camps on their own. Considering the whole disagreement which took place about the building of Svargrond, it's obvious that things have changed drastically here.
+Player: svargrond
+Siflind: The city seems to have brought the needed stability and peace to my people.
+Player: nibelor
+Siflind: This is a place of spirituality. I assume that this seems boring for someone as young as you are, my child.
+Player: join / honourary
+Siflind: Some people are granted the position of an honourary barbarian.
+Player: leader
+Siflind: Sven the Younger has been our jarl for quite a while and he is the best jarl I have ever seen.
+Player: jarl
+Siflind: The jarl Sven the Younger has learned a lot since his youth. I know him since he was a reckless young hunter. Since then, he has grown and learned much and became a true role model for all young men and women.
+Player: king / queen
+Siflind: We don't have any need for kings and queens in our lands, my child.
+Player: cult
+Siflind: I heard a secretive group of people passed Svargrond a while ago. Later others followed. We don't know why they came here and where they went.
+Player: mines
+Siflind: If these mines are really that vital, they will be recaptured one day.
+Player: everspring
+Siflind: The afterlife shouldn't concern you too much. Take care about your life and things will work out.
+Player: chyll
+Siflind: The north wind hardly notices us humans with our fears and hopes. It's up to us to keep ourselves safe in this wind. We shamans try to help our fellow humans on this path to the best of our abilities.
+Player: year of the serpents
+Siflind: Nobody knows what really happened in the past. Perhaps one day, we will find out the cause for the appearance of the sea serpents and the reason that let them vanish again.
+Player: gods / zathroth / uman / banor
+Siflind: The gods only care for those who take care of their own.
+Player: ferumbras
+Siflind: Isn't it sad to hear about such a fallen creature.
+Player: excalibug
+Siflind: It's not here I guess.
+Player: bye
+Siflind: Good bye and take care, Player

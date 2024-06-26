@@ -1,0 +1,38 @@
+NPC: Jagran  
+Player: Name  
+Jagran: I'm Jagran Stonehand, son of fire, from the molten rock fellowship.  
+Player: problems  
+Jagran: Ah, where to begin? After the doom blight and the famine, our troops were in disarray and by no means in suitable strength. ... When those lunatics from the Axe of Vengeance fellowship rose to dethrone the emperor, we stood ready to defend our liege. Still, many of those traitors escaped to the mines. ... To make matters worse, all kinds of beasts had invaded the mines that were left abandoned while we restored order in Kazordoon. Sounds bad enough to you? ... Well, it became worse! When we began to retake the mines from the traitors and the beasts, we encountered another foe, worse than all the others. Have you ever heard of the Lost? Well, you probably have. ... They swarmed up from the depths, and if it had not been for our careful advancement and scouting, they might easily have overwhelmed us by surprise and sheer numbers. ... We fought many battles, with the traitors and beasts constantly on rampage at our backs. Yet we managed to deal them a crippling blow when Areak killed the creature called Bloodtooth that was leading their armies. ... But with that many casualties and enemies on all sides, we had to retreat and regroup. Do you get an idea of our problems now? ... The traitors from the Axe of Vengeance, beasts from the depths and the Lost are more than enough to cause a problem. So we can't spare any men to protect you, and if you venture into the mines you'll do it at your own risk.  
+Player: Areak  
+Jagran: agran: Areak Twobeards was probably the best fighter Kazordoon ever had, and as tough a dwarf as could be. He died after killing the Bloodtooth creature that had led the Lost. ... Though he killed the beast, he succumbed to his wounds only a few heartbeats after his enemy fell. His body was rescued and brought to Kazordoon for a proper burial.  
+Player: Gnomes  
+Jagran: I'm sure the gnomes could have done more when the doom blight struck us. But first they raised a quarantine to protect their own mushroom farms and later claimed that their war made it impossible to send considerably more resources. ... Still, they did something and sent resources. If their reports about their fights against enemies from below are true, then the amount of help might be deemed acceptable. ... Most importantly, they provided us with mushrooms that were resistant to the blight. I have to admit that they are more advanced in mushroom cultivation than we are. I hate to admit that we have been too caught up with traditions; it made us vulnerable.  
+Player: Elves  
+Jagran: Who cares about elves? I certainly don't!  
+Player: Bloodtooth  
+Jagran: It was like nothing we had ever seen before, and it was huge. First we thought it was some kind of war-beast, but it was frequently seen behind the lines, and rarely engaged in combat. ... Later, it became more and more obvious it was the driving force behind the attacks. Areak Twobeards led the assault that broke through the lines of the lost, and confronted the beast. ... After his death, the attacks lost in frequency, ferocity and strategic planning.  
+Player: Dwarf  
+Jagran: We will survive as we have countless times before. We are dwarfs and we will boldly face any challenge that fate might throw at us. ... We are more than capable to handle our affairs and even lead our people through desperate times without a doubt.  
+Player: Beasts  
+Jagran: There are many creatures in the mines that came from the depths of the earth after the earthquakes. All kinds of critters are crawling, hunting and breeding in the mines now, as we had to reduce our military presence to key areas. ... Even most of the drilling rotworms have gone wild again while left unattended.  
+Player: Earthquakes  
+Jagran: Parts of the mines are unstable or collapsed. Others are now connected to natural caves that lead to totally unknown regions of the depths. Given that this brought us the doom blight, it is hard to say what other evils might have crept into the mines.  
+Player: Mines  
+Jagran: The mines have always been an unorganized mass of tunnels, for dwarfen standards. But we follow instinct and experience when looking for promising new ore veins, and families, fellowships or trusts frequently dug in competition with each other. ... To foreigners, this may seem somewhat odd, but to us dwarfs, it seems natural and necessary.  
+Player: Thais  
+Jagran: The Thaians are an arrogant and ignorant bunch. At least they had some honour and sent some resources when the famine struck us. Still, many dwarfs lay part of the blame on humans for all that has happened.  
+Player: Venore  
+Jagran: Those Venoreans are hyenas that tried to bleed our people to death when the doom blight struck our mushroom fields. The prices and rights they demanded in exchange were outrageous. ...  
+Jagran: Sadly, they often got their way due to the desperate situation. But on that matter, the last word has not yet been spoken, and dwarfs have a good memory.  
+Player: Carlin  
+Jagran: Carlin, with its association with the elves, was never deemed trustworthy in the past. Given the strained relationship with Thais, we should perhaps reconsider this.  
+Player: Ab'dendriel  
+Jagran: You can hardly call it a city. All those trees and bushes, crawling insects everywhere, and the dirt! Just the thought of it gives me shivers.  
+Player: Kazordoon  
+Jagran: Kazordoon has seen worse times than this one in its history ... The recent earthquakes have done little harm, although combined with the threats that arose, it has been a wake-up call for certain factions; and now we are slightly changing things to be better prepared for threats and to handle certain things ... Admittedly, we have rested for too long on the accomplishments of our forefathers who had built Kazordoon. We were doing the ancestors a disservice by not adding more of our own ideas.  
+Player: The big old one  
+Jagran: The big old one has seen worse earthquakes then the most recent ones. Even the mines weathered them quite well. Our mountain home shrugged them off with little notice at all. ... Legends, old even by dwarfen standards, mention earthquakes that changed the face of the surrounding lands but left the big old one unimpressed. ... It stands for protection and toughness and is more than just a home to us dwarfs, but a symbol for all that dwarfs stand and fight for. The big old one is our heart and philosophy.  
+Player: Humans  
+Jagran: We will not forget that human traders profited from the doom-blight that plagued our people. Their prices for food were an insult to all dwarfs. And for all that I heard, they tried to do worse.  
+Player: Axes of Vengeance  
+Jagran: After their failed rebellion, they gave up even the pretense of legitimacy. They bolster their dwindling ranks with outcasts and criminals, and rumor has it that they welcome any dwarf into their ranks, regardless of the crimes he committed.  

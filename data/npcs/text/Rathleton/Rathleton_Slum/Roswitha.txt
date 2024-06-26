@@ -1,0 +1,64 @@
+Roswitha: Business is slow nowadays. <sigh>
+Roswitha: Come on in! Have a pint of glooth with your mates!
+Player: hi
+Roswitha: Hello, my dear. You look like you need a good drink and a chat! Come on in!
+Player: name
+Roswitha: I am Mrs Roswitha Brandon. Mr Brandon has been dead these ten years, poor soul. Nowadays, Mrs Roswitha will do.
+Player: job
+Roswitha: I run this place. It used to be the old post coach station back when Rathleton was a lot smaller, but my late husband made a bed and breakfast of it.
+Player: roswitha
+Roswitha: <sharply> It's Mrs Roswitha, thank you.
+Player: Mrs
+Roswitha: That's right, Mrs Roswitha. That wasn't so difficult now, was it? Right.
+Player: time
+Roswitha: <winks> It's glooth time! This one's on the house. Drink up, my girl!
+Player: time
+Roswitha: Ah, not yet, love. You can always buy another drink, though. <winks>
+Player: buy / drink
+Roswitha: One cold, frothy, tasty pint of glooth coming up!
+Player: sandwich
+Roswitha: Oh, I am so sorry, dear, I just sold the last one today! But I'll give you a good pint of glooth instead, if you want. Just say the word!
+Player: soup
+Roswitha: Ah, well, it's still in the making. Can't get the kettle to boil decently, these days.
+Player: mr brandon
+Roswitha: <sighs> He was a passionate fisherman, my poor husband was. Loved nothing as much as the sea wind in the sails and the ship's rudder in his hand. Well, almost nothing. He loved to brew glooth and drink it, too, that's for sure. ...
+Roswitha: Those damned dangerous cliffs and contrary winds around our isle are the reason I shall never again see him in this life. <dabs at her eyes>
+Player: king
+Roswitha: It has a romantic ring to it, that's for sure. Though I guess he has to blow his nose just like the likes of us.
+Player: rathleton
+Roswitha: The city's smartened up, at least on the hill up there <snorts>. Those nobs won't look at the likes of me, oh no. But at least the glooth gets us by in hard times.
+Player: glooth
+Roswitha: Well, if you drink it too quickly, there's no knowing what'll happen. <winks> If it gets cooler, it's harmless, though. No worries. ...
+Roswitha: The first pint was on the house. Ask me for a drink to buy another one. It's ten gold only for a lot of Rathleton taste! <winks>
+Player: glooth [after 10]
+Roswitha: A faithful customer. I like that. You've come for another drink I guess. <winks>
+Player: oramond
+Roswitha: Well, the island would be lovely if it wasn't for all the terrible beasts that roam it! <sighs>
+Player: minotaur
+Roswitha: Horrible brutes they are! Always fighting and attacking us. The only decent sort is Maro - you know, the toolmaker from the upper city. He used to come down here in our part of the city once and a while.
+Player: city
+Roswitha: Your city is probably quite different from ours. I bet however you got nobs and ordinary people just as well as we do.
+Player: factory
+Roswitha: That old ruin? Don't go there, dear. It's full of unhealthy glooth residues or so I hear, and there's a lot of strange creatures and malfunctioning gear around that could really hurt you.
+Player: pint
+Roswitha: Well, if you drink it too quickly, there's no knowing what'll happen. <winks> If it gets cooler, it's harmless, though. No worries. ...
+Roswitha: The first pint was on the house. Ask me for a drink to buy another one. It's ten gold only for a lot of Rathleton taste! <winks>
+Player: pint [after 10]
+Roswitha: Developed a taste for it, have you? <winks> Want to buy another pint, just say so!
+Player: chat
+Roswitha: Ah, all I've got for comfort these days. I can tell you some stories about this town that will astound you! Just ask me for a story!
+Player: gossip / story
+Roswitha: Ah, where would I be without a good gossip or two. <winks> Just ask me for a story!
+Player: story [repeated]
+Roswitha: They say Alaistar Stanton married a minotaur princess and brought their child with him when the minotaurs would not accept a human as king. Can you believe that? <shakes head>
+Roswitha: Did you know? That friendly Mr Barnabas Dee is a soothsayer who's foretold many things for this city! If only he had foretold Mr Brandon's death, maybe my poor husband would not have sailed. <shakes head>
+Roswitha: Some say glooth does all kinds of strange things to you. Some claim it made them light as air and they could fly! Though I guess that's a whiff of peppermoon pollen too many, poor souls. Still, who knows. Try a pint of glooth for yourself! <winks>
+Roswitha: No one has ever seen Azalea's face, she's always hooded. Some say she is hideously disfigured from a curse that she can't lift, always searching for a cure and that's why she became a druid and doesn't dare show her face, poor thing!
+Roswitha: There's a phantom of the old opera, underneath the sewers. It stalks the city at night. Some of my customers have seen it! They say it looks like a horrible beast, moaning and roaring! <shudders>
+Roswitha: You know they say some poor souls have been captured and made to work inside metal bodies and that's how gargoyles were made? I hope Mr Brandon's soul was not captured by one of those fellows!
+Roswitha: Some say Rathleton was built on the ruins of an ancient order, some say, on a demonic site, and that the mists arising are the souls of the dead ... <shudders> I don't want to believe THAT, though!
+Roswitha: I have been told that a weird scientist blew up the old factory to run from his debts, and that he's now hiding in one of your towns, gambling and drinking. For shame!
+Roswitha: Flint used to be the city watch captain. But when he lost his best friend in a battle against the minotaurs, he resigned and became a blacksmith instead. Poor man!
+Roswitha: My grandfather used to tell me the mists around this isle were the breath of sleeping dragons, who only breathe out every ten years. Now that would be a sight to see!
+Player: bye
+Roswitha: Stay clear of trouble, dear!

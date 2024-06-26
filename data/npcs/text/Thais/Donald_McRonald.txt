@@ -1,0 +1,70 @@
+Player: hi  
+Donald McRonald: Hmmm, well, hello Player. What brings you here?  
+Player: hi
+Donald McRonald: Today is just a day like any other - much farmwork to be done.
+Player: here / job  
+Donald McRonald: I run a farm, what else?!  
+Player: name  
+Donald McRonald: Donald McRonald.  
+Player: Donald  
+Donald McRonald: I am Donald.  
+Player: farm  
+Donald McRonald: It is my farm, yes.  
+Player: time  
+Donald McRonald: Who cares?  
+Player: wife  
+Donald McRonald: Sherry is my wife.  
+Player: weather  
+Donald McRonald: Weather is good enough to work on the fields.  
+Player: crops  
+Donald McRonald: It is hard to grow but worth the effort.  
+Player: field  
+Donald McRonald: My fields are enchanted by the druids and the wheat grows very quickly.  
+Player: city  
+Donald McRonald: The city is to the north.  
+Player: mill  
+Donald McRonald: I sometimes have to bring the wheat there.  
+Player: spooked  
+Donald McRonald: I dont know.  
+Player: king  
+Donald McRonald: King Tibianus is our king.  
+Player: frodo  
+Donald McRonald: Frodo? He is a friend of mine.  
+Player: oswald  
+Donald McRonald: He ignores us and we ignore him.  
+Player: bloodblade  
+Donald McRonald: A general in the army.  
+Player: muriel  
+Donald McRonald: I don't trust sorcerers like you.  
+Player: elane  
+Donald McRonald: Too noble to care about us.  
+Player: gregor  
+Donald McRonald: Knights always feel superior to us farmers.  
+Player: marvik  
+Donald McRonald: Druids are a great help for us, they know much about nature.  
+Player: gorn  
+Donald McRonald: Hardly know him.  
+Player: sam  
+Donald McRonald: A blacksmith, eh?  
+Player: quentin  
+Donald McRonald: A generous person.  
+Player: lynda  
+Donald McRonald: She has a good soul.  
+Player: spider  
+Donald McRonald: I will give you 2 gold for every spider you bring me. But not a rotten spider that was already dead for some time. Do you have any with you?  
+Player: no  
+Donald McRonald: Hmpf.  
+Player: spider-yes  
+Donald McRonald: You have no spider that died recently.  
+Player: spider-yes  
+Donald McRonald: Here you are.  
+Player: buy / sell / offer / goods / stuff / ware / equipment / food  
+Donald McRonald: I can offer you wheat, cheese, carrots, and corncobs. If you'd like to see my offers, ask me for a trade.  
+Player: trade  
+Donald McRonald: Of course, just browse through my wares.  
+Player: eclesius  
+Donald McRonald: He sometimes comes to shop our food.  
+Player: bye  
+Donald McRonald: Yes, bye!  
+Player: farewell  
+Donald McRonald: Yes, farewell!  

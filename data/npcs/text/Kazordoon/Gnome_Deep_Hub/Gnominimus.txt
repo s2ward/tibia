@@ -1,0 +1,20 @@
+Player: hi
+Gnominimus: Oh hello. Nice to see some civilized person down here.
+Player: job / mission
+Gnominimus: I'm a explorer foremost!
+Player: name
+Gnominimus: I'm Gnominimus, the explorer.
+Player: here
+Gnominimus: I found this curious place while exploring - as I should, I'm xplorer after all.
+Player: explorer
+Gnominimus: I discovered this cave and this curious gong!
+Player: gong
+Gnominimus: I tried everything to make it work, but with whatever I hit it, it won't budge. I guess it needs a special kind of mallet.
+Player: mallet
+Gnominimus: Yes, since the gong is down here, the mallet might be somewhere hidden in those caves. Then again, some creature might have stolen it and carried it away.
+Player: mallet
+Gnominimus: Now let's see what you have here! Amazing, this looks like a part of a mallet. Sadly there are parts missing.
+Player: mallet
+Gnominimus: Marvelous! You have found all parts of the mallet! It only takes some gnomish ingenuity and mushroom glue to fix it. Shall I give it a try?
+Player: yes
+Gnominimus: Aaaand there it is! As good as new!

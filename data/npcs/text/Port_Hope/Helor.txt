@@ -1,0 +1,50 @@
+Player: hi
+Helor: Be greeted in the name of the gods, traveller Player. If you're looking for a paladin spell teacher, you've found one.
+Player: name
+Helor: My name is Helor.
+Player: job
+Helor: I am a paladin and a teacher.
+Player: spells
+Helor: Sorry, I don't teach spells for your vocation.
+Player: time
+Helor: It is 9:27 pm right now.
+Player: tibia
+Helor: The face of the world was sculpted by conflicts of the gods and the mortals.
+Player: king
+Helor: Our king will learn about the things happening here and he will be not amused.
+Player: jungle
+Helor: The jungle is a challenge and even here in this city you can feel its corruptive influence. It's always lurking to crush the ones that are weak in body or mind.
+Player: apes
+Helor: They are intelligent enough to raid Port Hope in order to steal tools, so unlike other animals they are responsible for their wrongdoing and should be punished.
+Player: lizards
+Helor: The lizards are aggressive enemies. It's obvious they never heard about our gods and their ideals.
+Player: dworcs
+Helor: They are just another breed of orcs and they will be treated like them.
+Player: thais
+Helor: Thais has its mistakes but it's a town's people that form a society and it's its people that have to be blamed for a society's failure.
+Player: venore
+Helor: Those tradesmen would gladly sell their souls. And they would sell them cheap.
+Player: carlin
+Helor: In their own way they are still following the word of the gods.
+Player: edron
+Helor: There are certain problems in Edron for sure and the defection of some of the knights was a great loss and caused much shame. But we are growing on the obstacles we have to overcome.
+Player: carlin
+Helor: In their own way they are still following the word of the gods.
+Player: darama
+Helor: It's up to us to fulfil the will of the gods even here at this remote continent.
+Player: darashia
+Helor: The people there are not evil, they just follow a terribly wrong philosophy.
+Player: ankrahmun
+Helor: An abnormality leading an abnormal cult. The day will come where our forces are strong enough to cleanse the city and the minds of the people.
+Player: kazordoon / dwarves / dwarfs
+Helor: Dwarves abandoned the gods because they are shortsighted. They are lost people.
+Player: ab'dendriel / elves / elfs
+Helor: The believes of the elves are just a pack of lies to comfort their vanity. Only the gods have the power to elevate us beyond the restrictions of our mortal form. The elves' vanity will lead them to nothing.
+Player: ferumbras
+Helor: Evil has many faces. He is only one of them.
+Player: excalibug
+Helor: A weapon that should be used to slay evil wherever it shows its ugly face.
+Player: bye
+Helor: May the gods watch you, Player.
+Player: (vanish)
+Helor: May the gods watch over you.

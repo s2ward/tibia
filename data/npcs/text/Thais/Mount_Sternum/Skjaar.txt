@@ -1,0 +1,35 @@
+Player: hi ( < lvl 15 )
+Skjaar: I don't talk to little children!!
+Player: hi (knight)
+Skjaar: Another creature who believes thinks physical strength is more important than wisdom! Why are you disturbing me?
+Player: hi (paladin)
+Skjaar: Neither strong enough to be a knight nor wise enough to be a real mage. You like it easy, don't you? Why are you disturbing me?
+Player: hi (sorcerer)
+Skjaar: It's good to see somebody who has chosen the path of wisdom. What do you want?
+Player: hi (druid) 
+Skjaar: Hail, friend of nature! How may I help you?
+Player: name
+Skjaar: I am Skjaar the Mage, master of all spells.
+Player: job  
+Skjaar: Once I was the master of all mages, but now I only protect this crypt.  
+Player: time  
+Skjaar: To those who have lived for a thousand years time holds no more terror.  
+Player: help
+Skjaar: I'm not here to help anybody. I only protect my master's crypt.
+Player: door  
+Skjaar: This door seals a crypt.  
+Player: crypt  
+Skjaar: Here lies my master. Only his closest followers may enter.  
+Player: master  
+Skjaar: If you are one of his followers, you need not ask about him, for you will know. And if you aren't, you are not worthy anyway!  
+Player: mountain
+Skjaar: Hundreds of years my master's castle stood on the top of this mountain. Now there is a volcano.
+Player: castle  
+Skjaar: The castle was destroyed when my master tried to summon a nameless creature. All that is left is this volcano.  
+Player: volcano  
+Skjaar: I can still feel the magical energy in the volcano. 
+Player: key
+Skjaar: I will give the key to the crypt only to the closest followers of my master. Would you like me to test you?
+Player: bye / farewell
+Skjaar: Farewell, Player!  
+Skjaar: Run away, unworthy Player!

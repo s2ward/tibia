@@ -1,0 +1,63 @@
+Hugo: Ahh! A vision! I have a vision for a new outfit! Assistant, some paper, fast!
+Player: hi
+Hugo: Be greeted, player and welcome to the 'wearhouse'!
+Player: job / welcome
+Hugo: I am tailor and designer extraordinaire. Well, rather a designer. I leave most of the actual tailoring to my assistants.
+Player: time
+Hugo: Sorry, a watch would ruin my stylish outfit.
+Player: name
+Hugo: I am known as Hugo Chief.
+Player: hugo
+Hugo: Well it's not my real name. I took it because people think it's scaring and manly. I hate people doubting my manhood for being a tailor, you know.
+Player: real name
+Hugo: Uhm, well it's Oscar Savage, but who can become famous, especially as an artist, with a name like that I ask you?
+Player: news
+Hugo: Ask my apprentice Kalvin about our new collection.
+Player: uniform
+Hugo: I don't get it, what uniforms you are talking about?
+Player: outfit
+Hugo: Sorry, but my time is currently reserved for premium matters.
+Player: addon
+Hugo: Addons? What a plain expression for something as beautiful as our accessories. Ask my assistant Irmana for them.
+Player: outfit / beggar
+Hugo: I guess my vision wasn't that grand after all. I hope there are still people who enjoy it.
+Player: warehouse
+Hugo: I would call it a 'wearhouse'.
+Player: bat wing
+Hugo: Well, what do you expect? Bat wings come from bats, of course.
+Player: brown piece of cloth
+Hugo: Ghouls sometimes carry it with them. My assistant Irmana can also fabricate cloth from secondhand clothing.
+Player: minotaur leather
+Hugo: If you don't know how to obtain minotaur leather, ask my apprentice Kalvin. I'm far too busy for these trivial matters.
+Player: heaven blossoms
+Hugo: A flower favoured by almost all elves.
+Player: gambling
+Hugo: I too love to gamble now and then in the Hard Rock tavern.
+Player: thais
+Hugo: Thais is kind of a fashion hell. If there was an award for the most ugly citizens, it would go to Thais.
+Player: carlin
+Hugo: Women should know better than to hide in ugly armor. Like all followers of ugliness they will be punished one day.
+Player: king
+Hugo: He does not care much about us, we don't care much about him. I consider that a fair deal.
+Player: army
+Hugo: I think they should not wear that ugly armour in town. I will see to assure that will be changed soon.
+Player: tax
+Hugo: I don't care about such mundane things like 'taxes'.
+Player: privilege
+Hugo: The city was granted a few privileges by the king. I can't even tell which. They don't affect me that much.
+Player: gambling
+Hugo: I too love to gamble now and then in the Hard Rock tavern.
+Player: excalibug
+Hugo: I don't care for such fairytales.
+Player: ferumbras
+Hugo: The ferumbras-bad-ass-fashion is incredibly outdated since years.
+Player: tibia / ugliness / punished
+Hugo: A world filled with ugly dressed people needs the skills of a fashion hero.
+Player: fashion hero
+Hugo: One day Captain Catwalk will punish all crimes to fashion and bring all ugly people to justice.
+Player: Captain Catwalk
+Hugo: He's a supermodel! No one knows his secret identity!
+Player: supermodel
+Hugo: A model with incredible superpowers. Do you think they call them supermodels for nothing?
+Player: bye
+Hugo: Good bye, player.

@@ -1,0 +1,114 @@
+Player: hi / hello  
+Captain Dreadnought: Well, well, a new sorcerer! Want me to bring you somewhere nice? Just say yes.  
+Player: yes  
+Captain Dreadnought: Good. Got all you want to take to the mainland, yes? Gear, limbs, loot?  
+Player: no  
+Captain Dreadnought: While you take time to ponder, I will just stroll over there and pretend not to listen to you thinking.  
+Player: hi / hello  
+Captain Dreadnought: Well, well, a new sorcerer! Want me to bring you somewhere nice? Just say yes.  
+Player: no  
+Captain Dreadnought: What? Then what DO you want? Learn about the main Tibian cities?  
+Player: no  
+Captain Dreadnought: So you know it all, huh? Where do you want me to bring you to, kid? Ab'Dendriel, Ankrahmun, Carlin, Darashia, Edron, Liberty Bay, Port Hope, Thais or Venore? ...  
+Captain Dreadnought: Also know that as a new adventurer you can travel between cities six times for free via the Adventurer's Guild. Just speak to old Charos in the guild.  
+Player: hi / hello  
+Captain Dreadnought: Well, well, a new sorcerer! Want me to bring you somewhere nice? Just say yes.  
+Player: yes  
+Captain Dreadnought: Good. Got all you want to take to the mainland, yes? Gear, limbs, loot?  
+Player: yes  
+Captain Dreadnought: Quick learner, good answer. For inexperienced newcomers, I'd recommend the city of Venore. Great place to start! ...  
+Captain Dreadnought: Though I can tell you about the other main Tibian cities too, if you wish. So, ready to set sail for Venore?  
+Player: no  
+Captain Dreadnought: Hey! We need that equipment here! I'll take that, thank you so very much. Ready to sail.  
+Player: hi / hello  
+Captain Dreadnought: Well, well, a new sorcerer! Want me to bring you somewhere nice? Just say yes.  
+Player: yes  
+Captain Dreadnought: Good. Got all you want to take to the mainland, yes? Gear, limbs, loot?  
+Player: yes  
+Captain Dreadnought: Quick learner, good answer. For inexperienced newcomers, I'd recommend the city of Venore. Great place to start! ...  
+Captain Dreadnought: Though I can tell you about the other main Tibian cities too, if you wish. So, ready to set sail for Venore?  
+Player: no  
+Captain Dreadnought: Changed your mind? Which city do you want to head to, Ab'Dendriel, Ankrahmun, Carlin, Darashia, Edron, Liberty Bay, Port Hope, Thais or Venore?  
+Player: hi / hello  
+Captain Dreadnought: Well, well, a new sorcerer! Want me to bring you somewhere nice? Just say yes.  
+Player: yes  
+Captain Dreadnought: Good. Got all you want to take to the mainland, yes? Gear, limbs, loot?  
+Player: yes  
+Captain Dreadnought: Quick learner, good answer. For inexperienced newcomers, I'd recommend the city of Venore. Great place to start! ...  
+Captain Dreadnought: Though I can tell you about the other main Tibian cities too, if you wish. So, ready to set sail for Venore?  
+Player: yes  
+Captain Dreadnought: Cast off! Don't forget to talk to the guide at the port for directions to nearest bars... err, shops and bank and such!  
+Player: name  
+Captain Dreadnought: Ruby Dreadnought. But it's Captain Dreadnought to you!  
+Player: job  
+Captain Dreadnought: I'm captain of this little sloop here, the Sea Cat.  
+Player: ship  
+Captain Dreadnought: She's pretty, isn't she? Will ship you safely to any port. Though a young landlubber such as you should consider to travel to Venore first. The travel is for free. Just once though! You have to ask for a passage.  
+Player: Adventurer Guild  
+Captain Dreadnought: Those fellows help still green adventurers like you, so you learn the lay of the Tibian Mainlands. With the adventurer's stone you can reach their guild hall from all major temples. ...  
+Captain Dreadnought: I recommend you travel there as soon as possible.  
+Player: Dreadnought  
+Captain Dreadnought: Yes? Got a problem with that?  
+Player: tibia  
+Captain Dreadnought: That's what the whole place is called.  
+Player: cit  
+Captain Dreadnought: Do you want to know about Ab'Dendriel, Ankrahmun, Carlin, Darashia, Edron, Kazordoon, Liberty Bay, Port Hope, Svargrond, Thais, Venore or Yalahar?  
+Player: Ab'Dendriel  
+Captain Dreadnought: Main city of the elves - lots of trees, bug milk and stuff that easily burns ...  
+Captain Dreadnought: ... Sorry, just thinking aloud. Ahem. Very cosy and safe I guess if you're fond of nature. I can sail there if you like.  
+Player: Ankrahmun  
+Captain Dreadnought: Only for premium travellers! Desert pyramid city close to the ocean, some underground tombs where I heard it's not bad hunting. I can sail there if you like.  
+Player: Carlin  
+Captain Dreadnought: A city ruled by forthright independent women. Very clean and safe, but also very strict on the booze, alas. But if that's what you like... I can sail there if you like.  
+Player: Darashia  
+Captain Dreadnought: Only for premium travellers! One of the two desert cities. Built around a lovely oasis. Lions, dragons... decent location for a newcomer. I can sail there if you like.  
+Player: Edron  
+Captain Dreadnought: Only for premium travellers! Quiet little castle city on an island in the north-eastern part of Tibia. Trolls, goblins, rotworms... good place for starters, too. I can sail there if you like.  
+Player: Kazordoon  
+Captain Dreadnought: The underground dwarven city. Doesn't have a real harbour, so I can't bring you there, sorry.  
+Player: Liberty Bay  
+Captain Dreadnought: Only for premium travellers! Liberty Bay is on an island group in the South Seas. Ah, home sweet home. Err. I mean, it's pirates galore. Good deal of tortoises, too. Just be careful, then it's a good hunting location. I can sail there if you like.  
+Player: Port  
+Captain Dreadnought: Only for premium travellers! Port Hope is an outpost right in the middle of the jungle. ...  
+Captain Dreadnought: Apes, bananas, hydras, tarantulas... Who'd want to go there? Except for crazy adventurers like these guys here on the island, obviously. Still, I can sail there if you like.  
+Player: Svargrond  
+Captain Dreadnought: Negative, can't bring you there. You gotta pass some sort of Barbarian test before they let you live there. Still, you should go there sometime, I heard it's quite interesting.  
+Player: Thais  
+Captain Dreadnought: Old-school city. Actually the oldest main city in Tibia. Be careful on those streets, there are bandits everywhere. But I can sail there if you like.  
+Player: Venore  
+Captain Dreadnought: Hohoh, one of the richest cities, filled with merchants and LOOT! Err. I mean, it is HIGHLY recommendable for unexperienced and first-time adventurers. Don't know why they built it over a stinking swamp though. I can sail there if you like.  
+Player: Yalahar  
+Captain Dreadnought: Now that must be one of the biggest cities I've ever seen. Might be not cosy for a newcomer like yourself, though. And I can't sail there anyway... they don't let everyone enter their fine pretty harbour, they're a bit particular.  
+Player: Zao  
+Captain Dreadnought: Only for premium travellers! Zao is a recently human-discovered continent north of Edron and south-east of Yalahar. The continent is massive and inhabited by lizards as well as dwarves and humans.  
+Player: Farmine  
+Captain Dreadnought: Only for premium travellers! The dwarves established it as a first base in a seemingly untouched cave system with rare ores.  
+Player: Oramond  
+Captain Dreadnought: Only for premium travellers! Oramond is an island, located east of Cormaya. It has one major city, Rathleton.  
+Player: Rathleton  
+Captain Dreadnought: Only for premium travellers! Rathleton is located on the island of Oramond. It is primarily known for its production and use of glooth. ...  
+Captain Dreadnought: Much of the town is constructed of glooth-based mechanics and it is also used to make numerous items like weapons and even food.  
+Player: Roshamuul  
+Captain Dreadnought: Only for premium travellers! Roshamuul is an island located east of Darashia. It is full of old ruins and inhabited by unholy, demonic creatures.  
+Player: Krailos  
+Captain Dreadnought: Only for premium travellers! Krailos is a dangerous, faraway grassland, inhabited by savage ogres. I would avoid it if I were you.  
+Player: Issavi  
+Captain Dreadnought: Only for premium travellers! Issavi is a really big city on the continent Kilmaresh. The creatures there are powerful and enigmatic. Also dangerous, so be careful if you want to go there.  
+Player: Rookgaard  
+Captain Dreadnought: That old place? Sorry, I don't sail there, no loot to be had.  
+Player: main / continent  
+Captain Dreadnought: You chose a peaceful world. Not much danger from other adventurers. Just beware the monsters. Want go there, ask for a passage.  
+Player: vocation  
+Captain Dreadnought: Only those who have chosen their vocation can leave the island.  
+Player: knight  
+Captain Dreadnought: Rock solid vocation. Easy to play, hard to master.  
+Player: paladin  
+Captain Dreadnought: I prefer to have my enemies closer to my sabre's end than to shoot at them from a distance, definitely.  
+Player: druid  
+Captain Dreadnought: Decent vocation. Healing's always nice.  
+Player: sorcerer  
+Captain Dreadnought: Turns out pretty powerful in the end.  
+Player: premium  
+Captain Dreadnought: Some regions in the world can't be accessed by everyone. Gotta pay, you know? If you spend some real cash for premium time, I can bring you to much more challenging locations.  
+Player: bye / farewell  
+Captain Dreadnought: You sure you want to spend time on this piece of rock? I can show you the world! Huh.  

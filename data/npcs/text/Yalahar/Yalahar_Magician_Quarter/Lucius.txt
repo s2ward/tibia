@@ -1,0 +1,71 @@
+Lucius: Bring some light to the world in these dark days!  
+Lucius: It's the time of the year where we all need some light.  
+Lucius: Meet me tomorrow and you shall learn more.  
+Lucius: Greetings, Player.  
+Player: name  
+Lucius: My name is Lucius.  
+Player: job  
+Lucius: Well, I use to call myself a 'lightbearer'. I provide magical torches to light fires at places where hellish creatures are trying to enter our world, thus fending them off.  
+Player: light / lightbearer  
+Lucius: Let's not talk here. I prefer to meet you in the Temple of Light. Will you accompany me there now?  
+Player: yes  
+Lucius: (missing answer)
+Player: hi (Temple of Light)
+Lucius: Greetings, Player! We have no time to waste. Let's talk about an urgent mission.  
+Player: mission  
+Lucius: This is the time of the year where demons try hardest to break through to our world. I try my best to keep them away by spiritually empowering those magical fire basins here in the Temple of Light. ...  
+Lucius: However, I cannot be everywhere at the same time, and there are ten spots all over Tibia where the layer between our world and the hellish world is especially thin. ...  
+Lucius: You need to travel to these places within a day after I gave you a magical torch. I summoned a lightbearer's basin there, similar to those here in the temple. ...  
+Lucius: You have to use the torch on a basin to power its light. Then it will have regain enough energy to burn brightly for another two hours. ...  
+Lucius: If you look at a basin, you can see how much energy there is still left. As long as all fire basins are burning, no creatures will be able to enter Tibia. ...  
+Lucius: However, when only one fire basin turns dark and disappears, powerful demons will be unleashed onto this world. ...  
+Lucius: You have to keep the fire burning for five days, and on the last day the demons will be so weakened that you can dispose of them easily when they come. ...  
+Lucius: I can give you only one torch which lasts for a day and will then disappear. Also, you can only use your torch ONCE on each basin. ...  
+Lucius: Thus you need to work together with your fellow Tibians, so that someone can always keep the fire basins burning, on each of the five days. ...  
+Lucius: I can either give you the torch now - but remember it will only last for a day - or hold onto it for you until your time to be a lightbearer has come. Do you want that torch right now?  
+Player: no  
+Lucius: Good, then wait for a while. But don't wait too long.  
+Player: yes  
+Lucius: Here is your torch, Player. Please try to keep all ten spots burning, and remember you can only use your torch ONCE on each spot. ...  
+Lucius: And be careful - evil might send its minions there from time to time to keep you from lighting the basin.  
+Player: spots  
+Lucius: There are ten of these fire basins all over Tibia. Ask me for any number between one and ten to learn more about the location where it can be found.  
+Player: lightbearer  
+Lucius: This is the time of the year where demons try hardest to break through to our world. I try my best to keep them away by spiritually empowering those magical fire basins here in the Temple of Light. ...  
+Lucius: However, I cannot be everywhere at the same time, and there are ten spots all over Tibia where the layer between our world and the hellish world is especially thin. ...  
+Lucius: You need to travel to these places after I gave you a magical torch. I summoned a lightbearer's basin there, similar to those here in the temple. ...  
+Lucius: You have to use the torch on a basin to power its light. Then it will have regain enough energy to burn brightly for another two hours. ...  
+Lucius: If you look at a basin, you can see how much energy there is still left. As long as all fire basins are burning, no creatures will be able to enter Tibia. ...  
+Lucius: However, when only one fire basin turns dark and disappears, powerful demons will be unleashed onto this world. ...  
+Lucius: You have to keep the fire burning for five days, and on the last day the demons will be so weakened that you can dispose of them easily when they come. ...  
+Lucius: I can give you only one torch, and you can only use it ONCE on each basin. ...  
+Lucius: Thus you need to work together with your fellow Tibians, so that someone can always keep the fire basins burning, on each of the five days, on each of the ten spots.  
+Player: torches  
+Lucius: Those magical torches burn for much longer than normal torches. They will also protect you while you carry them. If you are willing to take on this mission, let me know.  
+Player: spots  
+Lucius: There are ten of these fire basins all over Tibia. Ask me for any number between one and ten to learn more about the location where it can be found.  
+Player: one  
+Lucius: The first place might be somewhat hard to find... it is on the Formorgar Glacier on Svargrond.  
+Player: two  
+Lucius: The second place is in the Plains of Havoc near the Knightwatch Tower.  
+Player: three  
+Lucius: The third place is under the taboo area of Port Hope.  
+Player: four  
+Lucius: The fourth place is in the prison under Kazordoon.  
+Player: five  
+Lucius: The fifth place is on Ramoa, one of the Forbidden Islands close to Liberty Bay.  
+Player: six  
+Lucius: The sixth place is in the northern ruins of Edron, near the entrance to the demon lair.  
+Player: seven  
+Lucius: The seventh place is deep under Drefia, at the top of the pentagram.  
+Player: eight  
+Lucius: The eighth place is in the middle of Hellgate. It can be found close to a necromantic ritual place.  
+Player: nine  
+Lucius: The ninth place is not very dangerous to reach. It is near Ankrahmun, in the tomb that's covered with tar pits.  
+Player: ten  
+Lucius: The tenth place is quite close to here. Go to the area of the Magician Quarter where the earth is broken up and hellish creatures are crawling to the surface. ...  
+Lucius: Go one level down through one of the holes and search for the fire basin in this area.  
+Player: trade  
+Lucius: If you would like to trade any shards you might have for gold coins, just do so.  
+Player: bye  
+Lucius: Farewell and safe journeys, Player.  

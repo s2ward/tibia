@@ -1,0 +1,46 @@
+Player: hi / hello  
+Ceiron: Hello there, Player. What do you want?  
+Player: job  
+Ceiron: Job? I'm a protector of nature if you call this a profession. I'm also a druid of Crunor.  
+Player: druid / friend  
+Ceiron: It should be the duty of every druid to honour and protect Crunor's creations.  
+Player: Crunor  
+Ceiron: Crunor is the lord of the trees, full of gentleness and vitality.  
+Player: outfit / addon / fur  
+Ceiron: What are you thinking! I'd never allow you to slay my beloved friends for the sake of your narcism. Only Faolan can grant you a fur like this one.  
+Player: Faolan  
+Ceiron: I know where the great wolf mother lives, but I won't tell that to just anyone. You have to earn my respect first by completing my tasks.  
+Player: wolf / wolves  
+Ceiron: Together we have roamed the wilderness of Tibia, hunting side by side... I prefer the company of wolves to humans. A wolf will not betray its pack.  
+Player: task  
+Ceiron: Your current task is to take a sample of a special water trickle in the southern Hydra caves in the mountains between Tiquanda and Ankrahmun, Player.  
+Player: water  
+Ceiron: Did you bring me a sample of the water from the hydra cave?  
+Player: no  
+Ceiron: I guess that spot is not easy to find. Don't give up.  
+Player: demon dust  
+Ceiron: Demon dust is the very essence of a demon's malicious core. It can only be retrieved when using a stake blessed by a priest on the fresh corpse.  
+Player: bear  
+Ceiron: Bears are the darker part of the dark behind the trees, deep in the forest.  
+Player: botanist's container  
+Ceiron: I can only give you one container, sorry. If you lose it, you have to buy one from a representative of the explorer's society.  
+Player: griffinclaw  
+Ceiron: The Griffinclaw flower is said to bloom rarely, maybe once each few weeks. Strangely enough, it can survive on the bleak mountains of Nargor, and apparently only there. It is one of Crunor's masterpieces.  
+Player: waterskin / skin  
+Ceiron: Have you lost my waterskin?  
+Player: no  
+Ceiron: Good for you.  
+Player: waterskin / skin  
+Ceiron: Have you lost my waterskin?  
+Player: yes  
+Ceiron: I can give you a new one, but I fear that I have to take a small fee for it. Would you like to buy a waterskin for 1000 gold?  
+Player: no  
+Ceiron: Maybe next time. But don't forget, I will not accept a sample of water in some random dirty waterskin!  
+Player: waterskin / skin  
+Ceiron: Have you lost my waterskin?  
+Player: yes  
+Ceiron: I can give you a new one, but I fear that I have to take a small fee for it. Would you like to buy a waterskin for 1000 gold?  
+Player: yes  
+Ceiron: Here. Don't lose it again.  
+Player: bye  
+Ceiron: May Crunor bless and guide you, Player.  

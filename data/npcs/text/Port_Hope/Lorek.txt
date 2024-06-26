@@ -1,0 +1,58 @@
+Player: hi
+Lorek: Greetings, Player. If you want me to transport you to the other end of the city, feel free to ask me for a passage.
+Player: name
+Lorek: I am Lorek.
+Player: job
+Lorek: I am a ferryman. If you want me to transport you to the other end of the city, feel free to ask me for a passage.
+Player: time
+Lorek: I have no idea.
+Player: tibia
+Lorek: The world is so big that it often scares me.
+Player: jungle
+Lorek: I can only hope that the guards protect us all from those dangerous beasts out there.
+Player: apes
+Lorek: If only the guards could stop their constant attacks.
+Player: lizards
+Lorek: I have only heard about them. I hope they won't come here.
+Player: dworcs
+Lorek: Those little greenskins are more dangerous than a cobra.
+Player: thais
+Lorek: I left Thais for the opportunities that might be found here.
+Player: venore
+Lorek: It seems the traders are incredibly rich.
+Player: edron
+Lorek: Edron has to be very pretty and all people there are rich and such.
+Player: carlin
+Lorek: I am not sure if we are at war with them. I think they defy the rule of our king.
+Player: king
+Lorek: I wonder if he will inspect our colony some day.
+Player: darama
+Lorek: If more people move to Darama, I might get a better job and earn a fortune.
+Player: darashia
+Lorek: Another human settlement on this continent. It's somewhere in the desert though.
+Player: ankrahmun
+Lorek: They say it's a city full of undead and half-dead people. What a horrible thought!
+Player: kazordoon
+Lorek: I overheard the dwarves talking about it. I have no idea what it is though.
+Player: dwarves / dwarfs
+Lorek: There are some dwarves living here.
+Player: ab'dendriel
+Lorek: What?
+Player: elves / elfs
+Lorek: I only heard of them, but I never saw one. It's said that they have funny ears.
+Player: ferumbras
+Lorek: I heard he is some scary magician or so.
+Player: excalibug
+Lorek: What's that?
+Player: passage / trip / route / destination / sail / go
+Lorek: Ahh, you are a member of 'Paw and Fur'. I can bring you either to the centre of Port Hope, to the west end of the town, to Banuta, to Chor or to the mountain pass to Darama. Where would you like to go?
+Player: centre / west
+Lorek: Do you seek a passage to the ( centre / west end ) of Port Hope for 7 gold?
+Player: banuta / chor / the mountain pass
+Lorek: Do you seek a passage to ( Banuta / Chor / the mountain pass ) for 30 gold?
+Player: no
+Lorek: Maybe another time.
+Player: yes
+Lorek: Here we go!
+Player: bye
+Lorek: Bye.

@@ -1,0 +1,83 @@
+Player: (idle)
+Salbra: How to heal your party? I can teach you!
+Salbra: The fine arts of magic - rune and spellcraft!
+Salbra: It's a kind of magic!
+Player: hi
+Salbra: Hi there! Why don't you talk to the others first? (idle)
+Player: name
+Salbra: My name is Salbra de Ungua.
+Player: job
+Salbra: I am a runes and spells teacher. I used to be a druidic docent at the magic academy in Edron, but I decided to retire and help here at the festival.
+Player: hi
+Salbra: Hi there! Do you want to hear again what I just said or do you prefer to proceed to the next chapter: distance fight runes?
+Player: hi
+Salbra: Hi there! Do you want to proceed to healing, or do you want to hear what I said again, and get a new rune?
+Player: hi
+Salbra: Welcome. Why don't you take a seat? You can't? Always in a hurry, hmm? But I have some things to teach you before you really get going - about runes and spells for sorcerers and druids. ...
+Salbra: Are you ready?
+Player: no / ready
+Salbra: (no) Hmm. But you really need to hear this: (ready) Lovely! There are two types of casting magic: spells and runes. Runes are magic spells stored in special stones. To cast a spell, you need to have learned the spell first. To use a rune, you only need to use the rune. ...
+Salbra: But only DRUIDS and SORCERERS have a high enough MAGIC LEVEL to use spells or runes properly ...
+Salbra: Now, spells, they have to be learned before you can use them. Later on, you will have to find your specific spell teachers, but for now, I know some fine spells to teach you the principle. Ready?
+Player: no
+Salbra: Aww, come on. You need to hear this. Your new spell can be cast anytime by saying 'exevo dis flam hur'. But I can show you a much more convenient way. First, open your spell list in the general controls menu, OK?
+Player: no
+Salbra: No isn't the answer I want to hear. Next, please select the spell 'Practise fire wave'. OK?
+Player: no
+Salbra: No isn't the answer I wanted to hear. Well then, drag and drop this spell onto a hotkey on the quickbar that's underneath your game window. OK?
+Player: no
+Salbra: 'No' isn't an option here. Now you should have a small fire wave spell ready to use on the hotkey you chose. Go and test it on the monsters over there, then come back!
+Player: again
+Salbra: Very well. I can start from the beginning. Are you ready?
+Player: ready
+Salbra: Your new spell can be cast anytime by saying 'exevo dis flam hur'. But I can show you a much more convenient way. First, open your spell list in the general controls menu, OK?
+Player: ok
+Salbra: Good. Next, please select the spell 'Practise fire wave'. OK?
+Player: ok
+Salbra: Good. Now, drag and drop this spell onto a hotkey on the quickbar that's underneath your game window. OK?
+Player: ok
+Salbra: Great! Now you should have a small fire wave spell ready to use when on the hotkey you chose. Go and test it on the monsters over there, then come back!
+Player: proceed
+Salbra: Very well, now we'll talk about attack runes, this will be fun! Are you ready?
+Player: no
+Salbra: Well, then not. Please tell me when you are ready.
+Player: ready / again
+Salbra: Using attack runes is simple: just right-click on the rune. If it's a rune that needs a target like a missile or healing rune, you need to click on the target on the map or battle list afterwards. Other runes need no target ...
+Salbra: Just walk to the counter and see if you can hit the monsters from there.
+Player: again
+Salbra: Sorry, I can only bake you a new rune every 5 minutes!
+Player: proceed
+Salbra: Of course! I will now tell you something about healing yourself. Are you ready?
+Player: no
+Salbra: I wouldn't quit now, because now we're talking about healing. Ready?
+Player: no
+Salbra: Come on, we're almost done. You see that typiong a spell works also. And now, please select the spell 'exura dis' in your spell list in the general controls menu, OK?
+Player: no
+Salbra: We're almost done, stay with me please. Drag and drop the spell onto a hotkey on the quickbar that's underneath your game window, OK?
+Player: no
+Salbra: I didn't hear that! BAM! Now heal yourself! ...
+Salbra: If it doesn't work, please make sure you have the right settings and enough mana. There's a mana potion in the chest, just in case you need it. ...
+Salbra: It worked, yes?
+Player: no
+Salbra: Not? But now you can of course use some healing spells on OTHERS, too. But keep in mind, ONLY A DRUID can HEAL OTHERS with a SPELL. Why would you want this? Well, other players will want to have you in their party if you are a druid! ...
+Salbra: Now that was about all I had to tell you. Please proceed east and then north through the Gate of Initiates! ...
+Salbra: Good luck, and find a vocation that suits your style at the 4 vocation trainers: Sorcerer Estrella, Knight Hykrion, Druid Yandur and Paladin Narai! ...
+Salbra: One more thing: you can always skip this tutorial by saying 'skip tutorial' to any of us here at this festival. Good bye!
+Player: ready
+Salbra: That's easy, you have just learned 'exura dis', an easy healing spell. Now, type in the spell's magic words, 'exura dis', in your chatbar, OK?
+Player: ok
+Salbra: Great, you see that works too! And now please select the spell 'exura dis' in your spell list in the general controls menu, OK?
+Player: ok
+Salbra: Great, now please drag and drop the spell onto a hotkey on the quickbar that's underneath your game window, OK?
+Player: ok
+Salbra: BAM! Now heal yourself! ...
+Salbra: If it doesn't work, please make sure you have the right settings and enough mana. There's a mana potion in the chest, just in case you need it. ...
+Salbra: It worked, yes?
+Player: yes
+Salbra: Great! You can of course use some healing spells on OTHERS, too. But keep in mind, ONLY A DRUID can HEAL OTHERS with a SPELL. Why would you want this? Well, other players will want to have you in their party if you are a druid! ...
+Salbra: Now that was about all I had to tell you. Please proceed east and then north through the Gate of Initiates! ...
+Salbra: Good luck, and find a vocation that suits your style at the 4 vocation trainers: Sorcerer Estrella, Knight Hykrion, Druid Yandur and Paladin Narai!
+Player: bye
+Salbra: Goodbye.
+Player: (vanish)
+Salbra: These youngsters. Always in a hurry.

@@ -1,0 +1,82 @@
+Player: hi / hello  
+Tyrias: Be greeted, child Player. I welcome you.  
+Player: adventurer stone  
+Tyrias: Ah, you want to replace your adventurer's stone for free?  
+Player: Charlotta  
+Tyrias: This Charlotta has an evil influence on the population. Too many listen to her or are intimidated by her. I've asked the guards to stop her for her own good. But there is nothing they can do unless she openly commits some sort of crime.  
+Player: Chondur  
+Tyrias: In the past he used to be a charming agitator, still people feared his might and his magic. ...  
+Tyrias: His leadership came to an end when the Thaians arrived. That was the end of his schemes to achieve more power. He is still out there somewhere and, once again, he tries to persuade people of his evil plans with the help of lies and intimidation.  
+Player: cult  
+Tyrias: A cult? Are you serious? You probably refer to the web of fear and superstition that the old Chondur has created.  
+Player: Eleonore  
+Tyrias: What a lovely young lady. I am sure more than one man has a crush on her. Only time will tell whom she might choose.  
+Player: explorer society  
+Tyrias: Although they might follow a noble goal, they should never forget that some things are not meant to be known by mere mortals.  
+Player: Ferumbras  
+Tyrias: Of course he had sunken low before he became an incarnation of evil. On the other hand, he is an example that a mere human can leave the boundaries of his mortal shell with the help of the gods. ...  
+Tyrias: Therefore, he should not only strike people with awe but also inspire the wish to strive for a better life-form.  
+Player: governor  
+Tyrias: A kind man that always gives his share to the temple. Of course people still criticise him but most of them are old natives that still bear a grudge against Thais and Venore.  
+Player: Isolde  
+Tyrias: She visits the temple now and then to pray silently but rarely attends the messes. Of course it is not up to me to judge such behaviour.  
+Player: king  
+Tyrias: It is sad that the king is so far away. Without his guidance, things sometimes just don't work out as well as they could. Also people say that others might have too much influence on decisions. This is of course not the king's fault.  
+Player: Liberty Bay  
+Tyrias: The city is still young and growing. With the help of the higher powers it will prosper for sure.  
+Player: heal / help  
+Tyrias: You do not need any healing right now.  
+Player: loveless / theodore  
+Tyrias: Mr. Loveless is a cultivated man that understands the principles of trade and diplomacy like no one else. In spite of all obstacles Venore might have here, he manages to organise festivities for the important families of the town.  
+Player: pirate  
+Tyrias: Oh my, pirates and other types of criminals are always an unwelcome companion to culture. But there are always some people that the twists of life have driven into black despair that ended up in a life of a criminal.  
+Player: plantation  
+Tyrias: I guess whoever controls the plantations, also controls the isle.  
+Player: quara  
+Tyrias: The quara are a dire threat. They should never ever be underestimated. We have no idea what they are up to. I doubt that military strength alone can help us when the day should come on which they launch the final attack on us.  
+Player: Raymond Striker  
+Tyrias: He is one of the leaders of these murderous pirates.  
+Player: rum  
+Tyrias: Rum is a treacherous and dangerous lover.  
+Player: sugar  
+Tyrias: Sugar is important for the isles. It is pure gold in the right hands.  
+Player: thais  
+Tyrias: Thais and Liberty Bay are quite different. We have our own problems, and we will have to find our own solutions.  
+Player: Tristan  
+Tyrias: That young man always appears a bit absent. He seems not to focus his thoughts on what he is doing. I wonder if that young man does not have too many responsibilities.  
+Player: welcome / job  
+Tyrias: I am a humble priest. Healer for the wounded and guide to those who lost their path.  
+Player: venore  
+Tyrias: Venore is a wealthy city of trade and commerce. Some people consider its influence here as a problem. I am not good in politics and I have no real opinion on this matter.  
+Player: voodoo  
+Tyrias: A futile attempt of some local magicians to use little tricks and superstition in their favour. However, true power is not acquired so easily. True command of the spirits is not achieved by old hags in ramshackle huts, fumbling with some dolls.  
+Player: Wyrmslicer  
+Tyrias: Such a fine man. I admire his patience considering all those petty problems he has to handle constantly.  
+Player: bye / farewell  
+Tyrias: May the higher powers watch your path, Player.  
+Some statements about blessings:  
+Player: blessing  
+Tyrias: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Tyrias: There are also two enhanced blessings for further reduction of experience loss.  
+Player: embrace  
+Tyrias: I can sense that the druids north of Carlin have provided you with the Embrace of Tibia.  
+Player: enhanced  
+Tyrias: It is said that one enhanced blessing, the 'heart of the mountain', has been lost in the icy wastes of Svargrond. Find a nomad far to the west of these barren lands, hiding in the cold there, slightly above ground. ...  
+Tyrias: It is also said that a mysterious djinn, bound to an existence of slavery, lies buried somewhere beneath the northern Tiquanda jungle. I cannot confirm whether this tale is true but if you find him, you shall also find the 'blood of the mountain'.  
+Player: fire / suns  
+Tyrias: I can see you received the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: pilgrimage / ashes  
+Tyrias: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: sacred places  
+Tyrias: Just ask in which of the five blessings you are interested in.  
+Player: spark / phoenix  
+Tyrias: I can sense that the spark of the phoenix already was given to you by the dwarven priests of earth and fire in Kazordoon.  
+Player: spiritual / shielding  
+Tyrias: I see you received the spiritual shielding in the whiteflower temple south of Thais.  
+Player: twist / fate  
+Tyrias: This is a special blessing I can bestow upon you once you have obtained at least one of the other blessings and which functions a bit differently. ...  
+Tyrias: It only works when you're killed by other adventurers, which means that at least forty percent of the damage leading to your death was caused by others, not by monsters or the environment. ...  
+Tyrias: The twist of fate will not reduce the death penalty like the other blessings, but instead prevent you from losing your other blessings as well as the amulet of loss, should you wear one. It costs the same as the other blessings. ...  
+Tyrias: Would you like to receive that protection for a sacrifice of 50000 gold, child?  
+Player: wisdom / solitude  
+Tyrias: I can sense you already talked to the hermit Eremo on the isle of Cormaya and received this blessing.  

@@ -1,0 +1,58 @@
+Player: hi / ashari
+Shanar: Ashari Player. If you're interested to trade weapons or armor, ask me. I also teach protective spells.
+Player: name
+Shanar: I am Shanar Ethkal.
+Player: job
+Shanar: I sell weapons, shields, and armor, and teach protective spells.
+Player: time
+Shanar: I don't care.
+Player: news
+Shanar: Nothing I want to talk about.
+Player: offer / weapon / armor / helmet / legs / shield / sell / buy / stuff / goods
+Shanar: My offers are weapons, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade.
+Player: magic
+Shanar: I teach some spells of protection.
+Player: spells
+Shanar: I teach 'Poison Field', 'Fire Field', 'Energy Field', 'Poison Wall', 'Fire wall', and 'Energy Wall'.
+Player: trade
+Shanar: Of course, just browse through my wares.
+Player: crunor
+Shanar: I don't care about gods.
+Player: druid
+Shanar: Druids are great healers.
+Player: sorcerer
+Shanar: They understand so few...
+Player: humans
+Shanar: Loud and noisy.
+Player: trolls
+Shanar: I own only a few.
+Player: dwarfs
+Shanar: Ugly and dirty.
+Player: elves
+Shanar: That's our race, so what?
+Player: deraisim
+Shanar: Squirrels.
+Player: kuridai
+Shanar: That's my caste.
+Player: cenath
+Shanar: Idiots.
+Player: abdaisim
+Shanar: They don't live here.
+Player: teshial
+Shanar: Don't know much about them.
+Player: roderick
+Shanar: He is some human who lives in a stone house in the south of the town.
+Player: olrik
+Shanar: This human is sneaking around in the tow far too often.
+Player: thais
+Shanar: Thais is a town of humans far away.
+Player: venore
+Shanar: Those human merchants try to sell their low quality weapons and armor here to ruin my trade.
+Player: carlin
+Shanar: Carlin is quite close and we have some trade now and then.
+Player: ferumbras
+Shanar: A danger to all.
+Player: excalibug
+Shanar: Perhaps more than a myth.
+Player: bye / asha thrazi
+Shanar: Asha Thrazi, Player.

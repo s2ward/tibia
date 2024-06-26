@@ -1,0 +1,49 @@
+Player: hi
+Onfroi: Welcome, traveller! Is it tea you're looking... oh, is it still morning? Anyway, browse my stock now.
+Player: stock / trade
+Onfroi: Of course, traveller. Feel free to browse!
+Player: name
+Onfroi: They call me TRAVELLER! Yehees! Oh, I mean, no - NO! They call me Onfroi. I am Onfroi, the wizard. Pleased to meet you, traveller!
+Player: onfroi
+Onfroi: Oh yes, that's me, indeed!
+Player: job
+Onfroi: I am the local healer currently. Well, most of the time. I'm actually a well-known wizard, you might not know me, though.
+Player: healer / help
+Onfroi: You do not need any healing right now.
+Player: bounac
+Onfroi: A fine place, I absolutely love it here. Time and space for all my experiments and I'm free to do as I please.
+Player: spectulus
+Onfroi: You know him? Spectulus is a very old friend of mine! We haven't seen in years now, however. I wonder how he's doing...!
+Player: lesh the seer
+Onfroi: Lesh is a mysterium, an enigma. A big, unstable question mark. He knows nothing about healing magic and I don't know what he does to people.
+Player: john the carpenter
+Onfroi: John is not here, we had to send him out of town for medicine as even I couldn't treat his bite.
+Player: wes the smith
+Onfroi: The blacksmith has some quite handy tools. He helped me building some of the machinery I need during my experiments.
+Player: king
+Onfroi: Oh you mean Kesar, he is quite alright. I like him. You know, the whole part of him trying not to act like a king. ...
+Onfroi: It's adorable. And of course he is. A true king, I mean.
+Player: dal the huntress
+Onfroi: Dal is always kind to me. And I have the most refreshing conversations with her.
+Player: jehan the baker
+Onfroi: Jehan makes some delicious pastry. You got to try it.
+Player: fral the butcher
+Onfroi: We have an excellent butcher in town, skilled and knowledgeable in all things meat.
+Player: evrard the miller
+Onfroi: Evrard is our miller, he's very honest and trustworthy.
+Player: innkeeper alphonse
+Onfroi: I don't visit the inn much but Alphonse is a nice person.
+Player: augustin
+Onfroi: Kesar's royal trader, he trades in the most peculiar wares.
+Player: yselda
+Onfroi: Beautiful name. Mysterious and delicate. Have a fine day, my friend!
+Player: siege / drume /
+Onfroi: Pah, the siege. It's horrible! Nobody can finish their experiments... well I can't for one... it's unbearable.
+Player: potion
+Onfroi: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.
+Player: vial
+Onfroi: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?
+Player: no
+Onfroi: Hmm, but please keep Tibia litter free.
+Player: bye
+Onfroi: Farewell, traveller...

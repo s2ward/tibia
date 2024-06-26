@@ -1,0 +1,75 @@
+Terrence: I need reinforcements. How do they think I can manage all this with just a handful of men? Pfhh.
+Terrence: Hmm... Troop logistics, payrolls, foray reports... Damn paperwork. I need more men!
+Player: hi
+Terrence: Hey there, you are surely interested in helping the Rathleton city guard, right? Right - especially now since the dreaded minotaurs gain more ground every day.
+Player: name
+Terrence: I am Captain Terrence Tarquin. <nods politely> At your service.
+Player: job
+Terrence: Me? I'm the captain of the city guards. If you're looking for a job yourself, ask me for a mission!
+Player: helping / mission
+Terrence: The city is always in need of brave citizens willing to lend a hand. For which kind of mission do you seek to apply or report? One of the general city tasks, killing beasts, or a subtle foray into the minotaur camps?
+Player: city
+Terrence: The current tasks are maintaining the ancient sewers below the streets, or gathering pollen in a monster-infested cave. Choose your objective.
+Player: sewers
+Terrence: You know the mission. The ancient sewers are in dire need of maintenance, and the men down there are in need of help. ...
+Terrence: Close at least 20 sewer pipe or generator valves where you see smoke evading. Then report to Jacob or Elliott Glooth or back here to receive your reward.
+Player: gathering pollen
+Terrence: Ah, I see you have returned alive, well done! Though unfortunately you did not bring the required doses of peppermoon bell pollen. Please return when you have fifteen of them. Next!
+Player: sewers [not done]
+Terrence: I see you have invested some time in the repairs, but it is not sufficient yet. Please report back when you have repaired at least twenty sewer tubes or generators.
+Player: gathering pollen [not done]
+Terrence: Ah, I see you have returned alive, well done! Though unfortunately you did not bring the required doses of peppermoon bell pollen. Please return when you have fifteen of them. Next!
+Player: killing
+Terrence: Monsters stalk our streets and threaten the lives of our families. This shall not be borne! Which beast do you volunteer to kill? ...
+Terrence: There's a rot elemental and glooth blob kill task open to everyone, and for commoners, an additional blood beast or minor minotaur task. ...
+Terrence: Inhabitants can also hunt rustheap golems and malfunctioning metal gargoyles. ...
+Terrence: Citizens may also choose to hunt the major minotaurs. Please reply with the name of your chosen objective.
+Player: rot
+Terrence: Rot elementals and glooth blobs infest every corner of this city, even underground. Kill an overall 100 of them and report back to me for your reward. ...
+Terrence: Please note that I can only accept a batch of 100 kills, no more, no less. If you kill more than that, it will still count as 100.
+Player: blood
+Terrence: Blood beasts are horrible creatures that roam our plains. Kill 100 of them and report back to me for your reward. ...
+Terrence: Please note that I can only accept a batch of 100 kills, no more, no less. If you kill more than that, it will still count as 100.
+Player: minor
+Terrence: Minotaurs are a constant threat to this city. Their lairs are south and east of the city. Kill 100 of the Mooh'Tah Warriors, Minotaur Hunters or Wormpriestesses, and report back to me for your reward. ...
+Terrence: Please note that I can only accept a batch of 100 kills, no more, no less. If you kill more than that, it will still count as 100.
+Player: major
+Terrence: The attacking minotaur hordes include some very dangerous elite troops that we need to eliminate. Kill an overall 100 of the moohtants, minotaur amazons or execowtioners and report back to me for your reward. ...
+Terrence: Please note that I can only accept a batch of 100 kills, no more, no less. If you kill more than that, it will still count as 100.
+Player: gargoyles
+Terrence: Rustheap golems and malfunctioning metal gargoyles stalk the streets and molest our citizens. Kill an overall 100 of them and report back to me for your reward. ...
+Terrence: Please note that I can only accept a batch of 100 kills, no more, no less. If you kill more than that, it will still count as 100.
+Player: rot / blood / minor / major / gargoyles
+Terrence: Let me check your log... hmm... well, I am afraid you have not reached the necessary number. Please report back after you have slain at least [100 of monster]. Next!
+Player: foray
+Terrence: Well, there are some things I could need help with. For once there is the matter of supplies, then they also seem to stockpile a lot of gear we need to sabotage.
+Player: supplies
+Terrence: Those dreaded minotaurs gained a lot of ground as of late. We believe they got their hands on vast supplies of food. ...
+Terrence: Could you seek out their camp and try to find out what they stashed out there? And while you're at it - destroy of it whatever you can. ...
+Terrence: I'd be grateful if at least ten crates of supply could be wasted in my name.
+Player: sabotage
+Terrence: The thick armour of these minotaur creatures is a tough nut to crack for any of the city guard. ...
+Terrence: If you could seek out their camp and find a way to destroy their armour in their storages, it would help us a great deal. Be resourceful, use your surroundings! ...
+Terrence: It would already help if at least ten of those armours could be rendered unusable.
+Player: supplies / sabotage
+Terrence: Oh well, you don't seem to have wrecked enough havoc amongst the minotaurs yet.
+Player: [finish task]
+Terrence: Let me check your log... hmm... yes, I see you have fulfilled the mission, very good. Accept the city's thanks for your help. And here's your reward.
+Player: [any word]
+Terrence: For which kind of mission do you seek to apply or report? One of the general city tasks, killing beasts, or a subtle foray into the minotaur camps?
+Player: no
+Terrence: Don't waste my time, then. Next!
+Player: glooth
+Terrence: The glooth must flow.
+Player: beggar
+Terrence: They should get themselves some job instead of begging.
+Player: rathleton
+Terrence: Like everywhere there is something good and there is something bad. Things are like they are and we better live with it.
+Player: magistrate
+Terrence: We work for the magistrate and the magistrate works for us.
+Player: captain caveworm
+Terrence: He was for real - but is probably dead by now.
+Player: maxxen
+Terrence: My father has been killed when his walkers run amok. It's a good thing he's dead.
+Player: bye
+Terrence: Stay on guard!

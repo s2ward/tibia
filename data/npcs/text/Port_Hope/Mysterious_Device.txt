@@ -1,0 +1,2 @@
+Player: hi 
+Mysterious Device: Cannot comprehend.

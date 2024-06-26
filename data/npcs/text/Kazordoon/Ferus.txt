@@ -1,0 +1,94 @@
+Player: Hi  
+Ferus: Welcome to my Chapel of Fire and Earth, Player.  
+Player: Name  
+Ferus: My name is Ferus Gemcutter, son of Fire and Earth, from the Molten Rock.  
+Player: Job  
+Ferus: I'm the keeper of this chapel and can bind loving souls in the holy ceremony of marriage.  
+Player: Ring  
+Ferus: You can buy wedding rings from many jewellers. I recommend Carina in Venore though, since the tailor in Venore also has wedding outfits in stock.  
+Player: Outfit  
+Ferus: You can buy a box with your wedding outfit from the tailor Norbert in Venore.  
+Player: Earth  
+Ferus: The nurturing and grounding force of nature. Supporting, carrying, feeding. What more could we ask for?  
+Player: Fire  
+Ferus: The life-giving and life-destroying force of nature. You need warmth to survive, but get too much of it and you'll burn. That's how it is with many things.  
+Player: Tibia  
+Ferus: I've seen much of it in the course of my life. I rarely go outside anymore nowadays, I prefer the company of my fellow dwarfs.  
+Player: Life  
+Ferus: Enjoy life while it lasts. Or as long as it is enjoyable. Mine has been a bit too long already, but still I'm glad to wander this world.  
+Player: Etzel  
+Ferus: Etzel is a good old friend of mine.  
+Player: Emperor  
+Ferus: The Hall of the Emperor is in the upper levels of Kazordoon. Quite far away from here, thus I'm glad we have this ore wagon system whenever I'm given an audience. My legs aren't what they once were.  
+Player: Kazordoon  
+Ferus: My home, my family.  
+Player: Orcs  
+Ferus: Well... the greenskins are trouble. Sadly that's a fact.  
+Player: Gods  
+Ferus: Although most dwarfs think that the Gods abandoned us, I believe they still watch over us and that everything happens for a reason.  
+Player: Ferumbras  
+Ferus: Sometimes I wonder if Ferumbras was brought upon us by the Gods. Challenges and trials are meant to be mastered, after all.  
+Player: Gold / Money  
+Ferus: Oh, I do the marriage ceremonies for free. But small donations are always welcome.  
+Player: Citizen  
+Ferus: You can become a citizen of Kazordoon in the temple below.  
+Player: Divorce  
+Ferus: Oh, I cannot divorce you. Sorry. Remember it is until death do you part - or not. Maybe other priests are less consequent. Or believe in the wrong Gods.  
+Player: Durin  
+Ferus: The first born. But we should not only care for our ancestors, but also for our descendants.  
+Player: Elves  
+Ferus: Live and let live, I'd say. Wars bring nothing but senseless destruction and mourning.  
+Player: Equipment  
+Ferus: My child, this is a Chapel not a shop! Sorry, but I think you're in the wrong place.  
+Player: Fight  
+Ferus: I stopped fighting a long time ago. Fighting is not good.  
+Player: Outfit  
+Ferus: You can buy a box with your wedding outfit from the tailor Norbert in Venore.  
+Player: Geomancer  
+Ferus: They worship the elemental forces of the earth.  
+Player: Technomancers  
+Ferus: Technomancers can be quite helpful if you have technical problems with your machinary.  
+Player: News  
+Ferus: I'm too old for news. But if you know anything interesting, feel free to tell me.  
+Player: Halls of the Ancients  
+Ferus: Ah, the ancient burial chamber of our ancestors. It is just a few steps from here.  
+Player: Heal  
+Ferus: My child, a few scratches will not kill you, so stop whining! A dwarf's heart knows no pain.  
+Player: Help  
+Ferus: I will pray to the forces fire and earth for you.  
+Player: Humans  
+Ferus: I've got to know some humans rather well. Some of them have true and honest hearts.  
+Player: Poem  
+Ferus: I'm not that poetic, I guess.  
+Player: Monster  
+Ferus: My child, there is no such thing! What you call monsters are just creatures who have as much right to live as you or I.  
+Player: Minotaurs  
+Ferus: I hold no grudge against minotaurs. They just do what they need to do to survive, I guess.  
+Player: Quest/Task/What do  
+Ferus: Life is an eternal quest. Master it with open eyes and open heart.  
+Player: Time  
+Ferus: I think it's the fourth age of the yellow flame, isn't it?  
+Player: Farewell  
+Ferus: May Fire and Earth bless you, Player!  
+Player: Bye  
+Ferus: May Fire and Earth bless you, Player!  
+Player: keeper  
+Ferus: Being a keeper is not only my job, it's my fate and calling.  
+Player: Ceremony  
+Ferus: If you wish to initiate a marriage ceremony, the to-be-betrothed - that is you two lovebirds! - need to hand me a blank wedding ring and a box with a wedding outfit. Player, can you give me these items now?  
+Player: Ring  
+Ferus: Not to sound like a material dwarf, but rules are rules. Without the items there won't be any wedding. I'm a traditionalist! Better go to a jeweller and see the tailor in Venore before people consider you cheap!  
+Player: News  
+Ferus: I'm too old for news. But if you know anything interesting, feel free to tell me.  
+Player: Random word  
+Ferus: Aha, is that so...  
+Player: Donation  
+Ferus: Would you like to donate 50 gold for the chapel of fire and earth, Player?  
+Player: yes  
+Ferus: Thank you, child. That's very generous of you.  
+Player: Donation  
+Ferus: Would you like to donate 50 gold for the chapel of fire and earth, Player?  
+Player: No  
+Ferus: Well, a donation is voluntary. So don't worry about it.  
+Player: bye  
+Ferus: May Fire and Earth bless you, Player!  

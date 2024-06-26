@@ -1,0 +1,29 @@
+Player: hi / hello  
+Chavis: Hey there! You don't happen to have some food on you, you're willing to share? Well, where are my manners, a warm welcome for now.  
+Player: minotaur  
+Chavis: Only our city-guard stand between them and us.  
+Player: beggar  
+Chavis: Poor fellows. What else is to say?  
+Player: sewer  
+Chavis: We need the sewers to keep the city clean.  
+Player: glooth  
+Chavis: I'm not an expert on such issues. It's the stuff that makes things work.  
+Player: food  
+Chavis: I am sorry, you didn't harvest enough roots. You need to harvest a bundle of at least five roots - and please try doing it yourself.  
+Player: Rathleton  
+Chavis: Don't be fooled, we have here masters and servants like everywhere else. The whole system is a scam to subdue the masses, to fool them about what is really happening. ...  
+Chavis: The system only ensures that the rich have a better control and the labourers are only used.  
+Player: job  
+Chavis: I run this poorhouse to provide some shelter and food for the more unfortunate souls in this city.  
+Player: magistrate  
+Chavis: They act so important but it is us common people who keep things going. There is a lot you can do in this city to earn a right to vote in the magistrate, though. So keep an eye out for everyone who needs help.  
+Player: name  
+Chavis: Sorry for not introducing myself. I'm Chavis. <bows  
+Player: nightmare knights  
+Chavis: If not some of them had failed, they would probably still run this isle instead of the magistrate.  
+Player: roots  
+Chavis: They are nutritious, cost nothing and are good for the body hair. If you can bring us bundles of five juicy roots each - we will make it worth your while for the magistrate.  
+Player: vote  
+Chavis: We are only allowed to vote for stuff that is of no interest for the rich guys.  
+Player: bye  
+Chavis: Take care out there!  

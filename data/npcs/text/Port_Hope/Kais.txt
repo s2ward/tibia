@@ -1,0 +1,30 @@
+Player: hi
+Kais: Hmm... surely you are in need of help - will you let me? I am Kais the Bound and I can lend you a hand in healing your body and soul or even grant an enhanced blessing!
+Player: name
+Kais: I am Kais, Kais the Bound. Eternally fixed to the wretched place, unless... unless I prove my worth in aiding all those who seek my help.
+Player: job
+Kais: Well, as I am quite in a fix currently, my only hope to escape this situation may be to grant you healing or an enhanced blessing if you wish. You must desire SOMETHING, right? Sure you do.
+Player: Kais
+Kais: I am Kais, Kais the Bound. Eternally fixed to the wretched place, unless... unless I prove my worth in aiding all those who seek my help.
+Player: fix
+Kais: I was bound here by... I... do not know who did this to me. Not anymore... As of now, I feel a strange... urge to help those in need. I feel, yes I feel that ...
+Kais: If I just help as many as I can... I may be set free... one day... but how many will it be? What does it take to... and why all this, to which end... I do not know.
+Player: wish
+Kais: There is an... urge, to... to help those... who come to me and... how many wishes does it take? What desire needs to be granted? I can only help... those in need. Do you need something? Maybe healing or, or... an enhanced blessing!
+Player: help / heal
+Kais: You are poisoned, master. I will help you.
+Player: help / heal
+Kais: You aren't looking that bad. Sorry, I am only allowed to help those in need. If you are looking for additional protection, I could grant you an enhanced blessing and there is also the pilgrimage of ashes.
+Player: blessing
+Kais: Besides the enhanced blessing available from me, I know of one other, granted by a solitary nomad far west of Svargrond. There are also five different other blessings available, each in a sacred place. ...
+Kais: These blessings are: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude.
+Player: enhanced
+Kais: I have the power to grant you the blood of the mountain's blessing. But I must ask of you to sacrifice 82300 gold. Are you prepared for that?
+Player: no
+Kais: Fine then.
+Player: nomad / heart
+Kais: I know everyone and everything. It is certain that there is another enhanced blessing, the 'heart of the mountain'. Talk to a nomad far to the west of Svargrond, hiding slightly above ground.
+Player: bye
+Kais: Fare you well... Player
+Player: (vanish)
+Kais: Hmm, I wonder...

@@ -1,0 +1,49 @@
+Player: hi
+Tandros: Be greeted Player, student of the arcane. If you're looking for potions, wands or runes, look at my wares.
+Player: name
+Tandros: I am Tandros the magnificent.
+Player: job
+Tandros: I am selling items of magic power such as runes, wands, rods, spirit potions, health potions and mana potions.
+Player: offer
+Tandros: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.
+Player: time
+Tandros: It is a crime against the order of things to try measuring time. The very thought of squeezing the majesty of centuries and centuries into a puny mechanical device is blasphemy.
+Player: tibia
+Tandros: The world is full of magic that is waiting to be used ... perhaps by you! Take the first step by buying my wares to gather even more magic power for yourself.
+Player: king
+Tandros: Our king is a worldly one. But if you buy enough of my potions and runes you might become the king of magic one day.
+Player: jungle
+Tandros: The magic is out there somewhere.
+Player: apes
+Tandros: They are attacking travellers and even our settlement now and then. What can be a better way for you to survive than by preparing yourself well and to buy enough potions and runes?
+Player: lizards
+Tandros: The lizards live far away on the other side of the dangerous jungle. If you want to go there to learn more about their secrets, I strongly advise you to supply yourself with runes and potions.
+Player: dworcs
+Tandros: The dworcs are fierce enemies and the poison they use is lethal. If you don't have some potions and runes with you, you are easy prey to them.
+Player: thais
+Tandros: It is so crowded and people there are always busy. I dare to say that this is a city that has lost its magic at some point.
+Player: venore
+Tandros: Technically I am an employee of those trade barons of Venore but of course no one can control my magnificent mind.
+Player: edron
+Tandros: Edron is rumoured to be a place of ancient mysteries and powerful magic.
+Player: carlin
+Tandros: I heard there are many druids that are quite influential. They should know how to keep the magic of a place alive. I am looking forward to travel there one day.
+Player: darama
+Tandros: Although our people, spoken in cosmological terms, have setteled here just recently, there is already much history hidden here. ...
+Tandros: Not only mysteries and magical secrets but also many treasures are here to be explored by that person that is equipped with enough runes and potions to master all dangers.
+Player: darashia
+Tandros: An unremarkable little town, but riding there by carpet is pure magic.
+Player: ankrahmun
+Tandros: A city that breathes evil and dark magic. Stay away or be at least well prepared if you intend to visit the city of the dead.
+Player: kazordoon / dwarves / dwarfs
+Tandros: Dwarves have little love for magic. That makes them quite suspicious, doesn't it?
+Player: ab'dendriel elves / elfs
+Tandros: Elves are such marvelous, mythic creatures. They are full of magic.
+Player: ferumbras
+Tandros: He might be evil, but his powers are unimaginable! To stand a chance against evil overlords like him, you have to buy loads of my runes and potions.
+Player: excalibug
+Tandros: A weapon of unparalleled magic. Don't listen to people that tell you that this is only a myth. It might be a dream but remember, dreams can come true.
+Player: bye
+Tandros: Farewell, Player.
+Player: (vanish)
+Tandros: Farewell.

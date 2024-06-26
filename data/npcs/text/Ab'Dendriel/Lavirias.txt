@@ -1,0 +1,62 @@
+Player: Hi / Hello / Ashari  
+Lavirias: Ashari visitor. I wonder what it is you seek in Ab'Dendriel.  
+Player: Tree / Ashar  
+Lavirias: Ashar'Tel's fame and myth has grown with time as the tree itself has grown over time. Though everybody sees something in this tree, it's rarely the same for everyone. ...  
+Lavirias: Humans travel here and look at Ashar'Tel as an avatar of their god Crunor. Dwarves probably see only firewood. ...  
+Lavirias: The Elven council sees it as a valuable resource yet I see something completely different.  
+Player: Danger  
+Lavirias: It was obvious that the raw waters of Ashar'Tel might be dangerous, but the fate of the forest furies has shown how dangerous and unpredictable it can be.  
+Player: Different  
+Lavirias: Using divination magic year over year on Ashar'Tel I can see and understand more about it than anyone else. I sense... well, something. A consciousness. ...  
+Lavirias: An own will. Nothing like the one of elves, humans or even dwarves. Ultimately alien thoughts but they are thoughts. ...  
+Lavirias: The tree is alive in more then the obvious way and it... has a purpose. It... wants something. Urgently! Sometimes it feels not only urgent but frighteningly fierceful. It is hard to explain.  
+Player: Explain  
+Lavirias: To understand what I do, you would have to trade everything for a life dedicated to studies like I did. You'd have to spend years of meditation and divination to get a glimpse of that what I can see and feel... yet not fully understand even now.  
+Player: Forest / Furies  
+Lavirias: Once they were only a rebellious sisterhood; inspired by foolish amazons from Carlin they tried a rebellion on their own. In their foolish, juvenile overconfidence they stole unrefined water of Ashar'Tel. ...  
+Lavirias: Assuming the elders were withholding power for themselves or something else. In the end they learned the hard way that there are things better left to those with wisdom and experience. ...  
+Lavirias: Their careless misuse of the waters deformed their body and mind. Sadly it did not stop there. ...  
+Lavirias: As if it weren't bad enough for the furies to be transformed, a tribe of orcish raiders got the rest of the stolen water into their hands and spawned a new, abominable breed of orcs, the rorcs. ...  
+Lavirias: They are a half orc, half terrorbird variant that is erroneously called 'rorcs'.  
+Player: Function  
+Lavirias: Especially the part that Ashar'Tel plays in the workings of nature is, what I try to figure out.  
+Player: Job  
+Lavirias: I guess I'm what you'd call a sage or perhaps a mystic.  
+Player: Mystic / Sage  
+Lavirias: I'm dedicated to delve into the deeper secrets of nature. As all seekers of knowledge, I have to dedicate much time and effort into the subject of my studies.  
+Player: Nature  
+Lavirias: I think nature is some kind of complicated mechanism and that we are all part of it. The function of some parts is more difficult to figure out then that of others.  
+Player: Prepared  
+Lavirias: The raw power of the water is wild and without direction it seems. To drink it is like trying to mount a wild stallion. It has to be tamed and guided into a direction to be of any use and not a danger.  
+Player: Resource  
+Lavirias: The tears of Ashar'Tel, the water of life, the blessing of the tree. It has probably more names then it has uses. ...  
+Lavirias: The water that condenses as some kind of supernatural dew on Ashar'Tel's leaves is gathered and prepared by some of the eldest and wisest spellweavers of our kind.  
+Player: Studies  
+Lavirias: Since my studies center around the nature of Ashar'Tel, there is little I can base my research on but my own discoveries.  
+Player: Understand  
+Lavirias: Understanding is a process. It takes time. A lot of time. And right now I'm wasting a lot of time with idle chat, can we please continue? Good.  
+Player: Water / Tear  
+Lavirias: The tears of Ashar'Tel, the water of life, the blessing of the tree. It has probably more names then it has uses. ...  
+Lavirias: The water that condenses as some kind of supernatural dew on Ashar'Tel's leaves is gathered and prepared by some of the eldest and wisest spellweavers of our kind.  
+Player: Excalibug  
+Lavirias: If Ashar'Tel could talk, he might have to tell us something about it.  
+Player: Elves  
+Lavirias: My brothers and sisters are too concerned with their daily squabbles. They have lost their sight for the spiritual world and therefore risk to lose even more.  
+Player: Name / Lavirias  
+Lavirias: My name is Lavirias, pleased to meet you.  
+Player: Human  
+Lavirias: You need patience to understand. Humans don't live long enough to learn true patience. Therefore they are condemned to never truly understand.  
+Player: Crunor  
+Lavirias: Humans need to change their views of things to understand and truly feel them. They can't understand nature, therefore they give it a name and try to enforce their view on things and powers they can't grasp.  
+Player: Ab'Dendriel  
+Lavirias: A city has to have a soul. I think the soul of Ab'Dendriel is Ashar'Tel. If the others would only see it that way too.  
+Player: Carlin  
+Lavirias: At least they try to stay in touch with nature. They still have a long way to go and so much to learn.  
+Player: Thais  
+Lavirias: If that city ever had a soul, it's lost it a long time ago.  
+Player: Kazordoon  
+Lavirias: A city of stone is cold, hard and inhospitable.  
+Player: Bye  
+Lavirias: I bid you farewell.  
+Player: Asha Thrazi  
+Lavirias: Asha Thrazi, visitor  

@@ -1,0 +1,40 @@
+Player: hi / hello  
+Puffels: Yeah, another fool disturbing me, what a joy.  
+Player: army  
+Puffels: Fine army that is. Half of them have already deserted.  
+Player: carlin  
+Puffels: I don't care about some remote cities.  
+Player: curse / moon / were  
+Puffels: I don't know. You could ask the oh-so-mighty Zoltan, though.  
+Player: disturbing  
+Puffels: I have to teach the spells of least importance to some fools. Well, let's face it - to knights.  
+Player: edron  
+Puffels: Sciences are thriving on this isle.  
+Player: excalibug  
+Puffels: I have no use for such stuff.  
+Player: ferumbras  
+Puffels: The day will come even he makes a fatal casting mistake... I know what I am talking about.  
+Player: hugo  
+Puffels: Hugo? I heard it was an accident that created this beast.  
+Player: beast  
+Puffels: I don't know more about it.  
+Player: job  
+Puffels: I have to teach the spells of least importance to some fools. Well, let's face it - to knights.  
+Player: king  
+Puffels: I give nothing for kings, queens... or other people at all.  
+Player: name  
+Puffels: I am Magister Puffels, any problem with that?  
+Player: news / rumors  
+Puffels: I heard in Thais the new brand of cheese was... uhm...  
+Player: spell  
+Puffels: Not really. Due to some &#&$*# new academy rules I'm forced to teach knights only now. Me! Knights! Of all... ah, whatever. You have to go see Gundralph and Zoltan for spells.  
+Player: thais  
+Puffels: I was there once, almost died. The fools there mistook me for an ordinary rat, can you believe that!?  
+Player: tibia  
+Puffels: Bah, the whole Tibia can &#&$*# my #$&*!  
+Player: tibianus  
+Puffels: I give nothing for kings, queens... or other people at all.  
+Player: time  
+Puffels: Where might I hide a watch, you fool?  
+Player: bye  
+Puffels: Whatever.  

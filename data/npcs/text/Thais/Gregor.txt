@@ -1,0 +1,112 @@
+Player: hi (knight)
+Gregor: Welcome home, Knight Player!
+Player: hi (other vocations)
+Gregor: Greetings, Player. What do you want?
+Player: Name
+Gregor: You are joking, eh? Of course, you know me. I am Gregor, the first knight.
+Player: gregor
+Gregor: A great name, isn't it?
+Player: Job
+Gregor: I am the first knight. I trained some of the greatest heroes of Tibia.
+Player: Heroes
+Gregor: Of course, you heard of them. Knights are the best fighters in Tibia.
+Player: Time
+Gregor: It is time to join the Knights!
+Player: news
+Gregor: Times of war are at hand.
+Player: Tibia
+Gregor: Beautiful Tibia. And with our help everyone is save.
+Player: King / tibianus
+Gregor: Hail to our King!
+Player: army
+Gregor: I personally taught many of the guards.
+Player: general
+Gregor: General Harkath Bloodblade, a rolemodel.
+Player: harkath bloodblade
+Gregor: One of Tibia's greatest warriors and strategists.
+Player: Spell
+Gregor: I have spells for all magic levels up to level 3. In what level do you want to learn a spell?
+Player: spell
+Gregor: Sorry, I don't teach spells for your vocation.
+Player: vocation
+Gregor: Your vocation is your profession. There are four vocations in Tibia: Knights, paladins, sorcerers, and druids.
+Player: Knights
+Gregor: Knights are the warriors of Tibia. Without us, no one would be safe. Every brave and strong man or woman can join us.
+Player: spellbook
+Gregor: In a spellbook, your spells are listed. There you will find the pronunciation of each spell. If you want to buy one, visit Muriel, the sorcerer.
+Player: Bozo
+Gregor: Some day someone will make something happen to him...
+Player: Elane
+Gregor: A bow might be a fine weapon for someone not strong enough to wield a REAL weapon.
+Player: Frodo
+Gregor: I and my students often share a cask of beer or wine at Frodo's hut.
+Player: Gorn
+Gregor: Always concerned with his profit. What a loss! He was adventuring with Baxter in the old days.
+Player: Baxter
+Gregor: He was an adventurer once.
+Player: Lynda
+Gregor: Before she became a priest she won the Miss Tibia contest three times in a row.
+Player: McRonald / sherry / donald
+Gregor: Peaceful farmers.
+Player: Ferumbras
+Gregor: A fine game to hunt. But be careful, he cheats!
+Player: Muriel
+Gregor: Bah, go away with these sorcerer tricks. Only cowards use tricks.
+Player: marvik
+Gregor: Old Marvik saved life and limb of many of my boys and girls.
+Player: Oswald
+Gregor: What an idiot.
+Player: Quentin
+Gregor: I will never understand this peaceful monks and priests.
+Player: Sam
+Gregor: He has the muscles, but lacks the guts.
+Player: eclesius
+Gregor: Now what would I have to do with a sorcerer? I have no need to talk to sorcerers.
+Player: lugri
+Gregor: If he had some guts he would fight for what he's talking about.
+Player: ferumbras
+Gregor: A fine game to hunt. But be careful, he cheats!
+Player: excalibug
+Gregor: Many brave warriors died on the quest to find that fabled weapon.
+Player: the first dragon
+Gregor: I heard he moved to a dungeon.
+Player: behemoth fangs
+Gregor: You're not serious asking that, are you? They come from behemoths, of course. Unless there are behemoth rabbits. Duh.
+Player: ramsay the reckless
+Gregor: These pesky apes steal everything they can get their dirty hands on.
+Player: warriors sweat
+Gregor: Warrior's sweat can be magically extracted from headgear worn by a true warrior, but only in small amounts. Djinns are said to be good at magical extractions.
+Player: royal steel
+Gregor: Royal steel can only be refined by very skilled smiths.
+Player: adorned helmet / outfit (quest)
+Gregor: Only the bravest warriors may wear adorned helmets. They are traditionally awarded after having completed a difficult task for our guild.
+Player: task
+Gregor: You've already completed the task and can consider yourself a mighty warrior, Player.
+Player: Task
+Gregor: You mean, you would like to prove that you deserve to wear such a helmet?
+Player: Yes
+Gregor: Well then, listen closely. First, you will have to prove that you are a fierce and restless warrior by bringing me 100 perfect behemoth fangs. ...
+Gregor: Secondly, please retrieve a helmet for us which has been lost a long time ago. The famous Ramsay the Reckless wore it when exploring an ape settlement. ...
+Gregor: Third, we need a new flask of warrior's sweat. We've run out of it recently, but we need a small amount for the show battles in our arena. ...
+Gregor: Lastly, I will have our smith refine your helmet if you bring me royal steel, an especially noble metal. ...
+Gregor: Did you understand everything I told you and are willing to handle this task?
+Player: Yes
+Gregor: Alright then. Come back to me once you have collected 100 perfect behemoth fangs.
+Player: Behemoth fangs
+Gregor: Have you really managed to fulfil the task and brought me 100 perfect behemoth fangs?
+Player: Yes
+Gregor: I'm deeply impressed, (brave Knight) Player. (Even if you are not a knight, you certainly possess knight qualities.) Now, please retrieve Ramsay's helmet.
+Player: Ramsay the Reckless Helmet
+Gregor: Did you recover the helmet of Ramsay the Reckless?
+Player: Yes
+Gregor: Good work, (brave Knight) Player! Even though it is damaged, it has a lot of sentimental value. Now, please bring me warrior's sweat.
+Player: Warrior's sweat
+Gregor: Were you able to get hold of a flask with pure warrior's sweat?
+Player: Yes
+Gregor: Now that is a pleasant surprise, (brave Knight) Player! There is only one task left now: Obtain royal steel to have your helmet refined.
+Player: Royal steel
+Gregor: Ah, have you brought the royal steel?
+Player: Yes
+Gregor: You truly deserve to wear an adorned helmet, (brave Knight) Player. Please talk to Sam and tell him I sent you. I'm sure he will be glad to refine your helmet.
+Player: Bye
+Gregor: Be careful on your journeys.

@@ -1,0 +1,40 @@
+Player: hi  
+Norf: Welcome, Pilgrim. How may I help you? Are you in need of healing.  
+Player: Pilgrim  
+Norf: I am here to provide one of the five blessings.  
+Player: blessings  
+Norf: There are five different blessings available in five sacred places. These blessings are: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. ...  
+Norf: There are also two enhanced blessings for further reduction of experience loss.  
+Player: spiritual / shielding  
+Norf: Here in the whiteflower temple you may receive the blessing of spiritual shielding. But we must ask of you to sacrifice 20000 gold. Are you still interested?  
+Player: yes  
+Norf: You already possess this blessing.  
+Player: phoenix / spark  
+Norf: The spark of the phoenix is given by the dwarven priests of earth and fire in Kazordoon.  
+Player: embrace  
+Norf: The druids north of Carlin will provide you with the embrace of Tibia.  
+Player: suns / fire  
+Norf: You can ask for the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: solitude / wisdom  
+Norf: Talk to the hermit Eremo on the isle of Cormaya about this blessing.  
+Player: enhanced  
+Norf: It is said that one enhanced blessing, the 'heart of the mountain', has been lost in the icy wastes of Svargrond. Find a nomad far to the west of these barren lands, hiding in the cold there, slightly above ground. ...  
+Norf: It is also said that a mysterious djinn, bound to an existence of slavery, lies buried somewhere beneath the northern Tiquanda jungle. I cannot confirm whether this tale is true but if you find him, you shall also find the 'blood of the mountain'.  
+Player: help / heal  
+Norf: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection you should go on the pilgrimage of ashes.  
+Player: job  
+Norf: I am here to provide one of the five blessings.  
+Player: name  
+Norf: My name is Norf.  
+Player: time  
+Norf: Now, it is 8:28 am. Ask Gorn for a watch, if you need one.  
+Player: ashes  
+Norf: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: sacred places  
+Norf: Just ask in which of the five blessings you are interested in.  
+Player: shielding  
+Norf: Here in the whiteflower temple you may receive the blessing of spiritual shielding. But we must ask of you to sacrifice 20000 gold. Are you still interested?  
+Player: no  
+Norf: Ok. Suits me.  
+Player: bye / farewell  
+Norf: Good bye, Player!  

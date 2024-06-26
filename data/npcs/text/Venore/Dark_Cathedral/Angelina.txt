@@ -1,0 +1,69 @@
+Player: hi  
+Angelina: The gods must be praised that I am finally saved.  
+Player: saved / job  
+Angelina: I'm a priestess and I travelled here to learn about that order of the humble path I heard about. ...  
+Angelina: But when I started my investigations, this false monk Lorbas thought that I was suspicious and so he ordered his minions to take me as prisoner.  
+Player: humble path  
+Angelina: There are no records about the foundation of this order, and it is unknown where its 'monks' come from. Yet, travellers told us that they are living near the remains of the dark cathedral.  
+Player: monk  
+Angelina: I learnt that these monks are impostors that use false promises to lure unwary ones into the arms of their strange cult which seems to have more political than religious agendas.  
+Player: prisoner  
+Angelina: I think Lorbas liked the idea to 'convert' me to their twisted cult and saw it as a test for their leaders. Now that the magic symbols are turned off, I will gather my strength within some hours and teleport to safety.  
+Player: cathedral  
+Angelina: The cathedral was meant to be a centre of piety and believe. A prayer to the gods that had become solid. ...  
+Angelina: The construction works started at the height of the order of the Nightmare Knights, right after they had won a major battle near the place where the cathedral was to be built. ...  
+Angelina: The cathedral was meant to become a monument of the victory of good over evil. ...  
+Angelina: Sadly it was just not meant to be. ...  
+Angelina: As the cathedral was nearly finished, most of the monks had already moved in and even a small town for all the workers and suppliers had established itself. ...  
+Angelina: But then the structure was struck by an earthquake and the work of two generations was destroyed. ...  
+Angelina: Later the dwarven constructors explained that this was caused by volcanic activities and a massive cave-in. ...  
+Angelina: Since the gods did not interfere and the setting was close to the notorious Pits of Inferno, it was assumed that this was the work of secret demonic powers.  
+Player: cult  
+Angelina: The cult is secretly looking for the unsatisfied, disgruntled and poor. Its members promise such sad individuals wealth, revenge and a cause. ...  
+Angelina: They lure them into the cells of their cult. Here they learn how to undermine the authorities of their cities. They are trained as thieves, spies and smugglers first. ...  
+Angelina: Those who prove themselves as the most promising candidates are recruited to a special hidden circle. There they learn the dark arts of poisoning and murder, or elocution and agitation to become assassins and recruiters for the cult. ...  
+Angelina: I know nothing about their agenda but I am quite sure there has to be some higher power behind all of this.  
+Player: power  
+Angelina: I've no idea who is the mastermind behind all this, but it seems too big and too well organised to be the work of only a handful of false monks.  
+Player: gods  
+Angelina: I'd love to discuss the teachings of the gods with you but this is neither the time nor the place.  
+Player: dwarfs / dwarves / kazordoon  
+Angelina: The dwarves carry bitterness and pain in their souls. But it is them that have forgotten about the gods and not the other way around.  
+Player: elves / elfs / ab'dendriel  
+Angelina: The elves have lost their balance and identity. In this unstable state they can easily be misled or might draw the wrong conclusions.  
+Player: tibia  
+Angelina: We all have to help to make this world a better place.  
+Player: door / escape / out / teleport /help / safety  
+Angelina: I'm still gathering my strength for a teleport home, but some power already has returned. Do you wish to be teleported out of this cell?  
+Player: yes  
+Angelina: So be it!  
+Player: no  
+Angelina: As you wish.  
+Player: venore  
+Angelina: Sadly the trade barons care more about wealth than the gods.  
+Player: carlin  
+Angelina: The druids have their own way to interpret the gods' will and this has to be respected.  
+Player: thais  
+Angelina: Many see Thais as a fallen city but it is only the loudness of an ugly minority that gives people this impression.  
+Player: edron  
+Angelina: The downfall of some of the most noble knights there should serve us as a warning to stay on guard for the evil that wants to lure us on the wrong path.  
+Player: darama  
+Angelina: A far away continent that will widen our view of the wonders the gods provide us with.  
+Player: darashia  
+Angelina: I know only little about the teachings of Daraman but as far as I heard they concentrate too much on the single individual instead on the world as a whole.  
+Player: ankrahmun  
+Angelina: This city is the best example where godless philosophies might lead to.  
+Player: assassin  
+Angelina: The assassins are the eyes and the long arm of this damnable cult. They eliminate the enemies and those who found out too much about their plans. Be aware of that and always watch your back.  
+Player: dark monk  
+Angelina: The dark monks are the teachers and seducers of this cult. They work covertly in the cities and train thieves and assassins in the underground base here.  
+Player: excalibug  
+Angelina: One day this weapon will be unearthed and then it will be wielded against the servants of the evil.  
+Player: ferumbras  
+Angelina: He is only one of the many servants of the evil. Eventually he will fall but there will be others to take his place.  
+Player: king  
+Angelina: The king is a wise ruler but his realm is large and we all need to work hard to make the world a better place.  
+Player: reward  
+Angelina: Did you talk to my friend Lynda in Thais already? Greet her from me. She will be glad to hear about my safety.  
+Player: bye / farewell  
+Angelina: May the gods bless you.  

@@ -1,0 +1,60 @@
+Player: hi
+Ormuhn: Be mourned pilgrim in flesh, Simula. Looking for knight spells?
+Player: name
+Ormuhn: I am called Ormuhn.
+Player: job
+Ormuhn: I am the arena master. I supervise all challenges that take place in this arena and train true fighters.
+Player: time
+Ormuhn: Time only matters to you while you are mortal. Another instrument in the hands of the false gods to fool us all.
+Player: spells
+Ormuhn: Sorry, I don't teach spells for your vocation.
+Player: temple
+Ormuhn: The temple takes care of your Uthun. In this arena we challenge your Akh.
+Player: arena
+Ormuhn: If you wish to test your mortal Akh you are at the right place.
+Player: palace
+Ormuhn: The palace is guarded by the elite forces of the chosen.
+Player: pharaoh
+Ormuhn: The pharaoh, our mighty leader, is an unliving god.
+Player: oldpharaoh
+Ormuhn: The pharaoh will know why he granted him a chance to ascend.
+Player: scarab
+Ormuhn: Scarabs might be sacred, but they are also a challenge. If you are able to overcome one of them, its spirit will forgive you. The everlasting sand will grant him rebirth anyway.
+Player: chosen
+Ormuhn: I am one of the chosen. To become like me you have to serve the pharaoh and his temple faithfully.
+Player: tibia
+Ormuhn: Tibia is a place kept in the thrall of the greedy false gods. One day though our pharaoh will free Tibia and guide all of its people to ascension.
+Player: carlin
+Ormuhn: These cities are nests of corruption and lies. For those who know the treason of the false gods is almost tangible there.
+Player: kazordoon
+Ormuhn: Dwarves are worthy warriors. Still their mortal Akh makes them prey to true death and so their lives are wasted.
+Player: ab'dendriel
+Ormuhn: Elves are nothing but feeble treehuggers.
+Player: darama
+Ormuhn: This continent will be the first to prosper under the guidance of our pharaoh.
+Player: daraman
+Ormuhn: A mere mortal prophet. As was to be expected, his mortality blurred his visions of ascension.
+Player: darashia
+Ormuhn: The people there are not totally lost to the false gods yet. Who knows? They may be saved yet.
+Player: ankrahmun
+Ormuhn: This is the shelter of the mortal flock who listens to the teachings of our pharaoh.
+Player: mortality
+Ormuhn: Your curse of mortality can be lifted if you only prove youself worthy in the eyes of our pharaoh.
+Player: false gods
+Ormuhn: These greedy reapers of souls are the true scourge of poor mortals like you. Your living Akh makes you vulnerable for their attacks. Withstand them and you will get a chance to be raised to the exalted state of undeath.
+Player: ascension
+Ormuhn: Ascension is achieved in many steps. The first and most important step is unquestioning loyal service to our pharaoh.
+Player: undead
+Ormuhn: We are the chosen ones.
+Player: mourn
+Ormuhn: Living flesh is so ... pathetic.
+Player: akh
+Ormuhn: As far as I know this is what you would call your body. Ask a priest for further information.
+Player: rah
+Ormuhn: That is your so-called soul. Ask a priest for further information.
+Player: uthun
+Ormuhn: All the things you remember form your uthun. Ask a priest for further information.
+Player: akh'rah uthun
+Ormuhn: You should discuss such topics with our priests. I don't care too much for these matters.
+Player: bye
+Ormuhn: May enlightenment be your path, Simula.

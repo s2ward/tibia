@@ -1,0 +1,133 @@
+Player: hi
+Gerimor: Greeting, Travelers! I welcome you to this sacred place. If you are interested in missions just ask.
+Player: maelyrra
+Gerimor: She's the queen of a fae court. You can find her on a glade in the deep forest. It was queen Maelyrra who granted me permission to stay here in Feyrist. ...
+Gerimor: I promised to inform her about anything I find out about the abominable force that threatens this world.
+Player: Feyrist
+Gerimor: The fae granted me permission to enter their hidden realm. As a druid I'm in close touch with nature so I could gain their trust. The nature spirits are inhabiting this peninsula for ages.
+Player: fae court
+Gerimor: The fae vary greatly in size and appearance. There are different kinds of fae like fauns, pixies, pookas, swan maidens, nymphs and boogies. Those mystical creatures are wielding power in magic and elementals. ...
+Gerimor: Most of them are rather reclusive and live peaceful lives in their secret realm. Sometimes they are called the 'children of dreams' or 'the dream born' because the fae are born from the mortals' dreams.
+Player: fauns
+Gerimor: Fauns are half-human, half-beast nature spirits inhabiting the woods and mountains of Feyrist. They are a slightly roguish but cheerful folk, lovers of wine and dancing. ...
+Gerimor: Fauns show a youthful and graceful aspect but they are also brave and fearless when it comes to defend themselves. As Maelyrra told me, they emerge from mortals' dreams about celebrations, music and dancing. ...
+Gerimor: Lately, some fauns on Feyrist are tainted by the mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia.
+Player: pixies
+Gerimor: Pixies are small nature spirits and mythical creatures inhabiting the forests and plains of Feyrist. They are generally benign, but at times, they may also display mischievous traits. ...
+Gerimor: Like most of the fae, pixies love dancing and are often gathering in larger groups to dance on secluded glades. Pixies love flowers, butterflies, shimmering beetles, gems and other colourful things. ...
+Gerimor: They also love the taste of honey, sweetened oat and ripe grapes. As Maelyrra told me, pixies emerge from mortals' dreams about friends and family.
+Player: pookas
+Gerimor: Pookas are nature spirits in animal form, looking like big hares with a faintly glittering fur. They are benign but mischievous, for sure with good reason regarded as the tricksters among the fae. ...
+Gerimor: Pookas love to play pranks on others, snitching and hiding things or telling made-up stories. They are capricious and fickle creatures. Pookas emerge from mortals' dreams about gems, treasures and gold. ...
+Gerimor: Lately, some pookas on Feyrist are tainted by a mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia.
+Player: swan maidens
+Gerimor: Swan maidens are fae who can shapeshift from human form to swan form. The magical item allowing this transformation is a swan feather cloak, a garment with swan feathers attached. ...
+Gerimor: Here on Feyrist it is always hard to tell whether a swan swimming on a lake is an ordinary animal or a swan maiden in her bird shape. ...
+Gerimor: They protect the wilds of their secret realm from every intruder and live in small flocks along secluded lakeshores. As Maelyrra told me, swan maidens emerge from mortals' dreams about flying.
+Player: nymphs
+Gerimor: Nymphs are female nature spirits and usually take the form of beautiful, young maidens who love to dance and sing. They dwell in the hills and forests of Feyrist, often near lakes and streams and they can't die of old age nor illness. ...
+Gerimor: They have a special, strong bond to the plants and animals of their domain and are very protective of Feyrist's flora and fauna. As Maelyrra told me, nymphs emerge from mortals' dreams about love.
+Player: boogies
+Gerimor: Boogies are a rather twisted kind of fae. Other than pixies, nymphs or fauns they favour underground caves and tunnels over forests or lush meadows. ...
+Gerimor: Only at night, they are roaming the surface, chasing other fae and visitors to Feyrist alike. They were once clumsy yet peaceful fae, but they are now twisted and tainted by a mysterious, sinister force. ...
+Gerimor: As Maelyrra told me, boogies initially emerged from mortals' dreams about tasty food.
+Player: gods
+Gerimor: The gods were oddly silent in that matter. This might have different reasons though. The recent revelation of powerful new magic has been a beacon of hope though. ...
+Gerimor: The gods have not abandoned us and trust in the world they created and in the champions they have chosen.
+Player: champions
+Gerimor: The champions of the gods are once more mortal heroes whose deeds will outlive kingdoms, empires and aeons.
+Player: crunor
+Gerimor: Crunor only speaks through signs and omens, as anything more direct would seem unnatural. Crunors workings are subtle and it's not easy to divine his will.
+Player: zathroth
+Gerimor: There have been talks with parts of the priesthood of Zathroth. Let's say the discussions have been difficult. ...
+Gerimor: But even Zathroth and his followers should see that a threat to everything is rising and had to be stopped.
+Player: uman
+Gerimor: Umans wisdom is a welcome help in our struggle.
+Player: banor
+Gerimor: In the fights to come, Banors strength and courage will be desperately needed.
+Player: fafnar / suon
+Gerimor: The suns will be so caught up in their chase, that they will realize too late that there might be nothing left to shine upon.
+Player: place
+Gerimor: This place is a sanctuary of Crunor and provides me with a opportunity of spiritual contemplation.
+Player: me
+Gerimor: I'm a member of a circle of persons, that joined wisdom and resources for a common purpose. Let's say, we have an eye on the greater picture in the matters of our world. ...
+Gerimor: We are watching and evaluating what is happening in our world. Trying to avert the worst and offering a helping hand where we deem it needed. ...
+Gerimor: We usually avoid to interfere directly in the affairs of the world and vain politics are not our concern at all.
+Player: circle
+Gerimor: We focus our interest on this we see as threatening for live and the laws of nature itself.
+Player: persons
+Gerimor: Well, while I focus more on the matters of life, some of my peers have different approaches and emphasize other aspects of the world more in their observations. ...
+Gerimor: Regardless we share a common goal of balance and harmony.
+Player: approaches
+Gerimor: We might not be many but we are diverse. Our rather informal order came together in the dawn of time, when the wars of the gods ravaged the world.
+Player: dawn
+Gerimor: Even we know the individual that was somewhat of our founder, only as the wise man. ...
+Gerimor: He was the first to bring bright and dedicated minds together, to bring at least a little order and guidance into troubled and chaotic times. ...
+Gerimor: The order predates mankind and never bothered to give itself a name. Such assumptions of pretence and vanity have no place in our mindset.
+Player: guidance
+Gerimor: Most times we are silent watchers and keepers of knowledge that share what they have learned with each other. We are more concerned about knowledge and wisdom and power means little to us. ...
+Gerimor: To solve problems we usually try to convince the right people to do the right thing. We usually even lack the means for a more direct interference.
+Player: direct
+Gerimor: Sometimes it's necessary to do something about a situation that became threatening to the world itself. ...
+Gerimor: It is gladly a rare occurrence and usually it is sufficient to somewhat offer a guiding hand to avert a course that would lead to more dire consequences. Nonetheless sometimes we have to interfere.
+Player: interfere
+Gerimor: Interference comes in different forms. In this particular case there is sadly little time for subtlety and a more direct approach is necessary.
+Player: approach
+Gerimor: This time I'm looking for heroes. Men and women of action that are capable of dealing with a quite physical threat.
+Player: threat
+Gerimor: I can sense the spirits of nature are in disarray. This is not a mere imbalance of life and death, this is something more disruptive and abominable.
+Player: abominable
+Gerimor: It is like nothing I have sensed before or had been recorded. ...
+Gerimor: Not only has some kind of layer formed that slightly muffles all things natural, there are also culminations of this force forming all over the world. ...
+Gerimor: And as horrible as it feels, I can reach out and sense that something is nurturing these nodes, that are a defilement of all that is right and natural.
+Player: something
+Gerimor: A sinister force is at work here. While some of those nodes of unnatural taint are spreading randomly, waning and waxing with no pattern, ...
+Gerimor: there are others, more persistent, more permanent and constantly growing.
+Player: growing
+Gerimor: It is like something is stabilizing them on purpose. In the light of recent events this even makes some sort of sense.
+Player: events
+Gerimor: When the mortal magician Ferumbras tried to attain godhood, he fractured the fabric of reality. His actions opened our world to an ever hungry intruder that seemingly lusted for our world since aeons.
+Player: intruder
+Gerimor: This ancient force from beyond is something absolutely foreign, defying all our concepts of existence, purpose and comprehension. ...
+Gerimor: What is clear though, is that this contact is devastating for our world and our existence.
+Player: devastating
+Gerimor: As I said, the thing from beyond defies all tries of comprehension, but its presence and influence are something we would perceive as disruptive, destructive and nihilistic. ...
+Gerimor: Its very existence drains our world, disrupts the laws of nature and those of the gods. ...
+Gerimor: And whatever its intentions are, if it's even capable of intention, what it does ultimately means the end of existence as we know it.
+Player: existence
+Gerimor: Even with this dire perspective, there seem to be some sentient efforts on behalf of this force to further its goals. ...
+Gerimor: We can only guess what the motive for some twisted individuals might be to serve such a threat to everything, but my recent scrying has revealed a sentient power that is furthering those goals.
+Player: power
+Gerimor: Ancient stories speak vaguely of the fall of the Yalahari and how they probably succumbed to the mind twisting force from beyond. ...
+Gerimor: Maybe again some have fallen to that low and allied themselves to that horrible entity. Perhaps it's, as some say, the Yalahari themself that are returning in service of their master. ...
+Gerimor: Perhaps it is something unspeakable that Yalahari and other fallen have become after exposure to that fiend from beyond.
+Player: fiend
+Gerimor: Regardless of the nature of the enemy, there is something evil abound. I and my colleagues have pooled our resources, contacts, informants and allies and looked into that matter.
+Player: matter
+Gerimor: We located the places where this abominable forces had taken a foothold and had them investigated.
+Player: foothold
+Gerimor: It seems in recent times several cults have risen into prominence in these areas. ...
+Gerimor: Cults that seem not to revere to known gods or their aspects but to some more obscure powers.
+Player: Cults
+Gerimor: It doesn't seem that the cults share a common theme or object of reverence but there has to be some connection beyond being at the centre of culminations of disruptive power from beyond. ...
+Gerimor: The connection is of second thought though. Connected or not, they further the death of our world. That alone makes it imperative to dig those cults out and destroy their cores. ...
+Gerimor: We won't be able to root out each and any movement but if we manage to neutralize the worst, we gain some time and deny the enemy much of its leverage on the future of our world.
+Player: worst
+Gerimor: We have located some of the worst culminations of otherworldly presence and our sources returned information about them with different results of success. ...
+Gerimor: Some information I can provide you will be rather sparse and much is left to speculation but you should have at least some lead where to go and investigate.
+Player: investigate
+Gerimor: Those cults have to be stopped by any means possible. These are desperate times and they demand desperate actions.
+Player: actions
+Gerimor: Spare lives where you see it fit but the cults may not be allowed to exist and disrupt the fabric of the world even more.
+Player: fabric
+Gerimor: The weakened fabric of our reality still repels the unnatural intruder. The cults provide the thing a hold and supply it with more power, even if we couldn't figure out yet, how this works at all.
+Player: works
+Gerimor: We haven't completely figured out what our enemy exactly is. For one, this thing defies all laws of nature and comprehension, ...
+Gerimor: that understanding it is either impossible or twist a mind in ways that are not meant to be. Also the Yalahari who figured out way too much about the thing, became tainted and changed by this knowledge ...
+Gerimor: and ultimately not only fell and became his, they also provided the thing with something of their own, be it knowledge, understanding or even direction, purpose. ...
+Gerimor: In some way their tainted knowledge brought the unthinkable into a resemblance of existence. ...
+Gerimor: That is why we can't dabble too much in figuring this out and rather concentrate on our fight to sever its ties to our world.
+Player: missions
+Gerimor: Which of the following topics are you interested in? Cult of Life, Cult of Prosperity, Cult of the Minotaurs, Cult of the Barkless, Cult of the Misguided, Cult of the Orcs, Cult of the Humans?
+Player: bye
+Gerimor: Farewell, Player.

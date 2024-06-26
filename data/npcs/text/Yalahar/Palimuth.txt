@@ -1,0 +1,48 @@
+Player: hi  
+Palimuth: Greetings.  
+Player: job / here  
+Palimuth: I'm an Augur of the city of Yalahar. My special duty consists of coordinating the efforts to keep the city and its services running.  
+Player: name  
+Palimuth: I'm Palimuth. Nice to meet you.  
+Player: Yalahar  
+Palimuth: I'm a bit worried about our city's current state!  
+Player: efforts  
+Palimuth: It is a somewhat futile mission but I won't give up.  
+Player: mission  
+Palimuth: I'm afraid we have not seen the last chapter of Yalahar's drama but I don't have any more missions for you.  
+Player: vampire  
+Palimuth: Yes, that is indeed a threat. Those raids, not knowing who to trust... unfortunately that matter lies not in my hands.  
+Player: yalahari  
+Palimuth: The Yalahari are up to something strange and it does not bode well for the city of Yalahar!  
+Player: sunken quarter  
+Palimuth: As if Yalahar had not already endured enough hardship, also nature seemed to have conspired to ruin the city. It was a great disaster when a large part of the city simply broke away.  
+Player: factory quarter  
+Palimuth: The people there are rather desperate than evil. Still the quarter poses a danger, especially for strangers.  
+Player: foreign quarter  
+Palimuth: Once, the Yalahari had the policy that their city is open for everyone who comes here in peace. Considering the situation in the foreign quarter today, they seem to have changed this policy. ...  
+Palimuth: I can't blame them. Still, I wonder if there is no hope for a peaceful coexistence.  
+Player: trade quarter  
+Palimuth: As annoying it might be for my superiors, the presence of Mr. West and his private army of bullies brings at least some sort of order for a great part of our townspeople.  
+Player: magician quarter  
+Palimuth: The Yalahari seem to be quite interested in retaking this quarter. But all efforts ended in the loss of men, they could not even nearly replace.  
+Player: arena quarter  
+Palimuth: We did little to retake the arena quarter. On the one hand, we lack the manpower, on the other hand, it turned into some sort of food resource for the city.  
+Player: addon  
+Palimuth: There are no more addons available for you at this time.  
+Player: azerus  
+Palimuth: Well, Azerus Vilus wasn't a high-ranking Yalahari in the past. Something must have happened which gained him so much power. ...  
+Palimuth: Still, I can't imagine anybody that would entrust someone like Azerus with a position of power and responsibility. He was known as self-centred, greedy, and cruel towards his underlings. ...  
+Palimuth: Not by chance people called him Azerus Vile behind his back.  
+Player: blood crystal  
+Palimuth: What would you need a blood crystal for? Maybe a magician knows where to find one.  
+Player: cookies  
+Palimuth: Uhm, no thanks.  
+Player: how are you?  
+Palimuth: I have to admit I'm a bit worried about the current state of our city.  
+Player: alchemist quarter  
+Palimuth: It's hard to tell what actually has happened there. ...  
+Palimuth: According to the most prominent big bang theory, a devastating explosion laid waste most of the quarter and unleashed all kind of vile forces that made the quarter uninhabitable. ...  
+Palimuth: Others claim that numerous experiments had gone wrong and that parts of the quarter had already been polluted. The great explosion was only a result of the previous disasters that had accumulated over time. ...  
+Palimuth: This theory also claims that the explosion might actually have prevented the spreading of the plague to other parts of the city.  
+Player: farewell / bye  
+Palimuth: Good bye, Player.  

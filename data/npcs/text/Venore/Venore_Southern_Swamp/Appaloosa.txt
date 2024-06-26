@@ -1,0 +1,36 @@
+Player: Hi / Salutations  
+Appaloosa: Salutations, Player! I guess you are here for the horses.  
+Player: Horses / Job  
+Appaloosa: I can rent you a horse for a day or I can transport you with a coach.  
+Player: Rent  
+Appaloosa: Do you want to rent a horse for one day at a price of 500 gold?  
+Player: Transport  
+Appaloosa: We can bring you to Thais with one of our coaches for 125 gold. Are you interested?  
+Player: Dwarf  
+Appaloosa: Most dwarfs don't like riding at all. Though I heard one of their heroes is riding a ram, they usually use horses and donkeys as beasts of burden. Given their size it is not astounding that they prefer the smaller donkeys over the horses.  
+Player: Minotaur  
+Appaloosa: Did you know that minotaurs ride giant bulls? It seems somewhat strange, like a human riding a cyclops.  
+Player: Cyclops  
+Appaloosa: There is nothing big enough for a cyclops to ride.  
+Player: Venore  
+Appaloosa: Venore is the heart of trade and commerce. Not even Thais can rival Venore in that field.  
+Player: Orcs  
+Appaloosa: Orcs ride wolves and sometimes boars, and even spiders, as far as one can trust the rumour mill.  
+Player: Thais  
+Appaloosa: The city is the centre of the known world. It is almost as if everything else is just built around it!  
+Player: Carlin  
+Appaloosa: Perhaps one day we will expand to Carlin. The women there will just love our ponies!  
+Player: Elves  
+Appaloosa: I heard the elves ride every animal that roams the woods. From wolves and bears to squirrels, the elves befriend and ride them all. Just amazing!  
+Player: Goblin  
+Appaloosa: As far as I know, the goblins ride all kinds of creepy things like lizards, centipedes, spiders and slugs. Most of those beasts can even walk on the ceilings of caverns and climb walls with ease!  
+Player: King  
+Appaloosa: If we could convince the king to use one of our coaches on his next visit to Venore, our business would get a fundamental boost!  
+Player: Mounts  
+Appaloosa: We loan mounts for a certain time. Those horses are easy to handle and loyal.  
+Player: Straw  
+Appaloosa: Be careful, the straw is highly inflammable.  
+Player: coach  
+Appaloosa: We order our coaches from the dwarfs. They deliver high quality work that rarely breaks. Therefore we rarely have any delays. That is if there are no bandits, or monsters, or bad weather, or the horses are on the loose and such.  
+Player: Bye  
+Appaloosa: Good bye!  

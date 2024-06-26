@@ -1,0 +1,175 @@
+Player: Hi
+Lugri: What is it that you want, Player?
+Player: how are you
+Lugri: Fine, thank you for asking - I mean - I revel in the rising tide of evil and darkness that is engulfing this land, and I am loving every minute of it!
+Player: Name
+Lugri: My name is Lugri.
+Player: Job
+Lugri: I am a priest of Zathroth, the bringer of dark secrets.
+Player: Time
+Lugri: Who cares?
+Player: news
+Lugri: You will soon see the 'news' with your own eyes, so be watchful! <chuckle>
+Player: sell
+Lugri: I'm in the death business. You really wouldn't like what I have to offer.
+Player: tibia
+Lugri: The world of Tibia is there to be taken by the strongest. When the time is right, it will fall like an overripe plum...
+Player: King
+Lugri: This puny king is no threat for our master's plans.
+Player: kingsday
+Lugri: Oh please. Leave me alone with that rubbish.
+Player: Mission / Quest / survival / supremacy
+Lugri: Aren't we all on a quest for survival and supremacy?
+Player: Fight
+Lugri: Life is an eternal fight!
+Player: Life
+Lugri: Life is war. It's about survival of the fittest.
+Player: slay
+Lugri: The weak have to be slain by the strong!
+Player: Help
+Lugri: If you cant help yourself you are not worth of my assistance.
+Player: heal
+Lugri: Your wounds are your problem, not mine.
+Player: People / citizen
+Lugri: The people of Tibia are sheep, so be smart and strong enough to become their wolf.
+Player: Monsters
+Lugri: They are a challenge to sift the chaff from the wheat.
+Player: Goshnar
+Lugri: The necromant king was only defeated by the nightmare knights due to a bad twist of fate.
+Player: Pits Of Inferno
+Lugri: After the ruthless seven conquered it, it's again a holy place for the followers of the dark path.
+Player: Excalibug
+Lugri: It's existence is just a lie to inspire hope and bravery in the hearts of the followers of good.
+Player: Necromants Nectar
+Lugri: That's none of your business!
+Player: ferumbras
+Lugri: He is one of Zathroth's most devoted followers and wields special powers, given to him by the Dark One.
+Player: the first dragon
+Lugri: So many claimed to have found and slain him but they had nothing to prove it.
+Player: priest
+Lugri: I'm a servant of the only true God - Zathroth. As such I can also carry out divorces. Just in case you're interested.
+Player: divorces
+Lugri: Spreading anguish and divorcing couples are fun leisure activities. Are you married, you fool?
+Player: no
+Lugri: Then let us leave it at that.
+Player: yes
+Lugri: I can divorce you. Just so you know. Is that a spark of interest in your eyes?
+Player: no
+Lugri: Then get lost before I do it anyway.
+Player: yes
+Lugri: Sacrifice 10000 gold coins to the great Zathroth and I'll call upon him to break that unholy bond. What do you say?
+Player: no
+Lugri: Then get lost and languish in your misery.
+Player: Gods
+Lugri: The gods of darkness give us the chance to reach our whole potentials, the gods of good want to capture us in eternal stasis!
+Player: evil / Darkness
+Lugri: The glorious Gods of Darkness are Zathroth, Fafnar, Brog, Urgith, and the Archdemons. May they be praised!
+Player: Zathroth
+Lugri: Zathroth represents the true and unbound power of magic. He is the keeper of Great Secrets.
+Player: Fafnar
+Lugri: Fafnar is the power of the sun. She burns the weak to ashes.
+Player: Brog
+Lugri: Brog, the Raging One, the Great Destroyer, the Berserker of Darkness ... he has many names, but each inspires fear in the prudent.
+Player: Urgith
+Lugri: Urgith is the master of the undead. The Bonemaster is also patron of damned souls.
+Player: Archdemons
+Lugri: The demons are powerful followers of Zathroth. Their leaders are known as the ruthless seven.
+Player: Ruthless Seven
+Lugri: Infernatil, Pumin, Verminor, Tafariel, Apocalypse, Bazir and Ashfalor.
+Player: Infernatil
+Lugri: The incendiary of hell.
+Player: Pumin
+Lugri: He is the Lord of Despair.
+Player: Verminor
+Lugri: Ah, the Plaguelord.
+Player: Tafariel
+Lugri: She is the Mistress of the Damned! Rewarding or torturing, it is the same for her victims!
+Player: Apocalypse
+Lugri: It is said even speaking its TRUE name will bring total destruction upon you! <takes a step back from you>
+Player: Bazir
+Lugri: He is the Great Deciver, the Lord of Lies.
+Player: Ashfalor
+Lugri: The right hand of Urgith. The general of the Undead Hordes.
+Player: Good / Light
+Lugri: The so-called Gods of Good are Fardos, Uman, the Elements, Suon, Crunor, Nornur, Bastesh, Kirok, Toth, and Banor.
+Player: Fardos
+Lugri: Fardos is the creator. He is a helpless watcher whose 'creation' is far more then he bargained for.
+Player: Uman
+Lugri: Uman is a jealous keeper of magic. He shares only fragments of his knowledge with the mortals. To be strong one must take, not wait to be given, with Gods like that!.
+Player: Suon
+Lugri: Suon is one of the suns of our world. He gives his light mindlessly to the weak and the strong alike.
+Player: Crunor
+Lugri: Crunor is the God of nature, of plants and trees ... and plants and trees are there to be stomped upon and burnt!
+Player: Nornur
+Lugri: Nornur claims to be a God of Fate without even understanding the ways of fate at all.
+Player: Bastesh
+Lugri: Bastesh is so afraid that she hides in the depth of the seas.
+Player: Kirok
+Lugri: Kirok, the Mad One, is the patron of scientists and jesters, more a nuisance than a God.
+Player: Toth
+Lugri: Toth is just the undertaker for the other 'gods of good'.
+Player: Banor
+Lugri: Banor isn't a God at all, merely one of their tools. Is it not stupidity to worship a tool?
+Player: tibiasula
+Lugri: Zathroth took her life, recoginzig it was necessary for the process of creation.
+Player: Elements
+Lugri: The Elements are Tibia, Sula, Air and Fire.
+Player: Tibia
+Lugri: Tibia is just the mindless elemental power of earth.
+Player: Sula
+Lugri: Sula is just the mindless elemental power of water.
+Player: Air
+Lugri: Air is just a mindless elemental force.
+Player: Fire
+Lugri: Fire is just a mindless elemental force.
+Player: Donation / gold / money
+Lugri: Do you want to make a donation?
+Player: no
+Lugri: As you wish.
+Player: Yes
+Lugri: May the gods of darkness bless you!
+Player: Yes
+Lugri: Don't be ashamed but you lack the gold.
+Player: death to noodles
+Lugri: So, I guess you have brought me a magic crystal?
+Player: yes
+Lugri: Fine. Now you get what you deserve, you fool! DIE IN AGONY!
+Player: outfit
+Lugri: You have already proven your loyalty to Zathroth. I have nothing more to give you, Player. Only the Queen of Darkness could... maybe.
+Player: Outfit
+Lugri: This skull shows that you are a true follower of Zathroth and the glorious gods of darkness. Are you willing to prove your loyalty?
+Player: Yes
+Lugri: It will be a hard task which requires many sacrifices. Do you still want to proceed?
+Player: Yes
+Lugri: Good decision, <name>. Your first sacrifice will be a medusa shield. Bring it to me and do give it happily.
+Player: Medusa shield
+Lugri: Is it your true wish to sacrifice a medusa shield to Zathroth?
+Lugri: Is it your true wish to sacrifice a dragon scale mail to Zathroth?
+Lugri: Is it your true wish to sacrifice crown legs to Zathroth?
+Lugri: Is it your true wish to sacrifice a ring of the sky to Zathroth?
+Player: Yes
+Lugri: Good. I accept your sacrifice. You have proven that you are a true follower of Zathroth and do not hesitate to sacrifice worldly goods. Thus, I will reward you with this headgear.
+Player: Task
+Lugri: What? Who are you to imply I need help from a worm like you? ...
+Lugri: I don't need help. But if you desperately wish to do something to earn the favour of Zathroth, feel free. Don't expect any reward though. ...
+Lugri: Do you want to help and serve Zathroth out of your own free will, without demanding payment or recognition?
+Player: Yes
+Lugri: You do? I mean - wise decision. Let me explain. By now, Tibia has been overrun by numerous followers of different cults and beliefs. The true Necromancers died or left Tibia long ago, shortly after their battle was lost. ...
+Lugri: What is left are mainly pseudo-dark pretenders, the old wisdom and power being far beyond their grasp. They think they have the right to tap that dark power, but they don't. ...
+Lugri: I want you to eliminate them. As many as you can. Both necromancers and priestesses. And as I said, don't expect a reward - this is what has to be done to cleanse Tibia of its false dark prophets.
+Player: task
+Lugri: You've slain a mere 4000 necromancers and priestesses. Still, you've shown some dedication. Maybe that means you can kill one of those so-called 'leaders' too. ...'
+Lugri: Deep under Drefia, a necromancer called Necropharus is hiding in the Halls of Sacrifice. I'll place a spell on you with which you will be able to pass his weak protective gate. ...'
+Lugri: Know that this will be your only chance to enter his room. If you leave it or die, you won't be able to return. We'll see if you really dare enter those halls.'
+Player: task
+Lugri: So you had the guts to enter that room. Well, it's all fake magic anyway and no real threat. ...
+Lugri: What are you looking at me for? Waiting for something? I told you that there was no reward. Despite being allowed to stand before me without being squashed like a bug. Get out of my sight!
+Player: task
+Lugri: You can't live without serving, can you? Although you are quite annoying, you're still somewhat useful. Continue killing Necromancers and Priestesses for me. 1000 are enough this time. What do you say?
+Player: yes
+Lugri: Good. Then go.
+Player: task
+Lugri: You've slain a pitiable x necromancers and priestesses. You're supposed to kill 1000. Now go and spread some pain!
+Player: Bye
+Lugri: Leave now, Player. The gods of darkness will watch your soul!
+Lugri: May darkness be with you!

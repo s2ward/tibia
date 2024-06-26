@@ -1,0 +1,49 @@
+Player: hi
+Hoggle: Welcome to my humble home.
+Player: name
+Hoggle: I am Hoggle. I live in this house.
+Player: job / home
+Hoggle: I'm just a poor fisherman. Leave me alone in my misery, ok?
+Player: time
+Hoggle: No, this is not the time to go fishing.
+Player: fisherman
+Hoggle: It's a very hard job, cause without a boat I have to swim and fish at the same time!
+Player: boat
+Hoggle: My boat sunk. I thought it would be more aerodynamic with holes in it.
+Player: fish
+Hoggle: I think they can talk, but they are wise enough to be silent. Once I saw a mermaid.
+Player: mermaid
+Hoggle: I saw one! She had the body of a fish, and also the head of a fish. Amazing!
+Player: map
+Hoggle: If you go north-west you will find Lubo and his adventurer shop. I think he sells maps.
+Player: food
+Hoggle: If you are hungry you can go downstairs, perhaps you will find some fish. You can also take some shoes if you want.
+Player: thais
+Hoggle: I know this city. Sometimes I sell fish to Frodo.
+Player: frodo
+Hoggle: He buys my fish.
+Player: carlin
+Hoggle: There are stories about a city behind the mountain, but why should I go there? There is enough fish here.
+Player: mountain
+Hoggle: Yes, there is a mountain to the north, but it's of no interest. There isn't any fish on it.
+Player: stupid
+Hoggle: My mom always said, stupid is who stupid does.
+Player: secret
+Hoggle: Can you keep a secret? I think fish can't breath on land!
+Player: finger
+Hoggle: No, fish don't have fingers.
+Player: pet name
+Hoggle: Once there was a magician who named all his creatures like their species read backward.
+Player: garden
+Hoggle: My garden is full of wild-growing plants and my back is aching like hell. Perhaps you are interested in cutting these pest plants ...
+Hoggle: I'll give you 5 shiny pieces of gold for this job. Is this a deal?
+Player: yes
+Hoggle: Excellent. You will have to rattle at the garden gate a bit to get it open, it's quite old, you know. Tell me about the garden when you are finished.
+Player: garden
+Hoggle: From my window I can see that you are not finished yet.
+Player: garden
+Hoggle: I hope you were diligent and accurate. Here is your gold. Don't spend it on alcohol or tobacco!
+Player: garden
+Hoggle: I tried to breed fish in my garden but to no avail.
+Player: bye
+Hoggle: Good bye.

@@ -1,0 +1,20 @@
+Player: hi
+Rock With A Soft Spot: Welcome, this is the Gray Beach temple, Player. Whether you are wounded, poisoned - or wait, don't tell me - yes, this is probably a case of being more emotionally hurt, I will do my best to heal you.
+Player: name
+Rock With A Soft Spot: I am Rock With A Soft Spot. And I care.
+Player: job / gray beach / temple
+Rock With A Soft Spot: I am the keeper of the Gray Beach temple and destined to protect whoever would dare venturing to this remote island.
+Player: time
+Rock With A Soft Spot: It's 9:29 pm, now.
+Player: gods
+Rock With A Soft Spot: I am eternally thankful to them for letting me be a humble cog in the ever ongoing machine that is their grand creation.
+Player: spectulus / first visitor / deeplings / gem / blue grotto / pits / guardians / the hive
+Rock With A Soft Spot: I do not get around much, sorry. Maybe you should ask one of my fellow rocks on the beach above.
+Player: heal
+Rock With A Soft Spot: You are poisoned. Let me soothe your pain.
+Player: heal
+Rock With A Soft Spot: You do not need any healing right now.
+Player: bye
+Rock With A Soft Spot: Goodbye then, Player!
+Player: (vanish)
+Rock With A Soft Spot: Only the best for you.

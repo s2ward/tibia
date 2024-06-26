@@ -1,0 +1,71 @@
+Player: (idle)
+Brewster: Nobody knows the <hicks> trouble I've seen, la la la...
+Brewster: <hicks>
+Player: hi
+Brewster: G...greetings <hicks>. What can I <hicks> do for you?
+Player: name
+Brewster: I'm ... ah, yes, Brewster. That's me, my name, I mean <hicks>.
+Player: job
+Brewster: I'm a priest. <hicks> The worldly representative of the Gods so to speak. <hicks> Not that I would say such a thing of course. <hicks> That would be vanity after all. I believe that's a sin.
+Player: time
+Brewster: Uhm ... Uh ... No idea, sorry.
+Player: priest
+Brewster: Priests are u... useful fellows, you know. Most of them know about... uh... blessings and some can even do a w... wedding ceremony.
+Player: useful
+Brewster: Always healing and helping, you know?
+Player: healing
+Brewster: You do not need any healing right now.
+Player: wedding
+Brewster: Bah, I don't believe in <hicks> romance anymore. Nothing lasts forever! My divorce was the b... best idea ever.
+Player: divorce
+Brewster: <hicks> What, a divorce? Do you yearn for the joys of singledom? <hicks> I know it well, my marriage was a battleground... but less of that. Are you unhappily married?
+Player: no
+Brewster: Good for you.
+Player: gods
+Brewster: Oh come on, give me a break. <hicks> Read a book if you're that interested.
+Player: book
+Brewster: Can't recall <hicks> if we have one in the temple.
+Player: temple
+Brewster: Ha! <hicks> Well, if you call this hut a temple you are obviously not a devoted churchgoer. But never mind, I won't tell anyone and the Gods know it anyway ... if they care.
+Player: tibia
+Brewster: If Tibia were a fallen God, guess which part of the body you're on now. <hicks> I have my assumptions ... but I think I'm in polite society, so I shall keep quiet on that. Ha!
+Player: king
+Brewster: Ah the King, the ruler of this lovely little piece of dirt. Ha!
+Player: jungle
+Brewster: This jungle must be the Gods' way to give us mortals a taste of hell and mosquito bites. <hicks>.
+Player: apes
+Brewster: Nobody believes me - but I've seen them. Pink apes! Big pink apes! They come when I'm sleeping and steal my beer and wine, damn them! <hicks>.
+Player: lizards
+Brewster: They usually stay away from here, so who cares?
+Player: dworcs
+Brewster: Heard enough about them to dislike them.
+Player: thais
+Brewster: Thais!! My beloved hometown! Oh, how I miss good old Thais. Let's drink to Thais!
+Player: venore
+Brewster: Venore, Venore, city of splendour. Hm, the best thing about that city is its brewery.
+Player: edron
+Brewster: They would never appoint a such a low-ranking priest like me to Edron. I'm trapped here.
+Player: carlin
+Brewster: Ha! That's probably even worse than this dump of a jungle here. Whatever possessed them to set up a colony here, I'll never know. Too many apes, and it is overrun by lizards and dworcs.
+Player: darama
+Brewster: The teachings of our temple count little on that continent. I think it's a sign from the Gods to abandon it. But why should anyone listen to poor old Brewster?
+Player: ankrahmun
+Brewster: Just thinking about Ankrahmun and its inhabitants gives me the creeps and a desire for beer. Which reminds me - best have a quick drink to forget about it.
+Player: kazordoon / dwarves / dwarfs
+Brewster: The dwarves who have crossed my path praise their beer more than they praise their Gods <hicks>. That alone is a good reason to ... uhm spread the word of our Gods in the city of Kazordoon.
+Player: ab'dendriel
+Brewster: I've never been there. <hicks> For all what I have heard it's not that much different from this ugly little armpit of a settlement.
+Player: elves / elfs
+Brewster: The elves? There must be something wrong with them. The more time I spend in this flea pit of a jungle, the less I understand people who love trees.
+Player: ferumbras
+Brewster: <hicks> Ha! He would be the icing on the cake - but I doubt he'd turn up here - there's nothing he could do to make it any worse!
+Player: excalibug
+Brewster: Who knows if it's real or just a myth? <hicks> And who cares?
+Player: stake
+Brewster: You have already received my line of the prayer. Don't make me do more work than necessary!
+Player: cough syrup
+Brewster: The only person who might have some cough syrup around here is the druid Ustan. You'll find him in the tavern. Hmmm, the tavern ... <hicks>
+Player: bye
+Brewster: Exactly! <hicks>
+Player: (vanish)
+Brewster: Bye ... one for the road!

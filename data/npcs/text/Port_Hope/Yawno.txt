@@ -1,0 +1,23 @@
+Player: hi / hello  
+Yawno: Mmhmn... eh? Ahm, so what is it... *yawn* Ya here for the fish, too? Or are you just here for some... *yawn* news?  
+Player: job  
+Yawno: ...hmf ...  
+Yawno: Hm - what? What? Did I... *yawn* well, what was ya question? Ah job, yes. ...  
+Yawno: Well... I'm a fisherman. Obviously. Can't ya see? I'm fishin' 'ere! Oh and now please be quiet, quiet *whisper* really quiet... ...  
+Yawno: ...and maybe MOVE AWAY A LITTLE! THANKS. Ya're SCARING AWAY the... the... fish. *yawn* hmmnmnf...  
+Player: name  
+Yawno: The name's Yawno, providing the finest... fish in the whole... world... *yawn* of Tibia.  
+Player: fish  
+Yawno: Well, just between the two of us - the lake is still crystal clear right now. Ya know, it's TOO CLEAN. That ain't attract no shimmer swimmer, it doesn't. ...  
+Yawno: The lake needs to be dirtier, filthier, murkier yupp. An' I bet ya don't know the secret, eh? How to get it real dirty? Corpses. Loads of corpses. Piles of 'em. Throw 'em into the water, eh. You'll see.  
+Player: lake / Equivocolao  
+Yawno: This lake is the only place shimmer swimmers can be caught. However, if the lake is too clean, they will not settle. My guess... *yawn* is that this lake has underground connections to... to... caves... *yawn*  
+Player: shimmer / swimmer  
+Yawno: It is the rarest of all fish! Hard to come by but worth every second... *yawn*... of time, ya invest. You only get a chance to catch him in extremely dirty water. ...  
+Yawno: And Lake Equivocolao is really the only place where it can be found. I am sure my old buddy Pemaret in Cormaya knows a thing or two about that bugger, too.  
+Player: corpse  
+Yawno: Throwing corpses into the water is the fastest way to make it dirty and murky - just perfect to attract shimmer swimmers. It doesn't even matter what kind of corpse, heh.  
+Player: news  
+Yawno: A... aaah... *yawn* maybe a shimmer swimmer will... appear... if... enough... *yawn*  
+Player: bye  
+Yawno: Yeah, yeah... bye, erm... *yawn*  

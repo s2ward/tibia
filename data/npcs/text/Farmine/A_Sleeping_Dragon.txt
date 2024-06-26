@@ -1,0 +1,305 @@
+Player: (any word, random response)
+A Sleeping Dragon: Chrrr..
+A Sleeping Dragon: Fffff..
+A Sleeping Dragon: Hmmmfff..
+A Sleeping Dragon: Mnmmmnnmn...
+A Sleeping Dragon: Hnnnnnrrr..
+A Sleeping Dragon: Nnnnh...
+A Sleeping Dragon: Sssss..
+Player: hi (awake)
+A Sleeping Dragon: Greetings, wayfarer.
+Player: wayfarer
+A Sleeping Dragon: I call you the wayfarer. You travelled through my dreams. You ultimately freed my mind. My mind accepted you and so will I.
+Player: name
+A Sleeping Dragon: I have no name. I am a perpetual lifeform and while I am not omniscient, the foundations of my memories reach further into the past than the roots of your civilisation.
+Player: job
+A Sleeping Dragon: I used to guard this place and everything behind this door. It will not be possible for you to understand the reason for this or what the true meaning of this place is. ...
+A Sleeping Dragon: The creature you call Emperor came and destroyed everything beyond this hall and trapped me here. The door behind me is linked to the realm it usurped.
+Player: emperor
+A Sleeping Dragon: The creature you call Emperor trapped me here and bound my mind to its own. It spent a large portion of its power solely to control my subconscious. Freeing my mind will no doubt leave it weakened.
+Player: zao
+A Sleeping Dragon: The part of this world you named Zao has been covered with black sprouts and is suffering at their growth.
+Player: corruption
+A Sleeping Dragon: Beware the plague that coats the lands. Ever to spread, ever to proceed. Relentless like the dark end of nightfall.
+Player: humans
+A Sleeping Dragon: Over time I encountered many different specimens of your race. Often bright and prudent, strong and enduring but tainted by stolidity, hardened by failure.
+Player: dragons
+A Sleeping Dragon: I am a perpetual lifeform and while I am not omniscient, the foundations of my memories reach further into the past than the roots of your civilisation.
+Player: lizards
+A Sleeping Dragon: Many of the inhabitants of these lands changed to a dangerous extreme. Walk your path carefully, wayfarer.
+Player: resistance
+A Sleeping Dragon: So you are part of an uprising against the evil that has conquered these lands. This is an honourable task, wayfarer.
+Player: zalamon
+A Sleeping Dragon: Powerful. Yet ultimately confused, tangled in the chain of events.
+Player: mission / quest (read resolution at the very end)
+A Sleeping Dragon: The end of your journey lies elsewhere. There is nothing more I can do to aid you on your quest, wayfarer. Now let me rest to catch up on my own dreams.
+Player: SOLOSARASATIQUARIUM (Wrath of the Emperor - Mission 09: The Sleeping Dragon)
+A Sleeping Dragon: Dragon dreams are golden. ...
+A Sleeping Dragon: A broad darkness surrounds you as if a heavy curtain is closing before your eyes. After what seems like minutes of floating through emptiness, you get the feeling as if a hole opens in the dark before you. ...
+A Sleeping Dragon: The hole grows larger, you cannot close your eyes. An unimaginable black. Deeper and darker than any nothingness you could possibly imagine drags you into it. ...
+A Sleeping Dragon: You feel as if you cannot breathe anymore. The very second you let loose of your consciousness, you sense all heaviness around you lifted. ...
+A Sleeping Dragon: You dive into an ocean of emerald light. Feeling like born anew the colour around you is almost overwhelming. Countless objects of all shapes and sizes are dashing past you. Racing against each other, millions are clashing in the distance. ...
+A Sleeping Dragon: The loudness of the gargantuan spectacle around you bursts your hearing, yet you absorb all the sounds around you. ...
+A Sleeping Dragon: As several large obstacles move aside directly in front of you, an intense bright centre leaps into your view. Though you cannot perceive how fast you are, your pace seems too slow. ...
+A Sleeping Dragon: Ever decelerating, you ultimately approach a middle in this chaos of tones of green. ...
+A Sleeping Dragon: As you come closer to it, yellowish shades of orange embrace you, softer shapes emerge and you almost forget the mayhem before. In warm comfort you see what lies in the heart of it all. ...
+A Sleeping Dragon: A majestic dragon in his sleep is surrounded by what seems the warmth and energy of a thousand suns. The tranquillity of its sight makes you smile gently. ...
+A Sleeping Dragon: You feel a perfect mixture of joy, compassion and sudden peacefulness. Bright xanthous impressions of topaz, orange and white welcome you at the final halt of your journey. ...
+A Sleeping Dragon: Dragon dreams are golden. ...
+A Sleeping Dragon: You find yourself inside the dragon's dream. You can look around or go into a specific direction. You can also take or use an object. Enter help to display this information at any time.
+Player: help
+A Sleeping Dragon: You can look around or go into a specific direction. You can also take or use an object. Enter help to display this information at any time.
+Player: take
+A Sleeping Dragon: Take what?
+Player: use
+A Sleeping Dragon: Use what?
+Player: bye
+A Sleeping Dragon: Hmmmf...zZzzZz.
+Player: hi (after bye)
+A Sleeping Dragon: Thanks to the inter-dimensional potion you drank, you re-enter the world of the dragon's mind by uttering the formula. You can look around or go into a specific direction. You can also take or use an object. ...
+A Sleeping Dragon: Enter help to display this information at any time.
+Player: look (centre)
+A Sleeping Dragon: You can see a giant dragon, sleeping calmly in the middle of an emerald plateau. Above, a massive hand seems to be holding chains entangling his wings. ...
+A Sleeping Dragon: Far in the distance, large gemstones, mostly emeralds, are circling the firmament. The air is warm and comfortable, a constant breeze wafts you. ...
+A Sleeping Dragon: To the north, east and west, there are slightly larger emerald formations. There is some kind of notch on each of them. You also spot a small raise with a dent in it near the middle of the plateau.
+Player: notch
+A Sleeping Dragon: Each of the larger emeralds surrounding the plateau bears a large notch. A bright clean light comes from its inside. It looks as if something like a larger gem would easily fit into it.
+Player: dragon
+A Sleeping Dragon: It appears to you as if this dragon is far larger than the one whose dream you entered, but it is undoubtedly the same. His giant scales slowly bop up and down as he wheezes and snores.
+Player: hand
+A Sleeping Dragon: Above the dragon, a gigantic black hand is holding chains which cord him. The black of the hand is so deep that it seems to absorb the light around it. From fear you cannot bear this sight any longer than for a quick glance.
+Player: chains
+A Sleeping Dragon: Black chains entangle the dragon's wings. The dark hand above it seems to firmly hold them. Black light oozes out of them as they seemingly tighten up with every breathe of the creature.
+Player: look
+A Sleeping Dragon: A solid stand has been placed near the middle of the plateau. To the north, east and west, there are slightly larger emerald formations. There is some kind of notch on each of them.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the east, west and south.
+Player: north
+A Sleeping Dragon: The gigantic black hand soars above the dragon before you, it is not possible to advance to the north.
+Player: east
+A Sleeping Dragon: You travel east across several large emerald bluffs and edges. All sorts of gems are scattered alongside your path.
+Player: west
+A Sleeping Dragon: Advancing to the west, you recognise an increase of onyx on the ground.
+Player: south
+A Sleeping Dragon: You wander to the south, passing large obelisks of emerald to your left and sprawling trees of topaz to your right.
+Player: look (centre -> south)
+A Sleeping Dragon: You make out a stand half as high as yourself which is firmly attached to a socket in the ground in front of an impressive gate to the east. The gate is closed.
+Player: stand
+A Sleeping Dragon: A solid stand has been attached to a socket in the ground. It is probably not too large to carry it.
+Player: gate
+A Sleeping Dragon: The gate is made of some kind of gemstone. Possibly a combination of topaz and emerald. An engraving shows an image of a large mirror.
+Player: east
+A Sleeping Dragon: A large gate hinders you from walking further to the east.
+Player: take stand
+A Sleeping Dragon: As you rip the solid stand out of its socket and take it with you, the large gate opens with a deafening rumble.
+Player: stand
+A Sleeping Dragon: A stand just light enough for you to carry it. The object this stand was holding is currently missing.
+Player: south / west
+A Sleeping Dragon: Besides the large gate in front of you, there are no other landmarks in this area. You can see nothing of particular interest in the (south / west).
+Player: look
+A Sleeping Dragon: You stand in front of an impressive semi-translucent gate in the midst of a massive wall in the east. The gate is opened.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the north and east.
+Player: north
+A Sleeping Dragon: You head back north to the plateau.
+Player: east
+A Sleeping Dragon: You gasp at the size of the large open gate as you walk through to head further to the east.
+Player: look (centre -> south -> east)
+A Sleeping Dragon: As you walk further to the east, you feel countless glassy spikes piercing your feet. It cracks and crumbles beneath your feet. You stop at a large pile of emeralds. It appears this field of spikes stretches infinitely to the horizon.
+Player: spikes
+A Sleeping Dragon: As you look closer at the spikes you make out tiny shapes of roofs, doors and even windows, chimneys, fences and - a whole city unfolds before your eyes. Automatically you take a step back, and another. ...
+A Sleeping Dragon: You look around and recognise even more housetops. Windows and even a small furnace crush beneath your feet, a garden, small mansions, even a marketplace obliterated by your footfall. ...
+A Sleeping Dragon: With each step you take to avoid it you destroy ever more of this strange empty architecture. Some steps away a petite district catches your eye, almost like a complete model of a city.
+Player: model
+A Sleeping Dragon: Some steps away, a small district of emerald houses catches your eye. It looks like a small but complete city model in its own.
+Player: take model
+A Sleeping Dragon: You reach for a small solitary arrangement of combined small houses and put it in your pocket.
+Player: take model
+A Sleeping Dragon: You have already taken a small part of the city with you.
+Player: model
+A Sleeping Dragon: The model in your hands looks like a miniature of a city district.
+Player: emeralds
+A Sleeping Dragon: A pile of emeralds lies in front of you.
+Player: take emeralds
+A Sleeping Dragon: You take an emerald from the pile.
+Player: take emeralds
+A Sleeping Dragon: You have already taken an emerald from the pile.
+Player: emerald
+A Sleeping Dragon: A large emerald you found far to the south-east.
+Player: emerald
+A Sleeping Dragon: You inserted the emerald at the plateau.
+Player: go
+A Sleeping Dragon: Where do you want to go? There is a path that leads back to the west.
+Player: east / north / south
+A Sleeping Dragon: Endless arrays of tiny emerald spikes jut from the ground as far as your eyes can see. There is no reason to continue to the (east / north / south).
+Player: west
+A Sleeping Dragon: You return through the semi-translucent gate to the west.
+Player: look (centre -> east)
+A Sleeping Dragon: You walk further towards the east over vast plains of all sorts of gems. After some time you arrive at plains of red. Rubies as far as your eyes can see. Like streams of blood they gush in the distance.
+Player: rubies
+A Sleeping Dragon: As far as you can see there are all shapes and kinds of these red gems.
+Player: take ruby
+A Sleeping Dragon: You take a rather large ruby out of a pile before you.
+Player: take ruby
+A Sleeping Dragon: You have already taken one of the rubies.
+Player: ruby
+A Sleeping Dragon: A rather large ruby adorns your pocket.
+Player: ruby
+A Sleeping Dragon: You already inserted the ruby at the plateau.
+Player: east
+A Sleeping Dragon: You can see several pointed shapes to the east, elevating like bold cliffs at the shores of a crimson sea. There is no need to continue in this direction.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the north and west.
+Player: west
+A Sleeping Dragon: You travel back to the plateau in the west.
+Player: north
+A Sleeping Dragon: You head north passing countless stones in the crimson sea of stones beneath your feet.
+Player: look (centre -> east -> north)
+A Sleeping Dragon: As you walk towards the north, you feel the temperature rising continually. It seems as if the ground is glowing beneath your steps. You walk on rounded gemstones, treating your feet gently. ...
+A Sleeping Dragon: After some time, your journey comes to a halt as an enormous gate between insurmountable walls blocks your path. To the right of the gate, you recognise some sort of socket. You can barely look at it as blazing bright light emanates from its inside.
+Player: gate
+A Sleeping Dragon: A bright illuminated gate in the midst of gemstone walls as thick as castle murals. The gate is currently closed.
+Player: open gate
+A Sleeping Dragon: A bright illuminated gate in the midst of gemstone walls as thick as castle murals. The gate is currently closed.
+Player: socket
+A Sleeping Dragon: Your eyes hurt as you examine the socket. Due to the very bright light pouring out of it, you cannot look at it for more than a few seconds. ...
+A Sleeping Dragon: The socket comprises onyx. You can make out several notches on top of it as if something were missing.
+Player: use attachment
+A Sleeping Dragon: Avoiding the bright light, you carefully put the attachment on top of the strange socket. ...
+A Sleeping Dragon: As your eyes adjust to the sudden reduction of brightness, you see the giant wings of the gate before you move to the side. You can also make out something shiny on the ground.
+Player: shiny
+A Sleeping Dragon: As you approach the shiny object, you identify it as some sort of mirror reflecting the light.
+Player: mirror
+A Sleeping Dragon: A large mirror lies on the ground. It is not attached and looks quite transportable.
+Player: take mirror
+A Sleeping Dragon: You pick the mirror from the ground.
+Player: mirror
+A Sleeping Dragon: The shiny mirror is bulky but quite light.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the north and west.
+Player: east
+A Sleeping Dragon: Large piles of rounded stones tower up to the east. You try climbing one of the hills but fail every time as you slide down the slippery slope.
+Player: south
+A Sleeping Dragon: You return to the crimson sea of rubies in the south.
+Player: north
+A Sleeping Dragon: An enormous gate is blocking your path to the north.
+Player: north
+A Sleeping Dragon: Your path to the north is open. You pass the gigantic gate wings to your left and right as you advance. After about an hour of travel you hear a slight rustling in the distance. You head further into that direction. ...
+A Sleeping Dragon: The rustling gets louder until you come to a small dune. Behind it you find the source of the noise.
+Player: look (centre -> east -> north -> north)
+A Sleeping Dragon: The small city model in your pocket pulsates and glows. You stand at the shore of an ocean. The beach consists of countless gems bathed by the ocean like small pebbles. Large waves clash against shattered emerald cliffs not far into the water.
+Player: use model
+A Sleeping Dragon: You lunge out and throw the model far into the water. As nothing happens, you turn your back to the ocean. ...
+A Sleeping Dragon: The very moment you walk down the dune to head back south, rays of light burst over your head in a shock wave that makes you tumble down the rest of the hill. ...
+A Sleeping Dragon: You can also hear a deep loud scraping for several minutes somewhere far in the west
+Player: go
+A Sleeping Dragon: Where do you want to go? There is a path that leads back to the south.
+Player: west / east
+A Sleeping Dragon: The shore meanders deep into the western horizon. There is no reason to continue in this direction.
+Player: north
+A Sleeping Dragon: You currently don't feel any urge to go swimming.
+Player: south
+A Sleeping Dragon: You travel all the way back down the dune and through the gate to the south.
+Player: look (centre -> west)
+A Sleeping Dragon: There are all sorts of gems around you. There are hardly any landmarks in this place which hampers orientation greatly. At the entrance of this bleak waste there is some kind of lookout comprised completely of onyx.
+Player: lookout
+A Sleeping Dragon: There is a small pedestal at the top of this lookout. There is some kind of onyx attachment lying on it. The attachment seems to be a cover for something.
+Player: attachment
+A Sleeping Dragon: An attachment made of onyx is lying on a socket. It looks quite heavy but it is not fixed.
+Player: take attachment
+A Sleeping Dragon: You carefully lift the onyx attachment from its socket. It is lighter than you expected.
+Player: attachment
+A Sleeping Dragon: The attachment is made of onyx and quite light.
+Player: lookout
+A Sleeping Dragon: There is a small pedestal at the top of this lookout. The pedestal is empty. Engravings on it resemble three rays of light coming from three different sources.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the north and east.
+Player: west / south
+A Sleeping Dragon: Besides an onyx lookout near your current location, there is nothing of particular interest in the (western / southern) direction.
+Player: north
+A Sleeping Dragon: You continue travelling the barren sea of gemstones to the north.
+Player: look (centre -> west -> north)
+A Sleeping Dragon: This seems to be the border of the endless sea of gemstones. This end consists purely of sapphires. A large gate with a deeper blue as a thousand sapphires stands in front of you. ...
+A Sleeping Dragon: The gate bears an engraving of Bastesh and is currently closed.
+Player: gate
+A Sleeping Dragon: This large gate stands in pure translucent blue. A monumental engraving shows Bastesh, Mistress of the Sea, sinking a whole city into the waves of a remote ocean. The gate is currently closed.
+Player: sapphires
+A Sleeping Dragon: Thousands of very small sapphires lie before you. Quantity and value seam to have different meanings in this universe.
+Player: take sapphire
+A Sleeping Dragon: The sapphires are merely pebbles and far too small to be of any use.
+Player: sapphire
+A Sleeping Dragon: You recently inserted the sapphire at the plateau.
+Player: look (after model)
+A Sleeping Dragon: This seems to be the border of the endless sea of gemstones. This end consists purely of sapphires. ...
+A Sleeping Dragon: A seemingly endless wall stretching to the left and right, separated by a large gate with a deeper blue as a thousand sapphires stands in front of you. ...
+A Sleeping Dragon: The gate bears an engraving of Bastesh and is opened wide.
+Player: gate (after model)
+A Sleeping Dragon: This large gate stands in pure translucent blue. A monumental engraving shows Bastesh, Mistress of the Sea, sinking a whole city into the waves of a remote ocean. The gate is wide open.
+Player: go
+A Sleeping Dragon: Where do you want to go? There are paths to the west and south.
+Player: north / east
+A Sleeping Dragon: The massive gate in the wall before you catches your eye. As it is the only landmark within several miles in all directions you would probably get lost if you walk further to the (north / east).
+Player: south
+A Sleeping Dragon: You head back south to the site with the onyx lookout.
+Player: west
+A Sleeping Dragon: A massive wall with a large gate hinders you from advancing to the west.
+Player: west
+A Sleeping Dragon: You leave the massive open gate behind you and go to the west.
+3:03 Player: look (centre -> west -> north -> west)
+A Sleeping Dragon: A huge altar with a statue of Bastesh on its top soars before you. Bastesh seems to be holding something in her hands.
+Player: Bastesh
+A Sleeping Dragon: This huge statue of Bastesh is made from onyx, and thrones on a large plateau which can be reached by a sprawling stairway. She holds a large sapphire in her hands.
+Player: take sapphire
+A Sleeping Dragon: You carefully remove the sapphire from Bastesh's grasp.
+Player: take sapphire
+A Sleeping Dragon: You have already got a sapphire.
+Player: sapphire
+A Sleeping Dragon: A large sapphire which shines as deeply blue as an ocean.
+Player: look
+A Sleeping Dragon: A huge altar with a statue of Bastesh on its top soars before you. The hands of Bastesh are empty.
+Player: Bastesh
+A Sleeping Dragon: This huge statue of Bastesh is made from onyx, and thrones on a large plateau which can be reached by a sprawling stairway. She holds nothing in her hands.
+Player: go
+A Sleeping Dragon: Where do you want to go? There is a path that leads back to the east.
+Player: south / west / east
+A Sleeping Dragon: You slowly crane your head beyond the (south / west / east) edge of the large onyx altar, there is no way down the gaping abyss you are facing.
+Player: east
+A Sleeping Dragon: You head back to the east and to the plateau.
+Player: use mirror (center -> ending)
+A Sleeping Dragon: There is nothing to attach the mirror to and it is of no use if put on the ground.
+Player: use stand
+A Sleeping Dragon: You put the stand into a small recess you find near the middle of the plateau.
+Player: use mirror
+A Sleeping Dragon: There is nothing except scenery the mirror could reflect.
+Player: use emerald
+A Sleeping Dragon: As the emerald slips into the notch, the vibrant green of the stone intensifies a thousandfold. You fear to hurt your eyes and turn away immediately. The ray seems to be directed to the centre of the plateau with astounding precision.
+Player: use ruby
+A Sleeping Dragon: As the ruby slips into the notch, the strong red of the stone intensifies a thousandfold. You fear to hurt your eyes and turn away immediately. The ray seems to be directed to the centre of the plateau with astounding precision.
+Player: use sapphire
+A Sleeping Dragon: As the sapphire slips into the notch, the deep blue of the stone intensifies a thousandfold. You fear to hurt your eyes and turn away immediately. The ray seems to be directed to the centre of the plateau with astounding precision.
+Player: look
+A Sleeping Dragon: A solid stand has been placed near the middle of the plateau. Rays of screaming red light emit from the south, blazing blue beams from the west and bright green radiates from the east. ...
+A Sleeping Dragon: Adding to each other, the colours seem to form pure white somewhere near their joint intersection.
+Player: use mirror
+A Sleeping Dragon: With your eyes covered and avoiding direct sight of the rays, you put the mirror into the stand. ...
+A Sleeping Dragon: Instinctively you run to a larger emerald bluff near the raise to find cover. Mere seconds after you claimed the sturdy shelter, a deep dark humming starts to swirl through the air. ...
+A Sleeping Dragon: Seconds pass as the hum gets louder. The noise is maddening, drowning all other sounds around you. As you cover your ears in pain, the humming explodes into a deafening growl. ...
+A Sleeping Dragon: You raise your head above the edge of the emerald to catch a glimpse of what's happening. ...
+A Sleeping Dragon: The hand seems to have grown into a fist. In the distance you can now see a blurry scheme of a creature too large for your eyes to get a sharper view of its head. ...
+A Sleeping Dragon: Blending the rays, the mirror directs pure white light directly towards the part where you assume the face of the creature. ...
+A Sleeping Dragon: The growl transforms into a scream, everything around you seems to compress. As you press yourself tightly against the bluff, everything falls silent and in a split second, the dark being dissolves into bursts of blackness. You wake.
+Player: mission (Wrath of the Emperor - Mission 09: The Sleeping Dragon)
+A Sleeping Dragon: Aaaah... free at last. Hmmm. ...
+A Sleeping Dragon: I assume you need to get through the gate to reach the evildoer. I can help you if you trust me, wayfarer. I will share a part of my mind with you which should enable you to step through the gate. ...
+A Sleeping Dragon: This procedure may be exhausting. Are you prepared to receive my key?
+Player: no
+A Sleeping Dragon: Clear your mind, wayfarer.
+Player: yes
+A Sleeping Dragon: SAETHELON TORILUN GARNUM. ...
+A Sleeping Dragon: SLEEP. ...
+A Sleeping Dragon: GAIN. ...
+A Sleeping Dragon: RISE. ...
+A Sleeping Dragon: The transfer was successful. ...
+A Sleeping Dragon: You are now prepared to enter the realm of the evildoer. I am grateful for your help, wayfarer. Should you seek my council, use this charm I cede to you. For my spirit will guide you wherever you are. May you enjoy a sheltered future, you shall prevail. (spiritual charm)
+Player: bye
+A Sleeping Dragon: Farewell, wayfarer.

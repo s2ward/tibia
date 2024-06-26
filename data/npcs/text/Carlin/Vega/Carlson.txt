@@ -1,0 +1,30 @@
+Player: hi
+Carlson: Ahoi, young man Player and welcome to the Nordic Tibia Ferries. If you need a passage, let me know.
+Player: ferry / ferries
+Carlson: Our ferries are strong enough to stand the high waves of the Nordic Ocean.
+Player: Ice Islands
+Carlson: We serve the routes to Senja, Folda, and Vega, and back to Tibia.
+Player: passage
+Carlson: Where do you want to go today? We serve the routes to Senja, Folda, and Vega, and back to Tibia.
+Player: Senja
+Carlson: Do you want a passage to Senja for 10 gold?
+Player: Folda
+Carlson: Do you want a passage to Folda for 10 gold?
+Player: Vega
+Carlson: This island is Vega.
+Player: Tibia
+Carlson: Do you want a free passage back to Tibia?
+Player: yes
+Carlson: Have a nice trip!
+Player: no
+Carlson: You shouldn't miss the experience.
+Player: name
+Carlson: My name is Carlson from the Nordic Tibia Ferries.
+Player: Anderson / Carlson / Nielson / Svenson
+Carlson: The four of us are the captains of the Nordic Tibia Ferries.
+Player: captain / job
+Carlson: We are ferrymen. We transport goods and passengers to the Ice Islands.
+Player: goods
+Carlson: We can transport everything you want.
+Player: bye
+Carlson: Good bye. You are welcome.

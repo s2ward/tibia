@@ -1,0 +1,195 @@
+Player: hi
+Eirik: LONG LIVE JARL SVEN, THE YOUNGER!
+Player: how are you
+Eirik: I am healthy and vigilant. Always ready to make some raiders one head smaller.
+Player: name
+Eirik: I AM A BARBARIAN! Names are of no concern during work!! If somebody is calling for help, I will come.
+Player: job
+Eirik: It's my duty to protect Svargrond and its citizens.
+Player: news
+Eirik: I am busy. Please ask the citizens for news.
+Player: rumour
+Eirik: I have no time to natter. Ask the citizens for rumours.
+Player: mission / quest
+Eirik: Iskan told me that he has trouble with one of his dogs. I think he could need some help.
+Player: guard
+Eirik: I am a guard and proud to be a barbarian.
+Player: castle
+Eirik: You mean Frost Manor? It is the guildhall on top of the cliff.
+Player: graveyard
+Eirik: The sea is our graveyard! Our last journey to Everspring.
+Player: sewers
+Eirik: We don't have sewers here in Svargrond. Some Carliners told me about that invention. Sounds expedient.
+Player: rebellion
+Eirik: Who is up for a rebellion? Surely no one here in Svargrond.
+Player: resistance
+Eirik: The raiders attack us regularly but with that strategical good position of the city it is easy to hold them off.
+Player: scum
+Eirik: We will get rid of all that raider scum.
+Player: haunted / undead
+Eirik: Some people say that Helheim is a haunted place because there is a rock that looks like a skull. Just a tale to scare kids if you ask me.
+Player: demon
+Eirik: We have tales about dark, evil creatures that can kill dozens of brave warriors in a blink of an eye. I'm glad that these are only tales.
+Player: tales
+Eirik: Once upon a time there was ..... WHO DO YOU THINK I AM! GO TO YOUR GRANDMOTHER FOR SUCH THINGS!! (idle)
+Player: captain
+Eirik: Let me think......where could a captain be??? Think twice before you ask me silly questions!!! (idle)
+Player: barbara
+Eirik: Is that a name?? Maybe it originates from 'barbarian'. I have to think about that... bye! (idle)
+Player: noise
+Eirik: You heard something?? ALARM, RAIDER ATTACK!! (idle)
+Player: breasts / busty
+Eirik: NOT ME! With that thick fur clothes we are wearing, it is not easy to see... er... female characteristics.
+Player: green ferrets
+Eirik: Never heard of it. Is this some kind of a tree?
+Player: (swear)
+Eirik: Take this!
+Player: army
+Eirik: Good idea, how many people do we need for an army? Maybe you can recruit a few hundreds of your friends? *GIGGLE*
+Player: husky / dog
+Eirik: The huskies here at Svargrond are allowed to roam as they like. ...
+Eirik: If they irritate you, hit them and they will run away. But be careful not to kill them if you don't want to get in trouble.
+Player: mammoth
+Eirik: Great animals and very tasty.
+Player: seals
+Eirik: You find them all around the Ice Islands. These damn Venorians hunt them with no mercy. I heard that Siflind wanted to do something against that.
+Player: penguin
+Eirik: Weird animals. Half fish half bird. They are all around here.
+Player: ice golem
+Eirik: Let me tell you something. There are so many dangers around here that a wandering ice block couldn't scare me.
+Player: frost giants
+Eirik: Big, stupid, dangerous and they live on Tyrsung. Nothing more to say about them.
+Player: chakoya
+Eirik: These chakoyas are nasty little creatures. Not very dangerous for an ambitious fighter but still nasty.
+Player: dragons
+Eirik: A special kind of them lives on Okolnir, the frost dragons. They adapted well to the cold conditions here.
+Player: geyser
+Eirik: I heard about that phenomenon. It's a pity that you can only find them on Okolnir. As this is the home of the frost dragons, it would be suicide to go there.
+Player: zora / baltim
+Eirik: Never heard that name.
+Player: nor
+Eirik: Mhmmm, Nor? Nobody with that name lives here in Svargrond. Maybe he is one of the southerners that came here.
+Player: hjaern
+Eirik: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
+Player: bertha
+Eirik: She trades with general goods. You can find her in her shop near the harbour.
+Player: nilsor
+Eirik: He is one of our shamans that live on Nibelor.
+Player: dankwart
+Eirik: He is the keeper of our Tavern. No need to explain where you find him.
+Player: hawkyr
+Eirik: He is the paladin trainer. You find him near the arena.
+Player: iskan
+Eirik: He is the leader of the dog sled. Last time I saw him he was with his dogs on the shelf ice north of the harbour.
+Player: jessica
+Eirik: She is the leader of the Carlin traders. She spends most of her time in the jewellery store which is also the bank of Svargrond. You find it south of the road between the harbour and the depot.
+Player: kjesse
+Eirik: You can find him at the temple to the west. He is the shaman of Svargrond.
+Player: lurik
+Eirik: He is the representative of the explorer's society here in Svargrond. You find him south of the road between the harbour and the depot.
+Player: nelly
+Eirik: She is the post office clerk. Follow the moaning and you will find her.
+Player: robert
+Eirik: HAA, he thinks his weapons are the best!! Too weak to hold a real barbarian axe! You find him near the arena.
+Player: romir
+Eirik: He is an old hermit who lives in a hut on the elevated plain north of Svargrond . He is some kind of male witch, you know what I mean? ...
+Eirik: He knows magic and all that. Maybe he teaches his knowledge to others.
+Player: thorwulf
+Eirik: He is the trainer for knights. You find him near the arena.
+Player: siflind
+Eirik: Ohh, old mother Siflind! She is a lovely shaman. You find her on Nibelor.
+Player: romir
+Eirik: He is an old hermit who lives in a hut on the elevated plain north of Svargrond . He is some kind of male witch, you know what I mean? ...
+Eirik: He knows magic and all that. Maybe he teaches his knowledge to others.
+Player: raiders
+Eirik: In fact they are also barbarians. The difference is that WE are civilised and THEY are not!
+Player: elf
+Eirik: Too weak to hold a real weapon and too soft for the climate here. I've never seen one.
+Player: dwarf
+Eirik: How can somebody of that size drink that much?? I met a dwarf once but my memory of this evening is a little bit clouded.
+Player: svargrond
+Eirik: Svargrond is the only city here. Do you want to know where to find a shop, a trainer for a profession or a guildhall?
+Player: hrodmir
+Eirik: This big, icy rock you're standing at right now. The raiders live in the middle and south of the big Formorgar glacier.
+Player: formorgar
+Eirik: There are valuable ores in the mines under the Formorgar glacier. But nobody who has ever tried to gather some has ever come back. I have no clue what's going on down there.
+Player: ice shelf
+Eirik: West of Svargrond is the Fimbul Ice Shelf, Nibelor and Grimlund are embedded in shelf ice, and in the north of Hrodmir are several small shelf ice fields.
+Player: fimbul
+Eirik: Fimbul Shelf is the name of the big shelf ice west of Svargrond. A good spot to go ice fishing.
+Player: Grimlund
+Eirik: Stay away from there! It's the home of the chakoyas.
+Player: nibelor
+Eirik: It's a sacred place for us! Our shamans live there. Ask Iskan if you want to go there.
+Player: tyrsung
+Eirik: That is the big island east of Hrodmir. Venorian hunters settled there ..... or maybe they got eaten up by the frost giants.
+Player: okolnir
+Eirik: The third biggest island of all Ice Islands. Home of the frost dragons. Give me your money if you want to go there, you won't need it afterwards.
+Player: helheim
+Eirik: A small island north east of Tyrsung. Nothing important there. Maybe one of the fishermen can bring you there if you like to go.
+Player: camps
+Eirik: The raider camps are south of Hrodmir. The tribe to the east lives in a glacier cave. They call their settlement Ragnir. ...
+Eirik: The most southern camp is called Krimhorn and the raider caves to the west are called Bittermor.
+Player: join / barbarian
+Eirik: Go find Sven our jarl if you want to join our community. At this time he should be at the tavern. Follow the main road to the west and at the furrier quarter turn south.
+Player: jarl / leader
+Eirik: Our leader is Jarl Sven the Younger! You find him in the tavern west of the city.
+Player: sven
+Eirik: Sven the Younger is our jarl. At this time he should be at the tavern. Follow the main road to the west and at the furrier quarter turn south.
+Player: city
+Eirik: Svargrond is the only city here. Do you want to know where to find a shop, a trainer for a profession or a guildhall?
+Player: guild / trainer
+Eirik: The guild masters for paladins and knights are at the arena, the shamans on Nibelor surely can teach druids new things ...
+Eirik: and Romir the old hermit who lives in a cave north of Svargrond may have some knowledge concerning magic.
+Player: guildhall
+Eirik: In the city you will find three guildhalls. Frost Manor is on top of the cliff ...
+Eirik: Crystal Glance is north of the depot at the street which leads to the arena and Mammoth Belly is to the south, near the furrier quarter.
+Player: queen
+Eirik: Who?
+Player: cult
+Eirik: Let me think .......... Yes there have been a bunch of strange looking guys passing Svargrond and heading for the old mines. It somehow reminded me of a cult.
+Player: mines
+Eirik: There are valuable ores in the mines under the Formorgar glacier. But nobody who has ever tried to gather some has ever come back. I have no clue what's going on down there.
+Player: everspring
+Eirik: The happy hunting grounds are left for the afterlife. Ask the shamans if you want to know more about it.
+Player: years of the serpents
+Eirik: All of a sudden the years of the serpents ended. I am glad that we regained the contact with the rest of Tibia. ...
+Eirik: Still, if you are very attentive, you may see a sea serpent. Not all of them have disappeared.
+Player: uman / banor
+Eirik: I only know Chyll, the cold north wind, the father of frost.
+Player: ferumbras
+Eirik: Wait, wait! Don't say a word, it's, it's ...
+Eirik: that very small guy with the hairy feet? No?
+Player: excalibug
+Eirik: I would love to have that legendary weapon. If you find it, bring it to me!
+Player: arena
+Eirik: If you think you are strong enough, then try to fight there. You have to challenge waves of monsters that get stronger and stronger. ...
+Eirik: The entrance to the arena is a stairway north of the town, left of the town gate.
+Player: shops
+Eirik: Near the harbour you find the equipment shop, the branch of the explorer's society as well as the post office and the bank. ...
+Eirik: Right-hand of the depot, which is in the centre of Svargrond, you find the furniture store ...
+Eirik: All weapon and armor traders linger at the arena in the North and the tavern is to the west.
+Player: post / jewellery
+Eirik: The post office is next to the jewellery store. It is on the main road near the harbour.
+Player: tavern
+Eirik: Follow the main road to the west and at the furrier quarter turn south. It is the big fur tent in the west. You can't miss it.
+Player: depot
+Eirik: The depot is in the centre of Svargrond. No way to miss it.
+Player: sled
+Eirik: You can ask Iskan to bring you with his dog sled to Nibelor.
+Player: weapon / armor
+Eirik: You can find the weapon and armor shops at the arena to the north. Talk to Robert.
+Player: fluids / runes / magic
+Eirik: I heard Nelly talking about runes and fluids. Ask her.
+Player: spells
+Eirik: That is a little too general. For what kind of profession do you need spells?
+Player: knight
+Eirik: You have to look for Thorwulf.
+Player: druid
+Eirik: You have to look for Hjaern.
+Player: paladin
+Eirik: You have to look for Hawkyr.
+Player: sorcerer
+Eirik: You have to look for Romir.
+Player: bye
+Eirik: MAY YOUR WEAPON ALWAYS BE SHARP!

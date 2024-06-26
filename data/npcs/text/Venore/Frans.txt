@@ -1,0 +1,26 @@
+Player: hi
+Frans: Beeee greeeeted, Simula! What is your neeeed?
+Player: name
+Frans: I am a FRANS.
+Player: job
+Frans: I am selliiiing ruuuunes, waaaaands, roooods and spellbooooooks if youuuuu neeeeed a trader.
+Player: market
+Frans: Yes, that's a market heeeere, smarty ... Nice to seeeee I am not the only one without a braiiiin here.
+Player: offer
+Frans: What do youuuu think I am? A lousy barberrrr? I'm selliiiing ruuuunes, waaaaaands, roooods and spellbooks if youuuuu neeeeed a trader.
+Player: rune
+Frans: Yes, I'm selliiiing speeeeell ruuuunes, waaaaaaaaaands, roooooooooooods and spellboooooks if youuuuu neeeeed a trader.
+Player: frans
+Frans: Floatiiiing ReeeeAnimateeeed Necromantiiiic Seeeervant ... FRANS.
+Player: sorcerer / druid
+Frans: Sorcererssss, druidssss, they all come to ussss.
+Player: magic
+Frans: Is aaaall about magic more or lesssss, isn't it?
+Player: vladruc urghain
+Frans: Heeee is the bossss. Better don't messss with hiiiim!
+Player: ferumbras
+Frans: Wouldn't he beeee the perfect FRANS?
+Player: excalibug
+Frans: We FRANSes don't liiiike any bugssss.
+Player: bye
+Frans: Bye.

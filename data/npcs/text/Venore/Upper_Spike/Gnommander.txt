@@ -1,0 +1,48 @@
+Player: Hi  
+Gnommander: Hi there! Welcome to the spike.  
+Player: Spike  
+Gnommander: I'm the operating commander of the Spike, the latest great accomplishment of the gnomish race. ...  
+Gnommander: The Spike is a crystal structure, created by our greatest crystal experts. It has grown from a crystal the size of my fist to the structure you see here and now. ...  
+Gnommander: Of course this did not happen from one day to the other. It's the fruit of the work of several gnomish generations. Its purpose has changed in the course of time. ...  
+Gnommander: At first it was conceived as a fast growing resource node. Then it was planned to become the prototype of a new type of high security base. ...  
+Gnommander: Now it has become a military base and a weapon. With our foes occupied elsewhere, we can prepare our strike into the depths of the earth. ...  
+Gnommander: This crystal can withstand extreme pressure and temperature, and it's growing deeper and deeper even as we speak. ...  
+Gnommander: The times of the fastest growth have come to an end, however, and we have to slow down in order not to risk the structural integrity of the Spike. But we are on our way and have to do everything possible to defend the Spike.  
+Player: Commander  
+Gnommander: I'm responsible for the security and reward heroes to our cause. If you are looking for missions, talk to Gnomilly, Gnombold and Gnomagery.  
+Player: Reward  
+Gnommander: I can sell special outfit parts. If your fame is high enough, you might be worthy of such a reward.  
+Player: Worthy  
+Gnommander: You can acquire the basic outfit for 1000 gold, the first addon for 2000 gold and the second addon for 3000 gold. Which do you want to buy?  
+Player: Name  
+Gnommander: I'm Gnommander, the commander of this structure that we call the spike.  
+Player: Job  
+Gnommander: I'm the operating commander of the Spike, the latest great accomplishment of the gnomish race.  
+Player: Dwarf  
+Gnommander: The dwarfs have been good trading partners, but in our war we stand more or less without their support. The dwarfs have troubles of their own it seems, and I doubt their support would have been anything significant.  
+Player: Gnomes  
+Gnommander: After centuries of hiding and evasion, we are now striking back at our enemies. Only time will tell if this was a smart decision; but now that we have chosen this path, we gnomes will make the best of it.  
+Player: Time  
+Gnommander: Well, it's 1:00 am.  
+Player: Excalibug  
+Gnommander: I have only heard about it now and then. Seems like it's only some metal sword and probably too big and unhandy.  
+Player: Humans  
+Gnommander: Though the human realms are not really supportive to our cause, luckily you humans are so numerous that we still have some volunteers like you to support us.  
+Player: Stone  
+Gnommander: Stone has proven himself a competent man and earned gnomish respect. We need more men like him. He gives us hope that we might find some worthy allies in your kin.  
+Player: Below  
+Gnommander: It's hard to fight an enemy that never shows its face. It's like fighting shadows; and every victory feels somewhat hollow.  
+Player: Defence  
+Gnommander: The Spike is made of the hardest crystal known to gnomekind. Yet like each crystal, it has it weaknesses. We can't allow our enemies to disrupt its integrity. The deeper we've dug, the more angers and enemies we faced. ...  
+Gnommander: Some threats are minor, some are major. But even the smallest threat might endanger the Spike's existence, given enough time and enough leverage. Therefore, we have to fight a war on many fronts. ...  
+Gnommander: Aside from constant threats, there are purposeful attacks on the Spike. Every now and then, the creatures of the depths gather in great numbers in order to launch destructive attacks. ...  
+Gnommander: These are times for heroes I guess. People who make a stand against the tides of enemies.  
+Player: Growth  
+Gnommander: The Spike is still growing into the depths. The speed has almost come to a halt to the untrained eye, but we make slow yet steady progress. ...  
+Gnommander: Now it's important to concentrate on the defence of the Spike since the dangers that threaten not only its growth, but also its existence, are numerous indeed.  
+Player: Task  
+Gnommander: With our limited supply, we have to use every resource as efficiently as possible. In your case this means we have to put you to use according to your abilities. It would be a waste of your skills to let you do something trivial. ...  
+Gnommander: On the other hand, it would be an even greater waste to get you killed by something you could never hope to handle. Our officers will see to it that you are assigned to the areas that suit you best. ...  
+Gnommander: Be aware though that we are a separate division from gnomebase Alpha. You will have to earn our respect here by the tasks you did for us and the Spike alone.  
+Player: Bye  
+Gnommander: Good bye Player and take care.  

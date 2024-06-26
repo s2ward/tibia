@@ -1,0 +1,31 @@
+Player: hi
+Ysbasra: Greetings my friend. It's a relief to see a friendly face in times of trouble.
+Player: job / trouble / mission / quest / task
+Ysbasra: I was in search of my lost brother. After a long investigation I found most disturbing hints that he amongst others has been abducted for nefarious purposes.
+Player: purposes
+Ysbasra: The ruffians that my mercenaries rounded up admitted that they sold their captives to a scientist, that conducts abominable experiments on those captives.
+Player: scientist
+Ysbasra: This amoral creature that is known as doctor Marrow has a more than questionable reputation amongst his peers in science.
+Player: reputation
+Ysbasra: His disregard of human life and single minded pursuit of his research had him expelled from several institutions despite his scientific genius.
+Player: disregard
+Ysbasra: I fear the worst for my dear brother. I beg you to pick up his trail. I've arranged for a passage to the remote island. ...
+Ysbasra: I plead to you to travel to the island and save my brother from the clutches of doctor Marrow.
+Player: passage
+Ysbasra: A smuggler on Cormaya was the only one, brave enough to set sail to such a remote isle in unknown waters. I will instruct him to ferry you safely to that island. ...
+Ysbasra: Will you accept this mission? Yes or No?
+Player: No
+Ysbasra: I can only hope, you will reconsider this. Your reward would be immense.
+Player: Yes
+Ysbasra: Thank you so much. I beg you though, please hurry!
+Player: marrows island
+Ysbasra: We could locate the said island, alas I fear the mission to retrieve my brother safely is beyond the capabilities of the rather unsubtle mercenary company that I have hired.
+Player: hired
+Ysbasra: Of course I will compensate you more than generously, should you return my dear Horan to me. ...
+Ysbasra: Oh, did I mention, that I already arranged a passage to Marrows Island? Well, all you have to do is to contact the smuggler at Cormaya.
+Player: contact
+Ysbasra: Thank you so much for offering your help.
+Player: job / trouble / mission / quest / task (after accepting mission)
+Ysbasra: As you know, I was in search of my lost brother. After a long investigation I found most disturbing hints that he amongst others has been abducted for nefarious purposes.
+Player: bye
+Ysbasra: Good bye!

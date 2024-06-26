@@ -1,0 +1,126 @@
+NPC: Talphion  
+Player: hi/hello  
+Talphion: HIHOOOO Player! <waves> PLEASE DON'T INTERRUPT ME FOR TOO LONG IN MY JOB!  
+Player: god  
+Talphion: GODS? WHO NEEDS GODS IF WE CAN PRODUCE THE CORRECT MACHINE FOR EVERY OCCASION?  
+Player: life  
+Talphion: WHAT HIVE?  
+Player: army  
+Talphion: ONE DAY OUR MACHINES WILL CHANGE THE ARMY'S STRUCTURE DRASTICALLY, JAWOLL!  
+Player: ferumbras  
+Talphion: I BET I COULD BUILD A MACHINE TO SHRED HIM INTO PIECES!  
+Player: bezil/nezil  
+Talphion: BEZIL AND NEZIL ARE RUNNING A SHOP.  
+Player: bolt/crossbow  
+Talphion: YES, YES, I SELL THEM. ASK ME FOR A TRADE!  
+Player: TRADE  
+Talphion: HERE YOU GO! TAKE A GOOD LOOK!  
+Player: gold/money  
+Talphion: DONATIONS ARE ALWAYS WELCOME!  
+Player: big old  
+Talphion: THAT'S THE NAME OF THIS MOUNTAIN!  
+Player: colossus  
+Talphion: NICE PIECE OF WORK. WOULD BE MORE FUN IF IT COULD MOVE AROUND... WE HAVE PLANS...  
+Player: dress pattern  
+Talphion: DRESS FLATTEN? WHO WANTS ME TO FLATTEN A DRESS?  
+Player: durin  
+Talphion: I'M SURE HE WOULD BE SMART ENOUGH TO SEE THE CHANCES WE PROVIDE FOR ALL DWARFS.  
+Player: duria  
+Talphion: KNIGHTS DO NOT HAVE THE BRAINS TO EVEN UNDERSTAND WHAT WE ARE OFFERING THEM.  
+Player: OFFERING  
+Talphion: THE MOST SOPHISTICATED ITEMS THAT PEOPLE BUY ARE CROSSBOWS.  
+Player: earth  
+Talphion: SORRY, BUT EARTH MEANS NOTHING TO ME THAN DUST AND MUD  
+Player: elves  
+Talphion: NO, I DON'T NEED ANY SHELVES!  
+Player: equipment  
+Talphion: YOU CAN'T HANDLE MOST OF OUR STUFF, BUT I COULD SELL YOU SOME CROSSBOWS.  
+Player: etzel  
+Talphion: WHO NEEDS MAGIC? PAH!  
+Player: excalibug  
+Talphion: OLD FASHIONED BUTTER KNIFE! IF THEY LET ME, I WOULD CREATE WEAPONS THAT LEVEL ENTIRE CITIES!  
+Player: fire/flame  
+Talphion: NICE RESOURCE FOR OUR MACHINES, BUT NO NEED TO MAKE A BIG DEAL ABOUT IT, JAWOLL!  
+Player: fight  
+Talphion: NO, DON'T TURN OFF THE LIGHT.  
+Player: general/motos  
+Talphion: SUCH A FOOL, WITH SOME MORE RESOURCES, I COULD BUILD FOR HIM WAR MACHINES BEYOND HIS WILDEST DREAMS! <laughs insanely>  
+Player: geomancer/pyromancer  
+Talphion: OLD FOOLS, TOO MUCH CONCERNED ABOUT TRADITION.  
+Player: emperor  
+Talphion: AT LEAST HE'S SMART ENOUGH TO LEAVE US ALONE, SO THERE'S HOPE FOR HIM.  
+Player: hall of the ancients  
+Talphion: JUST A BUNCH OF BONES.  
+Player: maryza  
+Talphion: LOVELY, BUT PREJUDICED LIKE MOST DWARFS ARE.  
+Player: jimbin  
+Talphion: HIS BREWERY SAVED OUR DAY MORE THAN ONCE.  
+Player: humans  
+Talphion: A PROMISING RACE, SOME OF THEM ACTUALLY ADMIRE MECHANICS.  
+Player: plant  
+Talphion: HEY! HOW DID YOU LEARN ABOUT OUR SECRET PLANT?  
+Player: tibia  
+Talphion: CAN'T TELL MUCH ABOUT IT. I SELDOM GET OUT OF HERE, I'M A BUSY DWARF.  
+Player: kroox  
+Talphion: WE COULD TEACH HIM MUCH IF HE ONLY LISTENED.  
+Player: poem  
+Talphion: I ALREADY TRIED TO BOW 'EM BUT THEY ARE TOO HARD!  
+Player: minotaurs/orcs  
+Talphion: LET THEM COME, I'M WORKING ON A LITTLE SURPRISE FOR THEM! <chuckles madly>  
+Player: monster  
+Talphion: I COULDN'T CARE LESS ABOUT THEM.  
+Player: quest/task/what do  
+Talphion: BRING ME THE SCREWDRIVER OF KURIK AND I WILL REWARD YOU WITH A STEAM-POWERED SPIKE SWORD!  
+Player: news  
+Talphion: ASK JIMBIN ABOUT HIS BREWS, NOT ME!  
+Player: time  
+Talphion: ONE DAY I'LL CREATE A CLOCK FOR THE COLOSSUS!  
+Player: technical details  
+Talphion: TECHNICAL DETAILS ABOUT WHAT???  
+Player: technomancer  
+Talphion: WE ARE THE FUTURE. WE WILL BECOME A MAJOR POWER IN DWARVEN SOCIETY SOON! THEY WILL SEE, THEY WILL ALL SEE! WE HAVE SO MUCH TO OFFER! <chuckles and rolls his eyes>  
+Player: uniform  
+Talphion: NO, HERE IS NO UNICORN!  
+Player: uzgod  
+Talphion: WE COULD MAKE MACHINES WHICH WOULD ENABLE HIM TO DO HIS WORK IN HALF THE TIME.  
+Player: bye/farewell  
+Talphion: YEAH, GO AWAY!  
+Special dialogue 1:  
+Player: help  
+Talphion: WHOM YOU ARE CALLING A WHELP, YOU CHEEKY MONKEY!  
+Special dialogue 2:  
+Player: kazordoon  
+Talphion: WHAT?  
+Player: kazordoon  
+Talphion: WHO'S DOOMED?  
+Player: kazordoon  
+Talphion: OH, THE CITY? NICE, ISN'T IT?  
+Special dialogue 3:  
+Player: job  
+Talphion: WHERE SHOULD I HOP?  
+Player: job  
+Talphion: OH, JOB? I'M THE CHIEF TECHNOMANCER!  
+Special dialogue 4:  
+Player: name  
+Talphion: I HAVE NO TIME FOR A GAME!  
+Player: name  
+Talphion: I'M TALPHION SPARKBENDER, SON OF THE MACHINE FROM THE SAVAGE AXES.  
+Special dialogue 5:  
+Player: heal  
+Talphion: I'M AN ENGINEER, NOT A DOCTOR!  
+Status - burning:  
+Player: heal  
+Talphion: YOU ARE BURNING! THAT'S FUN, HOW DO YOU DO THAT?  
+Status - poisoned:  
+Player: heal  
+Talphion: YOU ARE POISONED! DID YOU DRINK STUFF IN A GREEN BOTTLE? THAT'S SUPERGLUE, NOT SUPPER-GLUE!  
+Player: New dress pattern  
+Talphion: DRESS FLATTEN? WHO WANTS ME TO FLATTEN A DRESS?  
+Player: New dress pattern  
+Talphion: A PRESS LANTERN? NEVER HEARD ABOUT IT!  
+Player: New dress pattern  
+Talphion: CHESS? I DONT PLAY CHESS!  
+Player: New dress pattern  
+Talphion: A PATTERN IN THIS MESS?? HEY DON'T INSULT MY MACHINEHALL!  
+Player: New dress pattern  
+Talphion: AH YES! I WORKED ON THE DRESS PATTERN FOR THOSE UNIFORMS. STAINLESS TROUSERS, STEAM DRIVEN BOOTS! ANOTHER MARVEL TO BEHOLD! I'LL SENT A COPY TO KEVIN IMEDIATELY!  

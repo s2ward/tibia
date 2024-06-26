@@ -1,0 +1,20 @@
+Fadil: Looking for otherworldly stuff.
+Fadil: If you discovered some energetic or plasmatic objects somewhere, bring them to me! I'll make a good offer!
+Player: hi
+Fadil: Welcome! I suppose you are looking for a trade.
+Player: name
+Fadil: My name is Fadil.
+Player: job
+Fadil: I am a Darashian trader. I specialise in strange and unknown objects out of other dimensions. I know that sounds weird. But believe me, such things do exist!
+Player: time
+Fadil: It is 6:26 am.
+Player: offer / buy / sell
+Fadil: I'm interested in objects out of pure plasma or energy. If you really have the like of it ask me for a trade.
+Player: trade
+Fadil: Of course, let's have a look.
+Player: weapons
+Fadil: I don't have any weapons to offer.
+Player: armor
+Fadil: I only buy plasmatic and energetic objects. If you have to offer something like this, ask me for a trade.
+Player: bye
+Fadil: Goodbye. It would be nice to see you again.

@@ -1,0 +1,44 @@
+Player: hi / hello  
+Reed: Hello. Unless you have official business here or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Reed: If you stick your nose into that quarter, you will catch the disease and carry it with you for the rest of your life. I'm sure of that.  
+Player: arena quarter  
+Reed: My little son was attacked by a mutated tiger in this quarter. He changed in a horrible way afterwards and I don't want to talk about it.  
+Player: augur  
+Reed: <whispers> I'm actually not allowed to talk about my superiors, but... something is fishy about them, too.  
+Player: cemetery quarter  
+Reed: Nothing holy is coming out of this... strange church. At night the living dead come to me and cling to the iron bars. One day they will probably get me.  
+Player: factory quarter  
+Reed: Did you see those giant... creatures walking in the factory quarter?? They could kill a human just by squeezing it between their claws! Arr!  
+Player: fenrock  
+Reed: One day I went there and broke my arm by slipping on ice.  
+Player: foreign quarter  
+Reed: One day there will be a gigantic war between all the races in this quarter and it will devour the city.  
+Player: island  
+Reed: The outer islands are called Mistrock, Fenrock and Vengoth.  
+Player: job / official  
+Reed: I'm a corporal of the Yalaharian Guard Force.  
+Player: magician quarter  
+Reed: Can you imagine how it feels for me to keep guard so close to all those insane mages, cultists and demonic creatures? Can you?! No, of course you can't!  
+Player: mission  
+Reed: Mission? I will not go on any mission for you. Or what do you want from me?  
+Player: mistrock  
+Reed: I think some sinister and old force is hidden under all that mist.  
+Player: name  
+Reed: My name is Reed.  
+Player: pass / gate  
+Reed: You want to pass the gate? Are you headed for the cemetery or the magician quarter?  
+Player: quarter  
+Reed: I really can't tell which quarter is the worst.  
+Player: random word  
+Reed: It's nice talking to you, but honestly, you give me the creeps. So please decide what you want and move on.  
+Player: sunken quarter  
+Reed: It's a catastrophe. I used to live there and barely got away with my life when the quarter crashed into the ocean.  
+Player: trade quarter  
+Reed: I think Mr. West is planning to take over the whole city, if it hasn't been destroyed by war, contamination, monsters or greater evil by then.  
+Player: vengoth  
+Reed: I will never ever go there, and if I were sent there, I'd resign from the Guard Force.  
+Player: Yalahar  
+Reed: This city contains so much evil that I fear one day it will explode and end up in chaos and darkness.  
+Player: bye  
+Reed: Goodbye citizen!  

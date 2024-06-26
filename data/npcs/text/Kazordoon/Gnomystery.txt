@@ -1,0 +1,43 @@
+Player: hi
+Gnomystery: Hello! Good to see you. There is much to talk about.
+Player: name
+Gnomystery: Well, I'm Gnomystery.
+Player: job
+Gnomystery: I'm an explorer and currently investigating activities of those below in this area.
+Player: news
+Gnomystery: You didn't find anything new? Come back if you have more information.
+Player: activities
+Gnomystery: Our new detection devices are a marvel of gnomish ingeniuty. Their readings are sometimes a little bit flawed now and then. ...
+Gnomystery: Certainly only a minor problem that we will iron put soon! ...
+Gnomystery: However, my data suggests a hot spot of hostile activities right beneath kazordoon. But despite my best efforts some dwarfs prooved less then cooperative.
+Player: cooperative
+Gnomystery: There might have been some minor incident in these crypts I possibly might have been involved with. No reason to endanger all of us though. ...
+Gnomystery: Still this dwarfish cryptkeeper denies my any entrance. Let alone that he would allow us to do some drilling in his crypts. ...
+Gnomystery: Of course he's never expect a bigfoot such as you to to be on a gnomish mission. That's why I asked you for a favour.
+Player: favour
+Gnomystery: We suspect that there is an entrance to an unknown place in the crypt behind me. But as it is, the crypt is closed and Brodraem, the crypt keeper is not letting us in. ...
+Gnomystery: Maybe you can find a way to be let in and take a look around for us? Are you up for that?
+Player: no
+Gnomystery: Please come back if you changed your mind!
+Player: talk
+Gnomystery: I'm always here for a talk but maybe you could do me a favour.
+Player: dwarf
+Gnomystery: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomystery: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushrooms
+Gnomystery: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomystery: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomystery: The more we learn about them, the more it becomes clear how little we know.
+Player: crystals
+Gnomystery: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: sky
+Gnomystery: The sky is a somewhat frightening concept to us gnomes.
+Player: thais
+Gnomystery: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomystery: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: bye
+Gnomystery: Always a pleasure to talk to you, Player.

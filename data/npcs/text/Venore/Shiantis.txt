@@ -1,0 +1,26 @@
+Player: hi  
+Shiantis: Welcome player. What is your need today? Ask me for a trade to check out my offers.  
+Player: job  
+Shiantis: I am selling several kinds of equipment and decoration. What is your need?  
+Player: name  
+Shiantis: I am Shiantis.  
+Player: offer or buy  
+Shiantis: As you can see, our inventory is large, just have a look. We sell containers, decoration, illumination, paperware, footballs, and watches. Ask me for a trade.  
+Player: football  
+Shiantis: Do you want to buy a football for 111 gold?  
+Player: trade  
+Shiantis: Of course, just browse through my wares.  
+Player: job  
+Shiantis: I am selling several kinds of equipment and decoration. What is your need?  
+Player: time  
+Shiantis: I won't tell you for free, but maybe you want to buy a watch?  
+Player: king or tibianus  
+Shiantis: I would love to see the royal taxes lowered.  
+Player: taxes / news  
+Shiantis: I heard the merchants will petition the king to lower the taxes.  
+Player: excalibug  
+Shiantis: Sorry, we run out of stock. I expect another load of wodden excalibug simulacra to arrive next week.  
+Player: Ferumbras  
+Shiantis: Ferumbras dolls were not the saleshit we expected. Sold all stock to a strange guy who bought a bunch of needles, too.  
+Player: bye  
+Shiantis: Good bye, player.  

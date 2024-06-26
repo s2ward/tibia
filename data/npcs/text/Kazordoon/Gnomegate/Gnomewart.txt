@@ -1,0 +1,28 @@
+Player: hi
+Gnomewart: Oh! Hi there! I guess you are here for the endurance test!
+Player: name / job
+Gnomewart: I'm Gnomewart and I'm responsible for the endurance test!
+Player: endurance
+Gnomewart: You have passed the test. If you consider what huge feet you have to move it's quite impressive.
+Player: yes [bug]
+Gnomewart: Very well then, my name is Gnomewart and I'm responsible for the endurance test!
+Player: dwarf
+Gnomeward: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomeward: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomeward: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomeward: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomeward: The more we learn about them, the more it becomes clear how little we know.
+Player: crystal
+Gnomeward: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: thais
+Gnomeward: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomeward: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomeward: The sky is a somewhat frightening concept to us gnomes.
+Player: bye
+Gnomewart: Good bye my friend!

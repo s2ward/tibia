@@ -1,0 +1,28 @@
+Player: hi / hello  
+A Ghostly Sage: Ah, I feel a mortal walks these ancient halls again. Pardon me, I barely noticed you. I am so lost in my thoughts.  
+Player: god flower  
+A Ghostly Sage: Do you have a god flower for me?  
+Player: yes  
+A Ghostly Sage: You cannot fool me, mortal.  
+Player: job / thoughts  
+A Ghostly Sage: I have to fulfil my duties.  
+Player: name  
+A Ghostly Sage: My name... it was so long since I last heard it... it seems to be erased from my memory.  
+Player: duties / complex  
+A Ghostly Sage: We sealed the doors to the inner sanctum using magic to make sure only the right keys could open them.  
+Player: key  
+A Ghostly Sage: The keys were lost, probably forever. Of course, I could search the spirit world for clues, but then ... who cares about keys? ...  
+A Ghostly Sage: I rather spend my time reflecting about the philosophical nature of beauty. *sigh* If I only had a god flower. It is so hard to find a start without a sample.  
+Player: pits / nightmare  
+A Ghostly Sage: Ah yes, the Nightmare Knights and the Pits of Inferno. I vaguely remember these insignificant concepts ...  
+A Ghostly Sage: Ever since I died I have struggled to keep my superior mind intact by pursuing advanced metaphysical philosophy, but I do remember things about the time when we built this complex and locked its secrets and treasures away.  
+Player: locked  
+A Ghostly Sage: I cannot ... tell you. I am dead since ... oh, I do knot know ... But I still remember my duties.  
+Player: teleport / exit / out / help  
+A Ghostly Sage: Are you stuck here...? Do you want me to bring you out of these cursed halls?  
+Player: no  
+A Ghostly Sage: Then stay here.  
+Player: yes  
+A Ghostly Sage: So be it. Travel well.  
+Player: bye / farewell  
+A Ghostly Sage: So where was I ... ?  

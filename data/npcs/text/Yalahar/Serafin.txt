@@ -1,0 +1,36 @@
+Player: hi  
+Serafin: Welcome to my fruit and vegetable store, Player! Ask me for a trade if you'd like to see my wares.  
+Player: name  
+Serafin: I'm Serafin, pleased to meet you.  
+Player: julius  
+Serafin: I think that poor guy has serious trust issues... must be hard if you are obsessed with the idea that everyone is your enemy or a monster.  
+Player: armenius  
+Serafin: I think he runs a bar in the former trade quarter.  
+Player: lisander  
+Serafin: Oh yes, I see him often. Nice guy.  
+Player: maris  
+Serafin: A man of the seas.  
+Player: ortheus  
+Serafin: I like him, but unfortunately I don't have much time to chat with him anymore.  
+Player: trade  
+Serafin: Oh, sure, take a look!  
+Player: vampire  
+Serafin: I don't know what you're talking about.  
+Player: blood  
+Serafin: This is a fruit store. No slaughterhouse.  
+Player: cookies  
+Serafin: It'd be better for you to leave now.  
+Player: yalahar  
+Serafin: Oh, this lovely city is a great place to live and to do business.  
+Player: quarter  
+Serafin: Well, actually this is not a quarter but the city centre.  
+Player: garlic  
+Serafin: I'm so sorry, but I don't sell garlic.  
+Player: alori mort  
+Serafin: There's something about these words which makes me feel awkward. Or maybe it's you who causes that feeling. You better get lost.  
+Player: job  
+Serafin: Oh, I'm selling fruits and veggies as you can see. If you want to have a closer look, ask me for a trade.  
+Player: mission / quest  
+Serafin: Sorry, but I already have a delivery boy.  
+Player: bye  
+Serafin: Good bye, my dear customer.  

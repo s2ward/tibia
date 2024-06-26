@@ -1,0 +1,24 @@
+Normod: Hi!
+Player: job
+Normod: I'm just one of the workers here. I'll do all the dirty stuff, ye' know?
+Player: dirty
+Normod: Just everything that those fine scientists are too good enough to do of course.
+Player: rathleton
+Normod: Never seen anything else. Neither I care. One city is enough for me. What could be different anywhere else.
+Player: plant
+Normod: I had worse jobs, regardless of the things they keep telling.
+Player: things
+Normod: It's just nonsense. We simple people don't understand this glooth stuff and we don't need to. ...
+Normod: But some people are afraid of things that they don't understand, then they start to make up stories.
+Player: stories
+Normod: Yeah, stupid nonsense stories.
+Player: magistrate
+Normod: important people doin' important stuff. Don't care. As long as I'm fed those people may do what they want with their busy things and so on.
+Player: minotaurs
+Normod: Just what ya' need to make a lousy day even lousier. Their constant raids are a pain, ya' know. Someone should go and kill 'em all.
+Player: maxxen
+Normod: What is that? never heard about it.
+Player: captain caveworm
+Normod: Captain Caveworm is the peoples hero, fighting for the poor and weak.
+Player: bye
+Normod: Good bye.

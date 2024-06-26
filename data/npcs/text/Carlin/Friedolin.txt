@@ -1,0 +1,86 @@
+Player: hi
+Friedolin: Why hello Player! I hope you're up to some serious FUN! Oh by the way, I have some news about the contest unless you want to talk about bonus points first!
+Player: name
+Friedolin: My name is Friedolin. Fun is what I love and orange what I represent!
+Player: job
+Friedolin: I am a fan of Furb of Fun and I'm going to inform other Tibians about the BEST colour to join - orange of course!
+Player: tibianus
+Friedolin: He better chose orange!
+Player: news
+Friedolin: The wizard contest has begun, join orange if you want to have some fun! Seriously. I can also help you check the status of the contest if you're already a fan!
+Player: furb
+Friedolin: Furb is the wizard of Fun. Pranks, jokes, funny things - he loves all of it. If you want to have some fun - it's the way to go.
+Player: fun / orange / colour
+Friedolin: Well orange is my colour! Fun is what I stand for. Orange represents Furb the wizard of fun! Why would anyone choose anything else?
+Player: fern / green
+Friedolin: Fern is the wizard of Nature. Behold his powers and the elemental might that is nature itself.
+Player: nature
+Friedolin: Nature is the element of Fern, the wizard with the green colour. Yeah, never was that much of a nature lover myself but hey.
+Player: feiz / violet / power
+Friedolin: Feiz is the wizard of Power. Strength, influence and infinite might are his attributes. If you value these attributes, join him.
+Player: status
+Friedolin: So far it looks like orange is winning! Violet is next behind!
+Player: join
+Friedolin: You can join any wizard by using the powder you can find in the envelope on yourself and the rest on someone who did not already join a wizard and has the right colour. ...
+Friedolin: Combining yellow and red will result in orange, yellow and blue will be green and red with blue results in violet.
+Player: fan
+Friedolin: There are two others like me, some nature freak in Venore and a random girl for violet in Thais. What, do you want to go there? Why? Why would you do that when you could have FUN instead!
+Player: powder
+Friedolin: The envelopes that came with the creatures contain a magical powder. The three wizards created it to let you represent each of their elements.
+Player: envelopes
+Friedolin: The three wizards dropped these envelopes everywhere in the world. A lot of creatures have been carrying envelopes all over Tibia.
+Player: bonus
+Friedolin: You currently have 40 bonus points to spend. Would you like me to explain the bonus point system or do you want to exchange coloured powders?
+Player: explain
+Friedolin: Alright. Shall I talk about the collecting points or your rewards for exchanging points? Or do you ask yourself why Zaoan chess?
+Player: points
+Friedolin: As you know, the three wizards scattered magical envelopes all over Tibia. During this event, a lot of different kinds of monsters will drop those magic envelopes. ...
+Friedolin: These envelopes contain coloured powders you can use to colour yourself. Doing this, will yield 10 bonus points for you. ...
+Friedolin: You will receive another 10 bonus points if you find another player with the right colour for you to combine with and join one of the three wizards. ...
+Friedolin: In addition to the 20 points you can gather by joining a wizard you can collect up to 10 more points by returning any coloured powders you find. I am a fan of the Furb, the orange wizard of Fun and will accept red and yellow powders. ...
+Friedolin: The fans of Feiz, the violet wizard of power will accept red and blue powders, Fern of Nature's green fans will accept yellow and blue.
+Player: rewards
+Friedolin: To repay the continuing support of the Tibians, the wizards have created a special version of their favourite game - Zaoan chess. ...
+Friedolin: By taking part in the event and with a little luck you will be able to receive a unique set of Zaoan chess figurines, including a unique box for all 32 obsidian and jade pieces. ...
+Friedolin: For 5 points you will receive a surprise figurine of a random colour which can be anything, even the queen. ...
+Friedolin: For 20 points you will be able to select a figurine of a random colour except the queen. ...
+Friedolin: For 60 points you will receive a queen. Guaranteed and on top of that you will be able to choose the colour as well. ...
+Friedolin: You will receive the chess box for free from the appropriate fan if you have joined a wizard. Just ask me how to spend your points if you are ready.
+Player: spend / exchange / queen / chess
+Friedolin: Mh, you are not of orange colour. Either you did not join a wizard yet or - the unthinkable - you joined a different colour than orange! You can only claim a reward from me once you have joined the orange wizard.
+Player: why zaoan
+Friedolin: Well, it's a long story. It has a lot to do with wizardry, a little with chess and quite much with a lady. I know that there must be a book about it, somewhere in a library in Thais.
+Player: exchange
+Friedolin: Since I am a fan of Furb, the wizard of Fun, I will only accept yellow and red powders. Just tell me if you want to exchange your yellow or red powders for bonus points.
+Player: yellow / red
+Friedolin: It looks like you do not have enough coloured powders with you to exchange. Please return to me with at least 5 powders in your inventory.
+Player: yellow / red
+Friedolin: There you go, five ( yellow / red ) coloured powders have yielded an additional bonus point! Tell me if you have any more powders to exchange.
+Player: spend
+Friedolin: You currently have 60 bonus points to spend. Would you like to try your luck for 5 points or select a figurine for 20 points or do you want to exchange 60 points for a queen in the colour of your choice!
+Player: luck
+Friedolin: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: queen
+Friedolin: Do you want an obsidian queen or a jade queen?
+Player: obsidian / jade
+Friedolin: I will give you an ( obsidian / jade ) queen for all your 60 points, is that what you want?
+Player: no
+Friedolin: Alright, you still have 60 bonuspoints left to spend.
+Player: chess
+Friedolin: Looks like you already received your free chessbox. Yes? Oh? Still here? Well, my er... resources... are rather limited. So I can only offer one free chessbox per character, alright? I'm sorry.
+Player: luck
+Friedolin: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: yes
+Friedolin: There you are, it's ( a / an ) ( obsidian / jade ) ( pawn / rook / bishop / knight / queen )!
+Player: select
+Friedolin: Which figurine do you want to receive in exchange for 20 points? A pawn, a rook, a bishop, a knight or a king?
+Player: pawn / rook / bishop / knight / king
+Friedolin: Here you are, ( an / a ) ( obsidian / jade ) ( pawn / rook / bishop / knight / king )!
+Player: no
+Friedolin: Alright, you still have 40 bonus points left to spend.
+Player: luck / obsidian / jade / pawn / queen / king / rook / bishop / knight
+Friedolin: I am sorry but you do not have enough bonus points.
+Player: bye
+Friedolin: Where did he go? Where did he go?
+Player: (vanish)
+Friedolin: Goodbye! Oh and - HEY WHAT'S THAT BEHIND YOU?!

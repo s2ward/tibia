@@ -1,0 +1,187 @@
+Player: (idle)
+Zerbrus: Want to know what monsters are good for you at your level? Just ask me!
+Zerbrus: Are you injured or poisoned? I can help you.
+Zerbrus: The premium side of Rookgaard lies beyond.
+Zerbrus: No monster shall go past me.
+Zerbrus: For Rookgaard! For Tibia!
+Player: hi / hello  
+Zerbrus: <nods> At your service, Player, protecting the village against monsters.  
+Player: academy  
+Zerbrus: It's north of the temple.  
+Player: Al Dee  
+Zerbrus: There's something about this guy I don't like.  
+Player: Amber  
+Zerbrus: She's very attractive. Too bad my duty leaves me no time to date her.  
+Player: bank  
+Zerbrus: Before you fight monsters, deposit your money there. If you die, you won't lose it if it's save in the bank.  
+Player: banor  
+Zerbrus: The heavenly warrior! Read books to learn about him.  
+Player: book  
+Zerbrus: There are many books in the academy. Theory can be just as important as practice.  
+Player: bear  
+Zerbrus: There is a bear cave close to this bridge. Be careful, though, they hit hard!  
+Player: Billy  
+Zerbrus: He's a farmer. A little more friendly than his cousin Willie, he also buys and sells food.  
+Player: bug  
+Zerbrus: They are a little tougher than they look like, but they're still good beginner monsters.  
+Player: cipfried  
+Zerbrus: He guards the temple and can heal you if you are badly injured or poisoned, just like me.  
+Player: citizen  
+Zerbrus: I'm not a gossiper, but if you want to know something about a certain Rookgaardian, ask.  
+Player: cockroach  
+Zerbrus: Nasty but easy to squish.  
+Player: Dallheim  
+Zerbrus: He does a fine job, protecting the north bridge. He's been on duty longer than me and knows the north side of Rookgaard well.  
+Player: Dixi  
+Zerbrus: She's Obi's granddaughter and deals with armors and shields. Her shop is south west of town, close to the temple.  
+Player: dungeon  
+Zerbrus: I can mark you some dungeons on your map if you ask me about monsters suited for your level.  
+Player: god  
+Zerbrus: I'm a follower of Banor.  
+Player: heal  
+Zerbrus: You aren't looking really bad. Eat some food to regain strength.  
+Player: help  
+Zerbrus: I have to stay here, sorry. But I can heal you if you are wounded. I have also valuable information about monsters.  
+Player: how are you  
+Zerbrus: Fine.  
+Player: hyacinth  
+Zerbrus: One of these reclusive druids.  
+Player: info  
+Zerbrus: I'm an expert concerning the wildlife and monsters on this island.  
+Player: job / protect  
+Zerbrus: I'm the guard of this bridge. I defend Rookgaard against the beasts of the wilderness and the dungeons, and even of the stinking sewers.  
+Player: king  
+Zerbrus: HAIL TO THE KING!  
+Player: Lee'Delle  
+Zerbrus: Her shop is just north of the bridge. She really has good offers.  
+Player: Lily  
+Zerbrus: Gentle girl, but a little to esoteric for my taste. However, her potions might come in handy.  
+Player: Loui  
+Zerbrus: Such a chicken-hearted person.  
+Player: magic  
+Zerbrus: You will learn about magic soon enough.  
+Player: minotaur  
+Zerbrus: Minotaurs are very strong. You will need a group of people or at least level 6 and good equipment to be able to kill them.  
+Player: monster  
+Zerbrus: It looks like you have mastered the drill.  
+Player: name  
+Zerbrus: Zerbrus, at your service.  
+Player: Norma  
+Zerbrus: I don't approve of her opening a bar. Those drunken adventurers stumbling over the bridge at nighttime are not especially helpful in improving the situation.  
+Player: Obi  
+Zerbrus: He sells weapons. His shop is south west of town, close to the temple.  
+Player: oracle  
+Zerbrus: You can find the oracle on the top floor of the academy, just above Seymour. Go there when you are level 8.  
+Player: orc  
+Zerbrus: The orcs have a hideout under the troll cave, just descend deep. Still, be very careful!  
+Player: Paulie  
+Zerbrus: The local bank clerk.  
+Player: premium  
+Zerbrus: Premium warriors pay. They gain many advantages this way.  
+Player: rabbit  
+Zerbrus: They don't pose a threat. However, if you need food, they are good meat providers.  
+Player: rat  
+Zerbrus: They're not that dangerous, but don't let yourself get cornered by many of them. They still can hurt.  
+Player: rookgaard  
+Zerbrus: I'd give my life for protecting this village and its citizens.  
+Player: rotworm  
+Zerbrus: Rotworms should not to be taken lightly. Luckily, there aren't any on this side. Talk to Dallheim if you need information about them.  
+Player: Santiago  
+Zerbrus: He dedicated his life to welcoming newcomers to this island.  
+Player: seagull  
+Zerbrus: Just recently they've come to this island for nesting. They aren't dangerous.  
+Player: sewer  
+Zerbrus: The sewers are crowded with rats. They make fine targets for young heroes.  
+Player: Seymour  
+Zerbrus: His job of teaching young heroes is important for the survival of all of us.  
+Player: skeleton  
+Zerbrus: The skeletons on this island are usually fairly hidden. They are often found near graves and always underground. Beware of their evil life drain.  
+Player: snake  
+Zerbrus: Snakes can poison you too, but their poison is usually not as dangerous as that of poison spiders. Just be careful and kill them fast.  
+Player: spearman  
+Zerbrus: Spearmen are the toughest orcs on this island. Beware of their distance attacks!  
+Player: spider  
+Zerbrus: There are two types of spiders on this island: normal spiders and poison spiders. As their name says, the latter ones can poison you which will cause a constant loss of your health. Beware of them!  
+Player: temple  
+Zerbrus: A place of protection. Nothing can harm you there.  
+Player: thank  
+Zerbrus: It's my job.  
+Player: Tibia  
+Zerbrus: In the world of Tibia, many challenges await the brave adventurer.  
+Player: time  
+Zerbrus: My duty is eternal. Time is of no importance.  
+Player: tom  
+Zerbrus: He's the local tanner. You could try selling fresh corpses or leather to him.  
+Player: trade / armor / shield / potion / weapon / sword / sabre / food / equipment / wares / sell / buy / offer / stuff  
+Zerbrus: Sorry, I don't trade. Ask the shop owners for a trade instead.  
+Player: troll  
+Zerbrus: Once you have upgraded your equipment a little - maybe leather stuff - and got a better weapon, you should be able to kill trolls.  
+Player: wasp  
+Zerbrus: Wasp hives exist only behind the north bridge, so ask Dallheim for information. I'm glad there are no wasps here. They always make me jump.  
+Player: wilderness  
+Zerbrus: There are wolves, bears, snakes, deer, and spiders in the wilderness, past this bridge.  
+Player: Willie  
+Zerbrus: He's quite rude. Also, he buys and sells food.  
+Player: wolf / wolv  
+Zerbrus: You need a stronger weapon than the starter club to kill wolves. Maybe a sabre or a short sword would do.  
+Player: Zerbrus  
+Zerbrus: At your service.  
+Player: hint  
+Zerbrus: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.  
+Player: hint  
+Zerbrus: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Zerbrus: To open or close skills, battle or VIP list, click on the corresponding button to the right.  
+Player: hint  
+Zerbrus: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Zerbrus: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Zerbrus: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Zerbrus: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Zerbrus: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Zerbrus: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Zerbrus: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Zerbrus: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Zerbrus: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Zerbrus: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Zerbrus: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Zerbrus: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Zerbrus: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Zerbrus: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Zerbrus: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Zerbrus: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Zerbrus: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Zerbrus: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Zerbrus: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Zerbrus: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Zerbrus: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Zerbrus: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Zerbrus: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Zerbrus: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Zerbrus: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Zerbrus: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Zerbrus: Bye, Player.  

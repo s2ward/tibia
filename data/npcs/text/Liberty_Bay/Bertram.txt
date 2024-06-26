@@ -1,0 +1,32 @@
+NPC: Bertram  
+Player: gossip/rumor/rumour  
+Bertram: A good servant would never lower himself to participate in gossip.  
+Player: Herbert  
+Bertram: He is not only extremely stupid and uncultivated, but also quite greedy.  
+Player: job  
+Bertram: I'm a servant of Mr. Loveless.  
+Player: key/fish  
+Bertram: Pssst. You got that key, and now leave please.  
+Player: kiss  
+Bertram: I'd rather kiss a pig.  
+Player: Liberty Bay  
+Bertram: A lovely little place, isn't it?  
+Player: Loveless/Theodore  
+Bertram: Mr. Loveless is a very important person. It's my privilege to help him sometimes.  
+Player: manners  
+Bertram: As a servant I'm schooled in proper behaviour and adequate speech.  
+Player: merchant/trader  
+Bertram: The Venorean traders have vital interests in Liberty Bay.  
+Player: name  
+Bertram: My name isBertram.  
+Player: pirates  
+Bertram: What a disgusting topic. I'd expected something else of you.  
+Player: random word  
+Bertram: I'm sorry but I'm not supposed to indulge in gossip.  
+Player: servant  
+Bertram: I'm responsible for Mr. Loveless's wellness and happiness ...  
+Bertram: I see to it that his slippers are ready in the morning, prepare his meals and serve them to him, and other things like that.  
+Player: thais  
+Bertram: Thais is by far not at the forefront when it comes to manners and cultivated behaviour.  
+Player: venore  
+Bertram: Venore is a wonderful town. I'm positive, one day, Mr. Loveless will return to Venore.  

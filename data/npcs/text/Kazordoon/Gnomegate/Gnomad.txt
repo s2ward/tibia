@@ -1,0 +1,32 @@
+Player: hi
+Gnomad: Hi there! I'm ready to brief you with tactical advice.
+Player: name
+Gnomad: My name is Gnomad! I'm the gnomish tactical advisor for this area!
+Player: job
+Gnomad: I'm the gnomish tactical advisor for this area!
+Player: tactical
+Gnomad: You will encounter quite a lot of beasties in the area ahead of us. The end of the cave-system is where the trouble begins though. The monsters here all serve some massive creature only known as Deathstrike. ...
+Gnomad: The creature is hidden in a well protected chamber. The good news is, we've managed to erect a crystal structure close to the cave that is able to breach its defence and teleport someone into the chamber. ...
+Gnomad: The bad news is that the crystals need a specific charge before they can work. As soon as the crystals begin to charge up, Deathstrike's minions will frenzy and spawn in waves to crush all opposition. ...
+Gnomad: You will have to kill them quite fast, to not be overwhelmed by their numbers! Our own tries to breach the defence has proven that you'll have to endure six waves until the teleporter to Deathtstrikes' cave opens for a short 30 seconds. ...
+Gnomad: Use the GREEN command crystal in the cave to begin the charging of the teleport! Good luck.
+Player: dwarf
+Gnomad: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomad: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: those below
+Gnomad: The more we learn about them, the more it becomes clear how little we know.
+Player: mushroom
+Gnomad: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: crystal
+Gnomad: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: global warming
+Gnomad: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: thais
+Gnomad: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomad: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomad: The sky is a somewhat frightening concept to us gnomes.
+Player: yes [bug] / bye
+Gnomad: Good bye and take care!

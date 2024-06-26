@@ -1,0 +1,154 @@
+Player: Hi
+Buddel: Hey big guys. *HICKS*
+Buddel: Ho ho, two beautiful ladies here in Okolnir *HICKS*. Captain Buddel is always at your service!
+Player: How Are You?
+Buddel: Good, good, good! *HICKS*
+Player: Job / service
+Buddel: I am a fisher aaaaaaand maybe I can show you the other islands. Depends on how good I know you two. Just ask me for a passage!
+Player: Name
+Buddel: There was a time I was called Bejorn. But everyone calls me Buddel. ..... and you are?
+Player: Player
+Buddel: Ahh, Player. And you?
+Player: Player
+Buddel: You are also called Player?!?!? Your mother was not very inventive *HICKS* but very convenient. ...
+Buddel: She only needs to remember one name and when she calls one of you, both of you will come!!!
+Player: Any Name
+Buddel: Aha! And you?
+Player: Any Name
+Buddel: Huhuhu,..... er..... shouldn't be offensive, but this is a funny name you have!
+Player: trade / sell
+Buddel: Do you have *HICKS* a compass for sale? If you do *HICKS* I trade it. Most I got so far seem to be *HICKS* broken though.
+Player: buy
+Buddel: BUY YOUR OWN RUM!
+Player: kick
+Buddel: Get out o' here!*HICKS*
+Player: King
+Buddel: I'M THE KING OF THIS SHIP AND ALL RUM FLASKS IN IT!!
+Player: queen
+Buddel: No queen!! I'M THE KING OF THIS SHIP AND ALL RUM FLASKS IN IT!!
+Player: Druids
+Buddel: Druids are strange. Are you two druids? Er, not that you look strange!! No, no, no! *HICKS*
+Player: Shamans
+Buddel: CAN'T YOU SEE I'M TALKING TO THAT GENTLEMAN BESIDE YOU?!?!? Okay, what did you ask?
+Player: barbarian
+Buddel: I am a barba, a barbarara, ........ a barbarian. The smart type, you know? *HICKS*
+Player: Excalibug
+Buddel: Teeheehee, I don't know but you two are funny!
+Player: News
+Buddel: Breezelda brought rum from Port *HICKS* er Hope.
+Player: Jarl
+Buddel: Sven? She's old and called young, er he. Sure he is! Got me? No? *HICKS* Doesn't matter.
+Player: Breezelda
+Buddel: She is a suuuuu*HICKS*uuuch a good captain! Sold me all her rum and not even ve'y expensive. *HICKS*
+Player: rum
+Buddel: I don't know and I don't wanna know how that stuff is made but it tastes good! Good, good, *HICKS* very good! I have it from Breezelda.
+Player: Mead
+Buddel: Mead is good. Good, good, good ........ but that rum I bought from Breezelda is a nice va'iation! *HICKS*
+Player: Test
+Buddel: I have a test for you! Go get me a flask of rum and both of you become barbaraba ... you know what I mean ...
+Buddel: ...and if you have it ask me for the test again!
+Player: test (with empty rum flask)
+Buddel: You two guys are really nice to me! Thank ya for the rum. *HICKS*
+Player: drunk
+Buddel: Me drunk?? No way! Trust me, I know what I am doing! I am a professional! I bring you wherever you want .... even without a dwarven ring!
+Player: dwarven ring
+Buddel: I've never seen one, but this thing comes straight out of *HICKS* hell.
+Player: join
+Buddel: No, no, no, that flask is all mine I will not allow you to join in.
+Player: honourary
+Buddel: Hono..what? *HICKS*
+Player: Mine
+Buddel: What is yours? Not that flask here that's mine!
+Player: monster / enemy
+Buddel: Life is a monster and RUM is the weapon to beat it. Like a sack of flour, BAM, BAM, BAM until it rips and flour is spreading everywhere buuuut ...
+Buddel: ...don't spill that good rum over the flour!! Okay?
+Player: Dwarf
+Buddel: They are the devil's dogsbodies! I heard they have rings which make you stone-cold sober when you wear them!
+Player: rumour
+Buddel: I saw a dragon at the harbour! YES! It crawled up the bow of that battleship! *HICKS* Not very agile these beasts, it nearly didn't move at all.
+Player: Dragon
+Buddel: I saw one at the harbour! YES! It crawled up the bow of that battleship! *HICKS* Not very agile these beasts, it nearly didn't move at all.
+Player: Husky
+Buddel: I like them! Som'times when I fall asleep on my way home they warm me! Cute isn't it? *HICKS*
+Player: Yeti
+Buddel: Nooooo, you are no yeti. They are not that ugly! *HICKS* And they only have two eyes! OH MY GOD.... YOU ARE THAT BONELORD AGAIN!!! AHHHHHHHH
+Player: bonelord
+Buddel: YEAH, I've seen one here in Svargrond!!! Many eyes, huge and I couldn't understand it!! Just last night when I was o' my way home! *HICKS*
+Player: Chakoya
+Buddel: Chyll bless you!
+Player: Raiders
+Buddel: They are fools. Other than us three, we are drunk er smart. *HICKS*
+Player: everspring
+Buddel: Go swimming for five minutes and you'll be there. *HICKS*
+Player: Chyll
+Buddel: It is better to freeze a li'le than to paddle 'til your hands bri'le. That's what my gran' gran' gran' gran' pa' used to say all the time!
+Player: Years Of the Serpents
+Buddel: The serpents were bad. Bad, bad, bad!! BAD SERPENTS! BAD!! I don't want the serpents back. No!
+Player: one
+Buddel: Ye, ye, ye trying to cheat me, huh?? *HICKS* You are a little toooooo big for a dwarf! *HICKS* But your eyes ?!? One, ...two, *HICKS*...three, ...four! AHHHHH!!!
+Player: cult
+Buddel: You wanna reestablish one?!?! Can I *HICKS* join?? Do we get enough to drink? Tell me if I can join!
+Player: Carlin / Thais / Edron / Venore / ferumbras
+Buddel: Hey, who of you knows a story about that??? You or you? ...
+Buddel: You are twins, aren't you?
+Player: Port Hope
+Buddel: I have to go there sometime to buy more rum!
+Player: Nibelor
+Buddel: The shamans respect me. They like fish! I like fish too. *HICKS* Stupid question! Otherwise I wouldn't be a fisherman!
+Player: Passage / ship / go
+Buddel: Where are we at the moment? Is this Svargrond? Ahh yes!*HICKS* Where do you want to go?
+Buddel: Where are we at the moment? Is this Svargrond? NO,*HICKS* it's Helheim! Anyway, where do you want to go?
+Buddel: Where are we at the moment? Is this Svargrond? NO,*HICKS* it's Tyrsung! Anyway, where do you want to go?
+Buddel: Where are we at the moment? Ahh, this is Okolnir!*HICKS* Where do you want to go?
+Buddel: Where are we at the moment? Is this Svargrond? NO!*HICKS* Anyway! Where do you want to go?
+Player: (valid destination with dwarven ring)
+Buddel: Ohh, you got a nice ring there! Ya don't have to pay if you gimme the ring and I promise you I will bring you to the correct spot!*HICKS* Alright?
+Player: Svargrond
+Buddel: You know a town nicer than this? NICER DICER! Apropos, don't play dice when you are drunk ...
+Buddel: You wanna play a little bit? We three?? No? Ahhhhh, you are drunk! I see! *HICKS*
+Player: svargrond (on isles)
+Buddel: You are right. We should go there and visit Dankwart at the tavern!! *HICKS*
+Player: svargrond
+Buddel: Give me 50 gold and I bring you to Svargrond. 'kay?
+Player: Tyrsung
+Buddel: *HICKS* Big, big island east of here. Venorian hunters settled there ..... I could bring you north of their camp.
+Player: tyrsung (on tyrsung)
+Buddel: The Venoreans are in the South and I think there are huge dwarfs here ...*HICKS*... or are they called differently?!? I don't know.
+Player: tyrsung
+Buddel: Give me 50 gold and I bring you to Tyrsung where the Venoran hunters have their settlement. Alright?
+Player: Helheim (on svargrond)
+Buddel: T'at is a small island to the east.
+Player: helheim (on helheim)
+Buddel: Cosy place here! I like it! *HICKS*
+Player: helheim
+Buddel: Give me 50 gold and I bring you to Helheim. 'kay?
+Player: hrodmir (on svargrond)
+Buddel: Yup, here we are! *HICKS* Nice, isn't it?! I could bring you via ship to the raider camps in the South so you don't have to climb up the glacier.
+Player: hrodmir (on isles)
+Buddel: The most iciest of all our nice Ice Islands! *HICKS* I could bring you via ship to the raider camps in the South so you don't have to climb up the glacier.
+Player: hrodmir (hrodmir)
+Buddel: Yup, here we are! *HICKS* Nice, isn't it?! The raider camps are to the north and west.
+Player: Camp
+Buddel: Both of you look like you could defend yourself! If you want to go there, ask me for a passage.
+Player: camp (on isles)
+Buddel: The raider camps are south of Hrodmir. One tribe lives at Ragnir, north of the landing stage, the main tribe lives in Krimhorn across the river and then to the south. ...
+Buddel: ... The third one lives in a glacier cave across the second creek. They call their settlement Bittermor.
+Player: camp
+Buddel: Give me 50 gold and I bring you to the south of Hrodmir where the camps of the barbarians are located. 'kay?
+Player: Okolnir
+Buddel: It's nice there. Except of the ice dragons which are not very companionable.
+Player: okolnir
+Buddel: Beware of frost dragons! Have fun. *HICKS*
+Player: okolnir
+Buddel: Give me 50 gold and I bring you to Okolnir home of the frost dragons. Alright?
+Player: yes
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Svargrond!
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Okolnir!
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to the south of Hrodmir!
+Buddel: SHIP AHOY! I AM BUDDEL THE GREAT CAPTAIN OF THE NORTHERN SEA! Let's sail to .....er.....to.... to Helheim!
+Player: no
+Buddel: SHIP AHOY! I AM BUDDEL THE ..... did you say no??? Alright.
+Player: false
+Buddel: You told me that you wanna get here! Maybe your should arrange yourself better with your brother!*HICKS*
+Player: Bye
+Buddel: Bye.

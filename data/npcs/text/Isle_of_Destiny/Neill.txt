@@ -1,0 +1,52 @@
+Player: (idle)
+Neill: Rookies! Initiates! Friends! Lend me your ears!
+Neill: Enter our tents and choose your destiny!
+Neill: Come, one and all! Come and enjoy our grand festival!
+Player: hi
+Neill: Hello, young initiate! Welcome to your festival! ...
+Neill: That's right! I said, your festival! We, residents of the Island of Destiny, have decided to put up a Festival of Initiates just for you newcomers! ...
+Neill: Isn't that great?
+Player: hi
+Neill: Hello again! I trust you are having fun? Since you completed your close combat training, feel free to proceed to the next tent, friend. ...
+Neill: Or did you lose your sword and need a new one? Or do you require me to tell you again what this Festival is all about?
+Player : hi
+Neill: Hello there! Having fun, I see. Just proceed to the other combat training tents or to a vocation trainer if you're certain about your destiny.
+Player: name
+Neill: My name is Neill McNeill of the clan of the McNeills.
+Player: job
+Neill: I'm a the gatekeeper and knight combat trainer here at the Festival of Initiates.
+Player: knight
+Neill: The noblest vocation of them all. No-one can best us with sword or shield!
+Player: vocation
+Neill: It is what you choose to be in Tibia - it is your 'profession', and your destiny. Be it knight or sorcerer, druid or paladin: a vocation is a way of living and a style of fighting. ...
+Neill: Choose your vocation well, for it will be a choice never to be revoked.
+Player: (yes)
+Neill: Indeed! As you will have to choose your vocation soon, this festival will help you decide by showing you each vocation's unique style and techniques. ...
+Neill: In each tent, a combat trainer will show you his vocation's special fighting technique. So you can find out which vocation suits you best! ...
+Neill: Don't worry, it's all for fun, just to show you the principle, and won't hurt. OK?
+Player: (any)
+Neill: Good! Each of the combat and vocation trainers can give you details about his or her vocation, just ask them. ...
+Neill: So, shall we start your festival tour? Of course, if you already know which vocation to choose, you can also skip the tour entirely. What do you say?
+Player: (any)
+Neill: Alright, here we go! On Rookgaard, you already had a first taste of how we proud knights fight: up close and personal. We're always first in a melee and the strongest heroes in Tibia. ...
+Neill: That means, in a fight we go to a monster and hit it upfront with a weapon. That's no job for weaklings, so we knights have a strong defense and many hitpoints to be able to hold out against damage. Are you ready?
+Player: (any)
+Neill: Good. Some last hints - knights fight with shield and weapon. Remember: we fight at the front, so we need good armor. We're tough, but we don't fight from a distance or heal others. Always have a health potion ready! ...
+Neill: If you need a shield, take one from the box, left of the entrance. It will hold off two enemies at once. ...
+Neill: Have fun and make your way through this tent, past the skeletons. The next tent's just north of this one. I hear they fight from a little distance in there. Huh. Well.
+Player: tell
+Neill: Right. So. As you will have to choose your vocation soon, this festival will help you decide by showing you each vocation's unique style and techniques. ...
+Neill: In each tent, a combat trainer will show you his vocation's special fighting technique. So you can find out which vocation suits you best! ...
+Neill: Don't worry, it's all for fun, just to show you the principle, and won't hurt. In this tent, it's melee combat, how we knights fight: up close and personal. Grab a shield if you need one from the box by the entrance. Have at it!
+Player: sword
+Neill: Of course. Here you go, friend.
+Player: sword
+Neill: Sorry, friend, it takes me five minutes at least to carve a new training sword. Come back later.
+Player : skip
+Neill: Of course, if you already know which vocation to choose, you can also skip the tour. What do you say?
+Player : yes
+Neill: Alright! Choose well!
+Player: bye
+Neill: May your sword always be sharp.
+Player: (vanish)
+Neill: Have at it!

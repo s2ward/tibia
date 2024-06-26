@@ -1,0 +1,28 @@
+Player: hi  
+Eliza: Welcome, Player. If you're interested in spells to support your party, I can be your teacher.  
+Player: spells  
+Eliza: I have 'Train Party' for Knights, 'Protect Party' for Paladins, 'Heal Party' for Druids and 'Enchant Party' for Sorcerers. You can only use these spells if you are in a party with others.  
+Player: teacher / job  
+Eliza: I'm a teacher for party spells. That's party spells as in 'support your party members', and not 'how to get people to love your birthday party'. Just to be clear.  
+Player: name  
+Eliza: My name is Eliza.  
+Player: curse / moon / were  
+Eliza: I have no idea, I'm sorry. You could ask Fiona or Zoltan, though.  
+Player: party  
+Eliza: Having a party is a good thing. You can kill much stronger monsters than when you're on your own.  
+Player: edron  
+Eliza: Talented magicians gather in these towers and work together in researching spells. That's why the most powerful spells are only taught in Edron.  
+Player: thais  
+Eliza: I've only been to Thais once or twice. I prefer a quieter place to live and study.  
+Player: carlin  
+Eliza: I don't like the attitude of the women there. They are all a little trigger-happy, if you know what I mean.  
+Player: king / tibianus  
+Eliza: The king is a quite impressive man. Even though his deeds are often criticised, I'm sure that he only wants the best for Tibia.  
+Player: tibia  
+Eliza: People call me pessimistic, but I think this world will go down the drain sooner or later.  
+Player: news / rumours  
+Eliza: Well, the new spells we recently discovered could prove to be quite valuable. Time will tell.  
+Player: time  
+Eliza: It's 6:51 pm.  
+Player: bye  
+Eliza: Goodbye, Player.  

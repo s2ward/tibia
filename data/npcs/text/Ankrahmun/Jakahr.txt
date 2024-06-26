@@ -1,0 +1,52 @@
+Player: hi
+Jakahr: Hello, mourned pilgrim. How may I help you player?
+Player: name
+Jakahr: My name is Jakahr.
+Player: job
+Jakahr: I am a member of the Postmasters Guild. If you have questions about the Royal Tibia Mail System or the depots, ask me.
+Player: time
+Jakahr: The time is 7:48 am, pilgrim.
+Player: news
+Jakahr: It does not befit a member of my position to spread rumours and stories, pilgrim.
+Player: offer or buy
+Jakahr: I sell parcels and letters. Ask me for a trade if you're interested. I can also explain how the mail system works.
+Player: trade
+Jakahr: Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and the name of the city in the second line.
+Player: kevin
+Jakahr: Even in our lands, the name of the guildmaster is held in great respect.
+Player: postmasters guild
+Jakahr: The guild plays a vital role in the economy of the known world.
+Player: join
+Jakahr: Please travel to our headquarters if you wish to join our guild.
+Player: headquarters
+Jakahr: You can find them to the south of the dwarven city of Kazordoon.
+Player: office
+Jakahr: I am always here in my office. You are welcome to visit me anytime.
+Player: ankrahmun
+Jakahr: This city is a safe haven that protects its citizens from the dangers of the desert.
+Player: carlin
+Jakahr: Carlin is a city far, far away from here. They say it is run by women and druids.
+Player: thais
+Jakahr: Thais is the capital of a kingdom on a far-off continent.
+Player: darashia
+Jakahr: A minor settlement to the north.
+Player: darama
+Jakahr: On this continent, the only place of real importance is our city.
+Player: daraman
+Jakahr: As far as I can tell he was some philosopher.
+Player: pharaoh / arkhothep
+Jakahr: The pharaoh keeps this city safe. He is both our political and our spiritual leader.
+Player: akh / rah / uthun / akh'rah uthun
+Jakahr: Sorry, but you should discuss religous issues like these in the temple. I am not a priest, and there is little I can tell you about it.
+Player: ascension
+Jakahr: Sorry, but you should discuss religious issues like these in the temple. I am not a priest, and there is little I can tell you about it.
+Player: arena
+Jakahr: Fights are frequently staged in the arena to entertain the people.
+Player: temple
+Jakahr: The temple is to the east of the city.
+Player: palace
+Jakahr: You can't miss the palace. It is probably the biggest pyramid in the whole world.
+Player: excalibug
+Jakahr: A weapon of legend. We rarely hear stories about it around here, however.
+Player: bye
+Jakahr: It was an honour to serve you, player.

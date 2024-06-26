@@ -1,0 +1,60 @@
+NPC: Charlotta  
+Note: This NPC still has some generic spell statements for the specific vocation  
+Player: hi / hello  
+Charlotta: Ah, welcome! Welcome Player! If you need druid spells, you've come to the right place. Otherwise it's just nice to have a visitor.  
+Player: place / job  
+Charlotta: Oh well, I cure this and that. People come to me to hear about the future or to buy lucky charms.  
+Player: future  
+Charlotta: <laughs> No, your future is far beyond my abilities to see. I can divine only the future of ordinary lives of ordinary people. Your life is full of danger and excitement.  
+Player: charms  
+Charlotta: Trading with lucky charms is not overly liked by the authorities, so please don't ask.  
+Player: Chondur  
+Charlotta: Chondur is a great man of great knowledge and wisdom. He understands the ancient ways and voodoo. You ask where you can find him? <laughs> You will find him when the time is right.  
+Player: cult  
+Charlotta: May they be cursed! They bring doom upon us all. Calling powers they can't control. Whoever may be the dark master they are serving, he'd do better to devour them all.  
+Player: djinn  
+Charlotta: Djinns are a rare sight here. Although it is rumoured that one of their kind lives on a remote island here.  
+Player: Eleonore  
+Charlotta: She has the heart in the right place even though she is a Thaian. She is so pure. Not corrupted by politics or gold. Don't forget to mention the secret word: peg leg. That will tell her we can trust you.  
+Player: Ferumbras  
+Charlotta: The dark one. He has some place of power on these isles. I wouldn't advice to search this place. If you are clever, stay away from Ferumbras and everything that he represents.  
+Player: governor  
+Charlotta: He does what he has to do, I guess. We are all slaves of the cards that fates deals us. Still we don't have to like the roles others are playing.  
+Player: Isolde  
+Charlotta: <chuckles>  
+Player: king  
+Charlotta: What has a king in Thais to do with the people here in Liberty Bay? He should just leave us alone and everything would be fine.  
+Player: Liberty Bay  
+Charlotta: The name has become a cruel joke of fate. Once it stood for freedom until selfish fightings led all dreams burst. But in the end, you can't truly kill a dream.  
+Player: light healing  
+Charlotta: Do you want to have the spell 'Light Healing' for free?  
+Player: loveless / theodore  
+Charlotta: This man is the worst example of a selfish and greedy Venorean profiteer. He's the long arm of the trade barons that hold us by the throat.  
+Player: magic currents  
+Charlotta: You should probably talk with Chondur about this issue.  
+Player: pirate  
+Charlotta: Well, there are pirates and then there are pirates.  
+Player: plantations  
+Charlotta: Once there were only a few plantations on which free and happy men were working. Now the isle is full of plantations and the workers there are nothing else than slaves of foreigners.  
+Player: quara  
+Charlotta: Nobody knows where they come from and what's on their agenda. They are even more alien than the Thaian invaders and obviously more destructive.  
+Player: Striker  
+Charlotta: We both know that this man is a freedom fighter and not a pirate.  
+Player: rum  
+Charlotta: Rum is a fine medicine in some cases. But as with all medicines, it has to be handled with care.  
+Player: spell  
+Charlotta: Sorry, I don't teach spells for your vocation.  
+Player: sugar  
+Charlotta: The sugar was our blessing in the past. The money we gained trading it was enough to make a good living for everybody and even a little profit. But then it caught the attention of greedy people from other cities and now it has turned into our curse.  
+Player: thais  
+Charlotta: Thais and the Thaians should mind their own business.  
+Player: Tristan  
+Charlotta: For a Thaian he is not that bad.  
+Player: venore  
+Charlotta: <spits on the floor> The Venorean traders are the source of all evil here. It was them who convinced the king in Thais to intervene and to 'rescue' us by sending an occupational force.  
+Player: voodoo  
+Charlotta: There is some knowledge that is less accurate but yet more true than the knowledge that the sorcerer's guild presents us as truth.  
+Player: Wyrmslicer  
+Charlotta: A thoroughgoing soldier. Efficient, yet without a thought of his own. He is only a pawn of the mighty ones.  
+Player: bye / farewell  
+Charlotta: Good bye my dear visitor.  

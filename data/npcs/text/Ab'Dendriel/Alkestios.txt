@@ -1,0 +1,72 @@
+Player: hi / hello  
+Alkestios: Nature's blessing, traveller! May you not be affected by any sinister force.  
+Player: Ab'Dendriel  
+Alkestios: It's a place full of life, huge trees, lush plants and various animals. I visit it now and then because I feel very comfortable there.  
+Player: Aurita  
+Alkestios: She's a beautiful mermaid, dwelling in the warm waters at Feyrist's shores. She stole Taegen's heart.  
+Player: Benevola  
+Alkestios: She's a druid and very concerned with nature's balance. She is taking care of the animals around here, especially starving wolves. Besides you and some elves in Ab'Dendriel, she is the only mortal who knows about my true nature.  
+Player: book  
+Alkestios: It was a good idea to outwit the poachers with the faked book. Well done!  
+Player: Carlin / Edron / Thais / Venore / Darashia  
+Alkestios: It's a place full of stone buildings and people. I heard it is called a town. But I'm still not sure which purpose it serves.  
+Player: darama  
+Alkestios: I guess it's a desert.  
+Player: deer  
+Alkestios: Outside of our secret realm my siblings and I can't keep our true shape. If we want to travel other parts of the world, we must take over the bodies of animals. But we are causing them no harm and we just take control if necessary.  
+Player: dreams  
+Alkestios: There is far more to dreams than mortal beings are aware of. They possess some kind of magical power, ancient and mysterious. I shouldn't tell you too much about it, but I can tell you that the fae are closely linked to this power.  
+Player: dwarves / dwarfs  
+Alkestios: We know them, yes. Their dreams are different from those of elves and humans. Somehow graver and more grounded.  
+Player: elves / elfes  
+Alkestios: They inhabit Ab'Dendriel and live in close touch with nature. Their dreams are mostly serene and suffused with light.  
+Player: energy  
+Alkestios: It is rather subversive, so most creatures won't sense it ... yet. But its corrosive power has already begun to affect my kind and our hidden realm in unpleasant ways. I hope, I will find someone who can help us.  
+Player: fae  
+Alkestios: Some call us nature spirits or peri but we prefer the term fae. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...  
+Alkestios: We tend to be secretive about our true nature, but I guess there was once an elven sage who visited our realm and put his experiences down on paper. There might be a book about the fae in the library of Ab'Dendriel.  
+Player: Feyrist  
+Alkestios: It is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.  
+Player: human  
+Alkestios: They inhabit these huge places filled with stone buildings. They call them towns, I guess. Some of them are cheerful and well-meaning, others are wicked and cruel. Their traits and attitudes vary greatly - and so do their dreams.  
+Player: Ikassis  
+Alkestios: She's one of my sisters. I guess she took over the body of a snake.  
+Player: job  
+Alkestios: I have no idea what you mean by this word.  
+Player: Kazordoon  
+Alkestios: You are talking about the nearby mountains, I assume. I have never been there but I know it is the home of the dwarves.  
+Player: kind / siblings  
+Alkestios: We call ourselves the fae. Some name us nature spirits or peri but we prefer the former term. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...  
+Alkestios: As we tend to be secretive about our true nature I'm afraid I can't tell you more.  
+Player: Maelyrra  
+Alkestios: She is one of the fae queens of Feyrist.  
+Player: mission / quest / task  
+Alkestios: Thank you again for your support, human being.  
+Player: name  
+Alkestios: My name is Alkestios - which is also the name of a beautiful day lily if you wonder. That's because my true form is a bit more filigree than this cervine body.  
+Player: news / rumors / rumours  
+Alkestios: Something is happening to this world - something baleful and sinister.  
+Player: Oramond / Krailos / Rathleton  
+Alkestios: I have never heard of this place.  
+Player: protect  
+Alkestios: I can sense a kind of dark energy lately. It is pervading this world, more and more every day. Yet I don't know where it arises from nor what we could do to dispel it.  
+Player: realm  
+Alkestios: We call it Feyrist and it is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.  
+Player: Roshamuul  
+Alkestios: This is a dark and dangerous place. It is full of terrible monsters and made of nightmares - literally.  
+Player: sinister  
+Alkestios: I can sense a kind of dark energy lately. It is pervading this world, more and more every day. Yet I don't know where it arises from nor what we could do to dispel it.  
+Player: Taegen  
+Alkestios: He's one of my brethren, a faun. He preferred not to leave Feyrist - mainly because of Aurita, I assume.  
+Player: Talila  
+Alkestios: She is a pixies living in Feyrist.  
+Player: Tibia  
+Alkestios: This is the world we are living in - you and me and all children of nature.  
+Player: time  
+Alkestios: Time is fluent, traveller.  
+Player: Tooth Fairy  
+Alkestios: She's one of my sisters and took over a white seagull. The last time I talked to her she seemed worried.  
+Player: Valindara  
+Alkestios: She is a swan maiden and lives in Feyrist.  
+Player: bye / farewell  
+Alkestios: May your path always be even.  

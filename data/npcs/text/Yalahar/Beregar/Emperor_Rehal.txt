@@ -1,0 +1,99 @@
+NPC: Emperor Rehal  
+Note: Transcription was made after completion the Royal Rescue quest.  
+Player: hail emperor  
+Emperor Rehal: May Fire and Earth bless you, stranger. What leads you to Beregar, the dwarven city?  
+Player: adventurer  
+Emperor Rehal: Lately, Beregar has seen many human adventurers questing for fame and glory. Unfortunately many of them find nothing other than a miserable death.  
+Player: age / old / youth  
+Emperor Rehal: Believe me. I'm OLD.  
+Player: army  
+Emperor Rehal: We neither have nor need an army.  
+Player: beard / women  
+Emperor Rehal: Be careful when you talk about a dwarf's appearance. Although this seems strange to you with your bald-chinned women, our women take pride in their beards, and may be offended if you say something wrong.  
+Player: beregar / city  
+Emperor Rehal: You won't be allowed to enter the main parts of Beregar. The city is divided into three parts. We have two living quarters for the two different tribes, and one community quarter. ...  
+Emperor Rehal: Unfortunately, one of the living quarters is abandoned as one of the tribes left Beregar when Tibia was still young.  
+Player: castle  
+Emperor Rehal: Our castle is the mountain above our heads.  
+Player: citizen  
+Emperor Rehal: Sorry, only dwarfs born and bred in Beregar are allowed to call themselves citizens.  
+Player: craftsmen / equipment / food / merchant / sell / shop  
+Emperor Rehal: Feel free to give it a try, but I'm afraid you'll have problems getting equipment here. My people are not used to your kind and may act dismissively.  
+Player: dragon / cave / treasure  
+Emperor Rehal: There's a legend about a dragon lord so greedy that he continued his dire existence even after his death in order to guard his ill-gotten gains. The legend says that he guards a treasure of enormous value.  
+Player: druid  
+Emperor Rehal: Not a very common profession among dwarfs.  
+Player: dungeon  
+Emperor Rehal: Do you mean that big cave under Beregar? Be careful down there, you won't find anything there except for horror and death.  
+Player: elves  
+Emperor Rehal: Hmm, I've heard of them but I've never seen or talked to one. I don't think they would like to be deep down in the belly of a mountain.  
+Player: emperor  
+Emperor Rehal: I'm the Emperor of the Dwarfs of Beregar. I've been elected by the two tribes of Beregar, and shall remain Emperor until death thinks someone else should take my place.  
+Player: enemy / enemies  
+Emperor Rehal: We stay away from our enemies.  
+Player: evil / good / chaos / order  
+Emperor Rehal: Chaos cannot exist without order but the reverse is also true, order cannot exist without chaos.  
+Player: father  
+Emperor Rehal: My father was Ransar Crystalvein. It was he who discovered the huge deposit of crystals in the eastern mine.  
+Player: god / earth / fire / temple  
+Emperor Rehal: We worship Earth and Fire, but I'm afraid you won't be allowed to visit our temples.  
+Player: grombur  
+Emperor Rehal: He's very ambitious and always volunteers for the long shifts.  
+Player: guild  
+Emperor Rehal: Our guild halls are not accessible for anyone other than the inhabitants of Beregar.  
+Player: help  
+Emperor Rehal: I'm afraid you have come to the wrong place to ask for help.  
+Player: hero  
+Emperor Rehal: There have been many heroes among the dwarfs, and there always will be.  
+Player: how are you  
+Emperor Rehal: Beside some worries that have been troubling me for some time, I'm fine.  
+Player: job  
+Emperor Rehal: I'm the Emperor of the Dwarfs of Beregar.  
+Player: justice  
+Emperor Rehal: Well, justice is a tricky thing. Can one be just to everybody at once, and if not, to whom should one be just?  
+Player: kazordoon  
+Emperor Rehal: So the lost tribe found itself a new home. This is good news indeed.  
+Player: knight  
+Emperor Rehal: Our guards are well trained but I wouldn't call them 'knights'.  
+Player: land / tibia  
+Emperor Rehal: For us citizens of Beregar, this mountain and this city are all that matters.  
+Player: mines  
+Emperor Rehal: Our crystal mine is second to none.  
+Player: minotaur  
+Emperor Rehal: I've read some interesting things about them.  
+Player: mission / quest  
+Emperor Rehal: If you walk through the world with open eyes, you will see quests without even having to ask. Even here in Beregar.  
+Player: monster  
+Emperor Rehal: Every dwarf receives basic training in combat skills. Be careful down in the mines. They may mistake you for a monster.  
+Player: name  
+Emperor Rehal: I'm Emperor Rehal, Son of Fire and Earth.  
+Player: news  
+Emperor Rehal: Not many people have visited Beregar these past years, so news is....let's say....scarce.  
+Player: nokmir  
+Emperor Rehal: I always liked him and I still can't believe that he really stole that ring.  
+Player: paladin  
+Emperor Rehal: We prefer fighting with an axe in our hands.  
+Player: promot  
+Emperor Rehal: Do you want to be promoted in your vocation for 20000 gold?  
+Player: reward / gold  / money  
+Emperor Rehal: What have you done to justify a reward from the Emperor of Beregar?  
+Player: sorcerer  
+Emperor Rehal: Among us dwarfs, you'll find Masters of Earth, the so called geomancers, and Masters of Fire, the pyromancers.  
+Player: time  
+Emperor Rehal: Your kind has a different perception of time to us. When a dwarf tells you that something may not take too long, it will probably take much longer than you expected.  
+Player: tunnel  
+Emperor Rehal: I don't have the time to tell you about tunnelling. I assigned Xorlosh to give you some answers when needed. He is down in the mines repairing an elevator.  
+Player: worries  
+Emperor Rehal: In the early years of Tibia, there were two tribes in Beregar. A conflict between the tribes led to one of the tribes leaving Beregar for good.  
+Player: bye  
+Emperor Rehal: Farewell, Player!  
+Special dialogue 1:  
+Player: reward  
+Emperor Rehal: What have you done to justify a reward from the Emperor of Beregar?  
+Player: random word  
+Emperor Rehal: Hahaha! That's nothing you'd get a reward for.  
+Special dialogue 2:  
+Player: worries  
+Emperor Rehal: In the early years of Tibia, there were two tribes in Beregar. A conflict between the tribes led to one of the tribes leaving Beregar for good.  
+Player: conflict  
+Emperor Rehal: I'm afraid you have to be a dwarf to truly understand what the conflict was about.  

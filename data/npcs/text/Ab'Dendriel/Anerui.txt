@@ -1,0 +1,73 @@
+Player: ashari / hi /hello  
+Anerui: Ashari Player. Just came back from my hunt, look at that fine meat.  
+Player: hunt / game / prey  
+Anerui: Hunting is an art which is too often practised by amateurs. Every fool with a bow or a spear considers himself a hunter.  
+Player: art  
+Anerui: I'm the mistress of hunting. At this place you can buy food we get from our hunts.  
+Player: food  
+Anerui: I sell meat and ham. If you like to see my offers, ask me for a trade.  
+Player: trade  
+Anerui: Sure.  
+Player: bow / arrow / spear  
+Anerui: Bow, arrow, and spear are the hunter's best friends. I heard somebody is selling such tools in the North-east of this town.  
+Player: hunter  
+Anerui: Hunters live a life of freedom, close to nature, unlike a simple farmer or bug herder.  
+Player: nature  
+Anerui: Nature is not a friend but an unforgiving teacher, and the lessons we have to learn are endless.  
+Player: bug herder  
+Anerui: A person who herds bugs, what else?  
+Player: teacher  
+Anerui: Most lessons nature teaches are about life and death.  
+Player: life / death  
+Anerui: Life and death are significant parts of the balance.  
+Player: balance  
+Anerui: The balance of nature, of course. It's everywhere, so don't ask but observe and learn.  
+Anerui: The bugs provide us with chitin for equipment, bug milk and bug meat.  
+Player: bug milk  
+Anerui: It's delicious. Brasith sells it in his store.  
+Player: name  
+Anerui: My name is Anerui Mourningleaf.  
+Player: job  
+Anerui: I'm the mistress of hunting. At this place you can buy food we get from our hunts.  
+Player: dwarf  
+Anerui: I'll never understand these little people from the mountains.  
+Player: elves / elf  
+Anerui: That is the race to which I belong.  
+Player: carlin  
+Anerui: Carlin needs our protection and resources. Of course they will turn on us as soon as they feel strong enough.  
+Player: thais  
+Anerui: Thais is too far away to pose a threat but it is also too far away to help us if problems should occur.  
+Player: venore  
+Anerui: Venore profits greatly from the trade with Ab'Dendriel. In my eyes, those traders are leeches that exhaust our resources.  
+Player: roderick  
+Anerui: He is our contact person to the Thaian kingdom and a necessary evil.  
+Player: olrik  
+Anerui: He'd love to be an elf but he is rather some kind of a pale orc.  
+Player: human  
+Anerui: Humans are a loud and ugly race. They lack any grace and are more kin to orcs than to us.  
+Player: troll  
+Anerui: I despise their presence in our town, but it may be a necessary evil.  
+Player: cenath  
+Anerui: The magic they wield is all that matters to them.  
+Player: kuridai  
+Anerui: The Kuridai are too aggressive, not only against people but also against the environment. They lack any understanding of the balance that we know as nature.  
+Player: deraisim  
+Anerui: We try to live in harmony with the forces of nature.  
+Player: abdaisim  
+Anerui: The Abdaisim are our brothers and sisters in spirit. We stay in contact with them, exchanging news and items.  
+Player: teshial  
+Anerui: If they ever existed, they are gone now.  
+Player: ferumbras  
+Anerui: The defiler. I'm not going to talk about him.  
+Player: crunor  
+Anerui: I believe it's a human god. I don't know much about this entity.  
+Player: offer / sell / buy / food / stuff / ware  
+Anerui: I sell meat and ham. If you like to see my offers, ask me for a trade.  
+Player: time  
+Anerui: Watch the sky, it will tell you.  
+Player: equipment  
+Anerui: I sell meat and ham. If you like to see my offers, ask me for a trade.  
+Player: forest  
+Anerui: The forests are the gardens of life. Nature provides enough for everyone's need, but not enough for everyone's greed.  
+Player: asha thrazi / farewell / bye  
+Anerui: Asha Thrazi, Player.  

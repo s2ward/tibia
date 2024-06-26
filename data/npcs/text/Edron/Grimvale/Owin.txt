@@ -1,0 +1,42 @@
+Player: hi
+Owin: Greetings!
+Player: name
+Owin: My name is Owin.
+Player: owin
+Owin: Yes, that's my name.
+Player: job
+Owin: I'm actually a hunter. Or used to be, at any rate. But lately I made some efforts to find out more about the so called Curse of the Full Moon. So I'm also a kind of researcher by now.
+Player: time
+Owin: It's exactly 3:48 pm.
+Player: news
+Owin: The savage beasts that frequently threaten Grimvale grow bolder again. With the full moon they may overrun this village.
+Player: mission / task / quest
+Owin: You should see Maeryn, she may have some errand for you.
+Player: maeryn
+Owin: She's a close friend and something of a protector for this village. Stunning woman. Fearless and unsurpassed with the bow.
+Player: gladys
+Owin: Our village druid still lives here, and has done since she was a little girl. Any were-creature body parts you find, she will trade you for some coin.
+Player: cornell
+Owin: The ferryman? Used to be a fisherman. Makes a living by sailing between Grimvale and Edron these days.
+Player: Grimvale
+Owin: This island you are standing on. It used to be such a peaceful and placid place. But now it has become dangerous to live here.
+Player: dangerous / beasts
+Owin: So you don't know it yet. This village and the whole island are affected by were-sickness. We also call it the Curse of the Full Moon.
+Player: Curse
+Owin: Humans transform into wild beasts: wolves, boars, bears and others. If you want to know more, feel free to read the parchment here on my cot. I wrote down all my insights.
+Player: Moon
+Owin: At full moon humans transform into wild beasts: wolves, boars, bears and others. Some call it the Curse of the Full Moon, others think it is a kind of sickness.
+Player: werewolf
+Owin: Yes, friend, werewolves indeed dwell here on Grimvale. The were-sickness transforms peaceful villagers into savage beasts. Though we don't know exactly how this curse has come upon us, there's no denying it is here.
+Player: village
+Owin: The few, mostly abandoned cottages you see here. The village is called Grimvale, as is the island.
+Player: temple
+Owin: There are old legends about a subterranean temple that was once built in this area. I don't know the details, but Maeryn could tell you more, I guess.
+Player: trap
+Owin: It can be assumed that powerful were-creatures should be fought with the help of silvered traps. A common leghold trap can be primed with liquid silver and thus be very effective against were-creatures. I believe Gladys could sell you a trap.
+Player: liquid silver
+Owin: Liquid silver is not easy to be found. But at full moon there are some spots in the tunnels under Grimvale where you could find this rare substance.
+Player: moonlight crystals
+Owin: I'm sorry, I fear I know nothing about the moonlight crystals. But I heard Maeryn talking about them once. Perhaps she can give you a hint.
+Player: bye
+Owin: Farewell.

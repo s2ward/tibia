@@ -1,0 +1,35 @@
+Player: hi / hello  
+Morpel: Hello! Welcome to my shop!  
+Player: alchemist quarter  
+Morpel: As a smith I know better than to underestimate the power of fire, jawoll. It seems the alchemists never learnt this lesson.  
+Player: arena quarter  
+Morpel: Now and then, one of the gladiators comes here to by some piece of equipment. Usually they simply use what they loot from slain visitors.  
+Player: blood crystal  
+Morpel: No, I don't sell that, sorry.  
+Player: cookie  
+Morpel: I'm only allowed to eat during my break.  
+Player: cyclops  
+Morpel: Uhm <whispers> just between you and me. That cyclops with this unpronounceable name is the owner of this store. I just do all the talking and trade ...  
+Morpel: I get a decent share of the profit though. It seems he is more interested in this smithing stuff than in getting rich.  
+Player: factory quarter  
+Morpel: The people in that quarter are desperate enough to attack any strangers. So if you are planning on going there, be well armed and prepared.  
+Player: foreign quarter  
+Morpel: I can't say I have the guts to pay this quarter a visit.  
+Player: job / shop  
+Morpel: I have an incredible assortment of weapons and armor for sale. Just ask me for a trade.  
+Player: magician quarter  
+Morpel: For me magic is just scary.  
+Player: offer / buy / goods / sell / equipment / stuff / ware / weapon / armor / helmet / legs / trousers / shield  
+Morpel: My offers are weapons, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade.  
+Player: sunken quarter  
+Morpel: We can only hope that this catastrophe was a one-time occurrence. We dwarfs live long enough to make it likely that I'm around when another part of the city might sink, jawoll.  
+Player: trade  
+Morpel: Of course, just browse through my wares.  
+Player: trade quarter  
+Morpel: Mr. West often buys weapons and armor for his men. I think that proves the quality of my wares.  
+Player: yalahar  
+Morpel: I guess for a city that does not consist of caves, it's ok.  
+Player: yalahari  
+Morpel: Can't say much about them. It's not like they would interact much with anyone from the outer city.  
+Player: bye  
+Morpel: You really should have bought some extra stuff, just in case.  

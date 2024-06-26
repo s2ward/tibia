@@ -1,0 +1,34 @@
+Player: hi
+Gnomevisor: Hello! I've been expecting you.
+Player: name
+Gnomevisor: I'm gnomevisor.
+Player: job
+Gnomevisor: I'm the current head of the gnomish operations in this area.
+Player: dwarf
+Gnomevisor: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomevisor: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushrooms
+Gnomevisor: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomevisor: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomevisor: The more we learn about them, the more it becomes clear how little we know.
+Player: crystals
+Gnomevisor: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: sky
+Gnomevisor: The sky is a somewhat frightening concept to us gnomes.
+Player: surface
+Gnomevisor: For all I heard it has to be a place of incredible poverty! They say people there are so poor, that they even are often out of doors!
+Player: thais
+Gnomevisor: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: splinters
+Gnomevisor: You can earn crystal splinters by helping my fellow gnomes with their scientific research! We have established missions in the area to gain more knowledge and extract crystal splinters.
+Player: missions
+Gnomevisor: To get to our research missions, you need a protective layer that can be build up by harvesting the energy the monsters in the areas set free when dying.
+Player: layer
+Gnomevisor: Since the ancient teleporters that take you to our research missions take a toll on everyone that uses them, make sure you harvested enough energy to use them.
+Player: bye
+Gnomevisor: Keep up your good work, Player.
+Player: (vanish)
+Gnomevisor: Take care!

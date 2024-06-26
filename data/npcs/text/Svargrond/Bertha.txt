@@ -1,0 +1,94 @@
+Player: hi  
+Bertha: Greetings Player.Looking for a trade, I hope. Business is not going well.  
+Player: trade  
+Bertha: Of course, just browse through my wares. Footballs have to be purchased separately.  
+Player: Footballs  
+Bertha: Do you want to buy a football for 111 gold?  
+Player: name  
+Bertha: I'm Bertha from Carlin.  
+Player: job  
+Bertha: I'm a trader by profession, but here you could also call me the ambassador of Carlin. However, there is little I can do about our problems, and support from Carlin is virtually non-existent.  
+Player: Carlin  
+Bertha: Carlin expects wonders of me. However, as long as they don't send some considerable help, they can wait until moss is growing in their hair.  
+Player: queen  
+Bertha: The queen expects miracles of us. But there is little we can do as long as the barbarians claim these mines that actually belong to us.  
+Player: thais  
+Bertha: I guess whole Thais is laughing at the failure of our operations.  
+Player: king  
+Bertha: The pompous king of Thais might be involved in the take-over of our mines.  
+Player: svargrond  
+Bertha: These barbarians are still adapting to the city life, but they do quite well I guess. They still lack interest in real trading and ... let's say they are a bit limited in their horizon.  
+Player: yeti  
+Bertha: Another senseless tale of superstitious natives.  
+Player: rumour  
+Bertha: I have confirmed information that Excalibug lies deep in the mines. If you manage to find it, you would be the biggest hero and everybody would know your name! ...  
+Bertha: Imagine that: King Player, who found Excalibug and saved the world !!! Sounds good, huh??  
+Player: excalibug  
+Bertha: I toyed with the idea to spread the rumour that Excalibug might be hidden in the mines. I think if enough adventurers were lured into the mines, they might drive out the ones that occupy them now ...  
+Bertha: So do me a favour, when somebody asks about Excalibug, tell them it's down there in those mines.  
+Player: mines  
+Bertha: The mines are actually Carlin's property. If only the queen would send soldiers to get them back from this rabble. Venore is probably planning to take over these mines just as we are talking.  
+Player: venore  
+Bertha: Venore's power and greed is a constant threat to our operations.  
+Player: chakoya  
+Bertha: I think these chakoyas are only a tale to scare the local kids.  
+Player: mission / task  
+Bertha: Unless you can change the whole situation here, I don't have anything to do for you.  
+Player: how are you?  
+Bertha: It could definitely be better but thanks for asking. I hope you're fine yourself.  
+Player: barbarian  
+Bertha: All this cold seems to have frozen the brains of those people to solid ice.  
+Player: buy / stuff / offer /goods  
+Bertha: My inventory of general goods and paperware is large, ask me for a trade to take a look.  
+Player: sell  
+Bertha: You can buy general goods from me. For weapons and armor you should see my assistant Robert at the arena, in the mountains to the west.  
+Player: gods  
+Bertha: The gods seem to be far away in this corner of the world.  
+Player: ferumbras  
+Bertha: Well, HE would only be needed to make things worse over here.  
+Player: dwarf  
+Bertha: Sadly I could not win many dwarfs for our mining operations. They are probably afraid of Thais' reaction if it became known that they are helping us.  
+Player: elf  
+Bertha: The elves are of no great help. They do little to convince the spiritual leaders of the barbarians to help me.  
+Player: edron  
+Bertha: They promised me these frozen lands could become for Carlin what Edron is for Thais. What a cruel joke.  
+Player: bonelord  
+Bertha: Bonelords are one of the few threats of which we are spared here.  
+Player: ammunition / legs / arrow / armor /weapon  
+Bertha: Robert sells that. Go and ask him about that.  
+Player: banor  
+Bertha: I'd like to see some knightly order cleansing this land in the name of Banor. But of course Banor's champions seek their glory in warmer areas.  
+Player: book  
+Bertha: My inventory of general goods and paperware is large, ask me for a trade to take a look.  
+Player: camps  
+Bertha: There are several camps of the raiders somewhere in the South-West. If you want to end up as dog food, just travel there.  
+Player: raiders  
+Bertha: Their presence is bad enough. The fact that they occupied the mines and that they hate us non-natives of this frozen rock makes things only worse.  
+Player: magic  
+Bertha: Ask a sorcerer or druid about that.  
+Player: druid  
+Bertha: The druids of Carlin have quite good connections to the local druids here.  
+Player: cult  
+Bertha: Well, we heard of some strangers that travelled through this city. Not exchanging many words with the people here. The locals claim they headed straight to our old mines ...  
+Bertha: As far as I can tell though, not much has changed at the mines. Our scouts are still attacked or even killed. So I assume the strangers were either killed or they are friends of the raiders ...  
+Bertha: I have no clue what has happened and I don't have the resources to find out.  
+Player: enemy  
+Bertha: Our major enemy are the trade barons of Venore, of course. They never gained foothold here though. Given how bad business is progressing in this settlement, it is not such a big surprise. They probably simply lost interest.  
+Player: everspring  
+Bertha: I believe that's some nice hunting spot somewhere hidden on this isle.  
+Player: honourary  
+Bertha: If you pass some disgusting barbarian test, you might become what they call an honorary barbarian. Just talk to jarl Sven the Younger about this nonsense and don't bother me.  
+Player: jarl  
+Bertha: The jarl here is of no great help. Our equipment and wood is welcome, but we get little profit out of these deals.  
+Player: leaders  
+Bertha: This city would need a new leader that wants to actively help our cause, but I don't see this happening any time soon.  
+Player: monster  
+Bertha: There are enough monsters around to make you think twice about leaving the city.  
+Player: news  
+Bertha: News? Are you mocking me? Almost any news would be good news. As long as it concerns Carlin's affairs, nothing seems to change for the better.  
+Player: zathroth  
+Bertha: I think even the dark one does not care for these lands or is probably already done with it.  
+Player: years of serpents  
+Bertha: What a horrible threat those beasts have been. But if they hadn't vanished all of a sudden, we would never have stranded here.  
+Player: bye  
+Bertha: Bye Player.  

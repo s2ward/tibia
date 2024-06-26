@@ -1,0 +1,25 @@
+Player: hi
+Corym Servant: You have to liberate all the Corym I told you. Unlock the three affected areas.
+Player: hi
+Corym Servant: Well done! The riot progesses! No fight without weapons. In the mine the temperature is quite high, higher as expected in this depth. Therefore we need heat-resistent weapons and armors. ...
+Corym Servant: This effect can be reached by adding rare earth to the common materials. But this can only be found in the stomaches of stonerefiners. Please bring 20 of these to me.
+Player: hi
+Corym Servant: Hello again. I see you have collected enough of the rare earth. Would you like to give it to me?
+Player: yes
+Corym Servant: Thank you very much! Our smiths are now able to craft heat-resistent weapons and armor. A little reward for you is this. ...
+Corym Servant: There is one last thing I would like to say to you, there are rumours that this dungeon can only be entered alive. This could mean that there's an unknown dungeon keeper guarding this place, so take care of you!
+Player: hi
+Corym Servant: We are very thankful, that you could help us. It won't take long and the riots will start!
+Player: key
+Corym Servant: Well done. You have forged the key and unlocked all three doors.
+Player: resources
+Corym Servant: You have to know, that our work is very hard and the conditions we have are terrible. The wanted amount is abolutely unrealistic. Beyond that the food we get is never enough. ...
+Corym Servant: Our workers should give their best while starving. This is not possible. That's the point to defy the authority.
+Player: defy
+Corym Servant: The time has come to resist!
+Player: valuables
+Corym Servant: We have already found gold, silver and coal.
+Player: bye
+Corym Servant: Bye
+Player: (vanish)
+Corym Servant: No goodbye?

@@ -1,0 +1,67 @@
+NPC: Peggy  
+Player: hi / hello  
+Peggy: Hi there, Player. Furniture on sale!  
+Player: Charlotta  
+Peggy: Charlotta does a little more than just talk. People look up to her, people are listening to her. But there is really nothing that she is doing against these Venoreans.  
+Player: Chondur  
+Peggy: What are all of his rumoured powers good for when he is not using them to help us?  
+Player: cult  
+Peggy: If there are people that do something against the trade barons, they can't be that bad. By all accounts this cult is doing something, so it can't be that bad either.  
+Player: Eleonore  
+Peggy: Ms. Rich in her ivory tower does not even know that us ordinary people exist.  
+Player: Explorer Society  
+Peggy: Some sort of exclusive club for rich and bored people.  
+Player: Ferumbras  
+Peggy: His arrival would surely be bad enough for business to make the Venoreans leave. But in my opinion the cure would be worse than the plague.  
+Player: furniture  
+Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.  
+Player: governor  
+Peggy: He's only a puppet of the trade barons. He does their bidding. I wonder if he is aware of that.  
+Player: Isolde  
+Peggy: She can spare me with her friendliness. It won't make me forget that Thaians are an occupational force.  
+Player: job  
+Peggy: I am the local carpenter. I sell furniture, just ask me for a trade. Sometimes I accept special assignments.  
+Player: king  
+Peggy: The king's iron grip can be felt everywhere here. And the Venoreans are his right hand.  
+Player: liberty bay  
+Peggy: The name of the town has become a joke. I do not even have the liberty to buy and use the wood I want.  
+Player: wood  
+Peggy: All wood we are allowed to use has to be bought from the Venorean companies. To ensure quality, they say.  
+Player: loveless / theodore  
+Peggy: This man is like a disease that has afflicted our town. The symptoms of this disease can be seen and felt everywhere.  
+Player: offer / buy / goods / sell / equipment / stuff / ware  
+Peggy: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.  
+Player: Assignments  
+Peggy: Usually nothing exciting. Some special furniture or a peg leg now and then.  
+Player: peg leg  
+Peggy: Yeah, from time to time one of the old sea dogs needs a peg leg and mine are the best.  
+Player: pirate  
+Peggy: Is the enemy of your enemy your friend? Maybe.  
+Player: plantations  
+Peggy: I don't envy those poor souls that have to earn a living on the plantations.  
+Player: quara  
+Peggy: Quara were always a threat, but after the Venoreans arrived here the attacks became more frequent. A coincidence? I doubt it. Still it would be fun if one night the quara would get that Loveless guy and take him along.  
+Player: rum  
+Peggy: There is nothing like rum to bring fun and joy to a celebration.  
+Player: Raymond Striker  
+Peggy: I hope he will kick the butts of more trade barons.  
+Player: sugar  
+Peggy: Can you imagine how expensive sugar is in other places? Here it is worth almost nothing. What a mad world!  
+Player: thais  
+Peggy: Thais is a sleeping lion. But nowadays, the snakes already rule the kingdom.  
+Player: trade  
+Peggy: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?  
+Player: Tristan  
+Peggy: Another arrogant Thaian.  
+Player: venore  
+Peggy: Venore is the best example to demonstrate what can go wrong with human society. Greed and jealousy reign over that town and only wealth and influence are of importance.  
+Player: voodoo  
+Peggy: At least it is something that even the Venoreans are fearing. Funny to imagine how they would try to use their money against curses or vainly bribe a ghost.  
+Player: Wyrmslicer  
+Peggy: The lap dog of the governor...  
+Player: bye / farewell  
+Peggy: Good bye, Player.  
+Player: trade  
+Peggy: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?  
+Player: type  
+Peggy: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?  

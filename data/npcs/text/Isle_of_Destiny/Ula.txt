@@ -1,0 +1,26 @@
+Player: (idle)
+Ula: Sorcs rule!
+Ula: Wizards wield a mean staff!
+Ula: Fry your foes!
+Player: hi
+Ula: Hi there! You should really check out Tylius' staff and rod training!
+Player: name
+Ula: Me? <giggles> I am Ula, magic assistant to the grand sorcerer Estrella and humble spectator at our festival.
+Player: Ula
+Ula: Yes? <giggles>
+Player: estrella
+Ula: She's awesome. She is our sorcerer vocation trainer on the Island of Destiny. ...
+Ula: You should talk to her after the festival if you want to become a sorc, too.
+Player: sorcerer
+Ula: That's us! Casting magic since - um, always, actually! We're the coolest cats in any town. ...
+Ula: I mean, cast fire and hurl death at your enemies? What's not to like about that? ...
+Ula: Anyway, go visit Tylius next door here if you wish to know more stuff - like, how to use a staff <giggles>. It's really cool.
+Player: magic
+Ula: Really handy to keep all kinds of jerks at a distance, let me tell you! And it's quite the thing to impress cute boys, too. <giggles>
+Player: tylius
+Ula: He's sooo cute. <blushes> ...
+Ula: I mean, he's an apprentice sorcerer, like me. He's in this tent right here. He's really good in staff and rod combat, you should totally check it out!
+Player: bye
+Ula: See you at the academy!
+Player: (vanish)
+Ula: Happy casting!

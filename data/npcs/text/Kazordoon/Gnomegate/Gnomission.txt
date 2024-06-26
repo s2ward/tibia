@@ -1,0 +1,41 @@
+Player: hi
+Gnomission: Hello Simula. You are probably eager to enter the warzones. But perhaps you are also interested in other aspects of my job.
+Player: job
+Gnomission: I am responsible for our war missions, to trade with seasoned soldiers and rewarding war heroes. You have to be rank 4 to enter the warzones.
+Player: name
+Gnomission: I am Gnomission. I am responsible for our war missions, to trade with seasoned soldiers and rewarding war heroes. You have to be rank 4 to enter the warzones.
+Player: trade
+Gnomission: So let's trade, my friend.
+Player: warzones
+Gnomission: There are three warzones. In each warzone you will find fearsome foes. At the end you'll find their mean master. The masters are well protected though. ...
+Gnomission: Make sure to talk to our gnomish agent in there for specifics of its protection. ...
+Gnomission: Oh, and to be able to enter the second warzone you have to beat the first. To enter the third you have to beat the second. ...
+Gnomission: And you can enter each one only once every twenty hours. Your normal teleport crystals won't work on these teleporters. You will have to get mission crystals from Gnomally.07:21 Player: missions
+Gnomission: You are already allowed to enter the warzones. There is nothing I can do for you. Get a mission crystal from Gnomally and better find some friends to join you.
+Player: mission
+Gnomission: You are already allowed to enter the warzones. There is nothing I can do for you. Get a mission crystal from Gnomally and better find some friends to join you.
+Player: heroes
+Gnomission: You can trade special spoils of war to get a permission to use the war teleporters to the area of the corresponding boss without need of mission crystals. ...
+Gnomission: Which one would you like to trade: the deathstrike's snippet, gnomevil's hat or the abyssador lash?
+Player: hat / lash / snippet
+Gnomission: You already have this permission.
+Player: dwarf
+Gnomission: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomission: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomission: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: crystal
+Gnomission: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: global warming
+Gnomission: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomission: The more we learn about them, the more it becomes clear how little we know.
+Player: thais
+Gnomission: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomission: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomission: The sky is a somewhat frightening concept to us gnomes.
+Player: bye
+Gnomission: Good bye!

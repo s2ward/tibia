@@ -1,0 +1,62 @@
+Player: (idle)
+Grumpy Stone: Grrrr ... We would need a pair of hands.
+Grumpy Stone: Their backs are itching!
+Grumpy Stone: That's annoying!
+Player: hi
+Grumpy Stone: Please don't bother me, human being. I have my own problems.
+Player: name
+Grumpy Stone: My name doesn't concern you.
+Player: job
+Grumpy Stone: Well, that's a rather stupid question.
+Player: time
+Grumpy Stone: Time is a peculiar concept. I never understood it.
+Player: problems
+Grumpy Stone: Thank you that you helped the tooth fairy. She was really desperate. But there are other friends of mine who are in need of help. Look out for a group of talking trees north of Carlin.
+Player: tooth fairy
+Grumpy Stone: She's collecting teeth. Quirky, if you ask me.
+Player: Carlin
+Grumpy Stone: It's a place full of stone buildings and people.
+Player: mission / quest / task
+Grumpy Stone: Don't bother me!
+Player: rumours / rumors
+Grumpy Stone: My sisters and brothers told me that there is a strange evil that threatens this world.
+Player: evil
+Grumpy Stone: Ask Alkestios. He may know more.
+Player: Alkestios
+Grumpy Stone: He's seeking out some evil force he believes to threaten this world. He persuaded me of accompanying him on this foolish mission. My own fault I let him talk me into it.
+Player: fae
+Grumpy Stone: Do I look like an encyclopaedia to you? Go do your own research.
+Player: tibia
+Grumpy Stone: This is the world we are living in - a quite annoying place at times.
+Player: ab'dendriel
+Grumpy Stone: It's a place full of life, huge trees, lush plants and various animals.
+Player: elves
+Grumpy Stone: They are inhabiting Ab'Dendriel and live in close touch with nature.
+Player: kazordoon
+Grumpy Stone: It seems to be the place nearby where all those dwarves are living.
+Player: dwarves
+Grumpy Stone: They are living underneath the earth and seem to like stones. That makes them a bit more likeable than most mortals.
+Player: carlin / thais / venore / darashia
+Grumpy Stone: It's a place full of stone buildings and people.
+Player: darama
+Grumpy Stone: I have never heard of this place.
+Player: map
+Grumpy Stone: I don't think I want to talk about this.
+Player: mission
+Grumpy Stone: As much as I dislike admitting it: I need help. WE need help. See, when we arrived in this part of the world, we quickly realised that we can't linger here while keeping our true forms. We need to take over animals, plants or stones. ...
+Grumpy Stone: And we had to hurry. Some of my siblings were luckier than us and had the chance to take over animals like deer, birds or squirrels. We had to choose these stones and now we are stuck here. ...
+Grumpy Stone: I don't know for how long and with this issue you can't help us, I'm afraid. But there is something else, a trifle compared to our main problem. Nonetheless, it is annoying. ...
+Grumpy Stone: As for myself I'm fine but my sisters and brothers surrounding us are not. Their backs are itching terribly and we don't have arms and hands to scratch ourselves. Would you help us and scratch my siblings' backs to bring them some relief?
+Player: no
+Grumpy Stone: Grrr. Then off with you!
+Player: yes
+Grumpy Stone: No, this won't work. Your hands are too smooth. I guess you have to search for an appropriate tool. But no metal please! The sound of metal on stone is gruesome!
+Player: mission
+Grumpy Stone: Please return with a proper tool to scratch my siblings' itching backs.
+Player: mission
+Grumpy Stone: Thank you! Their lamentation lapsed into silence. Thus, I assume you brought them some relief. Here, take this map part in return. I'm not interested in this treasure anymore, I just want to return to our hidden realm. ...
+Grumpy Stone: Search for the last part somewhere in the Fields of Glory. It's hidden in a big fly agaric.
+Player: map
+Grumpy Stone: I already gave you the map.
+Player: bye
+Grumpy Stone: Nature's blessing!

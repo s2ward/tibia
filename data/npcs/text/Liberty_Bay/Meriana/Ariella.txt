@@ -1,0 +1,74 @@
+Player: hi / hello  
+Ariella: Hi there Player, and welcome to my tavern.  
+Player: addon / outfit / hat  
+Ariella: You mean my hat? Hmm, I might have another one just like that, but I don't fully trust you yet. Become one of us by solving all missions entrusted to you, and we will see.  
+Player: cake  
+Ariella: Sorry, but I'm all out of stock.  
+Player: Carlin  
+Ariella: Carlin is too far away to be of any concern for us.  
+Player: Charlotta  
+Ariella: Can you imagine that she was already old when I was a little girl?  
+Player: Chondur  
+Ariella: He is a strange fellow, but given his profession, he's probably supposed to behave in a strange way.  
+Player: cult  
+Ariella: Chondur looks out that our little community does not get associated with that cult.  
+Player: excalibug  
+Ariella: If you ever stumble upon that weapon, I know some persons that are interested in buying it for a decent price.  
+Player: Ferumbras  
+Ariella: The regulars often tell stories about this evil mage. Some claim to have heard his laughter in the howling of a storm.  
+Player: governor  
+Ariella: The governor is just a Venorean puppet.  
+Player: Isolde  
+Ariella: A paladin that rarely leaves the bastion.  
+Player: job  
+Ariella: I run this tavern. If you know anything about sailors, you will know what an essential job that is <wink>.  
+Player: king  
+Ariella: I wish that fine king would walk in here some day. Boy, I'd give him a piece of my mind for sure.  
+Player: liberty bay  
+Ariella: Liberty Bay was once my home but I feel comfortable here too. There is nothing that I really miss.  
+Player: loveless / theodore  
+Ariella: He and the governor are good pals. Loveless' wishes are the governor's commands.  
+Player: mission  
+Ariella: I have no further missions for you, sorry.  
+Player: name  
+Ariella: My name is Ariella, sweety.  
+Player: natives  
+Ariella: We feel ourselves as natives of these isles.  
+Player: offer / buy / goods / sell / equipment / stuff / ware  
+Ariella: I can offer you food and drinks. I also offer juice squeezers. If you like to see my offers, ask me for a trade.  
+Player: pirate  
+Ariella: The true pirates are those that give us a bad name. They operate from a place called the Howling Grotto as far as I know. I have no clue where that might be though.  
+Player: plantation  
+Ariella: Did you know that they harvest the sugar canes with fire?  
+Player: quara  
+Ariella: The fishmen are terrifying. They are the nightmare that lurks in the depths of the sea.  
+Player: rum  
+Ariella: Rum is a sailor's lifeblood.  
+Player: Striker  
+Ariella: Ray is our leader. He neither was elected nor asked for this position. He's just the best captain we have and he is very smart.  
+Player: sugar  
+Ariella: Rum is made of sugar.  
+Player: task  
+Ariella: I can't think of any task for you right now.  
+Player: thais  
+Ariella: For all what I have heard of my regulars, it is a loud and crowded town.  
+Player: trade  
+Ariella: Of course, take a look at my tasty offers.  
+Player: Tristan  
+Ariella: A young knight from Thais who defeated some of our best men in combat.  
+Player: venore  
+Ariella: They say that Venore is responsible for many bad things that have happened to Liberty Bay. We made them pay for what they did to us and we'll continue to do so until these moneybags give up and retreat.  
+Player: voodoo  
+Ariella: No talks about magic and that stuff in my tavern!  
+Player: Wyrmslicer  
+Ariella: The others say he's quite competent and makes life hard for us and our ships.  
+Player: tavern  
+Ariella: I can offer you food and drinks. I also offer juice squeezers. If you like to see my offers, ask me for a trade.  
+Player: food  
+Ariella: Are you looking for food? I have cheese, ham, and meat as well as a variety of fruits. Just ask me for a trade.  
+Player: drinks  
+Ariella: Well, we usually drink rum here, but right now we're running dry. However, I sell juice squeezers to make fruit juice. If you're interested, ask me for a trade.  
+Player: fruits  
+Ariella: I have bananas, apples, oranges, strawberries, melons, pumpkins, blueberries, mangoes and pears, sweety. Just ask me for a trade.  
+Player: bye / farewell  
+Ariella: Good bye.  

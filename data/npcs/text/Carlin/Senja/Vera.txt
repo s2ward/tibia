@@ -1,0 +1,20 @@
+Player: hi
+Vera: Hello Player! Do you need some furniture for your house?
+Player: name
+Vera: My name is Vera. I sell furniture and equipment.
+Player: job
+Vera: Have you moved to a new home? I'm the specialist for equipping it.
+Player: furniture / equipment / goods / buy / sell
+Vera: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.
+Player: time
+Vera: It is 11:46 pm. Do you need a clock for your house?
+Player: news
+Vera: You mean my specials, don't you?
+Player: trade
+Vera: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?
+Player: type
+Vera: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?
+Player: (any type)
+Vera: Here you go.
+Player: bye
+Vera: Good bye, Player.

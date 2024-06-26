@@ -1,0 +1,67 @@
+Virgil: Glooth papers rising! Capital!
+Player: hi / hello  
+Virgil: Good day to you, Sir. How may I be of assistance? Bank business, perhaps?  
+Player: name  
+Virgil: Virgil Carefew, at your service.  
+Player: job  
+Virgil: I am the director of the Oramond Island Bank.  
+Player: time  
+Virgil: It is 5:58 am, precisely.  
+Player: virgil  
+Virgil: The name runs in our family since generations, and is traditionally given to the firstborn son.  
+Player: minotaur  
+Virgil: Those creatures are a constant threat. I am glad that our city guards take care of protecting the city against their continual raids! However, if you could spare some time, I am sure some assistance would not come amiss.  
+Player: airtight cloth  
+Virgil: What a modern idea. I see no practical use at present.  
+Player: thais  
+Virgil: We may be interested in trading further goods and glooth products, but that will be voted on by the magistrate.  
+Player: glooth  
+Virgil: The wealth of our city. Did you know that it is of animal origin? There is a book about it somewhere, I am sure.  
+Player: food
+Virgil: I can recommend the Old Opera Café just next door. Miss D'Albray makes a most delightful and nourishing glooth sandwich, and sells provisions to adventurous natures.
+Player: king  
+Virgil: Ruled by a king? We had a princess, once. Ah, that was long ago. Primitive times.  
+Player: factory  
+Virgil: The new factory will surely prove beneficial to Rathleton's financial success.  
+Player: slums  
+Virgil: The lower part of the city is, sadly, quite derelict. It used to be the heart of the older Rathleton town, but times have changed, and with the discovery of glooth, some have prospered and some have not. ...  
+Virgil: Nowadays, only the poor and destitute live there. However, rents in the lower part of town are low, which is why scientists and tradesmen continue to run their business near the harbour.  
+Player: gossip  
+Virgil: I am unable to relate the exact sayings of the lower caste to you, but I believe that most gossips emerge from the older part of town. Ask someone in any tavern there, and you will hear all the sailor's yarn you can possibly wish for.  
+Player: magistrate  
+Virgil: Yes, the magistrate executes the will of the people. It is a most remarkable institution. If you wish to learn more about our city, you should visit Barazbaz, the magistrate's historian.  
+Player: minotaur / minotaurs  
+Virgil: Those creatures are a constant threat. I am glad that our city guards take care of protecting the city against their continual raids! However, if you could spare some time, I am sure some assistance would not come amiss.  
+Player: captain caveworm
+Virgil: I've never seen anything that can be attributed to him.
+Player: maxxen  
+Virgil: He turned evil and built a golem army to destroy the city. But he was stopped.  
+Player: news  
+Virgil: I read in the Oramond Observer that gloothomir papers are still in high demand,whereas the gloothine seems to be suffering a sudden loss of favour.  
+Player: dr merlay / emily / henry  
+Virgil: I am sorry, I do not discuss other clients' matters with a third, as a rule.  
+Player: edmund  
+Virgil: Ah, yes. Mr Orlond has rented the upper storey. You will find there a selection of the finest Oramondian jewellery.  
+Player: fyodor  
+Virgil: Ah. <coldly> Our local post officer and news editor. I believe you will find him quite outspoken on political matters of Oramond, if a little inclined to drama.  
+Player: mordecai  
+Virgil: Professor Stanton is an expert on runes and wands. He used to teach sorcerer spells as well, but has now left that post to his close friend, Mr Barnabas Dee.  
+Player: maro  
+Virgil: That minotaur Dr Stanton brought with him from a field trip is a constant source of danger, a threat to our city! Sadly, Dr Stanton perseveres in a most unfortunate naivete regarding his 'foster-son'.  
+Player: graham  
+Virgil: Our local knight trainer. <sniffs> He does a fairly good job, or so I am told. Please excuse me, I have pressing matters to attend to.  
+Player: alaistar  
+Virgil: Dr Stanton is one of our most renown researchers in the fields of magical liquids and Oramondian botany. ...  
+Virgil: He has written extensive works on the minotaurs especially, and thinks it possible to communicate with them. <sniffs> Imagine that! Communicate with our enemies! It needs a scientific mind like Dr Stanton's to have such a ... peacable notion.  
+Player: barazbaz  
+Virgil: Our local historian is well versed in our city's past. Feel free to visit him - or to read through our library in the magistrate.  
+Player: barnabas dee  
+Virgil: Mr Dee has a somewhat unusual hobby - he is an astrologer. Or was it astronomer? Please excuse me, I am not an adept in these things. Ah yes, and he also teaches sorcerer spells.   
+Player: silas  
+Virgil: A very ancient family of impeccable repute. Silas, the youngest son, is a proficiant bowmaker and learned paladin trainer. You should visit his shop if you need ammunition.  
+Player: christine  
+Virgil: Young Miss D'Albay indulges in running a little business these days, but I am certain you will find her glooth sandwiches to your taste.  
+Player: terrence  
+Virgil: An energetic man, and also the captain of the city guards. If you wish to undertake a mission for the city, he is the man to talk to.  
+Player: bye / farewell  
+Virgil: Enjoy your day, Sir.  

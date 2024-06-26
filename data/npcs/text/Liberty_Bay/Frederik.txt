@@ -1,0 +1,126 @@
+Player: hi / hello  
+Frederik: Hi there and welcome to my little magic shop.  
+Player: Carlin  
+Frederik: Carlin is a druid town. I think I would not like it either. Not that I am not accustomed to be ordered about by women.  
+Player: Charlotta  
+Frederik: Another of the locals favourites. Of course she can cure them, she's a druid and herbalist after all. It takes a really ignorant and superstitious bunch of people to make her something more than a woman who is well versed in herbal lore.  
+Player: Chondur  
+Frederik: Some silly tricks and superstition don't make him a sorcerer, you know? But for the so-called natives here it seems sufficient. Those fools actually believe that he has some power.  
+Player: cult  
+Frederik: I have no doubts at all that this superstitious bunch of foolish natives has several cults.  
+Player: eleonore  
+Frederik: The governor's daughter <whistles> quite a babe, I tell you, but of the arrogant type. Perhaps she would notice me if I had more money and were a master sorcerer.  
+Player: excalibug  
+Frederik: Yeah, if I should ever find it, I'll keep it for you.  
+Player: Explorer Society  
+Frederik: Quite an ambitious bunch. I don't understand what they are up to since their researches rarely produce something usable. But who cares anyway.  
+Player: Ferumbras  
+Frederik: I will not pass any information about that subject.  
+Player: governor  
+Frederik: Bad luck if you're a nobleman, get a flashy title and, woosh, end up here in boring Liberty Bay.  
+Player: Isolde  
+Frederik: Quite nice if you like the silent and thoughtful type.  
+Player: job  
+Frederik: I am the assistant of the great mage Malunga. I handle all the things she can't be bothered with. Among other things, I sell magic equipment like blank runes, potions and suchlike.  
+Player: king  
+Frederik: It's the king's land. <shrugs> He will know what's best for it.  
+Player: liberty bay  
+Frederik: It is not quite the backwater town I had expected when I had to follow my mistress here, but it's worse enough with all those ignorant natives and quara and pirates and god knows what else.  
+Player: loveless / theodore  
+Frederik: He is the great puppet master here. I have no idea who hangs on his strings but I am sure that many do.  
+Player: natives  
+Frederik: Those fools think they could have done better without us. Oh yeah, of course. First they would have settled their quarrels and then driven away the quara from the seas. Hehe.  
+Player: pirate  
+Frederik: They are just bandits with ships. Nothing special at all.  
+Player: quara  
+Frederik: Liberty Bay is a horrible place, but the quara alone would be reason enough just to kiss this godforsaken place good bye.  
+Player: raymond striker  
+Frederik: Another nuisance the army could not handle yet.  
+Player: thais  
+Frederik: Even dirty, old Thais would be better than this place. But who asks an assistant after all? Yeah, right, no one does. And so I am here  
+Player: trade  
+Frederik: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?  
+Player: Tristan  
+Frederik: A shiny knight in a shiny armour. I don't get it. Why do women always fall for men like him?  
+Player: venore  
+Frederik: If you'd ask me, those Venoreans have their fingers quite deep in the honey pot, if you know what I mean. Our whole presence here serves Venore and our profits more than anything else.  
+Player: voodoo  
+Frederik: Hey, I am studying that stuff and I can tell you: there is no such thing as voodoo. We sorcerers must know that. And we'd be damned better in it than those witch doctors.  
+Player: Wyrmslicer  
+Frederik: Fighters are a necessary evil. I just wish they would do a better job in keeping all trouble away from us.  
+Player: sugar  
+Frederik: Sugar is important for the isle's economy.  
+Player: rum  
+Frederik: A mug of rum now and then certainly doesn't hurt.  
+Player: plantation  
+Frederik: The plantations keep things going here.  
+Player: offer / buy / goods / sell / equipment / stuff / ware / magic / runes / spellbook  
+Frederik: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see my offers, ask me for a trade.  
+Player: spell rune  
+Frederik: I sell missile runes, area runes, field runes, wall runes, bomb runes, healing runes, convince creature runes and chameleon runes.  
+Player: area rune  
+Frederik: I can offer you avalanche runes, great fireball runes and explosion runes.  
+Player: bomb rune  
+Frederik: I can offer you fire bomb runes.  
+Player: wall rune  
+Frederik: I can offer you fire wall runes, energy wall runes and poison wall runes.  
+Player: healing rune  
+Frederik: I can offer you antidote runes, intense healing runes and ultimate healing runes.  
+Player: field rune  
+Frederik: I can offer you fire field runes, energy field runes, poison field runes and destroy field runes.  
+Player: missile rune  
+Frederik: I can offer you light magic missile runes, heavy magic missile runes, stalagmite runes and sudden death runes.  
+Player: (name of the rune that the seller has in the assortment)  
+Frederik: Yes, those runes are in my assortment. Ask me for a trade to have a look.  
+Player: (the name of a rune which the seller does not have in his assortment)  
+Frederik: Sorry, but runes of this type can't be purchased here.  
+Player: potion  
+Frederik: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.  
+Player: wands  
+Frederik: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: yes  
+Frederik: The names of the wands are 'Wand of Vortex', 'Wand of Dragonbreath', 'Wand of Decay', 'Wand of Draconia', 'Wand of Cosmic Energy', 'Wand of Inferno', 'Wand of Starstorm' and 'Wand of Voodoo'.  
+Player: Wand of Vortex  
+Frederik: This energy wand is only for sorcerers of level 7 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Dragonbreath  
+Frederik: This fire wand is only for sorcerers of level 13 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Decay  
+Frederik: This death wand is only for sorcerers of level 19 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Draconia  
+Frederik: This fire wand is only for sorcerers of level 22 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Cosmic Energy  
+Frederik: This energy wand is only for sorcerers of level 26 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Inferno  
+Frederik: This fire wand is only for sorcerers of level 33 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Starstorm  
+Frederik: This energy wand is only for sorcerers of level 37 and above. If you'd like to buy one, ask me for a trade.  
+Player: Wand of Voodoo  
+Frederik: This death wand is only for sorcerers of level 42 and above. If you'd like to buy one, ask me for a trade.  
+Player: rods  
+Frederik: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
+Player: yes  
+Frederik: The names of the rods are 'Snakebite Rod', 'Moonlight Rod', 'Necrotic Rod', 'Northwind Rod', 'Terra Rod', 'Hailstorm Rod', 'Springsprout Rod' and 'Underworld Rod'.  
+Player: Snakebite Rod  
+Frederik: This earth rod is only for druids of level 7 and above. If you'd like to buy one, ask me for a trade.  
+Player: Moonlight Rod  
+Frederik: This ice rod is only for druids of level 13 and above. If you'd like to buy one, ask me for a trade.  
+Player: Necrotic Rod  
+Frederik: This death rod is only for druids of level 19 and above. If you'd like to buy one, ask me for a trade.  
+Player: Northwind Rod  
+Frederik: This ice rod is only for druids of level 22 and above. If you'd like to buy one, ask me for a trade.  
+Player: Terra Rod  
+Frederik: This earth rod is only for druids of level 26 and above. If you'd like to buy one, ask me for a trade.  
+Player: Hailstorm Rod  
+Frederik: This ice rod is only for druids of level 33 and above. If you'd like to buy one, ask me for a trade.  
+Player: Springsprout Rod  
+Frederik: This earth rod is only for druids of level 37 and above. If you'd like to buy one, ask me for a trade.  
+Player: Underworld Rod  
+Frederik: This death rod is only for druids of level 42 and above. If you'd like to buy one, ask me for a trade.  
+Player: flask / vial / deposit  
+Frederik: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: yes  
+Frederik: Here you are ... 10 gold.  
+Player: fluid  
+Frederik: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: bye / farewell  
+Frederik: Yeah, bye.  

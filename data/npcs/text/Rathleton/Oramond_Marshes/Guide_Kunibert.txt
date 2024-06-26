@@ -1,0 +1,73 @@
+Guide Kunibert: Hello, is this your first visit to Rathleton? I can show you around a little.
+Guide Kunibert: Need some help finding your way through Rathleton? Let me assist you.
+Guide Kunibert: I can inform you about the status of this world, if you're interested.
+Guide Kunibert: Free escort to the depot for newcomers!
+Guide Kunibert: Talk to me if you need directions.
+Player: hi
+Guide Kunibert: Welcome to Rathleton, Player! Looking for a transport to the main isle of Oramond or would you like some information and a map guide?
+Player: name
+Guide Kunibert: I'm Kunibert, of course.
+Player: job
+Guide Kunibert: I will help you find your way in the marvellous city of Rathleton. I can mark important locations on your map and give you some information about the town and the world status.
+Player: time
+Guide Kunibert: It's 12:46 am right now. Which other information do you require?
+Player: rathleton
+Guide Kunibert: For a long time, our city was shut off from the rest of the world by a thick mist that made it impossible to pass through the storm-plagued reefs which surround the isle. ...
+Guide Kunibert: We established contact to the outside world only recently and were surprised how different things are handled out there.
+Player: city
+Guide Kunibert: Would you like to learn more about the city's layout, our government or our economy?
+Player: layout
+Guide Kunibert: In downtown you'll find the factories, living quarters and the like, whereas the magistrate, the shops and some of the more expensive houses are found in uptown on the hill. I've marked a few points of interest on your map.
+Player: government
+Guide Kunibert: We have no kings or the like. The magistrate runs the city according to the will of the people.
+Player: magistrate
+Guide Kunibert: The magistrate oversees the ruling of the city. Of course only following the will of the people. ...
+Guide Kunibert: The magistrate is only responsible for execution of decisions that were made by the votings. If you get accustomed to Rathleton you'll soon enough learn about the amazing voting system that we have here.
+Player: will
+Guide Kunibert: All citizens may vote on what should be done. The number of votes a person may spend is determined by the contribution of that person to the city's prosperity. ...
+Guide Kunibert: There are several issues to vote upon and even outsiders like you can earn voting rights with some contribution.
+Player: economy
+Guide Kunibert: Natural resources are quite rare and precious here, but we have one thing that distinguishes us from everywhere else, and that's the gloothworms. ...
+Guide Kunibert: They are tiny creatures that constantly produce a slimy substance that we call glooth. Glooth is the raw material which many of our crafts depend upon.
+Player: glooth
+Guide Kunibert: The glooth is an extremely useful discovery that changed everything for us. ...
+Guide Kunibert: All the possibilities to shape and use the glooth made it possible to free resources for other projects and provided us with a constant and stable supply of material and energy. ...
+Guide Kunibert: When treated with lightning, the glooth changes its properties drastically and permanently. ...
+Guide Kunibert: The glooth is a marvel to behold! You can't imagine how versatile it actually is. I could tell you for hours about the advantages of glooth, but why not go to Rathleton and see it first-hand!
+Player: lightning
+Guide Kunibert: Somehow, lightning influences the way the glooth can be used. If you apply a certain degree of lightning energy to the glooth, it turns into an entirely different substance than before. ...
+Guide Kunibert: It can be turned into an elastic substance that can be given a variety of shapes in its creation process. ...
+Guide Kunibert: It can become hard like metal or even achieve various states of liquidity, where it behaves in a completely different way and can be used as fuel for fires, grease for machine parts or even as nutrition for people. ...
+Guide Kunibert: We found many uses for the glooth, and yet, ingenious inventors still come up with new shapes and new uses every now and then.
+Player: minotaur
+Guide Kunibert: The minotaurs are a constant threat to the city. From their lairs in the east they continuously launch their attacks on us.
+Player: offer
+Guide Kunibert: I'm not buying or selling anything, but I could tell you about the shops in town.
+Player: shops
+Guide Kunibert: You can buy almost everything here! Visit one of our shops for weapons, armors, magical equipment, spells, gems, tools, furniture and everything else you can imagine.
+Player: weapon / ammunition / bow / armor
+Guide Kunibert: You can buy weapons and armor in Flint's Finest, and ammunition in The Archer's Grounds. I can mark them on your map if you want.
+Player: potion / rune / magic
+Guide Kunibert: Magical equipment like runes and potions can be bought in The Magic Emporium, or let me mark it on your map.
+Player: spells
+Guide Kunibert: The first address for learning spells of your vocation is the Oramond Temple. I can mark it on your map.
+Player: gems
+Guide Kunibert: Edmund Orlond runs a select shop in the Bank building, on the second floor. I can mark it on your map if you like.
+Player: tools
+Guide Kunibert: General goods like ropes and shovels can be bought in Maro's Tool shop. I can mark it on your map if you want.
+Player: furniture
+Guide Kunibert: You can buy furniture in Nicholas' shop, Interior Design. There you can buy some of Rathleton's finest glooth-made furniture as well as the latest Venorean imports. I can mark it on your map.
+Player: post
+Guide Kunibert: The Oramond Post Office is right next to the bank. Fyodor will assist you with everything you need concerning mail and postal wares.
+Player: temple
+Guide Kunibert: The temple can be found in one of the uptown districts. Look for stairs up from the lower city, you'll find the temple in the northwest of the upper city.
+Player: mark / map / information
+Guide Kunibert: Would you like me to mark locations like the warehouses, temple and depot on your map?
+Player: yes
+Guide Kunibert: Here you go.
+Player: no
+Guide Kunibert: Well, nothing wrong about exploring the town on your own. Let me know if you need something!
+Player: change / change
+Guide Kunibert: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
+Player: bye
+Guide Kunibert: Good bye and enjoy your stay in Rathleton, Player.

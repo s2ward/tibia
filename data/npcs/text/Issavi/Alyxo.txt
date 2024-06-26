@@ -1,0 +1,161 @@
+Player: hi / hello  
+Alyxo: Greetings, dear art lover! Welcome to the Seaside Theatre!  
+Player: Ab'Dendriel  
+Alyxo: I guess it's the place where most of the Tibian elves are living.  
+Player: ambassador  
+Alyxo: The Ambassador of Rathleton is an envoy of Oramond. His duties in Issavi include cultivating the diplomatic relations between Kilmaresh and Oramond as well as overseeing the trade between the two nations. ...  
+Alyxo: He has a residence in the eastern part of the city but most often you will find him in the imperial palace.  
+Player: Anuma  
+Alyxo: The Anuma are magical beings that inhabit the continent Kilmaresh. It is told that they were once created by the sun gods Suon and Fafnar. There are several kinds of Anuma: Sphinxes, lamassu, gryphons and manticores. ...  
+Alyxo: There might be even more but if so, those Anuma are living so seclusive that mortals barely ever encounter them.  
+Player: Bastesh  
+Alyxo: Bastesh is a calm and mystical goddess, the patron of the oceans and sea creatures. She's the daughter of Uman and Sula and also called The Mistress of the Sea or The Keeper of Wisdom. ...  
+Alyxo: She was once attacked by the wild Fafnar, out of jealousy and pride. After the religious war between the two cults of Suon and Fafnar, the people of Kilmaresh adopted the world view that Suon's true sister wasn't Fafnar but Bastesh. ...  
+Alyxo: So they started worshipping her instead of the Wild Sun. Thus, Bastesh has a firm place in Kilmaresh's religious life since more than thousand years.  
+Player: Carlin  
+Alyxo: I heard that they have a beautiful theatre there. On the other hand they worship Fafnar - a fact that dilutes this city's allure.  
+Player: catacomb  
+Alyxo: Before the people of Issavi established a cemetery beyond the city walls they used to bury the deceased underneath the city. The extensive tunnel network still exists down there. But it is a dangerous place to visit. ...  
+Alyxo: Not only do the Anuma watch over the peace in death. I also heard that there are Fafnar cultists in hiding down there. ...  
+Alyxo: Rumour has it that there are several sealed doors that could only be opened by priests. Those priests were wearing special masks which allowed them to pass.  
+Player: Darashia  
+Alyxo: I heard that it is a big city on one of the other continents. But we don't have much contact with the outside world.  
+Player: dwarves / dwarfs  
+Alyxo: They are often grumpy and blunt. But they appreciate beautiful stone statues which is a point in their favour for sure.  
+Player: Edron  
+Alyxo: I heard that it is an island out there. But we don't have much contact with the outside world.  
+Player: elves / elfes  
+Alyxo: They are great lovers of music and art. What more could an artist wish for?  
+Player: empress  
+Alyxo: After the downfall of the old empire and Suon's Wrath, the Anuma took control of the new empire. Since then, the position of emperor or empress is always taken by a sphinx, lamassu or gryphon. ...  
+Alyxo: The wild manticores seem to be excluded from this rank. These days we have a sphinx empress who is ruling Kilmaresh wisely and benevolently. I'm sure she has a name but none of us knows it. ...  
+Alyxo: To us, she is just 'the Empress' and this is all we have to know.  
+Player: Eshaya  
+Alyxo: He's the leader of the Sapphire Blade. A kind and noble man but he is also a brave warrior and will not hesitate to defend Issavi if need be. I should also mention that he regularly visits the theatre and is interested in arts and culture.  
+Player: Fafnar  
+Alyxo: Fafnar is a wild and relentless goddess, one of the two suns of our world. She's the daughter of Fardos and also called the Scorching Sun or the Smiter. It is said that unlike her brother Suon, she observes creation with hate and jealousy. ...  
+Alyxo: But her worshippers think she's the stronger one of the two suns, that Suon's light turns pale compared to her brightness. It should be mentioned that the worship of Fafnar is forbidden in Kilmaresh since the downfall of the old empire. ...  
+Alyxo: Personally, I don't judge and I don't care which sun is the right one. But I know that the cult of Fafnar causes plenty of trouble here in Issavi and in all of Kilmaresh. ...  
+Alyxo: Fights and violence are enemies of the fine arts and for that reason I'm not a friend of the Fafnar cultists. Religious reasons aside, I shun them because of the trouble and violence they are bringing to Issavi.  
+Player: Fardos  
+Alyxo: Fardos is considered the creator, often called the Great Observer. Many people believe that it was his doing that we possess divine souls.  
+Player: glooth  
+Alyxo: The miraculous glooth, won from unassuming, tiny glooth-worms, is the source of Rathleton's wealth and progress. Almost all of the city's amazing discoveries and inventions are based on this curious substance.  
+Player: golden  
+Alyxo: Golden masks are common funerary objects in Kilmaresh. Many deceased are buried with such a mask.  
+Player: gryphon  
+Alyxo: Gryphons have the body, tail and back legs of a lion but the forelegs, head and wings of an eagle or hawk. It is said that out of all Anuma, the sun god Suon loved the gryphons most whereas his wild sister Fafnar favoured the manticores. ...  
+Alyxo: Gryphons live very reclusive and love the high mountain peaks of Kilmaresh. In very rare cases, a gryphon will forge a bond with a human it regards worthy. If this happens, the gryphon will agree to carry the mortal on its back.  
+Player: Hippo  
+Alyxo: Hippos are large mammals who live in the river Nykri. But beware: They might look cute but they are among the most dangerous animals of Kilmaresh. They are highly aggressive and unpredictable. ...  
+Alyxo: I heard that they love balls made of reed flour and appreciate to be fed with those treats.  
+Player: Issavi  
+Alyxo: Issavi is the capital of Kilmaresh. Here, you will find magnificent temples, palaces and government buildings, five to six stories high and built up in stages. ...  
+Alyxo: As you might have noticed, one of the cityscape's defining features are the colors red and blue. Red or orange represents the sun god Suon and blue the sea goddess Bastesh, both of them worshipped in Kilmaresh. ...  
+Alyxo: Statues of these two deities can be found in many parts of the city, as well as portraits of sphinxes, manticores, lamassu and gryphons.  
+Player: ivory  
+Alyxo: In the ancient Kilmareshian funerary cult, an ivory mask symbolised wealth in the afterlife.  
+Player: job  
+Alyxo: I'm running this theatre but I also regard myself as an actress and cantrix.  
+Player: Kallimae  
+Alyxo: She's the current leader of the Midnight Flame. Kallimae is a powerful oracle and her visionary power is unparalleled as of yet. Many people in Issavi believe that she is blessed by the goddess Bastesh herself.  
+Player: Kazordoon  
+Alyxo: I guess it's the place where most of the Tibian dwarves are living.  
+Player: Kilmaresh  
+Alyxo: Over a thousand years ago, Kilmaresh formed a contiguous land mass with Krailos and Oramond. It was inhabited by a human civilization that had established a thriving empire but was cut off from the rest of the landmass by Suon's Wrath. ...  
+Alyxo: In Kilmaresh, you will find mainly dry steppe regions. At the centre lies a large mountain range and you will always discover small oases and tombs scattered over the steppe. ...  
+Alyxo: A broad river, the Nykri, rises in the central mountains and forms a fork halfway to the sea. Here lies the big city Issavi, the heart of Kilmaresh. The original capital Nuur was destroyed by Suon's Wrath over a thousand years ago.  
+Player: Krailos  
+Alyxo: Poetically put, Krailos is Kilmaresh's long lost sister. Over a thousand years ago, Krailos and Kilmaresh were a contiguous land mass, inhabited by a human civilization that had established a thriving empire. ...  
+Alyxo: Due to a major natural disaster, known as Suon's Wrath, the eastern peninsula was separated from the continent and is now cut off from the rest of the landmass by a strait. ...  
+Alyxo: Today, Krailos is mainly populated by ogres, a simple, warlike people, more interested in a fight and good food than in politics.  
+Player: lamassu  
+Alyxo: Lamassu have the body of a bull, feathered wings and a human head. They are willing to assist mortal creatures in combat if they are convinced that those under their protection are worthy and pure of heart. ...  
+Alyxo: Lamassu prefer isolated ruins and abandoned temples as their homesteads.  
+Player: manticore  
+Alyxo: Manticores have the body of a lion with a human face, leathery wings and a huge scorpion tail. They are lethal predators which have a preference for human flesh. ...  
+Alyxo: Therefore, albeit on the quiet, the human population of Kilmaresh also calls them 'man-eaters'. Other than most Anuma, manticores are ferocious and savage, more wild beasts than noble magical beings.  
+Player: mask  
+Alyxo: In the early days of the New Empire, there were four types of masks related to the ancient Kilmareshian funerary cult. A silver mask represented the purity of the soul. The mirror mask symbolised self-awareness in death. ...  
+Alyxo: The wooden gryphon mask signified the veneration of the Anuma and the ivory mask symbolised wealth in the afterlife. A funeral was always held by four priests, each of them wearing one of those masks.  
+Player: Midnight Flame  
+Alyxo: This group is a small circle of chosen knights and seers led by the lamassu Arishum. To honour the blinded lamassu, all members of the circle tie gauze scarfs around their eyes. ...  
+Alyxo: All of their seers have second sight and are able to foresee certain future events or hidden secrets.  
+Player: mirror  
+Alyxo: In the ancient Kilmareshian funerary cult, a mirror mask symbolised self-awareness in death.  
+Player: mission / demon / help / quest / task  
+Alyxo: There is indeed something I require assistance with. But as I heard, Eshaya, the leader of the Sapphire Blade, also has some problems. He is responsible for Issavi's safety, so I give his request priority. ...  
+Alyxo: You should talk to him first. You can find him in his house at the market place.  
+Player: Moe  
+Alyxo: I'm not dead sure but I guess he's a sibang who lives here in Issavi.  
+Player: name  
+Alyxo: My name is Alyxo. The people of Issavi also call me the Veiled Beauty.  
+Player: Narsai  
+Alyxo: Ah, my beautiful Narsai. I met her in the market place five years ago. She was so young, so cheerful, so unconsumed by the world's liabilities. So different from me and so much my counterpart. ...  
+Alyxo: She felt the same and it didn't take long until we were a couple. She is a member of the Midnight Flame but she is actually blind whereas the other members just pretend to be sightless. ...  
+Alyxo: Many people may think that a blind woman and a medusa are a perfect match. I leave this judgment to others. I'm content with the fact that I'm happy.  
+Player: net  
+Alyxo: A tools trader could have one, I guess.  
+Player: news / rumours / rumors  
+Alyxo: Allegedly, Fafnar cultists are roaming the sewers underneath the city. They caused plenty of trouble in the past.  
+Player: Oramond  
+Alyxo: Oramond is the southern region of the continent that Kilmaresh once was part of, too. The peninsula is rugged and offers only little inhabitable space and natural resources. ...  
+Alyxo: Only through exploitation of the small and unassuming glooth-worms, the inhabitants managed to survive and even built a prospering civilization on their own. Also, a powerful minotaur tribe has settled there.  
+Player: Rathleton  
+Alyxo: The town of Rathleton is the centre of human society on Oramond. The culture and technology there has evolved separately from other realms and produced something very remarkable: glooth.  
+Player: Sapphire Blade  
+Alyxo: They are a group of elite warriors. All of them carry blades made of a blue metal called tagralt. They are often in conflict with Fafnar cultists and the remaining ogres on Kilmaresh. ...  
+Alyxo: Most of them are fighters but you may find some sorcerers among them as well. They are held in remarkably high esteem by the Anuma.  
+Player: silver  
+Alyxo: In the ancient Kilmareshian funerary cult, a silver mask represented the purity of the soul.  
+Player: sphinx  
+Alyxo: Sphinxes have a leonine body, big feathered wings and human heads with their faces being a mix of humanoid and feline. They are highly intelligent and allegedly immortal. ...  
+Alyxo: Some of them love riddles, others are more interested in stories, poems or songs. Many sphinxes are benevolent, but some are rather merciless and dangerous.  
+Player: Suon  
+Alyxo: Suon is a kind and benevolent god, one of the two suns of our world. He's a son of Fardos and some call him the Life-Bringing Sun or just The King. It is said that he observes creation with love and blesses us with warmth and growth. ...  
+Alyxo: On the other hand, the Fafnar cultists guess he is the misguided sibling and that his light turns pale compared to her brightness. Personally, I don't care which sun is the right one. ...  
+Alyxo: But I see that the worship of Suon and Bastesh grants Kilmaresh stability and growth right now - and this is exactly what the fine arts need to prosper and flourish. ...  
+Alyxo: Therefore I support the cult of Suon and Bastesh and have no love for the Fafnar cultists and all the trouble they cause. Besides, the Anuma decreed that Fafnar's worship is forbidden and I guess they had good reason for their decision.  
+Player: tagralt  
+Alyxo: In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. Sapphire Blade members use this metal for their swords.  
+Player: Thais  
+Alyxo: I heard that it is a big city on one of the other continents. But we don't have much contact with the outside world.  
+Player: Theatre  
+Alyxo: I'm talking about this beautiful stage. I'm managing this theatre since several decades to entertain the good people of Issavi and to support the fine arts in Kilmaresh. Because of its location at the coast I call it the Seaside Theatre.  
+Player: Tibia  
+Alyxo: Well, it's the world we live in, isn't it?  
+Player: time  
+Alyxo: It is exactly 11:22 pm.  
+Player: Veiled  
+Alyxo: Many people fear a medusa's eyes. This is the reason I'm wearing a veil most of the time. It doesn't bother me but makes them more comfortable in my presence.  
+Player: Venore  
+Alyxo: I heard that it is a big city on one of the other continents. But we don't have much contact with the outside world.  
+Player: wooden  
+Alyxo: In the ancient Kilmareshian funerary cult, a wooden gryphon mask represented the veneration of the Anuma.  
+Player: Wrath  
+Alyxo: A long time ago, the people of Kilmaresh worshipped the two sun gods, Suon and Fafnar. They attached great importance to the fact that the worship of both deities was always in balance. ...  
+Alyxo: However, there came a time when a group of Fafnar's adherers became more and more influential and aggressive until this sect postulated the sole worship of Fafnar. ...  
+Alyxo: This resulted in a civil war between the Fafnar followers and those who fought for the duality of the two sun gods. Ultimately, the war was ended by Suon himself. ...  
+Alyxo: He split off the eastern peninsula from the western part of the land mass, destroying the former capital Nuur. This event is known as Suon's Wrath ever since.  
+Player: Xogixath / Mozradek / Bragrumol  
+Alyxo: I'd rather not discuss this issue.  
+Player: outfit / addon / royal / costume / crown / shield / armor / donation  
+Alyxo: In exchange for a truly generous donation of gold and silver tokens, I will offer a special outfit. Do you want to make a donation?  
+Player: yes  
+Alyxo: Excellent! Now, let me explain. If you donate 30,000 silver tokens and 25,000 gold tokens, you will be entitled to wear a unique outfit. ...  
+Alyxo: You will be entitled to wear the armor for 15,000 silver tokens and 12,500 gold tokens, and the shield and the crown for additional 7,500 silver tokens and 6,250 gold tokens each. ...  
+Alyxo: What will it be?  
+Player: shield  
+Alyxo: So you would like to donate 7,500 silver tokens and 6,250 gold tokens, which in return will entitle you to wear a unique shield?  
+Player: yes  
+Alyxo: I am sorry but are not yet entitled to wear the armor.  
+Player: crown  
+Alyxo: So you would like to donate 7,500 silver tokens and 6,250 gold tokens, which in return will entitle you to wear a crown?  
+Player: yes  
+Alyxo: I am sorry but are not yet entitled to wear the armor.  
+Player: armor  
+Alyxo: So you would like to donate 15,000 silver tokens and 12,500 gold tokens, which in return will entitle you to wear a unique red armor?  
+Player: yes  
+Alyxo: You do not have enough gold and silver tokens to donate that amount.  
+Player: bye / farewell  
+Alyxo: Farewell. Store a song in your heart at any time.  

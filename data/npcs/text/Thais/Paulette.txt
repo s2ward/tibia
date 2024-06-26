@@ -1,0 +1,93 @@
+Player: hi
+Paulette: You're Player! I know that you want to choose violet but I can still explain some of this to you. If you insist. Oh and I have some news about the contest unless you want to talk about bonus points first!
+Player: hi
+Paulette: You're Player! Ah I see, you already joined the violet / green wizard. Oh and I have some news about the contest.
+Player: name
+Paulette: My name is Paulette. I represent just one colour. Violet. So take it or leave it.
+Player: job
+Paulette: I am here to inform you about the one right choice - Feiz of Power whose colour is violet. There are in fact two other wizards you could join but isn't violet the single most beautiful colour of them all? Exactly.
+Player: tibianus
+Paulette: He chose violet.
+Player: news
+Paulette: The wizard contest has begun, join a colour - violet of course. By the way, I can also help you check the status of the contest if you're already a fan!
+Player: wizard / contest
+Paulette: There are 3 wizards. Each of them represents a different element which can be easily identified by a unique colour. ...
+Paulette: There is 'orange' for wizard Furb of Fun, 'green' for wizard Fern of Nature and 'violet' for wizard Feiz of Power.
+Player: Furb / fun / colour
+Paulette: Furb is the wizard of Fun. Pranks, jokes, funny things - he loves all of it. If you want to have some fun - it's the way to go.
+Player: orange
+Paulette: Orange is the colour of Furb, the wizard of Fun. Pranks, jokes, funny things - he loves all of it. If you want to have some fun - it's the way to go.
+Player: Fern / green
+Paulette: Fern is the wizard of Nature. Behold his powers and the elemental might that is nature itself.
+Player: Nature
+Paulette: Nature is the element of Fern, the wizard with the green colour.
+Player: Feiz / violet
+Paulette: Feiz is the wizard of Power. Strength, influence and infinite might are his attributes. If you value these attributes, join him.
+Player: Power
+Paulette: Power is the element of Feiz, the wizard with the violet colour.
+Player: status
+Paulette: So far it looks like orange is winning! Violet is next behind!
+Player: join
+Paulette: You can join any wizard by using the powder you can find in the envelope on yourself and the rest on someone who did not already join a wizard and has the right colour. ...
+Paulette: Combining yellow and red will result in orange, yellow and blue will be green and red with blue results in violet.
+Player: fan
+Paulette: There are two others like me, someone who stands for nature in Venore and another guy for orange in Carlin. It's your choice. Do it wisely.
+Player: powder
+Paulette: The envelopes that came with the creatures contain a magical powder. The three wizards created it to let you represent each of their elements.
+Player: envelopes
+Paulette: The three wizards dropped these envelopes everywhere in the world. A lot of creatures have been carrying envelopes all over Tibia.
+Player: bonus
+Paulette: You currently have 40 bonus points to spend. Would you like me to explain the bonus point system or do you want to exchange coloured powders?
+Player: explain
+Paulette: Alright. Shall I talk about the collecting points or your rewards for exchanging points? Or do you ask yourself why Zaoan chess?
+Player: points
+Paulette: As you know, the three wizards scattered magical envelopes all over Tibia. During this event, a lot of different kinds of monsters will drop those magic envelopes. ...
+Paulette: These envelopes contain coloured powders you can use to colour yourself. Doing this, will yield 10 bonus points for you. ...
+Paulette: You will receive another 10 bonus points if you find another player with the right colour for you to combine with and join one of the three wizards. ...
+Paulette: In addition to the 20 points you can gather by joining a wizard you can collect up to 10 more points by returning any coloured powders you find. I am a fan of Feiz, the violet wizard of Power and will accept red and blue powders. ...
+Paulette: The fans of Furb, the orange wizard of fun will accept red and yellow powders, Fern of Nature's green fans will accept yellow and blue.
+Player: rewards
+Paulette: To repay the continuing support of the Tibians, the wizards have created a special version of their favourite game - Zaoan chess. ...
+Paulette: By taking part in the event and with a little luck you will be able to receive a unique set of Zaoan chess figurines, including a unique box for all 32 obsidian and jade pieces. ...
+Paulette: For 5 points you will receive a surprise figurine of a random colour which can be anything, even the queen. ...
+Paulette: For 20 points you will be able to select a figurine of a random colour except the queen. ...
+Paulette: For 60 points you will receive a queen. Guaranteed and on top of that you will be able to choose the colour as well. ...
+Paulette: You will receive the chess box for free from the appropriate fan if you have joined a wizard. Just ask me how to spend your points if you are ready.
+Player: spend / exchange / queen / chess
+Paulette: Mh, you are not of violet colour. Either you did not join a wizard yet or - the unthinkable - you joined a different colour than violet! You can only claim a reward from me once you have joined the violet wizard.
+Player: why zaoan
+Paulette: Well, it's a long story. It has a lot to do with wizardry, a little with chess and quite much with a lady. I know that there must be a book about it, somewhere in a library in Thais.
+Player: exchange
+Paulette: Since I am a fan of Feiz, the wizard of Power, I will only accept red and blue powders. Just tell me if you want to exchange your red or blue powders for bonus points.
+Player: red / blue
+Paulette: It looks like you do not have enough coloured powders with you to exchange. Please return to me with at least 5 powders in your inventory.
+Player: red / blue
+Paulette: There you go, five ( red / blue ) coloured powders have yielded an additional bonus point! Tell me if you have any more powders to exchange.
+Player: spend
+Paulette: You currently have 60 bonus points to spend. Would you like to try your luck for 5 points or select a figurine for 20 points or do you want to exchange 60 points for a queen in the colour of your choice!
+Player: luck
+Paulette: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: queen
+Paulette: Do you want an obsidian queen or a jade queen?
+Player: obsidian / jade
+Paulette: I will give you an ( obsidian / jade ) queen for all your 60 points, is that what you want?
+Player: no
+Paulette: Alright, you still have 60 bonuspoints left to spend.
+Player: chess
+Paulette: Looks like you already received your free chessbox. Yes? Oh? Still here? Well, my er... resources... are rather limited. So I can only offer one free chessbox per character, alright? I'm sorry.
+Player: luck
+Paulette: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: yes
+Paulette: There you are, it's ( a / an ) ( obsidian / jade ) ( pawn / rook / bishop / knight / queen )!
+Player: select
+Paulette: Which figurine do you want to receive in exchange for 20 points? A pawn, a rook, a bishop, a knight or a king?
+Player: pawn / rook / bishop / knight / king
+Paulette: Here you are, ( an / a ) ( obsidian / jade ) ( pawn / rook / bishop / knight / king )!
+Player: no
+Paulette: Alright, you still have 40 bonus points left to spend.
+Player: luck / obsidian / jade / pawn / queen / king / rook / bishop / knight
+Paulette: I am sorry but you do not have enough bonus points.
+Player: bye
+Paulette: Farewell friend.
+Player: (vanish)
+Paulette: Yeah... bye and... um...

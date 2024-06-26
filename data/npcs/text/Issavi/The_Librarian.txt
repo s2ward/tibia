@@ -1,0 +1,127 @@
+Player: hi / hello  
+The Librarian: Greetings, dear guest. If you are interested in paperware such as books or scrolls, ask me for a trade.  
+Player: Ab'Dendriel  
+The Librarian: Ab'Dendriel is a city mostly inhabited by elves. All houses are largely supported by trees.  
+Player: Alyxo  
+The Librarian: She's a medusa and she's running the Seaside Theatre. If you wonder why a medusa is welcome in Issavi: This city has the philosophy ,An Open Gate for Those of Peace'. This is why Alyxo and some others may live here. ...  
+The Librarian: Everyone is welcome as long as one respects Kilmaresh's laws.  
+Player: ambassador  
+The Librarian: The Ambassador of Rathleton is an envoy of Oramond. His duties in Issavi include cultivating the diplomatic relations between Kilmaresh and Oramond as well as overseeing the trade between the two nations. ...  
+The Librarian: He has a residence in the eastern part of the city but most often you will find him in the imperial palace.  
+Player: Ankrahmun  
+The Librarian: The city of Ankrahmun is located on the southern portion of the continent Darama.  
+Player: Anuma  
+The Librarian: The Anuma are magical beings that inhabit the continent Kilmaresh. It is told that they were once created by the sun gods Suon and Fafnar. There are several kinds of Anuma: Sphinxes, lamassu, gryphons and manticores. ...  
+The Librarian: There might be even more but if so, those Anuma are living so seclusive that mortals barely ever encounter them.  
+Player: Arishum  
+The Librarian: He is an old and venerable lamassu and also the founder the Midnight Flame. He lost his sight a long time ago when he was defending the ruins of Nuur against invading Fafnar cultists. ...  
+The Librarian: As a sign of gratitude and redemption the goddess Bastesh granted him the power of clairvoyance. Since then his eyes might be clouded but he sees far more than anyone can imagine.  
+Player: Bastesh  
+The Librarian: Bastesh is a calm and mystical goddess, the patron of the oceans and sea creatures. She's the daughter of Uman and Sula and also called The Mistress of the Sea or The Keeper of Wisdom. ...  
+The Librarian: She was once attacked by the wild Fafnar, out of jealousy and pride. After the religious war between the two cults of Suon and Fafnar, the people of Kilmaresh adopted the world view that Suon's true sister wasn't Fafnar but Bastesh. ...  
+The Librarian: So they started worshipping her instead of the Wild Sun. Thus, Bastesh has a firm place in Kilmaresh's religious life for more than a thousand years.  
+Player: Carlin  
+The Librarian: Carlin is a city on a far-away continent, which is entirely ruled by women. Queen Eloise is reigning there.  
+Player: Darashia  
+The Librarian: Darashia is a city on the northern part of the continent Darama.  
+Player: dwarves / dwarfs  
+The Librarian: They are short in stature and often grumpy and blunt. But their mining abilities and the quality of their beer are unsurpassed.  
+Player: Edron  
+The Librarian: Edron is a city on a namesake island far away from here. It was discovered by King Tibianus III, who settled a colony there. Therefore it belongs to the Thaian Kingdom. They have a magic academy of some reputation.  
+Player: elves / elfs  
+The Librarian: They are an ancient race, well known for their natural understanding of magic. Besides that, they are great lovers of music and art.  
+Player: empress  
+The Librarian: After the downfall of the old empire and Suon's Wrath, the Anuma took control of the new empire. Since then, the position of emperor or empress is always taken by a sphinx, lamassu or gryphon. ...  
+The Librarian: The wild manticores seem to be excluded from this rank. These days we have a sphinx empress who is ruling Kilmaresh wisely and benevolently. I'm sure she has a name but none of us knows it.  
+Player: Eshaya  
+The Librarian: He's the leader of the Sapphire Blade. A kind and noble man but he is also a brave warrior and will not hesitate to defend Issavi if need be.  
+Player: Fafnar  
+The Librarian: Fafnar is a wild and relentless goddess, one of the two suns of our world. She's the daughter of Fardos and also called the Scorching Sun or the Smiter. It is said that unlike her brother Suon, she observes creation with hate and jealousy. ...  
+The Librarian: But her worshippers think she's the stronger one of the two suns, that Suon's light turns pale compared to her brightness. It should be mentioned that the worship of Fafnar is forbidden in Kilmaresh since the downfall of the old empire.  
+Player: Fardos  
+The Librarian: Fardos is considered the creator, often called the Great Observer. Many people believe that it was his doing that you - I mean creatures of flesh and blood - possess divine souls.  
+Player: garden  
+The Librarian: They are called the Hanging Gardens. You will find them east of Suon's Temple of Eternal Light. They are one of Issavi's most impressive sights. I highly recommend you to visit them during your stay here.  
+Player: glooth  
+The Librarian: The miraculous glooth, won from unassuming, tiny glooth-worms, is the source of Rathleton's wealth and progress. Almost all of the city's amazing discoveries and inventions are based on this curious substance.  
+Player: gryphon  
+The Librarian: Gryphons have the body, tail and back legs of a lion but the forelegs, head and wings of an eagle or hawk. It is said that out of all Anuma, the sun god Suon loved the gryphons most. Whereas his wild sister Fafnar favoured the manticores. ...  
+The Librarian: Gryphons live very reclusive and love the high mountain peaks of Kilmaresh. In very rare cases, a gryphon will forge a bond with a human it regards worthy. If this happens, the gryphon will agree to carry the mortal on its back.  
+Player: Hippo  
+The Librarian: Hippos are large mammals who live in the river Nykri. Despite their rather cute appearance, hippos are among the most dangerous animals of Kilmaresh, they are highly aggressive and unpredictable. ...  
+The Librarian: Yet, they love balls made of reed flour and appreciate to be fed with those treats.  
+Player: Issavi  
+The Librarian: Issavi is the capital of Kilmaresh. Here, you will find magnificent temples, palaces and government buildings, five to six stories high and built up in stages. ...  
+The Librarian: As you might have noticed, one of the cityscape's defining features are the colors red and blue. Red or orange represents the sun god Suon and blue the sea goddess Bastesh, both of them worshipped in Kilmaresh. ...  
+The Librarian: Statues of these two deities can be found in many parts of the city, as well as portraits of sphinxes, manticores, lamassu and gryphons.  
+Player: job  
+The Librarian: I'm the librarian here. Formerly, a sage or scholar was charged with the intendance of Issavi's library. But when the last bibliothecary fell ill he summoned me to assist him. ...  
+The Librarian: After his death I stayed here and as I did a good job, the empress decided to entrust me with the late librarian's succession.  
+Player: Kallimae  
+The Librarian: She's the current leader of the Midnight Flame. Kallimae is a powerful oracle and her visionary power is unparalleled as of yet. Many people in Issavi believe that she is blessed by the goddess Bastesh herself.  
+Player: Kazordoon  
+The Librarian: Kazordoon is a dwarven city located inside the mountains of the Tibian continent.  
+Player: Kilmaresh  
+The Librarian: Over a thousand years ago, Kilmaresh formed a contiguous land mass with Krailos and Oramond. It was inhabited by a human civilisation that had established a thriving empire but was cut off from the rest of the landmass by Suon's Wrath. ...  
+The Librarian: In Kilmaresh, you will find mainly dry steppe regions. At the centre lies a large mountain range and you will always discover small oases and tombs scattered over the steppe. ...  
+The Librarian: A broad river, the Nykri, rises in the central mountains and forms a fork halfway to the sea. Here lies the big city Issavi, the heart of Kilmaresh. The original capital Nuur was destroyed by Suon's Wrath over a thousand years ago.  
+Player: Krailos  
+The Librarian: Over a thousand years ago, Krailos and Kilmaresh were a contiguous land mass, inhabited by a human civilization that had established a thriving empire. ...  
+The Librarian: Due to a major natural disaster, known as Suon's Wrath, the eastern peninsula was separated from the continent and is now cut off from the rest of the landmass by a strait. ...  
+The Librarian: Today, Krailos is mainly populated by ogres. A simple, warlike people, more interested in a fight and good food than in politics.  
+Player: lamassu  
+The Librarian: Lamassu have the body of a bull, feathered wings and a human head. They are willing to assist mortal creatures in combat if they are convinced that those under their protection are worthy and pure of heart. ...  
+The Librarian: Lamassu prefer isolated ruins and abandoned temples as their homesteads.  
+Player: manticore  
+The Librarian: Manticores have the body of a lion with a human face, leathery wings and a huge scorpion tail. They are lethal predators which have a preference for human flesh. ...  
+The Librarian: Therefore, albeit on the quiet, the human population of Kilmaresh also calls them 'man-eaters'. Other than most Anuma, manticores are ferocious and savage, more wild beasts than noble magical beings.  
+Player: Midnight Flame  
+The Librarian: This group is a small circle of chosen knights and seers led by the lamassu Arishum. To honour the blinded lamassu, all members of the circle tie gauze scarfs around their eyes. ...  
+The Librarian: All of their seers have second sight and are able to foresee certain future events or hidden secrets.  
+Player: Moe  
+The Librarian: I guess he's a sibang who lives here in Issavi.  
+Player: name  
+The Librarian: Everyone calls me The Librarian.  
+Player: Narsai  
+The Librarian: She's a member of the Midnight Flame. Other than the rest of them she's actually blind. But I heard that her visionary power exceeds that of the others by far.  
+Player: news / rumours / rumors  
+The Librarian: I heard that Kallimae is in need of assistance. But you should ask her yourself whether this is true. You can usually find her in the gardens.  
+Player: Nuur  
+The Librarian: Nuur was once the capital of the old empire, when Krailos and Kilmaresh were still a contiguous land mass. It was completely destroyed by Suon's Wrath and now Issavi is the new capital.  
+Player: Oramond  
+The Librarian: Oramond is the southern region of the continent that Kilmaresh once was part of. The peninsula is rugged and offers only little inhabitable space and natural resources. ...  
+The Librarian: Only through exploitation of the small and unassuming glooth-worms, the inhabitants managed to survive and even built a prospering civilization on their own. Also, a powerful minotaur tribe has settled there.  
+Player: Rathleton  
+The Librarian: The town of Rathleton is the centre of human society on Oramond. The culture and technology there has evolved separately from other realms and produced something very remarkable: glooth.  
+Player: ring / Secret Thoughts / Shard / memory  
+The Librarian: A Ring of Secret Thoughts is a powerful artefact.  
+Player: Sapphire Blade  
+The Librarian: They are a group of elite warriors. All of them carry blades made of a blue metal called tagralt. They are often in conflict with Fafnar cultists and the remaining ogres on Kilmaresh. ...  
+The Librarian: Most of them are fighters but you may find some sorcerers among them as well. They are held in remarkably high esteem by the Anuma.  
+Player: sphinx  
+The Librarian: Sphinxes have a leonine body, big feathered wings and human heads with their faces being a mix of humanoid and feline. They are highly intelligent and allegedly immortal. ...  
+The Librarian: Some of them love riddles, others are more interested in stories, poems or songs. Many sphinxes are benevolent, but some are rather merciless and dangerous.  
+Player: Suon  
+The Librarian: Suon is a kind and benevolent god, one of the two suns of our world. He's a son of Fardos and some call him the Life-Bringing Sun or just The King. It is said that he observes creation with love and blesses us with warmth and growth. ...  
+The Librarian: On the other hand, the Fafnar cultists guess he is the misguided sibling and that his light turns pale compared to her brightness.  
+Player: tagralt  
+The Librarian: In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. Sapphire Blade members use this metal for their swords.  
+Player: Thais  
+The Librarian: Thais is a city on a far-away continent. King Tibianus III is reigning there. It is named after Thais, a legendary warrior who founded the settlement.  
+Player: Theatre  
+The Librarian: I guess you mean the Seaside Theatre. Alyxo is managing this theatre since several decades to entertain the people of Issavi.  
+Player: Tibia  
+The Librarian: It is the world we live in.  
+Player: time  
+The Librarian: It is exactly 4:36 am.  
+Player: trade  
+The Librarian: Of course, just browse through my wares.  
+Player: Venore  
+The Librarian: Venore is a city on a far-away continent. It lies in the middle of a big swamp. It once was a colony and is therefore belonging to the Thaian Kingdom.  
+Player: Wrath  
+The Librarian: A long time ago, the people of Kilmaresh worshipped the two sun gods, Suon and Fafnar. They attached great importance to the fact that the worship of both deities was always in balance. ...  
+The Librarian: However, there came a time when a group of Fafnar's adherers became more and more influential and aggressive until this sect postulated the sole worship of Fafnar. ...  
+The Librarian: This resulted in a civil war between the Fafnar followers and those who fought for the duality of the two sun gods. Ultimately, the war was ended by Suon himself. ...  
+The Librarian: He split off the eastern peninsula from the western part of the land mass, destroying the former capital Nuur. This event is known as Suon's Wrath ever since.  
+Player: bye / farewell  
+The Librarian: Farewell!  

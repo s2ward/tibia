@@ -1,0 +1,104 @@
+Player: hi
+Candra: Greetings, honourable stranger.
+Player: name
+Candra: My name is Candra.
+Player: job
+Candra: I'm the daughter of the raja, and thus a princess. But believe me, a princess has also many duties, not just conveniences.
+Player: time
+Candra: I'm not sure.
+Player: marapur
+Candra: This is our home. A group of several islands, and in the south lies the lagoon city Silvertides, where we are standing at the moment. ...
+Candra: The lower regions here are mostly covered by jungle and submerged lush grass. The Rising steadily claims those areas. Thus, Marapur is very slowly but unstoppably flooded by the surrounding ocean.
+Player: Silvertides
+Candra: Silvertides is our city, home of the coast folk. At the beginning of the period we call 'the Rising', we still made great efforts to push the water back and keep it away from the island. ...
+Candra: In the meantime, however, we have accepted that the water and the land coalesce more and more. We regard it as a part of our lives and even a part of ourselves.
+Player: Rising
+Candra: It began centuries ago but it progresses very slowly. We, the coast folk here in Silvertides, have strongly integrated the Rising into our culture and way of life. ...
+Candra: We adapt to living with the water and take advantage of its benefits instead of resisting it. The mountain nagas, who live in the Stardance Mountains, have not yet been affected by the Rising.
+Player: mountain
+Candra: The mountain folk lives high up in the Stardance Mountains, in a city called Moonfall. It got its name after a story which is very well kown amongst the nagas.
+Player: story
+Candra: Since the beginning of our existence, we nagas have worshipped the moon goddess Amati. She always stood high in the sky, looking down on us benevolently and lighting up the nights. ...
+Candra: Although we love the warmth of the suns, it is the moon that moves the sea, creating the tides. That can charge solid water with energy. That strengthens our magical powers. We think of the moon as a queen and the stars as her many maids. ...
+Candra: But once, in her wanderings across the night sky, Amati took a misstep and fell. She plummeted down, right above Marapur and landed in the Stardance Mountains. Hurt and alone, she didn't know how to get back up into the sky. ...
+Candra: And the stars missed her bitterly. Moon and stars shed many tears and mourned many nights - dark nights, without Amati's light in the sky. But then the stars decided to do something they had never done before: ...
+Candra: They descended from the sky and surrounded the fallen moon. Here, in these mountains, they began a magical dance. And lo and behold, Amati was healed and, with the help of the stars, was able to rise into the sky again. ...
+Candra: This is why the mountains in the centre of Marapur are called the Stardance Mountains and our city Moonfall. For it was at this very spot that Amati had fallen.
+Player: rumors / rumours / news
+Candra: Dhira seems to need a new fence for the beaver compound. The wooden one is really not a good option.
+Player: water
+Candra: There is a blessed pond from which you have to take the water. You will find it on a small island in the north, a silent and holy place where we lay to rest our departed.
+Player: frozen
+Candra: From what you are telling I assume that some powerful magic is behind this. It could be the doing of the frost flower asuri, to be honest. I'm not completely sure but I guess the only thing able to thaw frost flower ice are dawnfire flames.
+Player: pearl
+Candra: There is a special clam, the moonshine shell. It is unique and exists only once in the waters around this island. You can find it in an old temple, that sunk below sea level long ago. ...
+Candra: We still consider it a sacred site and the moonshine shell rests in there, in a secret chamber. Inside the clam you will find the moonshine pearl.
+Player: nilavarna
+Candra: He is my father and also the raja of the coast folk. You would call him a king, I guess. He is very beloved by our people.
+Player: saraki
+Candra: She is the maharani of the mountain folk. You would call her a queen, I guess. She is a charming and strong-willed woman who takes her responsibilities very seriously. She's also a bit ... intimidating as a mother-in-law.
+Player: nihaka
+Candra: He is wonderful! Brave, handsome and always kind and understanding. A true prince, I tell you. I'm sure that I want be with him forever, really.
+Player: amra
+Candra: If you want to send a letter or parcel to someone, ask Amra at the post office in Moonfall.
+Player: asphota
+Candra: Asphota sells tools at the market here in Silvertides.
+Player: giri
+Candra: If you want to sell some gems, Giri is the one you should ask. You can find him at the market in Moonfall.
+Player: isika
+Candra: Isika sells ammunition at the market here in Silvertides.
+Player: nipuna
+Candra: Nipuna is selling wands and runes at the market here in Silvertides.
+Player: sundara
+Candra: She is a gifted alchemist and is selling potions at the market in Moonfall.
+Player: haani
+Candra: She is a young two-leg from Issavi and is selling two-leg friendly furniture at the market in Moonfall.
+Player: sissek
+Candra: He is a two-leg but a different kind of biped than you are. Scaly all over, like our lower bodies. He came to Marapur from Zao a long time ago. Until then we didn't know what a bank was. But he established one in Moonfall.
+Player: sessek
+Candra: He is Sissek's brother and arrived together with him from Zao, a long time ago. He runs the tavern in the House of Rest and Wisdom in Moonfall.
+Player: udu
+Candra: She is an astronomer in Moonfall and has a laboratory slightly away from the city.
+Player: vrisaki
+Candra: She is the coast folk's shaman. As far as I know, the maharani highly appreciates her wise advice.
+Player: tarisu
+Candra: He is our shaman, a powerful wave shaper and one of the wisest tide sages.
+Player: kaumudi
+Candra: She is a hatch-mother in Moonfall.
+Player: dhira
+Candra: He's one of our best beaver whisperers.
+Player: whisperers
+Candra: We use the island's giant beavers as beasts of burden to transport timbers, star leaf and other material. ...
+Candra: These beavers are taken care of by the beaver whisperers, who build a trusting relationship with the animals and thus get them to work for us.
+Player: ziyad
+Candra: He has a magic carpet with which he can fly through the air. If you ask him, he might be able to fly you to other islands or continents.
+Player: timira
+Candra: Timira is a very well known sage and philosopher amongst my people. But I'm afraid, I can't talk about her at the moment. It's a rather unfortunate story but one my father doesn't want me to discuss with everyone, I'm sorry.
+Player: sages
+Candra: Tide sages know everything about the tidal currents and can reliably predict when it is safe to navigate the sea with the small naga boats. ...
+Candra: They know when schools of fish come close to the coasts, making it a good time to fish. And they can estimate which islands will be affected by the Rising soon.
+Player: shaper
+Candra: Wave shapers are a kind of water-magicians who can create solid water, charge it with magic and also transform it into other forms. ...
+Candra: They have a sort of water-empathy that allows them to solidify the water and then shape it as if it were soft wax.
+Player: makara
+Candra: Makara are native to the waters of Marapur. They look like a cross between a hippopotamus and a seahorse, but are clearly comparable to the former in size. Many two-legs call it a quite unusual creature, as I heard.
+Player: foam stalker
+Candra: Foam stalkers are elemental water creatures. Here on Marapur they emerge from the spray of waterfalls cascading down from the mountains. ...
+Candra: Since they cannot survive on land for long, they quickly retreat below sea level after their emergence and thus populate the reef caves beneath and around Marapur.
+Player: jungle moa
+Candra: Moas are large birds with a striking, colourful plumage. Because of their strong legs, with which they can move quickly on land, you might think that moas are incapable of flight. ...
+Candra: In fact, however, they are good flyers and prefer to build their nests in the high mountainous areas of Marapur.
+Player: parder
+Candra: The parder is a wild cat living here in Marapur. Its fur is of a dark ochreous ground-color, obliterated by a dark-brown blotched pattern on legs and flanks. A dark stripe also runs from the head across the neck and back. ...
+Candra: Be careful, two-leg: Parders prey on humanoid bipeds.
+Player: two-headed turtle
+Candra: The two-headed turtle has its name for a rather obvious reason: it has two heads. But otherwise it is a common, albeit very large, reptile. It is aquatic and lives mainly in the large reefs around and beneath Marapur. ...
+Candra: Although it feeds mainly on plants and fish, it can become aggressive and dangerous if you intrude on its territory.
+Player: mission / quest / help
+Candra: You know, in fact there is something ... It is a very personal matter, but I'm really desperate, so I will tell you about it. I'm in love with Nihaka. The problem is, he's not one of the coast folk, but he is a mountain naga. ...
+Candra: The fact that his mother is the mountain nagas' maharani doesn't help, of course. Neither that my father is our raja. We want to marry but our parents are not happy about it. ...
+Candra: We need their approval but they won't listen to us. Would you help us?
+Player: no
+Candra: I'm brokenhearted but I understand that you can't solve this problem for us.
+Player: bye
+Candra: Farewell, may Amati bless you.

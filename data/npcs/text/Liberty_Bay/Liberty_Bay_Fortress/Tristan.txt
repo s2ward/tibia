@@ -1,0 +1,53 @@
+NPC: Tristan  
+Note: This NPC still has some generic spell statements for the specific vocation.  
+Player: hi / hello  
+Tristan: Greetings, Player! Are you looking for a knight trainer? That would be me.  
+Player: trainer / job  
+Tristan: I am an officer of the Thaian army. I also have the honour to be responsible for the teaching of knight spells in Liberty Bay.  
+Player: Charlotta  
+Tristan: Although we can't prove it, I am sure that this old hag has connections to rebellious elements.  
+Player: Chondur  
+Tristan: As far as I know he is some local witch doctor with some influence on superstitious people.  
+Player: cult  
+Tristan: Yes, there is unrest amongst the citizens. A dark force that blinds their souls and minds to see all the good things the Thaian culture has done for this town. Perhaps there is indeed some evil cult working behind the scenes.  
+Player: djinn  
+Tristan: I know little about these spirits. I am certain though that a life devoted to the gods will keep us safe from their evil schemes and spells.  
+Player: Eleonore  
+Tristan: A very ... emotional, young lady of natural beauty. Although she does not reach the loveliness of Isolde <blushes slightly>.  
+Player: Ferumbras  
+Tristan: It is not advisable to concentrate on that matter too much. He is evil and he has fallen and will fall again and again, that's enough to know.  
+Player: governor  
+Tristan: The governor is the benevolent leader of this community. In the name of the king, he leads this settlement to property while we of the military ensure safety and peace.  
+Player: Isolde  
+Tristan: Isolde is not only beautiful but also valorous and honourable. Her pure heart is a living temple for the gods ...  
+Tristan: Her eyes are the gates to heaven. Her smile is the warmth of spring after a hard winter. Every soul is touched by the melody of her sweet voice <sighs>.  
+Player: king  
+Tristan: Our beloved leader must be proud of us. We uphold Thaian values, like honour and unity, in this once struggling and divided community.  
+Player: Liberty Bay  
+Tristan: I am proud to see how this settlement bravely fights all problems and enemies under the Thaian guidance.  
+Player: loveless / theodore  
+Tristan: I keep an eye on that man. To be honest, I don't trust him and he knows that perfectly well.  
+Player: pirate  
+Tristan: By nature they are usually more organised than ordinary bandits. It's the same honourless bunch though. Eventually we will eliminate all those who did not get killed by their own 'mates' for some cheap reason.  
+Player: plantations  
+Tristan: The plantations are in the West. Sadly they are infested by rotworms and carrion worms. Soldiers of fortune often hunt them down so we can concentrate on more urgent matters though.  
+Player: quara  
+Tristan: The race of the quara is evil through and through. The honour and glory that this Thaian outpost represents must be a thorn in the side of those dark creatures. That's why they keep attacking us and that's why they always fail in the end.  
+Player: Raymond Striker  
+Tristan: This cowardly pirate is known to have escaped the grip of justice in the last moment several times. That is proof enough that he is in league with some dark powers.  
+Player: rum  
+Tristan: I dislike what the rum turns people into.  
+Player: spell  
+Tristan: Sorry, I don't teach spells for your vocation.  
+Player: sugar  
+Tristan: Sugar is vital for the colony. There are some plantations in the West.  
+Player: thais  
+Tristan: Thais is the mother of civilisation and has not yet reached its peak of glory and expansion.  
+Player: venore  
+Tristan: The city did well to acknowledge the superiority of Thais. Still some of the scheming and shrewd representatives here must be watched carefully.  
+Player: voodoo  
+Tristan: That is just the locals' name for all magical things. Of course we all know that magic is real. So this is surely something to worry about.  
+Player: Wyrmslicer  
+Tristan: The admiral is a fine man and an even better fighter and tactician. Honour and justice are in his nature. He is a role model for all our troops.  
+Player: bye / farewell  
+Tristan: Farewell, Player.  

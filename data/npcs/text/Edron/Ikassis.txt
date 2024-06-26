@@ -1,0 +1,68 @@
+Player: hi
+Ikassis: Nature's blessing, traveler!
+Player: name
+Ikassis: My name is Ikassis. It means 'the long-sighted'.
+Player: job
+Ikassis: Job? I have no idea what this peculiar word could mean.
+Player: time
+Ikassis: Time is a human concept, traveler.
+Player: snake
+Ikassis: Outside of our secret realm my siblings and I can't keep our true shape. If we want to travel other parts of the world, we must take over the bodies of animals. But we are causing them no harm and we just take control if necessary.
+Player: realm
+Ikassis: We call it Feyrist and it is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.
+Player: siblings / kind
+Ikassis: We call ourselves the fae. Some name us nature spirits or peri but we prefer the former term. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...
+Ikassis: As we tend to be secretive about our true nature I'm afraid I can't tell you more.
+Player: protect / sinister
+Ikassis: A strange dark energy is seeping into our world lately. It is pervading all continents and islands and it grows stronger with every day. Yet I don't know where it arises from nor what we could do to dispel it.
+Player: energy
+Ikassis: It is still somewhat in hiding, so most creatures won't sense it ... yet. But its corrosive power has already begun to affect my kind and our hidden realm in unpleasant ways.
+Player: news / rumours / rumors
+Ikassis: Something dark and sinister is threatening the world. I can feel it!
+Player: feyrist
+Ikassis: It is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.
+Player: fae
+Ikassis: Some call us nature spirits or peri but we prefer the term fae. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...
+Ikassis: As we tend to be secretive about our true nature I'm afraid I can't tell you more.
+Player: tibia
+Ikassis: What a peculiar question. This is the world we are living in.
+Player: thais / carlin / venore / darashia / edron
+Ikassis: It's a place full of stone buildings and mortal beings. I guess you call it a town. But I'm still not sure which purpose it serves.
+Player: darama
+Ikassis: I guess it's a desert.
+Player: oramond / rathleton
+Ikassis: I have never heard of this place.
+Player: ab'dendriel
+Ikassis: It's a place full of life, huge trees, lush plants and various animals. I visited it once when Alkestios took me there. It is a place of beauty.
+Player: elves
+Ikassis: They are inhabiting Ab'Dendriel and live in close touch with nature. Their dreams are mostly serene and suffused with light.
+Player: dreams
+Ikassis: There is far more to dreams than mortal beings are aware of. They possess some kind of magical power, ancient and mysterious. I shouldn't tell you too much about it, but I can tell you that the fae are closely linked to this power.
+Player: kazordoon
+Ikassis: It is located somewhere in the mountains, I guess.
+Player: dwarves
+Ikassis: We know them, yes. Their dreams are different from those of elves and humans. Somehow graver and more grounded.
+Player: humans
+Ikassis: They inhabit these huge places filled with stone buildings. They call them towns, I guess. Some of them are cheerful and well-meaning, others are wicked and cruel. Their traits and attitudes vary greatly - and so do their dreams.
+Player: roshamuul
+Ikassis: This is a dark and dangerous place. It is full of terrible monsters and made of nightmares - literally.
+Player: tooth fairy
+Ikassis: She's one of my sisters and took over a white seagull. The last time I talked to her she seemed worried.
+Player: alkestios
+Ikassis: He's a brother of mine. He took it upon himself to kind of lead our mission in the outside world. You may find him south of Ab'Dendriel.
+Player: maelyrra
+Ikassis: She is one of the fae queens of Feyrist.
+Player: aurita
+Ikassis: She's a beautiful mermaid, dwelling in the warm waters at Feyrist's shores. She stole Taegen's heart.
+Player: taegen
+Ikassis: He's one of my brethren, a faun. He preferred not to leave Feyrist - mainly because of Aurita, I assume.
+Player: valindara
+Ikassis: She is a swan maiden and lives in Feyrist.
+Player: talila
+Ikassis: She is a pixies living in Feyrist.
+Player: benevola
+Ikassis: She's a druid who is living near Ab'Dendriel. Alkestios befriended her, so I guess she is trustworthy.
+Player: mission
+Ikassis: You helped the fae as well as the animals in this part of the world. I consider you a friend. Thank you, human being.
+Player: bye
+Ikassis: May Mother Nature protect you.

@@ -1,0 +1,47 @@
+Player: hi  
+Yalahari: Greetings.  
+Player: how are you?  
+Yalahari: I'm fine, thank you.  
+Player: name  
+Yalahari: My Name is Azerus.  
+Player: name (after completing all missions)  
+Yalahari: I'm Tirak, the replacement of the recently vanished Azerus  
+Player: job / disturb  
+Yalahari: I'm a member of the Yalahar. I'm obliged to assist our helpers in their efforts to improve the life within our city. So from time to time I assign a mission to our helpers.  
+Player: yalahar  
+Yalahari: Soon enough our city will once again become a beacon of hope!  
+Player: yalahari  
+Yalahari: We are the masters of this city and see ourselves as benevolent caretakers of our citizens!  
+Player: blood crystal  
+Yalahari: You shouldn't bother about such things.  
+Player: foreign quarter  
+Yalahari: We welcomed many foreigners to our city to share in our wealth. They did not value our generosity. Instead they introduced their own barbaric ways here. ...  
+Yalahari: It was only a question of time until they waged war against each others and the city's officials. The only thing those creatures respect is power. ...  
+Yalahari: In time, we will regain our power and get them back into line.  
+Player: arena quarter  
+Yalahari: With only a little more authority, those gladiators had never dared to affront us. It is only a matter of time until we re-establish the power needed to enforce law and order in this quarter once again.  
+Player: alchemist quarter  
+Yalahari: A shroud of pestilence and decay lies over this quarter. It is one of the major failures of the past to let that quarter deteriorate so badly.  
+Player: magician quarter  
+Yalahari: This quarter is a good example for the failure of the policy to allow people to mind their own business. What should have become a centre of knowledge and learning, became a cauldron of chaos. ...  
+Yalahari: Even now that several catastrophes have destroyed the quarter and the order there, scheming magicians plot to gain power at the expense of the city.  
+Player: sunken quarter  
+Yalahari: We have to consider this quarter as lost. There is no hope left that it could be rebuilt in some way. ...  
+Yalahari: On the peak of our power, we, the Yalahari, would have been able to re-establish this quarter. But much work has to be done until we ever reach such power again.  
+Player: factory quarter  
+Yalahari: Most of the factories are no longer functional, and the unruly people living there don't make it easier to retake and repair them. ...  
+Yalahari: As soon as the order has been restored in other parts of the city, we will be able to spent more resources in the rebuilding of the factories.  
+Player: trade quarter  
+Yalahari: It is an affront to our authority that someone claims dominance over one of our territories. If we allowed such a behaviour, others would follow. It would not take long until we had to deal with several petty kings that question our might.  
+Player: quest / task  
+Yalahari: Since you have proven yourself as worthy, there might be more important missions to accomplish if you are interested.  
+Player: vampire  
+Yalahari: I don't care about them. They are outside these walls.  
+Player: cookie  
+Yalahari: There are more important matters to take care of.  
+Player: palimuth  
+Yalahari: His lack of a vision for the city is typical for our helpers. Sadly all the responsibilities still rest solemnly on the shoulders of us - the Yalahari.  
+Player: farewell  
+Yalahari: I'm quite busy getting accustomed to my new duties, so please excuse me.  
+Player: bye  
+Yalahari: Good bye, Player.  

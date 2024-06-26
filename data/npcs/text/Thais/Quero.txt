@@ -1,0 +1,26 @@
+Player: Hi
+Quero: Welcome Player! Can I help you?
+Player: Name
+Quero: My name is Quero.
+Player: Job
+Quero: I make instruments and sometimes I'm wandering through the lands of Tibia as a bard.
+Player: Time
+Quero: Sorry, I don't know what time it is.
+Player: offer / instruments
+Quero: You can buy a lyre, lute, drum, and simple fanfare. If you'd like to see my offers, ask me for a trade.
+Player: Music
+Quero: I love the music of the elves.
+Player: elf / elves
+Quero: They live in the northeast of Tibia.
+Player: Bard
+Quero: Selling instruments isn't enough to live on and I love music. That's why I wander through the lands from time to time.
+Player: benjamin
+Quero: He's nice.
+Player: eclesius
+Quero: That name rings a bell, wait... I've last seen him several days ago when he went to buy some bread at the farm.
+Player: child / kid
+Quero: Yes, I have a small daughter. Her room is upstairs.
+Player: tooth
+Quero: I wonder why this matters to you. But yes, my daughter lost her first tooth a few days ago.
+Player: Bye
+Quero: Good bye.

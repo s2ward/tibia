@@ -1,0 +1,46 @@
+Player: hi / hello  
+Oliver: Hello. Unless you have official business here or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Oliver: Oh dear, the poor alchemists who were working in that quarter when the big explosion happened! But well - some people say that it was caused by their very dangerous experiments... I wonder what they were playing with.  
+Player: arena quarter  
+Oliver: When I was still a young boy I dreamt of fighting in the arena and facing huge beasts and powerful gladiators. But ever since the gladiators behave strangely, my dream has become unrealisable.  
+Player: augur  
+Oliver: Of all the Augur, I only know Palimuth in person. If I were you, I'd trust him. He's a good man and really cares about the citizens of Yalahar, not only about his own profit or status. People like him are rare.  
+Player: cemetery quarter  
+Oliver: The ironic thing is that my mother is buried there. Well, she was buried there, that is. You might imagine my surprise and pain when I saw her... or rather her remains strolling around the city some night...  
+Player: factory quarter  
+Oliver: One of my buddies used to work in the factory before the normal production of food, weapons and such was shut down. I don't know what keeps the machines and golems running - it must be a magical power source.  
+Player: fenrock  
+Oliver: Fenrock is close to the western Ice Islands. That's why it's also rather cold there. I'm not sure if any captain sails there, but you might ask in the foreign quarter.  
+Player: foreign quarter  
+Oliver: Once during one of my shifts in the foreign quarter, I had a really interesting conversation with a lizard about the differences between human and lizard fighting skills... I should write that down sometime.  
+Player: island  
+Oliver: Yes, we have a few islands surrounding Yalahar. They are called Mistrock, Fenrock and Vengoth.  
+Player: job / business  
+Oliver: I'm a proud sergeant of the Yalaharian Guard Force and at your service.  
+Player: magician quarter  
+Oliver: A long time ago, there was an incident with an old witch who was absolutely convinced that she was a cat. It was still funny when she was chasing rats... but then she almost fell off a roof.  
+Player: mission  
+Oliver: I'd love to help you with your mission, but I'm not sure what you expect from me? Anything in particular?  
+Player: mistrock  
+Oliver: I heard the weirdest stories about Mistrock from all kind of people. I don't think it's an 'evil' island, even though it's shrouded in mist. Actually I heard something about dwarfs living there somewhere.  
+Player: name  
+Oliver: I'm called Oliver.  
+Player: pass / gate  
+Oliver: Do you want to pass the gate? Are you headed for the sunken or the factory quarter?  
+Player: random word  
+Oliver: I'll tell you that story another time, but not now. Sorry.  
+Player: quarter  
+Oliver: Now that's an interesting topic. Each quarter has its own stories and problems, and I could probably go on for hours and hours telling about my shifts there... ehmm... sorry, I tend to get carried away.  
+Player: sunken quarter  
+Oliver: I think almost everyone in this city lost someone when the quarter collapsed into the ocean. I could tell you the full story, but then again that's Tarak's job. He's a ferryman in the sunken quarter.  
+Player: trade quarter  
+Oliver: I've known Mr. West for a long time now and witnessed him establishing his small empire of bandits and criminals. It's quite impressive considering that this is all the work of one man, as crazy as he might be.  
+Player: vengoth  
+Oliver: To be honest, nobody actually knows whether Vengoth is an 'island' as in 'small island'. I think people have only travelled to the western shore so far, and also came back rather fast.  
+Player: Yalahar  
+Oliver: I could tell so many stories about what I experienced here in Yalahar ever since I arrived here around ten years ago. Still a young and eager soldier, fresh from the... ah no, that would lead too far.  
+Player: yalahari  
+Oliver: I could tell so many stories about what I experienced here in Yalahar ever since I arrived here around ten years ago. Still a young and eager soldier, fresh from the... ah no, that would lead too far.  
+Player: bye  
+Oliver: Goodbye citizen!  

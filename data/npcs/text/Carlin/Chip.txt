@@ -1,0 +1,22 @@
+Player: hi  
+Chip: Please don't keep me from my work.  
+Player: work / job  
+Chip: Shh... I don't really have a job. I need the wood I chop here, though.  
+Player: wood  
+Chip: Yeah, to be honest, it's not really my wood. It belongs to the queen. But what choice do I have?  
+Player: queen  
+Chip: Queen Eloise from Carlin likely wouldn't approve. Be so kind to keep this little secret to yourself.  
+Player: choice  
+Chip: Those bandits have my wife and kids. If I don't bring wood, I don't know what they'll do. Hell, I'd even trade some with you if you had any.  
+Player: bandits  
+Chip: They hide somewhere near the Plains of Havoc. I've never seen their hideout, though, they just send me messages and tell me where to leave the wood.  
+Player: trade  
+Chip: If you have a piece of wood, I'd give you some money for it. I don't have much, but I'd appreciate your help.  
+Player: buy  
+Chip: I need all the wood I can get. My hands and my back are already aching from all the chopping. If you have any for trade, let me know.  
+Player: sell  
+Chip: I don't have anything for sale.  
+Player: name  
+Chip: People call me Chip.  
+Player: bye  
+Chip: Probably better that way.  

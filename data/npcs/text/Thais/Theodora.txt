@@ -1,0 +1,22 @@
+Player: hi
+Theodora: You already got your share!
+Player: Hi  
+Theodora: I can see you collected some Theons. I may have something for you.  
+Player: Something  
+Theodora: Do you want this box filled with 24 festive items and a new anniversary backpack? I will trade it for 7197 Theons. ...  I also might have more items afterwards!  
+Player: Yes  
+Theodora: There you go! If you want festive items, I'm happy to trade!  
+Player: Trade  
+Theodora: Take a look at my balloons, carpets, food, fun and decorations!  
+Player: Balloons  
+Theodora: Here you go!  
+Player: Carpets  
+Theodora: Sure!  
+Player: Food  
+Theodora: Some sweets!  
+Player: Fun  
+Theodora: Take your time!  
+Player: Decorations  
+Theodora: Look around!  
+Player: Bye  
+Theodora: Bye.  

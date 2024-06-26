@@ -1,0 +1,35 @@
+Player: hi
+The Blind Prophet: You not should be here! You go! You go! (idle)
+Player: hi
+The Blind Prophet: Be greeted, friend of the apes.
+Player: name
+The Blind Prophet: Me put name away name long ago. Now only blind prophet of ape people are.
+Player: job
+The Blind Prophet: Me prophet and guardian is.
+Player: prophet
+The Blind Prophet: Me is who in dreams speak to holy banana. Me divine the will of banana.
+Player: guardian / forbidden
+The Blind Prophet: Me guard the forbidden land behind the great palisade. If any want to enter, he must ask me for transport.
+Player: transport
+The Blind Prophet: You want me to transport you to forbidden land?
+Player: no
+The Blind Prophet: Wise decision maybe.
+Player: yes (pz)
+The Blind Prophet: Anger of battle is burning in you! First calm down.
+Player: yes
+The Blind Propher: Take care!
+Player: lizard
+The Blind Prophet: The lizards evil and vengeful are. Ape people on guard must be.
+Player: hairycles
+The Blind Prophet: Good ape he is. Has to work hard to make other apes listen but you helped a lot.
+Player: port hope
+The Blind Prophet: Hairless apes strange people are.
+Player: hair
+The Blind Prophet: Me visions show hair in the far north west of forbidden land. Near coast look for signs of Bongs presence.
+Player: bong
+The Blind Prophet: Our holy ancestor he is. Big as mountain. Lizards say they built palisade to keep him but we not believe ...
+The Blind Prophet: We think Bong palisade built to have peace from pesky lizards. We respect peace of Bong, keep people away from forbidden land.
+Player: excalibug
+The Blind Prophet: Me not know. Me seldom have visions of not banana related objects.
+Player: bye
+The Blind Prophet: Good bye.

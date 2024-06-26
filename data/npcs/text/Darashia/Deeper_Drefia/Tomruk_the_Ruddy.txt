@@ -1,0 +1,47 @@
+Player: hi / hello
+Tomruk The Ruddy: Hello hello! Please don't touch the equipment, it's very valuable.
+Player: blood
+Tomruk The Ruddy: Ah, the sweet sap of life, the nectar of the gods, the river of emotions, the... <ahem> best thing there is.
+Player: blood hand
+Tomruk The Ruddy: Do you wish to join our ranks, talk to brother Elryed The Sanguine when he's back from his errand.
+Player: blood priest
+Tomruk The Ruddy: It takes practice, skill and dedication, but you might get there if you try!
+Player: drefia
+Tomruk The Ruddy: Well, it has its merits, yes. But I contemplate a study trip to the Plains of Havoc. Broadens your vision!
+Player: job
+Tomruk The Ruddy: Are you joking? Does the colour of my robes tell you anything? I'm a very important researcher!
+Player: name
+Tomruk The Ruddy: You will address me with my full name: Tomruk The Ruddy.
+Player: necroman
+Tomruk The Ruddy: Backward bunch. Incredibly old-fashioned approach to blood and narrow-minded about it.
+Player: Omrabas
+Tomruk The Ruddy: Never heard of him. Brothers are given new names when they reach priesthood, anyway.
+Player: priestess
+Tomruk The Ruddy: Not much to do with them, more's the pity. Beautiful, lively things.
+Player: research
+Tomruk The Ruddy: A fellow student of the dark arts, eh? Well, I specialise in the various conductive abilities of blood, you see. ...
+Tomruk The Ruddy: Perhaps you had read my treatise...no? Well, it'll revolutionise practical necromancy, let me tell you!
+Player: shadow pupil
+Tomruk The Ruddy: Huh. Always speak in riddles. If they deign to speak to you, that is. Paint strange pseudo-animals on the floor and prefer ashes to blood.
+Player: tibia / king
+Tomruk The Ruddy: Breeds supplies for the blood god.
+Player: tibianus
+Tomruk The Ruddy: Well, someone has to sort out all those peasants' concerns, I believe.
+Player: vampire
+Tomruk The Ruddy: Ah, fascinating creatures. Unfortunately, I had a... professional misunderstanding with a viscount, and now, our relations are somewhat strained.
+Player: zombie
+Tomruk The Ruddy: Good harriers for fresh supplies, but you have to keep them from gnawing at their find.
+Player: scroll
+Tomruk The Ruddy: Plenty of those here in Drefia. Got one myself, as a matter of fact. Handed down to me. Quite old and torn.
+Player: army
+Tomruk The Ruddy: Shepherd dogs to their king. Don't care myself, frankly. There are worthier things.
+Player: skeleton
+Tomruk The Ruddy: Of what interest would those sad things be? Not a drop of blood in them!
+Player: ghoul
+Tomruk The Ruddy: It can take some that way. Giving in to their hunger. Not much use then.
+Player: undead
+Tomruk The Ruddy: Hrm, yes, technically you could say that. Research has advanced a bit, so the concept is outdated.
+Player: bye
+Tomruk The Ruddy: My pleasure, I assure you. Farewell!
+Player: farewell
+Tomruk The Ruddy: Hmm? Oh yes, farewell, farewell.

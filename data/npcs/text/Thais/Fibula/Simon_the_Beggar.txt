@@ -1,0 +1,58 @@
+Player: hi / hello
+Simon The Beggar: Hello Player. I am a poor man. Please help me.
+Player: beggar
+Simon The Beggar: I have no gold and no job, so I am a beggar.
+Player: dermot
+Simon The Beggar: The magistrate of the village. I heard he is selling something for the Fibula Dungeon.
+Player: dungeon
+Simon The Beggar: I heard a lot about the Fibula Dungeon. But I never was there.
+Player: Fibula
+Simon The Beggar: I hate Fibula. Too many wolves are here.
+Player: gold
+Simon The Beggar: I need gold. I love gold. I need help.
+Player: help
+Simon The Beggar: I need gold. Can you spare 100 gold pieces for me?
+Player: yes
+Simon The Beggar: Thank you very much. Can you spare 500 more gold pieces for me? I will give you a nice hint.
+Player: yes
+Simon The Beggar: That's great! I have stolen something from Dermot. You can buy it for 200 gold. Do you want to buy it?
+Player: yes
+Simon The Beggar: Now you own the hot key.
+Player: jetty
+Simon The Beggar: I hate this jetty. I have never seen a ship here.
+Player: job / poor
+Simon The Beggar: I have no job. I am a beggar.
+Player: name
+Simon The Beggar: My name is Simon. I am a very poor man.
+Player: ship
+Simon The Beggar: There is a large sea-monster outside. I think there is no gritty captain to sail in this quarter.
+Player: shovel
+Simon The Beggar: Hehe, don't you have a shovel? I can sell you a shovel if you want to return to Tibia, just ask me for a trade.
+Player: trade
+Simon The Beggar: Sure. Buy as many shovels as you like. Can't hurt to have a spare one.
+Player: simon
+Simon The Beggar: I am Simon. The poorest human all over the continent.
+Player: tibia
+Simon The Beggar: Hehe, don't you have a shovel? I can sell you a shovel if you want to return to Tibia, just ask me for a trade.
+Player: timur
+Simon The Beggar: I hate Timur. He is too expensive. But sometimes I find maces and hatchets. Timur is buying these items.
+Player: village
+Simon The Beggar: To the north is the village Fibula. A very small village.
+Player: beard / outfit / addon / staff
+Simon The Beggar: Umm. Why would you want such a beard and a staff? You don't look as if you'd enjoy dressing like a beggar anyway.
+Player: flute
+Simon The Beggar: Har, har. The stupid Dermot lost his flute. I know that some minotaurs have it in their treasure room.
+Player: wolf
+Simon The Beggar: Please kill them ... ALL.
+Player: minotaurs
+Simon The Beggar: Very rich monsters. But they are too strong for me. However, there are even stronger monsters.
+Player: monster
+Simon The Beggar: The strongest monster I know is the giant spider.
+Player: giant spider
+Simon The Beggar: I know that terrible monster. It killed the fishers on the isle to the north.
+Player: treasure
+Simon The Beggar: I know there are two rooms. And I know you can pass only the first door. The second door can't be opened.
+Player: key
+Simon The Beggar: Key? There are a lot of keys. Please change the topic.
+Player: bye / farewell
+Simon The Beggar: Have a nice day.

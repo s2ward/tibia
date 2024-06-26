@@ -1,0 +1,77 @@
+Graham: Knight spells!
+Graham: Self-defense and combat spells, easy to learn for everyone!
+Graham: To serve and protect!
+Player: hi
+Graham: Hello there, friend. If you need new knight spells to protect your loved ones, I am your man.
+Player: name
+Graham: I am Graham Balfour.
+Player: job
+Graham: It is my duty and honour to teach knight spells to any knight who wishes to learn.
+Player: time
+Graham: It is 11:29 am, friend.
+Player: tibia
+Graham: I believe your lands are vast and wild? But you seem pretty able to defend yourselves. For my part, my place is here. Oramond has some unknown depths to it from which monsters emerge, and the city needs every help it can get to defend itself.
+Player: rathleton / city
+Graham: I know not much else than this city, but I believe it is unique in its way. Naturally, it is not perfect, but what in life is? We can only try to make things better one at a time.
+Player: slums
+Graham: Ah, you touch upon a sensible point. That part of town used to be the oldest and most densely populated, but it has rapidly gone to ruin these last decades. ...
+Graham: If you wish to help us in our fight against the monsters that roam the streets down there, you are most welcome. Please talk to Terrence at the eastern gate for a mission.
+Player: knight
+Graham: It is my calling to help all those in need. Even as a boy, I saw this. My mother needed protection from all that dreadful talk. Growing up, I saw the city needs protection against the hostile beings that live on the isle. So I became a knight.
+Player: novel
+Graham: I prefer historical books and Dr Stanton's essays on our flora and fauna. Mother finds a litte solace in them, though.
+Player: money
+Graham: I believe you have found a document that has relieved us of our most pressing debts. I thank you, for my mother's sake and for my own. I can put that money to good use. Things need to change in this city.
+Player: mother
+Graham: Mother lives in the hope of news from father. I do not have the heart to make her accept the hard truth, hope is all she has these days.
+Player: grandfather / grandmother
+Graham: Mother has refused to return to grandfather's estate or to remarry, and since then relations have been... icy.
+Player: factory
+Graham: The old factory in the lower part of town? It is infested with monsters. The new factory however conducts some interesting glooth experiments, if you should wish to visit - the workshops are safe. Safe from monsters, at least.
+Player: glooth
+Graham: I understand that it is a unique substance that can be treated and used for many things. ...
+Graham: I, myself, care little for it - it has overshadowed the life of my family these past twenty years. I turn to the simple and true things instead, the honour of being a knight, to protect the weak and help those in need.
+Player: opera
+Graham: It was the place where father built his factory. An ill-fated place, it seems. I do not know much of opera or music, you should talk to Madame Fayla if you are interested in it.
+Player: minotaur
+Graham: They are hostile and frequently attack our city. Dr Stanton has tried to find out why, but I believe without much success. in the meantime, we knights try to protect the city. ...
+Graham: If you wish to help, please talk to one of the city guards, or Captain Terrence for further instructions.
+Player: captain caveworm
+Graham: Our Captain Caveworm could beat up your Ferumbars or whatever he's called, any time.
+Player: maxxen
+Graham: Many were killed when he unleashed his walkers upon the city.
+Player: airtight cloth
+Graham: That is of no use to me.
+Player: alaistar
+Graham: Dr Stanton has been a close of friend of my father, and he has tried, in his way, to help mother and me through the hard years. But he is a man of science as my father was, and his word against that of... other people in this town has not changed much.
+Player: azalea
+Graham: Mother delights in the flowers she creates and sometimes visits her temple gardens. For myself, I believe the city is fortunate to have such a skilled healer; our casualties would be much higher if it wasn't for Azalea.
+Player: christine
+Graham: Young lady D'Albay? She smiled at me once, but I believe she smiles at everyone.
+Player: dr merlay / father
+Graham: I know you wish to give me hope, but my father is dead. I have heard many things about him in the last fifteen years, but to believe THAT? Impossible. I have accepted, with a quiet heart now, that he died for his science.
+Player: edmund
+Graham: An honest tradesman. Much of mother's private jewellery went to him many years ago, to help us get over the hardest of times. I would buy it back if I could, only to see her a little more happy again.
+Player: emily
+Graham: Mother lives in the hope of news from father. I do not have the heart to make her accept the hard truth, hope is all she has these days.
+Player: fayla
+Graham: She used to be a renowned singer in her youth, but when the old opera burned down, the city was against rebuilding it, so Madame Fayla began to give lessons and to sell musical instruments instead.
+Player: flint
+Graham: He used to be my teacher, and I deplore the fact that he resigned from his post after he lost a good friend in an accident.
+Player: fyodor
+Graham: I know mother wishes us to be friends, but I must own I have little time for anything besides my work. At least it has earned us a little respect.
+Player: maro
+Graham: He seems peacable enough, but I cannot say as much of his kin. Though he believes himself to be a human, who is to say what happens if he ever should be called on to help his people against ours?
+Player: mordecai
+Graham: Professor Stanton lives for the craft of magic. I don't know if he has ever left his house these last ten years.
+Player: nicholas
+Graham: The cabinetmaker? Ever since we made contact with your lands, Venorean furniture has been very popular, and his designs are greatly inspired by it, or so I'm told. You can purchase a variety of wares at his furniture shop.
+Player: terrence
+Graham: He may seem a little curtly at times, but he is a brave man with a keen eye and good understanding of practical things that need to be done, and do them. ...
+Graham: If you wish to help us against the minotaurs and fight for the welfare of this city, talk to him. You will find him at the eastern gate.
+Player: silas
+Graham: He's the youngest son of a remarkable family of hunters. His bows and ammunition are of excellent quality, and he is eager to support every initiative against the minotaurs. He has an instinctive dislike for them. It runs in the family.
+Player: virgil
+Graham: There seems to have been new evidence he cannot disregard. At least for now we have enough money to begin paying back some of our ancient debts.
+Player: bye
+Graham: Good bye.

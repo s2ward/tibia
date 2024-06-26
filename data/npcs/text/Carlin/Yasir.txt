@@ -1,0 +1,14 @@
+Player: hi / hello
+Yasir: Yasu me halaka. <greets you friendly>
+Player: name
+Yasir: Me Yasir.
+Player: job
+Yasir: Tje hari ku ne finjala. Ariki?
+Player: ariki / trade
+Yasir: Si! Haneka ariki!
+Player: passage
+Yasir: Soso yana. <shakes his head>
+Player: bye
+Yasir: Si, jema ze harun. <waves>
+Player: (vanish)
+Yasir: Si, jema ze harun.

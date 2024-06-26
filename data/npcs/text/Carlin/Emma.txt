@@ -1,0 +1,45 @@
+Player: hi / hello  
+Emma: HAIL TO THE QUEEN!  
+Player: queen  
+Emma: I am privileged to be in service of our beloved queen!  
+Player: carlin  
+Emma: We are proud people who fought hard for their freedom and won't allow others to oppress us again.  
+Player: service  
+Emma: I am the head of Carlin's Girls Brigade, also known as CGB.  
+Player: CGB  
+Emma: The CGB is a patriotic organisation that fights our numerous enemies with means that guards or army do not have at their disposal. ...  
+Emma: We work secretly and covertly. We uncover secret plots and we are both the first line of defence of our city and the last. We are joined only by the best of the best.  
+Player: AVIN  
+Emma: The AVIN is rather a crime syndicate than anything else. If there is something dirty and illegal, they are most likely involved. ...  
+Emma: They are unscrupulous and also do not back away from blackmailing and assassination.  
+Player: TBI  
+Emma: The TBI is as old-fashioned, stubborn and inflexible as only males can be. What makes this bureaucracy somewhat dangerous, is the money they have at their disposal. ...  
+Emma: They buy spies and traitors - all of them weak-willed or greedy individuals.  
+Player: join  
+Emma: Don't try to fool me. We are perfectly aware to whom you are loyal.  
+Player: job  
+Emma: I am the head of Carlin's Girls Brigade, also known as CGB.  
+Player: name  
+Emma: I am known as Emma.  
+Player: ab'dendriel  
+Emma: The elves of Ab'Dendriel are our allies. Our druids contribute most to keeping such a good relation. ...  
+Emma: They seem to understand the elves a bit better than we ordinary people do.  
+Player: thais  
+Emma: The Thaians never got over the fact that we gained our independence. They do everything they can to hinder the prospering of our city.  
+Player: venore  
+Emma: Venore is a hellhole of evil. The trade barons' greed lets them plot against all other cities and even against each other.  
+Player: svargrond  
+Emma: Svargrond is an important project for our city. It's not a colony but many of our people live there alongside those barbarians. If everything works out fine, Carlin and Svargrond will both prosper.  
+Player: ankrahmun  
+Emma: Strange people with strange customs live in this city. Luckily, we rarely have to deal with them.  
+Player: darashia  
+Emma: Darashia never bothers about the affairs of other cities.  
+Player: liberty bay  
+Emma: The name of the city is a cruel joke. The people there are oppressed by Thais and Venore who slowly bleed the isle and its people white. ...  
+Emma: It shows what would have happened to us if our rebellion had failed.  
+Player: port hope  
+Emma: It's just another Thaian puppet. Still, it is distant enough to stand a fair chance to get rid of Thais's oppression one day.  
+Player: kazordoon  
+Emma: The dwarfs of Kazordoon usually mind their own business. I wish all other cities would do the same.  
+Player: bye / farewell  
+Emma: LONG LIVE THE QUEEN! You may leave now!  

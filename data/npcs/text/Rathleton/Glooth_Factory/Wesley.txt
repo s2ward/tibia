@@ -1,0 +1,39 @@
+Wesley: Why doesn't this thing work?
+Wesley: Wretched machine. I really should be up at the farm, instead of ...engineering!
+Wesley: <mutters> Well, now at least we know the machine doesn't take well to the cave climate here.
+Wesley: Ah, at least for now it's working properly. Wait. What was that sound? Arghh!
+Player: hi
+Wesley: Hi! Are you the new assistant? No? Well then, I'll make you an honorary assistant.
+Player: assistant
+Wesley: Well, I'm kind of stuck here, as the control unit here need constant maintenance. <sigh> That's why I need someone to assist me in tending to the gloothworms.
+Player: gloot
+Wesley: The worms on the farm provide fresh, unused glooth. It's much sought after, both by the city and the scientists.
+Player: mission
+Wesley: So you'll assist me? Great! Okay. You will look after the gloothworms - find out what they need and then do the associated task. ...
+Wesley: A daily routine implies at least three different tasks done. To receive a task, take a look at the gloothworm surveillance machine in the northern cave and then tell me what it says.
+Player: machine
+Wesley: Is there a malfunction with the machine that prevents you from completing a task?
+Player: no
+Wesley: Oh. Okay. Do you want me to explain how the machine works?
+Player: yes / again
+Wesley: The principle is simple. The machine measures soil humidity, toxic values and growth rate of the gloothworms through pipes filled with special reagents that connect it to the farm. ...
+Wesley: Those values are shown as code on the machine. To prohibit tampering with the machine, only I know what the code means and can give access to the machine. ...
+Wesley: If you want to assist me in a mission, all you have to do is this: Talk to me first. I'll then give you access to the machine. ...
+Wesley: Now, use the machine once to have it display a code. Come to me to report that code, and I'll tell you which task you need to do. Then, when you finished your task, report back to me. ...
+Wesley: When you have done three tasks in a row in this way, I'll give you a voting right as a reward. Want me to explain again?
+Player: no
+Wesley: Okay. Well, I'll just continue maintenance on this thing then. If you should be interested in assisting me again, come back anytime.
+Player: machine -> yes
+Wesley: Ah! So, you can't complete your task or use the machine, yes? Do you want me to reset the data and start from the beginning?
+Player: no
+Wesley: Ah, okay. Do you want me to explain how the machine works, then?
+Player: reset
+Wesley: I must tell you that this means you lose your current progress in the gloothworm tasks. Do you still want to reset all current tasks and start all over again?
+Player: no
+Wesley: Okay. Well, if you need help or want to assist me again, come back anytime.
+Player: reset all
+Wesley: Okay. Let me just reset this... and this. Okay. You can now start your tasks anew. If you want to assist me, talk to me about a mission.
+Player: rathleton
+Wesley: Well, I like the city good enough. Some really nice people around, even though the island's small. But now with the shipping line to Venore and Thais, I'm sure things grow a little more interesting every day.
+Player: bye
+Wesley: Bye!

@@ -1,0 +1,113 @@
+Player: hi
+The First Dragon: Hello, my sparring buddy. We should have another fight sometimes. I think you may have earned a little reward.
+Player: fight
+The First Dragon: Even in retirement I sometimes succumb to the temptation of sweet battle. Fighting was so different back in the old times. You can read about it in my memoirs. There should be a copy lying here somewhere.
+Player: reward
+The First Dragon: Have a look at the chests over there. Feel free to take the things you find within. You know, gold, gems and the like. There's also a garment I'm storing here for a while. As it doesn't fit me I have no need for it. ...
+The First Dragon: But it might be a nice outfit for a little human. You also can take the porcelain mask and the feathers. There's a wizard named Muriel in Thais who reportedly embellishes outfits with stuff like this.
+Player: retirement
+The First Dragon: When you are young, you are much more tolerant towards the burden of life. At a certain age even a dragon will start to think about if things will go on forever. ...
+The First Dragon: Eventually there comes a time when you decide all the hassle isn't worth it anymore and you decide to concentrate on the finer things life has to offer.
+Player: times
+The First Dragon: Times have changed <sigh>. In the past dragons were feared and respected. Only the demons rivalled our notoriety.
+Player: memoirs
+The First Dragon: I dictated my memoirs to a human servant. I like the idea to share my thoughts and memories with humanity with the help of a book. ...
+The First Dragon: You are my greatest fans after all. ...
+The First Dragon: If it becomes popular, I might consider an orcish translation or even one in bonelord language. ...
+The First Dragon: By the way, it's a funny story how I learnt the bonelord language. However, I saved it for a possible part two of my memoirs.
+Player: dragon
+The First Dragon: The day might come on which dragons will rule the world again. ...
+The First Dragon: But dragons are not what they used to be. Things have changed, some even for the better.
+Player: hassle
+The First Dragon: I really enjoy a good fight now and then. ...
+The First Dragon: A real pain, however, is the constant annoyance caused by tedious fights against adventurers with more healing pots than brain.
+Player: demons
+The First Dragon: Those upstarts! I wonder why would anyone care about them. They lack our style. For them it is all about brute force and showing-off.
+Player: better
+The First Dragon: To be honest, flying over the countryside, breathing fire and spreading terror is quite fun for a century or two. However, after a while it all gets a bit stale. Admittedly, before I learnt your language, I had no idea about you humans.
+Player: style
+The First Dragon: Breathing fire is an art! Instead of setting everything on fire, you exhale a cone of fire to give a worthy opponent a chance to avoid it.
+Player: terror
+The First Dragon: Ah come on, it was a good spirited terror. It was even inspiring. ...
+The First Dragon: If it were not for dragons like me, you probably still had no good weapons and armors. It is very likely that you would not even live in cities.
+Player: language
+The First Dragon: I learnt the human language by a whim of fate. I kept some humans captive for a while for my amusement. ...
+The First Dragon: After a while I began to wonder if the noise they made had an actual meaning. I was quite amazed to learn about your short lives and your ridiculous civilization. ...
+The First Dragon: I had so many laughs about your hilarious and ignorant antics, I even developed some kind of sympathy for you.
+Player: worthy
+The First Dragon: To be honest, the first dragon hunters weren't worthy. ...
+The First Dragon: They used weaknesses to their advantage. It took some time before a dragon could be killed in a fair fight.
+Player: human
+The First Dragon: Your lives are so short and meaningless and yet you are here! And as a race you even have your own history and remember things with the help of books, which amazes me.
+Player: weaknesses
+The First Dragon: The first awoken dragons were quite disoriented when leaving the mists and re-entering reality. ...
+The First Dragon: This led to certain vulnerabilities. However, the dragons overcame such shortcomings quickly and soon took their rightful place in the food chain, so to say.
+Player: fair
+The First Dragon: Admittedly, in the old days, dragons were not really clever. Did you know that some of them actually tried to use weapons to fight? ...
+The First Dragon: Of course they were untrained and fought even worse than without them. Some, however, managed to squeeze themselves into an armor and became indeed somewhat tougher.
+Player: tougher
+The First Dragon: Of course other creatures thought that wearing an armor must be a good idea if even dragons do something like that. So they tried the same. ...
+The First Dragon: Of course, it was a complete mess and caused all kinds of problems and unwanted effects.
+Player: world
+The First Dragon: The world has changed so much; I'm beginning to feel really old. People have changed, the face of the world has changed, even the laws of nature are no longer the same. ...
+The First Dragon: I think it is the greatest advantage of you humans to be more flexible and adaptable.
+Player: books
+The First Dragon: Your books are an amazing thing. Draconic glyphs are so different. ...
+The First Dragon: They are not only more complicated but also more specific. A single word which always keeps the same meaning is astonishingly effective in its primitive way. ...
+The First Dragon: It helps you to conserve thoughts, stories and history and to share them with others - a concept I really appreciate. ...
+The First Dragon: Books are a wonderful invention. If you are ever tired of your heroic exploits, take the time to read one.
+Player: concept
+The First Dragon: I like the idea of books so much that I acquired a human servant to record my memoirs. You find a copy somewhere in my lair.
+Player: invention
+The First Dragon: Being powerful creatures themselves, dragons had no need for inventions. ...
+The First Dragon: However, now that times have changed and the pressure increases, even my kin might slowly start to change in order to adapt.
+Player: adapt
+The First Dragon: Well, surely some of my kin might whine and complain as they always do. ...
+The First Dragon: You have no idea how backwards thinking some dragons can be. A few are even still idealising the times before the mists.
+Player: mists
+The First Dragon: There was a time before the gods cast the mists of healing over the world. At that time the dragons ruled and burnt the world. ...
+The First Dragon: In hindsight I'm not too proud of this. This was some kind of juvenile bullying.
+Player: lava
+The First Dragon: Lava is only fun as long as it doesn't harden - then it turns into an annoyance.
+Player: tibia
+The First Dragon: A world filled with so many interesting inhabitants, some good, some bad, some tasty, some not.
+Player: thais
+The First Dragon: Oh, this city has prospered by my sheer presence. When I arrived it was more of a hamlet with a few houses and shops. ...
+The First Dragon: Good old Thais! That brings back some fond memories - the terror, those screams! I had a fun time in my good old lair. ...
+The First Dragon: Although when I visited my old lair recently, I had to ask myself how I had been able to stand that cold and humid hole. ...
+The First Dragon: Back then, however, it was sufficient. Now my preferences are somewhat more sophisticated, though, and I'd never return there.
+Player: carlin
+The First Dragon: It is so obvious why Carlin became a rival to Thais. Pure dragon envy, I tell you! ...
+The First Dragon: Back in my days, there was no Carlin at all. And Thais was nowhere as huge as today.
+Player: excalibug
+The First Dragon: Sigh. That would be the crown jewel of my hoard.
+Player: gods
+The First Dragon: The rare times when the gods walked the land with their avatars took place before the first dragons arrived. ...
+The First Dragon: I try my best not to ignore the gods and I hope they'll return the favour.
+Player: ferumbras
+The First Dragon: An upstart. Let's see if anyone still knows his name in a few hundred years.
+Player: gold
+The First Dragon: A hoard of gold makes a fine bed. The more gold, the deeper the slumber. It was a stupid move of humanity to make coins out of the one thing that dragons cherish the most.
+Player: slumber
+The First Dragon: A good slumber is essential for a dragon's health and fighting ability. A dragon with a bigger hoard is healthier and has mightier breathing attacks.
+Player: hoard
+The First Dragon: I have several hoards at different places. As I'm the first dragon, I can afford them. For representative reasons, I prefer to have several of them.
+Player: dwarfs
+The First Dragon: They get very old and love gold. If they were somewhat bigger and were able to breathe fire, they'd almost be kin. ...
+The First Dragon: Admittedly, the centuries-old hatred between dwarfs and dragons might be a minor hindrance.
+Player: fire / flame
+The First Dragon: A dragon's flame tells about the dragon's brightness. ...
+The First Dragon: A true dragon can breathe fire. I heard some modern dragons have different breathing weapons. I wonder what they are thinking. ...
+The First Dragon: It's hard for me to keep up with modern times when even dragons do such weird stuff.
+Player: heroes
+The First Dragon: They are so cute when they try to be heroic. Surprisingly few take the hero-thing seriously, though. In the end, most of them run as soon as things get ugly.
+Player: finer
+The First Dragon: The definition of finer things is different for a dragon than for a human. ...
+The First Dragon: A young dragon appreciates diving into a lava pool, while an old dragon just can't stand to get rid of the lava afterwards and prefers bathing in boiling water.
+Player: breeds
+The First Dragon: There are different dragon breeds. You might already know some of them, but you have surely not encountered all of them yet.
+Player: first
+The First Dragon: Yes, I was the first one. However, in the pictures from olden times, I look different than I do today. I hate my old looks. ...
+The First Dragon: What was I thinking? Always those heroes for lunch, dozens of them. Most of them I devoured quite hastily and we all know how fat one gets from fast food.
+Player: bye
+The First Dragon: Good bye, Player. Take care.

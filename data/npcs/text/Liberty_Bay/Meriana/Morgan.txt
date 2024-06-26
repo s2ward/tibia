@@ -1,0 +1,76 @@
+Player: hi / hello  
+Morgan: Hello there, Player. What can I do for you?  
+Player: addon / outfit  
+Morgan: I can forge the finest weapons for knights and warriors. They may wear them proudly and visible to everyone.  
+Player: Carlin  
+Morgan: Carlin secretly trades with us now and then.  
+Player: Charlotta  
+Morgan: I remember her from Liberty Bay. She is knowledgeable about herbs and diseases.  
+Player: Chondur  
+Morgan: Well, Chondur is a good man for sure, but these things he is dealing with just give me shivers.  
+Player: crude iron / royal steel  
+Morgan: A skilled smith could probably refine it.  
+Player: cult  
+Morgan: I heard rumours about a cult in Liberty Bay. Perhaps another form of resistance, who knows?  
+Player: excalibug  
+Morgan: Excalibug must be some formidable weapon indeed. If it really exists, I envy its smith for his skills.  
+Player: Ferumbras  
+Morgan: That was some evil sorcerer in the past.  
+Player: firebird  
+Morgan: Hmm. Seems you picked something up which wasn't meant for your ears.  
+Player: governor  
+Morgan: Some say it does not matter who is in charge, but to the people, who came here to live their lives in freedom, it matters a lot.  
+Player: Isolde  
+Morgan: Some noble woman that is one of the leaders of the Thaian contingent.  
+Player: job / do for you  
+Morgan: I am glad to serve the community as a humble smith.  
+Player: smith  
+Morgan: I can forge the finest weapons for knights and warriors. They may wear them proudly and visible to everyone.  
+Player: iron ore  
+Morgan: I guess you could probably find that in mines.  
+Player: king  
+Morgan: The king is far away. How could he care about us at all? Indeed, why did he bother about our isles in the first place? Couldn't he not just have left us alone?  
+Player: liberty bay  
+Morgan: I miss the city and the people now and then, but fate has other things in mind with me right now.  
+Player: loveless / theodore  
+Morgan: I can say for sure that he is no friend of us. I don't mind if our raids hurt him in particular.  
+Player: mission  
+Morgan: Thank you for delivering my letter to Eremo. I have no more missions for you.  
+Player: name  
+Morgan: My name is Morgan.  
+Player: natives  
+Morgan: The mercenaries they brought here to occupy the city started to call us like that. We don't care about it anymore.  
+Player: pirate  
+Morgan: The tides of fate made us pirates. If we ever succeed in liberating our homes, we will be remembered as heroes.  
+Player: plantation  
+Morgan: It is horrible that our people have to work like slaves.  
+Player: quara  
+Morgan: The quara are evil. That's all one needs to know about that disgusting race.  
+Player: rum  
+Morgan: I don't drink when I work. On evenings, that's another matter of course.  
+Player: Striker  
+Morgan: For all his youth, he is a fine leader and daring captain.  
+Player: sugar  
+Morgan: It is harvested in incredible numbers from the plantations.  
+Player: thank  
+Morgan: My pleasure.  
+Player: thais  
+Morgan: I have never been in Thais so I can't tell anything about it.  
+Player: Tristan  
+Morgan: A young warrior in service of Thais.  
+Player: venore  
+Morgan: Many here see Venore as the source of our misery. I don't know enough about politics to have an opinion about it.  
+Player: voodoo  
+Morgan: I think it is better to switch the topic.  
+Player: Wyrmslicer  
+Morgan: Most of the boys and girls here consider him an worthy enemy, but I doubt he sees us as a combatant.  
+Player: weapon / forge  
+Morgan: What would you like me to forge for you? A knight's sword or a warrior's sword?  
+Player: knight  
+Morgan: Simply bring me 100 iron ore and one crude iron and I will happily forge it for you.  
+Player: weapon / forge  
+Morgan: What would you like me to forge for you? A knight's sword or a warrior's sword?  
+Player: warrior  
+Morgan: Simply bring me 100 iron ore and one royal steel and I will happily forge it for you.  
+Player: bye / farewell  
+Morgan: Good bye, Player.  

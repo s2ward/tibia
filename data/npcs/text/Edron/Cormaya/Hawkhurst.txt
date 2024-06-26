@@ -1,0 +1,18 @@
+Player: hi
+Hawkhurst: Me ain't being anythin' other than a poor ol' fisherman. Leave me alone!
+Player: hi (mission)
+Hawkhurst: Ahoy, matey! Lookin' for a passage, eh.
+Player: name
+Hawkhurst: Me name is Hawkhurst 'm Lord. At ye services and so on.
+Player: job
+Hawkhurst: Are ye' looking for a passage ain't ye'? A very special one perhaps?
+Player: passage (on cormaya)
+Hawkhurst: Ye' want a passage to that blasted isle, right? Yes or no?
+Player: passage (on ingol)
+Hawkhurst: Ye' want a passage from this blasted Isle, right? Yes or no?
+Player: no
+Hawkhurst: Then better leave ol' Hawkhurst alone, mindin' me business.
+Player: Yes
+Hawkhurst: All Hand Hoy!
+Player: bye
+Hawkhurst: Yeah!

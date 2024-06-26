@@ -1,0 +1,16 @@
+Player: hi / hello  
+The Crone: Be greeted, Player... mortal.  
+Player: name  
+The Crone: I don't remember my name, neither my days as a mortal.  
+Player: job / mortal  
+The Crone: Once I was Vashresamun's favourite handmaid. But I have fallen from grace and now I'm exiled from her tomb.  
+Player: grace / fallen / exiled  
+The Crone: Don't ask about it, mortal. Memories bring too much grief.  
+Player: vashresamun  
+The Crone: I mourn the dark day I was exiled from her tomb.  
+Player: tomb  
+The Crone: Her tomb is sealed and can only be entered with a certain melody.  
+Player: melody  
+The Crone: Vashresamun erased the memory of the tune from my mind, I only remember its name: The Secret of the Rose Garden.  
+Player: bye / farewell  
+The Crone: Good bye.  

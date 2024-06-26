@@ -1,0 +1,40 @@
+Player: hi
+Tarun: Greetings!
+Player: name
+Tarun: My name is Tarun.
+Player: job
+Tarun: I'm a merchant. I trade in spices, silk, jewelry and ivory. I traveled along the trade routes between Port Hope and Darashia together with my brother. But these times are over, I fear.
+Player: time
+Tarun: It's exactly 1:08 pm.
+Player: merchant
+Tarun: I maintain a small caravan to transport my goods between the cities of Darashia and Port Hope. It is even smaller now, as one of the rather greedy members stayed in the Kha'Zeel Mountains.
+Player: greedy
+Tarun: Yes, there are rumours about countless treasures, hidden in the dragon lairs there. I warned my fellow not to disturb these dangerous creatures out of simple avarice, but just like my brother, he wouldn't listen to me.
+Player: brother / mission / task / quest
+Tarun: I warned my brother not to go with this woman, but he gave in to temptation. (idle)
+Player: rumours / rumors
+Tarun: There is a gorgeous palace north of here. But if I were you I wouldn't go there! The place is full of demons!
+Player: demons
+Tarun: Yes, they are called asuri. According to the legends of my homeland, an asura is a demonic creature who usually hides her true face and appears in the form of a beautiful woman. ...
+Tarun: These demonesses are driven mainly by greed and envy. They enter the mortal world because they begrudge humans and other peoples their vigour, beauty and happiness. ...
+Tarun: They seek to destroy positive feelings such as love, contentment and mirth, because herefrom they gain their energy.
+Player: energy
+Tarun: An asura especially stalks men she regards as handsome and happy. These victims are lured into gorgeous palaces full of riches and conveniences, inhabited by several asuri. ...
+Tarun: There they ensnare the men with amusements such as wine, music, dance and intoxicating substances that indulge their senses and make them submissive and weak-willed. Then the asuri divest them of vitality and beauty. ...
+Tarun: When an asura gets weary of her victim or if captives unexpectedly oppose the demonesses, these unfortunates come to know the true face of the palace. At least, so say the legends.
+Player: face
+Tarun: As the asuri show a beautiful face outwardly and are in truth terrible demons likewise the palace, behind its marvellous veneer, is full of prison cells, torture chambers and even rooms where sacrificial altars await the asuri's emaciated victims. ...
+Tarun: I fear, my dear brother now shares this gruesome fate.
+Player: asuri
+Tarun: I'm still mourning my lost brother, it's true. His untimely death still saddens me and makes me angry at the same time. I can't stop thinking about those vile demons who took his life. So I started watching them - from afar, of course. ...
+Tarun: I guess they regularly visit some far away place. Perhaps they originally hail from there. Sometimes they are leaving the palace and are returning days or weeks later. And sometimes they don't. Return, of course. ...
+Tarun: But I don't know, where they go exactly. At some point they just disappear right in front of my eyes. Perhaps they use a spell you can only trigger with something found in the palace? I'm not sure. And I don't dare to go there. ...
+Tarun: But you, my brave friend, you have already been there and returned alive - other than my poor, unlucky brother. Perhaps you can go there again and find out more. Do you want to lift another of this foul palace's secrets?
+Player: no
+Tarun: I understand, my friend. You escaped from there once. Don't try your luck twice. (idle)
+Player: yes
+Tarun: Great! I really wonder what those demons are up to.
+Player: trade / sell
+Tarun: Of course, just have a look.
+Player: bye
+Tarun: Farewell.

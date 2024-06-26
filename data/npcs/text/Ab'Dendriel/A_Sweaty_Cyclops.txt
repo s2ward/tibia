@@ -1,0 +1,86 @@
+Player: Hi  
+A Sweaty Cyclops: Hum Humm! Welcume here li'l Player.  
+Player: Here/Job  
+A Sweaty Cyclops: I am smith.  
+Player: Smith  
+A Sweaty Cyclops: Working steel is my profession.  
+Player: Steel  
+A Sweaty Cyclops: Many kinds of. Some I forge. But not ancient steel.  
+Player: Forge  
+A Sweaty Cyclops: Me can forge equipment back to steel. Like Za'Ralator, Uth'Kean, Uth'Lokr, Uth'Prta.  
+Player: Ancient Steel  
+A Sweaty Cyclops: Very old. Like Mesh Kaha Rogh, Za'Kalortith, Uth'Byth, Uth'Morc, Uth'Amon, Uth'Maer, Uth'Doon, and Zatragil.  
+Player: Za'Ralator  
+A Sweaty Cyclops: Hellsteel is. Cursed and evil. Dangerous to work with. Me can make from evil helmet. Li'l one want to trade?  
+Player: Uth'Kean  
+A Sweaty Cyclops: Very noble. Shiny. Me like. But breaks so fast. Me can make from shiny armour. Li'l one want to trade?  
+Player: Uth'Lokr  
+A Sweaty Cyclops: Firy steel it is. Need green ones' breath to melt. Or red even better. Me can make from shield. Li'l one want to trade?  
+Player: Uth'Prta  
+A Sweaty Cyclops: Good iron is. Me friends use it much for fight. Me can make from weapon. Li'l one want to trade?  
+Player: Mesh Kaha Rogh  
+A Sweaty Cyclops: Steel that is singing when forged. No one knows where find today.  
+Player: Za'Kalortith  
+A Sweaty Cyclops: It's evil. Demon iron is. No good cyclops goes where you can find and need evil flame to melt.  
+Player: Uth'Byth  
+A Sweaty Cyclops: Not good to make stuff off. Bad steel it is. But eating magic, so useful is.  
+Player: Uth'Morc  
+A Sweaty Cyclops: Li'l ones it thieves' steel call sometimes. It's dark and making not much noise.  
+Player: Uth'Amon  
+A Sweaty Cyclops: Brightsteel is. Much art made with it. Sorcerers too lazy and afraid to enchant much.  
+Player: Uth'Maer  
+A Sweaty Cyclops: Heartiron from heart of big old mountain, found very deep. Li'l li'l ones fiercely defend. Not wanting to have it used for stuff but holy stuff.  
+Player: Uth'Doon  
+A Sweaty Cyclops: It's high steel called. Only li'l li'l ones know how make.  
+Player: Zatragil  
+A Sweaty Cyclops: Most ancients use dream silver for different stuff. Now ancients most gone. Most not know about.  
+Player: Name  
+A Sweaty Cyclops: I called Bencthyclthrtrprr by me people. Li'l ones me call Big Ben.  
+Player: Humans  
+A Sweaty Cyclops: Always asking me for stuff they can't afford.  
+Player: Orcs  
+A Sweaty Cyclops: Silly ones. Not talk much. Always screaming and hitting.  
+Player: Elves  
+A Sweaty Cyclops: Me not fight them, they not fight me.  
+Player: Minotaurs  
+A Sweaty Cyclops: They were friend with me parents. Long before elves here, they often made visit. No longer come here.  
+Player: Dwarfs  
+A Sweaty Cyclops: Li'l li'l ones are so fun. We often chat.  
+Player: Ab'dendriel  
+A Sweaty Cyclops: Me parents live here before town was. Me not care about li'l ones.  
+Player: Cyclops  
+A Sweaty Cyclops: Me people not live here much. Most are far away.  
+Player: Tibia  
+A Sweaty Cyclops: One day I'll go and look.  
+Player: lil' lil'  
+A Sweaty Cyclops: Li'l li'l ones are so fun. We often chat.  
+Player: Teshial/Cenath/Deraisim/Kuridai  
+A Sweaty Cyclops: Is one of elven family or such thing. Me not understand li'l ones and their business.  
+Player: Excalibug  
+A Sweaty Cyclops: Me wish I could make weapon like it.  
+Player: Warlord sword  
+A Sweaty Cyclops: Do li'l one want to trade a warlord sword?  
+Player: Magic sword  
+A Sweaty Cyclops: Silly li'l one you are.  
+Player: Sword of valor  
+A Sweaty Cyclops: Do li'l one want to trade a sword of valor?  
+Player: Melt  
+A Sweaty Cyclops: Can melt gold ingot for li'l one. You want?  
+Player: Dragon shield  
+A Sweaty Cyclops: Do li'l one want to trade a dragon shield?  
+Player: Fire sword  
+A Sweaty Cyclops: Do li'l one want to trade a fire sword?  
+Player: Bright sword  
+A Sweaty Cyclops: Do li'l one want to trade a bright sword?  
+Player: Gods  
+A Sweaty Cyclops: You shut up. Me not want to hear.  
+Player: Amulet  
+A Sweaty Cyclops: Big Ben no has it more! When you also no have it, you have lost mighty, mighty amulet! Stupid li'l one!  
+Player: Big old one  
+A Sweaty Cyclops: Mountain in south. Li'l li'l ones living there.  
+Player: Enchanted plate  
+A Sweaty Cyclops: Do li'l one want to trade an enchanted plate armor?  
+Player: Serpent sword  
+A Sweaty Cyclops: Do li'l one want to trade a serpent sword?  
+Player: Bye/Farewell  
+A Sweaty Cyclops: Good bye li'l one.  

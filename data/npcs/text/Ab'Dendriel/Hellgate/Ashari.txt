@@ -1,0 +1,66 @@
+Player: hi  
+Ashari: Hello, stranger! These caves must seem strange to you. I wonder what brings you here... maybe you are interested in some work? There are several tasks I could need a hand with.  
+Player: name  
+Ashari: My name is Ashari. Mh... everything all right? You look as if it has some meaning to you? Oh sorry, I hope I did not offend you.  
+Player: job  
+Ashari: I am the first voice amongst this community.  
+Player: first voice  
+Ashari: I am the leader of our people in worldly matters. I am the one who gives everyone its responsibilities and sees over our resources.  
+Player: resources  
+Ashari: This world is unforgiving and barren. Little can be done about that, but those of the second generation left us with more than the sins of the ancestors. They also gave us a home, hope, and at least some meagre resources.  
+Player: second generation  
+Ashari: We do not know for how long sinners have lived and died here in the afterworld before some of the second generation saw the damnation that the deeds of the first brought upon them. ...  
+Ashari: Second generation might have only been true for some of them. Some might have been third of fourth generation already, who knows. ...  
+Ashari: They were free of some of the taint of their mothers and fathers, and saw through their lies. Saw them as the sinners that they were. ...  
+Ashari: It became clear to them and their leader Feridil that only by distancing themselves from the sinful outcasts, they could begin the long walk on the road to salvation. ...  
+Ashari: They drove off the sinners and claimed a small part of this afterworld for themselves. They chose a home near the entrance to the afterworld to make it easier for the wise of Abar Dendri to watch and ultimately judge them. ...  
+Ashari: They also made note of each new sinner, that arrived in the afterworld. And they marked them, so they could later tell if a petitioner who came to join them, was of second generation at least. ...  
+Ashari: They secured the resources that they needed and organised their harvest. That was how our community came to be.  
+Player: taint
+Ashari: Larfion, our shaman, knows more about such matters. He is the guardian of our souls.  
+Player: community  
+Ashari: We are bound together in our need to purify ourselves in this harsh afterworld. Our resources are limited and our enemies numerous. But it will help us to atone.  
+Player: purify  
+Ashari: Meditation and hard work purify body and soul. But the taint runs deep.  
+Player: afterworld  
+Ashari: This is but a mockery of the world of light. Here we do not live, but are not truly dead either. We are similar to the undead that roam these caves. But unlike them we have the hope to atone.  
+Player: atone / purify  
+Ashari: Meditation and hard work purify body and soul. But the taint runs deep.  
+Player: afterworld  
+Ashari: This is but a mockery of the world of light. Here we do not live, but are not truly dead either. We are similar to the undead that roam these caves. But unlike them we have the hope to atone.  
+Player: hope
+Ashari: The tears of the earth give life and strength to our plants. Without them our lives would be even more miserable and hopeless. ...  
+Ashari: We could easily starve and become prey for the creatures of the caves. The tears of the earth water our gardens and allow us to maintain a community and stay together. ...  
+Ashari: Without them our community would shatter. And without our community we'd be lost with no chance of redemption or even survival.  
+Player: roots  
+Ashari: The roots belong to the world tree. Its roots are what holds our whole world together. It is there the tears of the earth can be found.  
+Player: tasks / quest / mission  
+Ashari: Oh if you want to help me, you can lend me a hand watering our garden, cultivating wild magic for our shaman, collecting fire for our settlement. ...  
+Ashari: You can also start by helping us sterilise the dangerous mushrooms that have been preventing us from entering our crystal mines. They are literally spreading like a disease lately. ...  
+Ashari: If you manage to get all of this done in a single day, I will offer a bonus!  
+Player: watering  
+Ashari: Thank you. We use the unscathed tears of the gods we found in these hellish depths to water our gardens. It is thanks to these that we can survive down here. The garden feeds us as the fire gives us warmth. ...  
+Ashari: Take this vial and venture down the path of these depths to find the unspoilt cradle of tears. Oh - and please heed my words: there are old remains of the forest above down there. They seem connected to the cradle. Sometimes... they can come alive.  
+Player: tears  
+Ashari: The world weeps for the sins of our ancestors. They are bitter but they are a gift. Even the tears of the world are full of life and hope.  
+Player: vial  
+Ashari: Filigree flasks we create with our own crystal tools. Worthy vessels for the purest of tears. I already gave you one, you didn't lose it - did you?  
+Player: magic  
+Ashari: Our shaman, Larfion, has asked me again to cultivate some of the wild magic for him that roams free in some nearby caverns. I do not know what this is for, but he seems to need quite much of this lately. ...  
+Ashari: It is a demand we simply cannot fulfil with all our other tasks at hand. ...  
+Ashari: Please take this receptacle to the magical cavern, you will recognise it when you are surrounded by magic. There are strangely coloured crystals down there but they are harmless. ...  
+Ashari: You will need to concentrate to cultivate the wild magic there. Listen carefully as I will try to explain to you how this is done: ...  
+Ashari: The most important thing is the order. First you gather 'fury magic' which usually appears red, second you should gather 'nature magic', appearing green. The third component to combine the two previous is 'fire magic' which should be fiery yellow. ...  
+Ashari: To neutralise all three and complete the cultivation, you should add a tiny bit of 'water magic' which shimmers blue. The components in the receptacle will now melt to a physical form and form a dry, rough powder.  
+Player: fire  
+Ashari: I already gave you that task, once you have gathered the flames, bring the urn back.  
+Player: urn  
+Ashari: We use these unique urns to capture the harmless flames from the ashes of fire elementals. Didn't I already give one to you? Did you lose it?  
+Player: mushrooms  
+Ashari: I already gave you that task, once you have sterilised enough mushrooms, simply return to me.  
+Player: bonus  
+Ashari: If you manage to finish all our tasks within a single day, you will receive a special bonus. Return to me once you are finished.  
+Player: bye  
+Ashari: Bye!
+Player: (vanish)
+Ashari: Farewell then.

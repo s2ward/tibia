@@ -1,0 +1,83 @@
+Player: hi  
+Baltim: Hi there. I hope you're here to trade and not to waste my time.  
+Player: trade  
+Baltim: Of course, just browse through my wares.  
+Player: job  
+Baltim: I am the overseer of this little outpost. You probably had already some encounters with my men. Hehe. Serves those cut-throats right if you taught them some manners.  
+Player: name  
+Baltim: I'm Baltim, not that it would be of your concern.20:31 Player: svargrond  
+Baltim: I hate that place and I would love to burn down that whole settlement.  
+Player: carlin  
+Baltim: Carlin lost interest in this place quite fast.  
+Player: mines  
+Baltim: The mines are not at our disposal for now but also here we have enough to plunder for a while.  
+Player: excalibug  
+Baltim: A myth the locals probably enjoy.  
+Player: ferumbras  
+Baltim: His appearances are good for business.  
+Player: yeti  
+Baltim: I know some people that might sell a fortune for a yeti fur.  
+Player: barbarian  
+Baltim: Those barbarians will regret the day they turned our offers down.  
+Player: raiders  
+Baltim: One barbarian is as worse as the other if you ask me.  
+Player: equipment / buy / stuff / offer / goods / sell  
+Baltim: I don't sell wares, but ask me for a trade if you have an offer for me.  
+Player: how are you?  
+Baltim: Yeah, as if you care.  
+Player: venore  
+Baltim: I wonder if things were better if Venore ran the mining operations.  
+Player: thais  
+Baltim: Thais has no affairs here.  
+Player: edron  
+Baltim: We should rather concentrate on Edron than wasting our time here and freezing our toes off. But who listens to me?  
+Player: dwarf  
+Baltim: It seems even the dwarfs know better than to try their luck here.  
+Player: monster  
+Baltim: At least most monsters are smart enough to stay away from the barbarians. So it's somewhat safe in the city ... if it were not for the barbarians themselves that is.  
+Player: elf  
+Baltim: The elves are of no great help here. They prefer to stay in warmer climates.  
+Player: god  
+Baltim: This place is godforsaken.  
+Player: chakoya  
+Baltim: Never heard about something like that.  
+Player: banor  
+Baltim: Banor is a god of honour and valour. Attributes that are not very common among the local barbarians.  
+Player: uman  
+Baltim: I assume the only one praying to Uman here is that hermit that lives somewhere to the west in the mountains.  
+Player: zathroth  
+Baltim: I wouldn't be surprised if those raiders are worshipping Zathroth in their hidden camps.  
+Player: king / queen  
+Baltim: I couldn't care less for kings and queens. Here I'm the king as long as I can pay the guys and keep them suspicious of each other.  
+Player: chyll  
+Baltim: You probably talked too much to this superstitious barbarians.  
+Player: year of serpent  
+Baltim: We have not seen a single serpent here. Not likely that far in the North anyway. Probably the whole serpent story has been made up by cowardly seamen of Carlin.  
+Player: cult  
+Baltim: I have no clue what you are talking about.  
+Player: druid  
+Baltim: Those Carlin druids are responsible for most of our troubles.  
+Player: enemy  
+Baltim: Our enemies are numerous. But cut-throats and ruffians are easily replaced.  
+Player: jarl  
+Baltim: The barbarian chieftain did not welcome us obviously influenced by those Carlin rats. So we have built our own little outpost here and do whatever we like.  
+Player: join  
+Baltim: We get our men from Venore. If you are looking for a job, you'll have to ask there.  
+Player: leaders  
+Baltim: I'm in charge here on behalf of Venore.  
+Player: mission / quest / task  
+Baltim: I don't have anything to do for you.  
+Player: news  
+Baltim: Well, you don't look like you could pay for the really important news so it is sufficient to say that business is growing.  
+Player: port hope  
+Baltim: I'd love an assignment in Port Hope, on the other hand, here I can make my own decisions.  
+Player: rumours  
+Baltim: They say that not one of the Carliners that has been sent to the mine has returned. If you ask me, they got what they deserved!  
+Player: nibelor  
+Baltim: Some place where those treacherous witches of the barbarians gather. Too bad we have no assassin at our disposal.  
+Player: plundering  
+Baltim: I don't mind if the people of Svargrond convict us of hunting seals. We earn good money with it.  
+Player: shaman  
+Baltim: Their witchcraft won't save them when Venore decides it is time to intervene with force.  
+Player: bye  
+Baltim: Bye.  

@@ -1,0 +1,24 @@
+Player: hi
+Eddy: Welcome to the furniture store, Player!
+Player: goods / store / buy / sell / ware / furniture
+Eddy: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.
+Player: job
+Eddy: Have you moved to a new home? I'm the specialist for equipping it.
+Player: time
+Eddy: It is 11:12 pm. Do you need a clock for your house?
+Player: name
+Eddy: My name is Eddy. I sell furniture.
+Player: news
+Eddy: You mean my specials, don't you?
+Player: trade
+Eddy: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?
+Player: no / anything else
+Eddy: Fine.
+Player: yes / type
+Eddy: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?
+Player: (any type)
+Eddy: Here you go.
+Player: (anything else)
+Eddy: Well, keep looking at them all as long as you like.
+Player: bye / farewell
+Eddy: Good bye, Player.

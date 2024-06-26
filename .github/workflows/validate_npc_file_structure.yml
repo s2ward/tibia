@@ -1,0 +1,28 @@
+name: Validate changes
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/npcs/text/**'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    if: ${{ github.event_name == 'pull_request' && (github.event.action == 'opened' || github.event.action == 'synchronize') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Validate changes
+        run: |
+          python src/scripts/gha/validate_npc_file_structure.py

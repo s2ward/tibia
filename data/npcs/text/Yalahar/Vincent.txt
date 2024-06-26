@@ -1,0 +1,40 @@
+Player: hi  
+Vincent: Hello, Player. If you are interested in distance weapons or ammunition, ask me for a trade.  
+Player: job  
+Vincent: I sell things that make your life in the city safer. My bows, crossbows, and ammunition are the best you can get.  
+Player: name  
+Vincent: For you I'm Vincent. That will have to do.  
+Player: yalahar  
+Vincent: In its golden age, this city must have been a joy for Kurik's eye. Even today you can still see some of its former glory here and there.  
+Player: yalahari  
+Vincent: They must have been great inventors in the past. Nowadays not much of that is left. I guess they were foolish enough to let things slide.  
+Player: vampire  
+Vincent: Why do you think I've built this defensive fortification?!  
+Player: buy / sell / offer / stuff / goods / ware  
+Vincent: My offers are bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade.  
+Player: trade  
+Vincent: Of course, just browse through my wares.  
+Player: arrows  
+Vincent: I have normal arrows, sniper arrows, flaming arrows, shiver arrows, flash arrows, earth arrows and onyx arrows used with bows. Just ask me for a trade.  
+Player: bolt  
+Vincent: I have bolts, piercing bolts and power bolts used with crossbows.  
+Player: weapons  
+Vincent: What use does a sword, an axe, or a mace have when the guy you are fighting kills you with a few well-placed shots? Distance weapons are the better choice, I tell you!  
+Player: distance  
+Vincent: Well, I sell spears, bows, crossbows and ammunition for distance fighting. Ask me for a trade if you're interested to see my wares.  
+Player: bow  
+Vincent: I don't buy used bows. If you want to buy one, just ask me for a trade.  
+Player: crossbow  
+Vincent: I don't buy used crossbows. If you want to buy one, just ask me for a trade.  
+Player: blood crystal  
+Vincent: What's that supposed to be? Anyway, I don't sell it.  
+Player: fletcher  
+Vincent: I sell things that make your life in the city safer. My bows, crossbows, and ammunition are the best you can get.  
+Player: palimuth  
+Vincent: I don't want others to talk about me, and I also don't talk about others. Easiest way to stay out of trouble.  
+Player: cookie  
+Vincent: I don't trust strangers enough to take food from them.  
+Player: spear  
+Vincent: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.  
+Player: farewell / bye  
+Vincent: Good bye.  

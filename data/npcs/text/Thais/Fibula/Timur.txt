@@ -1,0 +1,30 @@
+Timur: Equipment and general goods!  
+Timur: Selling ammunition and buying bows and crossbows!  
+Player: hi  
+Timur: Welcome to my little shop, adventurer Player! If you need general goods, just ask me for a trade.  
+Player: name / timur  
+Timur: I am Timur. Sorry, I have not much equipment for sale. The business is running low.  
+Player: job  
+Timur: I am selling equipment. Do you want something?  
+Player: time  
+Timur: I am sorry, I have no watch.  
+Player: goods / equipment  
+Timur: I sell torches, scrolls, documents, parchments, ropes, fishing rods, worms, arrows, bolts, and a nice helmet. If you'd like to see my offers, ask me for a trade.  
+Player: weapon  
+Timur: At the moment I have no weapons to offer. Weapons are very rare on this isle, so I have to buy a few.  
+Player: bow  
+Timur: We have too few bows on this isle for our hunters.  
+Player: crossbow  
+Timur: We have too few crossbows on this isle for our hunters.  
+Player: wand / rod / spellbook  
+Timur: Nope, not here.  
+Player: fibula  
+Timur: It's a very nice isle. But we don't have enough weapons to defeat the many wolves.  
+Player: wolves  
+Timur: They are everywhere around the village.  
+Player: magic / potion  
+Timur: The magic shops have a monopole on potions now... argl!  
+Player: food
+Timur: If you are looking for food, buy a rod and go fishing.
+Player: bye  
+Timur: Bye, bye, Player.  

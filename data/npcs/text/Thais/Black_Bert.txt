@@ -1,0 +1,12 @@
+Player: hi / hello  
+Black Bert: Hi there, Player! You look like you are eager to trade!  
+Player: name  
+Black Bert: Hey, I'm Black Bert.  
+Player: Eclesius  
+Black Bert: I know no Eclesius.  
+Player: First Dragon  
+Black Bert: It's told that some hero killed him and absorbed his power.  
+Player: trade  
+Black Bert: Here, but pssst. And remember, no guarantee that you're able to use it. YOU have to know what you're buying there.  
+Player: bye / farewell  
+Black Bert: Bye, Player!  

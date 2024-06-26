@@ -1,0 +1,29 @@
+Player: Hi  
+Duria: Hiho, visitor Player. Whatdoyouwant?  
+Player: Whatdoyouwant/Job  
+Duria: I'm the highestknight of the dwarfs. I guess youwannabuy spells!  
+Player: Spells (Only in the case of sorcerer,druid and paladin)  
+Duria: Sorry, I don't teach spells for your vocation.  
+Player: Spells (Knight)  
+Duria: I can teach you healing spells and support spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.  
+Player: Name  
+Duria: I'm Duria Steelbender, daughter of Fire of the Dragoneaters.  
+Player: Poem  
+Duria: I know this one: 'Chop some heads is what I do ...  
+Duria: After that I drink some brew.' Not the poem you thought of, huh? Muahaha!  
+Player: Thais  
+Duria: I've been there once. Can't handle the crime there.  
+Player: Tibia  
+Duria: Bah, to much plantsandstuff, too few tunnels ifyouaskme.  
+Player: Time  
+Duria: Dunno.  
+Player: Knight  
+Duria: Knights are especially proud if they're dwarfs, jawoll.  
+Player: Hero  
+Duria: Heroes are rare these days, jawoll.  
+Player: Spellbook  
+Duria: No spellbooks here. Do I look like a sorcerer?  
+Player: Vocation  
+Duria: Vocation, vocation, wouldratherlike a vacation.  
+Player: Bye/Farewell  
+Duria: Goodbye.  

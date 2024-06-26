@@ -1,0 +1,20 @@
+Player: Hi  
+Tamerin: Hello, what brings you here?  
+Player: Job/Here  
+Tamerin: I'm a humble druid, tending the animals.  
+Player: Animals  
+Tamerin: Animals don't lie and know no cruelty.  
+Player: Yalahar  
+Tamerin: The city is in its death throes.  
+Player: Yalahari  
+Tamerin: I'm not interested in city politics.  
+Player: Time  
+Tamerin: I have no use for a watch.  
+Player: Gladiator  
+Tamerin: Gladiators are merciless killers.  
+Player: Name  
+Tamerin: I'm known as Tamerin.  
+Player: Arena  
+Tamerin: It was an atrocity, and it's a good thing that it doesn't exist any longer.  
+Player: Farewell/Bye  
+Tamerin: Good bye!  

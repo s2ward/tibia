@@ -1,0 +1,67 @@
+NPC: Lyonel  
+Player: hi / hello  
+Lyonel: Welcome, my friend. Make yourself comfortable and have some food and rum.  
+Player: Carlin  
+Lyonel: Carlin is a place where women reign and where alcohol is forbidden. Sounds like hell, doesn't it?  
+Player: Charlotta  
+Lyonel: Old Charlotta is not as hard and bitter as she appears sometimes. This old lady has a heart of pure gold and does many good things for the people here.  
+Player: Chondur  
+Lyonel: Ah, some old man that has fallen in disgrace by the local authorities. People should just leave him alone.  
+Player: cult  
+Lyonel: There are quite a lot of rumours about some cult. Some say there are some hidden caves beneath the city ...  
+Lyonel: Some speak about strange meetings at midnight in the sugar cane fields. Others locate that cult in the mountain in the East or even on another isle here.  
+Player: Eleonore  
+Lyonel: What a lovely young lady. It's a sure bet that most of the young men here and even some of the older ones dream about her ...  
+Lyonel: But word has it that she has already lost her heart to someone and this is probably not Theodore Loveless who tries to gain her attention with expensive presents.  
+Player: excalibug  
+Lyonel: I met someone whose cousin befriended a mermaid who told him that friends of her once met an outcast quara who claimed that his people hide some powerful weapon in one of their undersea lairs. Maybe that weapon is excalibug.  
+Player: Explorer Society  
+Lyonel: It is not like those explorers would explore my tavern quite often. Most of the time, they stay in their own house.  
+Player: Ferumbras  
+Lyonel: It is rumoured that he hid his magical treasures right here on one of the isles.  
+Player: governor  
+Lyonel: The governor is the long arm of Thais. I don't care much about who is running the city.  
+Player: Isolde  
+Lyonel: People say she is in disgrace with the Thaian nobility for her affiliations with Carlin.  
+Player: job  
+Lyonel: I am the innkeeper of the Jolly Seahorse, a tavern famous to all sailors on all known seas.  
+Player: king  
+Lyonel: People here are not accustomed to have a king. Especially those people that they call the 'natives'.  
+Player: liberty bay  
+Lyonel: We have seen good times and bad times here. Everybody can decide himself in what kind of times we are living today.  
+Player: loveless / theodore  
+Lyonel: Theodore Loveless is a man of wealth and knowledge, that's for sure. They say he is one of the wealthiest and most influential merchants of Venore. I have no idea why he left all this luxury behind to live here.  
+Player: natives  
+Lyonel: I consider myself a 'native' too. Our families have lived here for a long time. We are descended from the first settlers.  
+Player: news  
+Lyonel: I hear news from all around the world, matey. Please be more specific and I see if I can help you.  
+Player: offer / buy / goods / sell / equipment / stuff / ware / food  
+Lyonel: I can offer you bread, cheese, ham, or meat. If you'd like to see my offers, ask me for a trade.  
+Player: pirate  
+Lyonel: <sighs> Well, the pirates are an evil of course. On the other hand, people tend to be called pirates far too easy nowadays. Some are just seeking for liberty without harming anyone at all. So not every pirate is a pirate, you understand?  
+Player: plantations  
+Lyonel: After working the whole day on the plantations, people come here in the evening and spent almost all of their earnings here. Sad thing they can spent only that little.  
+Player: quara  
+Lyonel: There was always some trouble with these demons of the seas, but lately the number of their raids has increased. No one knows why. But who understands those fishheads anyway?  
+Player: Raymond Striker  
+Lyonel: The Striker boy was always courageous and had a strong sense of honour and loyalty. In these days they call him a pirate. It is hard to believe that he turned into a criminal. Many people, that know him from the past, refuse to believe that.  
+Player: rum  
+Lyonel: There is nothing like rum.  
+Player: special  
+Lyonel: Hehe, you have not seen much of the city, haven't you? It's rum of course.  
+Player: sugar  
+Lyonel: Sugar is the base for rum.  
+Player: thais  
+Lyonel: I was never there but I heard that it is big and crowded. To own a tavern there must be like owning a goldmine.  
+Player: trade  
+Lyonel: Of course, just take a look what you'd like to order.  
+Player: Tristan  
+Lyonel: I think that young warrior lost his heart to that pretty, but somewhat cold, Isolde.  
+Player: venore  
+Lyonel: For all I have heard you are of little importance in Venore when you run out of money.  
+Player: voodoo  
+Lyonel: Pssst. No such talk in my tavern. You scare my customers off.  
+Player: Wyrmslicer  
+Lyonel: This man is not drinking much for a soldier. That's something I can tell first hand. He keeps his men in shape and order and has their deepest respect. They say on his way here his ship had to fight a giant sea serpent and they actually killed it.  
+Player: bye / farewell  
+Lyonel: Good bye and come again.  

@@ -1,0 +1,30 @@
+Player: hi / hello  
+Cruleo: I don't like visitors. I hope for you, you are here to trade?  
+Player: antler  
+Cruleo: The white deer antlers are worked into several objects or even used in medicine.  
+Player: balance  
+Cruleo: Ah go away with your balance. If we don't hunt the beasts, others will do, get the profit and laugh about us. ...  
+Cruleo: If there is anything like a balance, there will be a new one, it will just be different.  
+Player: Benevola  
+Cruleo: I think she is quite amusing in her naivety. The funny thing is, I bet as much as she cares for those stupid animals, she'd love to strangle guys like me to death. ...  
+Cruleo: Funny thing, eh? However, her efforts are futile. There have always been hunters and there always will be. I'm sure there is even a hunter in her. ...  
+Cruleo: But let her dwell in the luxury of her illusions to be better than others, I couldn't care less. For now she is only an annoyance, if she ever really crosses me ... well, it's a cruel world out there.  
+Player: elves  
+Cruleo: Those pesky tree dwellers are bad for business. They care more for the animals than for us humans, why would we care for them or their assumed pets? ...  
+Cruleo: Their days are over, even when they fail to see that. This is the age of humans and it is us who decide what is right or wrong.  
+Player: fur  
+Cruleo: The fur of the white deer is prized by followers of the latest fashion, magicians and nobles. Some use them for assumed magical purposes, others for prestige, others for style.  
+Player: hunt  
+Cruleo: Hunting is not for the chicken-hearted. I'm a hunter, my father was a hunter and my father's father was a hunter. That is the way things are. You hunt or you are hunted. ...  
+Cruleo: There is no shame, we humans fought our way up the food chain. In fact it is an honour and we should not mock our ancestors' efforts. ...  
+Cruleo: We humans are hunters, like it or not. Hunting is part of life and it is how the world works and was meant to be.  
+Player: job  
+Cruleo: I'm a hunter and proud of it. I'm also willing to buy certain trophies of your own hunts if you are interested to trade.  
+Player: trade  
+Cruleo: I hope you have something of value to offer!  
+Player: white deer  
+Cruleo: A magnificent animal indeed but still not more than an animal. Those damned elves are behaving like they are sacred or something. ...  
+Cruleo: Gladly, the elves are the only ones who believe that nonsense born out of fairy tales. ...  
+Cruleo: Several rich people are firmly convinced of the mythical nature of the deer and pay handsomely for their antlers and furs. If you happen to 'find' some, I'll be interested to trade with you.  
+Player: bye  
+Cruleo: Bye.  

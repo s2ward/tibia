@@ -1,0 +1,27 @@
+Player: hi / hello  
+A Ghostly Knight: Failed. I have ... failed.  
+Player: failed / pits / nightmare  
+A Ghostly Knight: The pits. We have sealed the pits. We have concealed the way.  
+Player: concealed  
+A Ghostly Knight: I cannot ... tell you. I died ... long ago ... But I still remember my duties.  
+Player: duties / dead  
+A Ghostly Knight: My duties are the only thing death had left me. I have no remembrance of my mortal days ... perhaps with one exception.  
+Player: exception  
+A Ghostly Knight: I remember there used to be something I liked. Grapes! Delicious juicy grapes! What a joy it is to even remember.  
+Player: grapes  
+A Ghostly Knight: You would not have some grapes for me, would you?  
+Player: yes  
+A Ghostly Knight: Oh, thank you! Thank you! Why, to know such delight! It is almost as if I could taste them again ... almost ...  
+A Ghostly Knight: Listen, mortal. There is so much I forgot, but I remember that the passage is hidden. It can only be revealed through luck or careful exploration ...  
+A Ghostly Knight: One of you must stay here and watch while the others explore every spot of the caverns ahead ...  
+A Ghostly Knight: There are so many ... hidden switches. I can't remember where. But ... they will open the path.  
+Player: grapes  
+A Ghostly Knight: You would not have some grapes for me, would you?  
+Player: no  
+A Ghostly Knight: It does not matter. It is only a faint memory anyway.  
+Player: grapes  
+A Ghostly Knight: You would not have some grapes for me, would you?  
+Player: yes  
+A Ghostly Knight: No, you don't have any with you. That is a shame...  
+Player: bye / farewell  
+A Ghostly Knight: Loneliness ... again.  

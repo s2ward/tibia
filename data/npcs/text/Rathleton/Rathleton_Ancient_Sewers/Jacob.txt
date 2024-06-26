@@ -1,0 +1,37 @@
+Jacob: Darn, I hate this.
+Player: hi
+Jacob: <nods> Hi.
+Player: name
+Jacob: I'm Jacob.
+Player: time
+Jacob: Do I look like someone who owns a wrist watch?
+Player: job
+Jacob: Alright. You fixed some of those loose valves then? Let me check, ok?
+Player: ok
+Jacob: That's not enough yet. Need to have twenty or more of those leaks fixed. Come back then, ok? Thanks. See you.
+Player: no
+Jacob: Fair enough.
+Player: bandit
+Jacob: Elliott's been keeping in touch with them. Seems they had some good gigs. Think we'll do some gigs again when this stupid job's been done.
+Player: elliott
+Jacob: My brother? He's further up, fixing some of the fresh water things.
+Player: sewer
+Jacob: The ancient parts here are really broke down. Back in the old times, everyone just built their own canal under their house or shop and then left it at that. ...
+Jacob: City never bothered to really repair this place. New sewers were built only underneath upper town and new workshops. Here, it's just patch it up and go. Plenty of things live down here in peace and quiet, though.
+Player: things
+Jacob: <shrugs> Well, critters, monsters... you'll see. Most are cool and leave us alone. But they don't like new faces, so don't be surprised if they bite ya. Kill them if you have to.
+Player: kill
+Jacob: I heard those rot elementals and glooth blobs are real pests. Terrence has put out a reward for killing them.
+Player: Terrence
+Jacob: He's one of the guys doing guard duty at the eastern gate. Their captain or whatever. He hands out tasks to suicidal people.
+Player: convict / labour
+Jacob: Look, not our fault the place burned down, okay? The glooth just ignited on stage, that's all. Happens.
+Player: glooth
+Jacob: Strange stuff. City here's crazy about it. So we named our band after it.
+Player: band
+Jacob: Elliott's been keeping in touch with them. Seems they had some good gigs. Think we'll do some gigs again when this stupid job's been done.
+Player: music
+Jacob: Music is the real life. Our band really rocked this place.
+Player: bye
+Jacob: <nods> See ya.
+Jacob: <nods>

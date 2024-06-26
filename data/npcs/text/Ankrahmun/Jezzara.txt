@@ -1,0 +1,60 @@
+Player: hi / be mourned pilgrim in flesh
+Jezzara: Be mourned pilgrim in flesh. Talking of flesh, maybe you'd enjoy some food?
+Player: name
+Jezzara: I am the mourned Jezzara.
+Player: job
+Jezzara: I sell food of various kinds.
+Player: time
+Jezzara: You can buy watches here in the markethall.
+Player: food
+Jezzara: I can offer you meat, ham, salmon, fish, fruits and vegetables. If you'd like to see my offers, ask me for a trade.
+Player: fruit
+Jezzara: I have oranges, bananas, grapes, pumpkins and melons. Ask me for a trade to place your order.
+Player: vegetable
+Jezzara: I have carrots and tomatoes. Ask me for a trade to place your order.
+Player: temple
+Jezzara: The temple can be found in the northeast of the city.
+Player: pharaoh
+Jezzara: The pharaoh is our godking and the founder of our religion.
+Player: oldpharaoh
+Jezzara: He was entombed in undead state. It is said that this will finally teach him to to strive for ascension.
+Player: scarab
+Jezzara: I am not afraid of something that attacks only my physical form. But they stay away from the city anyway.
+Player: tibia
+Jezzara: The world can be a dangerous place for the whole of the Akh'rah Uthun.
+Player: ankrahmun
+Jezzara: This city is a safe haven that gives shelter from the dangers of the desert.
+Player: darashia
+Jezzara: We are usually not allowed to travel that far without explicit permission, so we know this city mostly from the tales of travellers.
+Player: carlin / thais / edron / venore
+Jezzara: The cities of the Tibian continent have little contact with us.
+Player: kazordoon / dwarves / dwarfes
+Jezzara: Dwarves are not really fond of the endless sands of the desert. I must say I can't blame them for it.
+Player: ab'dendriel / elves / elfes
+Jezzara: Elves don't like this land too much so we have little contact with them.
+Player: darama
+Jezzara: This continent is very diverse. There are deserts and mountains as well as a large jungle region.
+Player: daraman
+Jezzara: I know little of his teachings. The priests say his conclusions were inconsequent.
+Player: mortality
+Jezzara: The priests teach that mortality is a curse. I find it hard to understand but the priests will know best.
+Player: false gods
+Jezzara: As far as I understand the gods worshipped by other nations are nothing but imposters.
+Player: ascension
+Jezzara: Ascension is difficult to achive. Too difficult to achieve as long as you are still alive.
+Player: akh
+Jezzara: That is the body.
+Player: rah
+Jezzara: The Rah is the spiritual part of a being.
+Player: uthun
+Jezzara: The Uthun is the sentient part of all living things.
+Player: akh'rah uthun
+Jezzara: Well its just the Akh, the Rah and the Unthun.
+Player: undead / undeath
+Jezzara: Those who follow the pharaoh might become undead one day.
+Player: arena
+Jezzara: Sometimes spectacular battles are fought in the local arena.
+Player: palace
+Jezzara: The palace is where the mighty pharaoh resides.
+Player: bye
+Jezzara: May enlightenment be your path.

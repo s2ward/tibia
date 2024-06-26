@@ -1,0 +1,66 @@
+Player: Hi  
+Lokur: How may I help you Player? Ask me for a trade if you want to buy something. I can also explain the mail system, sell tickets for the ore wagon service or give you access to your bank account.  
+Player: Trade  
+Lokur: Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
+Player: Mail/Help  
+Lokur: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
+Player: Letters  
+Lokur: If you want to buy a letter, ask me for a trade. Or do you want me to explain how letters work?  
+Player: Explain  
+Lokur: With a letter you can send a message to another Tibian's depot. If you want to send it to 'Ben' in Thais, use the letter - so that a form opens - and write 'Ben' in the first line. Write your message below that. ...  
+Lokur: Then drag your letter on one of the blue mailboxes here to send it.  
+Player: Depot  
+Lokur: Each major city has at least one depot. Just step in front of one of the lockers and you can store items inside. Your mail will also arrive there. It doesn't matter which depot you stored it in - you can retrieve all your items from any depot in any city!  
+Player: Parcels  
+Lokur: If you want to buy a parcel, ask me for a trade. Or do you want me to explain how parcels work?  
+Player: Label  
+Lokur: If you want to buy a label, ask me for a trade. Or do you want me to explain how labels work?  
+Player: Receiver  
+Lokur: Well, you can always ask me for help if you need information.  
+Player: Job  
+Lokur: I'm the royal post dwarf and I'm really proud of it. Lately I accepted the offer of running the Bank.  
+Player: Name  
+Lokur: My name is Lokur Stampsmasher, son of Earth of the Dragoneaters.  
+Player: Thais  
+Lokur: Imagine, they have a post office there too, jawoll.  
+Player: King  
+Lokur: Our king has a treasure room and, so he doesn't need a depot.  
+Player: Time  
+Lokur: Too bad, I forgot my watch at home.  
+Player: Guild  
+Lokur: You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. ...  
+Lokur: If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. ...  
+Lokur: As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. ...  
+Lokur: Please keep in mind that we may need some time to process such requests.  
+Player: Player guild transfer  
+Lokur: Please tell me the amount of gold you would like to transfer.  
+Player: Guild Withdraw  
+Lokur: I am sorry but it seems you are currently not in any guild.  
+Player: Balance  
+Lokur: You certainly have made a pretty penny. Your account balance is 0 gold.  
+Player: Headquarters  
+Lokur: It's south of Kazordoon. Just follow that road, can't miss it.  
+Player: : Measurements  
+Lokur: Ask Kroox about that stuff.  
+Player: Market  
+Lokur: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!  
+Player: Office  
+Lokur: It's not big but I like the company.  
+Player: Kevin/Postner  
+Lokur: Ah, this human is as persistent as a dwarf. A worthy leader indeed, jawoll.  
+Player: Rent  
+Lokur: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...  
+Lokur: Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month.  
+Player: Ore wagon/ticket  
+Lokur: Your weekly ticket is still valid. Would be a waste of money to purchase a second one.  
+Player: Bye/Farewell  
+Player: Poem  
+Lokur: I only know the poem of the ancient tribe. I used to tell it to my son when he was a little boy. Wanna hear it?  
+Player: Yes  
+Lokur: Two tribes united in the land of the gods. ...  
+Lokur: They envied themselves and there was a fight. ...  
+Lokur: One tribe left against great odds, ...  
+Lokur: never to see the great citadel again, ...  
+Lokur: abandon their forges, their former home. ...  
+Lokur: All thoughts of homecoming have been in vain, ...  
+Lokur: Kazordoon was founded and ended their roam.  

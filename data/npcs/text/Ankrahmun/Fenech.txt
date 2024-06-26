@@ -1,0 +1,38 @@
+Player: hi
+Fenech: Be mourned pilgrim in flesh and welcome to the magic store.
+Player: name
+Fenech: I am the mourned Fenech.
+Player: job
+Fenech: I sell runes, wands, rods and spellbooks.
+Player: time
+Fenech: Buy a watch on the bazar.
+Player: offer
+Fenech: I sell runes, wands, rods and spellbooks.
+Player: magic
+Fenech: I'm selling runes, wands, rods and spellbooks. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Fenech: Of course, just browse through my wares. Or do you want to look only at wands or runes?
+Player: temple / arena / palace
+Fenech: Ask the guards for locations.
+Player: arkhothep
+Fenech: Praised may he be.
+Player: ashmunrah
+Fenech: I don't know. Read some books.
+Player: scarab
+Fenech: Scarabs are dangerous. Stay away from them like I do.
+Player: tibia
+Fenech: I know only Ankrahmun. What else could there be?
+Player: carlin / venore / thais / edron / kazordoon / dwarves / dwarfes / elves / ab'dendriel / elfes
+Fenech: I don't know any foreign places or races.
+Player: darama
+Fenech: This is our land.
+Player: daraman
+Fenech: I am not a studied person. Ask someone else.
+Player: darashia
+Fenech: Its somewhere in the north as far as I know.
+Player: ankrahmun
+Fenech: Its my home and all I know.
+Player: ascension / akh'rah uthun
+Fenech: Ask the priest in the temple.
+Player: bye
+Fenech: May enlightenment be your path.

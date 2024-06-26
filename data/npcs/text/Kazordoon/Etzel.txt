@@ -1,0 +1,23 @@
+Player: Hi  
+Etzel: Hiho <coughs> and welcome back, Player!  
+Player: Spells  
+Etzel: I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.  
+Player: Job/Back  
+Etzel: I'm the dwarven master mage. I'm the keeper of magical secrets and teacher of spells.  
+Player: Name  
+Etzel: My name is Etzel Fireworker, <coughs> son of Fire of the Molten Rocks.  
+Player: Poem  
+Etzel: Ask someone else, I don't have time to recite poems.  
+Player: Runes  
+Etzel: Sorry, I don't sell runes anymore. <coughs> I'm old and have to focus on more important things. Please ask my brother Sigurd next door. <coughs>  
+Player: Power / arcane / responsibility  
+Etzel: Great power brings great responsibility, young one.  
+Player: Time  
+Etzel: It's precisely 2:54 am now.  
+Player: Sorcerer  
+Etzel: Sorcery is nothing for the lazy or the impatient.  
+Player: Wisdom  
+Etzel: Wisdom cannot be acquired cheaply.  
+Player: Vocation  
+Etzel: Being a sorcerer means to belong to a vocation of great arcane power and responsibility.  
+Player: Bye / Farewell  

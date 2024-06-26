@@ -1,0 +1,83 @@
+Player: hi / ashari
+Eroth: I greet thee, outsider. I suppose you are here to learn new spells.
+Player: name
+Eroth: My name is Eroth Ramathi.
+Player: job
+Eroth: I am the leader of the Cenath caste.
+Player: time
+Eroth: That is a inferior concept invented by the minor races.
+Player: magic
+Eroth: Magic comes almost naturally to the Cenath. We keep the secrets of ages.
+Player: level
+Eroth: Just ask me for spells, that's the fastest way to find out which spells I have.
+Player: spells
+Eroth: I teach the spells 'Poison Field', 'Fire Field', 'Energy Field', 'Poison Wall', 'Fire Wall', 'Energy Wall' and 'Fire Bomb', as well as ...
+Eroth: 'Destroy Field', 'Magic Shield', 'Invisible', 'Summon Creature', 'Convince Creature', 'Creature Illusion' and 'Chameleon'.
+Player: vocation
+Eroth: You are narrow-minded to think in such boundaries.
+Player: spellbook
+Eroth: Cenath rarely use spellbooks. The minor castes rely on them though.
+Player: sorcerer
+Eroth: Sorcerers are not attuned to nature and therefore can't master it.
+Player: druid
+Eroth: Druids master spells of defence, healing, and nature.
+Player: crunor
+Eroth: Gods are for the weak. We will master the world on our own. We need no gods.
+Player: humans
+Eroth: We tolerate them and allow them to be used by us.
+Player: troll
+Eroth: The Kuridai have the distasteful habit to keep some trolls for inferior work.
+Player: dwarfs
+Eroth: The diggers are not welcome in our realm.
+Player: elves
+Eroth: Our people are the children of light and darkness, the heirs of dusk and dawn.
+Player: deraisim
+Eroth: They lack the understanding of unity. We are keeping them together and prevent them from being slaughtered one by one.
+Player: kuridai
+Eroth: The Kuridai are aggressive and victims of their instincts. Without our help they would surely die in a foolish war.
+Player: cenath
+Eroth: We are the shepherds of our people. The other castes need our guidance.
+Player: abdaisim
+Eroth: They are fools and almost deserve the extinction that awaits them. Though we will take it upon us to rescue even them by leading them home.
+Player: teshial
+Eroth: They are gone. They alone were almost equal to us Cenath among elvenkind.
+Player: dreamer
+Eroth: The Teshial were masters of the so-called dream magic.
+Player: dream master / dreammaster
+Eroth: The dream masters, though overestimated, wielded some impressive power without much practical use.
+Player: king
+Eroth: Our people have no use for kings or queens.
+Player: queen
+Eroth: Stop this Kuridai nonsense.
+Player: roderick
+Eroth: A stupid human who can't comprehend our complex society.
+Player: olrik
+Eroth: A human who dreams to become an elf. It would be funny if it were not that pathetic.
+Player: thais
+Eroth: A city of filth and dirt. Any elf should visit this city at least once to see what a society without good guidance can become.
+Player: venore
+Eroth: The merchants of Venore have proven useful and are therefore tolerated.
+Player: carlin
+Eroth: Their druids seek my counsel quite often. I provide them with as many insights their little minds can keep up with and which I feel is appropriate.
+Player: ferumbras
+Eroth: A human born evil. Another evidence of the destructive potential of that race.
+Player: excalibug
+Eroth: Just another human myth.
+Player: mission
+Eroth: Have you ever heard of Elvenbane? It is the castle west of Ab'Dendriel which is inhabited by villains from all over the continent. Any support in this war is welcome. Are you willing to help?
+Player: no
+Eroth: We are not forcing anybody to help us in our struggle.
+Player: yes
+Eroth: Recently we found out that they are in the possession of a scrying crystal ball. They can hear all our discussions about tactics and upcoming attacks. ...
+Eroth: No wonder they always were so well prepared. Now, you come into play: destroy the scrying crystal ball in Elvenbane. It should be on the top floor. ...
+Eroth: We don't really know how to destroy it, but we suppose it may work if you reflect the invisible power of the ball. The beam should be adjusted to Ab'Dendriel. Take this mirror and give it a try. Good luck.
+Player: mission
+Eroth: I heard the blow! The reflection must have caused a overcharge of magical energy leading to the contraction and the implosion. Just like I hoped! Please take this as a reward. Thank you very much.
+Player: stalagmite / explosion / avalanche
+Eroth: Elathriel is specialised in this aggressive spell.
+Player: cure poison / intense healing / ultimate healing
+Eroth: I suppose Maealil could help you with healing magic.
+Player: light / find person / food
+Eroth: Go find Faluae for this kind of easy support magic.
+Player: bye / asha thrazi
+Eroth: Asha Thrazi. Go where you have to go and do what you must do.

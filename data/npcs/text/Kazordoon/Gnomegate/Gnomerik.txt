@@ -1,0 +1,32 @@
+Player: hi
+Gnomerik: Hello and welcome in the gnomish recruitment office.
+Player: name
+Gnomerik: My name is Gnomerik. I'm the gnomish recruitment officer!
+Player: job
+Gnomerik: I'm the gnomish recruitment officer!
+Player: recruitment
+Gnomerik: Ah, I guess you are here to continue with your test.
+Player: test
+Gnomerik: You have passed the test. Now it's time to talk about your result.
+Player: result
+Gnomerik: You have passed the test. Congratulations. You are ready to proceed with the more physical parts of your examination! Go and talk to Gnomespector about it.
+Player: dwarf
+Gnomerik: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomerik: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomerik: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomerik: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomerik: If you can see the fear and hopelessness they caused in their slave warriors then you can assume how horrible and dangerous they are.
+Player: crystal
+Gnomerik: Crystal growing is a hard job with great responsibility for a gnome. The rewards make it worth the hassle though.
+Player: thais
+Gnomerik: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomerik: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomerik: The sky is a somewhat frightening concept to us gnomes.
+Player: bye
+Gnomerik: Good bye and take care!

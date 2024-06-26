@@ -1,0 +1,38 @@
+Player: hi  
+Valentina: Hello there! If you need presents for your beloved, ask me for a trade.  
+Player: trade  
+Valentina: Take your time!  
+Player: job  
+Valentina: You're cute. Actually my job is being a mother, a grandmother and a housewife but I can also offer you some items for your beloved.  
+Player: offer / buy / sell / ware / stuff / food / equipment / goods  
+Valentina: I can trade you bouquets of flowers from my garden. You can also have homemade cakes in heart shape, crimson roses, sweetheart rings, valentine cards and present boxes - all you need to surprise your beloved and to show them that you care about them.  
+Player: flower  
+Valentina: All flowers around Greenshore have been grown by myself.  
+Player: Greenshore  
+Valentina: I grew up in Greenshore, I spent most of my time here and it is very likely that I will die here. Greenshore is a lovely place.  
+Player: love  
+Valentina: Love is the most important thing in the world and I help you to express it. Just ask me about my offers and I'll tell you what you can buy.  
+Player: thais  
+Valentina: It's sad to see how it changed. As a child I used to go there regularly but today I avoid going there. It's no safe place for an old woman like me.  
+Player: carlin  
+Valentina: Sometimes, when the air is crystal clear, you can see it from the shore.  
+Player: sea / ocean  
+Valentina: The ocean is part of Greenshore. The sound of the sea lapping against the shore, the salty air and the vastness when you look at the horizon <sigh> - it's so peaceful.  
+Player: tibianus / king  
+Valentina: He has so many followers but <whispers> I think he is doing a bad job. He should do more against the crimes happening right in front of his nose.  
+Player: rumour  
+Valentina: You must know, many people came here to look for an underground passage to the Isle of Solitude. The people of Greenshore believe that there is one but no one ever proved its existence.  
+Player: solitude  
+Valentina: It's not very far to the Isle of Solitude from here but there is simply no way. Isn't that a little bit odd?!?  
+Player: monastery  
+Valentina: Sometimes, the wind takes the choral singing of the monks to our coast. I alway get goosebumps when I hear it. It's so beautiful.  
+Player: story  
+Valentina: What should I tell you? I'm old and I've got many things to tell even if most of them apply to Greenshore and its surrounding, the ocean and its islands offshore.  
+Player: heart backpack  
+Valentina: I only have one left. It's a very special backpack. Do you want to buy it for 500 gold?  
+Player: yes  
+Valentina: Alright. Here you are!  
+Player: heart backpack  
+Valentina: I'm sorry. I already sold you the last one I got.  
+Player: bye / farewell  
+Valentina: Good bye my dear visitor.  

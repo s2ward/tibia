@@ -1,0 +1,34 @@
+Player: hi / hello  
+Ocelus: Greetings, dear visitor Player.  
+Player: visitor / job  
+Ocelus: As you can see I am a djinn. We usually don't have jobs in your sense of the word. I am just here to watch and to listen to the music of the sea.  
+Player: djinn  
+Ocelus: We djinns are a powerful and proud race. But look out human, not all djinns are as nice as I am. Especially the green djinns don't like humans at all.  
+Player: eleonore  
+Ocelus: I heard the birds sing about her beauty. But how could a human rival the enchanting beauty of a mermaid?  
+Player: Ferumbras  
+Ocelus: Even the djinns heard about that evil human. But his days of humanity are over since quite a while and he turned into something different ...  
+Ocelus: No human, not yet a demon. One of the champions of the dark gods. At the peak of his powers he might rival any archdemon ...  
+Ocelus: The only chance for humanity is to defeat him while he just returns to existence. At this time he is still weak.  
+Player: governor  
+Ocelus: He is some overseer of the human king, as far as I've understood it.  
+Player: king  
+Ocelus: Human kings come and go. Djinns are not such short-lived creatures and don't care much about humans.  
+Player: liberty bay / thais / venore  
+Ocelus: The noisy human cities are of absolutely no interest for me.  
+Player: magic currents  
+Ocelus: Yes, magic is strong on these isles. In the past, two ancient races lived here. One on land and the others in the shadows of the deep sea ...  
+Ocelus: The creatures of the sea tried to gain control over the island. They started a war against the land dwellers during which the isle was shattered and both civilisations destroyed ...  
+Ocelus: All that has remained are distant memories, some of their work and the fact that the magic of the isles has turned into chaos.  
+Player: pirate  
+Ocelus: Many humans sail the seas, I can't tell them apart. You humans look all the same to me.  
+Player: quara  
+Ocelus: The quara are the leftover minions of a powerful undersea race that once battled for the control of the magic currents here.  
+Player: Raymond Striker  
+Ocelus: Now that Marina and me have arranged a date, I hope this human is forgotten soon.  
+Player: voodoo  
+Ocelus: Some humans are tapping the energy of these isles with some strange results. Perhaps that explains the voodoo we've heard about.  
+Player: mermaid / marina / date  
+Ocelus: Marina and I have arranged a date already, I am so excited.  
+Player: bye / farewell  
+Ocelus: Farewell, Player.  

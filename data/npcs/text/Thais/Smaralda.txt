@@ -1,0 +1,59 @@
+Player: hi
+Smaralda: Welcome Player! Let us talk about fate.
+Player: name
+Smaralda: I am only known as Smaralda in these days.
+Player: job
+Smaralda: My endeavours of the past are unimportant. I'm nothing but an old woman that sometimes dabbles with the mystic arts. ...
+Smaralda: Now I'm just a fortuneteller and sometimes a helper of fate. And I know a few old stories.
+Player: old stories
+Smaralda: Of all stories that I could tell, there is only one that is of importance in these days. This is the story about the old pirate.
+Player: fate
+Smaralda: Fate is a road that we all travel but rarely notice. Long ago I have bound my fate to that of a pirate whose name can't be spoken anymore. ...
+Smaralda: I try to ease his gruesome fate with my abilities.
+Player: fortuneteller
+Smaralda: I rarely use my gift in these days. I use it only to help the old pirate to find the rest that he deserves by finding a crew for his ship.
+Player: pirate
+Smaralda: The good old captain was never one of the evil bandits of the seas but a gentleman robber who actually fought for freedom and against slavery. ...
+Smaralda: Of all the things, good or bad he did in his life, the most fateful was a promise he made to his people to bring back a holy icon that other pirates had robbed while he was away. ...
+Smaralda: He tracked the icon to the Mourning Isles but there he met his cruel fate and died without fulfilling his promise.
+Player: ship
+Smaralda: No ordinary ship can hope to reach the legendary Mourning Isles. But there is one ship that could do it! It is the ship of the old pirate. ...
+Smaralda: In these days he is looking for a crew of mortals to help him end his self-imposed curse.
+Player: Mourning Isles
+Smaralda: These isles seemed to be cursed by the gods even before the first living beings arrived there. Since then they've had a history of pain, treachery and desolation. But the lure of its treasures is still strong. ...
+Smaralda: Many would try to brave the undead inhabitants of the isles to rob them of their treasure but there is no ship of the living that can still reach the isles.
+Player: fortuneteller
+Smaralda: I rarely use my gift in these days. I use it only to help the old pirate to find the rest that he deserves by finding a crew for his ship.
+Player: pirate
+Smaralda: The good old captain was never one of the evil bandits of the seas but a gentleman robber who actually fought for freedom and against slavery. ...
+Smaralda: Of all the things, good or bad he did in his life, the most fateful was a promise he made to his people to bring back a holy icon that other pirates had robbed while he was away. ...
+Smaralda: He tracked the icon to the Mourning Isles but there he met his cruel fate and died without fulfilling his promise.
+Player: Mourning Isles
+Smaralda: These isles seemed to be cursed by the gods even before the first living beings arrived there. Since then they've had a history of pain, treachery and desolation. But the lure of its treasures is still strong. ...
+Smaralda: Many would try to brave the undead inhabitants of the isles to rob them of their treasure but there is no ship of the living that can still reach the isles.
+Player: ship
+Smaralda: No ordinary ship can hope to reach the legendary Mourning Isles. But there is one ship that could do it! It is the ship of the old pirate. ...
+Smaralda: In these days he is looking for a crew of mortals to help him end his self-imposed curse.
+Player: curse
+Smaralda: The old pirate made a promise to return an icon from the Mourning Isles. A promise he could not fulfil. ...
+Smaralda: Again and again he is looking for helpers that will allow him to summon his ship to this world and reach these cursed isles to finally find that icon. ...
+Smaralda: You might be able to help him, but only after my soul seeing reveals which spirit mark will govern your life for the next cycle. ...
+Smaralda: Even then you will have to find three others with the same spirit mark bound to them to provide the pirate with a strong and capable crew.
+Player: spirit
+Smaralda: There are spirits all around us. Some are close to the world of the living, some are far away. Some of them sympathize with our trials and sense some kind of familiarity to us. ...
+Smaralda: These spirits attach themselves to us for a period of time when they feel that our fate corresponds with certain aspects of their own. I learned how to visualise those spirits and therefore can say a bit about the future that might await you. ...
+Smaralda: Even more, I connected those spirits to a certain symbolism to make the concept more accessible. I learned that people that share the same symbols are somehow connected by fate. ...
+Smaralda: We can use this fact to help the captain to find his crew. He needs people who are connected to each other to help him in his quest.
+Player: soul seeing
+Smaralda: You are marked by the rope.
+Player: trade
+Smaralda: You should really take better care of the things entrusted to you. Perhaps you will learn your lesson this time.
+Player: join
+Smaralda: Now that you have captured enough of the spectral scum you may use my crystal ball to meet the captain. ...
+Smaralda: But keep in mind that you need three others with the same soul mark to proceed.
+Player: journeys
+Smaralda: This world was successful in 0 journeys. 50 journeys are necessary to give the captain some peace for this month.
+Player: bye
+Smaralda: Good bye, Player.
+Player: (vanish)
+Smaralda: Good bye.

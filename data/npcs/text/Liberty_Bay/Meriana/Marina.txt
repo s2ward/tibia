@@ -1,0 +1,70 @@
+Player: hi / hello  
+Marina: Oh, hello Player. A visitor, how nice!  
+Player: visitor  
+Marina: I am a creature of stunning beauty and intellect. I really hate people who think I am dumb just because I am beautiful. I even have read at least two books!  
+Player: job  
+Marina: Me? A job?? I am pretty!!  
+Player: beautiful  
+Marina: Well, pretty does not describe my incredible beauty even remotely.  
+Player: beauty  
+Marina: My beauty is an obligation to grace the world and people with my presence of course.  
+Player: calassa  
+Marina: You don't know Calassa? You don't know what you're missing.  
+Player: comb  
+Marina: Sorry, I don't have a spare comb. I lost my favourite one when diving around in Calassa.  
+Player: djinn  
+Marina: <giggles> Oh my, you know what they say about djinns and the size of their sabres? Everything of it is true!  
+Player: date  
+Marina: Now that I am dating a true djinn the other mermaids will turn green in envy.  
+Player: honeycomb  
+Marina: Yummy. Honey is sweet, just like me. Sometimes wasps or bears carry stolen honeycombs with them. Unfortunately both of them are so aggressive.  
+Player: people  
+Marina: Humans are funny and entertaining. Once in a while at least. They are always so possessive and can't understand that my beauty is an obligation.  
+Player: obligation  
+Marina: My beauty is an obligation to grace the world and people with my presence of course.  
+Player: cult  
+Marina: Why would anyone waste his time to worship some anonymous powers if they could worship ME and my beauty?  
+Player: eleonore  
+Marina: She is some fat human maid who lives on one of the isles here. For some stupid reason, she has the foolish illusion that she'd be pretty.  
+Player: Ferumbras  
+Marina: Uhm, that one has probably no sense for beauty at all.  
+Player: governor  
+Marina: He is a rather old and wrinkled guy. I have nothing to do with such beings. Phew!  
+Player: king  
+Marina: Hmmm a king. I guess a king could be quite entertaining.  
+Player: liberty bay  
+Marina: Humans are funny and entertaining. Once in a while at least. They are always so possessive and can't understand that my beauty is an obligation.  
+Player: loveless / theodore  
+Marina: I vaguely remember that name. Probably one of my admirers. On the other hand, who isn't an admirer of my beauty.  
+Player: magic currents  
+Marina: Are you suggesting that my beauty is not magic and enchanting enough? I don't care for magic currents. I care only for the tides of the sea.  
+Player: mermaid  
+Marina: I am a creature of stunning beauty and intellect. I really hate people who think I am dumb just because I am beautiful. I even have read at least two books!  
+Player: pirate  
+Marina: Pirates are so romantic. Doing all kinds of silly and dangerous things just to impress a woman of beauty.  
+Player: pretty  
+Marina: Well, pretty does not describe my incredible beauty even remotely.  
+Player: quara  
+Marina: Those frog faced idiots think they rule the seas. I mean, give me a break, what do they think who they are? Mermaids?  
+Player: silk  
+Marina: Spider silk? I used to make yarn from spider silk when I was young - I mean, even younger than I am now, of course!  
+Player: spider  
+Marina: Eek! Where??  
+Player: Striker  
+Marina: Phew, who cares about him if you can date a true exotic DJINN!  
+Player: thais  
+Marina: A faraway city full of stinking humans. Who cares? I don't, you know.  
+Player: turtle  
+Marina: As a reward for your efforts, I allow you to ride my sea turtles. They usually love to cross over to the Laguna Islands. Have fun!  
+Player: venore  
+Marina: Some trader from Venore thought he could buy my affection with presents. Although he was on the right path, the gifts he tried to make were rather lousy if you consider how old and ugly he was.  
+Player: voodoo  
+Marina: I have no need for such nonsense.  
+Player: Wyrmslicer  
+Marina: Some old soldier from the human settlement. Tried to impress me with some boring war stories. As if there were anything more important than fashion, hairstyles and beauty. Imagine!  
+Player: yarn  
+Marina: Okay... a deal is a deal, would you like me to create a spool of yarn from 10 pieces of spider silk?  
+Player: yes  
+Marina: Well, if you want something, you should at least bring the required amount of ingredients.  
+Player: bye / farewell  
+Marina: Bye for now, Player.  

@@ -1,0 +1,45 @@
+Player: hi / hello  
+Esrik: Hello, Player and welcome to my little forge.  
+Player: mining guild  
+Esrik: You have no idea how important and influential the guild is when it comes to dwarven affairs, jawoll. It replaces the nobility and bureaucracy of your people I guess. ...  
+Esrik: It is important to hold on to traditions and to do things the same way like our forefathers found out it works best. The guild does this and even more. ...  
+Esrik: Progress has to be slow and new things have to be compared with known patterns thoroughly. There is no wisdom in haste. ...  
+Esrik: The guild allocates our limited resources the best way possible. So the establishment of Farmine is an important step. I trust in the guild's decision.  
+Player: Job / done / forge  
+Esrik: I am a smith and proud of it. When I'm not busy with repairing things or creating tools, you are welcome to trade with me. ...  
+Esrik: My inventory is not large but classy. I might also be interested in some of your loot you want to sell - some rare materials are still hard to come by.  
+Player: smith  
+Esrik: Now that the smithy is running, the new base has a heart at last. Now it's up to the people here to give it a soul.  
+Player: trade  
+Esrik: Of course, just browse through my wares.  
+Player: Farmine / base  
+Esrik: It is a great opportunity for us young dwarfs, but some of our elders are quite concerned about that project. ...  
+Esrik: Even now, there are still some people back home who fear that the whole project will lead to some sort of disaster.  
+Player: Kazordoon  
+Esrik: The city was founded as a hiding place from the raging wars. And now look at us! Our city is well known in the world and we are building bases in foreign lands. ...  
+Esrik: I'm not convinced it is a good idea to part with the old ways. Staying hidden and isolated has it's advantages I'd say.  
+Player: mines  
+Esrik: I hear only good things about the mines. The miners are as happy as miners can be. Of course that does not stop them from cursing and complaining, but this is in their nature.  
+Player: Excalibug  
+Esrik: Blood and bones! Will you stop talking about that nonsense! I can't stand all those rumours any longer, jawoll.  
+Player: Orc  
+Esrik: As soon as I heard there are orcs out there, I begun to forge more weapons and armors. Still it's hard to keep up with the demand, now that the word has spread.  
+Player: Lizard  
+Esrik: Could it get any worse? Dragon people! And you know how crazy dragons are about gold! They will be coming for us sooner or later! I'd put my bet on sooner.  
+Player: Minotaur  
+Esrik: I wouldn't trust a minotaur as far as I can throw one. I'm pretty sure they are just waiting that we start to trust them and then they'll send their orc minions for our heads.  
+Player: Ongulf  
+Esrik: He's a distant relative of mine. I think he's still a bit troubled about the things that still can go wrong. I feel no envy for his position. ...  
+Esrik: Still, I think we could do better if a few more resources were spent on the smithy, but I guess for a while I have to live with what I've gotten so far.  
+Player: Progress  
+Esrik: Can you remember our start in some dirty cave? And now look around! I'm proud of my people and grateful for your assistance.  
+Player: caves  
+Esrik: The caves here were chosen by some of our best miners and architects. They make a fine base with easy access to the mines and they are easily defendable, too. ...  
+Esrik: Isn't it impressive what we have created in so little time? Of course it will not rival Kazordoon, jawoll, but it will become a new home for many! ...  
+Esrik: And as far as I can tell, it will also become a base for the more adventurous types like you.  
+Player: land  
+Esrik: Word is that the locals call it Zao. Sounds quite strange to me, jawoll.  
+Player: zao  
+Esrik: I'm not very interested in what is going on up there. I rather stay down here and let the others do the exploring.  
+Player: bye  
+Esrik: Bye.  

@@ -1,0 +1,26 @@
+Player: hi
+Yoem: Hello Player! Do you need some equipment for your house?
+Player: name
+Yoem: My name is Yoem. I sell furniture and equipment.
+Player: job
+Yoem: Have you moved to a new home? I'm the specialist for equipping it.
+Player: time
+Yoem: It is 8:25 am. Do you need a clock for your house?
+Player: news
+Yoem: Yes, there is something very disturbing lately. I don't know whether you have ever heard something about the curse of lycanthropy.
+Player: lycanthropy / were / curse
+Yoem: I guess, Daniel Steelsoul in Edron has a graver problem. Please visit him first.
+Player: Daniel Steelsoul
+Yoem: Yes, I know him since we were small children. He's a brave and virtuous man.
+Player: lycanthropy / were / curse
+Yoem: Yes, the Curse of the Full Moon has reached Cormaya, too. More and more people are affected but something is really strange: Some of them weren't bitten by were-beasts. So far we thought this is the only way to be infected. ...
+Yoem: But now it's obvious that there has to be another way. If you ask me: I guess it's the ground water. Someone has to enter the caverns underneath Cormaya and investigate. ...
+Yoem: In the east of the island there are tunnels where we often spot were-beasts at night. Perhaps you should start there.
+Player: lycanthropy / were / curse
+Yoem: So I was right, it is the ground water! Please try to reverse this contamination. Unfortunately, I don't know anything about magic or arcane matters. But you could ask somebody at the Magic Academy of Edron.
+Player: lycanthropy / were / curse
+Yoem: You succeeded! Thank you very much for your help, my friend. Please return to Edron and tell Daniel Steelsoul about it, he will be interested in this outcome, too.
+Player: offer / goods / do you sell / do you have / furniture / equipment
+Yoem: Well, as you can see, I sell furniture. Ask me for a trade if you're interested to see my wares.
+Player: bye
+Yoem: Good bye, Player.

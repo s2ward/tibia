@@ -1,0 +1,32 @@
+Player: hi
+Erayo: What the... I mean, of course I sensed you.
+Player: sensed
+Erayo: In my job you have to be on guard.
+Player: job
+Erayo: Bringing death.
+Player: name
+Erayo: Blue death.
+Player: assassin / addon / outfit
+Erayo: Don't have anything else to give you. Go pester Atrad, maybe he has a spare katana or something.
+Player: Atrad
+Erayo: Hot temper.
+Player: Vescu
+Erayo: Useless assassin, but fun.
+Player: yarn
+Erayo: Needs to be made from spider silk. Heard mermaids can do that.
+Player: brown piece of cloth
+Erayo: Pretty rotten cloth preferred by some undead.
+Player: red piece of cloth
+Erayo: It's used for capes.
+Player: green piece of cloth
+Erayo: Heard djinns use it for their turbans.
+Player: yellow piece of cloth
+Erayo: Used for embalmment.
+Player: white piece of cloth
+Erayo: Ghostly tissue.
+Player: blue piece of cloth
+Erayo: Heard djinns use it for their turbans.
+Player: task
+Erayo: No tasks left. Good job.
+Player: bye
+Erayo: Watch your back, Player.

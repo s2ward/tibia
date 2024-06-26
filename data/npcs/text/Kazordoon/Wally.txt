@@ -1,0 +1,44 @@
+Player: hi  
+Wally: Be greeted, traveller.  
+Player: job  
+Wally: I am working here at the post office for Kevin.  
+Player: Kevin  
+Wally: Oh, our boss is upstairs. Better only disturb him with important issues though.  
+Player: mission  
+Wally: Ask Mr. Postner about your current missions.  
+Player: name  
+Wally: I'm Wally the post officer.  
+Player: Wally  
+Wally: Yes, thats me, Wally!  
+Player: elven  
+Wally: Elven volunteers for becoming a postofficer are quite rare. We had to rely on a human living there to ensure our postsystems function. Most elvish members of the guild prefer to work as courriers.  
+Player: Edron  
+Wally: I gues Edron isn't the source of wealth and rescources as the thaians hoped. The defection of those knights did cause the expansion and exploitation there to an halt.  
+Player: dwarfs / Kazordoon  
+Wally: The city of the dwarfs is a bit hidden and new postoficers often get lost while looking for it. Just look for a hidden passage to a western valley in the mountaion called the big old one.  
+Player: The Big Old One  
+Wally: Its a huge Mountain, north of here, just across the river.  
+Player: Thais  
+Wally: One of the oldest holdings of humanity that still exist and the heart of the biggest kingdom in the known world.  
+Player: Venore  
+Wally: I think no longer is king Tibianus reigning this city, nor are the merchants ruling it, regardless what they might think. The true monarch before whom all there bow is the money.  
+Player: bones  
+Wally: If I would be looking for bones I'd inspect some skeletons ... If I weren't so affraid of them that is.  
+Player: Markwin  
+Wally: This minotaur is quite moody. Better make sure not to anger him. He's likely to call for his guards as soon as he notices a stranger, so you are on tough luck if you ever find him.  
+Player: Noodles  
+Wally: This dog is his majestys most priced possesion and heavily guarded. Anger the dog and you anger the king.  
+Player: Benjamin  
+Wally: Old Ben lost some of his marbles in some battle long ago. He is still a quite capable postman though ... on second thought thats some disturbing fact.  
+Player: Dove  
+Wally: Dove is as good as a dozend pigeons. He He He.  
+Player: Liane  
+Wally: Although I never met her in person we became penpals over the time.  
+Player: Lokur  
+Wally: Dwarfs make quite good postmen. They are stubborn, strong and ... sturdy. Its a waste that he prefers a job behind the counter.  
+Player: Olrik  
+Wally: This Olrik was made postman only for convenience. He is quite aware that his attitude and affiliation with the thaian government makes it impossible for him to rise in rank. This leads only to him behaving even worse tough.  
+Player: Waldo
+Wally: Waldo is an explorer. We always feared he might one day take a risk too great for him. I hope he is okay, though.
+Player: bye  
+Wally: It was a pleasure to help you.  

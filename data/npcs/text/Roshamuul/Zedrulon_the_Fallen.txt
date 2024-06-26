@@ -1,0 +1,46 @@
+Player: hi  
+Zedrulon the Fallen: Welcome to this temple, holy warrior! Let me heal you.  
+Player: heal  
+Zedrulon the Fallen: You are drowning, my child. Let me help you breathe again.  
+Player: temple  
+Zedrulon the Fallen: It was my destiny to be here, and the will of the gods.  
+Player: destiny  
+Zedrulon the Fallen: I was one of the first to cross the bridge, one of the first to breach the wall. That was where I died! I know I was dead, though I will not speak about what I have seen. ...  
+Zedrulon the Fallen: It's not that I don't want too, but - I simply don't understand. - Anyway. ...  
+Zedrulon the Fallen: My body was torn, mutilated, destroyed. When I regained consciousness I was here. I... just knew what I had to do. ...  
+Zedrulon the Fallen: With prayers and sermons, and by sacrificing my own blood, I cleansed this place, repelled its evil and sanctified it. ...  
+Zedrulon the Fallen: I am certain I was guided by the gods, and it is here that I will stand in vigilance over this place, on this cursed and befouled isle.  
+Player: gods  
+Zedrulon the Fallen: Praised be the gods, our saviours and our salvation. May they judge our sinful souls, and may their punishment cleanse us.  
+Player: dreams  
+Zedrulon the Fallen: Fear not, the gods will guard your sleep here. Here, every evil in your dreams comes not from without, but from a taint within your own soul. ...  
+Zedrulon the Fallen: You should repent to purify yourself and your sinful mind.  
+Player: inquisition  
+Zedrulon the Fallen: Too few take up their god-given duty to fight in the war against evil. ...  
+Zedrulon the Fallen: Blessed be the few men and women, sinners though they may be, who atone for at least some of their own corruption by slaying the corruption that are the servants of the gods of evil. ...  
+Zedrulon the Fallen: Their continued existence is proof that they are ours to be handled, that it is our fault that they exist! Every cruelty they commit is also your fault, because you failed yet to stop them!  
+Player: henricus  
+Zedrulon the Fallen: He is a great man, but with greatness come pride and other vices. He is to be observed closely. ...  
+Zedrulon the Fallen: Those who rise the highest might fall the deepest and hardest. Only the gods are without failure and without blame.  
+Player: demon  
+Zedrulon the Fallen: The demons are nothing without our sins. They feed on them. Thrive on them. Their power is testament to our weakness. If the demons are powerful, we are to blame. ...  
+Zedrulon the Fallen: To slay them is therefore to cleanse ourselves and to at least somewhat atone for our sinful lives.  
+Player: blessing  
+Zedrulon the Fallen: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Zedrulon the Fallen: There are also two enhanced blessings for further reduction of experience loss.  
+Player: help  
+Zedrulon the Fallen: You do not need any healing right now.  
+Player: time  
+Zedrulon the Fallen: It's 9:32 pm. Praised be the gods!  
+Player: adventurer stone  
+Zedrulon the Fallen: Keep your adventurer's stone well.  
+Player: ashes  
+Zedrulon the Fallen: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: elves  
+Zedrulon the Fallen: They follow the call of false gods and will be judged by the true gods, and then be forgotten by the world.  
+Player: isle  
+Zedrulon the Fallen: This place is corrupted by evil. Every grain of sand seeps the malice of the demons and the vileness of their dark master.  
+Player: ruthless  
+Zedrulon the Fallen: The Ruthless Seven are only one of the obstacles which the gods put before us to allow us to atone for our sins. In the end, they are only gnats of the gods and will be wiped by them out when it pleases them.  
+Player: bye  
+Zedrulon the Fallen: Come back soon to repent your sins!  

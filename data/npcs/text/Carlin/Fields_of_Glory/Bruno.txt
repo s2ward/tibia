@@ -1,0 +1,18 @@
+Player: hi
+Bruno: Ahoi, Player. You want to buy some fresh fish?
+Player: name
+Bruno: My name is Bruno.
+Player: job
+Bruno: My job is to catch fish and to sell them here.
+Player: fish / offer / do you sell
+Bruno: Well, I sell freshly caught fish. You like some? Of course, you can buy more than one at once. *grin* Just ask me for a trade.
+Player: trade
+Bruno: Buy all the fish you want. It's fresh and healthy, promised.
+Player: graubart
+Bruno: I like this old salt. I learned much from him. Whatever. You like some fish? *grin*
+Player: marlene
+Bruno: Ah yes, my lovely wife. God forgive her, but she can't stop talking. So my work is a great rest for my poor ears. *laughs loudly*
+Player: aneus
+Bruno: Hmm, I don't know him very well. But he has a very nice story to tell.
+Player: bye
+Bruno: Good bye and come again, Player!

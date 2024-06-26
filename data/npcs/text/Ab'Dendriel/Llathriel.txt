@@ -1,0 +1,70 @@
+Player: hi  
+Llathriel: I greet thee, Player. What brings you here?  
+Player: here/job  
+Llathriel: I am a mystic of the Cenath caste.  
+Player: mystic  
+Llathriel: I connect beings. Souls. Lives. You humans call the ceremony a wedding.  
+Player: wedding  
+Llathriel: If you wish to initiate a marriage ceremony, each of you need to give me a blank wedding ring and a box with a wedding outfit. Player, do you have a wedding ring and outfit with you and can give them to me now?  
+Player: Cenath  
+Llathriel: Not all Cenath are as arrogant as our reputation suggests. However, there is sadly some truth in this stereotype.  
+Player: ring  
+Llathriel: Support the local elfish economy! Briasol here in Ab'Dendriel just happens to have some in stock.  
+Player: outfit  
+Llathriel: You can buy a box with your wedding outfit from the tailor Norbert in Venore.  
+Player: name  
+Llathriel: My name is Llathriel Hopedawner.  
+Player: elves/elf  
+Llathriel: Our people are the children of light and darkness, the heirs of dusk and dawn.  
+Player: dwarf  
+Llathriel: If you're indicating that our underground tunnels were dug by dwarfs, you're wrong. We just used what was already there. It is not our way to force nature to our will!  
+Player: humans  
+Llathriel: I've lived among humans for a while and get along with most of them.  
+Player : venore  
+Llathriel: I cannot understand how one could possibly reside above a swamp. The rotten stench offends my nose even from the dwarf bridge.  
+Player: carlin  
+Llathriel: The druids of Carlin are striving to live in peace with nature and they're doing quite well, for humans.  
+Player: thais  
+Llathriel: Don't mention that filth hole in front of me!  
+Player: excalibug  
+Llathriel: I've heard your legends about that. You humans always believe that power is to be gained through wielding metal. If you lived as long as we do, you would be wiser.  
+Player: magic  
+Llathriel: Magic surrounds us constantly. Some beings have receptors for this kind of power, like us Cenath.  
+Player: cenath  
+Llathriel: Not all Cenath are as arrogant as our reputation suggests. However, there is sadly some truth in this stereotype.  
+Player: abdaisim  
+Llathriel: Unfortunately they left us long ago. But I believe some day we will be united again with both Abdaisim and the long lost Teshial.  
+Player: teshial  
+Llathriel: The Teshial had impressive powers over dreams and could work their magic in them. Even though they are physically absent, I believe they still exercise their influence over our dreams.  
+Player: asha thrazi/bye/farewell  
+Llathriel: Asha Thrazi, human child.  
+Player: ceremony  
+Llathriel: If you wish to initiate a marriage ceremony, each of you need to give me a blank wedding ring and a box with a wedding outfit. Player, do you have a wedding ring and outfit with you and can give them to me now?  
+Player: no  
+Llathriel: I am afraid that we can't go on. Please come back when you have the necessary items. Rings you can get from many jewellers, but the outfit you must buy from the tailor in Venore.  
+Player: citizen/member/home/inhabitants  
+Llathriel: To become a child of light and darkness you have to pass through the labyrinth. Enter the teleporter in the middle and you are one of us.  
+Player: labyrinth  
+Llathriel: You can find it within the city walls in the south-west. The bushes there grow very fast so you would be well advised to take a machete to get through them.  
+Player: crunor  
+Llathriel: Praise him! The life-giving father of trees. Though many elves have abandoned their belief in our Gods, I worship Crunor, Nera, Priyla and Krynierr.  
+Player: Nera  
+Llathriel: She's the lady of spring. Just look around you and see her work her magic! Haven't you ever wondered why Ab'Dendriel is always blooming, always green?  
+Player: Priyla  
+Llathriel: The daughter of the stars and closely related to mystery and magic. What a gift she has given to us!  
+Player: Krynierr  
+Llathriel: He is also known as 'the silver tongue'. Without his inspiration, poetry, love and music would be unknown art forms in Tibia. He enriches our spiritual lives.  
+Player: deraisim  
+Llathriel: Our Deraisim brothers and sisters are skilled huntsmen and providers of food.  
+Player: divorces  
+Llathriel: A divorce? You humans never cease to amaze me. Sorry, but what I have bound is meant to last for eternity. Maybe you'll find another priest for that if you're desperate enough.  
+Player: king/tibianus  
+Llathriel: From what humans tell me, he is supposed to be a wise man. To us elves he seems like a young and inexperienced adolescent  
+Player: kuridai  
+Llathriel: The Kuridai are quite hot-tempered, especially for elves. They would never accept humans in Ab'dendriel if it wasn't for the other castes, who protect your interests.  
+Player: mystic  
+Llathriel: I connect beings. Souls. Lives. You humans call the ceremony a wedding.  
+Player: news  
+Llathriel: I heard the new human settlement in the west has become independent from the human empire.  
+Player: time  
+Llathriel: Love is timeless. At least for elves. Humans may have a different view on that.  

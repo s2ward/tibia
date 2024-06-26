@@ -1,0 +1,67 @@
+Player: hi  
+Stan: YOU DARE TALKING TO ME, MORTAL?!! ... Relax, it's just a costume. Welcome to Stan's!  
+Player: job  
+Stan: I own this shop of magical, wonderful, unsavoury, frightening and cuuuuute costumes! My name is Stan and I'm at your service!  
+Player: costume  
+Stan: Making these costumes is not as easy as it seems. Have you ever asked yourself how an adult human fits into a dwarf costume? Well, you won't learn it from me! ...  
+Stan: Otherwise everyone opens up a costume shop ruining my life AGAIN! Anyway I can offer you costumes in three categories: 'common', 'uncommon' or 'deluxe'. Which category are you interested in?  
+Player: name  
+Stan: Stanley Montgomery Edward Wilson Jaydon Alverton at your service! Just say Stan!  
+Player: king / tibianus  
+Stan: You're a genius. Imagine to have a King Tibianus costume! Well, I think the king himself won't consider it as funny as I do but anyway. You could just walk into the palace ...  
+Stan: ... and give some nonsensical orders to those boneheaded guards! Hilarious! I've got to remember that! Oh, you wanted to know whether I like him or not? Well, I like my idea of a king costume better!  
+Player: rumour  
+Stan: There are rumours about people getting killed while wearing my costumes. There was this toothless guy, can't remember his name, he bought a demon costume and then started running around screaming ...  
+Stan: 'YOUR SOUL WILL BE MINE!'. Don't be surprised if you get killed when you act that stupid.  
+Player: offer  
+Stan: You can buy party hats and party trumpets from me. In addition I can offer you costumes in the very best quality you can get! If you know someone selling better costumes than me, tell me his name and I go and kill that guy! Hahahaha, just kidding! ...  
+Stan: Now serious, I can offer you costumes in three categories: 'common', 'uncommon' or 'deluxe'. Which category are you interested in?  
+Player: party  
+Stan: Hurray!  
+Player: joke  
+Stan: Sorry, I don't know any more jokes.  
+Player: magic  
+Stan: My costumes will bewitch your friends but there is no real magic in them. The big ones are a little bit difficult to handle but you will get the hang of it.  
+Player: costume  
+Stan: Making these costumes is not as easy as it seems. Have you ever asked yourself how an adult human fits into a dwarf costume? Well, you won't learn it from me! ...  
+Stan: Otherwise everyone opens up a costume shop ruining my life AGAIN! Anyway I can offer you costumes in three categories: 'common', 'uncommon' or 'deluxe'. Which category are you interested in?  
+Player: common  
+Stan: This is the cheapest. For 500 gold you get one of five common costumes. Spectacular, but if you know the 'creature illusion' spell, you may be disappointed. ...  
+Stan: But if you and your friends want to dress up as an orc horde for example, it will be the perfect deal for you! Just ask me for a trade.  
+Player: uncommon  
+Stan: It's getting warmer! In this category you will get one of five costumes in good quality and therefore for 1000 Gold! ...  
+Stan: You will be amazed of these costumes, I promise! Just ask me for a trade.  
+Player: deluxe  
+Stan: I knew you are a deluxe guy! Your friends will be astonished about your costume! You will get one of five costumes of the finest quality you will ever face in your life!! ...  
+Stan: I ruin myself but I will give it to you for only 1500 Gold! Just ask me for a trade.  
+Player: trade  
+Stan: Have fun with your carnival stuff and recommend me to your friends!  
+Player: human  
+Stan: Sure, I'm human. Just sitting in this giant costume pulling strings.  
+Player: past  
+Stan: I did many things before. Years ago I started out as a salesman for used boats but I was ripped off by a strange fellow. After that I opened up a shop for used coffins which also was a flop. ...  
+Stan: Then I tried my luck with selling life insurances but it didn't work out with so many people dying and seconds later standing in front of you demanding the money for their own death. ...  
+Stan: Now I found my purpose in making these costumes and selling them for extortionate... err... extraordinarily good prices!  
+Player: story  
+Stan: I know loads of stories. Don't know if you are interested in my past, my outfit or my costumes. I even can tell you some jokes if you want to.  
+Player: joke  
+Stan: I only know five jokes but they are hilarious! Do you want to hear one?  
+Player: yes  
+Stan: Where does a blackbird go for a drink? You know that, huh? No? ...  
+Stan: To a crow bar!! Muahahahaha! Another one?  
+Player: yes  
+Stan: Why do hens lay eggs? You know that, huh? No? ...  
+Stan: If they dropped them, they'd break. Muahahahaha! Sooooo funny! Another one?  
+Player: yes  
+Stan: Two peaky vampires walking through the streets, almost starving. Then a third one shows up, his whole face blurred with blood. The two ask: 'Where did you get the blood from?' ...  
+Stan: The bloody one replies, 'Do you see that wall over there?'. The two vampires say: 'Yes' and the bloody one: 'Well, I didn't!' Muahahahaha!!! Another one?  
+Player: yes  
+Stan: Two guys are out hunting deer. The first guy says: 'Did you see that?','No' the second guy replies. 'Well, a bald eagle just flew overhead!', the first guy says. ...  
+Stan: A couple of minutes later, the first guy says: 'Did you see that?'. 'See what?' the second guy asks. 'Are you blind? There was a big, black bear walking on that hill, over there.' ...  
+Stan: A few minutes later the first guy says, 'Did you see that?'. By now, the second guy is getting angry, so he says: 'Yes, I did!'. And the first guy says: 'Then why did you step in it?'. Muahahahaha!! Another one?  
+Player: yes  
+Stan: In the Green Claw Swamp a dwarf was found, tied up with chains, gagged and with a heavy rock wrapped on his chest. The guard finding him says, 'Damn dwarfs, they always steal more than they can carry!' Muahahahaha!  
+Player: outfit  
+Stan: This is MY very special costume! I'm sorry but I can't offer you that. It's unique!  
+Player: bye  
+Stan: Cheerio!  

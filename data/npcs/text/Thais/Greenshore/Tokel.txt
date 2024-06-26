@@ -1,0 +1,38 @@
+Player: hi / hello  
+Tokel: Hi there, Player. You look quite hungry, maybe you should buy some food.  
+Player: how are you  
+Tokel: I am fine, thank you.  
+Player: sell  
+Tokel: I sell some food.  
+Player: job  
+Tokel: I am a farmer, and proud of it.  
+Player: name  
+Tokel: My name is Tokel.  
+Player: help  
+Tokel: Sorry, I have no idea how to help you.  
+Player: monster  
+Tokel: It's relatively peaceful here.  
+Player: dungeon  
+Tokel: Here are no dungeons as far as I know.  
+Player: god  
+Tokel: I pray to Crunor to bless our harvests.  
+Player: king  
+Tokel: I wish I'd be as rich as him.  
+Player: greenshore  
+Tokel: The soil is a bit dry and there are a lot of stones. It's very hard to work this soil.  
+Player: weapon / magic / spell  
+Tokel: I know nothing but about such stuff.  
+Player: tibia  
+Tokel: I have not seen much of it yet. I am thinking about moving to Edron soon.  
+Player: thais  
+Tokel: The city is too lousy and crowded for my taste.  
+Player: food / offer / stuff / buy / ware / goods / equipment  
+Tokel: I can offer you bread, cheese, ham, or meat. If you'd like to see my offers, ask me for a trade.  
+Player: trade  
+Tokel: Of course, just browse through my wares.  
+Player: edron  
+Tokel: They say life is easy there, the soil is rich, the city save. One day I might move there.  
+Player: time  
+Tokel: Oh, now that you mention it: I have much left to do, please excuse me.  
+Player: bye  
+Tokel: Bye, Player.  

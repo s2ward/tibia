@@ -1,0 +1,78 @@
+Player: hi  
+Snake Eye: Hi Player. Come in and have a drink.  
+Player: drink  
+Snake Eye: I can offer you beer and wine. Ask me for a trade.  
+Player: trade  
+Snake Eye: Of course, just browse through my wares.  
+Player: job  
+Snake Eye: Well, I'm the boss of this tavern.  
+Player: name  
+Snake Eye: I'm Snake Eye.  
+Player: h.l. / hl  
+Snake Eye: He is a wild warrior. Nobody knows his real name. We just call him H.L. You can find him in the small armory shop.  
+Player: durin  
+Snake Eye: He's the worst. The so called god of the dwarves. I don't believe it. It's all crap.  
+Player: stephan  
+Snake Eye: Never heard of him.  
+Player: guido  
+Snake Eye: Never heard of him.  
+Player: steve  
+Snake Eye: Never heard of him.  
+Player: cip  
+Snake Eye: Cip sux!  
+Player: snake / eye  
+Snake Eye: Well, I had a dispute with a snake once. And the snake won. Bit my left eye out. Therefore, Snake Eye.  
+Player: tavern  
+Snake Eye: It's a great tavern. No closing time. No problems with kings or other rulers. Best place in Tibia.  
+Player: boss  
+Snake Eye: Yeah. I'm the boss. So don't bother me.  
+Player: tibia  
+Snake Eye: There's already too much order in Tibia. We don't need kings or whatever.  
+Player: ruler / king  
+Snake Eye: We don't need one.  
+Player: time  
+Snake Eye: Go and get a watch.  
+Player: superstition  
+Snake Eye: Believe me! There are no gods.  
+Player: god  
+Snake Eye: The Gods of Tibia! What a crap! It's all superstition!  
+Player: crap  
+Snake Eye: Crap. Crap! CRAP! It's all CRAP!  
+Player: thais  
+Snake Eye: In the beginning, it was a nice encampment. Now it's an overcrowded, polluted city. I hate it!  
+Player: carlin  
+Snake Eye: I've never been there. Don't know anything about it.  
+Player: kazordoon  
+Snake Eye: Kazordoon is alright. Except for the dwarves. I don't like them. But the mountains are a good place. Been there once.  
+Player: edron  
+Snake Eye: That's a place for wealthy toffs!  
+Player: ab'dendriel  
+Snake Eye: I've never been there. I don't like the elves anyway.  
+Player: wild warrior  
+Snake Eye: There are a lot of wild warriors around. They built this camp.  
+Player: camp  
+Snake Eye: Well, the real wild warriors don't live here. They hide in the woods.  
+Player: hide  
+Snake Eye: Well. I know of a small camp to the south.  
+Player: south  
+Snake Eye: It's abandoned. But I bet that something is hidden there!  
+Player: hidden  
+Snake Eye: Go and find out yourself. You can tell me if you find something.  
+Player: wood  
+Snake Eye: It's the best place to live. By the way, there's an old wild warrior building to the southwest. It might be interesting for you.  
+Player: building  
+Snake Eye: Go and ask H.L. about it.  
+Player: south  
+Snake Eye: It's abandoned. But I bet that something is hidden there!  
+Player: buy / sell / stuff / ware / goods / equipment / helmet / armor / shield / legs / weapon / trousers  
+Snake Eye: I sell food and drinks. Ask me for a trade if you want.  
+Player: food  
+Snake Eye: I have fish, meat, and bread. Ask me for a trade if you want any.  
+Player: beer / wine  
+Snake Eye: Yep, I have some left. Ask me for a trade.  
+Player: document  
+Snake Eye: Oh come on kid, you don't know what you're talking about.  
+Player: package for rashid  
+Snake Eye: I've done my part in this business. Go away.  
+Player: bye  
+Snake Eye: Bye.  

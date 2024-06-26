@@ -1,0 +1,179 @@
+Player: (idle)
+Paladin Narai: Oh, come in here! You really should!
+Paladin Narai: I love the song of a bowstring... twang!
+Paladin Narai: Come on, let's hunt together!
+Paladin Narai: I can tell you everything about paladins!
+Paladin Narai: Hey there, come play?
+Simael : hi
+Paladin Narai: Hello Simael! As I can see, you're a [ vocation ] now... aww... well, I'm sure you made the right decision for you.
+Player: hi
+Paladin Narai: Hello Player! Wanna have some fun and listen to paladin stories?
+Player: how are you
+Paladin Narai: Why thanks, that's so nice of you to ask! I'm in a great mood as always!
+Player: name
+Paladin Narai: Just Narai for you.
+Player: narai
+Paladin Narai: Um. <blushes> What about me?
+Player: job
+Paladin Narai: Well, I'm a paladin trainer. Duh!
+Player: thank you
+Paladin Narai: Oh, no need to thank me! It's always nice to talk to new people like you!
+Player: paladins
+Paladin Narai: Being a paladin means to be always on the run. Not like running cowardly, of course, but we paladins like to keep our distance. Because - distance fighting is what we're best at! ...
+Paladin Narai: We can handle all sorts of bows and throwing weapons instinctively well. Paladins can even use some magic, including the class-exclusive holy spells! Undead creatures will fear you, nyahahaha! ...
+Paladin Narai: We also aren't as wimpy as those mages but have enough health to take a hit or two. Actually we can be quite good blockers with a shield. But as I said, it's all about being on the move! Run run run like the wind! Yay! ...
+Paladin Narai: Uhm, what else to tell you... well, one thing you might need patience for is training. You will not hit anything well unless you invest some time in improving your distance skills. ...
+Paladin Narai: Bleh, that can be boring! And well, you have to buy ammunition and carry all that stuff around with you. But that's really the only thing which I can think of that's not pure fun! You'll like being a paladin! ...
+Paladin Narai: You can even get a vocation promotion and become a royal paladin once you've reached level 20! Doesn't that simply sound... royal? Teehee! If you need other information, let me know.
+Player: knights
+Paladin Narai: I like strong guys. Particularly those who carry my ammunition for me! Ask Hykrion if you're interested in that vocation.
+Player: sorcerer
+Paladin Narai: They always take everything soooo serious and burn your butt with their fireballs! Ask Estrella if you're interested in that vocation.
+Player: druid
+Paladin Narai: Aww, druids are sweet. I know some really nice druids who always give me free heals. Ask Yandur if you're interested in that vocation.
+Player: Hykrion
+Paladin Narai: All that talk about honour and stuff can be a bit cheesy, but I like the feeling of being protected!
+Player: Estrella
+Paladin Narai: She seems kinda arrogant, but she has a good heart. Really!
+Player: Yandur
+Paladin Narai: He's the kind of guy that always has a warm place for you. He's like a big brother to me!
+Player: tibia
+Paladin Narai: I love the world of Tibia, especially the buzz in the cities!
+Player: cities
+Paladin Narai: Well I'm personally a fan of Carlin, but that's just me. The captain can give you more information about the Tibian cities.
+Player: carlin
+Paladin Narai: Hooray for Carlin! A city ruled by girls! Tell me, what could go wrong??
+Player: captain / kurt
+Paladin Narai: He's always nice to me. He even calls me his 'little lady'. I like him, even though he's old!
+Player: raffael
+Paladin Narai: I don't like the way he looks at me. It's so... greedy. And he seems to be happy when my spears break! Hmpf!
+Player: promotion / royal paladin
+Paladin Narai: Oh yes, that's the best part! As a level 20 paladin, you can buy a vocation promotion and become a royal paladin. ...
+Paladin Narai: Go to a royalty such as Queen Eloise in Carlin or King Tibianus in Thais and donate 20.000 gold pieces to become promoted. Not only will you have a fancy new title, but also better regeneration and other advantages!
+Player: vocation
+Paladin Narai: Choosing your vocation is a big step on your adventure, if not the biggest. It will change your life enormously, whether you become a knight, paladin, sorcerer or druid!
+Player: spells
+Paladin Narai: Spells, woah, that's a broad topic. Well, our most powerful spells are our holy spells which are especially effective against undead creatures. ...
+Paladin Narai: We have also our own divine healing spell which is really useful once your level is high enough. We can also use some runes made by sorcerers and druids. Particularly area damage runes can save your butt in tight locations. ...
+Paladin Narai: Then, we have ammunition creation spells. You can create your own arrows or bolts by using some of your mana. ...
+Paladin Narai: This comes in handy when you're on a hunt and need something to spend your mana on... just create ammunition or food! ...
+Paladin Narai: You can buy new spells in each city, just look for a paladin trainer.
+Player: healing
+Paladin Narai: Paladins can use some healing magic as well as health potions.
+Player: runes
+Paladin Narai: Some runes can be quite interesting for us, although we can't make them ourselves and they are not that strong in our hands. In particularly, area damage runes, such as the great fireball, can save your life in tight locations.
+Player: potions
+Paladin Narai: Paladins can use both mana and health potions. You can buy them at the magic shop in each large city. Simply use the potion on yourself to either refill your hit points or your magical energy. I love mana potions, they taste like gummi bear juice!
+Player: mana
+Paladin Narai: That's how your magical energy is called. With each spell you cast, mana is used up. It will slowly refill itself when you keep eating food. ...
+Paladin Narai: Of course, you can also use a potion for an instant refill, but that can be really expensive for a young paladin.
+Player: magic
+Paladin Narai: Oooh, I love magic! Unfortunately, I'm not as good at it as sorcerers, but hey, I'm trying. Fancy elemental stuff!
+Player: elemental
+Paladin Narai: Okay wait, let me get this right. There's holy magic of course.. then death... fire... earth... ice... aaaaaand energy! Yes! That's it!
+Player: holy
+Paladin Narai: Holy magic is one of our strengths. Using it, we can easily hunt anything that is undead, like skeletons or mummies. I love those shiny spells!
+Player: death
+Paladin Narai: I... don't like death magic. Sorcerers are into it... but I prefer my holy spells.
+Player: fire
+Paladin Narai: Fire spells or fire arrows are good against earth creatures. Everything that crawls and stinks, like spiders or worms!
+Player: earth
+Paladin Narai: Earth spells or earth arrows are used against energy creatures. You can't always easily recognise those... but it's the spirit and wind type of monsters.
+Player: ice
+Paladin Narai: Ice spells or ice arrows are awesome for freezing fire monsters. Put out those flames!
+Player: energy
+Paladin Narai: Use energy spells or energy arrows against ice and water monsters. Fried fish for dinner!
+Player: shrines
+Paladin Narai: Estrella talks much about them ... I forgot what they are, to be honest.
+Player: equipment
+Paladin Narai: We have many options concerning equipment. You could for example hunt with spears and a shield, which will enable you to block attacks quite okay. If you do this, wearing strong armor will also be helpful. ...
+Paladin Narai: However, if you do it the real paladin style and keep your distance using a bow or crossbow, you won't really need heavy armor and can save your capacity for ammunition.
+Player: armor / armour
+Paladin Narai: There's a ranger's cloak in the cellar of this building, which is a good start for a young paladin. ...
+Paladin Narai: Later you should try to get your hands on a plate armor! You can either buy them in shops or from other players, just ask them nicely!
+Player: shield
+Paladin Narai: Bows and crossbows are two-handed, you know? That means you cannot carry a shield as well while you have them equipped. However, when you use spears or other throwing weapons, I recommend wearing a shield. That way you take less damage!
+Player: capacity
+Paladin Narai: Every thingy has its weight. Capacity determines how much weight you can carry. You can carry more stuff with each character level you earn.
+Player: throwing
+Paladin Narai: Throwing weapons is fun! The only bad thing about them is that they tend to break. You can't throw everything, though - you need special weapons like spears.
+Player: spears
+Paladin Narai: A spear is a basic throwing weapon. Just carry it in your hand and aim at a monster to throw it! There is a slight chance though that it breaks when you throw it, but don't worry, spears are easy to get!
+Player: ammunition
+Paladin Narai: Just put all your ammunition in that fancy slot in the lower right of your inventory. When it's empty, your bow or crossbow won't fire.
+Player: bow
+Paladin Narai: To use the bow you'll find in the cellar once you are a paladin, you also need arrows in your ammunition slot - that's the lower right slot of your inventory. ...
+Paladin Narai: Then simply target an enemy in the battle list. Don't be disappointed if you miss most of the time. Learning to shoot an arrow or bolt accurately requires a lot of distance training, but you will be relieved to hear that each shot already trains you.
+Player: arrows
+Paladin Narai: There are some arrows for new paladins in the basement. Simply place them in your ammunition slot. Later, you will also be able to use other arrows such as elemental arrows.
+Player: crossbow
+Paladin Narai: A crossbow is used like a bow, but it has a slightly shorter range.
+Player: bolts
+Paladin Narai: Bolts are basically a stronger version of arrows used together with crossbows.
+Player: distance
+Paladin Narai: Distance fighting is the main paladin skill. All of our distance weapons have a good range so you can avoid getting hit by monsters... in theory, that is. Hehehe!
+Player: monster
+Paladin Narai: The good thing about being a paladin is - when you are well-trained, you'll advance in level pretty quickly. That's because you can deal nice damage with a crossbow and bolts even when your level is not that high. ...
+Paladin Narai: However, for the start I'd recommend trolls or rotworms until you get used to the whole hit-and-run thing.
+Player: wand
+Paladin Narai: Wands are toys for sorcerers.
+Player: rod
+Paladin Narai: Rods are little thingies used by druids.
+Player: hi -> no
+Paladin Narai: No?? How can you not want to be a paladin?? Wait, let me convince you and give you some information, okay?
+Player: no
+Paladin Narai: Aww, come on, don't tease me. Just make up your mind and then come back. I'll happily tell you whatever you want to know. I mean it. Bye bye! (idle)
+Player: information
+Paladin Narai: You'd like some information? I got lots and lots and lots! Sit down and listen to some details! Or... do you want the tiny short version?
+Player: details
+Paladin Narai: Okaaaay, here we go! Being a paladin means to be always on the run. Not like running cowardly, of course, but we paladins like to keep our distance. Because - distance fighting is what we're best at! Got that, yes?
+Player: no
+Paladin Narai: Meh, it's not that hard. Just don't run right into enemies, but shoot at them without getting hit yourself. Got that?
+Player: no
+Paladin Narai: Meh, it's not that hard. Just don't run right into enemies, but shoot at them without getting hit yourself. Got that?
+Player: yes
+Paladin Narai: We can handle all sorts of bows and throwing weapons instinctively well. Paladins can even use some magic, including the class-exclusive holy spells! Undead creatures will fear you, nyahahaha! Got that?
+Player: no
+Paladin Narai: Okay, short version: Equip bow and arrows! Use magic! Kill! Teehee. Got that?
+Player: yes
+Paladin Narai: We also aren't as wimpy as those mages but have enough health to take a hit or two. Actually we can be quite good blockers with a shield. But as I said, it's all about being on the move! Run run run like the wind! Yay! Got that?
+Player: no
+Paladin Narai: Duh, I just tried to explain that we can also shield attacks, but that's not our main strength. Keep your distance and you'll be fine. Got that?
+Player: yes
+Paladin Narai: Um, what else to tell you... well, one thing you might need patience for is training. You will not hit anything well unless you invest some time in improving your distance skills. Got that?
+Player: no
+Paladin Narai: In other words - train your distance skill by using distance weapons, simple as that. You'll hit better and do more damage. Got that?
+Player: yes
+Paladin Narai: Bleh, training can be boring! And well, you have to buy ammunition and carry all that stuff around with you. But that's really the only thing which I can think of that's not pure fun! You'll like being a paladin! Right?
+Player: no
+Paladin Narai: Well, apart from carrying ammunition and training, I can't think of any drawbacks. Really! Let's carry on, yes?
+Player: no
+Paladin Narai: Well, apart from carrying ammunition and training, I can't think of any drawbacks. Really! Let's carry on, yes?
+Player: yes
+Paladin Narai: Oh, the best part! You can even get a vocation promotion and become a royal paladin once you've reached level 20! Doesn't that simply sound... royal? Teehee! Got that?
+Player: no
+Paladin Narai: I just explained that you can improve your vocation once you are level 20. Royal paladins have even more power! Got that now?
+Player: yes
+Paladin Narai: Great! So umm, I love quizzes, so let's do a little quiz about paladins! Tell me a weapon used by paladins - is it a sword or a bow?
+Player: wand
+Paladin Narai: Uh, what? Let's do this again: What is a typical paladin weapon, a sword or a bow?
+Player: sword
+Paladin Narai: Uhhh... no. Although we CAN use swords, we're not that good at it, so you should stick to bows and throwing weapons. One more question! Which magic is exclusively for paladins? Is it death, holy or fire?
+Player: death
+Paladin Narai: No, death is quite the contrary of what we do. Our exclusive magic is holy! Okay, next question: What does a paladin need to spend some time on? Is it training the fishing or distance skill?
+Player: magic
+Paladin Narai: You think you need to train that? Well... naah. You're supposed to choose between distance and fishing!
+Player: fishing
+Paladin Narai: Well, fishing for compliments, maybe. Duh! Of course it's distance training, that's important! One last question for you, smartypants. As a paladin, what would you rather buy - arrows or blank runes?
+Player: runes
+Paladin Narai: Noooooo so close! There are some people for whom 50/50 chances aren't quite enough. <giggles> Anyway, that quiz was just for fun, so if you really like to be a paladin, I can turn you into one even if you sorta... failed. What do you think?
+Player: no
+Paladin Narai: Aww, really? I promise, being a paladin is really fun! Come back if you change your mind and in the meantime talk to Hykrion, Estrella and Yandur, too. Ask me for information anytime!
+Player: information -> short
+Paladin Narai: In short: Paladins use bows or throwing weapons to hunt their enemies from a distance. We can use some advanced magic like healing and holy spells, too, as well as runes. Cool, right?
+Player: no
+Paladin Narai: Anyway um... you just took the basic tour, but if you like, I could turn you into a paladin right away. What do you think, yes or no?
+Player: no
+Paladin Narai: Aww, really? I promise, being a paladin is really fun! Come back if you change your mind and in the meantime talk to Hykrion, Estrella and Yandur, too. Ask me for information anytime!
+Player: bye
+Paladin Narai: Seeeeee you Player and take care!

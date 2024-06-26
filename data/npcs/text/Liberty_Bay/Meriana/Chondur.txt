@@ -1,0 +1,90 @@
+Player: hi / hello  
+Chondur: Be greeted, child. What do you want in an old shaman's hut?  
+Player: banana  
+Chondur: A banana staff is the sign of a high ape magician.  
+Player: barrier / energy  
+Chondur: Ah, the energy barrier set up by the cult is maintained by lousy magic, but it's still effective. Without a proper counterspell, you won't be able to pass it.  
+Player: job / shaman  
+Chondur: I was chosen by the spirits of the ancestors to serve the people as healer and spiritual leader.  
+Player: counterspell / ritual  
+Chondur: Hm. I don't think you need another one of my counterspells to cross the barrier on Goroma.  
+Player: cult  
+Chondur: The cult is a mockery of true voodoo. They play with powers they don't even rudimentarily understand and some dark and sinister power is working behind the curtains. Some evil puppet master is misusing them for plans unknown to me.  
+Player: cure  
+Chondur: It's my part to cure the body and the spirit. Only the people can cure the land they inhabit.  
+Player: goroma  
+Chondur: One of the Forbidden Islands. No sane captain will agree to bring you there.  
+Player: governor  
+Chondur: The man is a captive of his orders and papers. He lacks to see the true world of spirituality.  
+Player: king  
+Chondur: The king is far away. Our myth are closer to us than any king in faraway Thais could ever be.  
+Player: loveless / theodore  
+Chondur: I sense no evil in this man. Actually I sense nothing in him. This man is hollow and has more of a machine than of a person.  
+Player: mission  
+Chondur: At last the curse was lifted.  
+Player: pirate  
+Chondur: You have to understand that there are two groups of people that are called pirates. One consists of evil thieves and murderers for whom the word pirate actually stands for. ...  
+Chondur: The others are resistance fighters for whom old ideals are hold true and that are the assertors of the native people.  
+Player: plantations  
+Chondur: In the past the plantations were in possession of free people who enjoyed their work. The workers were singing about the joy of live. Nowadays, their songs have turned melancholic.  
+Player: quara  
+Chondur: This race rose from slavery to a shadow of their former masters. The dark power that once ruled the ocean here was annihilated by some disaster and the quara used to be one of their serving races.  
+Player: Striker  
+Chondur: He is a venturous man with honour and ideals.  
+Player: rum  
+Chondur: The rum is the only thing left to give some comfort to the most desperate. And there are many of them these days.  
+Player: sugar  
+Chondur: The sugar belongs to the native people of the isles, not to greedy trade barons or oppressors.  
+Player: thais  
+Chondur: The people see the Thaian occupation like a crippling disease that befalls our isles. Some try to live with it, others are looking for a cure.  
+Player: trade  
+Chondur: Well, I currently buy mysterious and enigmatic voodoo skulls and a few other things I might need for my rituals.  
+Player: tribal mask  
+Chondur: Sometimes dworcs are seen with these masks.  
+Player: venore  
+Chondur: The tradesmen of Venore are tainted with greed. They have so little spirituality that their souls must be starving.  
+Player: magic currents  
+Chondur: Hm, well one could call it like this I guess. Magic is strong on these isles. Too strong for many to handle it safely.  
+Player: voodoo  
+Chondur: Together with the spirits of the ancestors, I seek for wisdom. Together we can change the flow of magic to do things that are beyond the limits of ordinary magic. ...  
+Chondur: In conversations with the spirits, I gain insight into secrets that would have been lost otherwise.  
+Player: Wyrmslicer  
+Chondur: Great anger leads to great danger. In his pride he is too blind to see the obvious truth. That makes him a dangerous man.  
+Player: secrets  
+Chondur: The spirits speak about a great battle on these isles. Cause for the conflict was the strong magic here. ...  
+Chondur: The peaceful dwellers, that used to live here in a magical paradise created by themselves, were attacked by a dark power from the depths of the ocean. ...  
+Chondur: The war destroyed both races and changed the flow of magic forever.  
+Player: dark power  
+Chondur: In the shadow of the depth, a strange and enigmatic race evolved. Using magic to the darkest purposes. ...  
+Chondur: What they lacked in understanding magic like the dwellers, they made up for in number and destructive determination.  
+Player: forever / disaster  
+Chondur: Yes, the ancestors hint that there has been some disaster in the past that disarranged the magic of the isles and destroyed whole civilisations.  
+Player: disarranged  
+Chondur: Hm, well one could call it like this I guess. Magic is strong on these isles. Too strong for many to handle it safely.  
+Player: civilisations  
+Chondur: The spirits tell about two powerful races that once called this area their home. They annihilated themselves in a war.  
+Player: spirits / ghosts  
+Chondur: Spirits are all around us and on these isles they are especially strong and numerous.  
+Player: isles  
+Chondur: These isles are a place of strong but secret magic. This magic is strong enough to devour the souls of the weak.  
+Player: magic  
+Chondur: Magic here is like a powerful and wild beast. You need all your strength to master it. If you fail, your punishment will be swift and hard. Voodoo gives me the power and wisdom necessary to handle those energies.  
+Player: ancestors  
+Chondur: The ancestors still have contact to the world of those alive. If you know how to talk to them, they can be wise guides and powerful friends.  
+Player: mermaid  
+Chondur: The mermaids are a possible offspring of one of the magical creatures that some ancient race once created here. ...  
+Chondur: They are vain and self-centred. Their magic is powerful and almost impossible to reverse once it is cast on some human. ...  
+Chondur: The only good thing is they quickly lose interest into their victims if something of slightly more interest comes up. ...  
+Chondur: If you are ever in trouble with a mermaid, look for a distraction.  
+Player: stake  
+Chondur: Would you like to receive a spiritual prayer to bless your stake?  
+Player: outfit / addon  
+Chondur: The time has come, my child. I sense great spiritual wisdom in you and I shall grant you a sign of your progress if you can fulfil my task.  
+Player: task  
+Chondur: Your task is to retrieve a mandrake from the Tiquandan jungle and 5 dworcish voodoo dolls.  
+Player: mandrake / doll  
+Chondur: Have you gathered the mandrake and the 5 voodoo dolls from the dworcs?  
+Player: no  
+Chondur: Well, it seems you aren't ready yet.  
+Player: bye / farewell  
+Chondur: Good bye.  

@@ -1,0 +1,52 @@
+Player: hi
+Zaidal: Hello Player and welcome to my furniture store.
+Player: name
+Zaidal: I am known as Zaidal.
+Player: job
+Zaidal: I am selling furniture, especially bamboo made furniture. I also buy elephant tusks to create my famous tusk tables and ivory chairs.
+Player: time
+Zaidal: Sorry, I have no idea.
+Player: tibia
+Zaidal: The world is a big treasure chest for those who know to turn resources into profit.
+Player: king
+Zaidal: Perhaps one day even the king will use our furniture.
+Player: jungle
+Zaidal: You call it a jungle, I call it furniture in the making.
+Player: apes
+Zaidal: They live in the depth of the jungle, and their only visits here are annoying raids to steal and plunder.
+Player: lizards
+Zaidal: I did not see much of the lizzards yet.
+Player: dworcs
+Zaidal: If we could get rid of them, a whole new area which is rich in bamboo would be ours.
+Player: thais
+Zaidal: One day I might visit Thais.
+Player: venore
+Zaidal: Well, Venore is the centre of commerce.
+Player: edron
+Zaidal: An isle with interesting forests. With the right organisation the furniture and shipbuilding business could prosper enormously.
+Player: carlin
+Zaidal: Carlin is very far to the north. I have never been there.
+Player: darama
+Zaidal: The jungle is rich in resources and who knows what profit lies hidden in the desert? Of course not for a carpenter, but there are other resources.
+Player: darashia
+Zaidal: People there seem to know little about the world of economy. Perhaps someone might teach them a lesson one day.
+Player: ankrahmun
+Zaidal: I was there only once, but I left it with the certainty that I never want to return there ever again.
+Player: kazordoon
+Zaidal: The dwarves of Kazordoon are experts in mining resources like gems and ore.
+Player: dwarves / dwarfs
+Zaidal: The dwarves of Kazordoon are experts in mining resources like gems and ore.
+Player: ab'dendriel / elfs / elves
+Zaidal: Those elves are a bit complicated when it comes to trees and environmental matters. They must learn that you have to crush an egg to bake a cake.
+Player: ferumbras
+Zaidal: If we could guide his attention in useful directions, he wouldn't be the problem he poses nowadays.
+Player: excalibug
+Zaidal: Even if it would exist, which I doubt, it would be only an extremely expensive weapon and nothing more.
+Player: offer / furniture / goods / do you sell / equipment / sell / buy
+Zaidal: If you'd like to see my offers in furniture, ask me for a trade.
+Player: trade
+Zaidal: Of course, just browse through my wares.
+Player: bye
+Zaidal: Good bye Player.
+Player: (vanish)
+Zaidal: Bye.

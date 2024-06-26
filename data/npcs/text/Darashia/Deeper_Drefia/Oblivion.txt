@@ -1,0 +1,34 @@
+Player: hi / hello  
+Oblivion: Be greeted.  
+Player: blood priest  
+Oblivion: Dogs at the lord's table.  
+Player: job  
+Oblivion: A guest at the doors.  
+Player: master  
+Oblivion: Travellers.  
+Player: name  
+Oblivion: All gone, all but Oblivion remains.  
+Player: necrom  
+Oblivion: Wine at the feast.  
+Player: priestess  
+Oblivion: Light through the lace of seasons.  
+Player: pupil  
+Oblivion: Leaves of a tree.  
+Player: shadow  
+Oblivion: Between two breaths.  
+Player: tibia  
+Oblivion: The eye of the gods.  
+Player: undead  
+Oblivion: The shadows know all between the doors.  
+Player: army  
+Oblivion: Drinking from a bloody cup.  
+Player: darkness  
+Oblivion: The gods exhale.  
+Player: grave  
+Oblivion: A soothing hand on sore eyes.  
+Player: king  
+Oblivion: A mountain casts a different shadow from an ocean.  
+Player: light  
+Oblivion: A thought in the house of souls.  
+Player: bye  
+Oblivion: Yes.  

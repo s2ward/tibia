@@ -1,0 +1,55 @@
+Player: hi
+A Runaway Goblin: No talk! Get new password from friend in mines! Then we talk!
+Player: hi (after quest)
+A Runaway Goblin: Ah, is hu-man again! Heh.
+Player: name
+A Runaway Goblin: Oh, kind hu-man asks for goblin name! But too dangerous, am sought goblin! Ogres must not know!
+Player: job
+A Runaway Goblin: Am, er, purveyor of things! Yes! Bring stuff where needed, discreetly-like! Heheh!
+Player: time
+A Runaway Goblin: Time for hu-man to go away? Yes indeed!
+Player: password
+A Runaway Goblin: <looks owlishly at you> Pass word of what, hu-man?
+Player: lost
+A Runaway Goblin: Huh! You think I born yesterday, hu-man? Go get new password!
+Player: lost (after quest)
+A Runaway Goblin: Me not care! You bother some other goblin, hu-man!
+Player: nibble
+A Runaway Goblin: Ahhh! You spoke to Golozo Taku Narkat Kash Bartak Har-Alhad! Him still alive, that good news!
+Player: exile
+A Runaway Goblin: Holy goblin, going about daaaaaangerous business. <winks>
+Player: runaway
+A Runaway Goblin: Yes! Not stay at ogre camp! Not wait to become tasty goblin soup, oh no! Not want to wipe hairy ogre backside, no no no!
+Player: imprisoned
+A Runaway Goblin: Garamor Avolok Tor-Mazak, him good goblin, but too much thinking and too little food!
+Player: Golozo Taku Narkat Kash Bartak Har-Alhad
+A Runaway Goblin: Please stop trying to say name correctly, hu-man. You no goblin.
+Player: Garamor Avolok Tor-Mazak
+A Runaway Goblin: Nice try, hu-man. But hu-man hear not all there is to hear. Need goblin ears!
+Player: Nemmo Tokrok Argkaz Ar-Vanda Ho'Memot
+A Runaway Goblin: Holy goblin, going about daaaaaangerous business. <winks>
+Player: larek
+A Runaway Goblin: Huh, hu-man who not know how to run. Too busy scribbling down things. Now has to make ogre cookies or become one himself!
+Player: vuzrog
+A Runaway Goblin: Big gobbler of sweet. Here free tip for you, hu-man. Throw cookie into air to keep him busy while flee! Heheh.
+Player: ghorza
+A Runaway Goblin: Shaman ogre? She no bother. Dancing around cactus tree, not see small goblin, heheh.
+Player: sugatrap
+A Runaway Goblin: Greatest goblin ever lived! Founded new era of goblinkind, golden age of democracy and philosophy! All gone now that ogres enslave and kill goblins, tragic.
+Player: hopgoblin
+A Runaway Goblin: Ah, classic goblin philosopher and great shaman to Frog God, great teller of funny and wise stories for goblin edification! ...
+A Runaway Goblin: He told riddle to ogre to confound, so many goblins could escape through tunnels! When ogre not know answer, got angry and bashed in hopgoblin's head, broke his staff! ...
+A Runaway Goblin: Saaaad day for goblinkind! Will not see likes of him again! <sniff>
+Player: swordfish
+A Runaway Goblin: Him fellow friend of Sugatrap! Him nimble, quick on feet and good swimmer, fastest runner of his time! Him scout for clan, him the one who fell over founding stone of goblin city! ...
+A Runaway Goblin: Him protector of city then and always, even in death! Him spirit conceal secret passages and make ground give way beneath heavy ogres, heheh! Proud to be of his kin I am!
+Player: goblin
+A Runaway Goblin: Very perspicacious hu-man!
+Player: ogre
+A Runaway Goblin: Urgh, ogre smell baaad! Like rotten rat cheese and dragon eggs! Terrible day for goblins when ogres found us! Slavery, sadness, sorrow!
+Player: quest / mission / weapon
+A Runaway Goblin: <puts finger to his lips>
+Player: lance / staff / crossbow
+A Runaway Goblin: Me not know anything!
+Player: bye
+A Runaway Goblin: Yes, please go!

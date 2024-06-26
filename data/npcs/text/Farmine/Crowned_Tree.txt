@@ -1,0 +1,31 @@
+Player: hi
+Crowned Tree: Hail, traveller. You are still living, aren't you?
+Player: (any)
+Crowned Tree: A jest! It is good to hear that you are alive indeed. I take it you aren't afraid?
+Player: (any)
+Crowned Tree: Your fear to answer truly tells me you feel detached from this world, safe. ...
+Crowned Tree: Fear is with all of us, driving us, yet ruining our lives all the same. Learn to control instead of ignoring it. If you truly are without fear, then abandon this path, there's naught to gain but death.
+Player: yes
+Crowned Tree: What with all the death around you, now a tree talking to you in your own tongue - aren't you afraid?
+Player: yes
+Crowned Tree: Yes, and there is much to fear. But you are strong and can control it. Key to victory in these dead plains is to avoid the great plague that has come to this land. ...
+Crowned Tree: The plants, animals, all the things you see and don't see are afflicted. Death spreads its wings and wants to carry all living things away and into his realm. But there is another difficulty. ...
+Crowned Tree: The warmth. T'is missing from this place now. Before you came here, I was the last breathing thing down here. This very spot graced by the last glimpse of our constant, fiery suns. My warmth, t'was the last sign of life. ...
+Crowned Tree: Alas for I am a tree, there is nothing I can do but share my warmth with you. What say you to this most generous offer?
+Player: no
+Crowned Tree: T'was a fair offer, you have made your choice. But I remain hopeful yet. Pray return here shall you ever change your mind.
+Player: yes
+Crowned Tree: For there is courage in you and a kind heart, take the warmth of the living and carry it like a torch, may it help you on your journey.
+Player: name
+Crowned Tree: There is no need for names in this realm anymore. Even if I would I tell you my name, you'd not neither able to fully understand nor pronounce it.
+Player: job
+Crowned Tree: Well, now... I'm a tree. So.
+Player: corruption / plague
+Crowned Tree: A great sorrow that befell this land a long time ago. What you see down here is the final stage of this corruption, spreading all over this continent. ...
+Crowned Tree: Its roots are in the core of the land, it thrives and threatens all living things. Ought to be the end of all but something can be done. Elsewhere it can still be fought and contained, alas, t'is not the place nor the time.
+Player: warmth
+Crowned Tree: At the core of everything that is life, there is warmth. Not even the suns can touch the furthest reaches of the deep sea, yet life can thrive in the darkest corner be there only warmth.
+Player: king
+Crowned Tree: No mortal kings in this realm.
+Player: bye
+Crowned Tree: Farewell, friend.

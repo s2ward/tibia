@@ -1,0 +1,16 @@
+Player: Hi  
+Rokyn: Ha, those lousy elves got what they deserved. All the robbed money has been returned to the bank. What can I do for you?  
+Player: Name  
+Rokyn: I'm Rokyn Pursesniffer, son of Fire and proud member of the Molten Rock fellowship.  
+Player: Job  
+Rokyn: I can change money for you and help you with your bank account.  
+Player: Offer  
+Rokyn: We can change money for you. You can also access your bank account or your guild account options.  
+Player: Bored  
+Rokyn: Okay okay, no need to be rude! It seems you are already know everything.  
+Player: Time  
+Rokyn: It's exactly 6:01 pm right now.  
+Player: Poem  
+Rokyn:  Can't you see I'm working?  
+Player: Farewell/Bye  
+Rokyn:  Good bye.  

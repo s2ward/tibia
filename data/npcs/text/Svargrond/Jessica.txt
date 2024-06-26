@@ -1,0 +1,91 @@
+Player: hi
+Jessica: Greetings stranger. Let me know if you want to trade gems or jewellery. I am also the local bank contact.
+Player: how are you
+Jessica: I am fine. Odd that you ask though ... I hope you are not up to something.
+Player: name
+Jessica: My name is Jessica
+Player: news
+Jessica: There are no news. I think that's quite suspicious
+Player: quest / mission
+Jessica: I don't have anything to do for you.
+Player: rumour
+Jessica: I heard the jarl opened a head hunt on the Venoreans. As this is a secret, you have to use the keyword blubber to gain his trust in that case. He promised 1000 gold for every dead Venorean hunter.
+Player: everspring
+Jessica: That's some afterlife myth of the locals.
+Player: raiders
+Jessica: Of course those raiders work for Venore. The only question is if they are aware of it or not.
+Player: barbarian
+Jessica: Those are simple people. Sadly, they have been influenced by others.
+Player: yeti
+Jessica: There are no yetis. That's just another story to draw off our attention from what is really happening.
+Player: bonelords
+Jessica: It's too cold for bonelords here.
+Player: chakoya
+Jessica: We have never ever seen one here. Instead of talking about far-off chakoyas, they should concentrate on REAL threats like the Venoreans.
+Player: elf
+Jessica: The elves are not interested in our problems at all.
+Player: dwarf
+Jessica: There is a mine but no dwarfs. What do they know what we don't, I ask you? I am convinced they know that Venore will make anyone suffer that is trying to claim these mines.
+Player: monster
+Jessica: There are enough monsters around to suit the taste of any adventurer. It's all too easy to forget the Venorean threat here.
+Player: enemies
+Jessica: Well, there is Venore and there are those who work for Venore. They SEEM to lack any interest in here but I know it better! The frightening thing is that we have no idea to what they are up this time.
+Player: svargrond
+Jessica: This wannabe city full of hardly civilised barbarians is a dangerous mixture. It takes little for the Venorean agents to cause havoc here.
+Player: thais
+Jessica: Thais is just a puppet of Venore without knowing it.
+Player: port hope / edron
+Jessica: All Thaian colonies are in the firm grip of the schemes of Venorean trade barons.
+Player: camps
+Jessica: I wonder what we'd find in the camps of those raiders. Some weapons and goods from far away Venore perhaps?
+Player: nibelor
+Jessica: Some mysterious isle which was hardly seen by any outsider. I wonder what's happening there in all that secrecy.
+Player: join
+Jessica: In an obscure ceremony, people might become honourary barbarians.
+Player: honourary
+Jessica: A questionable honour if you ask me. And I heard the test is quite dangerous too.
+Player: jarl / leader
+Jessica: The local chieftain does nothing to help us. It would be so easy for him to drive those other barbarians away from the mines. I suspect he was bribed to remain inactive by agents of Venore.
+Player: king
+Jessica: The king in Thais works for the Venorean trade barons. I can't imagine what sinister ideas they might implant into his mind right now.
+Player: queen
+Jessica: If only our queen would know, how the Venoreans are scheming her downfall.
+Player: druids
+Jessica: We had hardly any assistance from the druids here. I think that's more than suspicious ...
+Jessica: There might be some agent from Venore who has been infiltrated into their ranks. It is also possible that these treehuggers were bribed with a handful of acorns. Who knows!
+Player: shamans
+Jessica: I can't say that I trust these fellows.
+Player: cult
+Jessica: Spare me with that cult stories. This was no cult but some Venorean agents who were heading to their hired barbarians which had occupied our mines.
+Player: mines
+Jessica: How convenient for Venore that we lost control over the mines. And isn't it also convenient for Venore that Carlin seems to lack interest to recapture the mines. I'd say that smells like conspiracy.
+Player: chyll
+Jessica: That belongs to some superstitious belief of the locals.
+Player: years of the serpents
+Jessica: The sea serpents were surely the work of Venore. They are the only ones that are unscrupulous enough to execute such a plan. Their disappearance was just part of some conspiracy to lure us here for some reason ...
+Jessica: I am only wondering how the Venoreans managed to lure that many serpents to the north.
+Player: gods / zathroth / uman / banor
+Jessica: The gods only help those who help themselves.
+Player: ferumbras
+Jessica: There are enough heroes around to take care of those obvious threats.
+Player: excalibug
+Jessica: If that weapon existed, some greedy Venorean would have dug it up and sold it to the highest bidder.
+Player: offer
+Jessica: Well, I'm a bank clerk and also sell gems and goblets. If you'd like to see my offers, ask me for a trade. I can also tell you about the functions of this bank.
+Player: trade
+Jessica: Here, take a look.
+Player: goblets
+Jessica: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.
+Player: sell
+Jessica: I sell and buy gems and jewellery. I also serve as the local bank clerk.
+Player: gems
+Jessica: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.
+Player: jewel
+Jessica: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.
+Player: pearls
+Jessica: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.
+Player: talons
+Jessica: We don't trade with them.
+Player: bye
+Jessica: Good bye.
+Jessica: <SARCASTIC> AND GOOD BYE TO YOU TOO!

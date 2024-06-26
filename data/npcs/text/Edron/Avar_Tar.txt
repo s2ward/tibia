@@ -1,0 +1,65 @@
+NPC: Avar Tar  
+Player: hi  
+Avar Tar: Greetings, fellow traveller Norghin!  
+Player: army  
+Avar Tar: Wherever the army fails, a hero like me is needed.  
+Player: base  
+Avar Tar: In order to get the demon outfit, you have to prove yourself worthy, Norghin. Finish the annihilator quest and you will receive the demon base outfit.  
+Player: bonelord language  
+Avar Tar: 29639 46781! 9063376290 3222011 677 80322429 67538 14805394, 6880326 677 63378129 337011 72683 149630 4378! 453 639 578300 986372 2953639! I know it's rather short, but still, this poem I like best.  
+Player: carlin  
+Avar Tar: I saved the women there once or twice.  
+Player: demon  
+Avar Tar: Demons know and fear my name! It's not always easy to be a hero, you know?  
+Player: excalibug  
+Avar Tar: I am sure it's hidden in a vault of the Nightmare Knights beneath the Plains of Havoc. I'm planning an expedition to go there and to rout out the Ruthless Seven, but I have to save the world first.  
+Player: falcon  
+Avar Tar: The Order of the Falcon, a quest for true chivalric virtues indeed! Unfortunately the order has all but disappeared long before my time. ...  
+Avar Tar: Their stronghold is still intact, however, just head north from Edron. But be careful, something is not right with the place.  
+Player: Ferumbras  
+Avar Tar: I fought him several times, sometimes he killed me, sometimes I killed him. I'd say we are even right now, but I'm getting better and more powerful each day.  
+Player: helmet  
+Avar Tar: In order to get the helmet of the demon outfit, you have to prove yourself worthy, Norghin. Finish the demon oak quest and you will receive the demon outfit's helmet.  
+Player: hero  
+Avar Tar: I think I'm the greatest hero in Tibia, but my humility forbids me to make an issue out of it.  
+Player: job / traveller  
+Avar Tar: I'm a professional hero.  
+Player: king / Tibianus  
+Avar Tar: I'm on a quest for the Thaian king ... as usual.  
+Player: magic  
+Avar Tar: I had to master the magic of all 4 vocations for one of the quests.  
+Player: name  
+Avar Tar: I'm Avar Tar, slayer of monsters, saviour of princesses, and defender of the weak.  
+Player: news / rumors / rumours  
+Avar Tar: There is a great evil lurking beneath this isle ... and beneath the Plains of Havoc, and in the ancient necropolis, and beneath the Ghostlands ... well, basically everywhere.  
+Player: orshabaal  
+Avar Tar: Don't be afraid! As long as I stand guard here, the beast won't reach the town!  
+Player: outfit  
+Avar Tar: I'm tired of all these young unskilled wannabe heroes. Every Tibian can show his skills or actions by wearing a special outfit. To prove oneself worthy of the demon outfit, this is how it goes: ...  
+Avar Tar: The base outfit will be granted for completing the annihilator quest, which isn't much of a challenge nowadays, in my opinion. Anyway ...  
+Avar Tar: The shield however will only be granted to those adventurers who have finished the demon helmet quest. ...  
+Avar Tar: Well, the helmet is for those who really are tenacious and have hunted down all 6666 demons and finished the demon oak as well. ...  
+Avar Tar: Are you interested?  
+Player: no  
+Avar Tar: I tire of you little pranksters trying to waste my time.  
+Player: quest  
+Avar Tar: I'm so tired of quests. I solved them all, most of them several times!  
+Player: Rookgaard  
+Avar Tar: Rookgaard is full of memories of my first heroic accomplishments ...  
+Avar Tar: I heard that after all these years, the minotaur mage there refuses to leave his room as he is still afraid of me.  
+Player: ruthless seven  
+Avar Tar: Oh, come on. Let the noobs take care of them. Call me if they are fourteen or so.  
+Player: shield  
+Avar Tar: In order to get the shield of the demon outfit, you have to prove yourself worthy, Norghin. Finish the demon helmet quest and you will receive the shield.  
+Player: Sword of Fury  
+Avar Tar: Ah, my trusty old sword. I left it on Rookgaard years ago when I left for the main continent.  
+Player: thais  
+Avar Tar: If I had time, I would restore peace in this once proud city, but there's too much to do before I can start that quest.  
+Player: tibia  
+Avar Tar: I've seen it all and done it all ... at least twice.  
+Player: time  
+Avar Tar: It's 12:00 am right now.  
+Player: Triangle of Terror  
+Avar Tar: They might be a nice way for weaker heroes to prove their skill.  
+Player: bye  
+Avar Tar: See you later, Norghin.  

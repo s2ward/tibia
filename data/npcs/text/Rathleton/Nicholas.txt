@@ -1,0 +1,66 @@
+Nicholas: Hand-crafted timeless design from the very best in Rathleton!
+Nicholas: The newest items from Venore! Finest tapestries, lamps and clocks!
+Player: hi
+Nicholas: Welcome to my shop, Simula! Ask me for a trade if you want to purchase some of my exquisite wares.
+Player: name
+Nicholas: Nicholas Cavendish, a pleasure to meet you.
+Player: job
+Nicholas: Furniture is my calling! I import only the finest items, and I myself design modern furniture and have it constructed by our local craftsmen. And this is my little atélier. Look around and ask me for a trade if something catches your eye.
+Player: time
+Nicholas: It is 12:11 pm. See that fine pendulum clock? It came here only yesterday, the newest design from Venore!
+Player: offer
+Nicholas: I'd be happy to! Ask me for a trade if you're interested in a certain piece.
+Player: trade
+Nicholas: Have a look!
+Player: king
+Nicholas: What, one man alone? This would never do here! I think it's some centuries since we had that old-fashioned concept on Oramond.
+Player: queen
+Nicholas: Actually, I believe we started out with a queen, a long time ago. She used to be a ...princess, is that it? I am sorry, you will have to ask our historian for details. My thoughts are all for the present time!
+Player: magistrate
+Nicholas: Ah, yes. The magistrate runs things here. You don't have one, you said? Interesting! How can you possibly run your home town affairs?!
+Player: alaistar
+Nicholas: Always out and about, studying a plant, a minotaur or other. Though nowadays he's more frequently in his Potion lab than he used to be. He's actually bought a nice piece of Venorean carpet from me, quite recently.
+Player: azalea
+Nicholas: Ah, she rears beautiful plants to adorn your rooms! Her flowers really show to advantage on my new design, you know.
+Player: christine
+Nicholas: Young Miss D'Albay? Doesn't she take lessons with Madame Fayla upstairs? I think I remember seeing her passing by sometimes when I was busy designing.
+Player: fayla
+Nicholas: The music doesn' bother me, in fact, I find it inspiring! Just yesterday, there was a kind of soirée where there was a most interesting piece of music, can't remember the tune right now, but it certainly helped me concentrating on a very difficult design!
+Player: flint
+Nicholas: The blacksmith? The ladies find him romantic, I don't know why. Something to do with his tragic past. Now, what's really romantic is my newest idea for a tapestry - you will be delighted once I've finished, I swear!
+Player: fyodor
+Nicholas: Don't see much of him here. Doesn't seem to be interested in interior design. Well, I suppose there must be such people as well. <shrugs>
+Player: graham
+Nicholas: Not the man to buy modern design, but I am sure his mother would appreciate a little freshing-up of her aparments in the old barbican!
+Player: mordecai
+Nicholas: Ugh, those stains on his old carpet! Really, it was a mercy he let me make a few changes in his store, it was more like a cave than a workshop! ...
+Nicholas: A little parquet here, a new carpet there, and voilà! Everything's alright again. Never tasted one of his runes he baked, though... oh, those aren't for eating? You don't say!
+Player: zeronex
+Nicholas: Don't mention that name! That foolish professor has almost blown up the entire guild of alchemists with his weird tries, and ruined some of my best dyes with his experimenting! ...
+Nicholas: I had paid him handsomely for his expertise in watertight colouring and bleaching, and then he went and ruined my entire summer collection on some scientific whim! ...
+Nicholas: My only solace is that the magistrate got weary of his inefficient experimenting and denied him access to his labs and workstations. At last we're safe from gas explosions, ruined houses and burnt skin!
+Player: virgil
+Nicholas: Ah, now there is a man who appreciates good interior design! Lady Carefew is one of my loyal customers, a lady with excellent taste!
+Player: maro
+Nicholas: I must say, his superhuman strength is certainly a help with the more robust pieces of furniture. He lends me a hand or a tool sometimes. Not a bad person at all, for a minotaur.
+Player: venore
+Nicholas: A fascinating city, they have a very interesting design! And in some respects, not so unlike our own city. ...
+Nicholas: But nothing can be compared to Rathleton and our inventions are the newest word anywhere! This is the city of crafts and arts!
+Player: Rathleton
+Nicholas: Our splendid city. Have you ever seen anything like it? Of course you haven't.
+Player: oramond
+Nicholas: Our island's name is of course not yet much known to outlanders, but wait till our new furniture design reaches your lands! It will be on everyone's lips!
+Player: city
+Nicholas: I bet you are quite impressed, are you not? And why wouldn't you be! This is the city of arts, the city of inventions!
+Player: news
+Nicholas: Ah, the newest design trends? Oh, you meant other news? I'm sorry, you'll have to ask Fyodor for that, he's always up to date on, er, more worldly areas of interest.
+Player: minotaur
+Nicholas: Those creatures attacking us all the time? I wonder, do they want that toolmaker mino back, is that the reason for their onslaught? Oh, well. <shrugs> Maybe they just don't like us.
+Player: maxxen
+Nicholas: I think he was in the magistrate once.
+Player: captain caveworm
+Nicholas: My father was a great Captain Caveworm fan as a boy.
+Player: airtight cloth
+Nicholas: A great idea, this airtight cloth! I have already made some lovely sewing patterns, I just have to decide on which one to sew first!
+Player: bye
+Nicholas: Enjoy your day, Player.

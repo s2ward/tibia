@@ -1,0 +1,130 @@
+Player: hi  
+Guide Elena: Welcome to Venore, Player! Would you like some information and a map guide?  
+Player: information  
+Guide Elena: Currently, I can tell you all about the town, its temple, the bank, shops - well, warehouses - spell trainers and the depot, as well as about the adventurer's guild, hunting grounds, quests and the world status.  
+Player: town  
+Guide Elena: This trading city has been built directly over a swamp and basically stands on stone pillars. We have many large warehouses here. To speak of 'shops' would be an understatement.  
+Player: shops / centre  
+Guide Elena: You can buy almost everything here! Visit one of our warehouses for weapons, armors, magical equipment, spells, gems, tools, furniture and everything else you can imagine.  
+Player: temple  
+Guide Elena: The temple is pretty much in the middle of Venore. If you go south from this harbour, you can't miss it.  
+Player: warehouses  
+Guide Elena: The warehouses are Crunor's Finest, The Ironhouse, The Magic Bazar, Dress for Success, Plank and Treasurechest, Useful Things and the House of Wealth.  
+Player: spell trainers  
+Guide Elena: You can buy spells from Chatterbone in The Magic Bazar. Walk south and slightly east from this harbour to reach it, or let me mark it on your map.  
+Player: depot  
+Guide Elena: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.  
+Player: adventurer's guild  
+Guide Elena: The Adventurer's Guild provides help and information for young adventurers such as you. You should really visit their base as soon as possible to get known to them. Just use your adventurer's stone in the local temple to visit their base. ...  
+Guide Elena: If you have lost your adventurer's stone due to stup ... umm, some freak accident you can get a new one by talking to the local priest about it.  
+Player: weapons / armors / ammunition  
+Guide Elena: You can buy weapons, armor and ammunition in The Ironhouse. It is in the south-western part of this city. I can mark it on your map if you want.  
+Player: magical / magic / rune / potion  
+Guide Elena: Magical equipment like runes and potions as well as sorcerer and druid spells can be bought in The Magic Bazar. Walk south and slightly east from this harbour to reach it, or let me mark it on your map.  
+Player: The Magic Bazar  
+Guide Elena: The Magic Bazar of Vladruc Urghain is a good address for magic-related things such as runes, potions and spells. I can mark it on your map if you like.  
+Player: mark /map  
+Guide Elena: Would you like me to mark locations like the warehouses, temple and depot on your map?  
+Player: yes  
+Guide Elena: Here you go.  
+Player: The Ironhouse  
+Guide Elena: The warehouse of Abran Ironeye is specialised in equipment made of metal and steel, like weapons and armors. I can mark it on your map if you like.  
+Player: Crunor's Finest  
+Guide Elena: The warehouse of Talesia De'Mir is specialised in everything nature offers us, such as fruits and flowers. I can mark it on your map if you like.  
+Player: Dress for Success  
+Guide Elena: This is a warehouse specialised in clothing. Hugo Chief, its owner, calls it 'wearhouse'. They know everything about outfits there. I can mark it on your map if you like.  
+Player: Plank and Treasurechest  
+Guide Elena: This warehouse belongs to Alan Richardson and is specialised in furniture. Go there if you'd like to decorate your new house. I can mark it on your map if you like.  
+Player: Useful Things  
+Guide Elena: Well, the name says it all. You can buy all sorts of useful things in in Leeland Slim's warehouse, such as shovels and ropes. I can mark it on your map if you like.  
+Player: House of Wealth  
+Guide Elena: This is where the bank and gem stores can be found. I can mark it on your map if you like.  
+Player: bank / gem  
+Guide Elena: The bank as well as jewel stores can be found in the House of Wealth, in the north-eastern part of Venore. I can mark it on your map if you want.  
+Player: hunting grounds  
+Guide Elena: There are several hunting grounds around Venore. If you are new to hunting in Venore, why not try the dungeon directly east of the southern gate? ...  
+Guide Elena: If you are already familiar with hunting, check out the rat dungeon in the swamp, far east of the central production site. ...  
+Guide Elena: If you are an advanced hunter, head on to the western gate and search for the plains of havoc where you can find thrilling challenges. Happy hunting!  
+Player: quests  
+Guide Elena: Well, you will find quests and tasks in the swamp in and around Venore. Just explore carefully. ...  
+Guide Elena: Why not visit the Adventurer's Guild and head on to Eclesius, he might have some missions for you. Boozer above the depot might also have a mission for you. ...  
+Guide Elena: Or you explore the swamp a bit where you should find a orc camp, Shadowthorn an outpost of some elves or you search for Norman the Foreman at the central production site. He offers jobs.  
+Player: Eclesius  
+Guide Elena: You might consider working for the wizard Eclesius who asked us for some talented help. He created a magic portal on the beach in front of our headquarter. USE it to instantly travel to his homestead.  
+Player: Boozer  
+Guide Elena: Boozer is the bartender here at the racing track tavern and offers food and drinks. It is said he also has a mission to complete.  
+Player: missions  
+Guide Elena: Sorry, but right now you already received one or more blessings. In order to start this mission you shouldn't have received one. Please return if this is the case. Farewell.  
+Player: tasks  
+Guide Elena: If you want to make yourself useful, visit Norman the Foreman at the central production site, he might have a job for you. Head to the 'Exit Production Site' on your mini map to find him in the swamp. ...  
+Guide Elena: Rumour has it there's a strange goblin in the swamp, believing himself to be a merchant. He might have errands for you, who knows.  
+Player: Norman the Foreman  
+Guide Elena: You will find him in the swamp. Leave Venore through the 'Exit Production Sites' marker on your minimap and you are quite close to him. He offers jobs.  
+Player: orc camp  
+Guide Elena: There are rumours that an orc shaman hides some treasure somewhere in the swamp east of Venore.  
+Player: Shadowthorn  
+Guide Elena: Some elves turned evil, so to say. They now live in a small village to the south called Shadowthorn. No big deal. Who cares about some carrot-eating musicians after all?  
+Player: tools  
+Guide Elena: General goods like ropes and shovels can be bought in the warehouse called Useful Things, in the western part of this city. I can mark it on your map if you want.  
+Player: furniture  
+Guide Elena: You best buy furniture in the Plank and Treasurechest market. It is in the north-eastern part of Venore, close to the House of Wealth. I can mark it on your map.  
+Player: Plank and Treasurechest  
+Guide Elena: This warehouse belongs to Alan Richardson and is specialised in furniture. Go there if you'd like to decorate your new house. I can mark it on your map if you like.  
+Player: job  
+Guide Elena: I will help you find your way in the buzzing city of Venore. I can mark important locations on your map and give you some information about the town and the world status.  
+Player: name  
+Guide Elena: I'm Elena, sweetheart. I love your name, Player.  
+Player: world / status  
+Guide Elena: If you'd like to know the status of this world just say the keyword for a world change.  
+Player: keyword / change  
+Guide Elena: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.  
+Player: Horestis  
+Guide Elena: Horestis near Ankrahmun is slumbering in his tomb. I wouldn't disrupt his sleep if I were you - this might be better for us all. Seriously.  
+Player: Mage Tower  
+Guide Elena: The raging mage is currently in his tower in Zao and experimenting with the portal into another dimension.  
+Player: Master's Voice  
+Guide Elena: The strange tower with the servants on Edron is covered in slime.  
+Player: Swamp Fever  
+Guide Elena: The swamp fever in Venore is currently under control and there is enough medicine for everyone.  
+Player: Thornfire  
+Guide Elena: Shadowthorn burns, and the followers of the bog with it!  
+Player: Twisted Waters  
+Guide Elena: The great lake near Port Hope is clean.  
+Player: Awash  
+Guide Elena: The water in the mine tunnels under Kazordoon is drained and enough deeplings have been killed today to ensure it remains that way.  
+Player: Steamship  
+Guide Elena: The steamship from Thais to Kazordoon is currently not running - coal is needed to activate the service once again.  
+Player: Horses  
+Guide Elena: Horses are on the loose near Thais! As long as there haven't been enough horses chased back into the pen, the service is on hold.  
+Player: Overhunting  
+Guide Elena: There are white deer roaming the region near Ab'Dendriel. Don't slay too many of them, or they will leave the region.  
+Player: Demon War  
+Guide Elena: The demon war is in a stalemate once again.  
+Player: Sea Serpent  
+Guide Elena: The Fire-Feathered Serpent dreams and the earth is bleeding lava.  
+Player: Deepling  
+Guide Elena: The inner arcanum of the deep has been breached. Now nothing can stop the assault on Qjell's dark guardians. ...  
+Guide Elena: 81 actions against the Deeplings have been taken. It is impossible to hold this position any longer, however.  
+Player: Hive  
+Guide Elena: The hives defences have fallen. Its armies are confused and in shambles. All structures are open for invaders. ...  
+Guide Elena: 84 actions have been taken against the Hive Born. It is impossible to hold this position any longer, however.  
+Player: spells  
+Guide Elena: You can buy spells from Chatterbone in The Magic Bazar. Walk south and slightly east from this harbour to reach it, or let me mark it on your map.  
+Player: blessing  
+Guide Elena: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.  
+Player: venore  
+Guide Elena: This trading city has been built directly over a swamp and basically stands on stone pillars. We have many large warehouses here. To speak of 'shops' would be an understatement.  
+Player: buy / sell / stuff / ware / trade  
+Guide Elena: I'm not buying or selling anything, but I could tell you about the shops - or rather the warehouses - in town.  
+Player: escort  
+Guide Elena: This service is only for newcomers below level 10. I think you can manage the way on your own! If you need marks on your map, let me know.  
+Player: harbour  
+Guide Elena: That's where we are standing right now. You can travel between the Tibian settlements using this ship if you have a premium account, that is.  
+Player: post  
+Guide Elena: The post office is right in the depot. Dove will assist you with everything you need concerning mail.  
+Player: time  
+Guide Elena: It's 1:53 am right now. Which other information do you require?  
+Player: random word  
+Guide Elena: Sorry, I don't have anything to tell you about this topic.  
+Player: bye / farewell  
+Guide Elena: Good bye and enjoy your stay in Venore, Player.  

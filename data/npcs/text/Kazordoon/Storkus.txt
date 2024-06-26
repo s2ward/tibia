@@ -1,0 +1,31 @@
+Player: hi
+Storkus: Greetings, Simula! Good you're showing up.
+Player: name
+Storkus: My name is Storkus Dustmaker, son of Fire from the Savage Axes.
+Player: job
+Storkus: I used to be a carpenter, but that was ages ago. Now I'm a vampire hunter.
+Player: vampire hunter
+Storkus: Yeah, that's my profession. If ye' want to learn more about it, ye will have to get some field experience. Nothing I could tell ye' would prepare ye' for the real thing.
+Player: julius
+Storkus: Yeah, I know him. Ol' buddy of mine.
+Player: poem
+Storkus: I'm not in the mood to recite poems.
+Player: inquisition
+Storkus: As long as they're helpful, I'm not asking questions, ye' know?
+Player: henricus
+Storkus: He is the current head of the inquisition. The third or fourth I had to work with since I 'opened business' so to speak.
+Player: showing up
+Storkus: I guess you are here on a mission?
+Player: mission
+Storkus: Ye' finished your job here. I already told ye' about the master vampires and their tokens, eh? Bring those tokens to me.
+Player: tokens
+Storkus: Would ye' like to give me vampire tokens?
+Player: yes
+Storkus: To promote ye' to the first vampire hunter rank I need one token from ye' - which ye' don't have right now.
+Player: tokens
+Storkus: Would ye' like to give me vampire tokens?
+Player: no
+Storkus: Another time maybe.
+Player: bye
+Storkus: Good bye, Simula!
+Storkus: Bye!

@@ -1,0 +1,34 @@
+Player: hi  
+Iyad: Finally! A c...c...customer! Wh... where do you want to f...f...fly?  
+Player: job  
+Iyad: I'm a licensed c...carpet pilot. I can transport you t...to a warm p...place.  
+Player: fly  
+Iyad: I t...transport travellers to the continent of Darama for a small fee. It's w...warm there.  
+Player: transport / passage / ride  
+Iyad: I can fly you to Darashia, to Edron, to Kazordoon, to Z... Zao, to the F...Femor Hills or to Issavi if you like. W....Where do you want to go?  
+Player: name  
+Iyad: I'm k...known as Iyad Ibn Abdul.  
+Player: ferumbras  
+Iyad: The thought of s...some mad sorcerer unleashing some f...fire magic is very tempting.  
+Player: carlin  
+Iyad: S...so close and s...still that far away.  
+Player: thais  
+Iyad: For all its m...mistakes, Thais is warm at least.  
+Player: go  
+Iyad: I can fly you to Darashia, to Edron, to Kazordoon, to the F...Femor Hills or to Issavi if you like. W....Where do you want to go?  
+Player: excalibug  
+Iyad: I would t...trade it for some firewood.  
+Player: continent  
+Iyad: This h...here is no continent. This is h...hell.  
+Player: drefia  
+Iyad: Even D...Drefia can't be worse than this land.  
+Player: news  
+Iyad: I d...don't care about any n...news unless it's the announcement of a h....heatwave.  
+Player: time  
+Iyad: It's p...probably the ice age.  
+Player: trade  
+Iyad: Th...there, in case you have earmuffs, I pay w...well!  
+Player: earmuffs  
+Iyad: Do you really have earmuffs f...for me?? If so, just ask me for a trade!  
+Player: bye  
+Iyad: D...Daraman's blessings... oh, how I m...miss my warm Darashia...  

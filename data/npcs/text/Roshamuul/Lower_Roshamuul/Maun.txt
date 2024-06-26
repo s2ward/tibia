@@ -1,0 +1,34 @@
+Player: hi
+Maun: Yes? Here to trade? I may have just the supplies you're looking for.
+Player: roshamuul
+Maun: The very place we are stuck in right now. It's dark, it's wretched. Gods protect us. So, are you here to trade or what? I got supplies, runes, potions and ammunition.
+Player: trade
+Maun: Alright, there you go. All the tools and supplies you will need on this dark island.
+Player: supplies
+Maun: Alright, there you go. All the tools you will need on this dark island.
+Player: ammunition
+Maun: Alright, there you go. Stock up your ammunition.
+Player: runes
+Maun: Alright, there you go. All the runes I got.
+Player: isles
+Maun: I guess we have not even seen half the horrors lying in wait for us here. Be prepared for the worst and may faith be your shield.
+Player: bucket
+Maun: Well, somehow our harbourmaster who was in charge of the supplies for our trip, did not manage to pack the right... things. ...
+Maun: We are stuck on a lot of buckets, tools and some, well, mouthpieces for some musical instrument, I guess horns or trumpets or something. Go figure.
+Player: gods
+Maun: Gods be praised. They are our armour and shield, sustainance and shelter. In their light and wisdom we thrive.
+Player: book
+Maun: What good are books for anyway? If it's not already in the holy scriptures, it's probably heresy and should not be read at all. If it is already in the holy scriptures, we wouldn't need to have another book about it.
+Player: demon
+Maun: Demons are thankfully easy enemies to spot. A far greater danger though, is the demon in your chest that eats your heart. ...
+Maun: Fear, doubt, selfishness are the enemies that you should truly fear. A demon can only torture and kill your body - those feelings, however, they will destroy your very soul.
+Player: dream
+Maun: Neither demon nor dreams will shake my will.
+Player: nightmare
+Maun: The nightmares are only a desperate measure to sever us from divine guidance. Pray, be true in your believes and no nightmare will frighten you.
+Player: henricus
+Maun: A great man, surely blessed by the gods. And it is our blessing to have him amongst us.
+Player: inquisition
+Maun: The inquisition is an old and traditional organisation, pre-dating even mankind itself. We owe it to those that came before us to give our best in honour of their memory. 
+Player: bye
+Maun: Yes, yes. Of course.

@@ -1,0 +1,57 @@
+Player: hi / hello  
+Muhad: Welcome back, my friend Player. What brings you here?  
+Player: ankrahmun  
+Muhad: We will fight that city until we get back what belongs to us.  
+Player: arena  
+Muhad: We don't fight ourselves. The young sons have to struggle with a rotworm barehanded to prove their spirit of the desert. In fact nobody will get harmed in that test. If the child is too weak, we interfere - also the worm does never get killed.  
+Player: arito  
+Muhad: I don't know how something like this could ever be possible. He met a girl from Ankrahmun and she must have twisted his head. Arito started to tell stories about the Pharaoh and about Ankrahmun. ...  
+Muhad: In the wink of an eye he left us and was never seen again. I think he feared revenge for leaving us - which partially was not without reason. Now that I talked to my people, he should be safe.  
+Player: army  
+Muhad: Our army is small but strong. If anybody wants to harm us, we will stand and fight until we win or the last true son enters Daraman's realm.  
+Player: buy / offer  
+Muhad: We have nothing that would be of value for you.  
+Player: city / carlin / thais  
+Muhad: I would go crazy living in a cage like that.  
+Player: darama  
+Muhad: This is our home - the land of the desert.  
+Player: darashia  
+Muhad: We avoid these places you call cities.  
+Player: excalibug  
+Muhad: Is that a weapon? We only use scimitars.  
+Player: ferumbras  
+Muhad: I am surprised you know about him! There is an old story that is told from generation to generation in order to prepare us for the hardest challenge the true sons have to face. I hope it will never happen.  
+Player: food  
+Muhad: The sea is west of here. Go fishing if you are hungry.  
+Player: job / here  
+Muhad: I am the leader of the true sons of Daraman.  
+Player: king  
+Muhad: If someone claims to be our king, he should come here and tell us personally.  
+Player: king tibianus  
+Muhad: Never heard of him.  
+Player: list  
+Muhad: Well, it is not like a 'death list' more a list of people we try to convince not to.......er......ahhh, you are right, it is a death list!  
+Player: mission / quest / casket  
+Muhad: Trying to get the reward twice, huh? I don't blame you for that but I wouldn't be in charge here if I were tricked that easily.  
+Player: name  
+Muhad: My whole name is Muhad ib Lisan al-Gaib. But my people call me simply Muhad.  
+Player: news  
+Muhad: Well, YOU are the news. The desert had told us about a foreigner who would come.  
+Player: pharaoh / arkhothep  
+Muhad: We follow our own rules. We don't need the Pharaoh to tell us what to do.  
+Player: rumours  
+Muhad: There have been many rumours about YOU in the past few days. The sons of the desert were curious about who you are and why you would come here.  
+Player: temple  
+Muhad: We don't need a special place to pray. You can see Daraman's work everywhere in the desert. It reminds us to thank him for everything he has done.  
+Player: tibia  
+Muhad: We have no interest in other regions. Our land is Darama - the desert.  
+Player: time  
+Muhad: Time is of no importance for us.  
+Player: undead / undeath  
+Muhad: That is the curse for not following the rules of the desert. No son of the desert has ever come back from the dead.  
+Player: women / children  
+Muhad: You have only seen the surface of our realm. The womenfolk and our children are at a safe place. Don't worry about them.  
+Player: bye  
+Muhad: Please use the back entrance so you don't get in trouble with my people.  
+Player: farewell  
+Muhad: May Daraman be with you on your travels.  

@@ -1,0 +1,17 @@
+Player: hi
+Brodraem Orcbeard: Welcome! What a tragedy! My business was doing well but now these unexpected incidents queered my pitch.
+Player: name
+Brodraem Orcbeard: My name is Brodraem Orcbeard.
+Player: job
+Brodraem Orcbeard: I am the grave digger of the recently opened Kazordoon crypt. This should be a place to keep a worthy memory to all deceased inhabitants of this town.
+Player: business
+Brodraem Orcbeard: Well, I have to make the coffins and sarcophagi my customers want. Their wishes can be very different and sometimes impossible.
+Player: incidents
+Brodraem Orcbeard: First I thought it would be enough to clean the sarcophagi more often. But then some of the floor tiles broke and some columns crumbled. ...
+Brodraem Orcbeard: I had so much to do that I had to stop my business. You want me to hire you for investigating the crypt?
+Player: no
+Brodraem Orcbeard: It is your decision. Come back if you have changed your mind. Otherwise I have to find someone else. (idle)
+Player: bye
+Brodraem Orcbeard: Keep up your good work, Player.
+Player: (vanish)
+Brodraem Orcbeard: Take care!

@@ -1,0 +1,17 @@
+Player: hi
+Emael: Hello! Ever asked yourself who killed all the monsters for the wall trophies? Yeah, that was me, Emael the Beasthunter! I am an expert in displaying trophies. ...
+Emael: So if you have at least some dangerous monster to show off I strongly advise you to aquire a podium of vigour.
+Player: name
+Emael: My name is Emael.
+Player: job
+Emael: My job is to showcase the trophies of slain monsters as aesthetical as possible. You can admire my work here in the Adventurers' Guild.
+Player: podium
+Emael: Do you want to appropriately show off your boss trophies and buy an additional podium of vigour for 1000000 Gold?
+Player: yes
+Emael: Ah, I see you killed a lot of dangerous creatures. Here's your podium of vigour!
+Player: podium
+Emael: Do you want to appropriately show off your boss trophies and buy an additional podium of vigour for 1000000 Gold?
+Player: no
+Emael: Blessings on your hunts!
+Player: bye
+Emael: I wish you a good hunt. Goodbye!

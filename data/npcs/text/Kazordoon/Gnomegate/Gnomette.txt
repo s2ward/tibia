@@ -1,0 +1,59 @@
+Gnomette: Laaa Laaa LaLa Laa Laaa! 
+Gnomette: Always busy. So much to be done!
+Player: hi
+Gnomette: Ah, another visitor about to enjoy the marvels of gnomish ingenuity. Hello and welcome to the GCTS!
+Player: GCTS
+Gnomette: It is the amazing gnomish crystal teleport system! And I of course am here to help our new recruits! You can also ask me for a trade if you are in need of teleport crystals for the GCTS.
+Player: crystal
+Gnomette: Crystals resonate at a certain frequency. If two crystals share the exact frequency they are bound to each other. They share not only the frequency but also other properties, ...
+Gnomette: foremost the same place in time and space, although this might seem physically impossible to an ungnomish mind. If a user now steps on our teleport platforms and has been harmonized with the teleporter in question once, ...
+Gnomette: then he will harmonize with the teleporter's frequency and seemingly allow him to travel from one crystal platform to its corresponding counterpart. ...
+Gnomette: Understood? Of course you have! After all it was explained to you by a gnome!!! This gnome happens to be me by the way, just in case you didn't notice!
+Player: recruits
+Gnomette: So are you here to become a recruit?
+Player: yes
+Gnomette: Excellent! I am so excited about all you big people who want to join. So you can now proceed to the recruitment office that is downstairs and that I marked on your map. But you probably need to know what this all is about first!
+Player: no
+Gnomette: I hope you'll rethink this decision. Or are you already a recruit? Oh, either way, you are probably not overly interested what this is all about first.
+Player: about
+Gnomette: So where to begin? Oh, I know! I am a gnome! And I am not the only one! Don't panic though, we are peaceful, I promise! Of course if I'd be evil then I'd say just the same. Oh boy, we have quite a dilemma here! ...
+Gnomette: But let us assume that I am not evil, that is, of course I am not evil, what I mean is give me the benefit of the doubt. ...
+Gnomette: So we are the gnomes! And we are good people! Which is quite obvious since we are small. We live underground and usually mind our own gnomish business. ...
+Gnomette: Which is mostly about crystals and mushrooms, but that is probably not of interest for you now. Well, we are peaceful as I said, but not all underground dwellers are that peaceful, you know? ...
+Gnomette: We handled most of them with our own resources, but recently an old, faceless enemy regained power and the threat it poses has stretched our resources so thin ...
+Gnomette: that even things that we usually handle on a casual basis now pose a serious problem. This is where you come into play. Well that is if you become a bigfoot.
+Player: bigfoot
+Gnomette: The Bigfoot company is a troop we are assembling. It is supposed to help us in our efforts to fight the threats to gnomekind.
+Player: company
+Gnomette: Well, yes. We figured that you might need some human contact person. To be honest, you big ones are a bit weird sometimes and a human can handle other humans a bit better than we could. ...
+Gnomette: So there is Commander Stone, he is the highest ranking bigfoot and he will be your contact person later on.
+Player: threat
+Gnomette: The underground is a dangerous place even in the best of times. These are not remotely the best of times though. ...
+Gnomette: We fight an enormous threat that we call those below and this war drains all our resources, so that all kind of underground monsters threaten our holdings.
+Player: those below
+Gnomette: We don't know who the driving force is, but we encounter their warriors and bases in the underground.
+Player: warriors
+Gnomette: Though they sometimes employ tamed monsters that are common in the underground, their foremost warriors are the lost and abominable magma creatures.
+Player: lost
+Gnomette: Their ancestors were probably dwarfs who became enslaved ages ago. What is left after all these years of breeding and conditioning is hardly a dwarf at all. They are murderous savages beyond compare.
+Player: creatures
+Gnomette: They can be anything, from golems to elementals. What we know is that they are dangerous and fiercely loyal to their masters. They are magma creatures and employ a range of fiery attacks. They are strong and fearless and a great threat to us.
+Player: dwarf
+Gnomette: We have been allied with the dwarf for centuries. Our transfer of knowledge and resources has been quite low though. Sometimes we help each other out. More often than not we will ignore each other and mind our own business. ...
+Gnomette: In the last few years though it has become more and more evident that we have common goals and common foes. This build quite strong alliances. ...
+Gnomette: We provided the dwarfs with gnomish crystal cultivating knowledge. Only to some extent of course. ...
+Gnomette: The dwarfs on the other hand supplied us with metal goods, armor and weapons and have of late introduced us to their allies, that is people like you. ...
+Gnomette: That was when we decided to raise an army made up of volunteers from the outside. Something new and revolutionary in gnomish history.
+Player: mushroom
+Gnomette: Mushrooms are one of our major resources. We have cultivated and bred different forms of mushrooms for different purposes. To us they are far from being merely a food source. ...
+Gnomette: Mushrooms are grown to supply us with tools or even fabric. Gnomish mushroom wool and gnomish mushroom linen are an important resource for the gnomish economy. We can even substitute your overworld wood with our mushrooms.
+Player: Thais
+Gnomette: I never was there but it seems to be some kind of huge city. So I imagine there are a lot of mushroom huts and people are singing and dancing all day long
+Player: Gnomes
+Gnomette: The gnomish people are free-spirited though somewhat reclusive towards outsiders.
+Player: sky
+Gnomette: The sky is a somewhat frightening concept to us gnomes.
+Player: surface
+Gnomette: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: bye
+Gnomette: Good bye!

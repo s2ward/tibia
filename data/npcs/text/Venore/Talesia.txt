@@ -1,0 +1,38 @@
+Player: hi  
+Talesia: Salutation, Player! What brings you to Crunor's Finest Warehouse?  
+Player: name  
+Talesia: I am Talesia De'Mir, owner of Crunor's Finest Warehouse.  
+Player: job  
+Talesia: I am the owner of Crunor's Finest Warehouse of course.  
+Player: time  
+Talesia: It's 6:52 am right now.  
+Player: Crunor  
+Talesia: A god worthy of worship. At least he gives something useful back to the faithful.  
+Player: Warehouse  
+Talesia: My warehouse is only one of many. We merchants hold this city together and lead it to prosperity.  
+Player: king / tibianus  
+Talesia: We pay this man enough to live here undisturbed of major interventions.  
+Player: army  
+Talesia: At least they are useful, but we pay enough taxes to supply the entire Thaian army.  
+Player: ferumbras  
+Talesia: I hope he is aware that his enemies live elsewhere.  
+Player: excalibug  
+Talesia: I am content with my family sword meloncutter.  
+Player: thais  
+Talesia: I hope they live well from our taxes...  
+Player: tibia  
+Talesia: The world is a treasure chest for those of knowledge and skill.  
+Player: carlin  
+Talesia: They are a bit problematic as business partners, but their independence from Thais is... interesting.  
+Player: news  
+Talesia: Even bad news can be good news, if you play your cards well.  
+Player: tax  
+Talesia: Venore is the major tax payer in the whole realm. So we more than deserve the privileges the king granted us.  
+Player: privileges  
+Talesia: We are allowed to trade with anyone, Thaian subject or not, have no Thaian noble as governor, and own the exclusive gambling license.  
+Player: gambling  
+Talesia: I don't care much about it, though others profit greatly.  
+Player: sell / trade  
+Talesia: Talk about that with my underlings.  
+Player: bye  
+Talesia: Fare thee well, Player.  

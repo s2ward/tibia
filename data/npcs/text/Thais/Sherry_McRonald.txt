@@ -1,0 +1,63 @@
+Player: hi
+Sherry McRonald: Hello Player! Welcome to our humble farm. If you need food, just ask me for a trade.
+Player: hi
+Sherry McRonald: Today is just a day like any other - much farmwork to be done.
+Player: name
+Sherry McRonald: I am Sherry McRonald.
+Player: job
+Sherry McRonald: I and my husband run this farm.
+Player: time
+Sherry McRonald: Sorry, I don't have a watch.
+Player: offer / buy / food / sell / wares / goods / equpiment
+Sherry McRonald: I can offer you cheese, cherries, pumpkins and melons. I also buy bread. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Sherry McRonald: Of course, just browse through my wares.
+Player: husband
+Sherry McRonald: My husband Donald is busy on the fields almost all night and day.
+Player: weather
+Sherry McRonald: The weather is the best friend and the worst enemy of a farmer.
+Player: farm
+Sherry McRonald: It is a hard work, but the city needs us.
+Player: city
+Sherry McRonald: The city needs our crops.
+Player: crops
+Sherry McRonald: It's hard to harvest it, carry it to the mill in the north and make flour. If you can bake some bread I will buy it for 2 gold.
+Player: fields
+Sherry McRonald: The druids helped us by placing a blessing on our fields.
+Player: mill
+Sherry McRonald: The miller is a lazy fellow and afraid of his own mill, because he thinks it is spooked.
+Player: spooked
+Sherry McRonald: I don't know for sure. The miller claims that his mill is threatened by some monsters sometimes.
+Player: king / Tibianus
+Sherry McRonald: King Tibianus granted us this farm to earn a living.
+Player: monsters / spider / help
+Sherry McRonald: Spiders infested the sewers beneath our farm. We need some help to exterminate them. My husband pays a reward for killed spiders.
+Player: Elane / gregor / marvik / muriel
+Sherry McRonald: We a mere peasants and don't know much about the guild leaders.
+Player: Frodo
+Sherry McRonald: He is a friend of my husband.
+Player: Gorn
+Sherry McRonald: He doesn't talk much to us.
+Player: Lynda
+Sherry McRonald: She is sooo charming. I can't believe she is not married yet! Have you met her?
+Player: Oswald
+Sherry McRonald: This lazy fellow has nothing better to do than to spread rumours.
+Player: harkath bloodblade
+Sherry McRonald: He is an impressive warrior as far as I can tell.
+Player: Quentin
+Sherry McRonald: What a nice person he is.
+Player: Sam
+Sherry McRonald: He is too busy to care much about farmers like us.
+Player: eclesius
+Sherry McRonald: Oh, he's a nice old man. He often comes and buys our goods. I haven't seen him since a while though.
+Player: lynda
+Sherry McRonald: She is sooo charming. I can't believe she is not married yet! Have you met her?
+Player: no
+Sherry McRonald: Oh, if you say so.
+Player: yes (female)
+Sherry McRonald: She really should find a husband with ease! If you know a bachelor, introduce him to her.
+Player: yes (male)
+Sherry McRonald: She really should find a husband with ease! You should ask her for a date.
+Player: bye
+Sherry McRonald: Grace our home with another visit soon, Player.
+Sherry McRonald: What a strange person.

@@ -1,0 +1,93 @@
+name: Deploy resources to resources.talesoftibia.com and GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'disable/images/**'
+      - 'disable/data/**'
+      - 'disable/docs/**'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout main branch
+      uses: actions/checkout@v2
+      with:
+        ref: 'main'
+        path: 'main'
+
+    - name: Checkout gh-pages branch
+      uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+        path: 'gh-pages'
+
+    - name: Install jq and rclone
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y jq
+        curl https://rclone.org/install.sh | sudo bash
+
+    - name: Minimize JSON files
+      run: |
+        jq -c . main/data/npcs/npc_transcript_database.json > main/data/npcs/min_npc_transcript_database.json
+        jq -c . main/data/npcs/npc_metadata.json > main/data/npcs/min_npc_metadata.json
+        jq -c . main/data/books/book_database.json > main/data/books/min_book_database.json
+        jq -c . main/data/books/book_image_mapping.json > main/data/books/min_book_image_mapping.json
+
+    - name: Copy updated docs and minimized JSON to gh-pages branch
+      run: |
+        mkdir -p gh-pages/img/book
+        mkdir -p gh-pages/img/creature
+        mkdir -p gh-pages/img/spell
+        mkdir -p gh-pages/data/npcs
+        mkdir -p gh-pages/data/books
+        cp main/img/npc/* gh-pages/img/npc/
+        cp main/img/book/* gh-pages/img/book/
+        cp main/img/creature/* gh-pages/img/creature/
+        cp main/img/spell/* gh-pages/img/spell/
+        cp main/docs/npc_trees/*_transcripts.md gh-pages/data/npcs/
+        cp main/data/npcs/min_npc_transcript_database.json gh-pages/data/npcs/npc_transcript_database.json
+        cp main/data/npcs/min_npc_metadata.json gh-pages/data/npcs/npc_metadata.json
+        cp main/data/books/min_book_database.json gh-pages/data/books/book_database.json
+        cp main/data/books/min_book_image_mapping.json gh-pages/data/books/book_image_mapping.json
+
+    - name: Setup and Sync Local Directory to Cloudflare R2
+      env:
+        RCLONE_CONFIG_CLOUDFLARE_TYPE: s3
+        RCLONE_CONFIG_CLOUDFLARE_PROVIDER: Cloudflare
+        RCLONE_CONFIG_CLOUDFLARE_ENV_AUTH: true
+        RCLONE_CONFIG_CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
+        RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
+        RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
+      run: |
+        mkdir -p local_sync/data/npcs
+        mkdir -p local_sync/data/books
+        mkdir -p local_sync/images/npcs
+        mkdir -p local_sync/images/books
+        mkdir -p local_sync/images/spells
+        mkdir -p local_sync/images/creatures
+
+        cp main/data/npcs/min_npc_transcript_database.json local_sync/data/npcs/npc_transcript_database.json
+        cp main/data/npcs/min_npc_metadata.json local_sync/data/npcs/npc_metadata.json
+        cp main/data/books/min_book_database.json local_sync/data/books/book_database.json
+        cp main/data/books/min_book_image_mapping.json local_sync/data/books/book_image_mapping.json
+        cp -r main/img/npc/* local_sync/images/npcs/
+        cp -r main/img/book/* local_sync/images/books/
+        cp -r main/img/spell/* local_sync/images/spells/
+        cp -r main/img/creature/* local_sync/images/creatures/
+
+        rclone sync local_sync/ cloudflare:resources
+        rm -rf local_sync
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: './gh-pages'
+        publish_branch: gh-pages
+        commit_message: "Deployed to GitHub Pages by GitHub Actions"
