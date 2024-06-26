@@ -4,9 +4,9 @@ on:
   push:
     branches: [main]
     paths:
-      - 'disable/images/**'
-      - 'disable/data/**'
-      - 'disable/docs/**'
+      - 'images/**'
+      - 'data/**'
+      - 'docs/**'
   workflow_dispatch:
 
 jobs:
