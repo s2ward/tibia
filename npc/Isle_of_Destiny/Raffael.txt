@@ -1,0 +1,78 @@
+Player: (idle)
+Raffael: Do you need health potions, young knight? All the potions you could wish for are here!
+Raffael: Get your shovels, ropes and torches here!
+Raffael: Lost in the dark and out of mana to cast a light spell? Buy a torch now!
+Raffael: Aaaaaall basic equipment for your adventure at Raffael's!
+Raffael: Out of arrows or spears, young paladin? Get them in my tent!
+Raffael: Special offers for premium customers!
+Raffael: Cheapest offers on the whole island! - Well, the only offers!
+Player: hi
+Raffael: Welcome to my adventurer shop, Player! Special offers for premium customers like you! I have tools, equipment and food for trade, also souvenirs - and you can access your bank account.
+Player: name
+Raffael: I'm Raffael, the owner of this lovely little booth.
+Player: job
+Raffael: I'm selling equipment for adventurers. Business is not going as well as I hoped, but I'm doing my best. Well, I took up a side job as Tibian banker, so at least I get a regular salary.
+Player: time
+Raffael: It's exactly 5:42 pm.
+Player: vocation
+Raffael: There are four different vocations in Tibia - knights, paladins, sorcerers and druids.
+Player: knights
+Raffael: I'm just a simple trader, not familiar with fighting. Ask Hykrion for information about knights.
+Player: Hykrion
+Raffael: Sometimes I have to import a better armor for him from the mainland.
+Player: paladins
+Raffael: Well, sometimes I have to chase after customers who 'forgot' to pay, but otherwise I'm not familiar with distance fighting. Ask Narai for information about paladins.
+Player: Narai
+Raffael: She's a good customer. I love paladins. Sooner or later they all need to come here and buy arrows or spears. Hehehe.
+Player: sorcerers
+Raffael: That 'Abracadabra' business has no appeal to me. Ask Estrella for information about sorcerers.
+Player: Estrella
+Raffael: Just between us, I think that woman has a drinking problem. She's addicted to mana potions! Aren't most sorcerers?
+Player: druids
+Raffael: Well, I do protect nature by recycling my garbage, hehe. Apart from that I'm not interested in that flower stuff. Ask Yandur for information about druids.
+Player: Yandur
+Raffael: Hm, I can't really make business with him. He can provide food and healing for himself and he's too stingy for mana potions, so there's nothing left that I could sell to him.
+Player: mainland
+Raffael: You'll find the best trades on mainland. Once you have a vocation, you can go there and experience it for yourself. Just talk to Captain Kurt.
+Player: captain kurt
+Raffael: That old sea dog will bring you to a city of your choice once you have a vocation. However, you may stay and hunt on this island until you are level 9.
+Player: city
+Raffael: The best source of information about cities is Captain Kurt. I think he has sailed all available routes.
+Player: premium
+Raffael: Well, if you pay some real cash for your account you get all the nice offers and features. Should be worth considering.
+Player: bank
+Raffael: You can deposit and withdraw money from your bank account here. I can also change money for you.
+Player: transfer
+Raffael: I'm afraid this service is not available to you until you reach mainland.
+Player: advanced
+Raffael: Once you are on the Tibian mainland, you can access new functions of your bank account, such as transferring money to other players safely, accessing your guild account or taking part in house auctions. ...
+Raffael: Just ask any of my colleagues on the Mainland and they'll be happy to tell you all about the advanced functions of your bank account.
+Player: trade
+Raffael: Before you buy anything here, I would recommend choosing a vocation. You will receive a solid starter set for each vocation. If you still need something afterwards, I'll gladly sell my wares to you.
+Player: food
+Raffael: Food is important for your health! Eat plenty! Ask me for a trade to see which food I sell.
+Player: tools
+Raffael: I sell a lot of tools, such as ropes, torches, shovels and the like. Ask me for a trade to see my wares.
+Player: equipment
+Raffael: I sell different equipment such as armors, weapons or ammunition, as well as important tools, potions and food. I also buy a few things. If you'd like to see my offers, ask me for a trade.
+Player: armors
+Raffael: Well, it depends on the choice of your vocation which armor suits you best. Once you have chosen a vocation, I'll be happy to tell you more.
+Player: weapons
+Raffael: Well, it depends on the choice of your vocation which weapon suits you best. Once you have chosen a vocation, I'll be happy to tell you more.
+Player: ammunition
+Raffael: Uhm, I don't think you need ammunition. Only paladins use them for their bows.
+Player: potions
+Raffael: I sell health and mana potions. Ask me for a trade to see my wares.
+Player: oracle
+Raffael: Oh, I got the idea for this from some pirate passing by after he had a couple of beers. I've been making a pretty penny ever since! If you want one, ask me about your souvenir.
+Player: souvenir
+Raffael: You can buy a cute little oracle figurine from me for 100 gold. Limited to one per person! Are you interested?
+Player: no
+Raffael: Oh, I won't force you to buy it, don't worry.
+Player: yes
+Raffael: You don't have enough money to afford that.
+Player: (any)
+Raffael: Sorry, but I'm just a simple trader and know nothing about that.
+Player: bye
+Raffael: Farewell Player, and have a good time!
+Player: (vanish)
