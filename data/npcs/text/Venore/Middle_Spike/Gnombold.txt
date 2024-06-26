@@ -1,0 +1,30 @@
+Player: Hi  
+Gnombold: Hi!  
+Player: Job  
+Gnombold: I'm the officer responsible for this area. I give out missions, accept mission reports and oversee our defences.  
+Player: Area  
+Gnombold: The levels around us are... well, they are strange. We are still not entirely sure how they were created. It seems obvious that they are artificial, but they seem not to be burrowed or the like. ...  
+Gnombold: We found strange stone formations that were not found on other layers around the Spike, but there is no clue at all if they are as natural as they look. It seems someone used some geomantic force to move the earth. ...  
+Gnombold: For what reason this has been done we can't tell as we found no clues of colonisation. ...  
+Gnombold: There are theories that the caves are some kind of burrow of some extinct creature or even creatures that are still around us, but exist as some form of invisible energy; but those theories are far-fetched and not supported by any discoveries. ...  
+Gnombold: Be that as it may, whatever those caves were meant for, these days they are crawling with creatures of different kinds and all are hostile towards us. The competition for food is great down here, and everything is seen as prey by the cave dwellers. ...  
+Gnombold: Some would like to feast on the crystal of the Spike, others would prefer a diet of gnomes. What they have in common is that they are a threat. If we can't keep them under control their constant attacks and raids on the Spike will wear us down. ...  
+Gnombold: That's where adventurers fit in to save the day.  
+Player: Mission  
+Gnombold: Sorry, but no! Your expertise could be put to better use elsewhere. Here awaits you no challenge. You are desperately needed in the deeper levels of the Spike. Report there immediately.  
+Player: Reports  
+Gnombold: What mission do you want to report about: the gathering of geomantic charges, the task to fertilise the mushroom caves, the destroying of monster nests or the killing of crystal crushers?  
+Player: Spike  
+Gnombold: Yet another wonder conceived by brilliant gnomish minds. I envy you to be here with us. If I were not a gnome, the next best thing I could imagine is to be here, with us. You must be so thrilled and grateful.  
+Player: Dwarf  
+Gnombold: They might be small but still they are not gnomes. Actually, they are rather odd people. I get along better with you humans.  
+Player: Gnome  
+Gnombold: Gnomes have lived autonomous for so long that it still feels odd to work with strangers for many of us.  
+Player: Human  
+Gnombold: I wonder if it hurts to be a human. I mean ... you are so ... stretched!  
+Player: alpha
+Gnombold: Gnomebase Alpha does its best to supply us with goods, but we thrive and strive to become completely independent. Already we can send some raw materials back to them.
+Player: Below  
+Gnombold: Dangerous but cowardly. In the end we will prevail. They will likely give up eventually.  
+Player: Bye  
+Gnombold: Good bye Player and take care.  

@@ -1,0 +1,44 @@
+Player: hi
+Captain Gulliver: Welcome on board, Madam Simula. Where can I sail you today?
+Player: name
+Captain Gulliver: Ah, you may not have heard of me. I am Captain Gulliver, the first Oramondian for a hundred years to have sailed through the mist to your strange lands.
+Player: job
+Captain Gulliver: I am the captain of the 'Sea Goddess', the splendid and beautiful ship you see over there.
+Player: ship
+Captain Gulliver: The 'Sea Goddess' is the most beautiful in Oramond, a whole new model of ship, elegant, sure and swift. There's no weather she can't take!
+Player: rathleton
+Captain Gulliver: My beautiful hometown. Sadly, it is not much known beyond our lands, yet. But I am confident that will change as more ship passages will be booked.
+Player: oramond
+Captain Gulliver: This is the only safe landing place on Oramond. The cliffs surrounding the isle are too dangerous, you see.
+Player: mist
+Captain Gulliver: Yes, an unfathomable, strange mist used to wrap our isle in an impenetrable shroud. We lost many good sailors and ships to it, lured into their deaths by that horrible fog.
+Player: goods
+Captain Gulliver: I will gladly take on board everything you wish to transport. No pets, though.
+Player: passenger
+Captain Gulliver: <bows> I would be delighted to have you on board.
+Player: tibia
+Captain Gulliver: Ah, your lands are quite a sight! I have only visited Thais so far, but I think of navigating to more cities, when the time - and public demand - comes.
+Player: sea goddess
+Captain Gulliver: You would like to book a passage for Thais or Issavi? Or to Travora - a place between the worlds?
+Player: sail / go
+Captain Gulliver: Where may I take you to - Thais, Edron, Venore, Port Hope, Krailos or Issavi? Or to Travora - a place between the worlds?
+Player: edron
+Captain Gulliver: Do you seek a passage to Edron for 100 gold?
+Player: krailos
+Captain Gulliver: Do you seek a passage to Krailos for 50 gold?
+Player: issavi
+Captain Gulliver: Do you seek a passage to Issavi for 70 gold?
+Player: thais
+Captain Gulliver: Do you seek a passage to Thais for 140 gold?
+Player: venore
+Captain Gulliver: Do you seek a passage to Venore for 120 gold?
+Player: port hope
+Captain Gulliver: Do you seek a passage to Port Hope for 190 gold?
+Player: travora
+Captain Gulliver: Travora is the place for the character world transfer, so if you travel there make sure you actually do want to change worlds. Do you want to purchase a new daily ticket for 1000 gold?
+Player: no
+Captain Gulliver: Well then. Perhaps another time.
+Player: <any word>
+Captain Gulliver: I'm sorry, but I don't sail there.
+Player: bye
+Captain Gulliver: Good bye. Recommend us if you were satisfied with our service.

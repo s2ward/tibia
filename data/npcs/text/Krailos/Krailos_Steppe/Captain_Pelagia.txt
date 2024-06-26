@@ -1,0 +1,30 @@
+Player: hi
+Captain Pelagia: Welcome on board, Sir Player. Where can I sail you today?
+Player: name
+Captain Pelagia: My name is Pelagia.
+Player: job
+Captain Pelagia: I'm one of the few captains who sail here at all. The waters of Krailos are dangerous. Hidden underwater shelves were the bane of many a ship - as you may gather by the wreckage all around here. ...
+Captain Pelagia: But I sail people to Krailos and back to various Tibian locations.
+Player: sail
+Captain Pelagia: The 'Silver Hydra' is ready to bring you to Venore, Edron, Darashia, Issavi or Oramond.
+Player: boat
+Captain Pelagia: 'Boat'? What are you talking about! This beautiful ship is the 'Silver Hydra'!
+Player: ship
+Captain Pelagia: This beautiful ship is the 'Silver Hydra'.
+Player: captain
+Captain Pelagia: I'm one of the few captains who sail here at all. The waters of Krailos are dangerous. Hidden underwater shelves were the bane of many a ship - as you may gather by the wreckage all around here. ...
+Captain Pelagia: But I sail people to Krailos and back to various Tibian locations.
+Player: passage / trip
+Captain Pelagia: The 'Silver Hydra' is ready to bring you to Venore, Edron, Darashia, Issavi or Oramond.
+Player: port hope / thais / carlin / yalahar / liberty bay / ankrahmun / ab'dendriel / kazordoon / zao / farmine / gray island / darama / roshamuul / svargrond
+Captain Pelagia: I'm sorry, but I don't sail there.
+Player: Krailos
+Captain Pelagia: Krailos is this big peninsula north of Oramond. The two regions are separated by a high mountain range, so Krailos is only accessible by water. And that's not easy either, as many dangerous underwater shelves surround Krailos. ...
+Captain Pelagia: The island is covered by a vast steppe and dangerous. That's because of the ogres, naturally. Beware of those beasts - they are maneaters. You should set foot on these shores only on careful deliberation.
+Player: ogres
+Captain Pelagia: They are big, brutal and dull creatures and it is said they love the taste of human flesh. Yet it is rumoured that lately, one single tribe tolerates the presence of humans. ...
+Captain Pelagia: But I don't know if that's true or just idle gossip, so be careful. Oh, and you have to swim to the coast. Because of the reefs here I can't come closer to the shore, I'm sorry.
+Player: berth
+Captain Pelagia: Oh, you have to swim to the coast. Because of the reefs here I can't come closer to the shore, I'm sorry.
+Player: bye / farewell
+Captain Pelagia: Good bye and beware of the ogres!

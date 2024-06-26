@@ -1,0 +1,16 @@
+Player: hi
+Gnome Trooper: Greetings, but I'm on duty. Please move on!
+Player: hi
+Gnome Trooper: Do you have something to deliver?
+Player: something
+Gnome Trooper: It's a pipe! What can be more relaxing for a gnome than to smoke his pipe after a day of duty at the front. At least it's a chance to do something really dangerous after all!
+Player: something
+Gnome Trooper: Ah, a letter from home! Oh - I had no idea she felt that way! This is most interesting!
+Player: something
+Gnome Trooper: It's a model of the gnomebase Alpha! For self-assembly! With toothpicks...! Yeeaah...! I guess.
+Player: something
+Gnome Trooper: A medal of honour! At last they saw my true worth!
+Player: something
+Gnome Trooper: It's a fruit cake! From my sister! Wait. I have no sister... but... it looks delicious! Thank you very much!
+Player: bye
+Gnome Trooper: Good bye. Take care out there.

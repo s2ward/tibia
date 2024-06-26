@@ -1,0 +1,35 @@
+NPC: Frafnar  
+Player: hi / hello  
+Frafnar: Don't you see that I'm trying to write a poem? <sighs> So what's the matter?  
+Player: beer  
+Frafnar: I don't drink any beer until Bolfona agrees to drink one with me....or two.  
+Player: beregar  
+Frafnar: The citadel under the mountain. How poetic! Maybe I could use that in my poem for Bolfona.  
+Player: Bolfona  
+Frafnar: She is sooooo beautiful, so feminine, so elegant. You'll find her in the tavern of Beregar.  
+Player: deeper mines  
+Frafnar: They have been closed for ages. We dug too deep and woke up some ancient evil.  
+Player: dwarf / dwarv  
+Frafnar: We may be small, but you better don't underestimate us.  
+Player: eastern wing  
+Frafnar: From there the deeper parts of the city can be reached. Too bad for you that only dwarfs may enter there.  
+Player: mine  
+Frafnar: It's a crystal mine. You know, long corridors, rails, ore wagons and....surprise...CRYSTALS.  
+Player: Grombur  
+Frafnar: He always stares on Bolfona. If he touches her ONE time, I promise I ..... Calm down Frafnar! Breathe deeply! Nothing happened.  
+Player: job  
+Frafnar: I guard the entrance to the western part of the mine.  
+Player: mission / quest  
+Frafnar: Are you in love, too? Just asking because I also tend to forget things just seconds after they have been told me.  
+Player: name  
+Frafnar: I'm Frafnar and I guard the entrance to the western part of the mine.  
+Player: Nokmir  
+Frafnar: Have you heard the news? He has stolen Rerun's ring.  
+Player: northern wing  
+Frafnar: The emperor and his staff live there.  
+Player: poem  
+Frafnar: I'm writing it for Bolfona. I'm rather a shy dwarf, you know.  
+Player: write  
+Frafnar: I'm writing it for Bolfona. I'm rather a shy dwarf, you know. Don't dare to go to her and tell her about my feelings, but maybe you could help me.  
+Player: bye  
+Frafnar: Yeye, I won't miss you!  

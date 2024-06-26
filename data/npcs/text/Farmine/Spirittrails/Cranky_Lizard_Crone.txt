@@ -1,0 +1,80 @@
+Player: hi
+Cranky Lizard Crone: Hello zere! Erm, iz... iz zere zomeone zere? Come clozer I can't zee zo good anymore.
+Player: name / anymore
+Cranky Lizard Crone: My name iz... iz... hmmm, I zeem to have... forgotten it. Ah well I am old. Pleaze exzcuze my zilly behaviour. Ahehe.
+Player: behaviour 
+Cranky Lizard Crone: All izz gtting harder and harder witzz zze yearzz, even my job.
+Player: job
+Cranky Lizard Crone: Oh I'm a fisherwoman, fishing zinze ze firzt day I can remember. Ahehe. In fact, my whole family waz. But now I... I am alone. I'm ze only one left.
+Player: family
+Cranky Lizard Crone: We were fisherz, all of uz. My whole family. Ze draught waz our life, yez. Now I catch zem on my own, no one iz here to help me anymore. But I get along.
+Player: Ahehe
+Cranky Lizard Crone: Ahehe, ahehehe.
+Player: emperor
+Cranky Lizard Crone: Hm, I don't really know, it seemz I.. cannot really remember. Well, I guezz he did not interfere wiz ze lifez of uz small folk here in ze village. And we alwayz had problemz of our own.
+Player: zao
+Cranky Lizard Crone: The world in which we all dwell. I have been here for zo long now, zo long.
+Player: cape
+Cranky Lizard Crone: Oh yez, I darned many capez, hatz and other clozez for my family back in ze day. Oh indeed I did.
+Player: hat
+Cranky Lizard Crone: I uzed to mend hatz a long time ago. I was.. quite good at it. If I remember correctly.
+Player: cape (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Mh, I zee, well I probably darned more capez in my time than you wore in your entire life. Give it here, one more or lezz will not make a differenze, right?
+Player: yes (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Hm, alright zen. Give me a minute. ...
+Cranky Lizard Crone: Zo, zere you go. Now finally leave me be.
+Player: hat (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Do I look like your perzonal hatter?! ...
+Cranky Lizard Crone: Well, on ze ozer hand, I do have zome experienze from my time working for zeze people. And zat hat surely needz a makeover. Care to give it to me?
+Player: yes (Wayfarer Outfits Quest)
+Cranky Lizard Crone: Alright let me zee. ...
+Cranky Lizard Crone: Here you are. Now begone.
+Player: cape / hat (Wayfarer Outfits Quest)
+Cranky Lizard Crone: I made zomezing for you, didn't I? Now leave ziz plaze, hush! Leave me alone.
+Player: mission / quest
+Cranky Lizard Crone: Oooh... I am alone again, alone forever. Oooh. And nozing to do, nozing. But I want to help.. want to make up for the trouble I cauzed. ...
+Cranky Lizard Crone: YOU - you zere, I can help you.. maybe, I can clean your houze, no? Or make breakfazt, no? Do you have any trouzerz, hat, cape or clozez you need to fix, no? Ah, I am alone, ever alone.
+Player: mission (The Spirit Will Get You Quest)
+Cranky Lizard Crone: Yez, yez, I could need your azziztanze indeed. I am all alone, all on my own. But ZEY will not leave me in peaze. Zeir zpiritz, zey haunt me. Zeir ghoztz long for me. ...
+Cranky Lizard Crone: I need... you to bring me what zey are zearching. Zomezing I can give to zem zat ztopz zem from haunting me. In ziz beautiful village I have... lozt zomezing, yez. My memory, you know. ...
+Cranky Lizard Crone: Zere are 3 cheztz zomewhere in zeze gorgeouz houzez you zee around you. You zee zem, don't you? My eyezight, you know. It iz fading. And I can't remember... which houzez zey were in. ...
+Cranky Lizard Crone: But YOU are young, YOU can zee, YOU can find zem. Each of ze cheztz containz a... paper. A will. From memberz of my poor dezeazed family. Pleaze get zem for me, child. Will you help me?
+Player: cheztz / chest
+Cranky Lizard Crone: Each will should ztill be in a chezt zomewhere in ze village. Many houzez lie in ruin, zo don't hurt yourzelf up zere my child.
+Player: willz / will
+Cranky Lizard Crone: Zey conzidered even me... an heir, I waz part of zeir livez, zey never told me. I couldn't know, I only zaw my... leave me alone, get lozt.
+Player: zpiritz / spirit / ghost / ghoztz / they / zey
+Cranky Lizard Crone: Ze... ze zpiritz. Zey are everywhere - and nowhere. In ze morning zey zit on my windowzill, in ze evening zey linger on my very doorztepz. In ze night I can almozt hear zem calling for me, longing for my... zoul.
+Player: village
+Cranky Lizard Crone: Yez, beautiful izn't it... ahehe. Ah, I live here, yez. For zuch a long time. Az far az I can remember, I waz alwayz here. I like ziz village, I really love it. Like I loved my family, ah my family... how I mizz zem now.
+Player: memory
+Cranky Lizard Crone: It iz gone... I cannot remember much. I am old, you know. I forget... zingz. Like my clozez, where did I put zem? My flowerz, too. Oh how I love flowerz. Almozt az much az my family. My poor family.
+Player: zpiritz / spirit / ghost / ghoztz / they / zey (after completed the quest)
+Cranky Lizard Crone: I am... I am one of zem. Tied to zeze ruinz. Wandering endlezzly zrough ze broken roomz, shattered floorz, crumbled wallz.
+Player: family (after completed the quest)
+Cranky Lizard Crone: Zey hired me. I helped zem wherever I could, I cleaned up zeir roomz, zeir houzez... oh how I envied zem. Zeir livez. Zeir homez... all gone now, never for me to enjoy.
+Player: job (after completed the quest)
+Cranky Lizard Crone: I am bound to ziz plaze. Never to be free, never to return.
+Player: Ahehe (after completed the quest)
+Cranky Lizard Crone: Quit laughing about me, BEGONE.
+Player: village (after completed the quest)
+Cranky Lizard Crone: I hate ziz village, I hate it wiz all my heart, wiz all ze power left to me. Begone, human.
+Player: memory (after completed the quest)
+Cranky Lizard Crone: I zee zem you know, I zee zem before me. No matter how much time pazzez, I cannot forget zeir fazez. Even when I cloze my eyez, zey are zere. Ztaring at me. Gazing at me in incomprehension of what I have done.
+Player: yes (finishing the quest)
+Cranky Lizard Crone: Hahahahahahahaaaaaa. You did it. You brought it back. You did what I could not. What I waz forbidden to do. Bound to ziz plaze. Ze very ground I ztood on when dizazter ztruck. ...
+Cranky Lizard Crone: When everyzing waz ztill bright, ze houzez tidy, ze blozzomz blazing, ze waterz pure - I killed zem. ...
+Cranky Lizard Crone: I took care of zeir houzeholdz for zo long, zeir roomz, zeir bedz, zeir offzpring. I had enough. I could not ztand zeir fazez anymore. Ztaring down on me, adorning zemzelvez wiz decadenze. ...
+Cranky Lizard Crone: Yez, I took care of zem one lazt time, each of zem. ...
+Cranky Lizard Crone: And when I waz done and it waz all water under ze bridge, I returned, to collect my reward. My merit, my payoff. If I got my hand on each lazt will, none would benefit from zeir wealz. And I would have my revenge. ...
+Cranky Lizard Crone: AND IT WAZ TAKEN FROM ME. ...
+Cranky Lizard Crone: Zuddenly zomezing happened, ze zky darkened, ze world around me changed, all inhabitantz of ziz poor decal of a village died in ziz horrible cataztrophe. ...
+Cranky Lizard Crone: To zink zat I would've only had to WAIT. Inztead I ended up BURIED under ze remnantz of ziz dump. ...
+Cranky Lizard Crone: My goal moving infinitely far out of reach, I finally breazed my lazt. I died here all zoze yearz ago az well. ...
+Cranky Lizard Crone: Bound to ziz zoil I waz reztlezz wiz ziz unfinished affair. And YOU, YOU achieved what I could not. You retrieved ze lozt willz and NOW I AM THE GAINER. ...
+Cranky Lizard Crone: Haha, ha... ha. ...
+Cranky Lizard Crone: Why... why do I not dizappear? What'z happening? ...
+Cranky Lizard Crone: Hmmm... what? Ziz lazt document readz zat... large partz of ziz one'z heir were meant for... me? He didn't know ...
+Cranky Lizard Crone: Zo ziz iz not about my revenge? I am here for... punishment? PUNISHMENT? ZIZ IZ YOUR FAULT HUMAN! BEGONE. LEAVE. Leave me. Leave me... alone.
+Player: bye
+Cranky Lizard Crone: Goodbye erm... your name waz... erm...

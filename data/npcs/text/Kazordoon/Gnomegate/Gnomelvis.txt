@@ -1,0 +1,31 @@
+Player: hi
+Gnomelvis: Hello. Is it me you're looking for?
+Player: name / yes
+Gnomelvis: My name is Gnomelvis. I'm the gnomish musical supervisor!
+Player: job
+Gnomelvis: I'm the gnomish musical supervisor!
+Player: looking
+Gnomelvis: I'm the gnomish musical supervisor!
+Player: musical
+Gnomelvis: Congratulations on finding your soul melody.
+Player: dwarf
+Gnomelvis: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomelvis: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomelvis: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomelvis: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomelvis: The more we learn about them, the more it becomes clear how little we know.
+Player: crystal
+Gnomelvis: Crystals are one of the most progressive things gnomish ingenuity has come up with. Even most gnomes don't fully understand how the usage of the crystals resonances and light breaking capabilities work. ...
+Gnomelvis: For outsiders it must seem like magic.
+Player: thais
+Gnomelvis: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomelvis: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomelvis: The sky is a somewhat frightening concept to us gnomes.
+Player: bye
+Gnomelvis: Good bye and take care!

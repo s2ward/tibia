@@ -1,0 +1,303 @@
+Player: hi / hello  
+Inigo: Hello, young adventurer! Want to trade or do you have a question?  
+Player: adventure  
+Inigo: We are all part of the Adventurers' Guild - a loose assembly of hardened explorers and adventurers that have set out to find adventure, and to pass on the secrets of the adventuring trade to new ones such as you! ...  
+Inigo: This here is just a small outpost, which was set up to explore the island and see if there is a major threat or treasure to be found. At least, that's what I was told. If you are looking for a quest, you should talk to Morris upstairs.  
+Player: armor / shield  
+Inigo: To defend yourself against enemies, you will need armor and shields. You can purchase both at Coltrayne's shop.  
+Player: asshole / dick / fuck / idiot  
+Inigo: Now, now, young Player! We have rules here! You'll have a much easier life if you respect them.  
+Player: balanced  
+Inigo: Balanced fighting balances out your attack strength as well as your defense strength. Magical damage you deal is not affected by this. ...  
+Inigo: I can also tell you something about offensive and defensive fighting.  
+Player: bless  
+Inigo: The blessings of the gods will protect you from item loss and alleviate the skill and experience loss when you die. But you will have to undertake the Pilgrimage of Ashes on the mainland to get the blessings. ...  
+Inigo: If you die in a fight from a monster's attack, your blessings will be lost, and you will have to get them again. ...  
+Inigo: There is also a blessing that will protect you specifically from losses in a PvP fight. This blessing you willl need to get again when you have been killed in a PvP fight. ...  
+Inigo: Here on Dawnport, you are protected from losses in a PvP fight by the Adventurer's Blessing - unless you attack another player. If you attack another player or reach level 21, you will lose this blessing.  
+Player: buy  
+Inigo: Of course! My specialty are creature products. Just ask me for a trade.  
+Player: Coltrayne  
+Inigo: Coltrayne doesn't say much about himself. What I gathered from the 15 years I've known him is that he was raised by a blacksmith as a foundling. ...  
+Inigo: When a fire destroyed his foster family's home, he took up an unsteady life, always wandering around. Then he met Morris and decided to go adventuring with him.  
+Player: combat  
+Inigo: There are many dangers in Tibia. You may have to defend yourself not only against monsters, but if PvP is allowed, against other players, too. ...  
+Inigo: To attack, click on your chosen target in the battle list. A red frame will show you which target you are currently attacking. ...  
+Inigo: To automatically follow your target, click on 'Chase Opponent' in your combat controls - the top left button. ...  
+Inigo: You can also define your attack and defense mode, by selecting offensive, balanced or defensive fighting.  
+Player: creature / product  
+Inigo: Oh, you have some creature products you want to sell? Let me see... just ask me for a trade.  
+Player: dawnport  
+Inigo: We found the island following a strange glow we saw at night, close before dawn. We were looking for a source of unknown, powerful magic, and it seemed that this island was its source. ...  
+Inigo: When we arrived, we found goblins, minotaurs, trolls and undead warring on this island. We wondered why. Then they seemed to reach an agreement, and settled down in the caves. We decided to investigate. ...  
+Inigo: That is when we found the strange crystal portal, through which you came. Perhaps this is why the monsters battle, but won't leave. ...  
+Inigo: It certainly is a place of power, so Menesto's group was sent down to guard it. However, we are but few, so we need every help we can get to defend and maintain the outpost on this isle. ...  
+Inigo: That is why we need your help - choose the vocation that suits you, take up its arms and help us defend this place against the evil that wants to claim it! If you need any help in how to do these things, ask me.  
+Player: death / dying  
+Inigo: Don't be deceived by its sweet looks - Tibia is a rough world. If you die, you will lose skill and experience and perhaps even some items, and other players can rob your corpse. ...  
+Inigo: On the Mainland, you can buy blessings from temple NPCs to prevent item loss, but you will always lose some skills and experience, so be careful. ...  
+Inigo: Always have a rope with you, for a start. A rope is essential.  
+Player: defensive  
+Inigo: Defensive fighting increases your defense but reduces your attack strength. The magical damage you deal is not affected by this. ...  
+Inigo: I can also tell you something about offensive and balanced fighting.  
+Player: depot  
+Inigo: On the Mainland, in every city there is a bank and a depot. A depot is a local stash for items. If you leave an item in a city depot, you need to return to that exact city to retrieve the item. ...  
+Inigo: As you can lose items when you die, always make sure you have a reserve rope and items in a depot, just in case!  
+Player: destiny  
+Inigo: Your near destiny will be to choose a definite vocation with level 8. Whether you become a knight, sorcerer, paladin or druid is a big decision that will shape your future, because it determines your powers and abilities once and for all. ...  
+Inigo: After that, your destiny is your own to seek. Our world is in dire need of adventurers that help defend it against the undead, evil monsters, demons or power-hungry sorcerers that roam the world ever since the Age of Chaos.  
+Player: die  
+Inigo: Tibia is a harsh world. If you die, you lose some of your items - and your skills! And any passerby can rob your corpse before you come back. So be careful. ...  
+Inigo: Many an adventurer died simply because he did not have a rope with him when he went down a hole full of monsters. Always make sure you have a rope with you to get out of caves quickly!  
+Player: druid  
+Inigo: Druids are nature magicians. Their speciality is casting ice and earth magic, as well as providing healing for others.  
+Player: explore  
+Inigo: Yes, there is a lot to explore in Tibia, our world. Many dungeons lie lost or hidden, and monsters may surprise you behind every corner. A wonderful world!  
+Player: fight  
+Inigo: Go through one of the open gates on this floor and you will be equipped with training weapons and spells of a specific vocation. ...  
+Inigo: There are four vocations in Tibia: knight, druid, paladin and sorcerer. Each one has its unique abilities, strengths and weaknesses. Just try them out to see which one suits you best. ...  
+Inigo: We need your help in our battle. Fight monsters to gain experience and better skills, until you reach level 8 at least. Make sure you always have not only a weapon, but a rope with you, as well! ...  
+Inigo: Once you reached level 8 or more, you have to choose one vocation as your definite vocation before you can leave for the Tibian mainland, where more dangers await you. ...  
+Inigo: To choose your definite vocation, talk to Oressa downstairs in the temple. She can also heal you if you are severely wounded or poisoned - just say 'heal' or 'help' to her. ...  
+Inigo: If you have any other questions, tell me.  
+Player: fishing rod  
+Inigo: Use a fishing rod on a patch of water to see if you can catch fish! Eating is essential in Tibia - if you don't eat when you're hungry, you won't regenerate health or mana. So you should aways have some food with you.  
+Player: food  
+Inigo: Food is very important for your health and mana. If you are hurt in a fight with a monster, select 'Use' on food such as cheese, ham or meat to eat it. This will slowly refill your health and mana. Here at the outpost, you can buy food from Richard.  
+Player: Garamond  
+Inigo: Used to be a professor at the magic academy in Edron, I believe. Likes to see different places, so he joined our illustrous little group. Sells sorcerer and druid spells to our trainees.  
+Player: god / sell  
+Inigo: Haven't seen one so far, but I was told they created Tibia and all life on it. Well. Perhaps some priest on the Mainland can tell you more about them.  
+Player: gold / money  
+Inigo: Gold is important, as you will need to resupply. You can earn a fair amount of gold by fighting monsters and picking up the things they carry. On Dawnport, I am buying some of that loot, simply ask me for a trade to see for yourself.  
+Player: Hamish  
+Inigo: Some sort of misguided genius, I think. Brilliant with potions and runes, but couldn't get on with his master or with the other students. Ran away and set up his own little lab, selling to travellers along the road. ...  
+Inigo: Was robbed and left for dead by some plunderers, when Morris found him. Morris patched him up and said he could use him, so Hamish came here. If you need a wand, rune or potion, Hamish's your man.  
+Player: help  
+Inigo: I can give you directions how to play, some basic survival and combat tips, or explain PvP, ...  
+Inigo: I can also tell you how to talk with other players or NPCs, or can inform you about questing or spells. ...  
+Inigo: I also have a list of small hints if you prefer that, and can tell you something of the people here. Just tell me what you want to know.  
+Player: hunt  
+Inigo: You can leave through one of the four gates here, where you will be equipped with a specific vocation's hunting gear, and go hunting monsters on the lower plains of Dawnport. ...  
+Inigo: But beware, you're not very strong at the beginning! Dying will cost you some of your items and skills, in Tibia. Here at Dawnport it's less harsh, but you better get used to being careful in Tibia!  
+Player: Inigo  
+Inigo: I was the first son and was given the traditional name. They expected much of me, but I disappointed them by becoming an adventurer. But I have never regretted this decision.  
+Player: job  
+Inigo: I used to be a hunter and trapper, but these bones have grown weary. I now tan furs and hides and trade in creature products. And I can help you find your way if you need directions.  
+Player: key  
+Inigo: I told you everything I know about that key.  
+Player: knight  
+Inigo: Knights are close combat fighters, the toughest vocation of all. They usually wield melee weapons such as swords, axes or clubs.  
+Player: legion  
+Inigo: That's a remarkable helmet - I know a friend in Thais who can transform it into a fetching feather hat for your citizen outfit, if you bring it to her! ...  
+Inigo: Hanna is her name. She runs the jewelry shop there, as I recall. Talk to her about an 'addon' and she'll tell you which materials beside the helmet she needs to make your feather hat.  
+Player: machete  
+Inigo: Good for cutting jungle grass. If you want to cut wheat, though, better use a scythe.  
+Player: main  
+Inigo: The mainland harbours the most ancient cities of Tibia, and many dangers and adventures as well. When you have helped us defend Dawnport, and learned enough of the ways of Tibia to reach level 8 at least, you should leave for the mainland. ...  
+Inigo: There you can continue to battle evil - and believe me, there is much of that in our world, alas. <sigh> ...  
+Inigo: Premium adventurers can also sail to the many islands that surround the mainland, which offer many more dangers and mysteries to be explored; and you can do quests to ride mounts, and dress in a variety of new outfits.  
+Player: mana  
+Inigo: Mana is your magic resource. You need it if you want to cast spells or make runes. If your mana is used up, drink a mana potion to refill it or eat some food to regenerate it.  
+Player: Menesto  
+Inigo: Hasn't been with us for very long. Very interested in all things mystical, so Menesto was sent down to guard the strange crystal portal we found here. ...  
+Inigo: ... But of course, you met him. ... So it really is a portal, and you came through it from another plane of existence! I never quite believed the tales of old, not really. But now... it's wonderful, truly wonderful. ...  
+Inigo: Well, if you have any questions as to THIS plane of existence, which we call Tibia, just ask me. I can give directions, hints, you name it. <winks at you>  
+Player: merchant / suppl  
+Inigo: These lads here are retired adventurers and don't like to be called merchants, but yes - you can buy and sell goods from them. ...  
+Inigo: To do so, simply talk to them and ask them for a trade. They will gladly show you their offers and also the things they buy from you  
+Player: mission / quest  
+Inigo: If you're looking for a mission or task, you should talk to Morris upstairs. He's the leader of this adventurous crowd and can always use helping hands in one of his schemes.  
+Player: monster  
+Inigo: Marvellous specimen we have here on Dawnport! Just be careful when you go hunting them, dying hurts in Tibia! I will happily buy any creature products you may find.  
+Player: Morris  
+Inigo: Ah, there are lots of stories about Morris. Likes to insist on the 'Mr'. Nobody knows his first name, and the telling goes that he has gambled with a demon and lost his first name to him. ...  
+Inigo: The demon is said to have set Morris free so he can reclaim him at the end of his life, meanwhile having fun watching Morris struggle through hardship and adventures. ...  
+Inigo: Anyway. One way or another, Morris picked us all up and gathered us here. Not sure that sending others on missions is really all it's about for him, but if you're looking for a quest, go ask Morris for one.  
+Player: name  
+Inigo: Ah, back in the old days, I was called Inigo Verasquiriz, but I doubt my family would acknowledge me. Those that are still alive, that is.  
+Player: NPC / talk  
+Inigo: NPC means someone like me or Hamish or Coltrayne, for example. You can easily discern us from players like you, because there is a speech bubble next to our name. ...  
+Inigo: We all have our different ways, but normally, addressing an NPC with 'hi' or 'hello' will open a conversation. ...  
+Inigo: Some NPCs will have secret words that they react to that are not highlighted in their conversation. In that case, you need to type in your question. ...  
+Inigo: To do so, open the NPC Chat Channel and click on the empty space below the NPCs dialogue, and start typing. ...  
+Inigo: You can try this out by asking an NPC about their job, as this is a keyword most will react to. If you have any other questions, tell me.  
+Player: offensive  
+Inigo: Offensive fighting means you deal harder attacks, but have a weaker defense. Magical damage you deal is not affected by this. ...  
+Inigo: You should switch to offensive only if you want to finish off a monster quickly and are sure you can survive its harder attacks. I can also tell you something about balanced and defensive fighting.  
+Player: offer  
+Inigo: Naturally! Ask me for a trade to see my stock.  
+Player: Oressa  
+Inigo: Our local healer. Don't know why that druid girl decided she wanted the unsteady life of an adventurer, but she's quite hardy, to tell the truth. I once saw her confront a polar bear.... but I'm getting carried away. ...  
+Inigo: If you need healing, go see her. Oressa can also help you decide if you want to choose your vocation to leave for the Mainland.  
+Player: paladin  
+Inigo: Paladins are well-trained distance fighters and can cast holy magic. You will usually see them wearing bows or crossbows and quivers.  
+Player: people  
+Inigo: Well, the other fellows you see here, selling stuff and so forth. Say a name and I'll tell you what I know of him or her.  
+Player: play  
+Inigo: Our world Tibia is swarmed by many dangerous monsters, so fighting is something you will have to learn and master quickly. You can fight as a sorcerer, druid, paladin or knight. ...  
+Inigo: We need your help in keeping the monsters at bay - walk out of one of the four gates here, and you will receive one of the four vocations and its gear to try out and fight monsters. ...  
+Inigo: Dawnport is just a small, but dangerous island. You will have to reach level 8 at least and choose your definite vocation before you can leave for the mainland. To reach level 8, you will have to fight some monsters in order to progress. ...  
+Inigo: Fighting is essential in Tibia, and though Dawnport is quite safe in comparison to the mainland, be careful not to die, as dying HURTS. ...  
+Inigo: If you have any other questions, tell me.  
+Player: player  
+Inigo: To chat with other players, you can click on one of the chat channels and see who is posting in there. ...  
+Inigo: If you want to message a specific player, right-click on his or her name and select 'Message to <player name>'. This will open up a chat channel where you can type in your message to him or her.  
+Player: poison  
+Inigo: Poison is very dangerous! Don't ever drink green liquids, they are poisonous and will make you lose health!  
+Player: portal  
+Inigo: It seems to emanate a magical call or pulse that draws all sorts of creatures to it - no offense meant. When we first found it, we were flabbergasted - we thought maybe a mad sorcerer had built it, or a cult, to summon something evil. ...  
+Inigo: But we didn't find any conclusive hints. Menesto and a few others volunteered to guard the portal from the monsters of this isle. You say you came through it from your world! Astounding. ...  
+Inigo: You couldn't have chosen a better time. We really need help against the monsters that swarm this island, and the whole world of Tibia. If you're unsure on how to help exactly, I can give you directions.  
+Player: premium  
+Inigo: As a premium adventurer, you are an official tax payer and thus privileged in many ways. For example, you can travel by ship and get better deals from merchants.  
+Player: PvP  
+Inigo: Depending on the world you chose in Tibia, players may attack you at all times or only if you consent. ...  
+Inigo: On an Optional PvP world, PvP is only possible if both players consent to it; on Open PvP and Hardcore PvP worlds, it is always possible to be attacked by another player. ...  
+Inigo: A brown frame around a player indicates he or she is in a PvP situation. A skull next to a player name means he or she attacked or killed another player. ...  
+Inigo: If you have any other questions, tell me.  
+Player: question / direction / help  
+Inigo: I can give you directions how to play, some basic survival and combat tips, or explain PvP, ...  
+Inigo: I can also tell you how to talk with other players or NPCs, or can inform you about questing or spells. ...  
+Inigo: I also have a list of small hints if you prefer that, and can tell you something of the people here. Just tell me what you want to know.  
+Player: questlog  
+Inigo: Oh, I can handle my tasks myself, thank you. If you are looking for something to do, you should go to Morris and ask him for quests. You can also help us fight monsters.  
+Player: Richard  
+Inigo: Richard came here as a shipwrecked carpenter, and now sells tools and food to all adventurers. If you need a rope or shovel, fishing rod or some provisions for a hunt, you should trade with him!  
+Player: rookgaard  
+Inigo: So you heard of it. No use in pining after it, though, child. You're too grown up to be there, anyway. Why don't you choose your vocation downstairs and leave for the mainland, I'm sure you'll have much more fun there!  
+Player: rope  
+Inigo: You should never leave without a rope. NEVER. A rope can save your life. I once fell down into a poison spider lair - without a rope, I wouldn't be standing here today! ...  
+Inigo: You can buy a rope over at Richard's shop. If you don't have the money, kill and loot a few monsters - maybe one of them even has a rope with it, that sort of thing happens.  
+Player: rules  
+Inigo: A general rule is to be polite and kind towards fellow Tibians. This includes not to insult them or to steal their monsters. If you are friendly, you will quickly make friends.  
+Player: salamander  
+Inigo: Yes, the salamanders keep growing in numbers. It seems they are deliberately being aimed at us by the trolls. And I heard them mention something like a 'venerable trainer' who rears them. ...  
+Inigo: I am sure that it would be a good idea to investigate the troll caves. But you should make sure to bring some friends along for help - that old boss troll sounds like a lot of trouble. Don't confront him alone!  
+Player: scythe  
+Inigo: I heard the people in Liberty Bay use it to harvest sugar cane.  
+Player: ship / travel / transport  
+Inigo: Ships are a comfortable way of travelling to distant cities. At any harbour, you can board the ship and ask its captain where he sails to. ...  
+Inigo: Travelling by ship will cost you some gold, though, so be sure to have money with you.  
+Player: shop  
+Inigo: These lads here are retired adventurers and don't like to be called shopkeepers, but yes - you can buy and sell goods from them. ...  
+Inigo: To do so, simply talk to them and ask them for a trade. They will gladly show you their offers and also the things they buy from you  
+Player: shovel  
+Inigo: Second best thing to a rope - a shovel will reveal secret entrances buried under loose stone piles, or under sand, or earth... you will see! ...  
+Inigo: Shovels can be bought at Richard's, like the other equipment, or food. If you don't have the money yet, go out and kill some monsters outside - and maybe you'll even find a shovel, who knows!  
+Player: skill  
+Inigo: Not your level, but your skill with your weapon determines how much damage you make. With a distance weapon like a bow, you train your distance fighting skill, with a sword your sword fighting, etc. ...  
+Inigo: Druids and sorcerers train their magic level by using their mana through spells and runes. Their wand or rod damage is not affected by their magic level. If you have any other questions, tell me.  
+Player: skull  
+Inigo: A white skull means that this player attacked and maybe killed another player without justification. ...  
+Inigo: A red skull means someone has killed many other players, while a black skull depicts someone on a serious killing spree - so watch out!  
+Player: sorcerer  
+Inigo: Sorcerers are elemental magicians. They have mastered fire, energy and death magic.  
+Player: spell  
+Inigo: Every vocation has specific spells that can only be used if you have that vocation. Sorcerers and druids of course rely heavily on spells, while knights only have a few at their disposal. ...  
+Inigo: As an adventurer in training, you have a few spells at your disposal at the beginning, but more will become available as you progress. ...  
+Inigo: Once you're level 8, new spells become available upstairs at the spell trainers Garamond and Tybald. They can tell you more.  
+Player: spider  
+Inigo: If you face spiders, beware of the poisonous ones. If you are poisoned, you will constantly lose health. Come to Oressa the healer, and she'll heal you from poison.  
+Player: temple  
+Inigo: When you die, you will be resurrected in the temple of the city you chose as your home. Temple NPCs, like Oressa here on Dawnport, can heal you if you're wounded or poisoned. Some special temple NPCs can also bless you. ...  
+Inigo: To be fully blessed, you should start the Pilgrimage of Ashes at a local guide in the harbour once you have reached the mainland.  
+Player: Tibia  
+Inigo: That's where we are - the world of Tibia. We're on a small island called Dawnport, not far from the coast of the Tibian Mainland, to be precise.  
+Player: time  
+Inigo: Now it is 9:05 pm - a good time for a trade!  
+Player: tools  
+Inigo: In Tibia, you can use different tools with your environment, or for quests. The most important tools are rope and shovel. A fishing rod's also good when you need to eat, and are near a river or the sea.  
+Player: trade  
+Inigo: Just browse through my current stock.  
+Player: train  
+Inigo: Go through one of the open gates on this floor and you will be equipped with training weapons and spells of a specific vocation. ...  
+Inigo: There are four vocations in Tibia: knight, druid, paladin and sorcerer. Each one has its unique abilities, strengths and weaknesses. Just try them out to see which one suits you best. ...  
+Inigo: We need your help in our battle. Fight monsters to gain experience and better skills, until you reach level 8 at least. Make sure you always have not only a weapon, but a rope with you, as well! ...  
+Inigo: Once you reached level 8 or more, you have to choose one vocation as your definite vocation before you can leave for the Tibian mainland, where more dangers await you. ...  
+Inigo: To choose your definite vocation, talk to Oressa downstairs in the temple. She can also heal you if you are severely wounded or poisoned - just say 'heal' or 'help' to her. ...  
+Inigo: If you have any other questions, tell me.  
+Player: Tybald  
+Inigo: I'm not sure that's his actual name, but I guess he has good reasons to stay incognito here. In any case, he's a formidable fighter and knows usefull spells for knights and paladins.  
+Player: vocation  
+Inigo: A vocation is your profession and chosen destiny, rolled into one. There are four vocations in Tibia: knight, sorcerer, paladin or druid. Each vocation has its unique special abilities with which to fight evil. ...  
+Inigo: You need to choose your vocation before you can leave Dawnport to go to the Mainland. But first, you have to gain enough experience to reach level 8 in order to do so. ...  
+Inigo: Once you've reached level 8 and want to choose your definite vocation, talk to Oressa downstairs in the temple. She can also heal you if you are hurt or poisoned. ...  
+Inigo: If you have any other questions, tell me.  
+Player: weapon  
+Inigo: To defend yourself against enemies, you will need a weapon. You can purchase weapons at Coltrayne's shop.  
+Player: hint  
+Inigo: A brown frame around a player means he or she is in a PvP situation.  
+Player: hint  
+Inigo: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Inigo: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Inigo: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Inigo: Always have a rope with you! If you fall into a hole and are surrounded by monsters, quickly use the rope with the ropespot to get back up and out.  
+Player: hint  
+Inigo: Be careful when you approach three or more monsters because you only can block the attacks of two! In such a situation, even a few salamanders can do severe damage or even kill you.  
+Player: hint  
+Inigo: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Inigo: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Inigo: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Inigo: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die. And anyone can loot your corpse if you are not blessed.  
+Player: hint  
+Inigo: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Inigo: If you don't know the meaning of an icon on the minimap, move the mouse cursor on it and wait a moment.  
+Player: hint  
+Inigo: If you see someone with a skull symbol next to their name, it means he or she has attacked or even killed another player. Be careful around such people, as their next target might be you.  
+Player: hint  
+Inigo: If you want to attack a monster, simply click on it in your battle list. A red frame around a monster shows you are attacking it.  
+Player: hint  
+Inigo: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Inigo: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Inigo: Only found parties with people you trust! You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Inigo: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Inigo: Send private messages to other players by right-clicking on the player or the player's name and select 'Message to ....'. You can also open a 'private message channel' and type in the name of the player.  
+Player: hint  
+Inigo: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Inigo: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Inigo: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Inigo: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Inigo: To open or close skills, battle or VIP list, click on the corresponding button. The buttons are displayed to the left or right of your game window.  
+Player: hint  
+Inigo: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Inigo: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Inigo: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Inigo: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Inigo: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Inigo: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Inigo: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Inigo: If you seek more information, look at or click on objects near you, like wall signs, blackboards or books in book cases - many of them have useful information on Tibia or maybe even a quest you are doing. ...  
+Inigo: By the way, to receive more of my hints, just say hint again.  
+Player: hint  
+Inigo: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Inigo: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Inigo: Almost as important as a rope is a shovel. Many things can be dug out of the sand, and a pile of loose stones might hide a secret entrance. ...  
+Inigo: But if you go down an unknown hole, make sure you have a rope with you to get you out quickly if necessary!  
+Player: hint  
+Inigo: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Inigo: Good hunting!  

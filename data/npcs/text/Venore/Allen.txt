@@ -1,0 +1,39 @@
+Player: hi
+Allen: Welcome to the Plank and Treasurechest Market, Simula! Best trades in town!
+Player: name
+Allen: My name is Allen Richardson. I'm the owner of this market.
+Player: job
+Allen: I run this market and sell furniture.
+Player: offer / goods / furniture / equipment
+Allen: Well, as you can see, we sell furniture. Ask me for a trade if you're interested.
+Player: news
+Allen: Sorry, no time to chat, let's trade.
+Player: trade
+Allen: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture.
+Player: time 
+Allen: It is 10:10 pm. Too bad we run out of cuckoo clocks
+Player: leeland slim
+Allen: Mr. Slim sold me the legendary screwdriver of Kurik! All I had to do was play a small prank on grumpy Aldo. I told him his wife had actually cooked something for lunch ...
+Allen: He had tears in his eyes when he was running home. Hehe! Guess what? Some criminal stole the screwdriver shortly after and replaced it with an old toothbrush!
+Player: abran ironeye
+Allen: Well, that's what I call a real man. This man is a hero! A fighter! A general! If we had an army, he'd be the right man to lead it!
+Player: carlin
+Allen: This bunch of scheming women proves Thais's weakness best.
+Player: thais
+Allen: This city is somewhat outdated.
+Player: venore
+Allen: This is the best city in the whole world! We don't care about greedy kings or ambitious priests and the like ...
+Allen: One fine day our leaders will declare Venore's independence!
+Player: leaders
+Allen: Venore's wealth is based on wise decisions and transactions made by the traders union. They know what people actually want and need, unlike some magistrates or civil servants.
+Player: tooth
+Allen: A rather unusual question. But yes, my son lost his first tooth a few days ago.
+Player: child
+Allen: Yes, I have a child. My son, my wife and me, we're living upstairs.
+Player: money
+Allen: In the end it's all about money. Money can make you a king. Money is a reward for the cleverness. If you are clever enough, you'll never short on money.
+Player: gods
+Allen: Well, it's one thing to respect the gods, but it's something completely different to listen to the lies of some priests.
+Player: bye
+Allen: Good bye, Simula.
+Allen: Good bye.

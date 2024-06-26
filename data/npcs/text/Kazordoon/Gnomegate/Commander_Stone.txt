@@ -1,0 +1,63 @@
+Player: hi
+Commander Stone: Hello recruit.
+Player: recruit
+Commander Stone: I am the commander and coordinator of the Bigfoot, as the gnomes call their foreign legion. I served in several mercenary companies before I decided on a career as an adventurer. ...
+Commander Stone: After I accidentally shot a fellow adventurer an arrow in his knee, I had to leave for some safe place far away in a hurry. ...
+Commander Stone: In Kazordoon I met some gnomish ambassadors, and with the recommendations of an old dwarven friend of mine, I joined their fledgling company. ...
+Commander Stone: I quickly rose in status amongst the gnomes and they finally entrusted me with the lead of the bigfoot, and here I am now.
+Player: commander
+Commander Stone: I am the local commander of the Bigfoot. Hence you can get missions from me for this base or report them to me. For missions from the command base of this sector, you'll have to talk to Gnomeral there.
+Player: coordinator
+Commander Stone: Are you here to receive a mission or to report a successful mission?
+Player: mission
+Commander Stone: Four missions are available for your rank: crystal keeper, spark hunting, monster extermination and mushroom digging. By the way, your rank now allows you to take aditional missions from Gnomeral in Gnomebase Alpha. ...
+Commander Stone: You can undertake each mission but you can turn in a specific mission only once each 20 hours. If you lose a mission item, you can probably buy a spare from Gnomally.
+Player: rank
+Commander Stone: Your renown amongst the gnomes is on grade 4 of 4.
+Player: keeper
+Commander Stone: You will have to repair some damaged crystals. Go into the Crystal Grounds and repair them, using this harmonic crystal. Repair five of them and return to me.
+Player: spark
+Commander Stone: Take this extractor and drive it into the body of a slain crystalcrusher. This will charge your own body with energy sparks. Charge it with seven sparks and return to me. ...
+Commander Stone: Don't worry. The gnomes assured me you'd be safe. That is, unless nothing strange or unusual occurs!
+Player: extermination
+Commander Stone: The wigglers have become a pest that threatens our resources and supplies. Kill 10 wigglers in caves like the mushroom gardens or the truffles ground. Report back to me when you are done.
+Player: digging
+Commander Stone: Take this little piggy here. It will one day become a great mushroom hunter for sure. For now, it depends on you and other pigs. ...
+Commander Stone: Well, other pigs like it is one, I mean. I was of course not comparing you with a pig! Go to the truffles area and follow the truffle pigs there. If they dig up some truffles, let the little pig eat the mushrooms. ...
+Commander Stone: You'll have to feed it three times. Then return it to me. ...
+Commander Stone: Keep in mind that the pig has to be returned to his mother after a while. If you don't do this, the gnomes will call it back via teleport crystals.
+Player: report
+Commander Stone: Which mission do you want to report: crystal keeper, spark hunting, extermination or mushroom digging?
+Player: keeper
+Commander Stone: You are not done yet.
+Player: spark / extermination / digging
+Commander Stone: You already have accepted this mission. Don't forget to report to me when you are done.
+Player: spark / extermination / digging
+Commander Stone: You did well. That will help us a lot. Take your token and this gnomish supply package as a reward.
+Player: Bigfoot
+Commander Stone: We have yet to earn us a name of honour in the gnomish community. We are a young organisation and had little chance to gain some profile. With people like you, though ... well, I guess we can finally make a difference.
+Player: tokens
+Commander Stone: The tokens are a recognition of your efforts on behalf of the gnomes. You can trade them with Gnomally in the north of the great hall for useful stuff and even more renown.
+Player: career
+Commander Stone: In my former life I have been many things: a mercenary, a grave robber, an adventurer, a dragon slayer and even a husband.
+Player: husband
+Commander Stone: Well, it was a short but passionate love affair that ended in tears, bitterness and a daughter.
+Player: daughter
+Commander Stone: I somewhat regret to have been such a bad father, being more absent than anything else. On the other hand, that way my daughter has been spared my bad influence. ...
+Commander Stone: As far as I know, little Rosetta has grown into an intelligent and confident young woman that became a linguist of some renown.
+Player: dwarf
+Commander Stone: The dwarfs have enough problems of their own, so their support of the gnomish cause is half-hearted at best. I assume that was the reason they suggested to the gnomes to form the Bigfoot.
+Player: dwarven
+Commander Stone: The dwarfs have enough problems of their own, so their support of the gnomish cause is half-hearted at best. I assume that was the reason they suggested to the gnomes to form the Bigfoot.
+Player: gnomes
+Commander Stone: I admit they can be a bit irritating sometimes. Then again, aren't we all now and then? The gnomes have fought an isolated war for centuries all on their own. I can't blame them for having some problems with outsiders.
+Player: those below
+Commander Stone: Ah yes, the ever-present unseen enemy. We have lost a number of good men and women on scouting missions before finally learning who is behind the attacks on the gnomish holdings. ...
+Commander Stone: And all has been for naught. The enemy does not show up and all we do is fight their puppets. ...
+Commander Stone: The little we know is, that the enemy is capable of creating strange creatures that fight for him, and that he has enslaved a great number of dwarfs and bred them as warriors. ...
+Commander Stone: Their bases are deep below, some of them so deep that it is not possible for ordinary beings to survive there. ...
+Commander Stone: The true enemy seems to hide even deeper. Another fact is that all the heat and magma is increasingly creeping up to the surface. Although it started slowly, it has gained momentum at an alarming rate. ...
+Commander Stone: Some of the lower gnomish outposts had to be abandoned in spite of not having been attacked at all. Something needs to be done to stop this. ...
+Commander Stone: Whatever those below are up to, I doubt anyone of us will live to witness their endgame.
+Player: bye
+Commander Stone: Good bye and take care!

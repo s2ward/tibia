@@ -1,0 +1,68 @@
+Emily: Oh, my love. I know you are alive, somewhere!
+Player: hi
+Emily: Oh how nice, a visitor! Do sit down.
+Player: name
+Emily: I am Lady Emily Balfour.
+Player: job
+Emily: You must be joking, certainly. As if the talk wasn't bad enough already. With my name, who would consider me for any kind of employment in this city? Fortunately, my son is the local knight trainer, or we'd have starved a long time ago.
+Player: time
+Emily: <melancholy> I do not keep a watch or clock, dear. I've spent too much time alone, I don't want to see how time passes.
+Player: quest
+Emily: I am afraid I don't quite understand you. Do you seek something useful to do? Then please apply at the magistrate. I am sure that a helping hand is always welcome in our city.
+Player: Balfour
+Emily: It is my maiden name. I use it because mother insisted after Henry vanished and people talked.
+Player: mother
+Emily: She meant well, I am sure. However, she is so sensible of our family name and honour! She blames Henry for what happened. I cannot. It was an accident!
+Player: accident
+Emily: I shall never forget it. The factory lighted up, in a ghastly colour, and a loud bang and a cloud of acid glooth steam evaded! I heard a most terrible scream Henry's voice! And I have heard it ever since, at night...
+Player: glooth
+Emily: Oh, that horrible stuff! It was Henry's hobby. His brilliant mind sparkled with ingenious ideas on how to use it, how to improve its uses, how to find new uses. I hate it! It took him from me! <sobs>
+Player: Henry / dr merlay
+Emily: You have news again? Fresh news from Henry? How is he? What are his next plans? Will he come back to the city? ...
+Emily: Oh! Really? You don't say! ... I see. Well, I have waited for so long, I shall endeavour to be patient a little longer. But I long for his return! Oh! Please excuse me, I need a little time to recover from these news. Do come back later!
+Player: henry / dr merlay 
+Emily: You have news, news from Henry! What is it? Where is he? Why doesn't he come himself? Is he ill? Captured? Suffering? Dying? Tell me at once, I beg you! 
+Player: Tell
+Emily: A letter? A letter from Henry! Oh, how wonderful! After all this time! I must read it at once. Oh, you have made me so happy! I shall forever be in your debt!
+Player: henry / dr merlay
+Emily: You have made me very happy in delivering Henry's letter. You shall always be welcome here!
+Player: family
+Emily: We are not on the best of terms with the rest of the Balfours. Graham is my family.
+Player: friend
+Emily: Well, Alaistar Stanton has been very supportive, but he is such a busy man. I really don't want to bother him. ...
+Emily: But since Henry is not officially dead, his family fortune has been inaccessible to us. Graham and I had a hard time, but we get by.
+Player: novel
+Emily: Reading is one of the few pleasures still left to me. <sighs> At least in a novel, there's a happy ending.
+Player: captain caveworm
+Emily: His appearances became rarer and rarer over the years.
+Player: maxxen
+Emily: A traitor to the city.
+Player: azalea
+Emily: I sometimes go and find a little rest in the temple, yes. Such lovely flowers! Such peace and quiet! And Azalea always has a good word for me. She's a nice girl.
+Player: barnabas dee
+Emily: Not even Mr Dee could tell me where Henry is. <sighs> I pray to the gods each day that they will let him return to me.
+Player: christine
+Emily: Never met the girl, though I used to know her mother. Miss D'Albay has a sweet voice, though - I can hear her singing when the wind's right.
+Player: edmund
+Emily: <sigh> He was very understanding, and I am sure it was a reasonable price, but I still miss my heirlooms. Times have been hard indeed.
+Player: emily [as female]
+Emily: From a charming young lady such as you, I should liked to be called Emily again. Let's be friends. <smiles>
+Player: fayla
+Emily: What a wonderful voice she had! I remember seeing her at the opera when I was a girl. <sigh>
+Player: flint
+Emily: Captain Flint is a quiet, reticent man, and I respect that. He and I have a lot in common. We both lost someone dear and do not wish to be reminded of it more often than necessary.
+Player: Graham
+Emily: He is the spitting image of his father. Henry would be so proud. Graham finished best of class and is now the new knight trainer. He is such a dear!
+Player: fyodor
+Emily: I wish Graham would go out more and meet people of his own age. Fyodor Fairfax is a charming idealist, a breath of fresh air in this city! ...
+Emily: He and Graham could change much to the better in this city, I am sure. But they always seem to have so much else to do, they have not even met yet. <sigh> Well, they should know best.
+Player: nicholas
+Emily: Who? Ah, young Nicholas Cavendish. Well, I can't afford his fashionable ideas, dear.
+Player: silas
+Emily: Is that the youngest son of the Earl of D'Arbalesse? He was such a cute baby, as I recall.
+Player: virgil
+Emily: Mr Carefew has been forced to acknowledge that Henry might be alive, and to grant us access to at least some little money...
+Emily: He has had to take back some of his slander, and to excuse himself. Though he still tries to throw spokes in our wheel wherever he can. <sighs>
+Player: bye
+Emily: Good bye. Please come back to visit!
+Emily: Must everybody I like disappear?

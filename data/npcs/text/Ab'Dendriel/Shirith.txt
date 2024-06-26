@@ -1,0 +1,54 @@
+Player: hi / ashari  
+Shirith: Ashari Player. What can I do for you?  
+Player: do for you / job  
+Shirith: I am the overseer of the mines.  
+Player: mines  
+Shirith: We hardly get the ore we need. The worthless trolls are lazy workers. I keep them locked up the whole time.  
+Player: trolls  
+Shirith: We give these useless creatures a reason to live by serving us.  
+Player: locked  
+Shirith: I keep the keys to the mines.  
+Player: keys  
+Shirith: I would sell you a key for 50 gold, ok?  
+Player: yes  
+Shirith: Here it is.  
+Player: name  
+Shirith: I am called Shirith Blooddancer.  
+Player: venore  
+Shirith: If it comes to trade, I can respect those merchants. As long as they leave as soon as they have finished business, that is.  
+Player: carlin  
+Shirith: I think those humans are trespassing on elven territory far too often.  
+Player: thais  
+Shirith: Thais is far away, as all humans should be.  
+Player: time  
+Shirith: It is 8:18 pm.  
+Player: roderick  
+Shirith: We don't need him or any other ambassador here.  
+Player: olrik  
+Shirith: As a post officer he has some use ... as a troll has some use for mining.  
+Player: elves  
+Shirith: We are a superior race, indeed.  
+Player: dwarfs  
+Shirith: They could be of ... some use.  
+Player: humans  
+Shirith: Humans are more annoying than our trolls.  
+Player: cenath  
+Shirith: They think they are better than us.  
+Player: kuridai  
+Shirith: We keep this society running. Without our tools and work our case would be a lost one.  
+Player: deraisim  
+Shirith: They could do more for us if they would try more hard.  
+Player: abdaisim  
+Shirith: Let them go, we don't need them.  
+Player: teshial  
+Shirith: Who needs dreamers these days?  
+Player: ferumbras  
+Shirith: He should be destroyed.  
+Player: excalibug  
+Shirith: Nonsense.  
+Player: news  
+Shirith: I would sell you a key for 50 gold, ok?  
+Player: no  
+Shirith: Ok, then not.  
+Player: bye / farewell / asha thrazi  
+Shirith: Asha Thrazi, Player.  

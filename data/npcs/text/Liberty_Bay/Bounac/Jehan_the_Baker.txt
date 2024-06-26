@@ -1,0 +1,38 @@
+Player: hi (day)
+Jehan the Baker: Welcome to the Bread & Butter! Do you want to buy bread or pastries?
+Player: hi (night)
+Jehan the Baker: Welcome to the Bread & Butter! Do you... hey, it's already closing time. This is my home!
+Player: name / jehan
+Jehan the Baker: My name is Jehan.
+Player: job / baker
+Jehan the Baker: I am the local baker.
+Player: lesh the seer
+Jehan the Baker: Well, I certainly know pastries better than any medicine or magic but I trust him.
+Player: onfroi
+Jehan the Baker: Our wizard Onfroi will heal you in times of need.
+Player: bounac
+Jehan the Baker: I like it here in Bounac.
+Player: john the carpenter
+Jehan the Baker: John is our carpenter, he's currently not in town due to an accident or something.
+Player: kesar the younger
+Jehan the Baker: I quite like Kesar, he doesn't want to be known as a true king but trust me, he is a born leader.
+Player: wes the smith
+Jehan the Baker: Yeah, Wes, our blacksmith, he's alright I guess.
+Player: dal the huntress
+Jehan the Baker: I like Dal, she's a brave huntress and has done a lot for this town.
+Player: fral the butcher
+Jehan the Baker: Fral is a strange fellow, I don't know.
+Player: evrard the miller
+Jehan the Baker: Evrard is the local miller, trustworthy guy.
+Player: innkeeper alphonse
+Jehan the Baker: Ah yes, Alphonse. You got to go visit the Lionheart inn, it's just south of town, near the beach.
+Player: augustin
+Jehan the Baker: Augustin is a trader on Kesar's court, never talked to him.
+Player: yselda
+Jehan the Baker: A delicious name, don't you think? All the best to you!
+Player: siege / drume / fugue
+Jehan the Baker: Drume and Fugue just returned here to invade us. I don't know what's really going on, your guess is as good as mine.
+Player: bread / pastries
+Jehan the Baker: Of course, here you are!
+Player: bye
+Jehan the Baker: Goodbye.

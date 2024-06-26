@@ -1,0 +1,20 @@
+Player: hi
+Gelagos: Hehehe.
+Player: no
+Gelagos: You are as stupid as Bron.
+Player: name
+Gelagos: Bronbronbronbronbron. Bronnnn!
+Player: Gelagos
+Gelagos: That's me.
+Player: job
+Gelagos: Barbarians are stupid.
+Player: outfit
+Gelagos: Can I have free outfits?
+Player: yes
+Gelagos: I think that's wrong.
+Player: blood
+Gelagos: Roses are red, and so is blood.
+Player: brother
+Gelagos: Ajax is even more stupid.
+Player: bye
+Gelagos: Hope you die and lose it.

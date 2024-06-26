@@ -1,0 +1,71 @@
+NPC: Cedrik  
+Player: hi / hello  
+Cedrik: Hello Player. Have a look at my wares.  
+Player: arrow  
+Cedrik: I have normal arrows, sniper arrows, flaming arrows, shiver arrows, flash arrows, earth arrows and onyx arrows used with bows. Just ask me for a trade.  
+Player: bolt  
+Cedrik: I have bolts, piercing bolts and power bolts used with crossbows.  
+Player: bow  
+Cedrik: I don't buy used bows. If you want to buy one, just ask me for a trade.  
+Player: Charlotta  
+Cedrik: Old Charlotta is a good healer and knows how to handle lesser spirits that might plague you. Her lucky charms are valued by everyone in Liberty Bay.  
+Player: Chondur  
+Cedrik: Uhh. Well, you heard of Chondur, didn't you? <whispers> Then you know he commands the spirits, good or bad. If your are in spiritual trouble or cursed, he might be your only help!  
+Player: crossbow  
+Cedrik: I don't buy used crossbows. If you want to buy one, just ask me for a trade.  
+Player: cult  
+Cedrik: Well, there are rumours, you know? Rumours about some people that might be able to change things. People that know about spirits and magic as much as...certain others.  
+Player: distance  
+Cedrik: Well, I sell spears, bows, crossbows and ammunition for distance fighting. Ask me for a trade if you're interested to see my wares.  
+Player: Eleonore  
+Cedrik: Quite pretty but probably as hollow as all of those rich women.  
+Player: Explorer Society  
+Cedrik: I have little contact with those upper-class people.  
+Player: Ferumbras  
+Cedrik: Shhh! Are you mad to mention him?!  
+Player: governor  
+Cedrik: He's not from here, not one of us, you know. How could he understand our needs and problems.  
+Player: Isolde  
+Cedrik: Quite pretty and polite. Still she shouldn't be here at all.  
+Player: job  
+Cedrik: I'm a simple but honourable smith.  
+Player: king  
+Cedrik: Hmpf. The king, eh? Well he lives in faraway Thais. I wonder why such a mighty man has interest in our little community.  
+Player: liberty bay  
+Cedrik: It's a fine town. Would be better if we were left on our own though.  
+Player: loveless / theodore  
+Cedrik: I guess that man is the true power behind the governor.  
+Player: offer / buy / goods / sell / equipment / stuff / ware / shield / legs / trousers / weapon / ammunition / ammo / armor / helmet  
+Cedrik: My offers are weapons, ammunition, armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade.  
+Player: pirate  
+Cedrik: Let me put it that way: If someone bites Venore's leg, there is more clamour than it's worth it. As for my part, I wouldn't bother if someone would swallow that leg.  
+Player: plantations  
+Cedrik: Perhaps if one day the plantations don't give enough sugar canes anymore, the Venoreans might leave.  
+Player: quara  
+Cedrik: The quara are a pest. They might be our doom one day. Who knows how many of them are down there? One day they might make an assault on all of us at once to wipe us from the map.  
+Player: rum  
+Cedrik: Ah, rum. That alone makes sugar important enough.  
+Player: Raymond Striker  
+Cedrik: That daring rascal has outsmarted the fat traders and the military more than once. Harhar. Some people here still admire that.  
+Player: spear  
+Cedrik: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.  
+Player: sugar  
+Cedrik: Sugar brought us all the trouble but I guess we need it.  
+Player: thais  
+Cedrik: Thais is a faraway city with strange people. I only wish they'd stay there.  
+Player: trade  
+Cedrik: Of course, just browse through my wares. If you're only interested in distance equipment, let me know.  
+Player: Tristan  
+Cedrik: Not too bad for a Thaian guy.  
+Player: venore  
+Cedrik: Bah, Venore. <spits on the floor> Calling it a snake's nest would be an insult of course, but for the snake.  
+Player: voodoo  
+Cedrik: Umh. <looks around nervously> Don't speak aloud about such things. You never know which spirit's attention you might draw upon yourself.  
+Player: Wyrmslicer  
+Cedrik: Some heartless soldier as far as I can tell. I'm quite sure the king and the governor just love him.  
+Player: bye / farewell  
+Cedrik: Bye Player.  
+Player: trade  
+Cedrik: Of course, just browse through my wares. If you're only interested in distance equipment, let me know.  
+Player: distance  
+Cedrik: Here is my distance assortment.  

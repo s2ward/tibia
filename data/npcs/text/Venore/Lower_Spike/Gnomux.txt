@@ -1,0 +1,20 @@
+Player: Hi  
+Gnomux: Hi!  
+Player: Job  
+Gnomux: I'm responsible for resupplying foolish adventurers with equipment that they may have lost. If you're one of them, just ask me about a trade.  
+Player: Trade  
+Gnomux: Here you are.   
+Player: Gnomes  
+Gnomux: What could I say about gnomes that anyone would not know? I mean, we're interesting if not fascinating, after all.  
+Player: Dwarf  
+Gnomux: They are good soldiers, but they are inflexible and unmoving in their ways of thinking, like stone. That makes it a bit hard for us to negotiate with them, as we gnomes always come up with new ideas.  
+Player: Humans  
+Gnomux: You humans are quite funny. Not only because of how awkward you look with those ridiculous long limbs, but how you talk and behave, too.  
+Player: Spike  
+Gnomux: I came here as a crystal farmer and know the Spike all the way back to when it was a little baby crystal. I admit I feel a little fatherly pride in how big and healthy it has become. ... 
+Player: Below  
+Gnomux: I think that every setback we faced here was more or less directly the work of the unseen hand of those below. They know we are coming. And they are afraid!  
+Player: alpha
+Gnomux: Gnomebase Alpha is a busy place with many opportunities for gnomes and their allies. But I prefer the remoteness of the Spike, as I can mind my own business more easily here.
+Player: Bye  
+Gnomux: Good bye Player and take care.  

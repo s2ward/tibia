@@ -1,0 +1,56 @@
+Player: hi
+Imbul: Hi, Player. If you want me to transport you to the other end of the city, feel free to ask me for a passage.
+Player: name
+Imbul: My name is Imbul.
+Player: job
+Imbul: I'm a ferryman. If you want me to transport you to the other end of the city, feel free to ask me for a passage.
+Player: time
+Imbul: Sorry, I don't own a watch.
+Player: tibia
+Imbul: That is our world, yes.
+Player: king
+Imbul: It must be fun to be a king.
+Player: jungle
+Imbul: We already lost many settlers to the jungle. No one knows who is next.
+Player: apes
+Imbul: They stole my paddle once.
+Player: lizards
+Imbul: If you follow the river far enough upcountry, you might see a lizardman. But be careful, they'll attack you as soon as they catch sight of you.
+Player: dworcs
+Imbul: They are all murderers and cannibals.
+Player: thais
+Imbul: It's where the king lives. The roads there must be made of gold or marble at least.
+Player: venore
+Imbul: Here are many people from Venore. I used to live there but I lost my job and took the chance to come here.
+Player: edron
+Imbul: Edron is some isle where the richest knights and sorcerers live. There they are not annoyed of the constant begging of poor people.
+Player: carlin
+Imbul: It's a city, I know that.
+Player: darama
+Imbul: Many came here to make their fortune. But it might take a while to become rich.
+Player: darashia
+Imbul: That's somewhere behind that mountain.
+Player: ankrahmun
+Imbul: I heard it's a ghost town or something like that.
+Player: kazordoon
+Imbul: I think those dwarves came from Kazordoon.
+Player: dwarves / dwarfs
+Imbul: The dwarves that live here are searching for gold.
+Player: ab'dendriel
+Imbul: What is that?
+Player: elf / elves
+Imbul: The elven queen is the most beautiful woman in Tibia.
+Player: ferumbras
+Imbul: Why have some magicians to become evil?
+Player: excalibug
+Imbul: I never heard about that.
+Player: passage / trip / route / destination / sail / go
+Imbul: I can bring you either to the east end of Port Hope or to the centre of the town, where would you like to go?
+Player: centre / east
+Imbul: Do you seek a passage to the ( centre / east end ) of Port Hope for 7 gold?
+Player: no
+Imbul: Maybe another time.
+Player: yes
+Imbul: Here we go!
+Player: bye
+Imbul: Bye.

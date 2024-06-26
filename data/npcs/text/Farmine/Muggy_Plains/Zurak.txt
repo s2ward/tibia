@@ -1,0 +1,38 @@
+Player: hi  
+Zurak: Hurry before zzomeone will zee uzz.  
+Player: Hurry  
+Zurak: Me zzimple ferryman. I arrange trip to Izzle of Zztrife.  
+Player: trip  
+Zurak: You want trip to Izzle of Zztrife?  
+Player: yes  
+Zurak: It'zz your doom you travel to.  
+Player: trip / passage / boat / main  
+Zurak: You want trip to Izzle of Zztrife?  
+Player: yes  
+Zurak: It'zz your doom you travel to.  
+Player: trip / passage / boat / main  
+Zurak: You want trip to mainland?  
+Player: no  
+Zurak: Zzoftzzkin zzhould better flee.  
+Player: name  
+Zurak: Me Zurak.  
+Player: job  
+Zurak: Me zzimple ferryman. I arrange trip to mainland of Zao.  
+Player: lizard  
+Zurak: Me people rule zzhe whole land. If you hurt me, all my people will come for you!  
+Player: dragon  
+Zurak: Zzhe mighty dragonzz are our rulerzz. One dragon can wipe out all our people! Zzo obey when dragon or emizzary are talking! You obey or dead!  
+Player: tournament  
+Zurak: Tournament important izz. Many like you come to fight. Only bezzt of bezzt are allowed to fight. Many try. Zzhinking zzhem being bezzt. Mozzt end up dead! Tournament izz not for zzhe weak.  
+Player: ztiss  
+Zurak: Ztiss high mighty emizzary of dragon kingzz! When Ztiss zzpeak all obey!  
+Player: reward  
+Zurak: Me can alzzo guide you to rewardroom if you did not collect your reward for fighting yet. You want?  
+Player: no  
+Zurak: I juzzt wanted to let you know.  
+Player: reward  
+Zurak: Me can alzzo guide you to rewardroom if you did not collect your reward for fighting yet. You want?  
+Player: yes  
+Zurak: Oh, lookzz like you already collected all rewardzz! Me no tranzzport you anywhere.  
+Player: bye  
+Zurak: Yezz, zztrange creature leave Zurak.  

@@ -1,0 +1,24 @@
+Player: hi
+Yana: Blessings, Player! How may I help you? Do you wish to trade some tokens, prove your worth to receive powerful imbuements, or do you need some information?
+Player: trade
+Yana: I have creature products for the imbuements strike, vampirism and void. Make your choice, please!
+Player: tokens
+Yana: If you have any gold tokens with you, let's have a look! These are my offers.
+Player: worth
+Yana: Disrupt the Heart of Destruction, fell the World Devourer to prove your worth and you will be granted the power to imbue 'Powerful Strike', 'Powerful Void' and 'Powerful Vampirism'.
+Player: information
+Yana: Tokens are small objects made of metal or other materials. You can use them to buy superior equipment from token traders like me. ...
+Yana: There are several ways to obtain the tokens I'm interested in - killing certain bosses, for example. In exchange for a certain amount of tokens, I can offer you some first-class items.
+Player: name
+Yana: I'm Yana O'Reilly, bespoke smith and a token trader. It's a pleasure to meet you.
+Player: Yana
+Yana: Yes, that's my name. My mother chose it, it means prudence or cunningness in some old and almost forgotten Tibian language.
+Player: family
+Yana: You might find my cousin Cledwyn downstairs on the main floor. We're all interested in rare tokens, always on the move to offer our services in exchange for these treasures. ...
+Yana: There's a kind of a competition on who's the most successful token hunter. If you should have any gold tokens with you, we could make a deal.
+Player: Cledwyn
+Yana: Yes, he's my cousin. He also collects rare tokens, but unlike me he's interested in silver tokens. Call this passion something of a family trait.
+Player: job
+Yana: I'm collecting rare tokens made of metal or gemstones. At the moment, I'm interested in gold tokens. If you should happen to have some with you, I could exchange them for special weapons of different types.
+Player: bye
+Yana: Farewell, Player.

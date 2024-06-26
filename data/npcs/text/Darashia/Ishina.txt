@@ -1,0 +1,35 @@
+Ishina: Jewellery and fine gems for sale! Have a look!
+Player: hi
+Ishina: Be greeted, Simula. Which of my fine gems do you need?
+Player: name
+Ishina: My name is Ishina.
+Player: job / need
+Ishina: I am a jeweller. Maybe you want to have a look at my wonderful offers.
+Player: time
+Ishina: Currently it is 2:56 pm.
+Player: offers
+Ishina: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.
+Player: goblets
+Ishina: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.
+Player: trade
+Ishina: Here, take a look.
+Player: caliph / kazzan
+Ishina: The caliph buys the most precious gems and jewellery for himself.
+Player: daraman
+Ishina: Oh, I am not an expert in mythology and philosophy. Better ask the enlightened Kasmir about this.
+Player: kasmir
+Ishina: You will find Kasmir in the Muhayin. He's a philosopher and teacher in the ways of Daraman.
+Player: muhayin
+Ishina: It's the sacred tower. A place of solitude and meditation.
+Player: offer
+Ishina: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.
+Player: gem
+Ishina: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.
+Player: pearl
+Ishina: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.
+Player: jewel
+Ishina: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.
+Player: talon
+Ishina: We don't trade with them.
+Player: bye
+Ishina: Daraman's blessings and good bye.

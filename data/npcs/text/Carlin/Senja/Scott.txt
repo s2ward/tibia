@@ -1,0 +1,73 @@
+Player: hi
+Scott: Welcome to my little inn, Player. If you need food, let me know.
+Player: name
+Scott: My name is Scott.
+Player: Senja
+Scott: It's a peaceful island. Cold and lonesome but I like it.
+Player: job
+Scott: I'm the keeper of the inn. You can buy food here.
+Player: time
+Scott: It is exactly 8:00 am.
+Player: Tibia
+Scott: Oh, I'm happy to live in this world full of thrilling things.
+Player: goods
+Scott: I can offer you bread, cheese, ham, or meat. If you'd like to see my offers, ask me for a trade.
+Player: castle
+Scott: It is said that there are some secrets to discover around the mage's castle.
+Player: Carlin
+Scott: Sometimes I travel to Carlin and visit the market.
+Player: Thais
+Scott: It's a city in the south-west of Tibia.
+Player: queen
+Scott: She is a strong and wise leader. We owe her protection from evil monsters.
+Player: trade
+Scott: Of course, just browse through my wares.
+Player: rumour  
+Scott: A sailor from Carlin told me that the natives of the Ice Islands pray to different gods. I think 'Chyll' is one of them or was that the name of the northern winds?? Well, doesn't matter! Primitives!  
+Player: rumour  
+Scott: I heard something about the fauna of the Ice Islands. The people tattle about birds that don't fly but swim!!! Isn't that ridiculous?!?!  
+Player: rumour  
+Scott: I heard it through the grapevine that the people on the Ice Islands eat fish all the time. But not only usual fish, no. They eat red and green fishes! ...  
+Scott: ... The only green fish I know is the one you can buy at Permaret in Edron as a 'special offer' and that would be your last meal. Trust me!  
+Player: rumour  
+Scott: I heard about one guy, that is living in the capital of the Ice Islands, who has become crazy after searching the mines there. He always mumbles things about ancient demons and the end of the world.  
+Player: rumour  
+Scott: A friend of mine, Captain Ogden Brewboiler, travelled to the forgotten northern sea. He is an ambitious sailor but still I have a bad feeling about it. I hope he's doing well.  
+Player: rumour  
+Scott: The people talk about a huge mountain of ice, several hundreds of metres thick located in the centre of the main Ice Island.  
+Player: rumour  
+Scott: Have you heard about the natives of the Ice Islands? It sounds very confusing to me. ...  
+Scott: ... I mean there are barbarians and barbarians, some are good, the others not. One call themselves 'Norsir' the others 'Raiders', but actually they are all the same.  
+Player: rumour  
+Scott: Some old people tell stories about the creation war and these islands in the North ruled by snow and ice. They say it once was a fertile region. Mighty magicians used a huge crystal of ice to store all the coldness inside.  
+Player: rumour  
+Scott: I heard about dozens of sea serpents terrorising the sea around the islands in the North. ...  
+Scott: ... It seems that this was the reason why nobody has discovered the Ice Islands before. Something must have happened because at a moment's notice they disappeared.  
+Player: rumour  
+Scott: A sailor told me a story about female raiders. He said they can talk to the beasts that live in the wilderness of the north. ...  
+Scott: ... The wolves and bears protect them and tear their foes into pieces if they order them to. If you ask me, this is just gossip.  
+Player: rumour  
+Scott: A week ago an old drunkard mumbled something about hairy elephants!! I wonder who's telling all that weird stuff. I never met someone who was in the North and returned to the main continent.  
+Player: rumour  
+Scott: I heard something about the barbarian tribes, who live on the newly discovered Ice Islands, that are called 'raiders'. The mightiest of them is headed by a shaman witch. There are rumours that she is immortal.  
+Player: rumour  
+Scott: I heard that the town is mostly built out of wood. The inhabitants nearly stubbed all their forests. ...  
+Scott: ... That must be the reason why the Carlin traders are so interested in getting there. They sense gold in selling wood.  
+Player: rumour  
+Scott: I heard something about a civil war going on in the North. It seems that there are different tribes of 'raiders' making the whole area an even rougher place than it is already.  
+Player: rumour  
+Scott: I received a letter from a friend who works on the Ice Islands. ...  
+Scott: ... He was writing strange things about suspicious inhabitants and something about a test to become one of them. It was very hard to read the letter, I think he was drunk as hell when he wrote it.  
+Player: rumour  
+Scott: A guy told me that the Carlin Trading Syndicate sent out an employee to the new market in the North to open up a new branch of their company.  
+Player: rumour  
+Scott: Some citizens from Venore settled on one of the islands in the North. I heard stories about exotic products they are gathering from their hunts.  
+Player: rumour  
+Scott: The Carlin Trading Syndicate is sending expedition after expedition to the new discovered islands in the north. ...  
+Scott: ... I heard that they dig for valuable ore which was found in an old mine. I wonder why nobody of them has returned yet.  
+Player: rumour  
+Scott: I heard about some strange creatures that appeared on one of the smaller ice islands. Reportedly they have a human torso but the lower body of a white-furred goat! Can you imagine that? ...  
+Scott: Travellers told me that they recently moved into the caverns beneath the island. There, they are growing fresh grass and even flowers! How is that possible in a frozen cave? Some kind of magic has to be involved. ...  
+Scott: I'm just not sure whether it is of the benevolent or the malicious kind.  
+Player: bye
+Scott: I hope to see you again, Player.

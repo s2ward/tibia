@@ -1,0 +1,44 @@
+Player: hi / hello  
+Bruce: Good day, sir. If you have no official business or want to pass the gate, please move on.  
+Player: alchemist quarter  
+Bruce: There has been a huge explosion due to some unknown experiments. Ever since then, the quarter is contaminated.  
+Player: arena quarter  
+Bruce: This used to be a great recreation area with a zoo and a lively arena.  
+Player: augur  
+Bruce: They are our supervisors.  
+Player: cemetery quarter  
+Bruce: This is the quarter to the east. Don't expect any worshippers of our Tibian gods though.  
+Player: factory quarter  
+Bruce: Those old and malfunctioning machines could pose a threat to civilians.  
+Player: fenrock  
+Bruce: It's a snowy island to the west.  
+Player: foreign quarter  
+Bruce: New inhabitants are arriving daily, and most will be stuck in the foreigners' quarter forever.  
+Player: island  
+Bruce: Which island are you talking about? Mistrock, Fenrock or Vengoth?  
+Player: job / business  
+Bruce: Master Sergeant of the Yalaharian Guard Force, sir.  
+Player: magician quarter  
+Bruce: I have huge respect for those highly educated magicians living there and dealing with the other magical creatures each day.  
+Player: mission  
+Bruce: What is that mission you are talking about?  
+Player: mistrock  
+Bruce: No one knows what this island is really called, but the people stick with 'mistrock' due to it being covered in mist.  
+Player: name  
+Bruce: My name is Bruce.  
+Player: pass / gate  
+Bruce: Should I let you pass the gate? Are you headed for the alchemist or the cemetery quarter?  
+Player: quarter  
+Bruce: Our guards protect the gates between all eight quarters.  
+Player: random word  
+Bruce: I have nothing to say about that topic.  
+Player: sunken quarter  
+Bruce: The quarter collapsed into the ocean.  
+Player: trade quarter  
+Bruce: I think it's an outrage that this quarter is controlled by criminals.  
+Player: vengoth  
+Bruce: One day the vampires on Vengoth will become a big threat. We should expect the worst from that place.  
+Player: Yalahar  
+Bruce: I will protect this city with my life.  
+Player: bye  
+Bruce: Goodbye citizen!  

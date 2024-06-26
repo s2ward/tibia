@@ -1,0 +1,79 @@
+Player: hi
+Tooth Fairy: Greetings, human being.
+Player: name
+Tooth Fairy: My name is a secret. Sorry but I won't tell you.
+Player: job
+Tooth Fairy: I'm the tooth fairy. I would think that says it all. I took over the body of a seagull.
+Player: time
+Tooth Fairy: Time is getting short because quite a few children are waiting for their presents.
+Player: news / rumours / rumors
+Tooth Fairy: My sisters and brothers told me that there is a strange evil that threatens this world.
+Player: tooth fairy
+Tooth Fairy: I'm a fae. A rather unique kind of fae, because - as I said - I have a special responsibility for mortal children's milk teeth.
+Player: seagull
+Tooth Fairy: Outside of our secret realm my siblings and I can't keep our true shape. If we want to travel other parts of the world, we must take over the bodies of animals. But we are causing them no harm and we just take control if necessary.
+Player: fae / siblings
+Tooth Fairy: Some call us nature spirits or peri but we prefer the term fae. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...
+Tooth Fairy: As we tend to be secretive about our true nature I'm afraid I can't tell you more.
+Player: realm
+Tooth Fairy: We call it Feyrist and it is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.
+Player: feyrist
+Tooth Fairy: It is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust I will tell you how to reach it.
+Player: protect / evil
+Tooth Fairy: Something is threatening our realm. But I don't know the details. If you are interested you should talk to Alkestios.
+Player: Alkestios
+Tooth Fairy: He's a brother of mine. He took it upon himself to kind of lead our mission in the outside world. You may find him south of Ab'Dendriel.
+Player: maelyrra
+Tooth Fairy: She is one of the fae queens of Feyrist.
+Player: ikassis
+Tooth Fairy: She's one of my sisters. I guess she took over the body of a snake.
+Player: aurita
+Tooth Fairy: She's a beautiful mermaid, dwelling in the warm waters at Feyrist's shores. She stole Taegen's heart.
+Player: Taegen
+Tooth Fairy: He's one of my brethren, a faun. He preferred not to leave Feyrist - mainly because of Aurita, I assume.
+Player: valindara
+Tooth Fairy: She is a swan maiden and lives in Feyrist.
+Player: talila
+Tooth Fairy: She is a pixies living in Feyrist.
+Player: benevola
+Tooth Fairy: She's a druid who is living near Ab'Dendriel. Alkestios befriended her, so I guess she is trustworthy.
+Player: tibia
+Tooth Fairy: This is the world we are living in - and this place here in particular is very strange, if you're asking me.
+Player: Ab'Dendriel
+Tooth Fairy: It's a place full of life, huge trees, lush plants and various animals.
+Player: roshamuul
+Tooth Fairy: This is a dark and dangerous place. It is full of terrible monsters and made of nightmares - literally.
+Player: oramond / rathleton / darama
+Tooth Fairy: I have never heard of this place.
+Player: edron / darashia
+Tooth Fairy: It's a place full of stone buildings and people.
+Player: thais / carlin / venore
+Tooth Fairy: It's a place full of stone buildings and people. In addition, there is a small child waiting for a present. *sigh*.
+Player: child
+Tooth Fairy: Small creatures, the offspring of mortals like humans, elves or dwarves. They have the most colourful and vivid dreams. And they lose their first teeth when they grow. I gather these teeth and give them a present in return.
+Player: humans
+Tooth Fairy: They inhabit these huge places filled with stone buildings. They call them towns, I guess. And they have children who are waiting for their presents. *sigh*.
+Player: elves
+Tooth Fairy: They are inhabiting Ab'Dendriel and live in close touch with nature.
+Player: dwarves
+Tooth Fairy: They are living underneath the earth and are ... digging. Or so I heard.
+Player: kazordoon
+Tooth Fairy: It has something to do with ... dwarves, I guess.
+Player: presents / mission
+Tooth Fairy: You've got me, I really have a little problem here. What gave it away? My sorrowful expression? Yes, I thought so. This is what troubles me: I'm the tooth fairy. Well, this wouldn't be a problem at all under normal circumstances. ...
+Tooth Fairy: I love gathering children's milk teeth and bringing presents for them. Until now, I did so by using a spell. This spell teleported me into the children's bedrooms and - after carrying out my duty - back to my secret realm. ...
+Tooth Fairy: But then I made the mistake of using a magical portal and entering this part of the world. Everything is strange and different here and the worst thing: my spells don't work! It will take some time until I can use the portal again. ...
+Tooth Fairy: Thus I'm stuck here for a while. But there are some children who lost their first milk tooth and are now waiting for their presents. Without my spells, I'm feeling utterly helpless. ...
+Tooth Fairy: I don't dare going to their homes at night but I know they will be sad about the missing presents. Would you help me?
+Player: milk teeth
+Tooth Fairy: Children's milk teeth are precious. You can use them to ... Well, if I think it through this is nothing you have to know. I'm sorry, that's exclusive fae knowledge.
+Player: parts
+Tooth Fairy: Three of my siblings and I have hidden the treasure after entering this part of the world. As you helped me with the children's presents it's fine by me if you find and take it. ...
+Tooth Fairy: Of course you must ask my brothers and sisters for the other map parts. Unfortunately I don't know all of their whereabouts. But you can find some of them north of a place called Carlin. They took over a group of trees.
+Player: cause / milk teeth
+Tooth Fairy: As I'm the tooth fairy it should not surprise you to hear that I have a small collection. Yes, a tooth collection, of course. But I'm still lacking some special specimens. ...
+Tooth Fairy: I would give you a little reward if you bring me one of the following - or all of them: an orc tooth, a shark tooth, a vampire tooth, a behemoth fang, a carrion worm fang or a werewolf fangs.
+Player: orc / shark / vampire / behemoth / carrion worm / werewolf fangs
+Tooth Fairy: If you bring me {x} I'll give you a little reward.
+Player: bye
+Tooth Fairy: Take care of your teeth!

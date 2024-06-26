@@ -1,0 +1,103 @@
+Player: hi
+Kasmir: May Daraman enlighten you Simula!
+Player: name
+Kasmir: Kasmir Ibn Darasir.
+Player: job
+Kasmir: I am a healer and chosen of Daraman.
+Player: time
+Kasmir: Now, it is 2:11 am.
+Player: how are you
+Kasmir: Thank you, I'm fine and my soul is strong.
+Player: healer
+Kasmir: You do not need any healing right now.
+Player: chosen / heaven
+Kasmir: Daraman had a vision that all mortals are able to ascend to heaven, becoming celestial beings.
+Player: celestial
+Kasmir: By enhancing one's soul a mortal can ascend to heaven. If you are not prepared to ascend, you are bound to this world by reincarnation.
+Player: reincarnation
+Kasmir: If your soul is not strong and purified, you will not ascend but return to life on death, even losing strength in the process.
+Player: soul
+Kasmir: The soul was made by the gods and therefore is divine. So by enhancing its divinity it can become more like the image of its creators.
+Player: Daraman
+Kasmir: Daraman travelled the world and learned the secrets of the ancients. At last he learned the secret of ascension and founded his philosophy.
+Player: philosophy
+Kasmir: Daraman led his followers to this promised land to follow his teachings. It was named Darama after him later.
+Player: tibia
+Kasmir: The world is only a portal the gods created to allow our ascension to heaven.
+Player: soul
+Kasmir: The soul was made by the gods and therefore is divine. So by enhancing its divinity it can become more like the image of its creators.
+Player: life
+Kasmir: Life is divine though not without flaws.
+Player: fight / slay
+Kasmir: Fight is unavoidable sometimes. Make sure only your body is hurt but not your soul.
+Player: necromancer
+Kasmir: Undeath is even worse than reincarnation. Those souls are nothing but a rotting mockery of a soul on the path of ascension.
+Player: donation / money / gold
+Kasmir: Do you want to make a donation?
+Player: no
+Kasmir: As you wish.
+Player: yes <green sparkles>
+Kasmir: May Daraman guide your quest for ascension.
+Player: sell
+Kasmir: Go to the bazaar if you are interested in worldly wealth.
+Player: citizen
+Kasmir: The people are too concerned about the illusions of the moment and care less and less about Daraman's philosophy.
+Player: caliph
+Kasmir: The caliph is heavily involved in the affairs in the world, but one has to make this sacrifice for the welfare of all.
+Player: monster
+Kasmir: They misuse their god given souls for evil and must be destroyed.
+Player: mission / quest
+Kasmir: Your quest should be to prepare your soul for ascension.
+Player: sin
+Kasmir: Do you whish to confess your sins?
+Player: no
+Kasmir: As you wish.
+Player: yes
+Kasmir: So what does trouble your soul, pilgrim?
+Player: <any word>
+Kasmir: Meditate on that and try harder to improve soul.
+Player: marriage / ceremony
+Kasmir: You want me to initiate a marriage ceremony?
+Player: ferumbras
+Kasmir: His soul is corrupted beyond any hope for ascension.
+Player: excalibug
+Kasmir: Your greed for such items can easily corrupt your soul.
+Player: fardos
+Kasmir: Fardos is the creator. It was his work that we possess divine souls.
+Player: uman
+Kasmir: Uman is the positive aspect of magic. His powers flow through each Tibian, making us his children.
+Player: suon
+Kasmir: Suon is the sun. He watches our ascension.
+Player: crunor
+Kasmir: Crunor is the force of life and part of our all being.
+Player: nornur
+Kasmir: Nornur is the mysterious god of fate. Daraman taught us that he is the judge who allows ascension.
+Player: bastesh
+Kasmir: Bastesh is the goddess of the seas, and deep as the see is our soul, indeed.
+Player: kirok
+Kasmir: Kirok is called the mad one. He gifted us with the creativity to achive our ascension.
+Player: toth
+Kasmir: Toth is the final judge. The unworthy are condemened to reincarnation.
+Player: banor
+Kasmir: Banor is the very proof that ascension is possible.
+Player: tibiasula
+Kasmir: Though this entity is dead, Tibiasula's energy is present in all of us.
+Player: zathroth
+Kasmir: Zathroth is the corruptor of souls who does not want mortals to ascend and become more like him.
+Player: fafnar
+Kasmir: Fafnar is a test for our endurance and dilligence.
+Player: brog
+Kasmir: Brog's hot blood is in our veins, tempting us and distracting us from improvement of our souls.
+Player: urgith
+Kasmir: The bonemaster is strong in the ruins of Drefia. There you can test the braveness of your soul ... or lose it to his minions.
+Player: archdemons
+Kasmir: They are soulless and therefore without true power in the end.
+Player: sula
+Kasmir: Sula is the raw force of water.
+Player: air
+Kasmir: Air is without true mind and meaning.
+Player: fire
+Kasmir: Fire is without true mind and meaning.
+Player: bye
+Kasmir: Good bye, Simula. May Daraman's all-seeing eye watch your travels!
+Kasmir: Gone like a Djinn...

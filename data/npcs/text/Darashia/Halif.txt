@@ -1,0 +1,19 @@
+Halif: Come, come, and see my wonderful wares!
+Player: hi
+Halif: Greetings Simula, you child of wealth and generousity. What wise decision to buy my wares.
+Player: name
+Halif: I am Halif Ibn Onor, known as Halif the honest.
+Player: job
+Halif: Oh, I guess your cleverness already made the profession of the humble equipment tradesman obvious to you.
+Player: time
+Halif: I would love to tell you the time, but I can not make the watchmaker's kids starve as a gazelle in the heart of the desert.
+Player: food
+Halif: I am deeply sorry but you have to look for that elsewhere.
+Player: light
+Halif: I sell torches, candlesticks, candelabras, and oil, o seeker of enlightment.
+Player: equipment / wares
+Halif: Oh, I sell a lot of general equipment. Ask me for a trade to see my wares.
+Player: trade
+Halif: My twelve starving children will be happy about the money you spend here.
+Player: bye
+Halif: Good bye, may Daraman bless your travels.

@@ -1,0 +1,85 @@
+Player: hi/hello  
+H.L.: Hmmm. I buy weapons, armor, and other stuff. What do you want, Player?  
+Player: ab'dendriel  
+H.L.: Elves... I hate them.  
+Player: god  
+H.L.: Forget the gods  
+Player: brat/woman  
+H.L.: Women are not good for fighting. I don't need them. I don't trade with them. And I don't like them.  
+Player: boss  
+H.L.: Well Snake Eye isn't 'my' boss if you mean that.  
+Player: broken  
+H.L.: Hmmm. Let me think. I guess you need something big. And steel-reinforced. A barrel, maybe.  
+Player: building  
+H.L.: You mean our old building in the south-west?  
+Player: no/yes  
+H.L.: Ah, nevermind.  
+H.L.: That's the old hideout. Quite an interesting place down there. There are lots of security mechanics and traps. But it collapsed partly.  
+Player: collapsed  
+H.L.: Yes. That's why we... well, they planned a new hideout. Our old hideout was the original vault.  
+H.L.: There might be still some good stuff in there, I guess.  
+Player: stuff  
+H.L.: You mean inside that vault? Uhm. I don't know what stuff there is. Sorry.  
+Player: buy/equipment/goods/ware  
+H.L.: I don't have anything to offer, but I buy almost everything. Wanna trade?  
+Player: trade  
+H.L.: I buy weapons, distance weapons, armors and shields. If you want to see only a certain category, tell me which of those.  
+Player: thais  
+H.L.: Ha! Thais. I lived there once. You know, I was in the royal army. But what they're fighting for... it's all wrong. I deserted.  
+Player: royal army  
+H.L.: You get an excellent fighter training in the army. But they are fighting for the wrong cause.  
+Player: cause  
+H.L.: I don't really want to talk about it.  
+Player: cip  
+H.L.: Forget about Cip.  
+Player: hid  
+H.L.: Wild warriors always have something to hide.  
+Player: key  
+H.L.: What key? Show me!  
+Player: key (while having key 3303 with you)  
+H.L.: Oh. That's a new key. Hmmm. Must be for the new hideout.  
+Player: device/machine  
+H.L.: Yes. Those doors seem to be driven by some strange... devices. But I have no idea how they work. Maybe you can find something out?  
+H.L.: Yeah. I'm a wild warrior. Well, to be honest, I was. I left them. Some of them became too aggressive. Simply attacking everyone for no reason is not good.  
+Player: dwarfs/kazordoon  
+H.L.: Dwarfs are good people. I like them.  
+Player: durin  
+H.L.: Forget Durin. He's the worst anyway.  
+Player: steve  
+H.L.: Forget Steve.  
+Player: guido  
+H.L.: Forget Guido.  
+Player: stephan  
+H.L.: Forget Stephan.  
+Player: edron  
+H.L.: Might be a good place to live. But the people are too Thais friendly for my taste  
+Player: h.l.  
+H.L.: That's me.  
+Player: king  
+H.L.: They should hang him...  
+Player: job  
+H.L.: I buy all kinds of armory and weapons.  
+Player: tibia  
+H.L.: Well, at least there's one place worth visiting in Tibia. Here!  
+Player: name  
+H.L.: Won't tell you.  
+Player: new  
+H.L.: It's somewhere in the woods, of course. I don't know where.  
+Player: camp  
+H.L.: Most people in the camp are just hunters.  
+Player: ruler  
+H.L.: Tibia doesn't need a ruler.  
+Player: snake eye  
+H.L.: He the boss of that tavern. He's alright.  
+Player: talk  
+H.L.: About what? I have no time for this, now move along.  
+Player: <anything that is not a keyword>  
+H.L.: Didn't I already tell you to go? If you don't have anything important to say, leave me alone.  
+Player: traps  
+H.L.: Be careful out there.  
+Player: tavern  
+H.L.: You can drink and eat there. Everything you want in a tavern.  
+Player: woods  
+H.L.: These woods are a good place to hide.  
+Player: bye  
+H.L.: Bye.  

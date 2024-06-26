@@ -1,0 +1,40 @@
+Player: hi
+Gladys: Welcome! I suppose you are looking for a trade.
+Player: name
+Gladys: My name is Gladys.
+Player: job
+Gladys: I am Grimvale's druid. I can offer you some useful tools and will also buy any were-creature body parts, if you bring some.
+Player: time
+Gladys: It is 3:18 am.
+Player: news
+Gladys: Save for our problems with the were-creatures, there is no news.
+Player: gladys
+Gladys: I think I was named after some kind of flower. Well, those were happier times, obviously. Now then. You're here, so let's trade.
+Player: grimvale
+Gladys: Well, this small island you are standing on. It is our home, yet a little dangerous, lately.
+Player: dangerous
+Gladys: Yes. Grimvale is affected by were-sickness. We also call it the Curse of the Full Moon.
+Player: Curse
+Gladys: Humans transform into wild beasts: wolves, boars, bears and others. If you want to know more, ask Owin or Maeryn.
+Player: werewolves
+Gladys: Yes. They dwell here on Grimvale. The were-sickness or the curse, whatever you're believing in, transforms peaceful villagers into savage beasts.
+Player: Owin
+Gladys: A seasoned hunter, though he turned to research lately and barely goes out anymore. Very knowledgeable about the woods, animals and werewolves.
+Player: Maeryn
+Gladys: She's taken upon her the burden of being the protector of this village. I've known her since she was a little girl - very sweet, and very determined she was. Now she has grown up to be a forceful woman, courageous and deadly with the bow.
+Player: cornell
+Gladys: He clings to this village, as we all do, in spite of the Curse. But he's as much home on water as on land. I guess that's why he runs a ferry service these days.
+Player: village
+Gladys: The small hamlet we call home. Everyone calls it Grimvale, just like the island.
+Player: moon
+Gladys: At full moon, humans transform into wild beasts - wolves, boars, bears and others. Some call it the Curse of the Full Moon, others think it is a kind of sickness. Owin or Maeryn can tell you more about it.
+Player: offer / buy / sell / do you sell / goods
+Gladys: I sell tools and buy any were-creature's fur, fangs or claws. If you'd like to see my offers, ask me for a trade.
+Player: weapons
+Gladys: I don't have any weapons to offer.
+Player: armor / shield / helmet
+Gladys: I sell only tools. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Gladys: Of course, just browse through my wares.
+Player: bye
+Gladys: Goodbye. It would be nice to see you again.

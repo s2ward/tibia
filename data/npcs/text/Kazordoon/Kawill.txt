@@ -1,0 +1,105 @@
+Player: Hi  
+Kawill: Welcome Player! May earth protect you!  
+Player: Name  
+Kawill: I'm Kawill Marbleeye, son of Earth from the Molten Rock.  
+Player: Job  
+Kawill: I'm the greatest geomancer among the dwarfs.  
+Player: Geomancer  
+Kawill: We investigate the will of the earth. It's our duty to make sure that things work in a natural way.  
+Player: Earth  
+Kawill: The life-giving earth protects us, feeds us and takes us home once we have died.  
+Player: Life  
+Kawill: Life is given and fed by earth.  
+Player: Fire  
+Kawill: What earth is giving, fire is taking. That's the way of the elements.  
+Player: Kazordoon  
+Kawill: By using the powers of fire and earth, we forced the river that once wound its way through the Big Old One to take another direction, and created our home.  
+Player: Big Old One  
+Kawill: The mountain we live in is called the Big Old One. It's the mountain of mountains. It's like a friend and protector of our race.  
+Player: Durin  
+Kawill: The celestial paladin, the protector of our race. The only divine being we care for, and the only one who still cares for dwarfs.  
+Player: Etzel  
+Kawill: I fear the sorcerers focus on the destructive forces of fire. They forget about the protection earth could provide.  
+Player: Kroox  
+Kawill: He's a fine smith and his armor may save your neck one day.  
+Player: Jimbin  
+Kawill: He's a jolly fellow and one of the oldest dwarfs alive.  
+Player: Maryza  
+Kawill: She's a fine cook, jawoll.  
+Player: Nietzsche  
+Kawill: In his mind he might have been a giant, but in his heart he was a dwarf.  
+Player: Bezil/Nezil  
+Kawill: Bezil and Nezil have an equipment shop with an amazing assortment.  
+Player: Duria  
+Kawill: The first knight among the dwarfs is a fine woman.  
+Player: Emperor/Kruzak  
+Kawill: The emperor has rarely visited the temple district in the last years. He should care more about spirituality than about politics. Jawoll.  
+Player: Excalibug  
+Kawill: Ah, a weapon to be feared by man, beast and god alike, jawoll. He who wields it will be both blessed and cursed at the same time.  
+Player: general  
+Kawill: He finally made his peace with his own heart.  
+Player: equipment  
+Kawill: You can buy equipment in Bezil's and Nezil's little shop.  
+Player: help  
+Kawill: I'm a mere servant of earth's will and not allowed to help you.  
+Player: Phoenix  
+Kawill: The Spark of the Phoenix is given by me and by the great pyromancer in the nearby fire temple. Do you wish to receive my part of the Spark of the Phoenix?  
+Player: Pyromancer  
+Kawill: They are the followers of the great flame.  
+Player: Technomancer  
+Kawill: FOOLS! FOOLS! ALL OF THEM! MAY EARTH SWALLOW THEM ALL!  
+Player: Tibia  
+Kawill: Nice world in general. It's a shame that there is so much water that ruins this good impression.  
+Player: Monster  
+Kawill: May earth swallow them all!  
+Player: Ferumbras  
+Kawill: The day will come when he finally bites the dust.  
+Player: Quest / what do / task  
+Kawill: There's nothing I need, better ask someone else.  
+Player: Uzgod  
+Kawill: Uzgod is a blacksmith and understands the ways of his element well.  
+Player: Time  
+Kawill: Time is of no importance.  
+Player: Gods  
+Kawill: The gods are treacherous and vain. They want to use us for their little games. The only ones you can trust are the elements, because all they want is that nature runs its set course.  
+Player: Army  
+Kawill: Our fortresses are strong and easy to defend. Any aggressor will be smashed by our armies. Most intruders will not manage to pass the colossus.  
+Player: Ashes  
+Kawill: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: Blessing  
+Kawill: There are five different blessings available in five sacred places. These blessings are: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. ...  
+Kawill: There are also two enhanced blessings for further reduction of experience loss.  
+Player: Citizen  
+Kawill: Many people live in the embracement of earth in Kazordoon.  
+Player: Colossus  
+Kawill: The big fortress that guards our realm is shaped like a dwarf.  
+Player: Elves  
+Kawill: Who cares for that silly people.  
+Player: Fight  
+Kawill: Never forget your defence when fighting.  
+Player: Gold / Money  
+Kawill: Gold is one of earth's treasures. To have gold means to be blessed by earth. To be rich means to be favoured by earth.  
+Player: Heal  
+Kawill: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection, you should go on the pilgrimage of ashes.  
+Player: Pilgrimage  
+Kawill: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: Humans  
+Kawill: We are allied with this young race, though they seldom have the wisdom to listen to us.  
+Player: Plants  
+Kawill: Plants are minor messengers of earth. If you understand the soil, you understand the plants.  
+Player: Poem  
+Kawill: Who are you to ask about an ancient secret of my kind? I won't tell you the poem.  
+Player: Minotaurs  
+Kawill: They left the right way long ago. Now they are lost and doomed. Their fate should be a warning to all of us.  
+Player: Orcs  
+Kawill: Stupid beasts. Their savagery is only rivalled by their smell.  
+Player: Motos  
+Kawill: The scars in this dwarf's face tell the tale of many great battles.  
+Player: News  
+Kawill: There are no news as everything repeats itself.  
+Player: Sacred places  
+Kawill: Just tell me in which of the five blessings you are interested.  
+Player: Stone Golem  
+Kawill: These beings are filled with the power of earth. Therefore, they are sacred in a way.  
+Player: Bye/Farewell  
+Kawill: Earth under your feet, Player!  

@@ -1,0 +1,81 @@
+NPC: Lazaran  
+Note: Transcription made after completion Unnatural Selection Quest  
+Player: hi  
+Lazaran: Me greet you, Player, hero and much friend of tribe!  
+Player: beer  
+Lazaran: Bee-ah? Sound like animal. Hope is not dangerous!  
+Player: dragon people  
+Lazaran: Like snakes on legs they are. Living in great cities in North. Once ruled all the land. Hunting all. Green men fought and stole plains from snakemen who are people of the dragons.  
+Player: drink  
+Lazaran: Yes! We drink to peace. And to success of great hunt.  
+Player: dwarf / dwarves  
+Lazaran: You ill? You make strange noise.  
+Player: excalibug  
+Lazaran: We often eat bug. Excalibug sound much yummy!  
+Player: farmine  
+Lazaran: Yes we often starving. Food not plenty.  
+Player: fasuon  
+Lazaran: Fasuon is watcher and judge. All day his flaming eyes looking on world. Only in night he sleeps, that is why many evil happens in night.  
+Player: gods  
+Lazaran: We know many gods. Pandor, god of war, Uzroth, god of spirits, Krunus, god of food and Fasuon, watcher with two burning eyes. You see, we know many gods, more than I can count.  
+Player: green ones  
+Lazaran: Fierce warriors, led by horned ones. Great numbers. Stealing plains from dragon people.  
+Player: horned ones  
+Lazaran: Horned people only few but fearsome warriors. Master of green ones they become. Making all green ones obey.  
+Player: job  
+Lazaran: Me chief of tribe.  
+Player: kito  
+Lazaran: Me look for Kito everywhere again. Always gone when something needs doing.  
+Player: krunus  
+Lazaran: Krunus let things grow. Gives women magic to grow little people.  
+Player: land / zao  
+Lazaran: Land called Zao by snakemen. Perhaps has meaning in snake language. We no need other name for land than land. Is no other we know.  
+Player: language  
+Lazaran: You speak language of priests. You language is holy language only leaders and priests speaking. That why we know you good. ...  
+Lazaran: Language of my people other language is. Tribe only know few words in holy language from prayers.  
+Player: little men  
+Lazaran: We come and see little men. They like us, only very little. They having good weapon and armor, like the greens.  
+Player: lizard  
+Lazaran: No, no, me called Lazaran. Not Leezaraad.  
+Player: makao  
+Lazaran: Me no want talk about Makao.  
+Player: minotaur  
+Lazaran: Not know of mean Otau. If he mean to you he not our friend either!  
+Player: mission  
+Lazaran: Me thank you much for your help. You done much to help tribe. No mission left, but only tasks.  
+Player: monster  
+Lazaran: Green ones on wolves chase us in plains. Dragon people are worse. All that green is mean. Ungh! Ungh!  
+Player: namasa  
+Lazaran: Yes.. Namasa young pretty woman.  
+Player: name  
+Lazaran: Me Lazaran.  
+Player: pandor  
+Lazaran: Pandor ashamed of us. We lost all to greens. Now we not in favour of Pandor. That's why we live in cave.  
+Player: task  
+Lazaran: Many need doing. Me have colour task, mushroom task and hunt task.  
+Player: tatak  
+Lazaran: He sound our war drums! That where name come from. Tatak, tatak!  
+Player: tibia  
+Lazaran: Me no know what you mean.  
+Player: tribe  
+Lazaran: Our tribe here live long time. Tribe once was great, one of many. Now we are all what left of tribe. Snakemen hunted our people. Snakemen make many kill. Our people go hiding. Only go out in night when snakemen sleep. ...  
+Lazaran: All who survived gathered. Made new tribe. We trying to survive. We no seek war with others. We little hunt and much eat mushroom found in caves. Growing mushrooms we do to survive.  
+Player: ulala  
+Lazaran: Very wise priest. She speaks to gods, and can also speak to you. You can find upstairs on prayer place!  
+Player: uzroth  
+Lazaran: Uzroth is master of spirits, good and bad. Uzroth is very moody. One day he give you present, next day he send evil spirit. Must do much to make Uzroth happy.  
+Player: war  
+Lazaran: Many mighty monster rule land. We fight. We lose. We flee to mountain to hide.  
+Player: bye / farewell  
+Lazaran: Go good.  
+Special Dialogue 1:  
+Player: peace  
+Lazaran: Yes, yes! Tribe make great peace with tribe of little men and you! You smoke pipes of peace with us?  
+Player: yes  
+Lazaran: We brothers in peace now. No blood will be shed with your people! Ugha!  
+Special Dialogue 2:  
+Player: peace  
+Lazaran: Yes, yes! Tribe make great peace with tribe of little men and you! You smoke pipes of peace with us?  
+Player: no  
+Lazaran: You should think again. No good land to have too many enemies!  
+Also, you can have dialogs with Lazaran about tasks. Words related to tasks are:  

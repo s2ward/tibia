@@ -1,0 +1,63 @@
+NPC: Percy Silverhand  
+Player: hi / hello  
+Percy Silverhand: Although I can't recall having granted you an audience, be greeted, Player. But keep matters short, I am a busy man.  
+Player: army  
+Percy Silverhand: Our army is well prepared and supported by our Venorean friends whenever needed.  
+Player: busy / job / governor  
+Percy Silverhand: I am the representative of his royal highness, the King of Thais. It is my responsibility to keep things here in Liberty Bay going, so to speak.  
+Player: Carlin  
+Percy Silverhand: I am sure the king will call Carlin back into the Thaian empire as soon as possible. If only those women weren't so stubborn.  
+Player: Charlotta  
+Percy Silverhand: That old hag cannot be trusted. I am quite sure that it is her who is responsible for much of the unrest among the people in town ...  
+Percy Silverhand: There are no positive proofs but I ordered the guards to be wary about things that concern her.  
+Player: civilisation  
+Percy Silverhand: Theodore Loveless really knows how to run a party. I entrust those matters to him entirely.  
+Player: cult  
+Percy Silverhand: Nonsense! I do not want to hear these old women's tales again! Although some sinister cult would perfectly fit those natives here, there IS no such a thing as a secret cult.  
+Player: Explorer Society  
+Percy Silverhand: The society has full support of our beloved king and so I do my best to further their causes ...  
+Percy Silverhand: Personally I think a nobleman can do better things with their times but at least they let the dirty work be done by some adventurers.  
+Player: Ferumbras  
+Percy Silverhand: These lies that tell about him living here in the past are nothing but tavern tales.  
+Player: festivities  
+Percy Silverhand: Theodore Loveless really knows how to run a party. I entrust those matters to him entirely.  
+Player: king / Tibianus  
+Percy Silverhand: The king is a wise man with a noble spirit. I will not allow this colony to fail in his eyes.  
+Player: Loveless / Theodore  
+Percy Silverhand: A man of style and wisdom. An incarnation of the old values. I would like to add that he and me share the same ideals and the way to view things. He is of immense help in my efforts to bring civilisation to the colonies.  
+Player: Malunga  
+Percy Silverhand: The sorceress of Edron academy stays on her own. I appreciate that - a mage interfering with our internal affairs would be the last thing we need. Of course as a representative of the Edron academy she has my full support.  
+Player: mermaid  
+Percy Silverhand: I am too old to care about fairy tales.  
+Player: pirate  
+Percy Silverhand: Bah, this is the true ugly face of these so-called freedom fighters. Murder and plunder is all they care about. But we will rout these cowardly criminals out and soon they will be nothing more than a footnote in history.  
+Player: plantations  
+Percy Silverhand: I agree to Mr. Loveless' point of view: We could produce more if the workers were not that lazy.  
+Player: Port Hope  
+Percy Silverhand: That backwater town still has no governor. I can't blame anyone that he doesn't want to end up there.  
+Player: rum  
+Percy Silverhand: I prefer more refined pleasures than that but even I have a little mug of rum now and then.  
+Player: slums  
+Percy Silverhand: Those slums are only temporary. Still much has to be rebuilt. We look forward to a brighter future.  
+Player: Striker  
+Percy Silverhand: This man has more lives than a cat and more luck than a Venorean gambler. But sooner or later he will run out of luck as well as of lives.  
+Player: sugar  
+Percy Silverhand: Sugar is what makes this place special and important for Thais. It is my honourable responsibility to ensure that the plantations produce a steady supply.  
+Player: thais  
+Percy Silverhand: Thais is the mother of civilisation. It is the force that keeps the human society together and protects all denizens of the realm.  
+Player: Tibia  
+Percy Silverhand: The whole world will prosper under the Thaian guidance. Civilising the whole world, serves the whole human race.  
+Player: trouble  
+Percy Silverhand: There are as many problems here as everywhere in our kingdom. Our worst troubles concern the evil quara and the pirates.  
+Player: values  
+Percy Silverhand: Nowadays, the old values seem to be forgotten. Still, the nobility of a few people is almost recognisable like a visible aura.  
+Player: Venore  
+Percy Silverhand: Venore was wise enough to accept Thaian guidance and prospers in the light of our glorious kingdom. It has become a haven of nobility and society inspired by the Thaian role model ...  
+Percy Silverhand: It hurts me that those old values are somewhat crumbling under the heels of ignorant commoners in Thais itself but I am positive that we will find back to those values.  
+Player: voodoo  
+Percy Silverhand: I have no idea what that might be? Something they eat in the so-called slums, I guess.  
+Player: Wyrmslicer  
+Percy Silverhand: He is a hard and honourable man. If our soldiers were at least a little bit like him, our beloved kingdom would not face all the trouble we had recently. ...  
+Percy Silverhand: Of course he is only of lower nobility and most of the responsibility still rests upon my shoulders.  
+Player: farewell / bye  
+Percy Silverhand: You are dismissed, Player.  

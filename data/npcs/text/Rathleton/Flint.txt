@@ -1,0 +1,56 @@
+Player: hi / hello  
+Flint: Hello, citizen. If you need equipment, ask for a trade.  
+Player: trade  
+Flint: Make your choice, friend.  
+Player: job  
+Flint: I am the local blacksmith. I used to be a soldier and city guard, and the equipment I forge is meant to keep the people safe.  
+Player: glooth  
+Flint: I buy glooth-based equipment, if you have some to sell, ask for a trade.  
+Player: mino  
+Flint: <grinds teeth> The plague of this island. You will need equipment against them. Ask me for a trade.  
+Player: ammunition / distance / paladin  
+Flint: One floor upstairs, friend.  
+Player: temple  
+Flint: Wounded by the minos, eh? Azalea can stitch you up.  
+Player: offer / sell / buy / weapon / armor  
+Flint: Certainly. Ask me for a trade to browse through my stock.  
+Player: equipment  
+Flint: I am interested in buying glooth-based weapons and armors or other local equipment you found. Just ask me for a trade.  
+Player: captain caveworm
+Flint: Captain Caveworm is the hero of the people, a champion of the weak.
+Player: maxxen  
+Flint: Hm, sounds unfamiliar.  
+Player: time  
+Flint: It is 11:46 am, citizen.  
+Player: friend  
+Flint: None of your business.  
+Player: name  
+Flint: I am Captain John Flint.  
+Player: flint  
+Flint: Yes. Exactly.  
+Player: christine  
+Flint: Lovely voice. Good glooth sandwiches.  
+Player: fyodor  
+Flint: Talks a lot. Good soul underneath.  
+Player: graham  
+Flint: You need knight spells? Go see him in the old barbican. Two houses down the street.  
+Player: nicholas  
+Flint: Strange lad. Head full of tapestry and clocks.  
+Player: fayla  
+Flint: Still a beautiful woman. Carried a torch for her in my youth. Heh. Sells instruments now, doesn't she?  
+Player: alaistar  
+Flint: Fancy ideas about minotaurs. Intrepid man, though.  
+Player: azalea  
+Flint: Local druid. Good healer and teacher. Rears some nice flowers, too.  
+Player: edmund  
+Flint: Benign gentleman, keen on gems. Short-sighted like a mole, though.  
+Player: maro  
+Flint: The toolmaker mino? An exception to the rule.  
+Player: mordecai  
+Flint: Only interested in making runes and wands. If you need magical equipment, go see him.  
+Player: silas  
+Flint: One floor upstairs, friend.  
+Player: virgil / carefew  
+Flint: Bank manager. Very influential. Don't get on his bad side, friend.  
+Player: bye / farewell  
+Flint: Be well, citizen.  

@@ -1,0 +1,44 @@
+Azalea: Flowers to liven up your house!
+Azalea: Healing for your wounds and cures for your curses!
+Player: hi
+Azalea: Welcome back, friend. If you have not done so, please visit the others. Or have you lost something you need to bring our mutual friend?
+Player: name
+Azalea: I am Azalea, the druid.
+Player: job
+Azalea: I am the local healer and teacher of druid spells. And I also grow flowers. If you want to take a living flower home with you, trade with me.
+Player: trade
+Azalea: Here are the little ones.
+Player: time
+Azalea: <Looks at the sun, then at her flowers> It is 10:58 pm, Simula.
+Player: heal
+Azalea: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection you should go on the pilgrimage of ashes or get the protection of the twist of fate here.
+Player: help
+Azalea: You do not need any healing right now.
+Player: lost
+Azalea: You lost the little one? I can only give you one other, but be careful, brother.
+Player: lost
+Azalea: If you have lost something, try to go back to the place where you first found it. Maybe you will get it again from there.
+Player: soothe bloom
+Azalea: My newest breed, though it took a long time to rear it. They are beautiful, but fragile magic blooms, fed and imbued with powerful healing magic. Will they work as intended? We will have to see.
+Player: flowers
+Azalea: The fragile and fragrant beauties of the lands! I rear them and try to find new breeds that can hold magic, as well. It is a difficult task and takes up much of my time.
+Player: letter
+Azalea: You have a letter for me? Ah, it is at the postmaster's. Very well. Thank you for telling me.
+Player: glooth
+Azalea: It is made by the gloothworms, and can be used for many things.
+Player: captain caveworm
+Azalea: Captain Caveworm is the peoples hero, fighting for the poor and weak.
+Player: maxxen
+Azalea: I've never heard that name.
+Player: airtight cloth
+Azalea: No, I don't see the use that, neither for my plants nor for myself. It upsets the balance of the elements. winds blow, waters flow. Bar their way and they will only grow in violence.
+Player: alaistar
+Azalea: A noble character with a deep understanding of the magical fluids. I respect his wisdom and his energy.
+Player: maro
+Azalea: An upright soul, but torn between his past and his present, a tree that the storm will uproot, should there ever be a choice between his kind and his belief.
+Player: dr merlay
+Azalea: I am glad you chose to help, and confident that in time, we will be able to cure this poor creature and restore it to its natural form. I will rear more potent blossoms for this.
+Player: fyodor
+Azalea: We share a belief, the belief that we need to protect those who need help. One day, he might change the fate of this city.
+Player: bye
+Azalea: Be well, citizen.

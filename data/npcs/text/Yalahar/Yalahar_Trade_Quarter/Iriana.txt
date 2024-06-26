@@ -1,0 +1,36 @@
+NPC: Iriana  
+Player: Hi  
+Iriana: Hello there. Wanna buy some fishing equipment? Just ask me for a trade.  
+Player: Trade  
+Iriana: Take a look.  
+Player: Name  
+Iriana: My name is Iriana and my family lives here in Yalahar since the early days.  
+Player: Yalahar  
+Iriana: You can still see the brilliance of this city in its centre. It's a pity that the slow decay of the other quarters persists.  
+Player: Centre  
+Iriana: It's the domicile of the Yalahari who created this city after the God Wars. Today, the Yalahari try to let the city shine in its former brilliancy again.  
+Player: Quarters  
+Iriana: The city once had 8 quarters excluding the centre. Right now you are in the former trade quarter, east of it you find the factory quarter. Further to the north-east you find the quarter known as the sunken quarter ...  
+Iriana: followed by the magician quarter. Then you have the most northern quarter, known as the cemetery quarter, and west of that you find the former alchemist quarter. The most western quarter is the former zoo and arena quarter ...  
+Iriana: and last but not least there is the foreigner quarter. If you want to know more about one of the single quarters, just ask me about it.  
+Player: Trade quarter  
+Iriana: <whispers> It's all controlled by the trade baron. Stay out of his business, or you'll regret it, I promise.  
+Player: Factory  
+Iriana: Not much is known about the things going on there, or what has been produced in these factories. From time to time, the Yalahari 'appoint' inhabitants to work for them there but none of them was ever seen again.  
+Player: Sunken  
+Iriana: It used to be a high society residential quarter, but as you probably realised, the city grew larger than the landmass on which it had been erected. So the quarter just broke off and sunk into the sea. That happened a very long time ago.  
+Player: Magician  
+Iriana: Nowadays, the magician quarter is the home of all magic using races. You find different races using various kinds of magic in this quarter. It can be quite dangerous there depending on which part of the quarter you enter.  
+Player: Zoo  
+Iriana: Back in the days, the Yalahari caught all kinds of animals just for their own pleasure. After their disappearance, the animals escaped. They are on the loose in this quarter ever since.  
+Player: Arena  
+Iriana: In the centre of the Zoo quarter, you'll find a huge arena. Once gladiators have been battling each other to amuse the Yalahari. The most skilful of them survived and are still there.  
+Player: Cemetery  
+Iriana: The whole quarter is sealed up. Undead creatures took over a long time time ago. It's a mess!  
+Player: Alchemist  
+Iriana: I doubt that a single alchemist survived the catastrophe. There was a huge explosion which caused a chain reaction. Nowadays, it's an infested and burnt down quarter in which it is more likely to meet a mutant than a human.  
+Player: Foreigner  
+Iriana: The quarter west of the waterway is nowadays inhabited by various races. It used to be a residential area, but almost got completely destroyed after the downfall of Yalahar. Only the harbour promenade still contains the original buildings. ...  
+Iriana: The other parts of the quarter have been rebuilt by the newly arrived races. For this reason, you find all those different building styles there.  
+Player: Job  
+Iriana: I'm selling fishing equipment. You know, this isn't only the trade quarter. Most people here earn their bread and butter on the sea with a fishing rod in their hands.  

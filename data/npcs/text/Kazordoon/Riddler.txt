@@ -1,0 +1,49 @@
+Player: hi  
+Riddler: Player! HEHEHEHE! Another fool visits the tower! Excellent!  
+Player: name  
+Riddler: I am known as the riddler. That is all you need to know.  
+Player: job  
+Riddler: I am the guardian of the paradox tower.  
+Player: time  
+Riddler: It is the age of the talon.
+Player: paradox / tower  
+Riddler: This tower, of course, silly one. It holds my master's treasure.  
+Player: master  
+Riddler: His name is none of your business.  
+Player: treasure / guard  
+Riddler: I am guarding the treasures of the tower. Only those who pass the test of the three sigils may pass.  
+Player: key / door  
+Riddler: The key of this tower! You will never find it! A malicious plant spirit is guarding it!   
+Player: test / sigil
+Riddler: Death awaits those who fail the test of the three seals! Do you really want me to test you?  
+Player: yes  
+Riddler: FOOL! Now you're doomed! But well ... So be it! Let's start out with the Seal of Knowledge and the first question: What name did the necromant king choose for himself?  
+Player: goshnar  
+Riddler: HOHO! You have learned your lesson well. Question number two then: Who or what is the feared Hugo?  
+Player: demonbunny  
+Riddler: HOHO! Right again. All right. The final question of the first seal: Who was the first warrior to follow the path of the Mooh'Tah?  
+Player: Tha'kull  
+Riddler: HOHO! Lucky you. You have passed the first seal! So ... would you like to continue with the Seal of the Mind?  
+Player: yes  
+Riddler: As you wish, foolish one! Here is my first question: Its lighter then a feather but no living creature can hold it for ten minutes?  
+Player: breath  
+Riddler: That was an easy one. Let's try the second: If you name it, you break it.  
+Player: silence  
+Riddler: Hm. I bet you think you're smart. All right. How about this: What does everybody want to become but nobody to be?  
+Player: old  
+Riddler: ARGH! You did it again! Well all right. Do you wish to break the Seal of Madness?  
+Player: yes  
+Riddler: GOOD! So I will get you at last. Answer this: What is your favourite colour?  
+Player: green  
+Riddler: UHM UH OH ... How could you guess that? Are you mad??? All right. Question number two: What is the opposite?  
+Player: none  
+Riddler: NO! NO! NO! That can't be true. You're not only mad, you are a complete idiot! Ah well. Here is the last question: What is 1 plus 1?  
+Player: any number  
+Riddler: WRONG!  
+Riddler: NO! NO! NO! That can't be true. You're not only mad, you are a complete idiot! Ah well. Here is the last question: What is 1 plus 1?  
+Player: number from a prisoner, see quest log  
+Riddler: DAMN YOUUUUUUUUUUUUUUUUUUUUUU!  
+Player: bye
+Riddler: HEHEHE! I knew you don't have the stomach.
+Riddler: COWARD! CHICKEN! HEHEHEHE!
+

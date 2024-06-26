@@ -1,0 +1,31 @@
+Player: hi
+Xaver: Hail, visitor! Welcome to the Orcsober festivities! Bring your friends, grab a beer, have fun and enjoy the scenery!
+Player: name
+Xaver: There is no need for names in this realm anymore. Even if I would I tell you my name, you'd not neither able to fully understand nor pronounce it.
+Player: job
+Xaver: I am proud to present a wide range of great prizes! You can also buy lots from me if you like!
+Player: king
+Xaver: What king?
+Player: orcsober
+Xaver: Truly a one-of-a-kind festival of tradition, food and fun!
+Player: beer
+Xaver: We are proud of our beer and will glady share it with anyone who enjoys a good drink! Doesn't apply to orcs of course, ha! ...
+Xaver: You... aren't an orc now. Are you?! Ah, wait, I can see. You should probably just wash yourself a bit more thoroughly.
+Player: fun
+Xaver: I sell lots and offer worms for our fishing contest. I also garnish gingerbread hearts in case you have one. And I trade traditional furniture, treats or a specialty for festive points (FP).
+Player: worms
+Xaver: My pleasure!
+Player: lots
+Xaver: One lot costs 10 festive points. I also sell bunches of ten, fifty and hundred lots. Just tell me what you would like to buy. Or are you not interested at all?
+Player: gingerbread hearts
+Xaver: Very well! So, do you want me to personalise a red, green or blue gingerbread heart or buy a fresh one?
+Player: furniture
+Xaver: For a humble offer of festive points I will hand over a selection of traditional furniture. Please note, that these items will be put into your store inbox! Which colour do you prefer: red, green or blue?
+Player: treats
+Xaver: Sure, I can offer a tasty leberkas (100 FP), delicious candy floss (100 FP), juicy stockfish (140 FP), exquisite unicorn weisswurst (2000 FP) and a traditional beer mug (450 FP). What will it be?
+Player: festive points
+Xaver: You have earned 0 festive points so far.
+Player: bye
+Xaver: Farewell!
+Player: (vanish)
+Xaver: Try some of our games, they are all in good fun!

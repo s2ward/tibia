@@ -1,0 +1,54 @@
+Mr Brandon: All these treasures I cannot reach... what a pity.
+Mr Brandon: Urgh... the... THINGS. I can't forget their horrible sight.
+Mr Brandon: <grumble> Maybe I should rearrange some warm currents to get rid of this horrible fog.
+Mr Brandon: My ring! My wedding ring! <sigh>
+Mr Brandon: What am I to do? I can't go back.
+Mr Brandon: WHAT WAS THAT? ... Oh. It's only a shadow in the water. - A SHADOW IN THE WATER? HELP! HELP!! THEY'RE COMING AFTER ME!!
+Player: hi
+Mr Brandon: Hello there.
+Player: job
+Mr Brandon: I, er, am some kind of ferryman to the bottom of the sea. Warden of the sea currents. But I really don't like to go back down there. <swallows hard> You can go on your own, you know. I mean, if you got a mission or so.
+Player: mission
+Mr Brandon: Well, I have to hand it to you, friend, you certainly know how to steer clear of ill winds! <sigh> If only I'd been that clever. ...
+Mr Brandon: Well, all's well that ends well - for you, at least. I'll just serve my sentence for the next couple of hundred years I guess. See you around!
+Player: name
+Mr Brandon: Technically, I am Wilbur Fortescue Brandon, but that doesn't mean much now.
+Player: now
+Mr Brandon: After what I have seen, there is no going back. They'll haunt me and everyone here. I have to stand guard!
+Player: guard
+Mr Brandon: I... I can't tell you.
+Player: tell
+Mr Brandon: No, really! You would not believe me anyway.
+Player: believe
+Mr Brandon: That's what you say now, but I know you won't believe me. It is simply too monstrous.
+Player: monstrous
+Mr Brandon: I have been deep, deep down below. I have seen them.
+Player: them
+Mr Brandon: I can't say their name or they'll come for me. And if they come for me, they will come for the city, too. I cannot let that happen.
+Player: come
+Mr Brandon: I entered their lair and took some ... things. I should not have done that, but I did. And they awoke. They came after me.... I fled. ...
+Mr Brandon: The mist closed around me like a choking fist. I remember the high sea, rolling and roaring and then - pain. Blackness. When I woke up, I was here. Home.
+Player: things
+Mr Brandon: I couldn't help it! We are poor, you know! I thought they'd fetch a good price if I sold them to the jeweller. <sigh> But I think they are cursed. They should be brought back where they came from.
+Player: back
+Mr Brandon: On the bottom of the ocean, there are sunken treasures and strange sites between the reefs. Wrecked ships lie there ... lost cities, drowned temples. ...
+Mr Brandon: When I was there, I saw these things, gleaming like lost jewels upon ancient altars. I thought, what use are they to the drowned? So I took them. But then, They awoke and hunted me. I fled in panic. ...
+Mr Brandon: But I couldn't let go of the strange things I found. The gold, the nacre... it was so beautiful! Those others... They howled behind me. ...
+Mr Brandon: I went wild with fear and swam for my life, dropping the cursed gold. They grabbed me... They roared with anger, and pulled at me with a hundred cold and slimy tentacles, snatching at me. They tore off my wedding ring. Then I escaped. ...
+Mr Brandon: Now, I am doomed. Stranded between life and death for a bleak eternity. <sigh>
+Player: ghost / dead
+Mr Brandon: Who, me? Don't be ridiculous. I have had some incredible luck coming back from the depth of the sea, but - I was only underwater - for... a... short... time... ...
+Mr Brandon: ... I... I guess it must be true - the pain... I remember the pain... and ... this blackness... And waking up feeling... strange. But the pain in the chest had gone. ...
+Mr Brandon: Please, do me a favour... Don't tell Roswitha that I am... a... a ghost. There. I've said it. I want her to be happy again, and to forget me.
+Player: roswitha
+Mr Brandon: Ah, my beloved wife. Quick temper and a warm smile. How I miss her cooking.
+Player: ferryman
+Mr Brandon: It was an offer I could not refuse. Indeed, it was not really an offer, more like an order. So now I have to steer the sea currents according to the wishes of... Them.
+Player: currents
+Mr Brandon: Well, maelstroms, vortices, currents... I can steer them, a little at least. Enough to send ships or people to the bottom of the sea. Or dredge something up from the bottom of the sea. Unless it's not otherwise protected.
+Player: protected
+Mr Brandon: Er, well, there are some kind of forces, or powers, down there and they have their own kind of guardian, who's not always inclined to see my point of view, if you see what I mean.
+Player: serpent
+Mr Brandon: Well, I pick some things up... The Guardian spoke of it to me too, once. Not sure I'd want to meet that Fire-Feathered Serpent once it's fully awake.
+Player: bye
+Mr Brandon: Yes, farewell.

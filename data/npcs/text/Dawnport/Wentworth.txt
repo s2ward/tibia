@@ -1,0 +1,52 @@
+Player: hi / hello  
+Wentworth: Welcome, young sorcerer! Here's your last chance to deposit all your gold before you leave for the Mainland!  
+Player: advance  
+Wentworth: Once you are on the Tibian mainland, you can access new functions of your bank account, such as transferring money to other players safely, accessing your guild account or taking part in house auctions. ...  
+Wentworth: Just ask any of my colleagues on the Mainland and they'll be happy to tell you all about the advanced functions of your bank account.  
+Player: balance  
+Wentworth: Your account balance is 0 gold.  
+Player: buy / offer / sell / money / do you have / bank  
+Wentworth: You can deposit and withdraw money from your bank account here. I can also change money for you.  
+Player: change  
+Wentworth: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. For example, if you like to change 100 gold coins into 1 platinum coin, simply say 'change gold' and then '1 platinum'.  
+Player: change crystal  
+Wentworth: How many crystal coins would you like to change into platinum coins?  
+Player: change gold  
+Wentworth: How many platinum coins would you like to get?  
+Player: change platinum  
+Wentworth: Would you like to change your platinum coins into gold or crystal coins?  
+Player: creature / product  
+Wentworth: You should've sold these to Inigo, you know! Too late now. Captain Dreadnought will only allow a maximum of 20 of any creature product to ship. Afraid of smugglers, see.  
+Player: death / die / dying  
+Wentworth: If you die, you lose experience, skills and some of your items - including gold. So it's best to deposit your gold somewhere safe before you go back out hunting. ...  
+Wentworth: Here on Dawnport, I run the bank. I keep any gold you deposit safe, so you can't lose it when you're out fighting or if you die, aye.  
+Player: deposit  
+Wentworth: Please tell me how much gold you would like to deposit.  
+Player: function / account / help  
+Wentworth: Every Tibian has a global bank account. This means you can deposit your gold in one bank, and withdraw it from the same or any other Tibian bank in any city. ...  
+Wentworth: Here on Dawnport, I run the bank. I keep any gold you deposit safe, so you can't lose it when you're out fighting or dying, heh. Ask me for your balance to learn how much money you've already saved. ...  
+Wentworth: There are also advanced functions, but those are only available to you once you have reached the Tibian mainland.  
+Player: job  
+Wentworth: What does it look like? I'm an accountant. I was shanghaied one day by Captain Plunderpurse, but then I convinced him to mend his ways and... oh, well, long story.  
+Player: Keeran  
+Wentworth: Named after my father. Apparently, father and mother met when he rescued her from an orc prison. Very romantic.  
+Player: main  
+Wentworth: Dawnport is just an island west of the Mainland. On the Mainland, you'll find several cities and many more dangers, too. This is why we on Dawnport here train you, until you know enough to leave and brave the dangers that await you. ...  
+Wentworth: The Mainland is open to everyone; but there are even more islands, more monsters and more cities to explore if you have premium rights.  
+Player: name  
+Wentworth: Keeran Wentworth, pleased to meet you.  
+Player: pirate  
+Wentworth: After a while, I could convince him that my way of pirating is much more profitable. He became a clerk. Isn't that a happy ending? <smiles happily> ...  
+Wentworth: But I shouldn't detain you. You should deposit your money before you go to the Mainland!  
+Player: shang  
+Wentworth: I was minding my own business, going over the latest deposits, when pirates attacked our city. ...  
+Wentworth: Well, I fought like a lion, but that stubborn pirate just wouldn't let go of the gold chest! Neither would I ...  
+Wentworth: He brought the chest with me clinging to it aboard his ship and, well, what can I say, the rest is history.  
+Player: transfer  
+Wentworth: I'm afraid this service is not available to you until you reach the Tibian mainland.  
+Player: Wentworth  
+Wentworth: My mother's maiden name. <coughs> I was born out of wedlock. Very romantic story, but I'd rather not go into detail.  
+Player: withdraw  
+Wentworth: Please tell me how much gold you would like to withdraw.  
+Player: bye / farewell  
+Wentworth: Good luck on the Mainland, and remember: deposit your gold in a bank to keep it safe!  

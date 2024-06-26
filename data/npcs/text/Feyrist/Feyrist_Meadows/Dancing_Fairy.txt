@@ -1,0 +1,22 @@
+Player: hi
+Dancing Fairy: Nature's blessing!
+Player: name
+Dancing Fairy: I won't tell!
+Player: job
+Dancing Fairy: That's a peculiar word. I have no idea what it means.
+Player: time
+Dancing Fairy: Yes, I have time to chat with you.
+Player: news / rumours / rumors
+Dancing Fairy: The faun Taegen is in love with the mermaid Aurita! Really, it's true!
+Player: aurita
+Dancing Fairy: She's a mermaid living in the coastal waters near Feyrist. She told me that she's in love with the faun Taegen. But don't tell anyone, it's a secret!
+Player: Taegen
+Dancing Fairy: He's a faun of queen Maelyrra's court. He's quite funny and knows many beautiful poems.
+Player: Aurita
+Dancing Fairy: She's a mermaid living in the coastal waters near Feyrist. She told me that she's in love with the faun Taegen. But don't tell anyone, it's a secret!
+Player: Maelyrra
+Dancing Fairy: She's the queen of one of Feyrist's largest courts. You can find her on a glade in the centre of Feyrist.
+Player: fishtail / spell
+Dancing Fairy: Perhaps I may help you. But first you have to help my sisters. Talk to Maelyrra, she will tell you more.
+Player: bye
+Dancing Fairy: Farewell.

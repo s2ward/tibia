@@ -1,0 +1,66 @@
+Player: hi  
+Grof, The Guard: LONG LIVE THE KING!  
+ Grof:  
+Player: job  
+Grof, The Guard: It's my duty to protect the city.  
+Player: guard  
+Grof, The Guard: I am a guard and proud of it.  
+Player: news  
+Grof, The Guard: I am busy. Please ask the citizens for news.  
+Player: how are you  
+Grof, The Guard: I am healthy and vigilant.  
+Player: red guards  
+Grof, The Guard: We of the red guard are the special forces.  
+NPCs:  
+Player: bozo  
+Grof, The Guard: The royal jester.  
+Player: sam / smith / weapon  
+Grof, The Guard: Sam is our blacksmith. You'll find him north of the main crossroads. His shop is to the left.  
+Player: harsky / stutch  
+Grof, The Guard: He is a soldier in the silver guard.  
+Player: king / tibianus / leader  
+Grof, The Guard: Tibianus III is our beloved king! He resides in the castle in the north west of the city.  
+Player: gorn / provisioner  
+Grof, The Guard: Gorn is our provisioner. You'll find him north of the main crossroads. His shop is to the right.  
+Player: frodo / tavern  
+Grof, The Guard: Frodo runs the local tavern. You'll find it at the main crossroads to the north-west.  
+Player: gregor / knight  
+Grof, The Guard: The high knight of the knights' guild. It is in north-east of the town.  
+Player: marvik / druid  
+Grof, The Guard: Marvik is the great druid of the local guild. You'll find him by climbing up the citywalls at the east.  
+Player: muriel / sorcerer  
+Grof, The Guard: Muriel is the head of the local sorcerers' guild. You'll find it in the south-west of the city.  
+Player: elane / paladin  
+Grof, The Guard: Elane is responsible for the local paladins' guild. It's in the west of the town, directly south of the post office.  
+Player: baxter  
+Grof, The Guard: He is a role model for us.  
+Player: benjamin / post  
+Grof, The Guard: Benjamin was a brave fighter. He runs the post office in the west of the city.  
+Player: eclesius  
+Grof, The Guard: I only see him when he heads home in the wrong direction.  
+Player: harkath / general  
+Grof, The Guard: The royal general. A warrior worth Banor's blessings.  
+Player: city  
+Grof, The Guard: Behave while in the city or we get you! Do you want to know where to find a shop or a guild?  
+Player: shop  
+Grof, The Guard: There's a smith, a provisioner, and a tavern.  
+Player: castle  
+Grof, The Guard: The castle is at the west of the city.  
+Player: guild  
+Grof, The Guard: In the city you will find the guildhouses of the knights, paladins, druids, and sorcerers.  
+Player: banor  
+Grof, The Guard: Praise Banor! May the great warrior be with us!  
+Player: army  
+Grof, The Guard: Of course we guards are members of the army.  
+Player: sell  
+Grof, The Guard: Visit Tibia's shopkeepers to buy their fine wares.  
+Player: silver guard  
+Grof, The Guard: Only the best of the best serve as silver guards.  
+Player: dogs of war  
+Grof, The Guard: Brave warriors, indeed.  
+Player: news  
+Grof, The Guard: I am busy. Please ask the citizens for news.  
+Player: palavra ofensiva  
+Grof, The Guard: Take this! (burning effect, 5 turnos de 10 hitpoints)  
+Player: bye  
+Grof, The Guard: LONG LIVE THE KING!  

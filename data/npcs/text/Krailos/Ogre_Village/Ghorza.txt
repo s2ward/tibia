@@ -1,0 +1,77 @@
+Player: hi
+Ghorza: Hello, scraggy human.
+Player: name
+Ghorza: Me Ghorza.
+Player: job
+Ghorza: Ghorza tribe's shaman.
+Player: time
+Ghorza: Ghorza not understanding question. If sun is in sky, time is day. If sky is dark, time is night.
+Player: news / rumours / rumors
+Ghorza: Great Hunger is upset. Making spirits restless. Ghorza worried about this.
+Player: Great Hunger
+Ghorza: Great Hunger most mighty of all spirits. Will eat up entire world if ogres not feeding it all time. So ogres give Great Hunger tasty snacks: meat, beer, humans, elves ... Great Hunger devouring everything. ...
+Ghorza: If Great Hunger not sated it getting stomach growling. If that happening earth is quaking and trembling. Very dangerous! If ogres die, Great Hunger eating them up. In Great Hunger's stomach ogres waiting to be born again.
+Player: born again
+Ghorza: If ogress eating from Great Hunger's cauldron, ogress can take in little ogreling. So tribe always getting new ogres from Great Hunger's cauldron.
+Player: cauldron
+Ghorza: Cauldron is one of dried salt seas. At some times in year ogres putting in much, much food: meat, oil, roots, beer - making thick, tasty soup. Then ogres throwing in sacrifices: humans, goblins, elves ... whoever ogres get. ...
+Ghorza: So Great Hunger is nourished. Then each younger ogress eats from cauldron. Sometimes then she taking in new ogreling waiting in cauldron.
+Player: dreadful thirst
+Ghorza: Is new powerful spirit. Younger than Great Hunger but even more dangerous. We feeding Great Hunger with meat. Always enough meat in Krailos. Dreadful Thirst wants water, but dries up all water sources. So not enough water to calm Dreadful Thirst.
+Player: vuzrog
+Ghorza: Vuzrog is Bloody Skull tribe chieftain. Is strong ogre, but getting old. Ghorza thinking, soon younger ogre will challenge Vuzrog. They will fight. If Vuzrog losing fight, Bloody Skulls having new big boss.
+Player: chieftain
+Ghorza: Vuzrog Bloody Skulls chieftain. Is big boss. Always strongest ogre is chieftain of tribe. Chieftain always mighty and brave. But if chieftain getting old, younger ogre coming, claiming chieftain tent.
+Player: Bloody Skull
+Ghorza: Bloody Skulls are ogres living here. Biggest clan of Krailos. Other strong tribe is Thunder Tusk Clan. There other tribes, too. Having no villages but being nomadic. Take care, little human, they all maneaters.
+Player: maneaters
+Ghorza: Mhmm. Ogres eating humans, elves, dworcs and goblins. Also cow-men, if getting one. Dwarves being bit chewy and rat-men are stopgap. Not very tasty. Other tribes often eating men. But Bloody Skulls now allowing them coming here. ...
+Ghorza: There human merchant living here. His name Larek. Knows where to get sweets like cookies or candy. If we eat him up, no more sweets. See? Sometimes benefit not to eat visitors. Perhaps you benefit, too. If not, hmmm, we'll eat you.
+Player: Thunder Tusk
+Ghorza: Thunder Tusk Clan is hostile tribe. Often battles against Thunder Tusks. They jealous. Stealing Bloody Skulls food and young ogresses. But most of all stealing water.
+Player: shaman
+Ghorza: Shaman important for tribe. Chieftain says when fighting, where fighting and against who fighting. But shaman caring for spirits. Spirits of steppe and grassland, but also spirits of fathers and mothers. ...
+Ghorza: Shaman also making sure that Great Hunger not getting angry.
+Player: mugruu
+Ghorza: Mugruu is ogre here in village. Friend of chieftain. Recently he buying things like human trader Larek.
+Player: larek
+Ghorza: He tasty little human. Came here some time ago. Wanted to stay, but Vuzrog said no. But Larek brought sweets like cookies and candy. Ogres loving sweets but not know how to make. Ghorza this told chieftain, so Vuzrog said yes. ...
+Ghorza: Ghorza loves sweets, too, but also has other reason for deal with Vuzrog and Larek. Human knows useful things. Perhaps could be useful one day.
+Player: kaya
+Ghorza: Female human with yellow hair. Came here with Larek.
+Player: grubokk
+Ghorza: Ah, pesky bumble! He overseeing goblins working in mines far away in high mountains. Better that way, so he not causing trouble here in village.
+Player: nibble
+Ghorza: He little goblin. Cooking for chieftain and cleaning his tent. Useless.
+Player: goblin
+Ghorza: Little greenlings. Weak but sometimes useful. Ogres let them getting black stones from mountains. Small tunnels there, ogres not getting in. But small goblins can. And sometimes ogres eating them.
+Player: hyaena
+Ghorza: Not know where cuddly hyaena gone. You ask other ogres in village. Perhaps they seen something.
+Player: krailos
+Ghorza: Is name of steppe and grassland you standing in. Where suns standing most high there great mountains. We not knowing what behind. In the middle much grassland, behind that just dry soil. And behind that very, very much salty water. ...
+Ghorza: Sometimes humans or elves coming from water. Sitting in odd wooden boxes that always breaking at stony shores. We not knowing where they from and why they using odd wooden boxes. Men calling them ships. Sometimes good food in wreckage.
+Player: voodoo lily
+Ghorza: Big violet flower, growing all around.
+Player: dragon egg
+Ghorza: Not many dragons in Krailos. Some living in high mountains where two suns most high during day. Looking out for dragon nests there.
+Player: onyx chips
+Ghorza: Little goblins getting them out of mountains for ogres. Ogres like black stones, protect against evil spirits. Many ogres got onyx chips with them. But not attack Bloody Skull Tribe ogres! Look out for hostile Thunder Tusk ogres.
+Player: shark teeth
+Ghorza: Perhaps you finding some at shore or in water near shore. Ghorza seen sharks near shore many times. Or perhaps humans had some in wooden boxes. ...
+Ghorza: Some of them carrying with them shark teeth. They saying that good for luck. Perhaps you finding some in wreckage.
+Player: trade
+Ghorza: Yes, Ghorza having some shamanic brew and runes for little human. Or perhaps want only brew or only runes.
+Player: brew
+Ghorza: You look. Also can have runes.
+Player: runes
+Ghorza: You look. Also can have brew.
+Player: water
+Ghorza: Sea drying again, little human. You once helped filling sea. You helping again?
+Player: no
+Ghorza: Not clever. Tasty little human must drink, too. (idle)
+Player: yes
+Ghorza: That good! You knowing what to do. Finding water spirit souls and catching in this enchanted jar.
+Player: mission / quest / task
+Ghorza: Great Hunger peaceful now. Tasty little human done well.
+Player: bye
+Ghorza: Take care of evil spirits.

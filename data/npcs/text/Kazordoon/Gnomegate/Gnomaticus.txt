@@ -1,0 +1,30 @@
+Player: hi
+Gnomaticus: Hi there! Are you here for the shooting test or to report your success?
+Player: name
+Gnomaticus: My name is Gnomaticus. I'm here to observe the test of your shooting skills!
+Player: job
+Gnomaticus: I'm here to observe the test of the shooting skills of our recruits!
+Player: shooting
+Gnomaticus: You already passed the test.
+Player: report
+Gnomaticus: You already passed the test.
+Player: dwarf
+Gnomaticus: Dwarfs have been our allies for quite a while now.
+Player: gnome
+Gnomaticus: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomaticus: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: global warming
+Gnomaticus: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomaticus: The more we learn about them, the more it becomes clear how little we know.
+Player: crystal
+Gnomaticus: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: thais
+Gnomaticus: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomaticus: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomaticus: The sky is a somewhat frightening concept to us gnomes.
+Player: yes [bug] / bye
+Gnomaticus: Good bye and take care!

@@ -1,0 +1,6 @@
+Player: hi 
+Player Level 1000: You're sure you want to line up? (fourth in line, walks away)
+Player: (idle)
+Player Level 1000: Booooring!
+Player Level 1000: I should rather go and buy some cookies.
+Player Level 1000: That takes ages! I'll return in five levels.

@@ -1,0 +1,50 @@
+Player: hi  
+Guide Rahlkora: Welcome to Ankrahmun, Player! This city can be a bit confusing at first. Would you like some information and a map guide?  
+Player: information  
+Guide Rahlkora: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot.  
+Player: town or ankrahmun  
+Guide Rahlkora: Ankrahmun consists almost completely of pyramids. You can walk up and down those pyramids just like you'd climb up stairs. Most shops are on the upper floors.  
+Player: temple  
+Guide Rahlkora: The temple is in the south-eastern part of town. If you exit the depot to the south and walk east - slightly south-east - you can't miss it.  
+Player: bank or gems  
+Guide Rahlkora: Tesha is in charge of both the bank and the gem store. You can find her on the market pyramid. Just exit the depot on the north side and walk up the next pyramid.  
+Player: shops  
+Guide Rahlkora: You can buy weapons, armor, tools, gems, magical equipment, furniture, spells and food here.  
+Player: spell trainers or spells  
+Guide Rahlkora: The druid trainer is also the keeper of the temple. Look for Rahkem in the eastern part of town. Exit the depot to the south and walk slightly south-east.  
+Player: depot  
+Guide Rahlkora: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.  
+Player: escort  
+Guide Rahlkora: This service is only for newcomers below level 10. I think you can manage the way on your own! If you need marks on your map, let me know.  
+Player: mark / map
+Guide Rahlkora: Would you like me to mark locations like - for example - the depot, bank and shops on your map?  
+Player: (if you dont answer "yes")  
+Guide Rahlkora: Well, nothing wrong about exploring the town on your own. Let me know if you need something!  
+Player: weapon or armors  
+Guide Rahlkora: Weapons and armors are sold by Memech on the market pyramid. Just exit the depot on the north side and walk up the next pyramid.  
+Player: tools  
+Guide Rahlkora: General goods like ropes and shovels can be bought in Ahmet's shop on the market pyramid. Just exit the depot on the north side and walk up the next pyramid.  
+Player: furniture  
+Guide Rahlkora: Feizuhl sells furniture near the post office. It's in the south-western part of town, left of this harbour.  
+Player: post
+Guide Rahlkora: Jakahr takes care of the post office. It is in the south-western part of town, just to the left of this harbour.
+Player: harbour
+Guide Rahlkora: That's where we are standing right now. You can travel between the Tibian settlements using this ship if you have a premium account, that is.
+Player: blessings
+Guide Rahlkora: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.
+Player: food  
+Guide Rahlkora: You can either buy food on the market pyramid north of the depot at Jezzara's or ask in the tavern in the south-western part of town.  
+Player: offer  
+Guide Rahlkora: Well, you seem to know your way around. Take care! 
+Player: buy or trade  
+Guide Rahlkora: I'm not buying or selling anything, but I could tell you about the shops in town.  
+Player: name  
+Guide Rahlkora: My name is Rahlkora. I'm a guide.  
+Player: job  
+Guide Rahlkora: I will help you to find your way around Ankrahmun. I can mark important locations on your map and give you some information about the town.  
+Player: time  
+Guide Rahlkora: It's 9:21 pm right now. This has been a good day so far. I've helped a lot of newcomers with information.  
+Player: (any other word)  
+Guide Rahlkora: Sorry, I don't have anything to tell you about this topic.  
+Player: bye  
+Guide Rahlkora: Good bye and enjoy your stay in Ankrahmun, Player.  

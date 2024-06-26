@@ -1,0 +1,54 @@
+Player: hi  
+Chuckles: Come in if you are not here to burn me. I am just doing my job. <chuckles>  
+Player: job  
+Chuckles: Let's get over with it. Just ask for my offers!  
+Player: offers / stuff / ware / buy / sell / equipment/ gods  
+Chuckles: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see my offers, ask me for a trade.  
+Player: potions  
+Chuckles: My potions are powerful, but please excuse if they taste a bit odd. My seasoning abilities are somewhat limited. <chuckles>  
+Player: trade  
+Chuckles: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?  
+Player: lich  
+Chuckles: Ah, come on, our bad reputation results only from a few black sheep among us liches. Honestly! <chuckles>!  
+Player: yalahar  
+Chuckles: The city is impressive. In its current state it even has an aura of undeath. <chuckles>  
+Player: yalahari  
+Chuckles: I wonder if they are as powerful as they pretend to be. Who knows, perhaps one day we'll find out. <chuckles>  
+Player: vampire  
+Chuckles: One of my best customers happens to be one. Just kidding. <chuckles>  
+Player: blood crystal  
+Chuckles: Oooh, you're playing with fire. <chuckles>  
+Player: cookie  
+Chuckles: Excuse me? <chuckles>  
+Player: alchemist quarter  
+Chuckles: Oh my, something must have gone really wrong. <chuckles>  
+Player: foreign quarter  
+Chuckles: I wouldn't worry about them. Sooner or later, they've all killed each other.  
+Player: arena quarter  
+Chuckles: I wonder what they're all worried about. There is still a lot of slaughter and roaming beasts and such. The only thing that has changed is the entry fee. <chuckles>  
+Player: sunken quarter  
+Chuckles: It must have been affected by a significant case of bad luck. <chuckles>  
+Player: magician quarter  
+Chuckles: <chuckles> Oh come on! They're just kids. All they want to do is play. <chuckles>  
+Player: factory quarter  
+Chuckles: I just hope these factories will not drive me out of business one day. <chuckles>  
+Player: trade quarter  
+Chuckles: Looks like every other Tibian city. <chuckles>  
+Player: rods  
+Chuckles: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
+Player: wand  
+Chuckles: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: rune  
+Chuckles: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see my offers, ask me for a trade.  
+Player: magic  
+Chuckles: Magic is nothing but a tool that comes in different shapes. <chuckles>  
+Player: deposit / vial  
+Chuckles: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: no  
+Chuckles: Hmm, but please keep Tibia litter free.  
+Player: fluid  
+Chuckles: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: undead  
+Chuckles: I prefer to refer to this state as biologically challenged.  
+Player: bye  
+Chuckles: Feel free to return - alive or as an ingredient. <chuckles>  

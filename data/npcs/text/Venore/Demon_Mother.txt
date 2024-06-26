@@ -1,0 +1,60 @@
+Demon Mother: Oh no. Not again!  
+Demon Mother: Where is this brat again?  
+Demon Mother: You need a serious beating.  
+Demon Mother: I want some days off.  
+Player: hi  
+Demon Mother: Greetings, meatbag. Speak quick, my patience is short.  
+Player: job / patience  
+Demon Mother: I'm the mother of thousands of demons. If you think they are a pain when they are grown up, you haven't met the young ones. And particularly the babies can be bothersome. ...  
+Demon Mother: I desperately need a few days off or I cannot guarantee for anything!  
+Player: babies  
+Demon Mother: My little darlings are somewhat tiresome sometimes. And there are hundreds of them. Even I need a rest from time to time. Some time for myself. Do you have any idea for how long I didn't have had my horns done? ...  
+Demon Mother: And it's not easy for a single demon mother to meet an evil guy. As soon as they hear you have a few hundred children at home, they teleport into another dimension! ...  
+Demon Mother: Even demon mothers want to relax now and then, have a bath in the lava pits and listen to the screams of some tortured souls. ...  
+Demon Mother: And I am not the kind of mother that let's her little demons watch the torture pits the whole day. I expect from them to do something creative and evil on their own. ...  
+Demon Mother: I won't drop them into some foreign dimension to take care of their own like other demon mothers do. ...  
+Demon Mother: Of course a torn off head will regrow in a few days but I'm old-fashioned and don't like to see my little darlings suffer. ...  
+Demon Mother: This is where you come in! I entrust this world to take care for my little darlings for a while!  
+Player: care / mission
+Demon Mother: Listen, ugly mortal. I need a few days off to pursue my hobbies like torture and plunder. This is not even remotely possible with all those children I have to care for! So I challenge your world!
+Player: challenge  
+Demon Mother: I need some of you mortals to care for some of my children. They are only demon babies so it shouldn't be too hard, even for such limited creatures as you are. ...  
+Demon Mother: I'll hand you one of my babies and you'll take care of it. You can only care for one baby at a time. ...  
+Demon Mother: Demon babies are moody and spoilt. Each few hours it will request something from you and you will have to fulfil its wishes to keep it happy. It will let you know what it wants. ...  
+Demon Mother: Do whatever pleases the baby to satisfy it for a few hours. If you comply with its wishes often enough, it will become cheery. It might take a few days and don't think it's easy. ...  
+Demon Mother: Some of the baby's wishes might be exotic and others outright dangerous. But that is the fate of babysitters since the dawn of time. ...  
+Demon Mother: Bring my darlings back to me as soon as they are cheery. This phase will last for a while and it will be easy for me to keep an eye on them. ...  
+Demon Mother: If enough of your people help me and bring me my cheery darlings, I will be pleased and your world will be rewarded. ...  
+Demon Mother: If you fail though .. well, let's say you will not like this alternative. I can become really mean if I am mad and most demons owe me something! ...  
+Demon Mother: So are you up to this?  
+Player: yes  
+Demon Mother: Uh ... Uhm ... Really? Fabulous! Here we go! Take care! It is now bound to YOU, so don't try to swap it with another baby. My magic will prevent that and return it to you!  
+Player: pacifier  
+Demon Mother: Ah, well. My kids sometimes like it rough. To calm them, I usually slap something hard on their head. Hey, don't give me that look, we are demons after all.  
+Player: babysitters / challenge
+Demon Mother: Hey! I already gave you one of my children! Don't try to fool me!
+Player: babysitters / challenge
+Demon Mother: Are you ready to take care of one of my little darlings for a while?  
+Player: yes  
+Demon Mother: Hey! I already gave you one of my children! If you have failed to take care of it, it will find me. And then I'll find YOU!  
+Player: no  
+Demon Mother: Though I feel like tearing you apart, I can't even blame you. Still, if your world fails, I will make you suffer!  
+Player: baby 
+Demon Mother: Are you here to bring one of my little darlings back to me?  
+Player: no
+Demon Mother: You should know better than to annoy a mother!
+Player: yes  
+Demon Mother: Brilliant! Your world might actually avert my wrath. We will see.  
+Player: yes
+Demon Mother: Brilliant! Your world might actually avert my wrath. We will see. To remind you of these cheerful days I'll hand you a magical simulacrum of one of my children!  
+Player: demon  
+Demon Mother: We are creatures of power and knowledge. We are more diverse than you mortals will ever comprehend. The knowledge and wisdom we have gained in our long lives are paling your fleeting vision of what you think is the world.  
+Player: zathroth  
+Demon Mother: Do you really think I have time to think about gods? I have hardly time for a spontaneous prayer that Zathroth may give me some spare time! ...  
+Demon Mother: But I guess he is too busy and can't answer those prayers, so I take the matter into my own hands, just like mothers usually do.  
+Player: pits of inferno  
+Demon Mother: I forbid my children to play there. With all those good-doers questing there, they might get hurt.  
+Player: bye  
+Demon Mother: <Grumbles>  
+Player: (vanish)
+Demon Mother: You need a serious beating.

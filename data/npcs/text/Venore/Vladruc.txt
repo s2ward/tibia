@@ -1,0 +1,58 @@
+Player: Hi  
+Vladruc: I am Vladruc Urghain and welcome you, Player, to my house.  
+Player: House/Job  
+Vladruc: I am a humble merchant of little importance to the beautiful Venore.  
+Player: Venore  
+Vladruc: Our ways are not your ways, and there shall be to you many strange things.  
+Player: Name  
+Vladruc: I am Vladruc Urghain. Welcome to my house!  
+Player: Monster  
+Vladruc: Oh yes, the children of the night ... you dwellers in the city cannot enter into the feelings of the hunter.  
+Player: Ferumbras  
+Vladruc: You think he is of ancient evil? Little you know about ancientness or evilness.  
+Player: Excalibug  
+Vladruc: A terrifying weapon if it does exist at all.  
+Player: Coffin  
+Vladruc: The final resting place for all of us, isn't it?  
+Player: Thais  
+Vladruc: Sadly, only through books have I come to know your great Thais, and to know her is to love her.  
+Player: Books  
+Vladruc: These companions have been good friends and teachers to me.  
+Player: Tibia  
+Vladruc: What a wonderful world we do live in ... so full of life.  
+Player: Blood  
+Vladruc: I like blood ... only the color, that is, of course ... <chuckles>  
+Player: Vampire  
+Vladruc: Please don't talk about such creatures. You are scaring me.  
+Player: Necromancer  
+Vladruc: Death is the final frontier. Necromancers boldly go, where no one has gone before.  
+Player: Magic  
+Vladruc: Magic is a tool to be mastered.  
+Player: Undead  
+Vladruc: It is not dead, which can eternal lie, and in strange aeons, even death may die.  
+Player: King  
+Vladruc: I am of noble blood myself. I have been master so long that none other should be master of me.  
+Player: Time  
+Vladruc: It is 6:08 am.  
+Player: Dungeon  
+Vladruc: Such lovely places, unjustly shunned by the people.  
+Player: Help  
+Vladruc: I am sorry, but I can't be of much assistance to you.  
+Player: Adventure  
+Vladruc: The time I sought out adventure is long gone indeed.  
+Player: Alchemy  
+Vladruc: You can buy some potions downstairs.  
+Player: Spell  
+Vladruc: I know a spell or two. You might want to buy some spells downstairs in the market.  
+Player: Market/Shop  
+Vladruc: Ah, feel free to browse and buy in my humble shop below.  
+Player: Army  
+Vladruc: The Thaian garrison serves its purpose very well.  
+Player: News  
+Vladruc: I am a reclusive person and learn little of the local gossip of the peasants.  
+Player: Offer  
+Vladruc: Please check my humble market downstairs for the wares that are offered.  
+Player: Thank you  
+Vladruc: That's nothing worth to be mentioned.  
+Player: Bye/Farewell  
+Vladruc: Go safely Player, and leave something of the happiness you bring!  

@@ -1,0 +1,49 @@
+Player: hi  
+Ortheus: What's your business here with the magicians, Player?  
+Player: magicians  
+Ortheus: I can't imagine a better place to live.  
+Player: live  
+Ortheus: Though the city has seen better days, the quality of life is still much better than in most other cities.  
+Player: job  
+Ortheus: Hm, good question. Maybe old, wise man?  
+Player: name  
+Ortheus: I'm used to being called old man. Simple as that.  
+Player: vampire  
+Ortheus: I don't know what you're talking about.  
+Player: blood  
+Ortheus: Yes, it's a bit messy down there. Sorry.  
+Player: julius  
+Ortheus: Doesn't ring a bell.  
+Player: armenius  
+Ortheus: He rarely comes here.  
+Player: maris  
+Ortheus: A man of the seas.  
+Player: lisander  
+Ortheus: He used to visit me for a chat, but ever since that new tavern opened I haven't seen him much anymore.  
+Player: serafin  
+Ortheus: He sometimes delivers fruit and vegetables to this quarter.  
+Player: cookie  
+Ortheus: It'd be better for you to leave now.  
+Player: yalahar  
+Ortheus: Though the city has seen better days, the quality of life is still much better than in most other cities.  
+Player: quarter  
+Ortheus: I can't imagine a better place to live  
+Player: alori mort  
+Ortheus: Whatever that's supposed to mean.  
+Player: mission / quest  
+Ortheus: You can bring me a mug of tea if you want to.  
+Player: tea  
+Player: yes  
+Ortheus: Hmmm, you don't have tea with you.  
+Player: Tea  
+Ortheus: Have you actually brought me a mug of tea??  
+Player: no  
+Ortheus: What a pity.  
+Player: reward  
+Ortheus: I don't have anything that I could give you as a reward. Guess you aren't so selfless after all, huh?  
+Player: Augur  
+Ortheus: They try to protect the city and do a decent job. Well - no, a poor job, I mean a poor job.  
+Player: tea  
+Ortheus: Have you actually brought me a mug of tea??  
+Player: yes  
+Ortheus: Wow. These polite young adventurers nowadays. Thank you.  

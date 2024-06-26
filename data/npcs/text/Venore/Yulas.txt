@@ -1,0 +1,19 @@
+Player: hi
+Yulas: Welcome to the Plank and Treasurechest Market, Simula! Looking for furniture, I hope.
+Player: name
+Yulas: I am Yulas. I will be your salesperson today.
+Player: job
+Yulas: We are into home improvement.
+Player: time
+Yulas: It's 7:38 am, my lady. 
+Player: offer / goods / furniture / equipment
+Yulas: We sell furniture and equipment. At this counter you can buy tables. Ask me for a trade if you're interested to see my wares.
+Player: trade
+Yulas: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture.
+Player: news
+Yulas: Sorry, we are not allowed to chat.
+0:21 Player: allen richardson
+Yulas: To think just because he is around here to watch what we do, he want to be considered one of us...
+Player: bye
+Yulas: Good bye, Simula.
+Yulas: Good bye.

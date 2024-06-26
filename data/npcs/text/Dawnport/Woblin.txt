@@ -1,0 +1,30 @@
+Player: hi / hello  
+Woblin: Hi there human!  
+Player: fish  
+Woblin: Fish good. Fish quiet and tasty. Woblin try to catch Old Nasty, but... hm you could earn yourself reward!  
+Player: old nasty  
+Woblin: You bring me Old Nasty?  
+Player: yes  
+Woblin: You have not Old Nasty! Odd, you stink just like him though!  
+Player: old nasty  
+Woblin: You bring me Old Nasty?  
+Player: no  
+Woblin: No waste time of Woblin, foolish human!  
+Player: key / precious  
+Woblin: Me not give key! Key my precious now! By old goblin law all that one has in his pockets for two days is family heirloom! Me no part with my precious ... hm unless you provide Woblin with some reward!  
+Player: goblin  
+Woblin: No part of clan. Me prefer company of precious. Or mirror image. Always nice to see pretty me!  
+Player: reward  
+Woblin: Me good angler but one fish eludes me since many many weeks. I call fish 'Old Nasty'. You might catch him in this cave, in that pond there. Bring me Old Nasty and I'll give you key!  
+Player: quest  
+Woblin: What you on quest for? Go leave Woblin alone with precious.  
+Player: mino  
+Woblin: Me not like minos either. Huge mean bullies! Woblin peaceful here.  
+Player: troll  
+Woblin: Me not like trolls. Big furry stinky trolls!  
+Player: cyclop  
+Woblin: Ugly stomping giants, always busy hammering stone.  
+Player: dwarf  
+Woblin: Mean short people, make Woblin's clan do slave work for them.  
+Player: bye  
+Woblin: Bye, bye!  

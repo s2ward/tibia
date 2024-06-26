@@ -1,0 +1,94 @@
+Player: hi
+Elane: Welcome to the paladins' guild, Player! How can I help you?
+Player: Name
+Elane: My name is Elane. I am the famous leader of the Paladins.
+Player: elane
+Elane: Yes?
+Player: help / job
+Elane: I am the leader of the Paladins. I help our members.
+Player: Time
+Elane: Oops. I have forgotten my watch.
+Player: news
+Elane: I am a paladin, not a storyteller.
+Player: king
+Elane: King Tibianus is a wise ruler.
+Player: general
+Elane: Harkath Bloodblade is the royal general.
+Player: army
+Elane: Some paladins serve in the kings army.
+Player: quentin
+Elane: A humble monk and a wise man.
+Player: lynda
+Elane: Mhm, a little too nice for my taste. Still, it's amazing how she endures all those men stalking her, especially this creepy Oswald.
+Player: oswald
+Elane: If there wouldn't be higher powers to protect him...
+Player: harkath bloodblade
+Elane: A fine warrior and a skilled general.
+Player: sam
+Elane: Strong man. But a little shy.
+Player: gorn
+Elane: He sells a lot of useful equipment.
+Player: frodo
+Elane: The alcohol he sells shrouds the mind and the eye.
+Player: galuna
+Elane: One of the most important members of our guild. She makes all the bows and arrows we need.
+Player: bozo
+Elane: How spineless do you have to be to become a jester?
+Player: baxter
+Elane: He has some potential.
+Player: sherry / donald / mcronald
+Elane: The McRonalds are simple farmers.
+Player: muriel
+Elane: Just another arrogant sorcerer.
+Player: gregor
+Elane: He and his guildfellows lack the grace of a true warrior.
+Player: marvik
+Elane: A skilled healer, that's for sure.
+Player: eclesius
+Elane: He must have been skilled before he became the way he is now. Such a pity.
+Player: lugri
+Elane: A follower of evil that will get what he deserves one day.
+Player: the first dragon
+Elane: So many claimed to have found and slain him but they had nothing to prove it.
+Player: Excalibug
+Elane: A weapon of myth. I don't believe that this weapon exists.
+Player: Ferumbras
+Elane: Someday I will slay that bastard!
+Player: vocation
+Elane: Your vocation is your profession. There are four vocations in Tibia: Paladins, knights, sorcerers, and druids.
+Player: paladins / skill
+Elane: Paladins are great warriors and magicians. Besides that we are excellent missile fighters. Many people in Tibia want to join us.
+Player: warriors
+Elane: Of course, we aren't as strong as knights, but no druid or sorcerer will ever defeat a paladin with a sword.
+Player: magicians
+Elane: There are many magic spells and runes paladins can use.
+Player: missile
+Elane: Paladins are the best missile fighters in Tibia!
+Player: members
+Elane: Every paladin profits from his vocation. It has many advantages to be a paladin.
+Player: advantages / profit
+Elane: We will help you to improve your skills. Besides I offer spells for paladins.
+Player: spells
+Elane: Sorry, I don't teach spells for your vocation.
+Player: Task
+Elane: So you are saying that you would like to prove that you deserve to wear such a hooded cloak?
+Player: Yes
+Elane: Alright, I will give you a chance. Pay close attention to what I'm going to tell you now. ...
+Elane: Recently, one of our members moved to Liberty Bay out of nowhere, talking about some strange cult. That is not the problem, but he took my favourite crossbow with him. ...
+Elane: Please find my crossbow. It has my name engraved on it and is very special to me. ...
+Elane: Secondly, we need a lot of leather for new quivers. 100 pieces of lizard leather and 100 pieces of red dragon leather should suffice. ...
+Elane: Third, since we are giving out tiaras, we are always in need of enchanted chicken wings. Please bring me 5, that would help us tremendously. ...
+Elane: Lastly, for our arrow heads we need a lot of steel. Best would be one piece of royal steel, one piece of draconian steel and one piece of hell steel. ...
+Elane: Did you understand everything I told you and are willing to handle this task?
+Player: task
+Elane: You've already completed all tasks, Player.
+Player: Crossbow
+Elane: I really wonder what was on this fool's mind when he stole my crossbow. What a huge disappointment.
+Player: Addon / Outfit / Tiara
+Elane: Oh, my winged tiara? Those are traditionally awarded after having completed a difficult task for our guild, only to female aspirants though. Male warriors will receive a hooded cloak.
+Player: Hooded cloak
+Elane: Those are traditionally awarded after having completed a difficult task for our guild.
+Player: Sniper gloves
+Elane: We are always looking for sniper gloves. They are supposed to raise accuracy. If you find a pair, bring them here. Maybe I can offer you a nice trade.
+Player: bye
+Elane: Bye, Player.

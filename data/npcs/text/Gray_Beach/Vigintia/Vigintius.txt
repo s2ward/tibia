@@ -1,0 +1,86 @@
+Player: hi
+Vigintius: Hi there, Player It's always a joy to follow your newest heroic deeds in Tibia.
+Player: Tibia
+Vigintius: You've been around a while, sometimes even in disguise - not that you could fool me <wink> <wink>. But imagine, there are still places to be discovered! Do you remember that one place, you never figured out how to enter? ...
+Vigintius: Took you tons of time but no clue yet, eh? Know what? I've been there. Seen it all - but I won't tell!
+Player: disguise
+Vigintius: C'mon man. We all get curious about other vocations now and then. Nothing to be ashamed of! Thing is, everything is about fun in the end, isn't it?
+Player: fun
+Vigintius: Yeah, man. Fun is what this is all about! Speaking of fun, sorry I tested that voodoo doll of yours lately. I heard it made you dizzy as a dwarf after a family reunion! I never thought it would actually work. ...
+Vigintius: Seriously! Oh and speaking of things to be sorry for. There's something else I have to tell you.
+Player: sorry
+Vigintius: Do you remember that thing that you could have sworn that you'd put it in your depot, but then it was gone? - Well I ate it! Sorry man, I was so drunk. ...
+Vigintius: Someone switched my mana pots with wine and in the heat of battle against some dragons, I didn't recognise it. When I returned to town I mistook your depot for mine. ...
+Vigintius: Next thing I remember was that I ate this thing out of your depot box. I know it was inedible. Don't ask me how I managed that stunt. My mother always told me I had the digestive system of a dragon. ...
+Vigintius: Oh and, well, there is a slight possibility that I might left it in quite a mess! Oh and by the way, that food you had in this backpack - you threw it away anyway, right? But I also have some good news!
+Player: good
+Vigintius: The battle against the dragons! I won, man! And the loot was quite decent! Of course I almost died because of the wine prank, but hey, we all almost die now and then, don't we?
+Player: almost
+Vigintius: Do you remember that time you almost died? Or the other time? Or the other? Hm, thinking about it, you 'almost die' an awful lot. Take better care, man! Would hate to loot your corpse one day. ...
+Vigintius: Unless you have that special something with you of course. Then I'd be glad to loot you! - Ah man, just kidding. I'd return your stuff of course.
+Player: stuff
+Vigintius: Boy, you don't know, but you had some really baaaad luck with your loot, y'know? I've peeked into the tables and I've seen you were soooo close to the loot jackpot at least three times. That's what I call bad luck. ...
+Vigintius: On the other hand - you never knew, so no harm done. Oh, wait, I just told you. Well - bad luck again I guess, man. Sometimes ignorance is bliss.
+Player: ignorance
+Vigintius: You still remember those times when you were a rookie, don't ya? Well I do and you were one of the rookiest rookies I've ever seen - and I've seen my share, man. ...
+Vigintius: How you tried to get out of that hole! Pure comedy, I tell ya. I also know you were a bit afraid of trolls! LOL! Imagine, trolls! ...
+Vigintius: And you were scared like mad of orcs: 'Oh, they will kill me! Must get out of here!' Priceless! Don't feel ashamed, man. We all've been there! In the end you turned out quite well I must say! Well, at least you could have turned out worse, man.
+Player: worse
+Vigintius: Yeah, like that one guy that was getting on your nerves in that dungeon. Some people can really be a pain. Can't remember how things turned out back then but I'm pretty sure you remember it quite well <wink>! Ah all those memories.
+Player: memories
+Vigintius: There are so many of them! Like that crazy guy in this one city, wasn't it - Thais? I've definitely seen my share of crazy stuff but that guy was as nuts as a coconut. ...
+Vigintius: I wonder what became of him. Do you know? Ah never mind, man. There are too many nice fellows around to care about those who are nuts. As entertaining as they might be from time to time.
+Player: entertaining
+Vigintius: Yeah, just remember all the hunts, the cool people you've met and that guy you befriended? Of course you do, man! That's what this is all about after all! ...
+Vigintius: I'm pretty sure you're already on your way to your next adventure and someone's waiting. Don't let an old dodderer like me keep you. Go out there and have fun! Don't forget: I'll keep an eye on ya!
+Player: treasure
+Vigintius: The southern beach on this island is reportedly dotted with treasures. You can go there and dig a bit for a small fee. ...
+Vigintius: You have a shovel with you, I assume? A real one, it should not be too light and it needs to be large enough so you can dig fast. If not I could offer you one. Interested?
+Player: no
+Vigintius: Alright then, it's your loss!
+Player: yes
+Vigintius: Fine, it will cost you 150 gold to visit the treasure zone once for 90 seconds and no refunds - still willing to risk that investment?
+Player: yes
+Vigintius: Well then, there you go! You can keep what ever you find! Good luck!
+Player: yes
+Vigintius: You already gave me enough gold and are all set and ready to go! The treasure zone is just over there, to the south!
+Player: can
+Vigintius: Interested in a little game of action? I prepared a bunch of cans just over there - took me a while to build this architectural masterpiece but the more important question is: what does it take you to tear them down? So?
+Player: no
+Vigintius: Alright then, but you're missing out!
+Player: yes
+Vigintius: Fine, it will cost you 100 gold for each toss and you can ask me for a reward, ready to go?
+Player: no
+Vigintius: Alright then, but think of all the fun you could have had with those cans..!
+Player: yes
+Vigintius: Well then, there you go! You can keep what ever you find! Good luck!
+Player: yes
+Vigintius: You already gave me enough gold and are all set and ready to go! The cans are just over there, on the counter of that booth!
+Player: reward
+Vigintius: Didn't see anything spectacular over there... whatever you did, there were no cans involved.
+Player: reward
+Vigintius: Alright, let's see what you got! Do you want to check your bronze rewards (one to four cans), silver rewards (five to seven cans), gold rewards (eight to nine cans) or the main prize?
+Player: bronze
+Vigintius: Looks like you did not score anything in that category. Shall we check your silver or gold score, maybe you even got the main prize?
+Player: silver
+Vigintius: Looks like you did not score anything in that category. Shall we check your bronze or gold score, maybe you even got the main prize?
+Player: gold
+Vigintius: Looks like you did not score anything in that category. Shall we check your bronze or silver score, maybe you even got the main prize?
+Player: main
+Vigintius: Looks like you did not score anything in that category. Shall we check your bronze, silver or gold score?
+Player: bronze / silver / gold
+Vigintius: Well done! Here you go!
+Player: bronze / silver / gold / main
+Vigintius: Looks like you need to free some space to carry your reward!
+Player: main
+Vigintius: Impressive, you actually knocked all the cans down! You're a true professional, here's your reward!
+Player: trade / offer / buy / sale
+Vigintius: Of course, just browse through my wares. I sell tasty food, if you want some. Also some other useful things.
+Player: (any)
+Vigintius: Okay, then just browse through all of my wares.
+Player: food
+Vigintius: Have a look. You can also browse through my other wares.
+Player: other
+Vigintius: Have a look. I also sell tasty food, if you want some.
+Player: bye
+Vigintius: You're already leaving? Well, enjoy the party then!

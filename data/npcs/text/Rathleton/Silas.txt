@@ -1,0 +1,72 @@
+Silas: Want to improve your aim, young paladin? Come and buy my bows!
+Silas: Need a new holy spell to hunt evil creatures? Come on in!
+Player: hi
+Silas: Hello, friend. If you need bows or spears, ammunition or paladin spells, then ask for a trade.
+Player: name
+Silas: I am Silas D'Arbalesse, from the known family of bowmakers.
+Player: job
+Silas: I am a hunter and trainer of hunters. And I teach paladin spells to those of my kind.
+Player: time
+Silas: It is 7:45 pm, exactly.
+Player: offer
+Silas: My offers are bows, crossbows and ammunition. Ask me for a trade to browse through them. I also teach paladin spells.
+Player: spells
+Silas: Sorry, I don't teach spells for your vocation.
+Player: trade
+Silas: Make your choice, friend.
+Player: bows
+Silas: I don't buy used bows. If you want to buy one, just ask me for a trade.
+Player: crossbows
+Silas: I don't buy used crossbows. If you want to buy one, just ask me for a trade.
+Player: ammunition
+Silas: I sell all sorts of arrows for bows and different bolts for crossbows. Ask me for a trade if you're interested to see my wares.
+Player: spears
+Silas: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.
+Player: arrows
+Silas: I have normal arrows, sniper arrows, flaming arrows, shiver arrows, flash arrows, earth arrows and onyx arrows used with bows. Just ask me for a trade.
+Player: bolts
+Silas: I have bolts, piercing bolts and power bolts used with crossbows.
+Player: rathleton
+Silas: You seem staggered by it. The invention of glooth added to the uniqueness of our city, I believe - there is no glooth in your lands, I understand?
+Player: glooth
+Silas: A strange substance, gained, I think through some sort of process from an animal. Our historian in the magistrate, or Dr Alaistar Stanton, can surely explain it better to you than I can.
+Player: Alaistar
+Silas: A kind and intelligent man, but too naive in his dealings with the minotaurs. You'd better purchase some sturdy bow if you go out there to their camps, friend.
+Player: graham
+Silas: I believe he is an able knight trainer with high moral standards. No wonder he should have a dislike to anything base, given his tragic family history.
+Player: history
+Silas: His father disappeared under mysterious circumstances, leaving his wife without any support. Lady Emily Balfour had fought her family for this marriage, only to be left shortly afterwards to their mercy.
+Player: flint
+Silas: Very determined not to lose another friend ever again, so he fabricates the best armors and weapons that a blacksmith can.
+Player: fyodor
+Silas: He has some radical ideas for the city, but maybe the senior magistrates will cool him down a little.
+Player: mordecai
+Silas: A very learned man in the ways and craft of magic, but he has lost interest in all worldy dealings. He makes runes and wands to sell, now.
+Player: nicholas
+Silas: His designs are not to my taste.
+Player: fayla
+Silas: A lady of obscure family who used to be a renowned opera singer in her youth, and teaches half Rathleton how to play the piano. She runs a shop for musical instruments, now.
+Player: terrence
+Silas: The captain of our city guards is one of my best customers. He is always in need of helping hands in his struggle against the minotaur onslaught, if you should seek a worthy task.
+Player: maro
+Silas: Better stay upwind of him. Who knows if he may not resolve to spy on us for his minotaur kin?
+Player: christine
+Silas: She has some very modern views, for a young lady of her noble lineage.
+Player: edmund
+Silas: A true craftsman with gems and precious metals. Maybe I will have some inlaid work for him to be done, for the new improved crossbow models.
+Player: mordecai
+Silas: A very learned man in the ways and craft of magic, but he has lost interest in all worldy dealings. He makes runes and wands to sell, now.
+Player: virgil
+Silas: One of our most respectable citizens, from an ancient family. A leading figure in society.
+Player: novel
+Silas: They remind me a little of the ballads of old. I wish, however, that we had a bard in this city, to remind the people of our heritage. Nobody would need novels then! ...
+Silas: Unfortunately, not much knowledge of our past has survived, only some rumours and fragments of the days of founding of Rathleton. You should talk to our historian at the magistrate if you are interested to learn more.
+Player: captain caveworm
+Silas: That guy had to be about a hundred years old or so by now.
+Player: maxxen
+Silas: He was an inventor that betrayed our city to the minotaurs and sold them all our secrets.
+Player: minotaur
+Silas: Those brutish creatures cannot share the island with us. We should eradicate their kind, once and for all, or we shall never be safe.
+Player: bye
+Silas: Stay upwind, friend.
+Silas: Nice stealth technique.

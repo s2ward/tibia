@@ -1,0 +1,26 @@
+Player: hi  
+Kevin: Greetings Player, what brings you to the headquarter of the postmaster's guild?  
+Player: headquarter / job  
+Kevin: I am the head of the Tibian Postmaster's Guild.  
+Player: Guild / postmaster  
+Kevin: We are a powerful organisation that is a vital part of Tibian society. It's an honour and a privilege to be a member.  
+Player: member  
+Kevin: You are already a member, Player.  
+Player: name  
+Kevin: My name is Kevin. Kevin Postner, that is.  
+Player: wally  
+Kevin: Wally is my right hand, so to say. He is the head to our guild's office branch.  
+Player: branch  
+Kevin: Well, there's the depot branch, the office brance, the delivery branch and some officers for special operations.  
+Player: mission  
+Kevin: You have mastered all our current missions. There's nothing left to be done ... for now.  
+Player: special operations  
+Kevin: We have a secret branch, called 'the stamps of the gods'. They secretly supervise our members' reliability and have an eye on certain groups of interest that want to gain influence over our guild.  
+Player: academy  
+Kevin: Ah, yes! One day I will found a post officers academy. Perhaps with the help of our most able members. But thats a task for another day.  
+Player: advancement  
+Kevin: Sorry, but you are not yet ready for advancement.  
+Player: first dragon  
+Kevin: If you'd ask me - what you just did - it's only a myth.  
+Player: farewell / bye  
+Kevin: Good bye.  

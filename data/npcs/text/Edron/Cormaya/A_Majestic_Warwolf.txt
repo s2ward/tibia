@@ -1,0 +1,19 @@
+Player: hi / hello / greetings
+A Majestic Warwolf: Interesting. A human who can speak the language of wolves.
+A Majestic Warwolf: I can see in your eyes that you are a honest and friendly person, Player. You were patient enough to learn our language and I will grant you a special gift. Will you accept it?
+Player: yes
+A Majestic Warwolf: From now on, you shall be known as Player, the bear warrior. You shall be strong and proud as Angros, the great dark bear. He shall guide your path.
+Player: hi
+A Majestic Warwolf: Welcome back, wolf (girl / man) Player.
+Player: name
+A Majestic Warwolf: My name is Faolan, the Grey. I am honoured to meet you, Player.
+Player: ceiron
+A Majestic Warwolf: Ceiron is a loyal friend of the wolves and bears. I would not hesitate a second to entrust my own puppy to him.
+Player: language
+A Majestic Warwolf: Are you here to talk about your outfit?
+Player: outfit / addon
+A Majestic Warwolf: You have already received my gift, Player. Don't become too greedy.
+Player: thank you
+A Majestic Warwolf: You are welcome, child.
+Player: bye
+A Majestic Warwolf: YOOOOUHHOOOUU!

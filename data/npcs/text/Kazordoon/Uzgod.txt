@@ -1,0 +1,64 @@
+Player: Hi  
+Uzgod: Hiho Player! Wanna weapon, eh?  
+Player: Weapon  
+Uzgod: See my weapons, light an' heavy ones? Ask for trade.  
+Player: Trade  
+Uzgod: Fine weapons, eh?  
+Player: Name  
+Uzgod: Me is Uzgod Hammerslammer, son of Fire from the Savage Axes.  
+Player: Job  
+Uzgod: Me a blacksmith is, an' weapons me sell. You want buy weapons?  
+Player: Mines  
+Uzgod: Me smashing rocks as me was little dwarf, jawoll.  
+Player: Time  
+Uzgod: Time is 4:31 am now.  
+Player: Monster  
+Uzgod: Me make often hunt on big nasties. Me small, but very big muscles me have, jawoll.  
+Player: Excalibug  
+Uzgod: You want sell me excalibug for 1,000 platinum coins and an enchanted armor?  
+Player: Dungeon  
+Uzgod: We no dungeon need. We prison isle have.  
+Player: Poem  
+Uzgod: Can't you see I'm working?  
+Player: Prison  
+Uzgod: Bad ones locked up there. Never come out again there, jawoll.  
+Player: Armor/Shield/Helmet/Legs  
+Uzgod: Me just sell weapons.  
+Player: Equipment/Ware/Buy/Sell/Offer  
+Uzgod: What you need? Me just the weapons sell. Let's trade.  
+Player: Ammunition/Bolt/Arrow/Distance  
+Uzgod: I sell arrows for bows and bolts for crossbows. Ask me for a trade if you're interested to see my wares.  
+Player: Bow  
+Uzgod: I don't buy used bows. If you want to buy one, just ask me for a trade.  
+Player: Crossbow  
+Uzgod: I don't buy used crossbows. If you want to buy one, just ask me for a trade.  
+Player: Crimson Sword  
+Uzgod: Me don't sell crimson sword.  
+Player: Help  
+Uzgod: You can buy the weapons me maked or sell weapons you have, jawoll.  
+Player: Pickaxe  
+Uzgod: True dwarven pickaxes having to be maked by true weaponsmith! Me order book full though.  
+Player: Thanks  
+Uzgod: Me enjoy doing that.  
+Player: Bye/Farewell  
+Special dialogues:  
+Player: Draconian steel  
+Uzgod: You bringing me draconian steel and obsidian lance in exchange for obsidian knife?  
+Player: No  
+Uzgod: Stop make fun of old dwarf.  
+Player: Draconian Steel  
+Uzgod: You bringing me draconian steel and obsidian lance in exchange for obsidian knife?  
+Player: Yes  
+Uzgod: No obsidian lance, no draconian steel.  
+Player: Draconian Steel  
+Uzgod: You bringing me draconian steel and obsidian lance in exchange for obsidian knife?  
+Player: Yes  
+Uzgod: Here you have it.  
+Player: Excalibug  
+Uzgod: You want sell me excalibug for 1,000 platinum coins and an enchanted armor?  
+Player: Yes  
+Uzgod: Stop make fun of old dwarf, you not having it!  
+Player: Excalibug  
+Uzgod: You want sell me excalibug for 1,000 platinum coins and an enchanted armor?  
+Player: No  
+Uzgod: Me wouldn't sell it, too.  

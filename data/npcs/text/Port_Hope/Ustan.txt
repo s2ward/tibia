@@ -1,0 +1,58 @@
+Player: hi
+Ustan: Crunor's blessing, traveller Player. I'm a druid teacher.
+Player: name
+Ustan: I am Ustan.
+Player: job
+Ustan: I am a druid, an explorer and a part-time teacher.
+Player: teacher
+Ustan: Well, my studies of the local plants and animals are not cheap and I have to earn money somehow. Therefore I teach spells to other druids for a small fee.
+Player: spells
+Ustan: I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.
+Player: tibia
+Ustan: It's a world full of wonders, isn't it?
+Player: king
+Ustan: As a commoner I know little about our nobility.
+Player: jungle
+Ustan: The jungle is fascinating and vibrant of life. There is so much to see, to learn and to discover, it's just overwhelming.
+Player: apes
+Ustan: I am sure we could reach an agreement of some kind with the ape people. They are for sure intelligent and might listen to reasonable arguments.
+Player: lizards
+Ustan: They are fascinating and alien creatures. I wonder what kind of secrets they know about and what could be discovered about them.
+Player: dworcs
+Ustan: Given that the orcish race is able to reproduce itself with all kinds of different humanoid creatures, it is indeed a probability that the dworcs are some crossbreed as one could assume from their name.
+Player: thais
+Ustan: I usually shun big cities and Thais is the biggest one of them.
+Player: venore
+Ustan: A rich city with mighty trade barons that have their hands in almost every business from the furthest north to the deepest south.
+Player: carlin
+Ustan: I studied in Carlin for a while and found its inhabitants most pleasant.
+Player: edron
+Ustan: I was never there. Perhaps after finishing my studies here I might travel there.
+Player: darama
+Ustan: The continent is of fascinating diversity. The jungle, the mountains and the desert are seperate regions but united in one marvellous continent. To understand the unity in this, is to understand the world.
+Player: darashia
+Ustan: It's an unremarkable settlement with people following a strange philosophy which I know little about.
+Player: ankrahmun
+Ustan: Those mad cultists mock life and Crunor's blessing, and their undead leaders are even worse. If I'd be a warrior instead of a scientist, I would fight the evil.
+Player: kazordoon
+Ustan: A city of stone, deep in the interior of the earth.
+Player: dwarves / dwarfs
+Ustan: Dwarves are of a different physique than humans. Actually, this is worth to become an own field of research. I wish I'd find the time for such studies, but the jungle has priority.
+Player: ab'dendriel
+Ustan: A marvellous city. I travelled there often while I was studying in Carlin.
+Player: elves / elfs
+Ustan: Elves have a different view of the world. The wars of the past hurt their collective soul, but time might heal their pain, and maybe one day they will find their way back to the gods.
+Player: ferumbras
+Ustan: I heard he is some powerful sorcerer
+Player: excalibug
+Ustan: I think the best weapon anyone could wield is the own mind.
+Player: outfit / addon
+Ustan: Sorry, but I can't give you any other accessories.
+Player: cough syrup
+Ustan: I had some cough syrup a while ago. It was stolen in an ape raid. I fear if you want more cough syrup you will have to buy it in the druids guild in Carlin.
+Player: bye
+Ustan: Good bye, traveller Player.
+Player: bye (spells)
+Ustan: May enlightenment be your path.
+Player: (vanish)
+Ustan: Good bye.

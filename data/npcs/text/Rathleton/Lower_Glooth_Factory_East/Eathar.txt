@@ -1,0 +1,14 @@
+Player: hi
+Eathar: Greetings, I advise you to stay inside the plant unless you feel prepared to face the danger outside!
+Player: danger
+Eathar: It seems our plant causes the some local wildlife of the underground to go mad for some odd reason. We have no idea what's happening but the attacks of the beasts are undeniable. ...
+Eathar: The worst part is, that even creatures formerly unknown in this area, burrow their way to the plant. And some of these creatures are HUGE, I tell you
+Player: burrow
+Eathar: The whole area is undermined by a web of old and new tunnels. When such a tunnel opens, the best thing is to destroy it quickly, to keep it from allowing more and more creatures entrance.
+Player: HUGE
+Eathar: The worst attacker is the occasional tremor worm as we have called them. They are enormous solitary beasts whose presence alone causes enough damage to threaten the stability of the plant. ...
+Eathar: Their digging and moving underground send tremors to the delicate machines in the plant and they often destroy parts of our cooling system. ...
+Eathar: This will sooner or later cause our systems to malfunction and some of them even to explode. ...
+Eathar: Causing massive damage to the plant. The only way to stop them, is to kill them before they caused too much damage to our systems.
+Player: bye
+Eathar: Good bye!

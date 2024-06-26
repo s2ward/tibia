@@ -1,0 +1,44 @@
+Player: hi  
+Mr. West: Hello. What brings you here?  
+Player: here / friend / want  
+Mr. West: I guess you are here on a mission.  
+Player: yalahar  
+Mr. West: Yalahar is an oyster. Its treasure is waiting to be excavated by someone with the necessary determination.  
+Player: azerus  
+Mr. West: He seems astonishingly determined and focused for a Yalahari. Perhaps he is the first sign of a change of wind blowing in our city. Who knows if it will be for the better.  
+Player: cookies  
+Mr. West: Uhm. That cookie smells kinda strange. Don't take it as an offence, but no.  
+Player: alchemist quarter  
+Mr. West: I don't care much about what has happened there. All that matters to me is that the quarter is lost and poses a danger.  
+Player: arena quarter  
+Mr. West: In fact the arena quarter is still useful for the city. It's a good food source, and I recruit some of my best men from the descendants of the gladiators.  
+Player: factory quarter  
+Mr. West: There are still many people living there. Of course, I provide them with some of my services as well.  
+Player: magician quarter  
+Mr. West: It's a shame. I'm convinced there are countless treasures hidden in those ruins. However, neither bribe nor threats get my men even close to this quarter.  
+Player: ab'dendriel  
+Mr. West: I wouldn't trust a single elf, let alone a whole city of them.  
+Player: thais  
+Mr. West: The word is that Thais is a dangerous place which you better do not visit unprepared.  
+Player: venore  
+Mr. West: The trade barons know how to run a city, that's for sure. Unfortunately, they are greedier than it is good for them. I'm prepared to deal with their intrusion into my territory.  
+Player: kazordoon  
+Mr. West: Those dwarfs know how to fortify a city. Perhaps one day, when I've earned enough money and have grown too old for the trouble in Yalahar, I will retire there.  
+Player: carlin  
+Mr. West: The illusion of peace that this city is offering often distracts the attention from the dangers lurking there.  
+Player: palimuth  
+Mr. West: He is a typical Yalahar official - always occupied with trying to stop the dam from breaking. After all these years, he still has not given up. That qualifies him either as an idealist or a fool.  
+Player: bandits  
+Mr. West: All those royal bloodlines started with some kind of bandit anyhow.  
+Player: blood crystal  
+Mr. West: Never heard of it.  
+Player: crime  
+Mr. West: The city offers great possibilities as long as order is maintained in some way. ...  
+Mr. West: It's easy to maintain order by using brute force but I see that as a necessary evil. My little empire developed out of my need for security in these times of turmoil. ...  
+Mr. West: To establish some security, I had to establish a base of power first. To maintain this power, I had to gain money somehow. ...  
+Mr. West: At this point I used my power to secure resources and to encourage trade. ...  
+Mr. West: In fact I do nothing else than the kings. I collect taxes and use them to hire men that ensure the safety of the people.  
+Player: slum  
+Mr. West: The people do their best to earn their living. Still, they are desperate. If it were not for me, they'd rob and murder each other.  
+Player: bye  
+Mr. West: Good bye.  

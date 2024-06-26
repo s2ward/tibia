@@ -1,0 +1,47 @@
+Player: Hi Maryza  
+Maryza: Welcome to the Jolly Axeman, Player. Have a good time and eat some food!  
+Player: Food/offer  
+Maryza: I sell normal and brown bread, meat, ham, cookies, rolls, and cheese made of mushrooms. If you'd like to see my offers, ask me for a trade.  
+Player: Trade  
+Maryza: Sure, have a look at my food. Remember, touching means buying it.  
+Player: Job  
+Maryza: I'm the cook of the Jolly Axeman.  
+Player: Name  
+Maryza: I'm Maryza Firehand, daughter of Earth from the Molten Rock.  
+Player: Jimbin  
+Maryza: I'm so proud of him. When it comes to drinking, only our mighty general beats him.  
+Player: Book  
+Maryza: I'm sorry but I sell only one copy to each customer. Otherwise they would have been sold out a long time ago.  
+Player: Poem  
+Maryza: I only know some drinking poems, and I can't hear them anymore as they are told every evening by some drunkard.  
+Player: Army  
+Maryza: We should rather feed some dragons than these fools.  
+Player: Bloody Mary  
+Maryza: YOU &/$#@!  
+Player: Kiss  
+Maryza: <sighs> Once there was a dwarf who was a ladies' man unparalleled in dwarven history. His name was Shearton Softbeard ...  
+Maryza: Even though he is dead since decades now, no other dwarf was able to beat his kissing skill ever since.  
+Player: Shearton Softbeard  
+Maryza: Like many dwarfs, he was a miner. Unfortunately he died in a mining accident. The mines' foreman should be able to tell you more about him.  
+Player: Carlin  
+Maryza: Don't like it, has an elfish touch, ye know?  
+Player: Thais  
+Maryza: Puny town for puny guys.  
+Player: Excalibug  
+Maryza: I'd slice a dragon or two and make steaks for everybody if I got my hands on it.  
+Player: General  
+Maryza: A fine drinker and strategist. Wastes his skill with these fools of the army. What a shame!  
+Player: King  
+Maryza: Don't like these upper cave guys.  
+Player: Rumours  
+Maryza: The boys of the Savage Axe at the bridge are running wild these days.  
+Player: Time  
+Maryza: Too busy, ask my husband.  
+Player: Ferumbras  
+Maryza: Heard that's what the humans call one of their bogeymen.  
+Player: Tark  
+Maryza: He loved my dragon steaks. Heard he died by a cave in while fighting dragons in the Plains of Havoc.  
+Player: Farewell  
+Maryza: Yeah, farewell.  
+Player: Bye  
+Maryza: Yeah, bye.  

@@ -1,0 +1,44 @@
+Player: hi
+Kaya: Welcome to Larek's private bank, Player! I can help you with your bank account or sell you parcels and the like.
+Player: name
+Kaya: My name is Kaya.
+Player: job
+Kaya: I work for the Tibian bank.
+Player: time
+Kaya: It is exactly 6:17 pm.
+Player: larek
+Kaya: Larek is a member of the Explorer Society. He came here from Port Hope to explore the still little-known peninsula Krailos and I accompanied him as research assistant. I'm still a novice but proficient in Tibia's classical languages and myths. ...
+Kaya: That's the reason Larek asked me to assit him on this journey.
+Player: explorer society
+Kaya: The Explorer Society is an elite society of adventurers that explore and research all aspects of our world. We are interested in the many different creatures of Tibia, as well as the history of curious structures and items.
+Player: krailos
+Kaya: Krailos is this peninsula that forms the northern part of Oramond. As you might have noticed it s mainly populated by ogres.
+Player: ogre
+Kaya: The ogres are a rough, yet interesting people. Larek has written an essay about their culture - if you want to use this word in relation to ogres. If you want to know more, feel free to ask Larek.
+Kaya: Many goblins are kept as slaves or are even eaten by the ogres. Unlike the dworcs or coryms who come here as stowaways at times, the goblins seem to live in Krailos for quite a while yet.
+Player: slave
+Kaya: The ogres keep smaller races like goblins, dworcs or coryms as slaves. They let them do the cooking and cleaning, they send them to the mines in the south to dig up onyx and opals. Or they eat them, if they get hungry. ...
+Kaya: Awful, I know. I guess, we should return to Port Hope as soon as possible.
+Player: vuzrog / chieftain vuzrog
+Kaya: Vuzrog is the tribe's chieftain. In ogre tribes the chief is always the strongest male or - in rarer cases - female tribe member. Vuzrog is impulsive and irascible, if he's hungry. Which means ... most of the time.
+Player: chieftain
+Kaya: The chieftain is the big boss of a tribe, as the ogres call it.
+Player: ghorza
+Kaya: Ghorza is the tribe's shaman. She's an elder ogress who seems to have much influence here, even on the chieftain Vuzrog. She is able to exert shamanistic magic of considerable power.
+Player: shaman
+Kaya: An ogre shaman is the link between the tribe and the spirits.
+Player: mugruu
+Kaya: He's one of the ogres here in the village. Some weeks ago he suddenly was very interested in Larek's doings and now he is selling and buying things, too.
+Player: grubokk
+Kaya: I haven't seen him very often - fortunately. He seems to be cruel, blunt and disgusting even by ogre standards. ...
+Kaya: Most of the time he's overseeing the goblins who have to work in the faraway mines, in the mountains that seperate Krailos from southern Oramond.
+Player: nibble
+Kaya: Oh, the poor Nibble. He's kept as a slave by chieftain Vuzrog. He has to cook his meals, to clean his hut and so on. For a goblin he's quite cute. I really feel sorry for him.
+Player: bloody skulls
+Kaya: The ogres who live in this village call themselves the Bloody Skull Tribe. They have constant clashes with the Thunder Tusk Clan.
+Player: thunder tusk
+Kaya: That's a tribe of ogres living west of here. Unlike the Bloody Skull ogres they don't tolerate any visitor.
+Player: hyaena
+Kaya: Hm, I have no idea, where this hyaena could be, I'm sorry.
+Player: bye
+Kaya: Good bye.

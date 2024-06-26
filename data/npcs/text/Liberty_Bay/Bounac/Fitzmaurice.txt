@@ -1,0 +1,36 @@
+Player: hi
+Fitzmaurice: Oh, hello there!
+Player: name
+Fitzmaurice: My name is Fitzmaurice. Maybe you already made the acquaintance of one of my older brothers.
+Player: job
+Fitzmaurice: Do I look like I'm working?
+Player: brothers / fitzwilliam
+Fitzmaurice: They're about as steadfast as me and could be practically anywhere and nowhere these days. ...
+Fitzmaurice: Fitzwilliam has always wanted to visit exotic locations. Then again, he never did go out much in the first place. ...
+Fitzmaurice: Fitzgerald also liked the warmth of this world's southern regions but he's not known to be that enthusiastic about travelling in general.
+Player: fitz
+Fitzmaurice: Don't know who you're talking about there, sorry.
+Player: bounac
+Fitzmaurice: What a fine place to live, eat, drink and enjoy life!
+Player: king
+Fitzmaurice: Kesar is a good ruler. They say he doesn't see himself much of a king, well, to each their own I guess.
+Player: prison
+Fitzmaurice: Yes, welcome! Well it may be more of a prison to you than it is to me. I grew quite fond of it.
+Player: siege
+Fitzmaurice: Ah, you know, battering rams here, catapults there... overall it has been pretty quite down here so far.
+Player: help
+Fitzmaurice: Help? You need help? What can I do for... oh, you mean me? No, no thanks. I'm good, just fine.
+Player: fine
+Fitzmaurice: Of course! I mean, look around you! I got everything I need here! It's dry, not too hot during the warmer days and I've got plenty to eat! ...
+Fitzmaurice: You get better food down here in this prison than in most places up there out in the world. ...
+Fitzmaurice: Well, there is one thing, though... but I wouldn't want to bother you with an errand.
+Player: errand / wine
+Fitzmaurice: Hm, nah, I shouldn't really bother you with this. You know, they have some excellent food down here but the wine... ...
+Fitzmaurice: It sure tastes like the real thing but they seem to stretch it with water. ...
+Fitzmaurice: Now I don't know if this is just for us prisoners down here or if it's because of the siege but I'd really like to taste some good wine. ...
+Fitzmaurice: Don't know if you ever met my brothers but one of them, Fitzwilliam, is a keen gourmet of wine and used to have a vineyard estate.
+Player: wine
+Fitzmaurice: Hm, nah, I shouldn't really bother you with this. You know... what do you have there? Wine? A Fitzwilliam's Special...? Oh! ...
+Fitzmaurice: Now that's what I call WINE, thank you very much! Hope you enjoy your stay in Bounac as much as I do, my friend!
+Player: bye
+Fitzmaurice: Farewell!

@@ -1,0 +1,51 @@
+Player: Hi  
+Pig: Oink.  
+Player: How are you?  
+Pig: Oh well. I am cursed to live in this unworthy shape but I still hope that the curse will be lifted one day.  
+Player: Name  
+Pig: My name is Shantalla.  
+Player: Job / Me  
+Pig: Once I was a beautiful princess but now I'm only an ordinary pig without much dignity!  
+Player: Time  
+Pig: Where do you think I'd wear a watch?  
+Player: Pig  
+Pig: It's just the appearance. Inside I am still the beautiful princess I used to be.  
+Player: Help  
+Pig: Oh please, help me to lift this curse.  
+Player: Lift  
+Pig: Only a kiss of the king of all kissers will break the curse.  
+Player: Princess / Curse  
+Pig: An evil witch has cursed me to live as a pig until the best kisser in the world gives me a kiss.  
+Player: Best kisser  
+Pig: You probably have the potential. If your kiss does not lift the curse, travel the world to learn more about kissing.  
+Player: kissing
+Pig: Learn as much about kissing as you can. I'm sure you can learn the basics in the major cities. To refine your skill you might need to travel to the countryside, explore sparsely populated areas and even face some dangers.
+Player: kiss
+Pig: Do you want to try to release me with a kiss?
+Player: no
+Pig: Oh, please rethink your decision! Just keep in mind the good you'd do and the reward of course.
+Player: yes
+Pig: Uh. Uhm. That was ... unskilled. Sorry, you have to learn MUCH about kissing.
+Player: yes
+Pig: Uhhh. Well, that was ... promising. But you are FAR from being the best kisser in the land.
+Player: yes
+Pig: Mhmm. Nice try. You definitely have some experience but you should improve your skill DRASTICALLY.
+Player: yes
+Pig: Mhmmm. Oh my, you have learnt a few tricks indeed. But it takes more to become the best kisser in the world. FAR more.
+Player: yes
+Pig: Mhm Uhhh. Not bad, not bad at all! But you can still improve your skill a LOT.
+Player: yes
+Pig: Ahhh. That was really nice. But you STILL lack the refinement of perfection.
+Player: yes
+Pig: Mhm. Ahh. In ... incredible ... but ... I fear there's still something to learn for you.
+Player: yes
+Pig: Uhh. Ahh. Mhm. By the gods, you are really and truly the best kisser in the whole land. But ... I'm afraid I have to confess something ...
+Pig: There is no curse. I'm nothing than an ordinary pig that is able to speak by coincidence and loves to kiss. But your efforts shall not go unrewarded ...
+Pig: Of course I can't marry you - my mother would turn on her skewer. But I can tell you the hiding-place of some ancient sword ...
+Pig: Look in the basement of this farm. You should find a chest there containing the mighty Firlefanz.
+Player: Kiss  
+Pig: *sigh* You are truly the best kisser in the world.  
+Player: Oink  
+Pig: Don't kill me! I taste bad!  
+Player: Bye / Farewell  
+Pig: Bye.  

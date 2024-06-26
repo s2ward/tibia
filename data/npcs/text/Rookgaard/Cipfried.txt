@@ -1,0 +1,207 @@
+Player: (idle)
+Cipfried: Feeling lost, my child? Ask me for hints or help!
+Cipfried: Welcome to the temple of Rookgaard!
+Cipfried: Come to me if you need healing!
+Cipfried: Don't despair! Help is near!
+Player: hi / hello  
+Cipfried: Hello, Player! I'll heal you if you are injured or poisoned. Feel free to ask me for help or general hints.  
+Player: name  
+Cipfried: My name is Cipfried.  
+Player: job  
+Cipfried: Me? Oh, I'm just a humble monk. Ask me if you need help or healing.  
+Player: monk  
+Cipfried: I have sacrificed my life to serve the good gods of Tibia and to help newcomers in this world.  
+Player: tibia  
+Cipfried: That's where we are - the world of Tibia, in a village called Rookgaard, to be precise, with many monsters, quests and citizens around.  
+Player: rookgaard  
+Cipfried: The gods have chosen this isle as the point of arrival for newborn souls. The citizens will help you if you ask them.  
+Player: god  
+Cipfried: They created Tibia and all life on it. Visit our academy and learn about them.  
+Player: citizen  
+Cipfried: Only a few people live in our village, most of them are merchants. You can either ask them for a trade or about various other topics, like the names of other citizens, their job or Tibia in general.  
+Player: obi  
+Cipfried: Obi's shop is to the north-east of this humble temple. He sells weapons, and his granddaughter Dixi sells armor and shields upstairs.  
+Player: seymour  
+Cipfried: Seymour is a loyal follower of the king and a teacher in the academy.  
+Player: willie  
+Cipfried: Willie is a farmer, just like his cousin Billy. His farm is located left of the temple. You can buy and sell food there.  
+Player: academy  
+Cipfried: The academy is just north of here. You can learn helpful things there from Seymour, if you wish to!  
+Player: Billy  
+Cipfried: He's a farmer, just like his cousin Willie. He doesn't talk to everybody, though.  
+Player: monster  
+Cipfried: Monsters are a constant threat to this village. You would tremendously help us by fighting them, starting with rats in the sewers, then turning to spiders or wolves.  
+Player: rat  
+Cipfried: A single rat doesn't pose a grave danger to you, but be careful not to get cornered by many of them. They could still kill you.  
+Player: sewer  
+Cipfried: The sewers are right below this village. North of this temple, you find a sewer grate which leads down, but there are also many small huts in the village which are connected to the sewers.  
+Player: kill / death  
+Cipfried: If you get killed, you will revive in this temple. However, you will lose experience and also equipment, which can be quite painful. Take good care of yourself!  
+Player: weapons  
+Cipfried: To defend yourself against enemies, you will need a weapon. You can purchase weapons at Obi's shop.  
+Player: armor  
+Cipfried: To defend yourself against enemies, you will need armor and shields. You can purchase both at Dixi's shop.  
+Player: shield  
+Cipfried: To defend yourself against enemies, you will need armor and shields. You can purchase both at Dixi's shop.  
+Player: Dixi  
+Cipfried: That's Obi's granddaughter. Her counter is just upstairs from Obi's shop. She helps him by selling armor and shields.  
+Player: shop / merchants  
+Cipfried: You can buy and sell goods from merchants. To do so, simply talk to them and ask them for a trade. They will gladly show you their offers and also the things they buy from you.  
+Player: equipment  
+Cipfried: You can buy equipment from the merchants in this village once you earned some gold. Some monsters also carry equipment pieces with them.  
+Player: heal  
+Cipfried: You aren't looking really bad, Player. I can only help in cases of real emergencies. Raise your health simply by eating food.  
+Player: food  
+Cipfried: Food is very important for your health. If you are hurt in a fight with a monster, select 'Use' on food such as cheese, ham or meat to eat it. This will slowly refill your health.  
+Player: help  
+Cipfried: How can I help you? I can tell you about specific citizens if you tell me their name. I can also give you general hints about Tibia.  
+Player: quest / mission  
+Cipfried: Oh, I can handle my tasks myself, thank you. If you are looking for something to do, you should listen to the local citizens and ask them for quests. You could also help us fight monsters.  
+Player: gold / money  
+Cipfried: You can earn a fair amount of gold by fighting monsters and picking up the things they carry. Many citizens are buying some of that loot, simply ask around.  
+Player: time  
+Cipfried: Now it is 9:58 pm, my child.  
+Player: Asralius  
+Cipfried: He came together with Vascalir. He seems like a powerful mage and investigates the disturbances in the magical atmosphere.  
+Player: Vascalir  
+Cipfried: He has recently arrived from a far-away country to help us fight against the orcs.  
+Player: Amber  
+Cipfried: Amber is such a lovely girl, and also a very experienced explorer and adventurer. It's always interesting to chat with her.  
+Player: explorer / adventure  
+Cipfried: I can see a bright future for you... you will soon embark on a very big adventure and explore the world of Tibia - maybe even influence history!  
+Player: Al Dee  
+Cipfried: In Al Dee's shop you'll find important general equipment such as ropes, shovels and torches.  
+Player: ropes  
+Cipfried: Never go adventuring without a rope! If you don't have one when you fall through a hole in the ground, you won't be able to leave without a rope.  
+Player: shovels  
+Cipfried: Shovels are very useful. There may be a hidden entrance under a loose pile of stone and without a shovel, how would you know?  
+Player: Dallheim  
+Cipfried: May the gods bless our loyal guardsmen! Day and night they stand watch on our bridges, ensuring that it is not passed by dangerous monsters!  
+Player: Cipfried  
+Cipfried: Yes? How can I help you?  
+Player: knight  
+Cipfried: Knights are close combat fighters. They usually wield melee weapons such as swords, axes or clubs.  
+Player: paladin  
+Cipfried: Paladins are well-trained distance fighters and can cast holy magic. You will usually see them wearing bows or crossbows.  
+Player: druid  
+Cipfried: Druids are nature magicians. Their speciality is casting ice and earth magic, as well as providing healing for others.  
+Player: sorcerer  
+Cipfried: Sorcerers are elemental magicians. They have mastered fire, energy and death magic.  
+Player: Oracle  
+Cipfried: You can find the oracle on the top floor of the academy, just above Seymour. Go there when you are level 8 to find your destiny.  
+Player: vocation  
+Cipfried: There are four vocations in Tibia: knight, sorcerer, paladin or druid. Each vocation has its unique special abilities.  
+Player: destiny  
+Cipfried: Your near destiny will be to choose a vocation once you are level 8. Whether you will become a knight, sorcerer, paladin or druid is a big decision!  
+Player: potion  
+Cipfried: Potions will come in handy once you are in a fight deep in a dungeon. If you aren't in immediate danger, you can simply eat food to regain health, though.  
+Player: spider  
+Cipfried: If you face spiders, beware of the poisonous ones. If you are poisoned, you will constantly lose health. Come to me and I'll heal you from poison.  
+Player: poison  
+Cipfried: Poison is very dangerous! Don't ever drink green liquids, they are poisonous and will make you lose health!  
+Player: wolf / wolves  
+Cipfried: Wolves can only be found outside of the village. If you want to know where their dens are, best talk to Dallheim or Zerbrus at the bridges.  
+Player: thank  
+Cipfried: Of course.  
+Player: Hyacinth  
+Cipfried: Hyacinth is a close friend of mine. He left the village many years ago to live in solitude. I think all this bustle here simply was too much for him.  
+Player: Lee'Delle  
+Cipfried: Lee'Delle's shop is on the premium side of the village. You should visit her!  
+Player: premium  
+Cipfried: As a premium adventurer, you are an official tax payer and thus privileged in many ways. For example, you can travel by ship and get better deals from merchants.  
+Player: ship  
+Cipfried: Ships are a comfortable way of travelling to distant cities. At any harbour, you can board the ship and ask its captain where he sails to. ...  
+Cipfried: Travelling by ship will cost you some gold, though, so be sure to have money with you.  
+Player: Lily  
+Cipfried: You must have passed the house of Lily on your way here. She sells potions. If you pick blueberries or find cookies, she'll buy them from you.  
+Player: sell / buy  
+Cipfried: I'm sorry, but I'm not interested in worldly goods. If you want to buy or sell something, you should ask a local merchant for a trade.  
+Player: Loui  
+Cipfried: That's a sad story. He used to help me guard this temple, but for some reason he went out of his mind.  
+Player: Norma  
+Cipfried: She recently opened a little bar north of this village.  
+Player: Paulie  
+Cipfried: He is the bank clerk, making sure your money remains safe.  
+Player: bank  
+Cipfried: You can deposit your money at the bank. That way you won't lose it if you get killed. The bank is just under the academy and to the right.  
+Player: Seymour  
+Cipfried: Seymour is a loyal follower of the king and a teacher in the academy.  
+Player: trade  
+Cipfried: I don't have any goods for trade, but if you ask one of the merchants, he or she will gladly show you what you can buy or sell.  
+Player: king  
+Cipfried: Well, King Tibianus of course. The island of Rookgaard belongs to his kingdom.  
+Player: Tom  
+Cipfried: Tom is the main provider for leather armor in this village. You can sell fresh corpses or even minotaur leather to him.  
+Player: Zerbrus  
+Cipfried: May the gods bless our loyal guardsmen! Day and night they stand watch on our bridges, ensuring that it is not passed by dangerous monsters!  
+Player: asshole / dick / fuck / idiot  
+Cipfried: Hey Player! We have rules here! You'll have a much easier life if you respect them.  
+Player: rules  
+Cipfried: A general rule is to be polite and kind towards fellow Tibians. This includes not to insult them or to steal their monsters. If you are friendly, you will quickly make friends.  
+Player: Santiago  
+Cipfried: I absolutely appreciate what he's doing. He has helped me a lot since he took up the job of welcoming newcomers to this island.  
+Player: Zirella  
+Cipfried: That old lady hasn't had an easy life. Her son Tom completely abandoned her, but I have no idea why.  
+Player: hint  
+Cipfried: If you don't know the meaning of an icon on the right side, move the mouse cursor on it and wait a moment.  
+Player: hint  
+Cipfried: Send private messages to other players by right-clicking on the player or the player's name and select 'Message to ....'. You can also open a 'private message channel' and type in the name of the player.  
+Player: hint  
+Cipfried: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.  
+Player: hint  
+Cipfried: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Cipfried: To open or close skills, battle or VIP list, click on the corresponding button to the right.  
+Player: hint  
+Cipfried: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Cipfried: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Cipfried: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Cipfried: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Cipfried: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Cipfried: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Cipfried: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Cipfried: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Cipfried: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Cipfried: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Cipfried: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Cipfried: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Cipfried: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Cipfried: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Cipfried: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Cipfried: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Cipfried: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Cipfried: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Cipfried: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Cipfried: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Cipfried: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Cipfried: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Cipfried: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Cipfried: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Cipfried: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Cipfried: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Cipfried: Farewell, Player!  

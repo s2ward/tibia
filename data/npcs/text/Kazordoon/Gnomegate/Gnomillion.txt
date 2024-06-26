@@ -1,0 +1,26 @@
+Player: hi
+Gnomillion: Welcome to the gnomish bank, Simula! Here it's all about money.
+Player: name
+Gnomillion: I'm Gnomillion.
+Player: job
+Gnomillion: I'm the gnome responsible for this bank. I can change money for you and help you with your bank account.
+Player: global warming
+Gnomillion: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: those below
+Gnomillion: The more we learn about them, the more it becomes clear how little we know.
+Player: thais
+Gnomillion: We have established a teleport outpost somewhere near the city, although not many gnomes use it at the moment to visit this strange city.
+Player: surface
+Gnomillion: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomillion: The sky is a somewhat frightening concept to us gnomes.
+Player: crystal
+Gnomillion: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: mushroom
+Gnomillion: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: gnome
+Gnomillion: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: dwarf
+Gnomillion: Dwarfs have been our allies for quite a while now.
+Player: bye
+Gnomillion: Good bye.

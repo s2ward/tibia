@@ -1,0 +1,30 @@
+Player: hi  
+Siestaar: Greetings, <player>. How can I be of help? Some Bank business?  
+Player: name  
+Siestaar: Siestaar, at your service.  
+Player: Siestaar  
+Siestaar: No need to make fun of my name.  
+Player: job  
+Siestaar: I'm responsible for running the bank here.  
+Player: bank  
+Siestaar: We can change money for you. You can also access your bank account.  
+Player: isle  
+Siestaar: A place of malice and evil. A testament of what our world would become if the demons should prevail. It also shows our fight is progressing. The demons can be beaten by those true to the gods.  
+Player: dream  
+Siestaar: My dreams ... well, they haven't been pleasant for a long time. So little has changed to me at all. The dreams here are more lively and you almost never forgot what you dreamed last night.  
+Player: Henricus  
+Siestaar: He is a wise leader, and my continued survival is only granted by his generosity and trust in the soul of humans to find the light even in its darkest hour.  
+Player: demon  
+Siestaar: They are only one of the opponents the true believers have to fight. Often it is harder to fight the own inner demons though. It we fail on one front or the other we are doomed. ...  
+Siestaar: Only with the guidance of the gods can we prevail.  
+Player: inquisition  
+Siestaar: I failed the inquisition once, but I will do my service here as a deserved punishment for my failure. I will die here in service of the inquisition or I will return if pardoned when I have proven my sincerity to make up for my failure.  
+Player: failed  
+Siestaar: When fighting evil, dangers are manifold. I gave in to the temptation to read just one more page with dark knowledge, just one more forbidden book to better understand the workings of the enemy. ...  
+Siestaar: It was that by fighting the enemy I almost became the enemy. Praised be the gods that my shortcomings were discovered in time and that a cruel fate could be prevented. ...  
+Siestaar: After ... a while, I was released from the dungeons in custody of other inquisitors. I did my best to show my dedication to the cause, and proved that I had abandoned my quest for forbidden knowledge. ...  
+Siestaar: After years of meek service to the inquisition and the churches, I was given this chance to redeem myself.  
+Player: excalibug  
+Siestaar: Certainly a holy weapon indeed.  
+Player: bye  
+Siestaar: Sweet dreams.   

@@ -1,0 +1,46 @@
+Player: hi
+Old Rock Boy: Greetings traveller! I wonder what brings you here. I really do. Are you here to help us maybe? Or do you want the latest news perhaps? I really wonder.
+Player: name
+Old Rock Boy: We are the Rock Boys. I am Old Rock Boy. The one over there is Rock Steady, not a very 'amusing' fellow, and that guy at the other end of the beach is Alternative.
+Player: job
+Old Rock Boy: I am... we are overseers. Yes. Watchers. Keepers of this beach if you will. Of course there are some of us who devoted their life to other tasks, too. Like trading.
+Player: rock
+Old Rock Boy: We were once called the 'Beach Boys' but we really aren't that agile anymore.
+Player: qjell / god
+Old Rock Boy: The only thing I know about this is that their god-king Qjell is the one that made the Deeplings what they are. Supposedly Qjell led them out of the dark and 'into the light'. ...
+Old Rock Boy: Whether he is a superstition or a real part of their history is beyond my knowledge.
+Player: deeplings
+Old Rock Boy: Well, it seems these creatures are what inhabits the depths below us. So far they didn't directly show up here - but we know that they are down there. Waiting.
+Player: heart of the sea / gems
+Old Rock Boy: There once was a dark red ruby, the creatures of the deep called 'Heart of the Sea'. It was lost over the centuries, however. ...
+Old Rock Boy: Although quite primitive, this stone was cut in the vortexes of the sea in a most unusual way. Its distinctive shape was no coincidence, however. ...
+Old Rock Boy: Maybe it was something they used to activate a mechanism of some sort. I believe the 'sacrifice' of the heart to their god is only a metaphor. I know where you could mine some rough red gems, though. You should mark the 'Blue Grotto' on your map - here.
+Player: cut
+Old Rock Boy: It is possible to cut gems with the power of water. If you can find a vortex or drift down there strong enough to make stones break and swirl, put a rough red gem right into it. ...
+Old Rock Boy: If you can get it back out, the stone should look like a fine gem - closely resembling what the Deeplings called their 'Heart of the Sea'. I know of a strong vortex where you could do that, on your map it should be right - there.
+Player: coral
+Old Rock Boy: The creatures of the deep used dead coral to build large underwater structures. It should be possible to mine this material with the right tools. I know where you should find some fossilised coral. If you take look at your map, it's right - there. ...
+Old Rock Boy: Once you have the coral you should find a place to establish a passage. I believe you could build a set of steps to reach the upper caves with minimal effort just about - here, just mark this on your map.
+Player: blue grotto
+Old Rock Boy: The only place I know where you could mine red gems. I know where it lies, here, I will tell you where to mark it on your map.
+Player: rogue
+Old Rock Boy: The inner temples of the Deeplings, the library and their sanctums where once guarded by the three highest ranked warriors of the deep. They went rogue a long time ago and are constantly amassing new forces in their pits deep in the black depths.
+Player: pits
+Old Rock Boy: I know there must be at least three training pits where the battle leaders of the Deeplings can be found. ...
+Old Rock Boy: If they are really dragged away from what was once a great culture, they will start amassing their core forces right there. ...
+Old Rock Boy: If you can find one of the rogue guardians of Qjell and defeat him... well that would certainly be a massive blow to their invasion plans. You should be able to reach from this area on your map - right there.
+Player: guardians
+Old Rock Boy: The inner temples of the Deeplings, the library and their sanctums where once guarded by the three highest ranked warriors of the deep. They went rogue a long time ago and are constantly amassing new forces in their pits deep in the black depths.
+Player: library
+Old Rock Boy: As far as I know this was once a thriving centre of the Deepling culture. They abandoned this place a long time ago, however. Drowned Library is what we came to call it. Here, let me tell you where it is located on your map.
+Player: first visitor
+Old Rock Boy: Well, he wasn't very talkative. Quite different from me, I'd say. He did not spill many details about himself other than he was some kind of 'researcher'. ...
+Old Rock Boy: I think his name started with an S, yes. And he also mentioned a place called 'Endrom'? Emdron? Or was it Erdoun? Ah, I really can't be bothered to remember everything anyone ever says. ...
+Old Rock Boy: This must have been many years ago or even longer, he was looking for something.
+Player: news
+Old Rock Boy: The inner arcanum of the deep has been breached. Now nothing can stop the assault on Qjell's dark guardians. ...
+Old Rock Boy: 22 actions against the Deeplings have been taken. This position will hold for a while.
+Player: bye
+Old Rock Boy: You are leaving so soon? Well, alright.
+Player: (vanish)
+Old Rock Boy: Ah... hey where did you go?

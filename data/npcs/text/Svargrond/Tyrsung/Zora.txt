@@ -1,0 +1,98 @@
+Player: hi  
+Zora: Ah, look what the north wind blew here. Hope you're up to some business.  
+Player: business  
+Zora: I am overseeing some of our operations here. If you'd like to see my offers, ask me for a trade.  
+Player: trade  
+Zora: About time someone is interested in my wares. Footballs have to be purchased separately.  
+Player: Footballs  
+Zora: Do you want to buy a football for 111 gold?  
+Player: yes  
+Zora: Here you go.  
+Player: Footballs  
+Zora: Do you want to buy a football for 111 gold?  
+Player: no  
+Zora: Oh, but it's fun to play!  
+Player: job  
+Zora: I am overseeing some of our operations here. If you'd like to see my offers, ask me for a trade.  
+Player: name  
+Zora: I am known as Zora and just for your information, there is no longer a bounty on my head.  
+Player: svargrond  
+Zora: If I had more ships and men, I'd take over that town in one surprise attack. But the way things are now, this would be a waste of resources. Well, our base here is sufficient for now.  
+Player: mines  
+Zora: The mines are still a problem. Those raiders make it impossible to do something about the mines.  
+Player: excalibug  
+Zora: Looking for that weapon seems quite unprofitable.  
+Player: ferumbras  
+Zora: He is more a problem in the South.  
+Player: yeti  
+Zora: We haven't seen one of them but we lost several men without a trace. So who knows.  
+Player: barbarian  
+Zora: It's a sad thing that our people are split. With each year that is passing, we drift further apart from each other.  
+Player: raiders  
+Zora: They somewhat remind me of the men I sailed with in my youth. Still they are enemies and I ordered our men to kill them on sight.  
+Player: bounty  
+Zora: I was ... kind of wild in my youth.  
+Player: equipment / buy / stuff / offer / goods  
+Zora: Now you're talking my language. If you'd like to see my offers, ask me for a trade.  
+Player: sell  
+Zora: Now you're talking my language. So what would you like to buy?  
+Player: how are you?  
+Zora: Everything progresses smoothly and well.  
+Player: carlin  
+Zora: Carlin is a thorn in our side. A little one but a thorn nonetheless.  
+Player: venore  
+Zora: Venore will recognise my efforts here and I am sure I'll get a promotion soon.  
+Player: thais  
+Zora: Well ... Thais is far away.  
+Player: edron  
+Zora: If things progress well here, my next command might bring me to Edron.  
+Player: dwarf  
+Zora: We thought about manipulating some dwarfs to clear the mines for us. On the other hand, this would not be very effective as the dwarfs would not give up the mines either and are allied with Thais.  
+Player: monster  
+Zora: You find a large amount of monsters on this isle. Make sure to kill as many of them as you can.  
+Player: elf  
+Zora: They are a bit too friendly with Carlin for my taste. Fortunately, they don't show up here too often.  
+Player: god  
+Zora: Leave the gods alone and they won't bother you.  
+Player: chakoya  
+Zora: These chakoyas are just beasts. If they weren't so dangerous, their pelts would sell for a decent coin I guess.  
+Player: dragon  
+Zora: Hunting dragons is a dangerous but profitable field of business. If you are up to such a challenge, there is an isle full of those beasts to the south.  
+Player: bonelord  
+Zora: Such strange creatures surely exist only in legends.  
+Player: banor / uman / zathroth  
+Zora: Leave the gods alone and they won't bother you.  
+Player: queen  
+Zora: Soon enough, the little queen in Carlin will lose the last influence she is still having in this area.  
+Player: king  
+Zora: Not even the king's arm reaches this place.  
+Player: chyll  
+Zora: Some superstition of the barbarians.  
+Player: year of serpent  
+Zora: That was probably the work of the Carlin druids to prevent anyone from taking advantage of those isles which they had failed to control on their own.  
+Player: cult  
+Zora: I don't know anything about a cult.  
+Player: druid  
+Zora: Those druids are a pest.  
+Player: enemy  
+Zora: We have many enemies but they lack brains and brawn to challenge our operations.  
+Player: everspring  
+Zora: If that's a real place, we'll find it some day and explore the area.  
+Player: honourary  
+Zora: What a foolish practise. It only proves what idiots those barbarians are.  
+Player: jarl  
+Zora: The barbarians' jarl was a fool to turn his back on our trade offers. Now we take what we want anyway and if he and his barbarians get into our way, we will see to it that they regret it.  
+Player: join  
+Zora: I am not responsible for hiring new recruits. Travel to Venore to get a job.  
+Player: leaders  
+Zora: That ruffian Baltim and me are leading this little operation.  
+Player: mission / quest / task  
+Zora: Buy something or leave. Don't bother me!  
+Player: news  
+Zora: Certainly nothing I'd share with a stranger. If you're here to trade, go ahead. If you are here to gossip, get lost.  
+Player: port hope  
+Zora: Business is growing awfully slow there. We should really assign someone with some talent to improve our influence over there.  
+Player: rumours  
+Zora: There is a rumour about a ship that sunk somewhere here in front of the coast. Inside the hulk was a huge treasure. If it would be possible, I would dive down by my own and look for it.  
+Player: bye  
+Zora: Come back when you're up to some business, Player.  

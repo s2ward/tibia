@@ -1,0 +1,137 @@
+Player: (idle)
+Eruaran: Transformations! Bring your bad dreams.
+Eruaran: Bring your essences.
+Eruaran: Sacrifice your efforts.
+Player: hi / ashari
+Eruaran: Ashari Player, so we meet again! What brings you here this time, general information, transform, improve, create, outfit or talk?
+Player: again
+Eruaran: We met occasionally, in your dreams. Never mind, it's rare that such incidents are remembered at all.
+Player: talk
+Eruaran: So I take it you are curious what I'm doing here.
+Player: doing / job
+Eruaran: I came here not by choice but due to circumstance. I was drawn into this place by the power of dreams. Imagine it like swimming in a lake and suddenly getting into a vortex. ...
+Eruaran: I could still have avoided it, but curiosity did not allow such a phenomenon to be ignored.
+Player: phenomenon
+Eruaran: This is a place unlike any other on this world. There are other places where dream and reality might mix, but this here is unique in a frightening way.
+Player: frightening
+Eruaran: Whoever created this place was accustomed to handling the substance of dreams. No, not only handling it, but mastering it. ...
+Eruaran: But whoever it was, they only meddled with the most disturbing dreams, bordering on madness. Not only that, this place seems to draw those very dreams here somehow. ...
+Eruaran: I can still feel it. The pull... it might be weak compared to what it once must have been, but it's still here, like a magnet of some kind.
+Player: place
+Eruaran: Much of what you can see here is made from the substance of dreams. It might look like stone and structures, but in its core it's the stuff dreams are made of. It's dreams that became solid and remain that way. ...
+Eruaran: The matter is still subject to change though. I can feel the change, the malleable form of things, but they are stable and not threatened to become the insubstantial dream matter that they were once. It is just amazing.
+Player: amazing
+Eruaran: It is one thing to have a certain amount of control over one's dreams, it is another thing to shape them. ...
+Eruaran: It is incredibly difficult even for the most skilled to manipulate reality through dreams and even more so, to manifest something of a dream in the waking world. ...
+Eruaran: Still, the latter is something that has been done almost casually here everywhere. You can't understand what a frightening power that is. Even more so considering this apparatus I found here.
+Player: apparatus
+Eruaran: Not only were those who once dwelled here able to seemingly handle dream matter with ease, they also created this construct, which works in a way that should not be possible at all. ...
+Eruaran: In truth, it is a potent dream in itself; that is probably why it can interact with dream matter at all. ...
+Eruaran: For now, it only seems to create a vortex of some sort in the realm of dreams, still dragging dreams here and turning them into... something. But it is so much more. It seems to work like a musical instrument of some sort. ...
+Eruaran: That is, if you create the right 'tune' with it, you can use it to shape the dreams it draws upon.
+Player: shape
+Eruaran: I can certainly do some minor transformations of dream matter, using the apparatus. It still needs some extremely raw dream matter as a basis and a number of clusters of solace to refine it. ...
+Eruaran: Still, it would be a very unreliable process since I'm not familiar with that apparatus, and also due to its damaged state. Chances are that it will yield nothing and the material only dissipates into the realm of dreams again. ...
+Eruaran: If I'm successful, though, I could draw upon the dreams of countless warriors and magicians to shape them into something wonderful.
+Player: stuff
+Eruaran: There are many objects completely made of dreams and imagination that have become solid. Some of them might be useful for being transformed or refined into something else. Look out for clusters of solace or dream matter.
+Player: dream matter
+Eruaran: True dream matter is something like an idea in the process of becoming solid. It's quite rare, and many creatures covet it, because even possessing it gives them some sort of comfort. ...
+Eruaran: So it's likely that you will have to fight for it. But dream matter is so much unformed power that it might be worth it. Combined with clusters of solace, the idea gets substance and form.
+Player: clusters of solace
+Eruaran: Clusters of solace are full of raw options, but they are powerless on their own. Combined with true potential, they can be used to create something powerful, or refine it even more by giving the idea of the item more reality.
+Player: dreamcatcher
+Eruaran: I have no better word for this apparatus. It's not even exactly of this world. What we see is only its representation in our minds. Even you and I see something different when we look at it, but we both see at least some kind of machine. ...
+Eruaran: Other creatures again might see totally different things. Its original purpose is hard to tell. By its very nature, its mere existence is like a connection between the world of dreams and this one. But it's far more than that. ...
+Eruaran: It's obviously also a dream matter dispenser and dream shaper. I assume in the past it was used to alter the shape of the city at the leisure of its creators. It was most certainly used to create items of craftsmanship only limited by imagination. ...
+Eruaran: It is both impressive and frightening that one single race accomplished so much. Yet with all possibility in this design, I feel something is... lacking. I can't put my finger on it yet, but everything we see here seems to be flawed in a strange way. ...
+Eruaran: I can't yet tell the nature of this flaw, but I'm sure that it set some severe limitation to the power of the creatures that once lived here. Perhaps when I find out what the flaw is, I might be able to do even more with our findings here.
+Player: city
+Eruaran: That place is made of dreams, but not of good dreams, that's for sure. Still, dreams are dreams and may be adjusted or even reshaped.
+Player: dreams
+Eruaran: Don't ask others to explain you dreams. Experience them. Dreams are your friend, your mentor, your private fortress and they could be so much more if you just listened to them.
+Player: dreamwalking
+Eruaran: Your kind responds in a different way to the art. It's hard to comprehend the human way. It's exclusive to humans, it seems. ...
+Eruaran: Other races will most likely respond to the art in an even different way, while others can't grasp it at all.
+Player: the dreamers
+Eruaran: I can't yet grasp what creatures once dwelled here. I have the vague feeling it's better that way.
+Player: elf
+Eruaran: Maybe I was once an elf, or perhaps that was only a dream. Does it really matter after all? I think not. Dream, reality, human or elf, all of that is of no consequence at all. ...
+Eruaran: We are what we do, we are what we decide. To limit yourself to being an elf or whatever, is to abandon the potential of what you COULD be. - I'm sorry though, I'm not here to preach or teach, and I'm terrible in such things.
+Player: teshial
+Eruaran: That's only a word. Words are rough and imprecise. If you'd walk the dreams for a while, things would become far more clear because they are lost in obscurity. ...
+Eruaran: I'm a living dream, a rider of nightmares, a wanderer of paradises and hells. I have seen wonders beyond compare. I experienced things an untrained mind could not even grasp. I am what I am.
+Player: ab'dendriel
+Eruaran: What once was a dream became true. I acknowledge that at least.
+Player: dwarfs
+Eruaran: I've walked with them in their dreams. A bit single-minded and repetitive in imagination, but if it's what they like and care for, it's good for them and not for me to judge.
+Player: human
+Eruaran: Humans have impressively big dreams. Yet they are strangely insubstantial, very different to those of other races.
+Player: ferumbras
+Eruaran: That one brings bad dreams even to the most brave.
+Player: nightmare knights
+Eruaran: We were intrigued by the way they handled their dreams. We taught them what we thought would help. Then we walked with them for a while to learn on our own, but we couldn't. ...
+Eruaran: Our ways were too different. In the end, their noble goals fell prey to treachery, as far as I know.
+Player: inquisition
+Eruaran: Oh, they are quite unhappy with my appearance but they seem to accept that I'm of more help than harm by keeping the rampaging dreams in that city at bay. ...
+Eruaran: What I can do is really limited, but if they ever want to stabilise this area, it will depend on how the dreams here are handled. ...
+Eruaran: If left unchecked, they would warp this place to something unrecognisable, now that the hold of that demon thing over the dreamcatcher has been broken.
+Player: demons
+Eruaran: Some demons sleep and some demons even dream, but strangely enough they usually walk in another world of dreams, entirely separate from that of our own; and the gap between the worlds can only be bridged by brute force. ...
+Eruaran: Something that is accomplished only by a few, special breeds of demons.
+Player: ruthless seven
+Eruaran: I heard about them in some dreams. Gladly they can't and never will be able to enter the realm of dreams. ...
+Eruaran: Only a few demons with a special affinity are able to truly enter the dream realms, others can only send you vague nightmares at best ...
+Eruaran: Even the nightmares of their enemies did not give the Seven enough foothold to enter the dreams, and as far as I can tell they never even bothered ...
+Eruaran: It's almost as if they were afraid of dreams for some strange reason.
+Player: information
+Eruaran: So you are here for the creation of a dream matter item. I guess you are familiar with the general process.
+Player: process
+Eruaran: I can refine some of the raw essences like dream matter you may find here, together with lesser dream substances like clusters of solace, and shape them with the help of the dreamcatcher. I can try to shape them into several forms of your liking ...
+Eruaran: Yet when shaping the essence, it comes closer to being a dream once more for a short time. It might be that I lose the grasp on that matter, and then everything will dissolve into nothingness and be lost. ...
+Eruaran: If we created a basic version of the object you desired, we could use more material to refine it even further, making it stronger by making it more real and defining it more. ...
+Eruaran: This, though, comes with an extreme risk since the dream matter of the item is very likely to shatter. ...
+Eruaran: Even this stronger item can be further refined, at an even greater risk. I'm not even sure I can do it at all without harm to myself, but I will still do it.
+Player: transform
+Eruaran: From time to time fate smiles upon those who take great risks and have strong dreams! If you have the ingredients, we can try to give the ultimate refinement to swords, axes, clubs, bows, crossbows and spellbooks. ...
+Eruaran: But please know that this is possible only for unfused equipment that has not been treated at the Exaltation Forge.
+Player: ingredients
+Eruaran: For the creation we'd need dream matter and some clusters of solace. For any process of refinement we'd also need a lesser version of the item you want to refine, of course.
+Player: create
+Eruaran: Know this: the creation is an unsecure and dubious procedure. You can try to obtain swords, axes, clubs, bows, crossbows and spellbooks.
+Player: sword / axe / club
+Eruaran: One handed or two handed?
+Player: bow / crossbow / spellbook / one handed / two handed
+Eruaran: Do you want to spend your dream matter with those 20 clusters of solace and give it a shot. Yes or no?
+Player: no
+Eruaran: No? Really? So be it.
+Player: yes
+Eruaran: Ah, it looks like you forgot to bring enough materials!
+Player: improve
+Eruaran: The raw object is nothing but a pale shadow of its potential. As unsafe and unpredictable the improvement is, it might boot the powers of your item immensely. You can try to improve swords, axes, clubs, bows, crossbows and spellbooks. ...
+Eruaran: But please know that this is possible only for unfused equipment that has not been treated at the Exaltation Forge.
+Player: (item)
+Eruaran: Do you want to spend your crude umbral (item) with those 75 clusters of solace and give it a shot. Yes or no?
+Player: outfit
+Eruaran: For your noble deeds, I can offer you to make some of your dreams come true. I sense the potential of an unique outfit in your mind. You can make it real! ...
+Eruaran: Are you interested?
+Player: no
+Eruaran: Go sleeping!
+Player: yes
+Eruaran: The dream warden outfit! Let's see if you are worthy. Tell me: base, claw or mask?
+Player: base
+Eruaran: In order to get the dream warden outfit, you have to prove yourself worthy, Player.
+Player: base
+Eruaran: Receive the base outfit, Player.
+Player: claw
+Eruaran: You have to find a dream warden claw in order to wear it!
+Player: claw
+Eruaran: Receive the claw, Player.
+Player: mask
+Eruaran: You have to find a dream warden mask in order to wear it!
+Player: mask
+Eruaran: Receive the mask, Player.
+Player: bye
+Eruaran: Yes, yes. Goodbye, Player.
+Player: (vanish)
+Eruaran: Asha Thrazi, Player! Now where was I ... ah, yes.

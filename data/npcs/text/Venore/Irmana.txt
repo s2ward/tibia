@@ -1,0 +1,54 @@
+Player: hi  
+Irmana: Welcome to the house of fashion, Player!  
+Player: fashion / offer / stuff / goods / buy / sell / equipment / ware  
+Irmana: If you'd like to take a look at what I buy from you, ask me for a trade. I can also fabricate cloth, and sometimes, for special occasions, hats.  
+Player: trade  
+Irmana: I'm currently interested in these materials.  
+Player: fabricate  
+Irmana: I can fabricate green cloth from green tunics, red cloth from red robes and blue cloth from mystic turbans.  
+Player: hats  
+Irmana: Sorry, but I don't currently create hats.  
+Player: name  
+Irmana: I am Irmana, pleased to meet you.  
+Player: job  
+Irmana: I am a tailor assistant. I also buy cloth, some tapestries, yarn and leather and can fabricate cloth from secondhand clothing.  
+Player: leather  
+Irmana: I buy minotaur leather, lizard leather, green dragon leather and red dragon leather.  
+Player: cloth  
+Irmana: If you are in need of cloth and do not have the time to hunt down monsters who might carry the cloth you need, I can fabricate green, red and blue cloth from secondhand clothing. I also buy cloth, yarn and leather.  
+Player: kalvin  
+Irmana: <blushes> Such a handsome and polite gentleman.  
+Player: hugo  
+Irmana: He is a grand tailor and designer. Well, mostly a designer, he usually doesn't bother with the tailoring work. That's my job.  
+Player: fur / hunter  
+Irmana: I already sold you the fur.  
+Player: addon  
+Irmana: Currently we are offering accessories for the nobleman - and, of course, noblewoman - outfit. Would you like to hear more about our offer?  
+Player: yes  
+Irmana: It seems that you have already purchased all of our accessories, Player. Impressive.  
+Player: noblewoman / nobleman  
+Irmana: The perfect outfit for wealthy and noble citizens. We also have beautiful accessories, if you can afford them.  
+Player: outfits  
+Irmana: If you want to learn about our new collection, ask Kalvin.  
+Player: mystic turban  
+Irmana: Would you like me to fabricate one piece of blue cloth from your mystic turban?  
+Player: yes  
+Irmana: Sorry, but you don't have a mystic turban.  
+Player: mystic turban  
+Irmana: Would you like me to fabricate one piece of blue cloth from your mystic turban?  
+Player: no  
+Irmana: Maybe another time.  
+Player: mystic turban  
+Irmana: Would you like me to fabricate one piece of blue cloth from your mystic turban?  
+Player: yes  
+Irmana: Here you are!  
+Player: red robe  
+Irmana: Would you like me to fabricate one piece of red cloth from your red robe?  
+Player: yes  
+Irmana: Here you are!  
+Player: green tunic  
+Irmana: Would you like me to fabricate one piece of green cloth from your 150 green tunics?  
+Player: yes  
+Irmana: Here you are!  
+Player: bye  
+Irmana: Good bye, Player.  

@@ -1,0 +1,254 @@
+Player: hi  
+Edowir: Oh, hello Player! How nice of you to visit an old man like me.
+Player: hi
+Edowir: It's Kingsday, you say? About what is it this time? Did the child get a new toy?
+Player: name  
+Edowir: I am Edowir, but don't worry about remembering my name. I will forget your name as well.  
+Player: job / old man  
+Edowir: I gather wisdom and knowledge. I am also an astrologer.  
+Player: time  
+Edowir: Time is a pillar and our lives wind around it like vines.  
+Player: edowir  
+Edowir: That's me, but don't worry about remembering my name. I will forget your name as well.  
+Player: age / old  
+Edowir: Growing old is mandatory, growing up is optional.  
+Player: how are you  
+Edowir: I am fine, thank you.  
+Player: gossip / rumour  
+Edowir: Rumours are an unsafe path to follow.  
+Player: sell  
+Edowir: I sell nothing, but I share my wisdom now and then.  
+Player: help  
+Edowir: I would like to help you. What is your problem?  
+Player: knowledge  
+Edowir: Well, just ask me about anything that might be of interest. We will see if I can help you.
+Player: magic  
+Edowir: I believe that true love is stronger than all magic, don't you agree?
+Player: weapon  
+Edowir: Those who live by the sword get shot by those who don't. 
+Player: gregor / knight  
+Edowir: Knights could be artists, but tend to become sellswords. 
+Player: elane / paladin  
+Edowir: A paladin is more than just a knight armed with a bow and some spells, though most seem to be unaware of that fact.  
+Player: marvik / druid  
+Edowir: Druids seek enlightenment in nature, but they often just find what they brought with them.  
+Player: muriel / sorcerer  
+Edowir: Mages claim to be wise, but how wise can it be to sacrifice your life to books and scrolls and not for the people?  
+Player: bozo / jester / joke  
+Edowir: Who laughs last, thinks slowest.
+Player: riddler  
+Edowir: As far as I can tell, this creature is not fond of cheaters and won't allow them to pass his tests.  
+Player: paradox tower  
+Edowir: The Paradox Tower was home of a mighty but mad wizard. It is said that only the cunning and mad can brave the tests of that tower to gain its treasures.  
+Player: king  
+Edowir: Kings are children adorned with crowns.  
+Player: castle  
+Edowir: A strong wall may protect from an assault, but what will protect you from the enemy within?  
+Player: sewer  
+Edowir: Sewers are sometimes the safer ways to get where you want to go.  
+Player: dungeon  
+Edowir: Dungeons are a place of danger, not of joy. Keep that in mind on your travels.  
+Player: monster  
+Edowir: Man or monster, the difference is often just a matter of hides and scales.
+Player: darashia  
+Edowir: The town of Darashia is built around one of the few sweet water supplies of Darama. It is famous for its sand wasp honey and its sandworm stew.  
+Player: drefia  
+Edowir: The dreaded town of Drefia was once a haven for heretics, necromancers and demon worshippers. Its was destroyed in the war of the Djinn.  
+Player: war of the djinn  
+Edowir: Although some priests claim that a war was fought on behalf of the gods, it seems more likely that this was kind of a civil war between the Djinn of good and the Djinn of evil.
+Player: darama  
+Edowir: The desert lands of Darama are harsh and unforgiving. Therefore Daraman led his people there to found a new community based upon his teachings.  
+Player: daraman  
+Edowir: Daraman was a sage with ambition, that's for sure. His philosophy centred around the idea that by controlling yourself you could improve yourself. The closer you are coming to perfection, the closer you are to ascending to divinity.  
+Player: djinn  
+Edowir: Legend has it that the Djinn were created by Zathroth by using the stolen chalice of life. They roamed the world for Aeons causing strife and despair until Gabel, one of their lords, met a very special human.  
+Player: malor 
+Edowir: Malor was second in power only to Gabel and his followers among the Djinn were many. It was not easy for the evil Djinn to change their ways, and many preferred to follow Malor instead of Gabel. In the end a civil war erupted. 
+Player: civil war  
+Edowir: In the war of the Djinn citys were levelled, lands were cursed and islands sunk. Finally, Malor was caught and imprisoned in an enchanted bottle. His followers fled this plane, while the good djinn laid to rest to recover their strength. 
+Player: gabel  
+Edowir: Gabel was the most powerful among the Djinn lords. He was cruel and merciless, until one day his minions brought a certain human to him whom they had captured and tortured.  
+Player: certain human  
+Edowir: This human showed no fear and did not yield under torture. They could bend him, but they never managed to break him. Impressed by this mortal, Gabel talked to him and learned about his philosophy. 
+Player: philosophy  
+Edowir: The human whom the Djinn had caught was none other but Daraman. The mighty Gabel was intrigued by his philosophy and changed his ways according to Daraman's teachings.
+Player: teachings  
+Edowir: The teachings of asceticism, inner peace and ascension appealed to the Djinn, although in the beginning this was probably only because of his vanity and his greed for divinity. However, Malor and his followers opposed him.
+Player: chalice of life  
+Edowir: This chalice was a tool of the gods which they created to make their task to create life easier. Zathroth who lacked the knowledge of creation stole that chalice and used it to spawn his evil minions.  
+Player: evil minions  
+Edowir: The Djinn were the result of his first attempts. They were powerful and quite evil, but not as evil as Zathroth wished and quite independent in their thinking. Finally he discarded them and decided his second try would become his masterpiece.  
+Player: masterpiece  
+Edowir: Zathroth channelled all the hatred and foulness he could muster. He added the burning rage of his son Blog and mixed it with fire. The energy that was released destroyed the chalice, but Zathroth had succeeded in creating the first demon.  
+Player: demon  
+Edowir: Demons are the servants of evil. More or less devoted servers of Zathroth they cause strife and havoc wherever they appear. Their masters are known as Demonlords, Demon Overlords and Archdemons.  
+Player: demon overlords  
+Edowir: The overlords of the demonkind are more powerful than even demonlords are. They are nearly indestructible. Armoured with layers of impenetrable hide and endowed with awesome magical power, demon overlords are true incarnation of death.  
+Player: archdemons  
+Edowir: The archdemons are few, and extremely rare. And a good thing, too, for they are the rulers of the demon race. They are vain and powerhungry creatures who tend to form only small cabals and fight each other instead of allying against creation.  
+Player: cabals  
+Edowir: There are at least five demonic cabals of archdemons. The ruthless seven are the most prominent and powerful.
+Player: ruthless seven  
+Edowir: They are more than a myth, they are a horrible reality. It is possible that they still reside in the pits of inferno.  
+Player: pits of inferno  
+Edowir: An infernal place in which the nightmare knights created a base to fight the minions of evil. It was lost when the Ruthless Seven conquered it.  
+Player: nightmare knights  
+Edowir: The Nightmare Knights were an ancient order dedicated to fight evil. They were guided by prophetic dreams. The order ceased to exist after their war against the Brotherhood of Bones.  
+Player: brotherhood of bones  
+Edowir: This brotherhood was an secret society of necromancers and followers of purest evil. They were vanquished long ago by their arch enemies, the Nightmare Knights.  
+Player: triangle of terror  
+Edowir: The Triangle of Terror is a cabal of three archdemons that have put aside their quarrels to establish some power in the shadows of the Ruthless Seven. Although they are all very mighty demons, compared to one of the seven, they appear weak ...  
+Edowir: So they try not to interfere much with the doings of the seven and look for power elsewhere. Their members are Morgaroth, the schemer, Ghazbaran, the lord of blades and Zoralurk, the demon with the thousand faces.  
+Player: morgaroth  
+Edowir: Morgaroth belongs to the cabal Triangle of Terror. He usually has minions to do his work rather than doing it himself. Although sometimes he enters our world in person to inspire the fear his cabal is built upon.  
+Player: ghazbaran  
+Edowir: Ghazbaran is a member of the demonic cabal Triangle of Terror. He likes the physical challenge and combat as much as the pain and death he inflicts.  
+Player: zoralurk  
+Edowir: Zoralurk is said to be a member of the demon cabal called Triangle of Terror. She is rumoured to wander the lands in many disguises, poisoning the body and minds of people by word or deed.  
+Player: orshabaal  
+Edowir: Orshabaal is one of the many servants of the Ruthless Seven. By far weaker than his masters, he seems to have developed some kind of inferiority complex which he tries to compensate by raiding our world and slaying as many innocents as he can.  
+Player: banshee  
+Edowir: The banshees are creatures that grief and despair turned into vengeful spirits after their death. Their wail is deadly, and they draw new strength from the pain and fear of others.  
+Player: banshee queen  
+Edowir: The legendary banshee queen is incredibly old and likely next to invincible. She's rumoured to have her lair in the deepest caverns of the ghostlands. She seems to be more likely to talk than her sisters, but is certainly even more evil than them.   
+Player: ghostlands  
+Edowir: The ancient structures that were found deep beneath the ghostlands were built by an unkown race for an unknown purpose. It's quite certain that, whatever they were once used for, they now cause madness and ghost sightings in the surrounding area.  
+Player: defile  
+Edowir: Whatever the original meaning of that underground complex was, it is now like an open wound in the nearby lands, spreading madness and attracting all kinds of ghosts and apparitions.  
+Player: hugo  
+Edowir: I think you are referring to the beast Hugo that is said to still haunt the Plains of Havoc. The legends which tell of this creature are ancient and almost forgotten.  
+Player: legend  
+Edowir: As far as we know, once a terrible beast roamed the lands we now call the Plains of Havoc. It was so fierce that no one dared to even dream about killing it. It was finally tricked by the knight Endulos.  
+Player: endulos  
+Edowir: Endulos was not a great warrior, but a man of wit and genius. After many of his brethren of the Nightmare Knights had fallen prey to the beast, he came up with a cunning plan to end this threat.  
+Player: plan  
+Edowir: He lured Hugo into a trap. Bound by roots and stones charged with powerful magic he could not move anymore. Now, the beast lies trapped in a hidden cave for all eternity. 
+Player: cave  
+Edowir: The legends tell us that the Nightmare Knights trapped it beneath one of their fortresses, or rather that they built a fortress on top of his eternal prison.  
+Player: plains of havoc  
+Edowir: Somewhere in the Plains of Havoc, where the Necromant King was defeated, lies the secret entrance to the Pits of Inferno.  
+Player: necromant  
+Edowir: How could they try to understand death, if they don't care to understand life? 
+Player: necromant nectar  
+Edowir: There is no such thing, believe me. The dead don't care for taste. 
+Player: goshnar  
+Edowir: The Necromant King. He is dead forever, and that is the nicest thing I can say about him. May he rot in his tomb.  
+Player: tibia  
+Edowir: If Tibia is a fallen god, does that makes us the maggots crawling on it?  
+Player: carlin  
+Edowir: A city in the far north. It separated itself from the Thaian kingdom about 100 years ago. Now it is ruled by a dynasty of queens. 
+Player: edron  
+Edowir: Edron is the latest colony of the Thaian kingdom. However, structures of an earlier colonisation have been found. We cannot tell if those inhabitants were human or of any other known race.  
+Player: thais  
+Edowir: Thais is the capital of an ancient human kingdom. Once its rule was more or less undisputed. In the years the strength of the Thaian kingdom eroded by different events.  
+Player: mintwallin  
+Edowir: The underground city of the minotaurs can be reached through a dangerous passage from the old temple.  
+Player: old temple  
+Edowir: In the old days the underground temple was built for the glory of Banor after a victory over the orcish hordes. It is now an abandoned and dreary place overrun by rotworms.  
+Player: mount sternum  
+Edowir: Behind the mountain lies a land of great danger.  
+Player: kazordoon  
+Edowir: The ancient fortress city of the dwarfs was carved into the mountain known as 'The Big Old One'. It is quite hidden and heavily guarded to withstand any assault.  
+Player: dwarf / dwarves  
+Edowir: The small but strong dwarves are tireless workers and fierce warriors. They are familiar with several crafts and mastered most of them. In our days their smithing skills are rivalled only by those of the cyclopses.  
+Player: rookgaard  
+Edowir: It was on Rookgaard where the soul vortex appeared. The Thaian kingdom holds an outpost there to protect the vortex and to guide the newly-arrived souls.  
+Player: soul vortex  
+Edowir: The gods created the vortex to guide powerful souls to our world so they might join the battle for creation.  
+Player: venore  
+Edowir: Venore is a centre of commerce and trade. Its ambitious trade barons are nominally subjects of the Thaian kingdom.  
+Player: trade barons  
+Edowir: The swamp city is a centre of commerce, and known for it riches and its merchant barons. It is part of the Thaian kingdom.  
+Player: ab'dendriel  
+Edowir: Although lovely, the city of the elves lacks the grace and the vibrance of the elven cities of old. The elves are still working on improvement of their settlement.  
+Player: shadowthorn  
+Edowir: The elves of Shadowthorn are hosile to intruders. Their Kuridai leaders practise some sinister cults and the other castes are more their minions then their equals.  
+Player: castes  
+Edowir: The elven society is dividded into certain castes, the cenath, the kuridai, the deraisim, the abdaisim and the legendary teshial.  
+Player: abdaisim  
+Edowir: The Abdaisim are what humans would call 'independent elves'. They take shelter wherever they might find it, are wanderers and explorers. They only keep loose contact with the elven society.  
+Player: cenath  
+Edowir: The Cenath favour magic above all other. They are the keepers of elven lore and wisdom. They are responsible for the astounding feats of druidic magic the elves are capable of.  
+Player: deraisim  
+Edowir: One could call the Deraisim the scouts and rangers of elvenkind. Although all elves are formidable in that area, the Deraisim excel them all.  
+Player: kuridai  
+Edowir: The Kuridai are the craftsmen and warriors of elvenkind. They are always moving, always scheming. They are the most aggressive elves and distrust outsiders. An outsider might be each non-Kuridai to them.  
+Player: teshial  
+Edowir: Its said that those elves were the masters of the dreams. Which many consider a special brand of magic. They seem to have vanished from the face of Tibia ages ago, however, and their fate is unknown.  
+Player: god  
+Edowir: Learn about the gods to learn from the gods.  
+Player: zathroth  
+Edowir: Zathroth is the dark twin of Uman. They are one and they are two separate entities. We mortals can't really grasp this concept. He is the patron of dark magic and even darker secrets, the lust for dominance through cunning, and manipulation.  
+Player: uman  
+Edowir: Uman is the light twin of Zathroth. Their unity and separation at once is a concept we cannot hope to grasp. He is the patron of light magic, the knowledge that benefits all and brings progress to the society.  
+Player: blog  
+Edowir: Blog is the god of rage and fierce battle. He's also the patron of power, although a power to oppress and bully others around. He is the son of Zathroth and one of the Tibian suns. 
+Player: cyclops  
+Edowir: Cyclopses are seen as the smiths of Blog, whom they call 'the ragehammer' or 'ragehammerer'. Indeed their skills create mostly crude and nasty-looking weapons and armor, but which are incredibly effective nonetheless. 
+Player: first dragon  
+Edowir: A shame he's gone. He could have become somewhat of a tourist magnet.  
+Player: magic items  
+Edowir: Magic items are numerous. If you would like some details, please ask me about a specific item.  
+Player: amulet of life  
+Edowir: These amulets were created and enchanted by powerful magicians and priests. They protect both body and soul from the losses caused by the trauma of death.  
+Player: bronze amulet  
+Edowir: Some creatures are able to attack your magic power rather than your lifeforce. This amulet bestows some protection against those attacks.  
+Player: dragon necklace  
+Edowir: The core piece of these amulets is a little dragon scale. It protects you to some extent against fire damage.  
+Player: garlic necklace  
+Edowir: This charm, feared and despised by the undead, protects your lifeforce from life-draining powers.  
+Player: platinum amulet  
+Edowir: These powerful amulets are usually blessed by some god. They offer additional armour and protection.  
+Player: stone skin amulet  
+Edowir: Though they possess only a few charges, stone skin amulets are sought after because they offer complete protection from physical damage.  
+Player: elven amulet  
+Edowir: These ancient elven artefacts are highly enchanted and grant some protection against any form of damage.  
+Player: shielding amulet  
+Edowir: These amulets are a more powerful version of the elven amulets. They were created by a race long gone from this plane, and offer significant protection against every kind of damage.  
+Player: strange talisman  
+Edowir: These amulets protect you against harm from energy attacks and magic fields.  
+Player: silver amulet  
+Edowir: This amulet purifies your blood. It will reduce the damage caused by poison. 
+Player: axering  
+Edowir: This ring will increase your skill when wielding any kind of axe.  
+Player: clubring  
+Edowir: This ring will increase your skill when wielding a club weapon.  
+Player: powerring  
+Edowir: This kind of ring will increase your skill when fighting with bare hands.  
+Player: energyring  
+Edowir: These rings were created by the sorcerers' guilds of old. They temporarily provide their wielders with a shield of magic.  
+Player: mightring  
+Edowir: This ring will give you limited protection against any kind of damage.  
+Player: lifering  
+Edowir: These rings improve your regenerative powers, accelerating the recovery of both your mana and your lifeforce.  
+Player: stealthring  
+Edowir: These rings were created by an ancient, long since forgotten race. It is said they valued secrecy above all. They used these magic rings to make themselves invisible.  
+Player: swordring  
+Edowir: This ring will increase your skill when wielding swords.  
+Player: ring of healing  
+Edowir: This ring increases the rate with which you heal your physical wounds.  
+Player: magic metal  
+Edowir: There are several kinds of magic metals in our world, the best known are called Mesh Kaha Rogh, Za'Kalortith, Uth'Byth, Uth'Morc, Uth'Amon, Uth'Maer, Uth'Doon, and Zatragil.  
+Player: mesh kaha rogh  
+Edowir: The so-called singing steel causes a constant humming while it is forged. It is said this was a sign of its absorbing magic powers in the process, and it was presumably easy to enchant. ...  
+Edowir: Sadly, the secret where to mine or how to create this ore has been lost in the course of time.  
+Player: za'kalortith  
+Edowir: This is the metal of 'evil', the hell-forged iron no ordinary flames can melt. It is rumoured to be harvested in hell from iron rocks in which damned souls were imprisoned.  
+Player: uth'byth  
+Edowir: This steel absorbs magic. While it is of inferior quality compared to ordinary steel, its absorbing qualities make it important though.  
+Player: uth'morc  
+Edowir: What makes this black steel exceptional is its lightness and peculiar property of lacking the common steel 'noise'. It is also called 'silent steel' or 'thief's steel' for this reason.  
+Player: uth'amon  
+Edowir: The luminescent brightsteel is used for artwork mainly. In ancient times, items of great magic power were crafted using brightsteel. Those crafts were lost with the races who held the secret to them.  
+Player: uth'maer  
+Edowir: The dwarfs call it heartiron and claim it is part of the heart of The Big Old One. Therefore, they hold it sacred and its use is limited and regulated.  
+Player: uth'doon  
+Edowir: The dwarven high steel is relatively common but expensive and still hard to come by. The elite dwarven weaponry and armours are made of Uth'Doon.  
+Player: zatragil  
+Edowir: The so-called dreamsilver is a legendary metal. Almost everything we know about it are rumours only.  
+Player: excalibug  
+Edowir: The ancient dwarven kings forged it using magic metal , which they took from cyclopses who found it in the heart of a fallen star.  
+Player: fuck  
+Edowir: If that's all you can think about...  
+Player: bye  
+Edowir: Come back whenever you're in need of wisdom.  

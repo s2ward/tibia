@@ -1,0 +1,60 @@
+Player: (idle)
+Willie: You, over there! Stop sniffing around my farm! Either trade with me or leave!
+Willie: Make sure you know what you want before you bug me.
+Willie: Buying and selling food!
+Willie: Ah, what the heck.
+Player: Hi  
+Willie: Hiho Player.  
+Player: God  
+Willie: I am a farmer, not a preacher.  
+Player: Help  
+Willie: Help yourself, I have not stolen my time.  
+Player: Job  
+Willie: I am a farmer and a cook.  
+Player: Cook  
+Willie: I try out old and new recipes. You can sell me all food you have.  
+Player: Food  
+Willie: Are you looking for food? I have bread, cheese, ham, and meat.  
+Player: Recipes  
+Willie: I would love to try a banana-pie. But I lack the bananas. If you get me one, I will reward you.  
+Player: Banana  
+Willie: Have you found a banana for me?  
+Player: No  
+Willie: Too bad.  
+Player: Name  
+Willie: Willie.  
+Player: Time  
+Willie: Am I a clock or what?  
+Player: King  
+Willie: I'm glad that we don't see many officials here.  
+Player: Magic  
+Willie: I am magician in the kitchen.  
+Player: Tibia  
+Willie: If I were you, I would stay here.  
+Player: Sell  
+Willie: I sell food of many kinds.  
+Player: Buy  
+Willie: I buy food of any kind. Since I am a great cook I need much of it.  
+Player: Spell  
+Willie: I know how to spell and i know how to spit, you little @!#&&. Wanna see?.  
+Player: Weapon  
+Willie: I'm not in the weapon business, but if you don't stop to harass me, I will put my hayfork in your &$&#$ and *$!&&*# it.  
+Player: Dungeon  
+Willie: I have no time for your dungeon nonsense.  
+Player: Monsters  
+Willie: Are you afraid of monsters ... you baby?  
+Player: Amber  
+Willie: Quite a babe.  
+Player: Cipfried  
+Willie: Our little monkey.  
+Player: Dallheim  
+Willie: Uhm, fine guy I think.  
+Player: Obi  
+Willie: This little $&#@& has only #@$*# in his mind. One day I will put a #@$@ in his *@&&#@!  
+Player: Seymour  
+Willie: This joke of a man thinks he is sooo important.  
+Player: Bye  
+Willie: Yeah, bye.  
+Player: Hi  
+Willie: Hiho Player.  
+Willie: YOU RUDE $!@##&  

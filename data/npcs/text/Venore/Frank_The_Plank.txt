@@ -1,0 +1,30 @@
+Player: hi
+Frank the Plank: Hello, friend! Norman told me someone would bring us supplies. Do you have a pathfinder kit with you?
+Player: no
+Frank the Plank: You cannot be serious. Out of my eyes and don't return without supplies!
+Player: (any)
+Frank the Plank: Er, I beg your pardon, what did you say? Do you have that pathfinder kit, yes or no?
+Player: job / mission
+Frank the Plank: Hello again, Player. Your job is done here for today. Thanks again and go back to Norman.
+Player: venore
+Frank the Plank: Best place to live in. Thrivin' city. Best manufacturers of wood, famous for its 'haute cuisine' Venorean spice and has got the nicest shops with lots of frills for the lady while a man can enjoy a quiet game o' cards or dograces, if ya get my drift.
+Player: dograces / dog races
+Frank the Plank: Our Venore's the only city with an official gambling license. Famous for its dog races throughout Tibia's lands! ... You'll find the races in the city centre. For a small fee, I can name ye the dog that's sure to win. <winks>
+Player: swamp
+Frank the Plank: Nice place, ain't it? See the specialty of Venore, the spice weed? Only grows here in our swamp. Delicious stuff. ...
+Frank the Plank: Mind you, there were some nasty creatures on the loose before the wizards cleared the area and Venore was built. But that's long ago.
+Player: creatures
+Frank the Plank: Well, there are some that like to live in the deep o' the swamp. Orcs, trolls, some nasty elves in the southeast, and some ratpeople underground. Vicious stuff, those. Keep stealin' things and sabotagin' our production sites.
+Player: orc
+Frank the Plank: Orcs? Common as dirt. Find them everywhere in Tibia. They got a camp on the northeastern coast, close to our production site, but they keep to themselves mostly. ...
+Frank the Plank: Still, don't like 'em. They smell like old socks and collect skulls and bones. Nasty.
+Player: troll
+Frank the Plank: Yeah, got trolls here, too. They smell almost as bad as orcs and have a brain the size of a pea. People say the trolls got a real cosy underground settlement tunnelled out just south of Venore and that the entrance's someplace in the southern swamp.
+Player: elves
+Frank the Plank: Some say elves are nice folk when you get to know 'em, but that's not the kind of elves that live in the southeastern swamp! ...
+Frank the Plank: They don't like strangers and keep to themselves in that fortress of theirs, Shadowthorn. Stay out of their way if you value your life.
+Player: ratpeople
+Frank the Plank: Hah! The plague o' the swamps, they are. Tunnelling everywhere, worse 'n trolls. Thievin' little eels. ...
+Frank the Plank: They steal all kinds of stuff from us. Especially the little coryms, they're worse than magpies - steal everything that's not nailed down.
+Player: bye
+Frank the Plank: Bye, Player.

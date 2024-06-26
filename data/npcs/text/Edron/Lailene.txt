@@ -1,0 +1,26 @@
+Player: hi / hello  
+Lailene: What do you want in my magical robe store? I doubt I have anything that's of interest to you.  
+Player: brotherhood / bones  
+Lailene: ... what?! Uh - no, no. Of course I wouldn't have anything to do with... them.  
+Player: curse / moon / were  
+Lailene: I'm an expert on magical robes and hats. But curses are not my subject. You should ask Milos or Luna about this.  
+Player: Edron  
+Lailene: Yeah, what about it?  
+Player: hat  
+Lailene: Currently I only buy batwing hats. Ask me for a trade if you want to sell one.  
+Player: job  
+Lailene: I sell and buy magical robes and hats. My customers usually appreciate that I don't ask where they got the robes from they're selling to me.  
+Player: name  
+Lailene: Lailene. That's enough.  
+Player: news  
+Lailene: Good news for me would be if you either left or bought something.  
+Player: Random Word  
+Lailene: Excuse me, but I'm here to trade and not to chatter. If you're not interested in my wares, don't disturb me continuing my experiments.  
+Player: robe / ware / stuff / goods / equipment / offer / buy / sell  
+Lailene: I sell and buy magical robes and hats. My inventory is still small, but I'm confident that it will grow over time. Ask me for a trade to have a look.  
+Player: time  
+Lailene: It's time you stopped bugging me.  
+Player: trade  
+Lailene: Here.  
+Player: bye  
+Lailene: See ya, Player.  

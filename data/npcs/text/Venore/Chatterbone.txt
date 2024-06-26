@@ -1,0 +1,34 @@
+Player: hi
+Chatterbone: ... Greeeeeetiiiingssss! Spelllsssssss...?
+Player: name
+Chatterbone: ... Chatterbone
+Player: job / Spelllsssssss
+Chatterbone: ... Selling spells.
+Player: time
+Chatterbone: ... Time?... Not important... anymore.
+Player: news
+Chatterbone: ... they build a new city... somewhere...
+Player: market
+Chatterbone: ... You buy?
+Player: spells
+Chatterbone: ... Only sorcerers...
+Player: sorcerer / power
+Chatterbone: ... You... buy spells?
+Player: druid
+Chatterbone: ... Ask Smiley...
+Player: spellbook
+Chatterbone: ... You buy book... store spells... other counter...
+Player: rune
+Chatterbone: ... Runes... mighty stones... other counter...
+Player: king tibianus
+Chatterbone: ...
+Player: vladruc urghain
+Chatterbone: ... Maaaaassssterrrrr
+Player: ferumbras
+Chatterbone: ... un...important
+Player: excalibug
+Chatterbone: ... we hid it... so long ago... so long...
+Player: pits of inferno / flaming pits / nightmare pits
+Chatterbone: ... we conquered them... held them so long... long ago...
+Player: bye
+Chatterbone: ... Good... Bye

@@ -1,0 +1,24 @@
+Player: hi / hello  
+Huntsman: Howdy partner.  
+Player: name  
+Huntsman: Sorry, I don't think telling a stranger your name is a smart thing to do.  
+Player: balance  
+Huntsman: To be honest, I don't care too much about that spiritual balance thing. Better talk to Benevola about such things. ...  
+Huntsman: As a matter of fact though, if too many animals are killed, things might rapidly change for the worse. ...  
+Huntsman: So it's only practical thinking to keep the balance in mind as long as I can afford it.  
+Player: Benevola  
+Huntsman: She is a bit overly concerned about that nature and balance stuff but she has a good heart. She is living in the woods between Carlin and Ab'Dendriel. I'll mark her hut on your map.  
+Player: huntsman  
+Huntsman: I hunt game of all sorts to earn a living. I respect the balance of nature though and take only as much as I need.  
+Player: job  
+Huntsman: I'm just a simple huntsman.  
+Player: white deer  
+Huntsman: The white deer are somewhat sacred to the elves. Though their fur and antlers are rumoured to earn a decent amount of gold on the market, it's probably not worth the trouble.  
+Player: gold  
+Huntsman: Just between you and me, I heard a guy named Cruleo is offering some handsome cash for the trophies of a white deer.  
+Player: Cruleo  
+Huntsman: He has a house in the wilderness. Just between Ab'Dendriel and the orcland. I'll mark his hut on your map.  
+Player: status  
+Huntsman: The wildlife is healthy and vibrant.  
+Player: bye  
+Huntsman: Good bye. Take care  

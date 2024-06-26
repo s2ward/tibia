@@ -1,0 +1,80 @@
+Player: hi
+Ahmet: Be mourned pilgrim in flesh. I'm selling general goods. Just ask me for a trade.
+Player: hi
+Ahmet: You are too late for work you lazybones! If you see something suspicious, tell me right away!
+Player: hi
+Ahmet: Ohh, milord showing up again! Let me tell you something! YOU ARE FIRED!
+Player: name
+Ahmet: I am the mourned Ahmet.
+Player: time
+Ahmet: It would be foolish of me to tell you the time as you won't buy a watch then.
+Player: job
+Ahmet: Are you interested in being my private security slave ...er...officer?
+Player: no
+Ahmet: Then not.
+Player: yes
+Ahmet: Wonderful!! Okay listen, you have to watch my shop while I'm inside. Don't walk away, no eating during work and if you got beaten up, it is your own problem! ...
+Ahmet: You will earn 200 gold coins a month BUT only if you fulfil your duties to my satisfaction. Now do your work and let me do mine!
+Player: bye
+Ahmet: What do you mean with 'bye'?? You got to stay here dutifully!!
+Player: suspicious
+Ahmet: I am starting to believe that YOU are the suspicious one here!
+Player: quit
+Ahmet: You want to quit?? Alright, I won't hold you up. Have a nice life and visit me from time to time!
+Player: document
+Ahmet: Such documents are not cheap. It will cost you no less than 10000 gold. Are you interested?
+Player: no
+Ahmet: Well, then not.
+Player: yes
+Ahmet: And here they are! Now forget where you got them from.
+Player: temple
+Ahmet: The temple is a school for us mourned mortals. The teachings of the temple help us to find our way through our mortal days.
+Player: pharaoh / arkhothep
+Ahmet: Blessed be the Pharaoh. He is our saviour. I hope that I will be chosen one day.
+Ahmet: Our pharaoh holds the key to our ascension. Praised be our pharaoh.
+Player: oldpharaoh / ashmunrah
+Ahmet: The foolish old Pharaoh withheld knowledge and power from his son, knowing that he would surpass him in every aspects. But his son granted him the chance to ascend.
+Player: scarab
+Ahmet: The eternal burrowers are the keepers of all the secrets their kind has unearthed in countless aeons.
+Player: chosen
+Ahmet: Only the most worthy and pious are chosen to join the armies of the Pharaoh. In undeath they follow the path of ascension.
+Player: tibia
+Ahmet: The world is nothing but a sigil of death, a monument of decay. We have to attune to death to become one with the world.
+Player: carlin / venore / edron / thais
+Ahmet: The vain cities of the Tibian continent think they are at the centre of the universe. Little do they know about the wisdom of the Pharaoh.
+Player: kazordoon / dwarves / dwarfes
+Ahmet: We rarely see a traveller of the small folk here.
+Player: ab'dendriel / elves / elfes
+Ahmet: Elves are a rare sight in our lands.
+Player: darama
+Ahmet: Life here is harsh, but only this way can we deny the temptations that might damage our Rah and our Uthun to our traitorous flesh.
+Player: daraman
+Ahmet: He was close to the truth, but he lacked the wisdom and vision of our pharaoh.
+Player: darashia
+Ahmet: The foolishness of their ways will eventually spell their doom.
+Player: ankrahmun
+Ahmet: Our city will endure the sands of the desert and the grinding teeth of time.
+Player: ascension
+Ahmet: Godhood is at our disposal if only we throw of the shackles of mortal flesh.
+Player: arena
+Ahmet: The arena is east of here.
+Player: palace
+Ahmet: The palace is the home of our beloved Pharaoh.
+Player: mortality
+Ahmet: Mortality is our curse. Mourned shall we be.
+Player: false gods
+Ahmet: The great traitors are trying to doom us.
+Player: mourn
+Ahmet: We are mortals and thus miserable creatures that are to be mourned.
+Player: undead
+Ahmet: Undeath is the path to ascension which the chosen may follow.
+Player: akh
+Ahmet: Your cursed bodies are called the Akh. As long as we are alive the Akh makes us weak and vulnerable.
+Player: rah
+Ahmet: The Rah could be called our soul.
+Player: uthun
+Ahmet: The Uthun is that what we learn and remember.
+Player: akh'rah uthun
+Ahmet: The Akh'rah Uthun is what we are.
+Player: <vanish>
+Ahmet: Where are you heading?? Come back NOW you lazybones!!! You won't get a single gold coin if you leave!

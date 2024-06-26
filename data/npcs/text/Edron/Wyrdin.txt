@@ -1,0 +1,26 @@
+Player: Hi  
+Wyrdin: Hello, what brings you here?  
+Player: Here/Job  
+Wyrdin: I'm responsible for compiling new knowledge for our academy. In this position I often assign missions to daring adventurers.  
+Player: Academy  
+Wyrdin: The academy is the foremost facility of research and study in the kingdom. Nothing in the known world rivals the amount of knowledge we've accumulated here. Only the library of the White Raven Monastery comes close.  
+Player: Kingdom  
+Wyrdin: The king is an avid supporter of science.  
+Player: Name  
+Wyrdin: I'm Wyrdin, researcher and librarian.  
+Player: Edron  
+Wyrdin: There is still much that needs to be done before Edron can be called a peaceful place, and I'm convinced there are still many secrets hidden here that need to be unearthed.  
+Player: Excalibug  
+Wyrdin: Sorry, this is not my area of expertise. I believe it is better to be quiet if you know nothing of what you are talking about.  
+Player: Thais  
+Wyrdin: Thais is way too loud and distracting for carrying out decent research.  
+Player: Time  
+Wyrdin: It's 8:27 pm right now.  
+Player: Curse/Were  
+Wyrdin: The Curse of the Full Moon, huh? I'm sorry, curses are not my subject, no. You could ask Sandra, she might know something.  
+Player: Descryption/Encrypted  
+Wyrdin: I am familiar with several encrypting techniques. If you find something that has been encrypted I'd love to take a look at it.  
+Player: Mission/Research notes  
+Wyrdin: You've already delivered the research notes.  
+Player: Bye  
+Wyrdin: Good luck on your travels, Player.  

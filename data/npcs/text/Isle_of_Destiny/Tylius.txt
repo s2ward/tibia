@@ -1,0 +1,56 @@
+Player: (idle)
+Tylius: Shoot your enemy with energy spheres!
+Tylius: Weak chest? Why not dish out some magic!
+Tylius: Staffs, wands, rods - the true weapons of power!
+Tylius: Wield a staff - the magician's weapon!
+Player: hi
+Tylius: Hello again! Do you want me to explain how distance fighting for mages works again, or did you lose your staff?
+Player: name
+Tylius: <bows> My name is Tylius. Delighted to make your acquaintance.
+Player: job
+Tylius: I am a sorcerer apprentice to the master sorcerer Estrella.
+Player: hi
+Tylius: Hello there! Interested in magic? Wish to become an acolyte of the arcane, a neophyte of nature? Then the staff is your weapon of choice! Care to try it out? Of course you do. Say yes.
+Player: no
+Tylius: <chuckles> Intimidated by magic, are you? Try the paladin's distance fighting next door, then. Come back anytime!
+Player: yes
+Tylius: <chuckles> Good. We magic wielders prefer to fight from a distance, as our defense and armor is a lot weaker than that of the knights. But we deal out more damage with a hit than they do. ...
+Tylius: Stay at a little distance from a monster. Too far away: the staff won't hit the monster; come too close and the monster will hit YOU. ...
+Tylius: First, drag your staff to the weapon slot in your inventory to use it. Then, to attack, RIGHT-CLICK on a monster on the screen or battle list and choose 'ATTACK'. ...
+Tylius: Remember that a staff also needs mana to work, so make sure you always have some food, or you won't regenerate mana. There's food in the chest outside, and some blueberry bushes. Oh yes, one other thing: mana will only be regenerated inside tents. ...
+Tylius: Ready for the staff?
+Player: mana
+Tylius: Mana is your magic energy. If you don't have any mana, you can't use any magic - no weapon, no spell. All magic staffs, wands and rods need mana to fire at monsters. So. Ready for a staff?
+Player: ready
+Tylius: Alright, let's get started! <snaps fingers> Here's your staff! Just drag it from your inventory to your weapon slot to use it. ...
+Tylius: <chuckles> Have a blast and just visit Shanoya next door to try out mundane distance weapons, too, afterwards.
+Player: estrella
+Tylius: She is the local vocation trainer for sorcerers and my esteemed master.
+Player: sorcerer
+Tylius: We are the masters of energy, fire, and death magic. In this tent, I will teach you the basics of wielding a magic staff, our main weapon.
+Player: shanoya
+Tylius: <chuckles> Don't cross her in a dark wood! Or was it dark mood? Anyway. Tough lady. Teaches distance fighting for non-magic people, next door.
+Player: ula
+Tylius: <chuckles> Cute girl. Has some mean fireballs at the ready, too.
+Player: again
+Tylius: Gladly. We magic wielders prefer to fight from a distance, as our defense and armor is a lot weaker than that of the knights. But we deal out more damage with a hit than they do. ...
+Tylius: Stay at a little distance from a monster. Too far away: the staff won't hit the monster; come too close and the monster will hit YOU. ...
+Tylius: Drag your staff to the weapon slot in your inventory to use it, right-click on a monster and choose 'attack'. ...
+Tylius: Check your mana and always have some food with you. When you're done, visit Shanoya next door for more... mundane distance fighting. <chuckles> Enjoy!
+Player: staff
+Tylius: Hello again! Do you want me to explain how distance fighting for mages works again, or did you lose your staff?
+Player: staff
+Tylius: <snaps fingers> Here's your staff! Just drag it from your inventory to your weapon slot to use it. ...
+Tylius: <chuckles> Have a blast and just visit Shanoya next door if you fancy mundane distance weapons, afterwards.
+Player: staff
+Tylius: Sorry, only one staff every 5 minutes per initiate permitted! Festival regulations.
+Player: skip tutorial
+Tylius: So you already know your future vocation and are sure you want to skip the tutorial, yes?
+Player: no
+Tylius: No? <chuckles> OK, we'll proceed as planned, then.
+Player: yes
+Tylius: Alright then. Choose well!
+Player: bye
+Tylius: <bows> Goodbye. May we meet again!
+Player: (vanish)
+Tylius: <chuckles> Always in a hurry, eh?

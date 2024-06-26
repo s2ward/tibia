@@ -1,0 +1,28 @@
+NPC: Captain Tiberius  
+Player: hi / hello / hail / salutations  
+Captain Tiberius: Hail. If you want to head back to the continent, just ask me for a passage.  
+Player: dead / corpse  
+Captain Tiberius: Oh. Well, the sea's a harsh mistress, 'tis true. Break it gently to Sharon, will you? I'm not really the right person for that.  
+Player: destination / go / passage / sail / ship / town / trip  
+Captain Tiberius: I can bring you back to the city where you came from when you arrived here. Even for free. Agreed?  
+Player: no  
+Captain Tiberius: No problem, you can stay here.  
+Player: Elgar  
+Captain Tiberius: Hm. Didn't really know him. Only time I talked to him was a long time ago, when he came to open up his business on Travora. Never set foot on the island myself, though. ...  
+Captain Tiberius: When the waters swallowed Travora, we found Sharon and that dwarf stranded on a sand bank below. He didn't talk much then, either. Crawled into the belly of my ship to get dry again, and that's the last thing I know.  
+Player: job  
+Captain Tiberius: I transport my passengers back to the continent.  
+Player: map  
+Captain Tiberius: We have to keep track of changes in these waters of course, lest we navigate into a reef.  
+Player: name  
+Captain Tiberius: I'm Captain Tiberius, at your service.  
+Player: Sharon  
+Captain Tiberius: Don't be shy to ask her for information if you need any. She doesn't bite.  
+Player: transfer  
+Captain Tiberius: Are you here for the character world transfer? Well, if you have any questions I suggest asking Sharon, below on the deck. She knows everything and more.  
+Player: Travora  
+Captain Tiberius: Nothing much of an island when it was still there, to tell the truth. Only notable thing about it was the fact that the veil between worlds is thin here, hence the possibility to change worlds.  
+Player: world / change  
+Captain Tiberius: Not my field of expertise. If you want to know more or change to another world, talk to Sharon on the deck below.  
+Player: bye  
+Captain Tiberius: Good bye, Player.  

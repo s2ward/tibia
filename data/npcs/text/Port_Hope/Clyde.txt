@@ -1,0 +1,59 @@
+Player: hi  
+Clyde: Greetings, dear customer. Have a drink and some food.  
+Player: drink  
+Clyde: Do you want beer, wine, lemonade, or water? Ask me for a trade to make your choice.  
+Player: food  
+Clyde: We offer cookies, bread, cheese, ham, and meat, as well as eggs and tomatoes. If you like to see my offers, ask me for a trade.  
+Player: trade  
+Clyde: Sure, browse through my offers.  
+Player: job  
+Clyde: I'm your host, I run this tavern.  
+Player: name  
+Clyde: I'm Clyde, your host.  
+Player: jungle  
+Clyde: This forest is no ordinary forest. It's more like a force of nature, like a river or even a storm.  
+Player: dworcs  
+Clyde: The dworcs live in the South in an underground network consisting of caves. They use poisoned weapons and love to build all kind of traps. You don't want to know the fate of those that have been trapped, believe me.  
+Clyde: I wish the king would be a bit more concerned about this colony. I'm convinced with a few more resources we could improve Port Hope a lot.  
+Player: thais  
+Clyde: Sadly, Thais is far away and you will notice that in many places. You'll find out about this yourself, so let's talk about something else please.  
+Player: king  
+Clyde: I wish the king would be a bit more concerned about this colony. I'm convinced with a few more resources we could improve Port Hope a lot.  
+Player: carlin  
+Clyde: I know only little about Carlin, and nobody cares about it here.  
+Player: ankrahmun  
+Clyde: If I were you, I'd stay as far away from this town as possible. It is ruled by an undead abomination and its inhabitants worship death.  
+Player: darashia  
+Clyde: I was there quite often, using the flying carpet. It's quite different from other towns I've seen, but surely worth a trip.  
+Player: dwarfs / dwarves  
+Clyde: There was a handful of dwarfs that came here when the colony was founded. They were looking for treasures and gold as far as I know. After some argument, a bunch of them left. They headed into the jungle and were never seen again.  
+Player: kazordoon  
+Clyde: If you want to learn something about Kazordoon, you should talk to our local dwarfs.  
+Player: venore  
+Clyde: It's not always easy to deal with those Venorean tradesmen. I have to admit they don't show any interest in my area of business. Just between you and me, my friend, sometimes they give me shivers.  
+Player: edron  
+Clyde: When I started business here, I was hoping for a second Edron. I have not shed my hope, yet. After all, this place is called Port Hope, isn't it?  
+Player: excalibug  
+Clyde: The rumours I overheard did not mention this continent as one of its hiding places.  
+Player: ferumbras  
+Clyde: This incarnation of evil seems to concentrate his efforts on Thais and its surroundings, but who knows what comes next into the mind of this madman?  
+Player: lizard  
+Clyde: The lizards are hostile to us. They probably see no big difference between us and the ape people.  
+Player: apes  
+Clyde: They seem to live in the depth of the jungle in ruins that show the markings of the lizard folk. I wonder if they now try to conquer our city, too.  
+Player: special  
+Clyde: Hm, we are widely known for the wood we export. But we are truly famous for the ivory of the elephant tusks.  
+Player: buy / sell / offer / stuff / goods / equipment / ware  
+Clyde: Food and drinks as much as you can pay for. If you like to see my offers, ask me for a trade.  
+Player: time  
+Clyde: Don't worry about the time. Take a seat, have a drink. Time runs differently in Port Hope.  
+Player: tibia  
+Clyde: I've seen only little of this world. Probably you should tell me something about the world, and not the other way around.  
+Player: elfs / elves  
+Clyde: Sadly it is next to nothing that I know about the elves and their city.  
+Player: darama  
+Clyde: It's a continent full of extremes - the jungle in the humid West, and the desert in the dry East.  
+Player: ab'dendriel  
+Clyde: Sadly it is next to nothing that I know about the elves and their city.  
+Player: farewell / bye  
+Clyde: Good bye, do visit us again.  

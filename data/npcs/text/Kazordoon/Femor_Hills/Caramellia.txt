@@ -1,0 +1,36 @@
+Player: hi  
+Caramellia: Hello, Player. Please leave me alone in my mourning.  
+Player: mourning  
+Caramellia: All is lost. With Winfred dead, my love has died and I'm only an empty shell without hope or purpose.  
+Player: Winfred  
+Caramellia: He was my one and only true love. He was a mere commoner and so my father forbid me to see him ...  
+Caramellia: We met anyway, we had plans to flee to Port Hope and to start a new life there ...  
+Caramellia: A druid, in service of my father, had spied on us. So they brought me here and locked me into this tower. The druid cast a spell on the plants at the entrance which kept everyone from entering the tower ...  
+Caramellia: I could see Winfred from the window but he could not come to me. One day he disappeared. I knew immediately that something horrible had happened to him.  
+Player: father  
+Caramellia: He wasn't a bad man. He was only misguided by false friends who told him what society expected of him ...  
+Caramellia: By trying to uphold a respectable image in society, he ruined not only my life but also his own.  
+Player: Port Hope  
+Caramellia: We put all our hope in this far away colony. Sadly, we never made it there and I will never know what our life would have been like in Port Hope.  
+Player: druid  
+Caramellia: I guess he was the one that put my father up to the whole thing. He spied on Winfred and me and it was certainly him that suggested my imprisonment in this tower.  
+Player: tower  
+Caramellia: Once, this tower has been my prison but after the death of Winfred it has become my refuge from the rest of the world. ...  
+Caramellia: I welcome the loneliness here because it mirrors the state of my heart.  
+Caramellia: This forsaken place seems as remote from the rest of the world as my heart is.  
+Player: carlin  
+Caramellia: Carlin is a lovely and green city as far as I remember.  
+Player: thais  
+Caramellia: The bustling streets of Thais are all but a faint memory to me.  
+Player: venore  
+Caramellia: My father wanted me to marry a wealthy Venorean. He understood so little about love and the ways of the heart.  
+Player: kazordoon  
+Caramellia: The city is like the dwarfs that built it. Stony, never-changing and hard to understand for an outsider.  
+Player: job  
+Caramellia: Please leave me alone in my mourning.  
+Player: ab'dendriel  
+Caramellia: The city of the elves is an exotic wonder.  
+Player: news / offer / story  
+Caramellia: Please leave me alone in my mourning.  
+Player: bye / farewell  
+Caramellia: Good bye.  

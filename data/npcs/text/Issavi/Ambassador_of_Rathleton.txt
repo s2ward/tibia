@@ -1,0 +1,89 @@
+Player: hi / hello  
+Ambassador of Rathleton: Greetings, friend.  
+Player: Ab'Dendriel  
+Ambassador of Rathleton: I guess it's the place where most of the Tibian elves are living.  
+Player: Anuma  
+Ambassador of Rathleton: The Anuma are magical beings that inhabit the continent Kilmaresh. It is told that they were once created by the sun gods Suon and Fafnar. There are several kinds of Anuma: Sphinxes, lamassu, gryphons and manticores.  
+Player: Bastesh  
+Ambassador of Rathleton: Bastesh is a goddess, the patron of the oceans and sea creatures. The people of Kilmaresh also call her The Mistress of the Sea or The Keeper of Wisdom. ...  
+Ambassador of Rathleton: After the cataclysm known as Suon's Wrath, the people of Kilmaresh adopted the world view that Suon's true sister wasn't Fafnar but Bastesh. So they started worshipping her instead of the Wild Sun.  
+Player: Carlin  
+Ambassador of Rathleton: It's a big city on one of the other continents. But I can't tell you more, we don't have that much contact with the outside world.  
+Player: Darashia  
+Ambassador of Rathleton: It's a big city on one of the other continents. But I can't tell you more, we don't have that much contact with the outside world.  
+Player: dwarves / dwarfs  
+Ambassador of Rathleton: I heard that their mining abilities and the quality of their beer are unsurpassed.  
+Player: Edron  
+Ambassador of Rathleton: It's an island out there. But I can't tell you more, we don't have that much contact with the outside world.  
+Player: elves / elfs  
+Ambassador of Rathleton: They are an ancient race, well known for their natural understanding of magic.  
+Player: empress  
+Ambassador of Rathleton: These days Kilmaresh has a Sphinx Empress who much affected by the people. Usually I confer with their counsellors but sometimes I'm granted an audience with the Empress herself.  
+Player: Eshaya  
+Ambassador of Rathleton: He's the leader of the Sapphire Blade. As I heard, he's a kind and noble man but also a brave warrior.  
+Player: Fafnar  
+Ambassador of Rathleton: Fafnar is a goddess, one of the two suns of our world. The people of Kilmaresh also call her the Scorching Sun or the Smiter. It should be mentioned that the worhip of Fafnar is forbidden in Kilmaresh since the downfall of the old empire. ...  
+Ambassador of Rathleton: Personally, I don't care which sun is the right one. But I know that the cult of Fafnar causes plenty of trouble here in Issavi and in all of Kilmaresh.  
+Player: glooth  
+Ambassador of Rathleton: The miraculous glooth, won from unassuming, tiny glooth-worms, is the source of Rathleton's wealth and progress. Almost all of the city's amazing discoveries and inventions are based on this curious substance.  
+Player: gryphon  
+Ambassador of Rathleton: They don't act hostile towards humans but they are proud and withdrawn creatures. Make sure not to disturb their mountain territories.  
+Player: Issavi  
+Ambassador of Rathleton: Issavi is the capital of Kilmaresh. Here, you will find magnificent temples, palaces and government buildings, five to six stories high and built up in stages.  
+Player: job  
+Ambassador of Rathleton: I'm the Ambassador of Rathleton, an envoy of Oramond. My duties in Issavi include cultivating the diplomatic relations between Kilmaresh and Oramond as well as overseeing the trade between our two nations.  
+Player: Kallimae  
+Ambassador of Rathleton: She's the current leader of the Midnight Flame. As I heard, Kallimae is a powerful oracle and her visionary power is unparalleled as of yet. Many people in Issavi believe that she is blessed by the goddess Bastesh herself.  
+Player: Kazordoon  
+Ambassador of Rathleton: I guess it's the place where most of the Tibian dwarves are living.  
+Player: Kilmaresh  
+Ambassador of Rathleton: Over a thousand years ago, Kilmaresh formed a contiguous land mass with Krailos and Oramond. It was inhabited by a human civilization that had established a thriving empire but was cut off from the rest of the landmass by Suon's Wrath. ...  
+Ambassador of Rathleton: In Kilmaresh, you will find mainly dry steppe regions. At the centre lies a large mountain range and you will always discover small oases and tombs scattered over the steppe. ...  
+Ambassador of Rathleton: A broad river, the Nykri, rises in the central mountains and forms a fork halfway to the sea. Here lies the big city Issavi, the heart of Kilmaresh. The original capital Nuur was destroyed by Suon's Wrath over a thousand years ago.  
+Player: Krailos  
+Ambassador of Rathleton: As I learned here, Krailos and Kilmaresh were once a contiguous land mass, inhabited by a human civilization that had established a thriving empire. ...  
+Ambassador of Rathleton: Due to Suon's Wrath, the eastern peninsula was separated from the continent and is now cut off from the rest of the landmass by a strait. The people of Kilmaresh think this was the doing of the sun god. ...  
+Ambassador of Rathleton: Personally, I assume that it rather was a major natural disaster. Today, Krailos is mainly populated by ogres, a simple, warlike people, more interested in a fight and good food than in politics.  
+Player: lamassu  
+Ambassador of Rathleton: Lamassu are benevolent towards humans - unless you disturb the peace of holy sites or graveyards. In this case they can be very unforgiving.  
+Player: manticore  
+Ambassador of Rathleton: Manticores are much less kind than sphinxes or lamassu. Your best bet would be to steer clear of them.  
+Player: Midnight Flame  
+Ambassador of Rathleton: This group is a small circle of chosen knights and seers. All of their seers have second sight and are able to foresee certain future events or hidden secrets.  
+Player: name  
+Ambassador of Rathleton: My name is not of importance, more so my title: Ambassador of Rathleton.  
+Player: news / rumours / rumors  
+Ambassador of Rathleton: No news is good news, I guess.  
+Player: Oramond  
+Ambassador of Rathleton: Oramond is the place where I come from - the southern region of the continent that Kilmaresh once was part of, too. ...  
+Ambassador of Rathleton: Only through exploitation of the small and unassuming glooth-worms, my ancestors managed to survive and even built a prospering civilization on their own.  
+Player: Rathleton  
+Ambassador of Rathleton: The glorious town of Rathleton is the centre of human society on Oramond. Our culture and technology has evolved separately from other realms and produced something very remarkable: glooth.  
+Player: ring / present  
+Ambassador of Rathleton: Thank you for again the beautiful ring!  
+Player: Sapphire Blade  
+Ambassador of Rathleton: They are a group of elite warriors and it is their duty to protect Kilmaresh against all threats. All of them carry blades made of a blue metal called tagralt. ...  
+Ambassador of Rathleton: They are often in conflict with Fafnar cultists and the remaining ogres on Kilmaresh.  
+Player: sphinx  
+Ambassador of Rathleton: Sphinxes are generally benevolent towards humans but they are also enigmatic and aloof. Make sure to treat them with all due respect at any time.  
+Player: Suon  
+Ambassador of Rathleton: Suon is a god, one of the two suns of our world. The people of Kilmaresh also call him the Life-Bringing Sun or The King. Personally, I don't care which sun is the right one. ...  
+Ambassador of Rathleton: But I see that the worship of Suon and Bastesh grants Kilmaresh stability and growth right now.  
+Player: tagralt  
+Ambassador of Rathleton: In the steppes of Kilmaresh, there are many rock formations, interveined with blue ore. This ore can be magically crafted into a rare and precious metal. Sapphire Blade members use this metal for their swords.  
+Player: Thais  
+Ambassador of Rathleton: It's a big city on one of the other continents. But I can't tell you more, we don't have that much contact with the outside world.  
+Player: Tibia  
+Ambassador of Rathleton: Well, it's the world we live in, isn't it?  
+Player: time  
+Ambassador of Rathleton: It is exactly 3:04 pm.  
+Player: Venore  
+Ambassador of Rathleton: It's a big city on one of the other continents. But I can't tell you more, we don't have that much contact with the outside world.  
+Player: Wrath  
+Ambassador of Rathleton: A long time ago, the people of Kilmaresh worshipped the two sun gods, Suon and Fafnar. They attached great importance to the fact that the worship of both deities was always in balance. ...  
+Ambassador of Rathleton: However, there came a time when a group of Fafnar's adherers became more and more influential and aggressive until this sect postulated the sole worship of Fafnar. ...  
+Ambassador of Rathleton: This resulted in a civil war between the Fafnar followers and those who fought for the duality of the two sun gods. Ultimately, the war was allegedly ended by Suon himself. ...  
+Ambassador of Rathleton: The people of Kilmaresh believe that he split off the eastern peninsula from the western part of the land mass, destroying the former capital Nuur. This event is known as Suon's Wrath ever since. ...  
+Ambassador of Rathleton: Personally, I assume that it rather was a major natural disaster.  
+Player: bye / farewell  
+Ambassador of Rathleton: Farewell.  

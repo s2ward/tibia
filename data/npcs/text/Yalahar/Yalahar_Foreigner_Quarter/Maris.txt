@@ -1,0 +1,55 @@
+Player: hi / hello  
+Maris: I hope you have a good reason to step near my ship, Player.  
+Player: job  
+Maris: I once sailed all seas of Tibia. No storm was too powerful and no sea too troubled for me and my ship.  
+Player: name  
+Maris: I'm Maris Sharktooth. Arrr! - Well, I used to be.  
+Player: cookie  
+Maris: Get off!  
+Player: alori mort  
+Maris: Stop mumbling and don't bug me.  
+Player: vampire  
+Maris: I don't know what you're talking about.  
+Player: Julius  
+Maris: He sometimes sneaks around here. I have no idea what he's up to.  
+Player: Serafin  
+Maris: Such a polite little angel. Hahaha.  
+Player: Armenius  
+Maris: Good guy to have a drink with, if you know what I mean.  
+Player: Ortheus  
+Maris: He seems like a crazy old magician or something like that. Don't have much to do with him.  
+Player: Lisander  
+Maris: He used to hang out with Armenius and me, but nowadays he prefers to stay in the centre.  
+Player: yalahar  
+Maris: I don't mind having ended up here. There are worse places.  
+Player: augur  
+Maris: They don't let me anchor my ship in the central harbour, so of course I'm not exactly fond of them.  
+Player: ship / passage / go / destination / trip / route  
+Maris: There are two small islands west of Yalahar. I'm not sure if they have an official name but the people call the bigger one 'Mistrock' and the other one 'Fenrock'.  
+Player: fenrock  
+Maris: Do I look like a ferryman?! Well... if I think about it, I could use some sailing practice. I can bring you to Fenrock for 100 gold. Agreed?  
+Player: mistrock  
+Maris: Do I look like a ferryman?! Well... if I think about it, I could use some sailing practice. I can bring you to Mistrock for 100 gold. Agreed?  
+Player: quarter  
+Maris: Oh well, I stick with what I got.  
+Player: blood  
+Maris: No, thanks.  
+Player: mission / quest  
+Maris: Those days are over, kid. I don't hire for my crew anymore.  
+Player: mistrock (on Mistrock)  
+Maris: Do you smell this? It's the smell of fire... the fire of a forge. Many people searched this rock here for a hidden path, but they haven't found anything. ...  
+Maris: I'd search on Fenrock if I were you. Even though there's snow on the surface, it's still warm underground. There are often caves under fresh lava streams.  
+Player: Fenrock (on Fenrock)  
+Maris: This island bears a secret. I can feel it.  
+Player: Fenrock (on Mistrock)  
+Maris: To Fenrock for 50 gold?  
+Player: yalahar (on Mistrock or Fenrock)  
+Maris: Back to Yalahar for 100 gold?  
+Player: mistrock (on Fenrock)  
+Maris: To Mistrock for 100 gold?  
+Player: ship / passage / go / destination / trip / route (on Fenrock)  
+Maris: Well, we haven't got many options here. It's either Mistrock or back to Yalahar.  
+Player: ship / passage / go / destination / trip / route (on Mistrock)  
+Maris: Well, we haven't got many options here. It's either Fenrock or back to Yalahar.  
+Player: bye  
+Maris: Good bye.  

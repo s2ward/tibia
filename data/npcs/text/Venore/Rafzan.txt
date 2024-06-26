@@ -1,0 +1,88 @@
+Player: hi / hello  
+Rafzan: Hello, hello. Me peaceful, poor and honest goblin. Are you lookin' for trade or want to help me?  
+Player: business  
+Rafzan: Me humble little trader. Making a coin now and then, just enough not to starve to death. If you hear strange noise it's not dragon but empty stomach of poor goblin trader.  
+Player: dwarf  
+Rafzan: Beardmen are nasty. Always want to kill little goblin. No trade at all. Not good, not good.  
+Player: elves  
+Rafzan: They are mean and cruel. Humble goblin rarely trades with them. They would rather kill poor me if not too greedy for stuff only me can get them. ...  
+Rafzan: Still, they rob me of it for a few spare coins and there is noooo profit for poor goblin.  
+Player: goblin  
+Rafzan: Most goblins so afraid of everything, that they fight everything. Me different. Me just want trade.  
+Player: gold  
+Rafzan: Me have seen a gold coin once or twice. So bright and shiny it hurt me poor eyes. You surely are incredibly rich human who has even three or four coins at once! ...  
+Rafzan: Perhaps you want to exchange them for some things me offer? Just don't rob me too much, me little stupid goblin, have no idea what stuff is worth... you look honest, you surely pay fair price like I ask and tell if it's too cheap.  
+Player: help  
+Rafzan: So much to do, so little help. Me poor goblin desperately needs help. Me have a few tasks me need to be done. ...  
+Rafzan: I can offer you all money I made if you only help me a little with stuff which is easy for strong smart human but impossible for poor, little me.  
+Player: human  
+Rafzan: You humans are so big, strong, clever and beautiful. Me really feel little and green beside you. Must be sooo fun to be human. You surely always make profit!  
+Player: job  
+Rafzan: Me job merchant is. Me trade with all kinds of things. Me not good trader though, so you get everything incredibly cheap! ...  
+Rafzan: You might think me mad, but please don't rip off poor goblin too much. Me has four or five wives and dozens of kids to feed!  
+Player: merchant  
+Rafzan: Ah, yes, yes, merchant me be. Me is looking for help to start me business.  
+Player: name  
+Rafzan: Me humble name is Rafzan. Good old goblin name meaning honest, generous and nice person, I swear!  
+Player: profit  
+Rafzan: To be honest to me human friend, me only heard about it, never seen one. I imagine it's something cute and cuddly.  
+Player: ratmen  
+Rafzan: Furry guys are strange fellows. Always collecting things and stuff. Not easy to make them share, oh there is noooo profit for little, poor me to be made. ...  
+Rafzan: They build underground dens that can stretch quite far. Rumour has it the corym have strange tunnels that connect their different networks all over the world.  
+Player: rich  
+Rafzan: Me not rich, me only borrowed some stuff, only found some old used stuff here and there. You humans too clever for poor and honest goblin to make any profit at all. Hardly get enough to eat.  
+Player: swamp  
+Rafzan: Swamp is horrible. Slowly eating away at health of poor little goblin. No profit here at all. Me will die poor and desperate, probably eaten by giant mosquitoes.  
+Player: thais  
+Rafzan: Me heard Thais is big city with king! Must be strong and clever, to become chief of all humans. Me cannot imagine how many people you have to beat up to become king of all humans. ...  
+Rafzan: Surely he makes lot of profit in his pretty city.  
+Player: trade  
+Rafzan: Ah, you too clever for me to make any meagre profit. Just please, please don't rob poor stupid goblin too much, you master of shrewd trading.  
+Player: troll  
+Rafzan: Trolls are stupid and mean. Sometimes they trade, sometimes not. It is all about superstitions. If they think day is with bad omen they don't trade at all. ...  
+Rafzan: Sometimes me lucky, but trolls offer only crap and demand so much. There is nooo profit for poor me starving goblin.  
+Player: venore  
+Rafzan: Humans so clever. Much, much smarter than poor, stupid goblin. They have big rich town. Goblin lives here poor and hungry. Me so impressed by you strong and smart humans. ...  
+Rafzan: So much to learn from you. Poor goblin only sees pretty city from afar. Poor goblin too afraid to go there.  
+Player: task  
+Rafzan: Are you here to get a task or to report you finished task?  
+Player: report  
+Rafzan: What are you reporting about? Me advertising campaign, the perfume, recruitment of guards, keeping the ratmen busy, that you destroyed certain provisions or killing the marsh stalkers?  
+Player: get  
+Rafzan: So much to be done! Me desperately need advertising. Me have to create new ratmen perfume. Me in need of guards to keep me safe when trading. ...  
+Rafzan: Me looking for someone to keep ratmen busy, me need hero to destroy some ratmen stuff, and me need someone to kill evil marsh stalker.  
+Player: advertising  
+Rafzan: Me need to get well known all over the swamp. Cheapest prices, best service in whole swamp. Me need you to place some advertisement signs in the swamp. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! So take these three signs and place them on cracked stones you find all over the swamp. There they stay at least for a while before getting stolen or blown away.  
+Player: perfume  
+Rafzan: Me mostly deal with ratmen for old stuff they collected. Nothing to make any profit, nonono. But me need stuff to keep alive. Ratmen are fond of perfume I invented. ...  
+Rafzan: I need you to create more of it. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! Use this container in the correct order on the following: ...  
+Rafzan: First, FRESH snail slime from a slain snail. Any snail you find will do. You will have to wait a little before its corpse will allow you to gather the slime. ...  
+Rafzan: Second, add a sample black swamp gas that can be found in some remote areas of the swamp. ...  
+Rafzan: Third, the fart of a rotworm. Rotworms eat the strangest things and their farts have a special ... odour. Use the container on a living rotworm. With some luck you catch a fart. ...  
+Rafzan: Last, you need to use the container on mouldy cheese, this is what ratmen love most! You might find some in possession of goblins. If you are done, return the container to me.  
+Player: guard  
+Rafzan: Me little, me weak. Me need strong guys to protect me. Sadly humans love more be adventurers than protecting poor goblin. Me think they think adventuring is more fun and safe. ...  
+Rafzan: Me think when something bad would happen to them, that would teach them. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! Take this bow and secretly shoot them with it. It's only little bow, won't do much harm. Some of them might reconsider becoming me guard.  
+Player: busy  
+Rafzan: Ratmen always bickering and fighting each other. Keeps them occupied from stealing me stuff and makes them want to buy better stuff from me than the other ratmen have. ...  
+Rafzan: Me need you to ... place some stuff of hostile rat clan in rat cave to make them angry. ...  
+Rafzan: But ratmen are STRONG and DANGEROUS!!! (Not recommended for levels below 35) Better not go alone when you are inexperienced. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! Take bottle of urine, me got it from rival clan, no ask how! Sneak into their pond cave and use this urine on the pond.  
+Player: destroy  
+Rafzan: Ratmen often make deal with poor me. Sad story short, they always make profit, me never. If stuff they buy is destroyed, they have to buy new stuff. I need you to destroy stuff they bought from me. ...  
+Rafzan: But ratmen are STRONG and DANGEROUS!!! (Not recommended for levels below 35) Better not go alone when you are inexperienced. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! Take this hammer and use it on the crates they got from me. Me sure they not yet unpacked it, you find it in some storage area.  
+Player: kill  
+Rafzan: Mean marsh stalkers are threatening me little shop. They are the woodpeckers of swamp! Constantly hacking at me precious little building. Soon me be ruined. Are you helping poor me?  
+Player: yes  
+Rafzan: Oh, so thankful me be! You must kill five of this horrible goblin hut gnawers to teach them a lesson! CAN YOU HEAR ME MARSH STALKERS?! SWEET GOBLIN REVENGE IS ON ITS WAY!  
+Player: bye  
+Rafzan: Bye bye. Come back with much money to trade soon.  

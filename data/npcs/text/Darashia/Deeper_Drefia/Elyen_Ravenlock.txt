@@ -1,0 +1,30 @@
+Player: hi / hello  
+Elyen Ravenlock: Hello, brother. What is it now?  
+Player: blood  
+Elyen Ravenlock: The dark well inside our fleshly hull. It sings to us, and to the Dark Lord.  
+Player: blood priest  
+Elyen Ravenlock: They are drawn to blood like a wasp is to honey. They have a ...special interest in it, I presume.  
+Player: poison  
+Elyen Ravenlock: For yourself or someone else? Give the details to our apothecaries upstairs, they will settle the price, too.  
+Player: drefia  
+Elyen Ravenlock: The dark flower. Our chants are its perfume, our dances its colour.  
+Player: garden / night  
+Elyen Ravenlock: The Gardens Of Night surround our sacred temples, east of the Necromancer Halls. Dark and light mix there, as do our chants.  
+Player: job  
+Elyen Ravenlock: I prefer to call it my calling. I am the Mistress of the Dark Chants in Drefia.  
+Player: name  
+Elyen Ravenlock: I am the Dark Priestess Elyen Ravenlock. Your name is of no concern to me.  
+Player: necromancer  
+Elyen Ravenlock: Our brothers in the service of the Dark Lord.  
+Player: priestess  
+Elyen Ravenlock: I serve the Dark Lord. As do you, but you do not know it yet.  
+Player: rats  
+Elyen Ravenlock: Urgith's chosen. They run through our halls, free and unhindered. Do not harm them.  
+Player: ritual  
+Elyen Ravenlock: You could assist, I assume.  
+Player: scroll  
+Elyen Ravenlock: Do not touch the sacred scrolls! Leave this room at once!  
+Player: shadow pupil  
+Elyen Ravenlock: Our most elusive brethren. They do not like to be mentioned.  
+Player: bye / farewell  
+Elyen Ravenlock: Yes.  

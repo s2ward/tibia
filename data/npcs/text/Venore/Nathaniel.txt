@@ -1,0 +1,92 @@
+Player: hi
+Nathaniel: Greetings Player! You look like a friend of nature! Oh by the way, I have some news about the contest unless you want to talk about bonus points first!
+Player: name
+Nathaniel: My name is Nathaniel. I am a friend of everything green!
+Player: job
+Nathaniel: I am a fan and want to inform other Tibians about the BEST colour to join, the best wizard, the great CAUSE! NATURE! Wizard Fern, whose colour is green of course!
+Player: tibianus
+Nathaniel: I wonder what colour he chose...
+Player: news
+Nathaniel: The wizard contest has begun, join a colour - join green - join the friends of nature! I can also help you check the status of the contest if you're already a fan!
+Player: wizard / contest
+Nathaniel: There are 3 wizards. Each of them represents a different element which can be easily identified by a unique colour. ...
+Nathaniel: There is 'orange' for wizard Furb of Fun, 'green' for wizard Fern of Nature and 'violet' for wizard Feiz of Power.
+Player: furb / fun / orange
+Nathaniel: Furb is the wizard of Fun. Pranks, jokes, funny things - he loves all of it. If you want to have some fun - it's the way to go.
+Player: wizard / contest
+Nathaniel: There are 3 wizards. Each of them represents a different element which can be easily identified by a unique colour. ...
+Nathaniel: There is 'orange' for wizard Furb of Fun, 'green' for wizard Fern of Nature and 'violet' for wizard Feiz of Power.
+Player: furb / fun
+Nathaniel: Furb is the wizard of Fun. Pranks, jokes, funny things - he loves all of it. If you want to have some fun - it's the way to go.
+Player: colour / green
+Nathaniel: Green is my colour. It is what I stand for. Green represents the wizard Fern of Nature of which I am a great fan.
+Player: Nature
+Nathaniel: Nature is the element of Fern, the wizard I represen
+Player: feiz / power / violet
+Nathaniel: Feiz is the wizard of Power. Strength, influence and infinite might are his attributes. If you value these attributes, join him.
+Player: status
+Nathaniel: So far it looks like orange is winning! Violet is next behind!
+Player: join
+Nathaniel: You can join any wizard by using the powder you can find in the envelope on yourself and the rest on someone who did not already join a wizard and has the right colour. ...
+Nathaniel: Combining yellow and red will result in orange, yellow and blue will be green and red with blue results in violet.
+Player: fan
+Nathaniel: There are two others like me, an orange fan in Carlin and some girl for violet in Thais. Trust me green is the colour to go... but hey, you can always check out the others.
+Player: powder
+Nathaniel: The envelopes that came with the creatures contain a magical powder. The three wizards created it to let you represent each of their elements.
+Player: envelopes
+Nathaniel: The three wizards dropped these envelopes everywhere in the world. A lot of creatures have been carrying envelopes all over Tibia.
+Player: bonus
+Nathaniel: You currently have 40 bonus points to spend. Would you like me to explain the bonus point system or do you want to exchange coloured powders?
+Player: explain
+Nathaniel: Alright. Shall I talk about the collecting points or your rewards for exchanging points? Or do you ask yourself why Zaoan chess?
+Player: points
+Nathaniel: As you know, the three wizards scattered magical envelopes all over Tibia. During this event, a lot of different kinds of monsters will drop those magic envelopes. ...
+Nathaniel: These envelopes contain coloured powders you can use to colour yourself. Doing this, will yield 10 bonus points for you. ...
+Nathaniel: You will receive another 10 bonus points if you find another player with the right colour for you to combine with and join one of the three wizards. ...
+Nathaniel: In addition to the 20 points you can gather by joining a wizard you can collect up to 10 more points by returning any coloured powders you find. I am a fan of Fern, the green wizard of Nature and will accept blue and yellow powders. ...
+Nathaniel: The fans of Feiz, the violet wizard of power will accept red and blue powders, Furb of Fun's orange fans will accept yellow and red.
+Player: rewards
+Nathaniel: To repay the continuing support of the Tibians, the wizards have created a special version of their favourite game - Zaoan chess. ...
+Nathaniel: By taking part in the event and with a little luck you will be able to receive a unique set of Zaoan chess figurines, including a unique box for all 32 obsidian and jade pieces. ...
+Nathaniel: For 5 points you will receive a surprise figurine of a random colour which can be anything, even the queen. ...
+Nathaniel: For 20 points you will be able to select a figurine of a random colour except the queen. ...
+Nathaniel: For 60 points you will receive a queen. Guaranteed and on top of that you will be able to choose the colour as well. ...
+Nathaniel: You will receive the chess box for free from the appropriate fan if you have joined a wizard. Just ask me how to spend your points if you are ready.
+Player: spend / exchange / queen / chess
+Nathaniel: Mh, you are not of green colour. Either you did not join a wizard yet or - the unthinkable - you joined a different colour than green! You can only claim a reward from me once you have joined the green wizard.
+Player: why zaoan
+Nathaniel: Well, it's a long story. It has a lot to do with wizardry, a little with chess and quite much with a lady. I know that there must be a book about it, somewhere in a library in Thais.
+Player: exchange
+Nathaniel: Since I am a fan of Fern, the wizard of Nature, I will only accept yellow and blue powders. Just tell me if you want to exchange your yellow or blue powders for bonus points.
+Player: yellow / blue
+Nathaniel: It looks like you do not have enough coloured powders with you to exchange. Please return to me with at least 5 powders in your inventory.
+Player: yellow / blue
+Nathaniel: There you go, five ( blue / yellow ) coloured powders have yielded an additional bonus point! Tell me if you have any more powders to exchange.
+Player: spend
+Nathaniel: You currently have 60 bonus points to spend. Would you like to try your luck for 5 points or select a figurine for 20 points or do you want to exchange 60 points for a queen in the colour of your choice!
+Player: luck
+Nathaniel: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: queen
+Nathaniel: Do you want an obsidian queen or a jade queen?
+Player: obsidian / jade
+Nathaniel: I will give you an ( obsidian / jade ) queen for all your 60 points, is that what you want?
+Player: no
+Nathaniel: Alright, you still have 60 bonuspoints left to spend.
+Player: chess
+Nathaniel: Looks like you already received your free chessbox. Yes? Oh? Still here? Well, my er... resources... are rather limited. So I can only offer one free chessbox per character, alright? I'm sorry.
+Player: luck
+Nathaniel: I will give you a random figurine of a random colour for 5 bonus points, you alright with that?
+Player: yes
+Nathaniel: There you are, it's ( a / an ) ( obsidian / jade ) ( pawn / rook / bishop / knight / queen )!
+Player: select
+Nathaniel: Which figurine do you want to receive in exchange for 20 points? A pawn, a rook, a bishop, a knight or a king?
+Player: pawn / rook / bishop / knight / king
+Nathaniel: Here you are, ( an / a ) ( obsidian / jade ) ( pawn / rook / bishop / knight / king )!
+Player: no
+Nathaniel: Alright, you still have 40 bonus points left to spend.
+Player: luck / obsidian / jade / pawn / queen / king / rook / bishop / knight
+Nathaniel: I am sorry but you do not have enough bonus points.
+Player: bye
+Nathaniel: Farewell friend.
+Player: (vanish)
+Nathaniel: Yeah... bye and... um...

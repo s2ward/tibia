@@ -1,0 +1,90 @@
+Player: hi / hello  
+Mr Morris: Welcome, young adventurer. If you seek to help me with some things, I might have a little quest or mission for you.  
+Player: adventur  
+Mr Morris: Ah, I couldn't live without the thrill of adventure! The Adventurer's Guild has grown too relaxed, to my mind. I wasn't content staying there or just going on some small field trip into the Pits of Inferno! ...  
+Mr Morris: The Guild really needs some shaking up, some fresh blood. Well, anyway, the old adventurers were very keen on me exploring the far-off corners of our world. That odd magical signal was a welcome excuse to see me off. ...  
+Mr Morris: And I certainly wasn't going to miss the opportunity. When we found the source of the strange magical pulse was this island, I decided to stay and investigate. ...  
+Mr Morris: However, turns out we're a little understaffed what with all these monsters that infest the caves and trample any archeological hints that Dawnport may offer - so you see, your help with our quests is needed.  
+Player: guild  
+Mr Morris: The Adventurer's Guild is a loose association of hardened adventurers which investigate mysteries and always have directions and advice for young adventurers uncertain of which quest to undertake. ...  
+Mr Morris: The Guild is situated on an uninhabited island off the Tibian mainland. When you leave Dawnport, you can go there if you feel like a little peace and quiet, or if you need some advice or want to apply for a mission. ...  
+Mr Morris: Once you choose your vocation and leave Dawnport, you'll receive the Adventurer's Stone, a magical stone that, if used in a city temple, will bring you to the Adventurer's Guild.  
+Player: stone  
+Mr Morris: The Adventurer's Stone is imbued with magic that resonates in harmony with the magical energies of the temples in the cities of Tibia. . ...  
+Mr Morris: It only works if you're inside a city temple, but it can be any city temple - like Venore or Liberty Bay or Darashia - the stone will always work in a city temple and teleport you to the Adventurer's Guild upon use. ...  
+Mr Morris: Once you choose your vocation and leave Dawnport, you'll receive the Adventurer's Stone along with your vocation equipment. ...  
+Mr Morris: Once you're on the mainland in a city, maybe Venore, I recommend you use it in a temple and check out the Guild - old Rotem Valos is a nice guy to chat to.  
+Player: Coltrayne  
+Mr Morris: What about him? Is he in one of his dark moods again? That's his normal mood, I mean. Just buy your armor, weaponry and ammunition there and don't worry.  
+Player: dawnport  
+Mr Morris: Ah yes. Well, the magic that led us here seems to be most potent at a certain time, close before sunrise. Perhaps like a giant pulse, or beacon. Maybe the gods set it here, or a mad sorcerer, we don't know for sure yet. ...  
+Mr Morris: The portal deep down in the caves, resonating with magical energy where you came through, can maybe bring something else into this world as well. So it must be carefully guarded while we investigate the island for more clues. ...  
+Mr Morris: There are some very interesting archeological findings here on the island throughout. Seems the island has drawn some cults here, but why they are gone now, no one knows.  
+Player: archeo  
+Mr Morris: It seems that throughout its history, this island was inhabited by very different species. I like to study their remains and try to find out what they did here, and why. A lot of ancient cults seem to have been here, and then vanished. Very strange.  
+Player: cult  
+Mr Morris: Several of them around in Tibia. Some worship a Serpent God, some one demon or another; or they worship Zathroth, the god of destruction - necromancers do, mostly; and in the city of Ankrahmun, they worship undeath. ...  
+Mr Morris: It pays to be careful when entering a dungeon, you never know if there's not a hidden cult temple somewhere with maniacs jumping at you for trespassing. <shrugs>  
+Player: Garamond  
+Mr Morris: Tired of the academy, maybe, but not of teaching. If you need druid or sorcerer spells, go to him.  
+Player: Hamish  
+Mr Morris: Ah, good old Hamish. A real wizard with potions. Will supply you with very useful magic equipment for hunting.  
+Player: Inigo  
+Mr Morris: Ran across Inigo a few times on some remote islands, years and years ago. Talked him into coming along here, and he seems to enjoy passing his knowledge on to the next generation of adventurers, how to fight monsters and explore Tibia's mysteries.  
+Player: job  
+Mr Morris: There's always someone who needs to be at the front, to take the first step into the unknown. My whole life has been full of such steps.  
+Player: key  
+Mr Morris: Well, it's a good thing you found it. That stuff in the dormitory really needs a good washing.  
+Player: legion  
+Mr Morris: Ah, you found a legion helmet down in a cave? Interesting. This means some humans have been here before us. Please describe what you saw in detail. <listens intently>...  
+Mr Morris: Mhm. A lizard god? Maybe the Serpent God? Fascinating.  
+Player: Menesto  
+Mr Morris: He's still down there? And what about the others of his group? Oh? Only Menesto survived? Hm. Well, thanks for telling me. I'll have some folks sent down there to help him.  
+Player: mission / quest  
+Mr Morris: Hm. Well, you look like you want to take a look at the unknown yourself. I might have a job for you. Choose what you would like to do - fetch some things, or kill some monsters.  
+Player: fetch  
+Mr Morris: There's three things that need to be found. You can look for an amulet, a log book or pick some rare herbs. Take your pick.  
+Player: amulet  
+Mr Morris: Yes, the engravings are not easy to make out, it is a very contextual language. This word could mean 'snake' or it could mean 'gold' - or 'fabulous weather'.  
+Player: log / book  
+Mr Morris: I have begun retrieving information. This is very interesting. Apparently they found lots of monsters, caves, and hidden treasures. Or maybe that blotch there means 'not a lot'? Anyway, lots to read and learn!  
+Player: herb  
+Mr Morris: Thanks, that bushel of dawnfire herbs still last us. Don't hesitate to explore around on your own for a while.  
+Player: kill  
+Mr Morris: Well, those monsters have grown very uppity lately. There's a choice of three - mountain trolls, muglex clan goblins or, if you are up to it or together with some friends, there's a need to weed out some risky minotaur bruisers. Choose your target.  
+Player: troll  
+Mr Morris: You have slain 20 just recently, that is quite enough, thank you.  
+Player: goblin  
+Mr Morris: Yes, what about them? Those 20 you killed are quite sufficient, thank you. You may carry on with whatever else you were doing.  
+Player: mino  
+Mr Morris: We don't require further help with the minotaurs just now, thank you.  
+Player: Woblin  
+Mr Morris: Ah, the goblin who sneaks around here now and then? Lives in a cave to the west, somewhere.  
+Player: Morris  
+Mr Morris: That name suits me fine. By the way, the 'Mr' would be appreciated.  
+Player: Mr Morris  
+Mr Morris: Exactly. Has a nice ring to it  
+Player: name  
+Mr Morris: Mr Morris will do.  
+Player: first name  
+Mr Morris: Not for a long time now.  
+Player: sloppy  
+Mr Morris: Sloppy? Me? Who on Tibia told you that! What an outrageous lie! I am the most organised person in this outpost. I know *exactly* where I put my stuff! But someone has ... dislocated it.  
+Player: Plunderpurse  
+Mr Morris: Well, for him it's always been just a question of 'Your gold or your life' - gold it is nowadays. You can stash your loose change at ol' Abram, it's safe enough there. He just likes to look at it, that's all. ...  
+Mr Morris: If you're worried, you can withdraw your money anytime, and in any city bank on the mainland, too. Easy as pie.  
+Player: Oressa  
+Mr Morris: She's a good listener if you should still hesitate as to the choice of your definite vocation.  
+Player: Richard  
+Mr Morris: We found him here half-dead and fixed him up, now he fixes us dinner and roof beams. Definitely someone you should check out for food, a rope and a shovel.  
+Player: rookgaard  
+Mr Morris: Yeah. Long time I haven't been to that place. How's old Vascalir? Still hanging around in the academy? And Kraknaknork? Hah, I remember our brawl after that last card game. Fun times.  
+Player: legion / helmet  
+Mr Morris: Ah, you found a legion helmet down in a cave? Interesting. This means some humans have been here before us. Please describe what you saw in detail. <listens intently>...  
+Mr Morris: Mhm. A lizard god? Maybe the Serpent God? Fascinating.  
+Player: Tybald  
+Mr Morris: Been together through many a desperate situation. A romantic underneath it all. Found the time to specialise on spells for paladins and knights somewhere along the way.  
+Player: Wentworth  
+Mr Morris: Be careful that he doesn't bore you to death with accountants of, well, your bank account history.  
+Player: bye / farewell  
+Mr Morris: Watch your back, young friend.  

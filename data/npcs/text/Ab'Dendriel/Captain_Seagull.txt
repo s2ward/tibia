@@ -1,0 +1,26 @@
+Player: hi
+Captain Seagull: Welcome on board, Madam Player. Where can I sail you today?
+Player: name
+Captain Seagull: My name is Captain Seagull from the Royal Tibia Line.
+Player: job / captain
+Captain Seagull: I'm the captain of this sailing ship.
+Player: tibia / line / company / route / ship
+Captain Seagull: The Royal Tibia Line connects all seaside towns of Tibia.
+Player: goods
+Captain Seagull: We can transport everything you want.
+Player: passenger
+Captain Seagull: We would like to welcome you on board.
+Player: trip / passage / town / destination / sail / go
+Captain Seagull: Where do you want to go? To Thais, Carlin, Venore, Yalahar, to Gray Island or Edron? Or to Travora - a place between the worlds?
+Player: svargrond / ice islands / senja / folda / vega
+Captain Seagull: I'm sorry, but we don't serve the routes to the Ice Islands.
+Player: ankrahmun / tiquanda / port hope / rathleton / oramond / roshamuul / kazordoon / liberty bay / krailos / kilmaresh / farmine / zao
+Captain Seagull: I'm sorry, but we don't serve this route.
+Player: ab'dendriel
+Captain Seagull: This is Ab'Dendriel. Where do you want to go?
+Player: darashia / darama
+Captain Seagull: I'm not sailing there. This route is afflicted by a ghost ship! However, I heard that Captain Fearless sails there from Venore.
+Player: ghost
+Captain Seagull: Many people who sailed to Darashia never returned because they were attacked by a ghost ship! I'd never sail there!
+Player: bye
+Captain Seagull: Good bye. Recommend us if you were satisfied with our service.

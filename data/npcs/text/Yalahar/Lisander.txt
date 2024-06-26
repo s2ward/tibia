@@ -1,0 +1,34 @@
+Player: hi / hello  
+Lisander: I'd rather be left in peace. Keep it short.  
+Player: peace / job  
+Lisander: Listen, I'm not a big small talker. Why don't you do us both a favour and leave me alone?  
+Player: augur  
+Lisander: They can be a pain in the neck.  
+Player: alori mort  
+Lisander: Hold your tongue.  
+Player: name  
+Lisander: Lisander. Couldn't say 'nice to meet you' though. Are you done?  
+Player: blood  
+Lisander: No, that's wine I'm drinking.  
+Player: Armenius  
+Lisander: His bar is a little too dirty for my taste.  
+Player: Ortheus  
+Lisander: He's not the type to hang out in taverns, so I rarely see him.  
+Player: Serafin  
+Lisander: That guy should become a bit tougher. He's a little too mellow.  
+Player: Julius  
+Lisander: Nosy little wannabe.  
+Player: Maris  
+Lisander: Good man.  
+Player: vampire  
+Lisander: Ooooh. <makes a dramatic gesture> Daaaaaaaangerous creatures of the night! If that's what you wanted to hear.  
+Player: mission / quest  
+Lisander: Yes, I have one. Mission 1: Try to keep your mouth shut for at least two hours!  
+Player: yalahar  
+Lisander: This city has a lot more to offer than other cities.  
+Player: quarter  
+Lisander: I like it here, though that's obviously not a quarter.  
+Player: cookie  
+Lisander: It'd be better for you to leave now.  
+Player: bye  
+Lisander: Finally.  

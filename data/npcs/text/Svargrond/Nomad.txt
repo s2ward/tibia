@@ -1,0 +1,31 @@
+Player: hi
+Nomad: Ah, another disciple of the extreme... surviving the icy outdoors? Let me help! If you need some first aid out here, I can provide healing or grant you an enhanced blessing!
+Player: name
+Nomad: I am one with nature, one with the ice and the cold. Names are of no worth out here. Out here, you face isolation and loneliness. Only your strength, willpower and training can keep you alive.
+Player: job
+Nomad: Survive the extreme, battle the ice and cold - I am a professional outdoor survivalist! Well-versed in emergency healing and I also know of an enhanced blessing, ancient and powerful!
+Player: training
+Nomad: My life is one of hardship, hardship I chose freely. Endurance, strength and the power of the will are my only companions in this frigid wilderness. My strength comes from disciplined training and knowledge of the outdoors.
+Player: blessing
+Nomad: Besides the enhanced blessings available from me, I know of one other, granted by a mysterious djinn. There are also five different other blessings available, each in a sacred place. ...
+Nomad: These blessings are: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude.
+Player: sacred places
+Nomad: Just ask in which of the other five blessings you are interested in.
+Player: djinn / heart / blood
+Nomad: I know of a mysterious djinn, bound to an existence of slavery far to the north of Tiquanda's jungles. He is bound to tell you his secrets and offer you the 'blood of the mountain'. ...
+Nomad: I do not know where exactly but I guess you must first dig that one out to actually talk to him.
+Player: spiritual
+Nomad: You can ask for the blessing of spiritual shielding in the whiteflower temple south of Thais.
+Player: phoenix
+Nomad: The spark of the phoenix is given by the dwarven priests of earth and fire in Kazordoon.
+Player: embrace
+Nomad: The druids north of Carlin will provide you with the embrace of Tibia.
+Player: suns
+Nomad: You can ask for the blessing of the two suns in the suntower near Ab'Dendriel.
+Player: solitude
+Nomad: Talk to the hermit Eremo on the isle of Cormaya about this blessing.
+Player: heal
+Nomad: You aren't looking that bad. Keep your wits about you and walk it off! For additional protection, however, I could grant you an enhanced blessing and there is also the pilgrimage of ashes.
+Player: bye
+Nomad: Keep a stiff upper lip!
+Nomad: Nature's calling, hm?

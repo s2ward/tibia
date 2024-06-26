@@ -1,0 +1,51 @@
+Player: Hi  
+Garamond: Welcome, child. Have you come to learn about spells? Then you are in the right place.  
+Player: Spells  
+Garamond: Spells are very useful in combat - not only for mages, though of course we particularly rely on them for much of our damage output. ...  
+Garamond: There's a broad variety of what spells can do, as you will see as you progress further. The next spells you can buy with level 8 and on. ...  
+Garamond: Some attack spells can be directed at a single target while others affect an area, having an effect either over time or instantaneous. Even other spells protect you, or can be used to create runes. ...  
+Garamond: Each vocation has its own individual spells that none of the other vocations can use. You can only learn spells at a spell trainer of your vocation. ...  
+Garamond: The spells here on Dawnport are for trying out only, and you will forget them once you choose your definite vocation and leave for the Mainland. ...  
+Garamond: There, you can go to a spell teacher in a city to permanently learn a spell.  
+Player: Mainland  
+Garamond: The Mainland offers many more adventures, dangers and quests than this small isle, and also has spell teachers where you can permanently learn a spell for your vocation. ...  
+Garamond: Once you reach level 8 you may choose your definite vocation and leave for Main. Go to a city and seek out the spell trainer of your vocation to learn a spell. And make sure you have enough gold! ...  
+Garamond: The art of spell teaching is complex and dangerous, and we will only impart our valuable knowledge of a spell to a novice if they can pay the price.  
+Player: Name  
+Garamond: I am Garamond Starstream.  
+Player: Job  
+Garamond: Did you not listen? I am the teacher of druid and sorcerer spells for level 8 to 18. I teach young adventurers spells they can use once they have the proper vocation - druid or sorcerer.  
+Player: Rookgaard  
+Garamond: I have an old friend there, Seymour. Haven't heard from him in a while.  
+Player: Dawnport  
+Garamond: Oh, it's not too bad here, believe me. At least I always get young and enthusiast disciples! Though I must confess I miss the vastness of the Tibian plains. <sighs>  
+Player: Tibian  
+Garamond: Ah, the beauty of our world! It is vast and extraordinarily diverse. Strange islands, beautiful cities and fierce monsters that roam the wildernesses. Mysteries, adventures, danger around every corner. ...  
+Garamond: Once you have reached level 8, you are ready to choose a vocation and go to the Tibian Mainland.  
+Player: Vocation  
+Garamond: Your choice of vocation will determine your life in Tibia, and the skills and fighting techniques you may use. ...  
+Garamond: There are four vocation: knight, druid, paladin and sorcerer. If you want to know more about them, talk to Oressa in the temple. ...  
+Garamond: I myself teach try-out spells for both the magical classes, whereas Tybald in the next room specialises in knight and paladin spells.  
+Player: Oressa  
+Garamond: A very intelligent girl. Prefers to listen to wild animals' noises instead of humans', which is quite understandable when you think about it. ...  
+Garamond: However, she's also a very apt healer and can give you advice on your choice of vocation.  
+Player: Inigo  
+Garamond: A kind old hunter. He loves to see young life around, taking on the ways and lays of the land. If you have any question, ask Inigo for help.  
+Player: Coltrayne  
+Garamond: Roughened and toughened by life's tragedies. A good man, but somber.  
+Player: Garamond  
+Garamond: Yes, child. If you wish to learn a spell, tell me.  
+Player: Hamish  
+Garamond: A very headstrong young man, though I appreciate his devotion to the craft of potion-making. No respect for senior authority or age at all! Except maybe for a little soft spot for Mr Morris.  
+Player: Mr Morris  
+Garamond: A strange young man. He seems driven, to my mind. By what force, I do not know. I take it the world needs adventurers such as him.  
+Player: Plunderpurse  
+Garamond: Redeeming one's soul by becoming a clerk? Not very likely. Once a pirate, always a pirate. But he's a charming old rogue.  
+Player: Richard  
+Garamond: Not a half bad cook, truly. Must have been that squirrel diet, it seems to have lead him to discover a new cuisine - everything to forget the bad taste of squirrels, he said.  
+Player: Ser Tybald  
+Garamond: He is proficient in the martial arts. A very skilled teacher of spells for knights and paladins. If that is your vocation, you should talk to Ser Tybald.  
+Player: Wentworth  
+Garamond: Ah, yes. Travelled with Plunderpurse a lot as I recall. Captain Plunderpurse, then. Got his head full of numbers and statistics, that boy.  
+Player: Bye  
+Garamond: Take care, <player>.  

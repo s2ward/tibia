@@ -1,0 +1,44 @@
+Player: hi
+Xed: Greetings, Simula. Welcome to the distance fighting booth of the Ironhouse where you can buy bows, crossbows and ammunition.
+Player: name
+Xed: People call me Xed, but my full name is Xedem.
+Player: xed
+Xed: Yeah, nice name, eh?
+Player: job / fletcher
+Xed: I am the humble supplier for distance fighting weapons of the Ironhouse, owned by Abran Ironeye.
+Player: time
+Xed: I don't know, maybe what you really need is a watch.
+Player: help
+Xed: I sell items of the distance type.
+Player: buy
+Xed: My offers are bows, crossbows and ammunition. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Xed: Of course, just browse through my wares.
+Player: hurt
+Xed: Go to a priest. I am sure they will fix you up.
+Player: monster
+Xed: Yeah, these awful beasts. They live in the swamps near the city and in dark dungeons.
+Player: dungeon
+Xed: Oh, they are all over. You never see more of them than in Kaz, though.
+Player: kaz
+Xed: Oh, that's short for Kazordoon.
+Player: amazons
+Xed: They are a band or tribe of strange women that have nothing in common with civilized men like me.
+Player: general
+Xed: You must be talking of the great general Benjamin. He saved the kingdom from ferumbras you know.
+Player: army
+Xed: We supply the archers of the army with distance fighting weapons.
+Player: ferumbras
+Xed: I heard rumours somewhere that his father was called Hugo.
+Player: abran ironeye
+Xed: He is the owner of this market, although - just between you and me - I'm not so sure he's honest.
+Player: honest
+Xed: Well, I overheard the boss discussing some shady deals with a man in a black cloak.
+Player: shady deals
+Xed: Something about a sword only great warlords can use and a rare distance fighting item.
+Player: excalibug
+Xed: I think that was the sword they were talking about. Said something about a man in Edron that could get it for him.
+Player: rare distance fighting item
+Xed: Yes, but I believe this is nothing but lies seeing that there are only a few distance fighting weapons.
+Player: bye
+Xed: Goodbye Simula, and may the gods be with you.

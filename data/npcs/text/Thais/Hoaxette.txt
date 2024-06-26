@@ -1,0 +1,50 @@
+NPC: Hoaxette  
+Note: We can meet this NPC only during the month of April.  
+Player: hi / hello  
+Hoaxette: Hiddeliho my friend Player!  
+Player: buy / sell / stuff / offer / equipment / goods / ware  
+Hoaxette: I sell special spellwands, pillows and presents that have ... funny effects. Where would be the fun if I told everything you about it? Ask me for a trade!  
+Player: explo  
+Hoaxette: Hahaha! Did you like it?? I hope you weren't the victim and bear me a grudge. If you need something to play a prank on somebody, just let me know. I'm in town for the whole month.  
+Player: fart  
+Hoaxette: Oh, you own one of my super soft pillows, right? Or do you have flatulence? <giggles>  
+Player: flatulence  
+Hoaxette: I'm so sorry for you. Hahaha! You could buy a super soft pillow to take revenge on the people who make jokes about you!  
+Player: friend / job  
+Hoaxette: I'm here to enrich your life and to sell little trinkets of fun and joy. Just ask about my goods if you like to learn more.  
+Player: frog  
+Hoaxette: Oh, the spellwand turned YOU into a frog?? I'm really sorry....NOT!! Hahahaha! Sorry...<coughs>.....muahahaha!  
+Player: fun  
+Hoaxette: If it were up to me, the whole year would be prank time!  
+Player: joke  
+Hoaxette: I'm not specialised in telling jokes - I'm offering ITEMS that make people laugh. I can tell you something about my offers if you are interested.  
+Player: king  
+Hoaxette: I'd love to play a prank on the king if he showed up here. <giggles>  
+Player: mad sheep  
+Hoaxette: Really? That must have been a side effect that was not intended... a funny one though. <giggles>  
+Player: name  
+Hoaxette: I'm the lovely, inimitable, and hilarious Hoaxette. I'll stay here for the whole month before I leave this country again.  
+Player: news  
+Hoaxette: Best news is that I'm in town for the whole month!  
+Player: pillow  
+Hoaxette: I love this one. Just let someone step on it and...well...you'll see <giggles>. Ask me for a trade if you want to buy one!  
+Player: prank  
+Hoaxette: A prank in the morning and the day won't be boring <giggles>. I offer funny items for this purpose. Let me know if you are interested in my offers.  
+Player: present  
+Hoaxette: Don't open it by yourself! You won't be able to return it <giggles>. Ask me for a trade if you want to buy one!  
+Player: spellwand  
+Hoaxette: It casts minor magic spells on your target. Just try it and you'll see... <giggles> Ask me for a trade if you want to buy one!  
+Player: trade  
+Hoaxette: Have fun with all my ... funny stuff.  
+Player: bye  
+Hoaxette: See you, Player! Have fun playing pranks on your friends!  
+Special Dialogue 1:  
+Player: jester / doll  
+Hoaxette: Oh! <giggles> Have you found all six parts of a jester doll and would like me to assemble them?  
+Player: yes  
+Hoaxette: Are you trying to make a fool out of me? You don't have all six body parts!  
+Special Dialogue 2:  
+Player: jester / doll  
+Hoaxette: Oh! <giggles> Have you found all six parts of a jester doll and would like me to assemble them?  
+Player: no  
+Hoaxette: Well, admittedly, owning parts of a doll can be just as fun. Hehe!  

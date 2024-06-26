@@ -1,0 +1,46 @@
+Player: Hi Bezil / Hello Bezil  
+Bezil: Hiho, Bezil at your service, Player. We sell equipment of all kinds.  
+Player: equipment / goods / stuff  
+Bezil: As you can see, we offer quite a lot, such as torches, shovels and the like. Ask me for a trade to have a look.  
+Player: Name  
+Bezil: I'm Bezil Coinbiter. Me and my bro' Nezil are selling stuff, ye' know?  
+Player: Dwarf  
+Bezil: My people is as old and sturdy as the stone of the mountain we live in.  
+Player: Time  
+Bezil: I think it's about 6:10 am. If you bought a watch, you'd know for sure.  
+Player: Job  
+Bezil: We sell equipment of all kind. Is there anything you need?  
+Player: Nezil  
+Bezil: He's my bro'.  
+Player: Kazordoon  
+Bezil: Our city is well-fortified. In ancient days, the trail to Kazordoon was a well-kept secret and hardly any stranger found his way here ...  
+Bezil: Today, we welcome visitors, but we're still on guard and ready to defend our gates.  
+Player: Ab'dendriel  
+Bezil: I laughed so hard when I saw that so-called city. Imagine, they live in trees with all these squirrels around ...  
+Bezil: I couldn't stand it to be molested by this climbing and hopping pest that steals my lunch ...  
+Bezil: But I guess the squirrels are more patient with elves than I'd be.  
+Player: Thais  
+Bezil: I wouldn't feel comfortable to live so exposed and in the open, but like an old dwarfish saying goes: Every beard grows different.  
+Player: Carlin  
+Bezil: I still need to visit that town one day. I guess it's not much fun to visit a city that forbids to drink alcohol, though ...  
+Bezil: Thinking about it, I never heard of a dwarf travelling there.  
+Player: Venore  
+Bezil: You can't dig a hole without a Venorean showing up trying to exploit it.  
+Player: Beard  
+Bezil: Fake beards of any kind are quite fashionable nowadays. Almost every dwarven woman wears one in public ...  
+Bezil: Sadly we are out of stock right now  
+Player: Darama  
+Bezil: There is sand, and there is jungle. Either way, you lose.  
+Player: Mines  
+Bezil: The mines are a topic to which most dwarfs react quite sensitive. The miners are quite anxious to keep everyone away from the mines they claim for themselves ...  
+Bezil: It is not unusual that people get hurt or killed down there in the mines.  
+Player: Deposit  
+Bezil: I will give you 5 gold for every empty vial. Ok?  
+Player: Offer  
+Bezil: As you can see, we offer quite a lot, such as torches, shovels and the like. Ask me for a trade to have a look.  
+Player: Food  
+Bezil: You better visit the Jolly Axeman Tavern for that.  
+Player: trade  
+Bezil: Of course, just browse through our wares. By the way, there's a deposit of 5 gold on empty vials.  
+Player: Bye / Farewell  
+Bezil: Good bye, Player.  

@@ -1,0 +1,51 @@
+Player: hi  
+Lorietta: Hi there, Player! What do you need?  
+Player: name  
+Lorietta: My name is Lorietta. But why do you ask? I knew your name without asking. Guess how!  
+Player: need / job  
+Lorietta: I guess I'm the local priest! They said only a priest of Kurik would be crazy enough to try spreading the faith in this town. And I tell you what: They have been soooo right!  
+Player: priest  
+Lorietta: Oh, we heal people and ... and ... do other nice stuff. You know?!  
+Player: heal / help  
+Lorietta: You do not need any healing right now.  
+Player: Kurik  
+Lorietta: Kurik is the patron saint of jesters, fools, and inventors. This might sound strange, but do you know any inventor that isn't also a fool to some extent, and don't you think jesters are quite inventive?  
+Player: yalahar  
+Lorietta: In its golden age, this city must have been a joy for Kurik's eye. Even today you can still see some of its former glory here and there.  
+Player: yalahari  
+Lorietta: They must have been great inventors in the past. Nowadays not much of that is left. I guess they were foolish enough to let things slide.  
+Player: vampire  
+Lorietta: As long as I don't invite them into my temple I'll be fine.  
+Player: palimuth  
+Lorietta: He's a bit too boring for my taste.  
+Player: tibia  
+Lorietta: Tibia is quite big, isn't it?  
+Player: adventurer's stone  
+Lorietta: Keep your adventurer's stone well.  
+Player: blood crystal  
+Lorietta: Ehehehe! A blood crystal? You must be a fool looking for one. I like fools. Why don't you check the cultist hideout in the magician quarter?  
+Player: god  
+Lorietta: The gods created all.  
+Player: life  
+Lorietta: Life can be a cruel joke sometimes.  
+Player: people  
+Lorietta: People come, people go.  
+Player: ashes / blessing  
+Lorietta: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: blessings  
+Lorietta: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Lorietta: There are also two enhanced blessings for further reduction of experience loss.  
+Player: cookie  
+Lorietta: Oh, nonono, but thank you!  
+Player: excalibug  
+Lorietta: If I were a hero, I'd rather search for the screwdriver of Kurik.  
+Player: plant  
+Lorietta: My preferred plant is salad.  
+Player: monster  
+Lorietta: Hey! You are not a beauty yourself!  
+Player: news  
+Lorietta: I'm only interested in new jokes, but I haven't heard any lately.  
+Player: sacred places  
+Lorietta: Just ask in which of the five blessings you are interested in.  
+Player: farewell / bye  
+Lorietta: Bye bye, Player!  

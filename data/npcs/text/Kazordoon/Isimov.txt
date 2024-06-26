@@ -1,0 +1,113 @@
+Player: Hi  
+Isimov: Hiho Player and greetings kid! What brings you here?  
+Player: Here/Job  
+Isimov: I'm the master of the Hall of the Ancients.  
+Player: Hall of the Ancients  
+Isimov: The burial chamber of our ancestors. All firstborn of our race are there .. all but Durin.  
+Player: Durin  
+Isimov: Ah yes, the first born. He became a higher entity to protect us. His mortal remains were buried at a remote spot.  
+Player: Name  
+Isimov: My name is Isimov Dustbearer, son of Fire and Earth from the Molten Rock.  
+Player: Fire  
+Isimov: I can see you received the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: Earth  
+Isimov: Gives us food and shelter, quite useful isn't it?  
+Player: Kazordoon  
+Isimov: The last haven for dwarfs. Our last hope for survival.  
+Player: Etzel  
+Isimov: Etzel, good old Etzel. I was his teacher long time ago. Now he's running a guild ... they grow so fast ... so fast, jawoll.  
+Player: Tibia  
+Isimov: A world of dangers, a world of wonders.  
+Player: Time  
+Isimov: I think it's the fourth age of the yellow flame, isn't it?  
+Player: Quest  
+Isimov: You are too young for quests, jawoll.  
+Player: Adventurer stone  
+Isimov: Keep your adventurer's stone well.  
+Player: Gods  
+Isimov: The gods abandoned us, we abandoned the gods. That's it, no big deal I tell ya, jawoll.  
+Player: Ferumbras  
+Isimov: I've seen many of his type come and go. He will fall and somebody else will take his place.  
+Player: Emperor/Kruzak  
+Isimov: The emperor resides far above us in the upper caves. Sometimes I wonder if it's a good idea that the emperor is that far away from the temple.  
+Player: Life  
+Isimov: Life is easy to understand. First you are born, then you die. Simple stuff, even elves could grasp the concept.  
+Player: Army  
+Isimov: <sighs> A bunch of kids playing war. May the elements help us.  
+Player: Big old one  
+Isimov: This mountain is as old as the world. The first dwarfs were born here.  
+Player: Gold/Money  
+Isimov: Greed for gold can blind your vision for important things.  
+Player: Blessing  
+Isimov: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Player: Citizen  
+Isimov: You can become a citizen of Kazordoon through the power of our ancestors.  
+Player: Enhanced  
+Isimov: It is said that one enhanced blessing, the 'heart of the mountain', has been lost in the icy wastes of Svargrond. Find a nomad far to the west of these barren lands, hiding in the cold there, slightly above ground. ...  
+Isimov: It is also said that a mysterious djinn, bound to an existence of slavery, lies buried somewhere beneath the northern Tiquanda jungle. I cannot confirm whether this tale is true but if you find him, you shall also find the 'blood of the mountain'.  
+Player: Equipment  
+Isimov: Go and buy some.  
+Player: Fight  
+Isimov: The life of a dwarf is an eternal struggle. It hardens us and makes us the fine race we are, jawoll.  
+Player: Geomancer  
+Isimov: They worship the elemental forces of the earth.  
+Player: Technomancer  
+Isimov: Are they still around? Well, give them one or two hundred years and they'll be gone, jawoll.  
+Player: Healing/Healt  
+Isimov: You do not need any healing right now.  
+Player: Gregor  
+Isimov: Never heard that word. What's a gregor?  
+Player: Jimbin  
+Isimov: Isn't that the kid that took over the Jolly Axeman tavern? Far too young for such a job, but did anyone ask me? No!  
+Player: Maryza  
+Isimov: How could she marry this Jimbin? I mean, they are kids! Know nothing about life and stuff. Couldn't they wait for at least a hundred years or so?  
+Player: Nezil/Bezil  
+Isimov: Bezil and Nezil are typical profiteers, they belong to a fine new breed of dwarfs we've raised, pah.  
+Player: Kroox  
+Isimov: What a hasty fellow! Can't be healthy to live in such a hurry, jawoll.  
+Player: Uzgod  
+Isimov: He has almost no beard, and he has already forgotten the traditions of his ancestors. Modern techniques... almost like one of these technomancers.  
+Player: Duria  
+Isimov: Could become a great warrior one day. Still needs to learn so much.  
+Player: Poem  
+Isimov: I'm not sure if I should tell you. After all, you are a human, and not a dwarf. Hmm, probably not. Sorry.  
+Player: Humans  
+Isimov: A young and greedy race, but somewhat noble. Sometimes, they remind me of orcs.  
+Player: Plant  
+Isimov: Don't know much about this stuff. Find them in my soup sometimes.  
+Player: Minotaurs  
+Isimov: They leave us alone, and we leave them alone.  
+Player: Monsters  
+Isimov: Only another nuisance.  
+Player: Motos  
+Isimov: I must admit there have been worse generals in the years before, jawoll.  
+Player: News  
+Isimov: I don't know anything new.  
+Player: Orcs  
+Isimov: The greenskins are after everybody. Beware!  
+Player: Pyromancer  
+Isimov: They worship the elemental forces of fire.  
+Player: Sacred places  
+Isimov: Just ask in which of the five blessings you are interested in.  
+Player: Stake  
+Isimov: You already received my line of the prayer.  
+Player: Twist  
+Isimov: The twist of fate will not reduce the death penalty like the other blessings, but instead prevent you from losing your other blessings as well as the amulet of loss, should you wear one. It costs the same as the other blessings. ...  
+Isimov: Would you like to receive that protection for a sacrifice of 50000 gold, child?  
+Player: Twist of fate  
+Isimov: This is a special blessing I can bestow upon you once you have obtained at least one of the other blessings and which functions a bit differently. ...  
+Isimov: It only works when you're killed by other adventurers, which means that at least forty percent of the damage leading to your death was caused by others, not by monsters or the environment. ...  
+Player: Spirtual  
+Isimov: I see you received the spiritual shielding in the whiteflower temple south of Thais.  
+Player: Phoenix  
+Isimov: I can sense that the spark of the phoenix already was given to you by the dwarven priests of earth and fire in Kazordoon.  
+Player: Embrace  
+Isimov: I can sense that the druids north of Carlin have provided you with the Embrace of Tibia.  
+Player: Suns  
+Isimov: I can see you received the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: Solitude  
+Isimov: I can sense you already talked to the hermit Eremo on the isle of Cormaya and received this blessing.  
+Player: Excalibug  
+Isimov: Ahhh! When I was a little dwarf, I was on a quest to find it. I was digging up the complete ghostlands and now one thing is sure: It must be somewhere else, jawoll.  
+Player: Bye/Farewell  
+Isimov: Take care, Player!  

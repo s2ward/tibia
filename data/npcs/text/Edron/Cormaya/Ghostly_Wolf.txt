@@ -1,0 +1,16 @@
+Player: hi
+Ghostly Wolf: You are speaking the language of animals? I'm surprised. But I'm not in the right mood for a chat.
+Player: name
+Ghostly Wolf: My name is long forgotten.
+Player: job
+Ghostly Wolf: I'm a wolf ... or I was one. Now I'm a ghost, haunting this place because I can't find peace.
+Player: time
+Ghostly Wolf: Time is not important, neither to wolves nor to ghosts.
+Player: mood
+Ghostly Wolf: I'm heartbroken. My puppies were taken from me ... But as I said, I don't want to talk right now. Please leave me alone.
+Player: news / rumours / rumors
+Ghostly Wolf: Some strange creatures appeared around here recently. They look like animals but they are something different.
+Player: whelp / mission / quest / task
+Ghostly Wolf: I guess I will stick around for a time to watch over the grave. After this final watch I will find peace, I can feel this. Thank you, human being. You redeemed me.
+Player: bye
+Ghostly Wolf: Farewell.

@@ -1,0 +1,40 @@
+Player: hi
+James: Hi there Player. You need food?
+Player: how are you
+James: Fine, thanks.
+Player: name
+James: James.
+Player: job
+James: I am a humble farmer.
+Player: time
+James: I am too poor to afford a watch.
+Player: help
+James: Sorry, can't offer you any help.
+Player: monster
+James: There are dangerous monsters and renegade knights in the northwest behind the river and the mountain.
+Player: dungeon
+James: I stay away from dungeons as far as I can.
+Player: tibia
+James: If I were you, I would stay here.
+Player: thais / edron
+James: I was born in Thais, but my family moved to Edron among the first settlers.
+Player: king
+James: I never saw him in person.
+Player: god
+James: May Crunor bless our harvests.
+Player: daniel steelsoul
+James: A brave warrior as far as a farmer like me can tell.
+Player: avar tar
+James: He scares me a little.
+Player: academy
+James: The mages and druids have quite an appetite. They buy much from me and summon even more food.
+Player: magic / weapon / spell
+James: I am nothing but a humble farmer and know nothing about that.
+Player: food / offer / buy
+James: I can offer you bread, cheese, ham, meat and apples. If you'd like to see my offers, ask me for a trade.
+Player: sell
+James: I sell some food.
+Player: trade
+James: Of course, my food is of the finest quality.
+Player: bye
+James: Bye.

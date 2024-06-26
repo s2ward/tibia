@@ -1,0 +1,58 @@
+NPC: Marcus  
+Player: hi / hello  
+Marcus: Ahoi. What is your business in the harbour?  
+Player: carlin  
+Marcus: A horrible town for a sailor. Imagine a town without alcohol, ruled by women! I guess if you are a pirate or some other dog, your afterlife starts in Carlin.  
+Player: chondur  
+Marcus: He is just some old man about which the townspeople are talking now and then. Who cares.  
+Player: cult  
+Marcus: People believe every nonsense. It is no surprise that there is some cult around here.  
+Player: eleonore  
+Marcus: The governor's little princess, eh? Too fine and important to care about us ordinary people of course. Why should we care about her?  
+Player: excalibug  
+Marcus: I swear I have seen it in the bay just outside of Liberty Bay, deep in the ocean. I was ... uhm catching some fresh air after a night of rum and card games. I looked over the railing into the sea and suddenly I saw that sword in a heap of gold and jewels.  
+Player: Explorer Society  
+Marcus: What a bunch of rich and ignorant fools. They have nothing better to do than their oh so important explorations whereas normal people like me have to actually work to earn their living.  
+Player: ferumbras  
+Marcus: Although he's dead, they say that he is the father of all klabautermen.  
+Player: governor  
+Marcus: The governor does his job I guess.  
+Player: harbour / job  
+Marcus: I keep an eye on the cargo here in the harbour.  
+Player: here / Liberty Bay  
+Marcus: If people would mind their own business, the city could be a better place.  
+Player: Isolde  
+Marcus: You know, the spooky thing about her is that just before her arrival, a ship sunk whose figurehead was Isolde's dead-ringer.  
+Player: king  
+Marcus: The king lives far away and appears like a fairy tale over here.  
+Player: klabauter  
+Marcus: A klabauterman is some sort of imp that lives on ships and plays quite evil and sometimes lethal pranks on those who annoy him or don't buy his sympathy with little gifts.  
+Player: Loveless / Theodore  
+Marcus: A typical Venorean - rich and stiff. You never know what those moneybags are up to.  
+Player: natives  
+Marcus: Natives, eh? Well, I live here long enough to consider myself as a native. So mind your words.  
+Player: pirate  
+Marcus: <spits on the floor> I killed my share of pirates in my youth. Dogs that give sailors a bad name. Nothing more than bandits.  
+Player: plantations  
+Marcus: There are numerous plantations outside the town. You can't miss them.  
+Player: quara  
+Marcus: The quara are one of the most murderous threats that the sea gave birth too. I would rather face a giant sea serpent than a horde of quara ...  
+Marcus: In the case of a sea serpent you know at least that you'll end up devoured, but who knows what the quara will do to you.  
+Player: Raymond Striker  
+Marcus: Just another lousy pirate, although a quite daring and successful one.  
+Player: rum  
+Marcus: We have to guard the rum especially carefully. I can't count anymore the numerous times that someone tried to steal rum from us.  
+Player: sugar  
+Marcus: Of course sugar is what we hoard most.  
+Player: thais  
+Marcus: Go away with that Thais. I've been there and I've seen it. Not impressive at all.  
+Player: Tristan  
+Marcus: I don't know him well. He's some knight up in the bastion in the mountains.  
+Player: venore  
+Marcus: They build fine ships in this town. That's the best I can say about it. If you do not have enough money, you are nothing in Venore.  
+Player: voodoo  
+Marcus: Hah! What they call voodoo here is nothing compared to the things I have seen on my journeys when I was still young. I could tell you stories that would turn your hair grey ... but I am not in the mood of storytelling right now.  
+Player: Wyrmslicer  
+Marcus: He knows the seas quite well. I think he could do better than to waste his time in some fort. He could sail the seas as a captain. To forfeit such a chance ... just imagine.  
+Player: bye / farewell  
+Marcus: Bye.  

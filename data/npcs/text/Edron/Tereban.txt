@@ -1,0 +1,63 @@
+Player: hi  
+Tereban: Greetings, friend. Good you are showing up.  
+Player: showing up / job  
+Tereban: My family owns some land here as well as two ships. I have overseers for that though. This allows me to spend my time reading and dabbling in poetry. ...  
+Tereban: But considering the circumstances right now, I'm just a troubled father with a mission too hard to accomplish for me.  
+Player: father  
+Tereban: My sons are quite independent. Even though I had preferred that they stayed at home longer, they decided to leave to make their careers in the great guilds. ...  
+Tereban: It was probably only for their best to start their training at an early age, but I miss them badly. I am sure they will become something great in their vocations, but I have always been proud of them anyway.  
+Player: mission  
+Tereban: Thank you for your help!  
+Player: poetry  
+Tereban: I'm not good enough to find a publisher but it is still fun to write poems for myself.  
+Player: poems  
+Tereban: I like to keep my poems private.  
+Player: name  
+Tereban: My name is Tereban.  
+Player: city  
+Tereban: I am a bit reclusive and not much of a socializer. I appreciate the availability of goods and services though.  
+Player: son  
+Tereban: My sons are quite independent. Even though I had preferred that they stayed at home longer, they decided to leave to make their careers in the great guilds. ...  
+Tereban: It was probably only for their best to start their training at an early age, but I miss them badly. I am sure they will become something great in their vocations, but I have always been proud of them anyway.  
+Player: druid  
+Tereban: My son Vestus trains to become a druid. He has a kind heart and great love for animals and nature, so it's probably just .. uhm natural for him to become one. ...  
+Tereban: He was always somewhat of a loner but as far as I heard he found quite a lot of like-minded friends among the other students and is quite happy.  
+Player: sorcerer  
+Tereban: Melvin has always been as curious as his mother. He shared her and my love for books but did neither like travels nor poetry. ...  
+Tereban: He is so analytic and inquisitive. I have to admit there are times I cannot follow what he is talking about. He will become a great sorcerer.  
+Player: paladin  
+Tereban: Yelloran loved hunting already as a kid. He had a keen eye and quickly discarded what he called 'kid bows' to try out the real ones. ...  
+Tereban: His first bow was almost twice as big as him and he hardly had the strength to pull its string at first. But that changed soon enough and now I hear he is one of the best marksmen in his class.  
+Player: knight  
+Tereban: My son Tereman has always loved stories about brave knights rescuing beautiful princesses. Of all my sons he is probably the bravest, so it suits him well to become a knight. ...  
+Tereban: He has always been so dedicated to become a great knight one day, I sometimes had to stop him so he would get some needed rest.  
+Player: sinew  
+Tereban: Your bravery earned us this excellent sinew.  
+Player: wood  
+Tereban: The wood you have found is just what we needed  
+Player: cloth  
+Tereban: Thanks to your efforts we have a suitable piece of spectral cloth.  
+Player: silk  
+Tereban: The silk you have brought me is exquisite indeed.  
+Player: crystal  
+Tereban: The crystal you have found is absolutely flawless. You did a great job indeed.  
+Player: root  
+Tereban: It is even recognisable for me that the root you gave me is filled with magic.  
+Player: iron  
+Tereban: The iron that you've found will make an ideal base for a shield.  
+Player: scale  
+Tereban: Only someone as daring as you could slay the beast to get the necessary scales.  
+Player: cloak  
+Tereban: I already told you everything I know.  
+Player: craftsmen  
+Tereban: I hired the finest craftsmen available to create the birthday presents for my sons.  
+Player: birthday  
+Tereban: It will be a great party with my sons, all their friends, and relatives that we haven't seen here for several years.  
+Player: party  
+Tereban: I arranged the meal, some music, fireworks, and even jesters and acrobats. It will be a party people will still talk about in years.  
+Player: feather / maiden  
+Tereban: I already told you everything I know.  
+Player: wife  
+Tereban: My wife was a high-ranking member of the Explorer Society. Some years ago her ship was lost in a storm. I still haven't given up to hope for her return, even though I know it is not rational.  
+Player: bye  
+Tereban: Farewell.  

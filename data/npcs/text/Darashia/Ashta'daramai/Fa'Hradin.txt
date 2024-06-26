@@ -1,0 +1,83 @@
+Player: hi
+Fa'hradin: Aaaah... what have we here. A human - interesting. And such an ugly specimen, too... All right, human Simula. How can I help you?
+Player: name
+Fa'hradin: I am known as Fa'hradin.
+Player: fa'hradin
+Fa'hradin: Yes, that is me. It seems you have heard my name before.
+Player: job
+Fa'hradin: Well, you could say I am the wizard of the Marid. Of course, I know that all djinn are magical creatures. But let us put it this way: I am slightly better at wielding magic than your average djinn in the street.
+Player: mission / report / spy / work
+Fa'hradin: Did you already talk to Gabel about the report? I think he will have further instructions for you.
+Player: djinn
+Fa'hradin: Our race is in a deplorable state at the moment. However, it is interesting from a scientific point of view. I am really curious to see if the Efreet and the Marid are really going to develop into two completely different species...
+Player: efreet
+Fa'hradin: I have not be been able to figure out exactly why the Efreet have developed a different skin colour. ...
+Fa'hradin: This poses an interesting scientific problem, you know. Perhaps it is a magical effect, but I have a feeling that there are other forces at work here.
+Player: marid
+Fa'hradin: That is what we call ourselves. We like to think of ourselves as the true inheritors of the djinn legacy.
+Player: human
+Fa'hradin: You are a curious species: Weak, yet strong. Stupid, yet clever. Evil, yet good. Fascinating, really. ...
+Fa'hradin: For thousands of years we regarded the northern continent as barbaric and wild. ...
+Fa'hradin: And all of sudden there are roads and pastures and mighty cities. The problem with us djinn is that we always underestimate other species, especially humans.
+Player: scarab
+Fa'hradin: An interesting species. Oh, they are as thick as two short planks, of course, but there is definitely something magic about them. ...
+Fa'hradin: I have not carried out many studies, however, because dissecting scarabs is a real hassle.
+Player: gabel
+Fa'hradin: He is our leader. He does have his mistakes, but then he always tries to do what he thinks is right, and I suppose that makes him a good leader.
+Player: malor
+Fa'hradin: That treacherous snake has been waiting for a chance to seize power for as long as I can remember. He and Gabel used to be as close as brothers, you know.
+Player: zathroth
+Fa'hradin: He created our race, but we find it hard to love him. Sometimes I think that whole war has erupted because there is something like a design flaw in us djinns, an inconsistency in the way we are. ...
+Fa'hradin: I have never been able to put my finger on it, but it keeps me wondering...
+Player: daraman
+Fa'hradin: I have met him myself. He was a sharp thinker and a charismatic conversationalist. ...
+Fa'hradin: I suppose he never managed to convince me quite as thoroughly as he managed to convince Gabel, but I came to admire his amazing personal integrity. ...
+Fa'hradin: In the end I chose to follow his creed because I felt that we djinn lacked something, and I thought that perhaps Daraman had an answer.
+Player: melchior
+Fa'hradin: Ah. I remember him. A trader, was he not? I haven't seen him for a long time.
+Player: alesar
+Fa'hradin: That name brings up bad memories. I never really liked him, but you just had to admire his skills at the forge. His desertion was a great loss for our cause.
+Player: baa'leal
+Fa'hradin: Oh, you just have to love that djinn. We have met on the battlefield on half a dozen occasions, and he lost each single one of these battles. ...
+Fa'hradin: To be sure, he is a great warrior, but he is also lousy general and a complete dunce. As long as he is Malor's commander-in-chief I think we're safe.
+Player: rata'mari
+Fa'hradin: Ah yes. Have you seen him? One of my best works so far. Nobody will ever suspect he is in fact a transformed djinn. The only problem is I'm much better with transforming people into other forms than with transforming them back. Poor fellow.
+Player: mal'ouquah
+Fa'hradin: Mal'ouquah is Malor's fortress which lies to the south. Of course you cannot enter it through the front door. But there's also an unguarded back door in the north-west corner of the fortress...
+Player: ashta'daramai
+Fa'hradin: That is what this place is called. It is not difficult to guess that that name was not my idea.
+Player: kha'zeel
+Fa'hradin: None of the mountains here has developed naturally. The whole range has been raised by using powerful magic, and a lot of this magic lingers to this very day. A great place to be a wizard, but a dangerous place to travel.
+Player: kha'labal
+Fa'hradin: The Kha'labal used to be a paradise. I remember it well. The fact that it is a barren desert today might give you an idea of the things that happened during the war.
+Player: edron
+Fa'hradin: I am not much of a traveller, but I would like to see the northern cities everybody is talking about. Perhaps one day I will do that. Oh, I will use some kind of magical disguise, of course.
+Player: darashia
+Fa'hradin: Darashia is comparatively young. The local ruler managed to establish his own little caliphate thanks to the riches he accumulated. ...
+Fa'hradin: As long as he continues to control the eastern trade routes Darashia will continue to flourish.
+Player: ankrahmun
+Fa'hradin: That is one of the oldest human settlements in the whole of Tibia. I understand it is currently ruled by the pharaoh - some sort of undead priest-king. I am sure that must be a charming fellow.
+Player: tibia
+Fa'hradin: Eons ago when I was still young I felt the world was a place of wonder and joy. Now all I see is a badly working system full of design flaws. ...
+Fa'hradin: Must have been the first world the gods have created. Who knows? Perhaps they have learnt from their mistakes, and they are creating a better world somewhere else?
+Player: pharaoh
+Fa'hradin: Apparently the whole issue of dying in order to extend the natural life span was his idea. Those humans. You never know what they come up with next!
+Player: palace
+Fa'hradin: The pharaoh's palace in Ankrahmun is an impressive building. At least that is how I remember it to be. ...
+Fa'hradin: I suppose it is a little less cheerful these days, with all that undead riff-raff roaming its halls.
+Player: ascension
+Fa'hradin: A fundamental part of the pharaoh's cult. I have not studied it in any detail, though.
+Player: akh / rah / uthun
+Fa'hradin: Another cornerstone of the undead pharaoh's theological theories. I do not know much more about it, I'm afraid.
+0:37 Player: king
+Fa'hradin: Djinns do not have kings. Gabel has long abdicated the title because of his convictions, and Malor... Well, I suppose he would not refuse to take the crown, but I doubt he will ever get a chance to do so.
+Player: war
+Fa'hradin: For a long time it seemed that the war was over for good. But now that Malor is free again he will surely kindle the flame of war again. ...
+Fa'hradin: Damn that foolish orc. If I manage to get hold of him he will be turned into something much worse than a slime.
+Player: lamp
+Fa'hradin: Ah yes. We djinn sleep in lamps. We have a natural ability to dematerialise, you see.
+Player: fa'hradin lamp
+Fa'hradin: I hate to flatter myself, but that lamp was a masterpiece. Malor would have been imprisoned in it for the rest of his miserable life if it had not been for that nincompoop who calls himself an orc king. That foolish troglodyte!
+Player: bye
+Fa'hradin: Farewell, human. I will always remember you. Unless I forget you, of course.
+Fa'hradin: Farewell, human.

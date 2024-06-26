@@ -1,0 +1,26 @@
+NPC: Malech  
+Player: blockade  
+Malech: This is one of our defensive positions that we maintain to disrupt enemy movement, resupply our troops and have an eye on other problems.  
+Player: emperor  
+Malech: The emperor is hard-pressed and has to take tough decisions each day. It is certainly not fun to be the emperor in these days.  
+Player: enemy  
+Malech: The greatest threat in the tunnels are the patrols of the Lost. ...  
+Malech: The renegades don't have much manpower and resources to threaten Kazordoon again any time soon, but on the other hand this makes them quite dangerous for our patrols and outposts, as they are desperate for loot. ...  
+Malech: Then there are the beasts of the depths. They can usually be found in certain pockets that they claim as their territory. ...  
+Malech: And don't forget about the old drilling rotworms that have become feral again and have given birth to new generations of rotworms already.  
+Player: fight  
+Malech: The renegades lack the strength, number and organisation to do anything but harass our troops and hinder the retaking of the mines. They desperately try to get some secret weapon to capture Kazordoon somehow. ...  
+Malech: Without the manpower for an all-out assault, they are looking for other means of conquest. Another mushroom blight might be just what they need to weaken our protection. But they are certainly investigating other means. ...  
+Malech: They would probably ally themselves with the Lost if the latter could be reasoned with. I guess even the renegades are smart enough to see what becomes of those who become thralls of the vile masters of the Lost. ...  
+Malech: The ones that we capture are often drunk but starved, and still insist their buddy will avenge them with some kind of secret weapon.  
+Player: lost  
+Malech: Well, they look like dwarfs, but they fight like insane demons. Word is, they come from the depths of earth. They are a clan that dug so deep, that the heat has driven them mad.  
+Player: name  
+Malech: The name is Malech Ironhead, son of earth, from the Dragon Eaters.  
+Player: problems  
+Malech: Our greatest fear, that the dreaded basilisk has found a way from his caves, might have come true. There are rumours about strange eggs that can be found in the caves. ...  
+Malech: I really doubt that they are basilisk eggs, but the rumour persists. If you come across some strange egg at some remote place, better be safe than sorry, and destroy it.  
+Player: renegades  
+Malech: They are the remnants of a rebellion against our emperor. I'm not a storyteller, ask someone else about the whole stuff. I'm here to fight them and not to talk about them, jawoll.  
+Player: secret weapon  
+Malech: I don't give anything about the illusions of drunk cowards.  

@@ -1,0 +1,99 @@
+Player: hi / hello / ashari  
+Maealil: Ashari, Player.  
+Player: abdaisim  
+Maealil: They should join our town for their and our own safety.  
+Player: adventurer stone  
+Maealil: Keep your adventurer's stone well.  
+Player: ashes / pilgrimage  
+Maealil: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: blessing  
+Maealil: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Maealil: There are also two enhanced blessings for further reduction of experience loss.  
+Player: cenath  
+Maealil: My parents were Deraisim but joined the Cenath caste before my birth.  
+Player: citizen / home / inhabitant / member  
+Maealil: To become a child of light and darkness you have to pass the labyrinth. Enter the Teleporter in the middle and you are one of us.  
+Player: conjure arrow  
+Maealil: I recommend Irea for everything that has to do with ammunition.  
+Player: crunor  
+Maealil: The great tree is the beginning for all things living and Priyla helps us to understand that.  
+Player: cure poison  
+Maealil: Do you want to buy the spell 'Cure Poison' for 150 gold?  
+Player: deraisim  
+Maealil: Unfortunately they are to busy to care for the finer things in life.  
+Player: destroy field  
+Maealil: Eroth is good at fields, shields and other illusion spells.  
+Player: druid  
+Maealil: Druids are great healers.  
+Player: dwarfs  
+Maealil: They cultivate earth but don't understand it.  
+Player: elves  
+Maealil: We are an ancient race, abandoned by the gods and doomed to find our way alone.  
+Player: embrace  
+Maealil: I can sense that the druids north of Carlin have provided you with the Embrace of Tibia.  
+Player: enhanced  
+Maealil: It is said that one enhanced blessing, the 'heart of the mountain', has been lost in the icy wastes of Svargrond. Find a nomad far to the west of these barren lands, hiding in the cold there, slightly above ground. ...  
+Maealil: It is also said that a mysterious djinn, bound to an existence of slavery, lies buried somewhere beneath the northern Tiquanda jungle. I cannot confirm whether this tale is true but if you find him, you shall also find the 'blood of the mountain'.  
+Player: excalibug  
+Maealil: Is that a new kind of bug the Deraisim found?  
+Player: ferumbras  
+Maealil: Only another servant of evil.  
+Player: find person / light  
+Maealil: Go find Faluae for this kind of easy support magic.  
+Player: fire / suns  
+Maealil: I can see you received the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: heal  
+Maealil: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection you should go on the pilgrimage of ashes or get the protection of the twist of fate here.  
+Player: help  
+Maealil: You do not need any healing right now.  
+Player: humans  
+Maealil: They are somewhat orcish in their nature.  
+Player: intense healing  
+Maealil: Do you want to buy the spell 'Intense Healing' for 350 gold?  
+Player: job / traveller  
+Maealil: I am a mystic.  
+Player: kuridai  
+Maealil: I hope they don't do something foolish one day.  
+Player: labyrinth  
+Maealil: You can find it within the city walls in the south west. The bushes there grow very fast, so maybe you need a machete to make your way.  
+Player: level  
+Maealil: Just ask me for spells, that's the fastest way to find out which spells I have.  
+Player: light healing  
+Maealil: Do you want to have the spell 'Light Healing' for free?  
+Player: magic  
+Maealil: I can heal you or even teach you some spells of healing.  
+Player: mystic  
+Maealil: I am a philosopher and healer. I also teach spells.  
+Player: name  
+Maealil: I am known as Maealil.  
+Player: news  
+Maealil: I don't know anything of importance.  
+Player: priyla  
+Maealil: The daughter of the stars gives us knowledge and teaches us magic.  
+Player: sacred places  
+Maealil: Just ask in which of the five blessings you are interested in.  
+Player: sorcerer  
+Maealil: They understand so little...  
+Player: spark / phoenix  
+Maealil: I can sense that the spark of the phoenix already was given to you by the dwarven priests of earth and fire in Kazordoon.  
+Player: spell  
+Maealil: I teach the spells 'Light Healing', 'Cure Poison' and 'Intense Healing'.  
+Player: spiritual / shielding  
+Maealil: I see you received the spiritual shielding in the whiteflower temple south of Thais.  
+Player: stake / prayer  
+Maealil: You already received my line of the prayer.  
+Player: teshial / dream  
+Maealil: I would love to learn more about the Teshial.  
+Player: time  
+Maealil: I don't own one of those little machines.  
+Player: troll  
+Maealil: I don't think it's a good idea to keep servants.  
+Player: twist / fate  
+Maealil: This is a special blessing I can bestow upon you once you have obtained at least one of the other blessings and which functions a bit differently. ...  
+Maealil: It only works when you're killed by other adventurers, which means that at least forty percent of the damage leading to your death was caused by others, not by monsters or the environment. ...  
+Maealil: The twist of fate will not reduce the death penalty like the other blessings, but instead prevent you from losing your other blessings as well as the amulet of loss, should you wear one. It costs the same as the other blessings. ...  
+Maealil: Would you like to receive that protection for a sacrifice of 50000 gold, child?  
+Player: wisdom / solitude  
+Maealil: I can sense you already talked to the hermit Eremo on the isle of Cormaya and received this blessing.  
+Player: bye / farewell / asha thrazi  
+Maealil: Asha Thrazi, traveller.  

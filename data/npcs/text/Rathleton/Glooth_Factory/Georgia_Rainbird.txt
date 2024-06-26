@@ -1,0 +1,50 @@
+Georgia Rainbird: Is there someone?
+Georgia Rainbird: Where have I put my wrench?
+Georgia Rainbird: I can hear your steps!
+Player: hi
+Georgia Rainbird: Greetings. You don't have to shout, my ears are very good! Besides I'm quite busy, as you may see.
+Player: name
+Georgia Rainbird: I'm Georgia Rainbird.
+Player: time
+Georgia Rainbird: It's exactly 7:29 am.
+Player: job / busy
+Georgia Rainbird: I'm a scientist. I took great pains to build up this laboratory. Researching the glooth, its characteristics and risks is my self-imposed life task. ...
+Georgia Rainbird: I do my researches even at the expense of my health.
+Player: glooth
+Georgia Rainbird: This is a slimy substance which is produced by the glooth worms. It was a driving force for the progress in Rathleton. A substance that has great potential but also carries some risks.
+Player: risks
+Georgia Rainbird: Yes, in these caves it seems to change in a strange way. This mutation has negative side effects and must be stopped. Unfortunately I'm blind and can't fulfil some tasks any more. I need your eyes. Would you help me?
+Player: blind
+Georgia Rainbird: Yes, I lost my eyesight due to a failed experiment. Something went terribly wrong and half of my laboratory equipment exploded in an acidic plume. Thereafter everything was dark. The risks of the glooth, you know.
+Player: yes
+Player: yes
+Georgia Rainbird: Splendid! So listen: I think I found a way to eliminate the mutated glooth by converting it back into its primal state. I have constructed a special device, a glooth converter - or at least, I was about to do so. ...
+Georgia Rainbird: Then I lost my eyesight and wasn't able to finish my work. There are still some missing components. If you could obtain them, we might complete the converter. ...
+Georgia Rainbird: Here, I give you the unfinished device, so you can mount the missing parts. Do you know what you need for the repair?
+Player: components
+Georgia Rainbird: You need five special gear wheels I haven't in stock here in the laboratory. Furthermore the converter requires a glass tube, a valve and a specially calibrated indicator gauge.
+Player: gear wheels
+Georgia Rainbird: They must have the appropriate size and toothing. I assume the rustheap golems out there in the caves are constructed with some of these gears. Perhaps also the glooth golems and metal gargoyles have some.
+Player: glass tube
+Georgia Rainbird: My former laboratory assistant Elbert has an appropriate tube. You might find him at one of the glooth pumping stations. ...
+Georgia Rainbird: He is very engaged in maintaining these stations now, so unfortunately he can't assist me any more.
+Player: valve
+Georgia Rainbird: You might find a fitting valve in the caves down here. Perhaps you can demount one from a pipe or glooth tube out there.
+Player: gauge
+Georgia Rainbird: It has to be a special indicator gauge. Elbert had already calibrated several gauges, but they were stolen by a gang of bandits. These impertinent thieves must have hidden them in their camp. ...
+Georgia Rainbird: If you find the camp, you surely will find at least one of these gauges.
+Player: risks / glooth
+Georgia Rainbird: Yet, the mutated glooth hasn't been converted back to its primal state. I'm really happy about your backing. Are things going well?
+Player: yes
+Georgia Rainbird: Great. You and me, we will save Rathleton without them even knowing it up there!
+Player: no
+Georgia Rainbird: Oh dear! What's the problem?
+Player: problem
+Georgia Rainbird: To complete the converter you need five special gear wheels I haven't in stock here in the laboratory. Furthermore the converter requires a glass tube, a valve and a specially calibrated indicator gauge.
+Player: mushroom
+Georgia Rainbird: There is a red mushroom that strangely resists all changes and detriments the mutated glooth causes in living beings. ...
+Georgia Rainbird: Find one of these mushrooms and use the alchemical devices here in my laboratory to obtain a distillate of this mushroom.
+Player: statues
+Georgia Rainbird: I'm sorry, I know nothing about any statues.
+Player: bye
+Georgia Rainbird: Farewell.

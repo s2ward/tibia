@@ -1,0 +1,4 @@
+Player: hi
+Cobra: Begone! Hissssss! You bear not the mark of the cobra!
+Player: hi (marked)
+Cobra: Venture the path of decay!

@@ -1,0 +1,63 @@
+Player: hi
+Dream Butterfly: Hello, stranger, stranger, stranger...
+Player: name
+Dream Butterfly: A dream we are, all are, dear dream; dear, dream.
+Player: job
+Dream Butterfly: Dancing the end to the beginning to the end, endless ending beginning again.
+Player: help
+Dream Butterfly: Oh, many things, many, many! Bad dreams to soothe, broken dreams to mend, or cleanse the land from horrors and fears. Choose, choose!
+Player: mission
+Dream Butterfly: It melted, wilted, was lost, lost, lost? Let's whirl and purl and weave another dream sand sieve... Here it is. You may leave!
+Dream Butterfly: But you have one to sift sand, friend. So don't delay, go now, go away!
+Player: soothe
+Dream Butterfly: Did you not find what you seek? Use the pan! The dream sand, the sand, is in the waters, the waters of the mountain river, quiver, shiver ...
+Dream Butterfly: The blossoms like fine water spray, they live alone near a water or bay, and a strange thing, an eerie song they sing!
+Player: blossoms
+Dream Butterfly: Listen! The blossoms like fine water spray, they live alone near a water or bay, and a strange thing, an eerie song they sing! 
+Player: pan
+Dream Butterfly: It's too exhausting for us to purl another dream sand pan this fast, this fast. Only later, a little later.
+Player: fear
+Dream Butterfly: You killed many fierce a fear, my dear. Want to face it again, again?
+Player: no
+Dream Butterfly: For shame, for shame, so lame, so lame. You are to blame!
+Player: fear
+Dream Butterfly: You killed many fierce a fear, my dear. Want to face it again, again?
+Player: any word
+Dream Butterfly: Mumble, bumble... Say it clear so we may hear!
+Player: again
+Dream Butterfly: Yes, the land must breathe again, be easy again! Go now, go kill at will many a fear, my dear!
+Player: no
+Dream Butterfly: For shame, for shame, so lame, so lame. You are to blame!
+Player: yes
+Dream Butterfly: Ah, ah! The land can breathe easier. See their essence now restored - take it from us as reward, build a hoard, never grow bored!
+Player: fears
+Dream Butterfly: You killed many a fear, dear, many a fear. Rest now, don't be queasy, be easy.
+Player: mend
+Dream Butterfly: Ah, my friend, you want to mend broken dreams again, again?
+Player: yes
+Dream Butterfly: Mend the broken dreams, set free three, three, three of us!
+Player: mend
+Dream Butterfly: Still alone, alone... Broken dreams must mend to set my kin free, see? Caught in plants and monster dreams, not everything is as lifeless as it seems!
+Player: horrors
+Dream Butterfly: You know what they do; so do to them as they did to us - kill, kill, bye, bye!
+Dream Butterfly: You went to kill the horrors, horrors? Let's see, let's see, hee, hee!
+Player: random word
+Dream Butterfly: You mumble so, so, so... yes or no?
+Player: no
+Dream Butterfly: Oh, no. Then go, go.
+Player: yes
+Dream Butterfly: The balance is still off, love; we need more horrors stilled, more horrors killed!
+Player: dream
+Dream Butterfly: We dream you dream us, what goes around comes around, around, around.
+Player: sleepwalking
+Dream Butterfly: Dancing between the heartbeats of time, time, time.
+Player: dance
+Dream Butterfly: Yes, yes... all that is dances all that is.
+Player: pendulum
+Dream Butterfly: Ah, ah! It swings sideways to the heart beat, so it does, so it does... it alters the melody, the dancers, yes, yes. Be careful with it!
+Player: sing
+Dream Butterfly: Secret, secret... the melody we hum, we hum, for the dance, the dance. You cannot hear it, alas, alas.
+Player: morax
+Dream Butterfly: Ah, ah, lost his way, gone astray, fell a prey, fell a prey to the dark.
+Player: sand
+Dream Butterfly: The dream sand, the sand, is in the waters, the waters of the mountain river, quiver, shiver ...

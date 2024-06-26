@@ -1,0 +1,78 @@
+Player: hi/hello/ashari  
+Elathriel: Be greeted Player. What is your business near the hellgate?  
+Player: business/job  
+Elathriel: I am the leader of the Kuridai and the Az'irel of Ab'Dendriel. Humans would call it sheriff, executioner, or avenger.  
+Player: sheriff  
+Elathriel: Sometimes people get imprisoned for some time. True criminals will be cast out and for comitting the worst crimes offenders are thrown into the hellgate.  
+Player: hellgate  
+Elathriel: It was here among other structures, like the depot tower, before our people came here. It's secured by a sealed door.  
+Player: sealed/door  
+Elathriel: For safety we keep the door to the hellgate locked all times. I have the keys to open it when needed.  
+Player: keys  
+Elathriel: If you are that curious, do you want to buy a key for 5000 gold? Don't blame me if you get sucked in.  
+Player: Kuridai  
+Elathriel: Believe me, it's better for you that way.  
+Player: humans  
+Elathriel: They are useful ... and better stay useful.  
+Player: avenger/executioner  
+Elathriel: Sometimes people get imprisoned for some time. True criminals will be cast out and for comitting the worst crimes offenders are thrown into the hellgate.  
+Player: time  
+Elathriel: I couldn't care less.  
+Player: elves  
+Elathriel: My people are divided in castes in these times, until they comprehend that only the way of the Kuridai can save us all.  
+Player: carlin  
+Elathriel: We watch this city and the actions of its inhabitants closely.  
+Player: thais  
+Elathriel: The Thaian kingdom and we share some enemies, so it's only logical to cooperate in a few areas.  
+Player: venore  
+Elathriel: The merchants of venore provide us with some usefull goods. Still I an convinced that they get more out of our bargain then we do.  
+Player: olrik  
+Elathriel: This human is too unimportant to be even mentioned.  
+Player: king  
+Elathriel: It's hard for some of my people to grasp the true concept of a strong leader.  
+Player: tibianus  
+Elathriel: A human weakling, not much more.  
+Player: eloise  
+Elathriel: A human weakling, not much more.  
+Player: dwarfs  
+Elathriel: We might use the shelter earth and hills provide us, but their obsession for metal is a waste of time.  
+Player: troll  
+Elathriel: Like all inferior races, they can be at least of use for something good. The other castes are just jealous of us making use of them.  
+Player: army  
+Elathriel: It's one of the more useful concepts we can learn from the other races.  
+Player: cenath  
+Elathriel: Arrogant bastards, but they wield quite powerful magic.  
+Player: deraisim  
+Elathriel: Confused cowards. For all their skill, they still tend to hide and run. What a waste.  
+Player: abdaisim  
+Elathriel: Even more undecided than the Deraisim.  
+Player: teshial  
+Elathriel: Dreamers are of no practical use. I don't mourn their demise.  
+Player: ferumbras  
+Elathriel: Even if he'd walk through the town above, the other castes would not see the necessity to follow OUR way.  
+Player: crunor  
+Elathriel: I have no use for the treething. I worship Mortiur, the ravager, of course.  
+Player: mortiur  
+Elathriel: The celestial paladin of revenge. He was one of the greatest elven wariors of all times.  
+Player: excalibug  
+Elathriel: I still doubt it exists.  
+Player: news  
+Elathriel: News are confidential and not your business.  
+Player: magic  
+Elathriel: I mastered some battle spells.  
+Player: spells  
+Elathriel: I only teach some attack spells to paladins and druids.  
+Player: druid  
+Elathriel: Druidic magic is too peaceful for my taste.  
+Player: sorcerer  
+Elathriel: I have seen human sorcerers doing some impressive things ... before they died.  
+Player: spellbook  
+Elathriel: I only teach some attack spells to paladins and druids.  
+Player: offer/buy/sell/equipment/goods/stuff/ware  
+Elathriel: I offer hardly anything except for knowledge of spells.  
+Player: level  
+Elathriel: Just ask me for spells, that's the fastest way to find out which spells I have.  
+Player: name  
+Elathriel: Not that I like to talk to you, but I am Elathriel Shadowslayer.  
+Player: asha thrazi/bye/farewell  
+Elathriel: Asha Thrazi, stranger.  

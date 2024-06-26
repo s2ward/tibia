@@ -1,0 +1,32 @@
+Player: hi / hiho / hello  
+Thorgrin: Welcome, Player! May earth protect you on these rocky grounds. If you need a passage back, I can help you.  
+Player: farmine / ankrahmun / ab'dendriel / carlin / edron / venore / thais / darama / darashia / folda / vega / senja / ice islands / liberty bay / port hope / svargrond / yalahar / issavi / krailos / oramond / roshamuul  
+Thorgrin: This is a steamship that travels only subterraneously. No way to get on that risky ocean.  
+Player: beer  
+Thorgrin: Aw man, that's what I miss most. I think the ridiculous amount of a few dozen barrels barely lasted a day. Time for resupplying!  
+Player: buy / sell  
+Thorgrin: I fear I don't have anything to sell. In fact, it's hard to buy anything around here.  
+Player: captain  
+Thorgrin: Yes, that's me. At your service.  
+Player: cormaya  
+Thorgrin: With the base improved and supplied I can offer you a cheaper steamboat passage. So you want to go to Cormaya? 50 gold?  
+Player: dwarf  
+Thorgrin: Well, then you stay here, simple as that.  
+Player: gurbasch / brodrosch  
+Thorgrin: I remember playing with Gurbasch and Brodrosch when I was still a really young dwarf. Ages ago! A shame they don't remember as well as I do. Maybe because I made them eat worms and the like.  
+Player: inventions / inventors  
+Thorgrin: Oh yes, you could call me an inventor. A technomancer, inventor and captain. And a fearless explorer at that.  
+Player: job / work  
+Thorgrin: I'm proud to say that I'm the first dwarf who steered a steamship through the great northern subterraneous river and found a way to reach this large cave which will hopefully become a prospering dwarven city someday.  
+Player: kazordoon  
+Thorgrin: With the base improved and supplied I can offer you a cheaper steamboat passage. Do you want to go to Kazordoon for 150 gold?  
+Player: name  
+Thorgrin: Well, then you stay here, simple as that.  
+Player: passage  
+Thorgrin: Where do you want to go, Kazordoon or Cormaya?  
+Player: ship / steamship  
+Thorgrin: Do you see this amazing new technology? The imperial mining guild funded the research to build this baby. With it we can travel faster and farther than ever before.  
+Player: technomancer  
+Thorgrin: I'm also a technomancer, true. I took part in inventing and developing this revolutionary new steamship.  
+Player: bye / farewell  
+Thorgrin: Earth under your feet ... it's still better than lava.  

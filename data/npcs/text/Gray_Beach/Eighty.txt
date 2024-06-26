@@ -1,0 +1,16 @@
+Player: (idle)
+Eighty: <beep> <crank> Use this device to manage your gold.
+Player: hi
+Eighty: <beep> <beep> Welcome to the.... <crank> Tibian Bank.
+Player: name
+Eighty: My model number is 80-M.
+Player: job
+Eighty: I have access to the full functionality of a human bank employee.
+Player: time
+Eighty: It is exactly 7:20 am.
+Player: bank
+Eighty: We can change money for you. You can also access your bank account or your guild account options.
+Player: bye
+Eighty: Come again if you need something. <beep>
+Player: (vanish)
+Eighty: <beep>

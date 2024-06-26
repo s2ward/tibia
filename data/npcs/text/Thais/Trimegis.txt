@@ -1,0 +1,72 @@
+Player: Hi  
+Trimegis: <mumbles> Greetings, brother Player. Sorry, I am a bit lost in my thoughts.  
+Player: Name  
+Trimegis: I am commonly known as Trimegis.  
+Player: Job  
+Trimegis: I am the kings new courtmage and advisor in arcane matters.  
+Player: kings / Tibianus  
+Trimegis: Our king frequently relies on my divinations and spells of protection.  
+Player: courtmage  
+Trimegis: The last courtmage was killed by Ferumbras in one of his attacks.  
+Player: Ferumbras  
+Trimegis: He failed in his quest for power since he ultimately forfeited greater powers for a quick but limited powerboost by enslaving himself to some dark entities.  
+Player: Power  
+Trimegis: Power comes to those who have the intelligence to claim it.  
+Player: Spell  
+Trimegis: My spells are my personal secret.  
+Player: Eclesius  
+Trimegis: That old fool wanted to become courtmage too. But he just doesn't cut the mustard.  
+Player: Frodo  
+Trimegis: A bar is fine to distract the mundanes from doing something foolish.  
+Player: Gregor  
+Trimegis: Limited in his vision as all knights are.  
+Player: Marvik  
+Trimegis: Since intelligence can't be substituted by passion, all druids are nothing but hedgemages.  
+Player: Muriel  
+Trimegis: He's quite good in magical theories, but lacks practice in the field.  
+Player: Elane  
+Trimegis: Paladins are another example that diversing one's resources between goods, mundane weapons, and magic does not make a good mixture.  
+Player: Sam  
+Trimegis: A man as mundane as a rock.  
+Player: Quentin  
+Trimegis: Mixing up magic with religion can't do any good.  
+Player: Excalibug  
+Trimegis: The only weapon I need is my magic.  
+Player: Time  
+Trimegis: Time does not matter in the end.  
+Player: Nightmare pits  
+Trimegis: Some dumb holes for adventurers seeking trouble.  
+Player: Sorcerer  
+Trimegis: Many call themselves a sorcerer, but only a few truly understand what that means.  
+Player: Wisdom  
+Trimegis: Wisdom is only an excuse for the lack of consequence.  
+Player: Army  
+Trimegis: In the long run, it would pay off to focus all resources on a magicians corps, but the king is not convinced of that. Not yet.  
+Trimegis: At least one mundane who knows his proper place.  
+Player: Baxter  
+Trimegis: Brawns but no brain.  
+Player: Rune  
+Trimegis: I have no need for runes anymore. Runes are tools for beginners.  
+Player: Donald  
+Trimegis: I have certainly no business with such persons.  
+Player: Harkath Bloodblade/General  
+Trimegis: The king listens to the advice of this swordsman far too often.  
+Player: Oswald  
+Trimegis: A truly disgusting fellow.  
+Player: Xodet  
+Trimegis: He made the best he could of his limited abilities.  
+Player: Lugri  
+Trimegis: Another bogeyman. Who's afraid of someone who is that 'powerful' that he hides in some dirthole?  
+Player: Lungelen  
+Trimegis: She has the 'know how', but sadly does not really know how to use it efficiently.  
+Player: news  
+Trimegis: I don't care about mundane gossip.  
+Player: Pits of Inferno  
+Trimegis: Some dumb holes for adventurers seeking trouble.  
+Player: Sherry  
+Trimegis: I have certainly no business with such persons.  
+Player: Stone of insight  
+Trimegis: Ah well. This matter was taken out of our hands for now. The inquisition insisted to control the collection of these stones and by royal decree they were granted the exclusive right to do so. ...  
+Trimegis: As a simple scientist I'm not in a position to question such decision, as hard as it might hit my researches. For now I can not trade any of the stones. You will have to wait for another opportunity.  
+Player: Bye  
+Trimegis: Farewell, Player.  

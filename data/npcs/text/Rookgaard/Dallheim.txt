@@ -1,0 +1,189 @@
+Player: (idle)
+Dallheim: The most dangerous monsters of Rookgaard are on the other side of this bridge.
+Dallheim: Want to know what monsters are good for you at your level? Just ask me!
+Dallheim: I'll crush all monsters who dare to attack our base.
+Dallheim: Are you injured or poisoned? I can help you.
+Dallheim: For Rookgaard! For Tibia!
+Player: hi / hello  
+Dallheim: <nods> At your service, Player, protecting the village from monsters.  
+Player: academy  
+Dallheim: All that theory won't help you without some real battle practice.  
+Player: Al Dee  
+Dallheim: He has been on this island as long as me.  
+Player: Amber  
+Dallheim: I don't trust her.  
+Player: bank  
+Dallheim: Before you fight monsters, deposit your money there. If you die, you won't lose it if it's save in the bank.  
+Player: banor  
+Dallheim: The heavenly warrior! Hail to him!  
+Player: bear  
+Dallheim: A bear can easily kill you if you don't pay attention.  
+Player: Billy  
+Dallheim: He is a fine cook and farmer. He buys and sells food.  
+Player: bug  
+Dallheim: They are a little tougher than they look like, but they're still good beginner monsters.  
+Player: cipfried  
+Dallheim: He guards the temple and can heal you if you are badly injured or poisoned, just like me.  
+Player: citizen  
+Dallheim: I'll protect all citizens alike. That is my job and duty.  
+Player: cockroach  
+Dallheim: Nasty but easy to squish.  
+Player: Dallheim  
+Dallheim: At your service.  
+Player: deer  
+Dallheim: They don't pose a threat. However, if you need food, they are good meat providers.  
+Player: Dixi  
+Dallheim: She's Obi's granddaughter and deals with armors and shields. Her shop is south west of town, close to the temple.  
+Player: dungeon  
+Dallheim: I can mark you some dungeons on your map if you ask me about monsters suited for your level.  
+Player: god  
+Dallheim: I'm a follower of Banor.  
+Player: heal  
+Dallheim: You aren't looking really bad. Eat some food to regain strength.  
+Player: help  
+Dallheim: I have to stay here, sorry. But I can heal you if you are wounded. I have also valuable information about monsters.  
+Player: how are you  
+Dallheim: Fine.  
+Player: hyacinth  
+Dallheim: Strange fellow, hides somewhere in the mountains of the isle.  
+Player: info  
+Dallheim: I'm an expert concerning the wildlife and monsters on this island.  
+Player: job  
+Dallheim: I'm the guard of this bridge. I defend Rookgaard against the beasts of the wilderness and the dungeons, and even of the stinking sewers.  
+Player: king  
+Dallheim: HAIL TO THE KING!  
+Player: Lee'Delle  
+Dallheim: Her shop is on the premium side of town. Best offers around.  
+Player: Lily  
+Dallheim: Sometimes I wish I had an easy job like her, selling potions all day.  
+Player: Loui  
+Dallheim: Zerbrus tells me such strange stories about him. Well, he sees him all day from the west bridge.  
+Player: magic  
+Dallheim: I'm not interested in such party tricks.  
+Player: minotaur  
+Dallheim: Minotaurs are very strong. You will need a group of people or at least level 6 and good equipment to be able to kill them.  
+Player: monster  
+Dallheim: It looks like you have mastered the drill.  
+Player: name  
+Dallheim: Dallheim, at your service.  
+Player: Norma  
+Dallheim: I don't approve of her opening a bar. Those drunken adventurers stumbling over the bridge at nighttime are not especially helpful in improving the situation.  
+Player: Obi  
+Dallheim: He sells weapons. His shop is south west of town, close to the temple.  
+Player: oracle  
+Dallheim: You can find the oracle on the top floor of the academy, just above Seymour. Go there when you are level 8.  
+Player: orc  
+Dallheim: Orcs are a constant menace. There are even stronger species of orcs on the main continent.  
+Player: Paulie  
+Dallheim: The local bank clerk.  
+Player: premium  
+Dallheim: Premium warriors pay. They gain many advantages this way.  
+Player: rabbit  
+Dallheim: They don't pose a threat. However, if you need food, they are good meat providers.  
+Player: rat  
+Dallheim: Did you know that rats are among the most dangerous animals in whole Tibia? Each day, they kill many people who are overestimating their powers. Don't be one of them!  
+Player: rookgaard  
+Dallheim: It's my duty to protect this village and its citizens.  
+Player: rotworm  
+Dallheim: Rotworms should not be taken lightly. They hit hard. Once you are on mainland with a vocation and proper equipment, you will learn to love them.  
+Player: Santiago  
+Dallheim: He dedicated his life to welcoming newcomers to this island.  
+Player: seagull  
+Dallheim: Just recently they've come to this island for nesting. They aren't dangerous.  
+Player: sewer  
+Dallheim: The sewers are crowded with rats. They make fine targets for young heroes.  
+Player: Seymour  
+Dallheim: Leave me alone with this wimp.  
+Player: skeleton  
+Dallheim: The skeletons on this island are usually fairly hidden. They are often found near graves and always underground. Beware of their evil life drain.  
+Player: snake  
+Dallheim: Snakes can poison you, too, but their poison is usually not as dangerous as that of poison spiders. Just be careful and kill them fast.  
+Player: spearman  
+Dallheim: Spearmen are the toughest orcs on this island. Beware their distance attack!  
+Player: spider  
+Dallheim: There are two types of spiders on this island: normal spiders and poison spiders. As their name says, the latter ones can poison you which will cause a constant loss of your health. Beware of them!  
+Player: temple  
+Dallheim: A place of protection. Nothing can harm you there.  
+Player: thank  
+Dallheim: It's my job.  
+Player: Tibia  
+Dallheim: A nice place for a hero, but nothing for whelps.  
+Player: time  
+Dallheim: My duty is eternal. Time is of no importance.  
+Player: tom  
+Dallheim: He's the local tanner. You could try selling fresh corpses or leather to him.  
+Player: trade / armor / shield / potion / weapon / sword / sabre / food / equipment / wares / sell / buy / offer / stuff  
+Dallheim: Sorry, I don't trade. Ask the shop owners for a trade instead.  
+Player: troll  
+Dallheim: Once you have upgraded your starter equipment a little - maybe leather stuff - and got a better weapon as well as a shield, you should be able to kill trolls.  
+Player: village  
+Dallheim: It's my duty to protect this village and its citizens.  
+Player: wasp  
+Dallheim: Wasps are the fastest monsters on this island and they poison you. If you ever run into one and are already low of health, fear for your life!  
+Player: wilderness  
+Dallheim: There are wolves, bears, snakes, deer, and spiders in the wilderness past this bridge.  
+Player: Willie  
+Dallheim: He is a fine cook and farmer. He buys and sells food.  
+Player: wolf / wolv  
+Dallheim: You need a stronger weapon than the starter club to kill wolves. Maybe a sabre or a short sword will do.  
+Player: Zerbrus  
+Dallheim: He's guarding the west bridge. Not that a real threat would lurk on the other side.  
+Player: hint  
+Dallheim: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.  
+Player: hint  
+Dallheim: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Dallheim: To open or close skills, battle or VIP list, click on the corresponding button to the right.  
+Player: hint  
+Dallheim: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Dallheim: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Dallheim: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Dallheim: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Dallheim: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Dallheim: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Dallheim: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Dallheim: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Dallheim: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Dallheim: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Dallheim: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Dallheim: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Dallheim: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Dallheim: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Dallheim: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Dallheim: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Dallheim: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Dallheim: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Dallheim: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Dallheim: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Dallheim: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Dallheim: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Dallheim: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Dallheim: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Dallheim: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Dallheim: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Dallheim: Bye, Player.  

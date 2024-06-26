@@ -1,0 +1,96 @@
+Player: hi / hello
+A Prisoner: Huh? What? I can see! Wow! A non-mino. Did they capture you as well?
+Player: capture
+A Prisoner: Yes, they capture people. I guess that's their job.
+Player: job
+A Prisoner: Job? JOB? Hey man - I am in prison! But you know - once upon a time - I was a powerful mage! A mage ... come to think of it .., what is that - a mage?
+Player: name
+A Prisoner: My name is - uhm - hang on? I knew it yesterday, didn't I? Doesn't matter!
+Player: mad mage
+A Prisoner: Hey! That's me! You got it! Thanks mate - now I remember my name!
+Player: sorcerer
+A Prisoner: I am the mightiest sorcerer from here to there! Yeah!
+Player: power
+A Prisoner: Power. Hmmm. Once while we were crossing the mountains together a man named Aureus said to me that parcels are equal to power. Any idea what that meant?
+Player: books
+A Prisoner: I have many books in my home. But only powerful people can read them. I bet you will only see three dots after the headline! Hehehe! Hahaha! Excellent!
+Player: time
+A Prisoner: Better save time than comitting a crime. I am a poet and I know it!
+Player: sell rune
+A Prisoner: You want to sell me blank runes! I will give you 50000 gold for each rune! Interested?
+Player: yes
+A Prisoner: Ok. Take my money. I can summon new money anytime - hehehe.
+Player: key
+A Prisoner: Sure I have the key! Hehehe! Perhaps I will give it to you. IF you can solve my riddle.
+Player: riddle
+A Prisoner: Great riddle, isn't it? If you can tell me the correct answer, I will give you something. Hehehe!
+Player: something
+A Prisoner: No! I won't tell you. Shame coz it would be useful for you - hehehe.
+Player: escape
+A Prisoner: How could I escape? They only give me rotten food here. I can't regain my powers because I have no mana!
+Player: labyrinth / way
+A Prisoner: It's easy to find your way through it! Just follow the pools of mud. Hehe - useful hint, isn't it?
+Player: mino
+A Prisoner: They are trying to capture me! Or hang on! Haven't they already captured me? Hmmm - I will have to think about this.
+Player: Markwin
+A Prisoner: He is the worst of them all! He is the king of the minos! May he burn in hell!
+Player: Palkar
+A Prisoner: He is the leader of the outcasts. I hope he will never conquer the city of Mintwallin. That would be the end of me!
+Player: Karl
+A Prisoner: Tataah!
+Player: demon
+A Prisoner: The only monster I cannot conjure. But soon I will be powerful enough!
+Player: monster / conjure / home
+A Prisoner: Yeah! There are many monsters guarding my home. Only the bravest hero will be able to slay them!
+Player: bye / farewell
+A Prisoner: Next time we should talk about my surreal numbers.
+Player: <vanish>
+A Prisoner: Wait! Don't leave! I want to tell you about my surreal numbers.
+Player: (vanish, having finished mathemagics lesson)
+A Prisoner: Good bye! Don't forget about the secrets of mathemagics.
+Player: apple
+A Prisoner: Apples! Real apples! Man I love them! Can I have one? Oh please say yes!
+Player: yes (not carrying any apple)
+A Prisoner: Do you want to trick me? You don't have one lousy apple!
+Player: no
+A Prisoner: Ooooooooooo.<sniff>
+Player: yes 
+A Prisoner: Mnjam. Excellent! Thanks, man!
+Player: dp-d-ks-p-dp / dp-d-sk-p-dp / pd-d-ks-p-pd / pd-d-sk-p-pd / dp-p-ks-d-dp / dp-p-sk-d-dp / pd-p-ks-d-pd / pd-p-sk-d-pd
+A Prisoner: Hurray! For that I will give you my key for - hmm - let's say ... some apples. Interested?
+Player: yes (carrying 6 or less apples)
+A Prisoner: Get some more apples first!
+Player: no
+A Prisoner: Then go away!
+Player: yes 
+A Prisoner: Mnjam - excellent apples. Now - about that key. You are sure want it?
+Player: no
+A Prisoner: Then go away!
+Player: yes
+A Prisoner: Really, really?
+Player: no
+A Prisoner: Then go away!
+Player: yes
+A Prisoner: Really, really, really, really?
+Player: no
+A Prisoner: Then go away!
+Player: yes (Key 3666)
+A Prisoner: Then take it and get happy - or die, hehe.
+Player: number / math / 1+1 / 1 + 1 / 1 plus 1 / one plus one
+A Prisoner: You already know the secrets of mathemagics! Now go and use them to learn.
+Player: number / math / 1+1 / 1 + 1 / 1 plus 1 / one plus one
+A Prisoner: My surreal numbers are based on astonishing facts. Are you interested in learning the secret of mathemagics?
+Player: yes
+A Prisoner: But first tell me your favourite colour please!
+Player: red / blue / black / white / orange / green / yellow / brown / violet / pink / silver / gold / grey
+A Prisoner: Very interesting. So are you ready to proceed in you lesson in mathemagics?
+Player: yes (not having the correct mission)
+A Prisoner: I think you are not in touch with yourself, come back if you have tuned in on your own feelings.
+Player: yes (having the correct mission, random value is 1)
+A Prisoner: So know that everthing is based on the simple fact that 1 + 1 = 49!
+Player: yes (having the correct mission, random value is 2)
+A Prisoner: So know that everthing is based on the simple fact that 1 + 1 = 94!
+Player: yes (having the correct mission, random value is 3)
+A Prisoner: So know that everthing is based on the simple fact that 1 + 1 = 13!
+Player: yes (having the correct mission, random value is 4)
+A Prisoner: So know that everthing is based on the simple fact that 1 + 1 = 1!

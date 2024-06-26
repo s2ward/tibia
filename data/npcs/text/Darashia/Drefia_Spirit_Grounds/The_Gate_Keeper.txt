@@ -1,0 +1,62 @@
+Player: hi
+The Gate Keeper: Are you the Key Master?
+Player: no (idle)
+The Gate Keeper: <loses interest immediately>
+Player: yes
+The Gate Keeper: Enter the Spirit Grounds, Key Master.
+Player: Spirit Grounds
+The Gate Keeper: The realm between realms, where all doors open on themselves only. The place where the spirits dwell that have unfinished business or were... called.
+Player: called
+The Gate Keeper: The call of the Ancients was sounded. The Key Master knows it. We too have been summoned to prepare for their arrival.
+Player: ancients / arrival
+The Gate Keeper: Enough! Don't waste your breath, mortal. Go now onto the grounds to do what you came here to do.
+Player: name
+The Gate Keeper: My name is unpronouncable in your language.
+Player: unpronouncable
+The Gate Keeper: The nearest you may come to is Zg'!kch of Cthle-ZüuKh'lkrlxchwr.
+Player: Zg'!kch of Cthle-ZüuKh'lkrlxchwr
+The Gate Keeper: Really! No need to be rude.
+Player: job
+The Gate Keeper: I am the Gate Keeper. I guard the doors and await the Key Master.
+Player: Key
+The Gate Keeper: The balance has been broken, the doors pried open, the keys scattered and lost. ...
+The Gate Keeper: The Key Master will find them and close the doors that were not meant to be open. ...
+The Gate Keeper: And then he will unlock the Other Door.
+Player: Other Door
+The Gate Keeper: The Key Master will know.
+Player: why
+The Gate Keeper: Too many doors were opened that lead astray. The spirits gather in anger, here. Show them the path.
+Player: path / what
+The Gate Keeper: Use a sharp blade, a powerful staff or spell to send them on their way.
+Player: here
+The Gate Keeper: This is a... pause between two breaths. All times, held and spent at once in a place that is not a place.
+Player: tibianus
+The Gate Keeper: As a child would sit on a castle made of sand.
+Player: tibia
+The Gate Keeper: Too many doors open. Too tempting for some. The shadows run and hide.
+Player: shadows
+The Gate Keeper: The breath of darkness, the eye of the night, the body of the other.
+Player: necromancer
+The Gate Keeper: Serving the dark ones. Some do not know what they are meddling with, rattling at the doors like children.
+Player: priestess
+The Gate Keeper: Soothing the pains of the festering sores.
+Player: blood priest
+The Gate Keeper: Insolent beggars, prying into dark windows.
+Player: pupil
+The Gate Keeper: Ah. Some were keys, some were leaves. All scattered, all blown away in the icy draft between the doors.
+Player: gods
+The Gate Keeper: We are in their atrium. Some doors lead to them. Soon...
+Player: soon
+The Gate Keeper: Yes, soon. Or maybe it has happened already, long ago. ...
+The Gate Keeper: Time has no meaning to them.
+Player: undead
+The Gate Keeper: Travellers between the doors.
+Player: death
+The Gate Keeper: A broken seal on a letter long read.
+Player: zarganash
+The Gate Keeper: Zarganash ... the place that wasn't meant to exist, but exists nonetheless. The place, where the souls of the dead rest for a while before they pass into the great beyond. ...
+The Gate Keeper: Zarganash is a part of the Netherworld, the place where souls of sentient beings go after death. But it is not completely congruent with the Netherworld, it is just a part of this vast and mysterious realm.
+Player: Netherworld
+The Gate Keeper: Yes, of course I know about it. There are some rumours that the descent to the Netherworld is difficult yet possible for those still living.
+Player: bye
+The Gate Keeper: Yes. For a while.

@@ -1,0 +1,24 @@
+Livielle: Ah, salut! Come 'ere and 'ave some of my delicious fruits!
+Player: hi (female)
+Livielle: Bienvenue, Simula! My fruits will complete the icing on your cake.
+Player: hi (male)
+Livielle: Ah, 'ello, Player! I can see you're longing for my delicious fruits, chéri.
+Player: name (female) 
+Livielle: I'm Livielle Delacroix, madame.
+Player: name (male)
+Livielle: Moi? Livielle for you, chéri.
+Player: job / shop
+Livielle: Alors, guess what my job might be, standing 'ere in the middle of all these juicy exotic fruits?
+Player: time
+Livielle: Time is 3:34 am now.
+Player: offer / buy
+Livielle: What's your favorite flavour today? I offer all sorts of exotic fruits as well as juice squeezers to create tasty fruit juice. Just ask for a trade!
+Player: trade
+Livielle: Alors 'ere, take a good look!
+Player: help
+Livielle: Oh, for sure will my fruits 'elp you driving off all these nasty diseases and strengthen your immune system!
+Player: thank you / thanks
+Livielle: You're welcome, enjoy.
+Player: bye / au revoir
+Livielle: Bon appétit, and come back soon for your daily dose of vitamins!
+Livielle: Aww, I don't even deserve a farewell?

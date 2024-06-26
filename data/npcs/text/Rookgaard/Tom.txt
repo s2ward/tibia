@@ -1,0 +1,173 @@
+Player: (idle)
+Tom: Oh yeah, I'm also interested in wolf paws and bear paws.
+Tom: Buying fresh corpses of rats, rabbits and wolves.
+Tom: Also buying minotaur leather.
+Player: hi / hello  
+Tom: Hey there, Player. I'm Tom the tanner. If you have fresh corpses, leather, paws or other animal body parts, trade with me.  
+Player: academy  
+Tom: Those people in the academy have no idea what's going on in the real world. Books are not everything.  
+Player: addon / outfit  
+Tom: Would you like to wear bear paws like I do? No problem, just bring me 50 bear paws and 50 wolf paws and I'll make them for you.  
+Player: Al Dee  
+Tom: He's an apple polisher.  
+Player: Amber  
+Tom: Now that's an interesting woman.  
+Player: armor / shield / weapon / helmet  
+Tom: Nope, sorry, don't sell that. Ask Obi or Lee'Delle.  
+Player: backpack / rope / shovel  
+Tom: Nope, sorry, don't sell that. Go see Al Dee or Lee'Delle.  
+Player: bank  
+Tom: When you head into a dungeon, leave your gold at the bank. Did you ever wonder why monsters carry gold with them? Devoured adventurers, mark my words.  
+Player: bear paw / wolf paw  
+Tom: Have you brought 50 bear paws and 50 wolf paws?  
+Player: Billy  
+Tom: He's a better cook than his cousin Willie, actually.  
+Player: blueberr  
+Tom: There are many blueberry bushes in and around this village. Nature's for free.  
+Player: cipfried  
+Tom: I'm not what you'd call a 'believer'.  
+Player: cookie / food  
+Tom: I don't sell food, you should ask at the farms of Willie or Billy.  
+Player: Dallheim  
+Tom: He's okay.  
+Player: Dixi  
+Tom: She buys my fine leather clothes.  
+Player: dungeon  
+Tom: Dungeons can be dangerous without proper equipment.  
+Player: equipment  
+Tom: You need at least a backpack, a rope, a shovel, a weapon, an armor and a shield.  
+Player: fishing  
+Tom: I don't fish.  
+Player: fresh  
+Tom: Fresh means: shortly after their death.  
+Player: gold / money  
+Tom: Well, no gold, no deal. Earn gold by fighting monsters and picking up the things they carry. Also, you can sell their corpses to me.  
+Player: help  
+Tom: Help? I will give you a few gold coins if you have some fresh dead animals for me. Note the word fresh.  
+Player: how are you  
+Tom: Much to do these days.  
+Player: human  
+Tom: Are you crazy?!  
+Player: hyacinth  
+Tom: I wonder if he's angry because his potion monopoly fell.  
+Player: info  
+Tom: Do I look like a tourist information centre? Go ask someone else.  
+Player: job  
+Tom: I'm the local tanner. I buy fresh animal corpses, tan them, and convert them into fine leather clothes which I then sell to merchants.  
+Player: king  
+Tom: Bah, the king. I'm my own king.  
+Player: Lee'Delle  
+Tom: Her nose is a little high in the air, I think. She never shakes my hand.  
+Player: Lily  
+Tom: She always comes and preaches about how one should not wear animal skin.  
+Player: Loui  
+Tom: I wonder what spectacular monsters he has found.  
+Player: main  
+Tom: You can go there once you are level 8 and have talked to the oracle.  
+Player: merchant  
+Tom: Dixi and Lee'Delle sell my leather clothes in their shops.  
+Player: monster  
+Tom: Good monsters to start with are rats. They live in the sewers under the village of Rookgaard.  
+Player: name  
+Tom: My name is Tom the tanner.  
+Player: Norma  
+Tom: I like her beer.  
+Player: Obi  
+Tom: He is such a hypocrite.  
+Player: offer / stuff / buy / sell / corpses / wares / animal  
+Tom: I'm buying fresh corpses of rats, rabbits and wolves. I don't buy half-decayed ones. If you have any for sale, trade with me.  
+Player: oracle  
+Tom: It's in the academy, just above Seymour. Go there once you are level 8 to leave this place.  
+Player: orc  
+Tom: I don't buy orcs. Their skin is too scratchy.  
+Player: Paulie  
+Tom: Typical pencil pusher.  
+Player: potion  
+Tom: Go to Lily for that.  
+Player: quest  
+Tom: Well, if you call that a quest, I have a little collection task. It's about an outfit.  
+Player: rookgaard  
+Tom: This island has its own problems, but all in all it's a decent place to live.  
+Player: Santiago  
+Tom: I don't have a problem with him.  
+Player: sewer  
+Tom: The nearest sewer entrance is just to the right of this building.  
+Player: Seymour  
+Tom: He sticks his nose too much in books.  
+Player: tanner  
+Tom: That's my job. It can be dirty at times but it provides enough income for my living.  
+Player: Thais  
+Tom: Ah, Thais is rotten to the core.  
+Player: thank  
+Tom: No need for that.  
+Player: Tibia  
+Tom: Rookgaard is just a tiny spot in the world of Tibia.  
+Player: time  
+Tom: Sorry, I haven't been outside for a while, so I don't know.  
+Player: tom  
+Tom: Yep.  
+Player: trade  
+Tom: Sure, check what I buy.  
+Player: troll  
+Tom: Troll leather stinks. Can't use it.  
+Player: Willie  
+Tom: I kinda like him. At least he says what he thinks.  
+Player: Zerbrus  
+Tom: He's okay.  
+Player: Zirella  
+Tom: My mother?? Did you meet my mother??  
+Player: yes  
+Tom: Bah, I guess everyone's telling you horror stories about what a bad son I am. Everyone's judging me although they have no idea what really happened.  
+Player: hint  
+Tom: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Tom: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Tom: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Tom: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Tom: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Tom: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Tom: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Tom: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Tom: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Tom: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Tom: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Tom: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Tom: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Tom: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Tom: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Tom: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Tom: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Tom: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Tom: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Tom: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Tom: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Tom: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Tom: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Tom: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Tom: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Tom: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Tom: Good hunting, son.  

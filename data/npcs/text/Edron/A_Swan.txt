@@ -1,0 +1,45 @@
+Player: hi
+A Swan: I salute you, mortal being.
+Player: name
+A Swan: My name is not meant to be known by humans.
+Player: job
+A Swan: I have no idea what you mean by this word.
+Player: time
+A Swan: Time is fluent, traveller.
+Player: news / rumours / rumors
+A Swan: The news is that I'm quite desperate right now.
+Player: swan maiden
+A Swan: We are fae who can shapeshift from human form to swan form. We protect the wilds of our secret realm from every intruder and live in small flocks along secluded lakeshores.
+Player: fae / kind / siblings
+A Swan: Some call us nature spirits or peri but we prefer the term fae. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...
+A Swan: As we tend to be secretive about our true nature I'm afraid I can't tell you more.
+Player: realm
+A Swan: We call it Feyrist and it is a secret, hidden place. Only very few mortals get permission to enter it. A long time ago, we learnt how to hide our realm from the outside world. Only if you gain our trust you will get permission to enter it.
+Player: protect
+A Swan: Dark energies are seeping into the world. They are tainting our home as much as everything else. We couldn't discover the origin of these energies on Feyrist itself, Therefore, some of us decided to leave our home and investigate.
+Player: feyrist
+A Swan: It's a secret, hidden place. Only very few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world. Only if you gain our trust you will get permission to enter it.
+Player: dreams
+A Swan: There is far more to dreams than mortal beings are aware of. They possess some kind of magical power, ancient and mysterious. I shouldn't tell you too much about it, but I can tell you that the fae are closely linked to this power.
+Player: alkestios
+A Swan: He's a brother of mine. He took it upon himself to kind of lead our mission in the outside world. You may find him south of Ab'Dendriel.
+Player: maelyrra
+A Swan: She's one of the fae queens of Feyrist.
+Player: ikassis
+A Swan: She's one of my sisters who took over the body of a snake. You can find her northwest of here.
+Player: aurita
+A Swan: She's a beautiful mermaid, dwelling in the warm waters at Feyrist's shores. She stole Taegen's heart.
+Player: taegen
+A Swan: He's one of my brethren, a faun. He preferred not to leave Feyrist - mainly because of Aurita, I assume.
+Player: valindara
+A Swan: She's A Swan maiden like me and lives in Feyrist.
+Player: talila
+A Swan: She's a pixies living in Feyrist.
+Player: benevola
+A Swan: I don't know her, I'm sorry.
+Player: tooth fairy
+A Swan: She's one of my sisters and took over a white seagull. The last time I talked to her she seemed worried.
+Player: mission / cloak
+A Swan: Thank you again for your help, mortal being.
+Player: bye
+A Swan: May your path be always even.

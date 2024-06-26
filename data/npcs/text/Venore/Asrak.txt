@@ -1,0 +1,61 @@
+Asrak: Mooh! Tah!
+Player: hi
+Asrak: I welcome you, Simula! If you need paladin or knight spells, you've come to the right place.
+Player: name
+Asrak: I'm known as Asrak the Ironhoof.
+Player: job
+Asrak: I'm the overseer of the pits and a paladin trainer, but I also know some knight spells.
+Player: time
+Asrak: It is 6:28 am.
+Player: offer
+Asrak: I'm offering training for paladins and knights.
+Player: trainer
+Asrak: Those wannabe fighters are weak and most of them are unable to comprehend a higher concept like the Mooh'Tah.
+Player: Mooh'Tah
+Asrak: The Mooh'Tah teaches control. It provides you with weapon, armor, and shield. It teaches you harmony and focus.
+Player: harmony
+Asrak: There is harmony in everything that is done correctly. If you feel the harmony of an action, you can sing its song.
+Player: sing
+Asrak: Each harmonic action has its own song. If you can sing it, you are in harmony with that action. This is where the minotaurean battle songs come from.
+Player: battle songs
+Asrak: Each Mooh'Tah master focuses his skills on the harmony of battle. He is one with the song that he's singing with his voice or at least his heart.
+Player: Mooh'Tah master / warrior-philosopher
+Asrak: Mooh'Tah masters are the paragon of the minotaurean warrior-philosophers. Self-controlled, free of rage, focused, and in perfect harmony with their actions.
+Player: gladiator
+Asrak: Those wannabe fighters are weak and most of them are unable to comprehend a higher concept like the Mooh'Tah.
+Player: news
+Asrak: Focus on your own life, not on that of others.
+Player: help
+Asrak: I teach knight skills to worthy warriors .
+Player: monster
+Asrak: Inferior creatures of rage, driven by their primitive urges. They are only useful to test one's skills.
+Player: dungeon
+Asrak: The dungeons of your desires and fears are not only the solely ones you have to fear but also the only ones you have to conquer.
+Player: weapon
+Asrak: Make your will your weapon, and your enemies will perish.
+Player: armor
+Asrak: Courage is the only armor that shields you against rage and fear, the greatest dangers you are facing.
+Player: shield
+Asrak: Your confidence shall be your shield. Nothing can penetrate that defence.
+Player: mintwallin
+Asrak: The city is only a shadow of what we could have accomplished without that curse of rage that the gods bestowed upon us.
+Player: gods
+Asrak: They implanted the rage in us that almost cost our existence. They used us as pawns in wars that were not ours.
+Player: rage
+Asrak: Rage is the legacy of Blog, the beast. It is our primary goal to overcome this rage. The Mooh'Tah is our only hope of salvation and perfection.
+Player: king / tibianus
+Asrak: I pledge no allegiance to any king, be it human or minotaurean.
+Player: venore
+Asrak: The city pays me well and those undisciplined gladiators need my skills and guidance badly.
+Player: general
+Asrak: The human generals are like their warriors. They lack the focus to be true warriors.
+Player: army
+Asrak: Your human army might be big but without skills. They are nothing than sheep to be slaughtered.
+Player: ferumbras
+Asrak: To rely on magic is like cheating fate. All cheaters will get their just punishment one day, and so will he.
+Player: excalibug
+Asrak: If it's truly a weapon to slay gods, it might be worth searching for it.
+Player: thanks
+Asrak: I hope you learnt something.
+Player: bye
+Asrak: May your path be as straight as an arrow.

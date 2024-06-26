@@ -1,0 +1,57 @@
+NPC: Dronk  
+Player: hi / hello  
+Dronk: Mh, oh? It looks like YOU WANT to help, well then...?  
+Player: black gold  
+Dronk: Dwarfs need coal for all kind of things, most prominently for blacksmithing. So coal is always rare but we need it to run that machine over there.  
+Player: coal  
+Dronk: I hope you are willing to donate some black gold so we can get that pump pumping.  
+Player: dwarfs  
+Dronk: If it weren't for us dwarfs, the world would have already been overrun by monsters of all kinds.  
+Player: Groam  
+Dronk: Well, Groam is a friend. Groam and I already had that pestering pool all drained, but that didn't last long. SUDDENLY, we heard voices from down there, VOICES my friend. ...  
+Dronk: We didn't know what to do, so we started searching the mud. AND THEN, I had that sudden urge to just leave that place. ...  
+Dronk: PROBLEM IS, when I turned around to ask Groam about it, he just said something about an entrance and then he disappeared. ...  
+Dronk: So my buddy already went down there, but he did not return. Eventually the water came back and the voices stopped.  
+Player: human  
+Dronk: I think humans are a bit whimsical but mostly they are alright.  
+Player: kazordoon  
+Dronk: The city is a marvel to behold and unconquered in centuries!  
+Player: machine / pump  
+Dronk: I don't understand the technomancers magic completely, but using coal on one of the three pumps down here will drain the water in the pool at the end of the tunnel. ...  
+Dronk: PROBLEM IS, when the water is drained, something seems to 'awake'. ...  
+Dronk: Hey stop looking like that, I know it's true, I don't make this up. I HEARD THEM. Alright, I heard them.  
+Player: name  
+Dronk: I'm Dronk Coaljuggler, Son of Fire, from the Savage Axes fellowship.  
+Player: pool  
+Dronk: Somehow the water of the pool will return after some time, I don't know why. Maybe it has to do with 'something' down there. It makes the water rise... ah I don't know. I just want my buddy Groam to be ok.  
+Player: problem  
+Dronk: As you might have noticed, the tunnel here is filled with water. We got the machines from the technomancers to pump the water out but our resources on coals are quite thin. ...  
+Dronk: Most coal is used for blacksmithing and something as unimportant as an inaccessible tunnel is not deemed worthy of our black gold you know. ...  
+Dronk: We KNOW it is no ordinary tunnel system down there though but we found some kind of ruins down there. PROBLEM IS, we had no spare time for exploring before the water drove us out. ...  
+Dronk: Now I really would love to get the machines running but first we have to gather enough coal to make them work.  
+Player: technomancers  
+Dronk: Spooky guys but they have their use, as you can see when looking at that machine over there.  
+Player: tunnel  
+Dronk: The rotworm driven tunnels have to be reworked by dwarven miners before we can use them safely. They seem a bit erratic to the untrained eye but the worms are trained to dig towards the richest deposits of ore. ...  
+Dronk: So our tunnels are exceptionally safe but sometimes even we run into problems.  
+Player: voice  
+Dronk: Well, they are clearly... hey, wait - stop looking like that. They are there, they are talking to me. Surely you must hear them, too... clearly now... just now... or not?!  
+Player: bye  
+Dronk: Ah by any chance, did you see... ah nothing, bye then.  
+Special dialogue 1:  
+Player: help / job  
+Dronk: I'm responsible to oversee the security and integrity of the mine tunnels. ...  
+Dronk: Ah right, and you can help me out here if you want. PROBLEM IS, you probably don't even know what you are doing here. ...  
+Dronk: See the pumps there? And the pool of water over there?  
+Player: yes  
+Dronk: Good, because that is part of the problem. AND THE PROBLEM IS, while these pumps are able to drain the water out of the pond over there, they only work for a limited time. ...  
+Dronk: They run on *coal* you see, COAL. And that's the one thing I just don't have down here right now. ...  
+Dronk: Yeah I know that I could mine some more or just loot some creature's corpse but I can't leave just yet. ...  
+Dronk: Still, even with that pool drained, I still need to find Groam and I surely won't leave without him.  
+Special dialogue 2:  
+Player: help / job  
+Dronk: I'm responsible to oversee the security and integrity of the mine tunnels. ...  
+Dronk: Ah right, and you can help me out here if you want. PROBLEM IS, you probably don't even know what you are doing here. ...  
+Dronk: See the pumps there? And the pool of water over there?  
+Player: no  
+Dronk: Come on. Look closer!  

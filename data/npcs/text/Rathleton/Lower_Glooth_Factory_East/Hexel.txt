@@ -1,0 +1,21 @@
+Player: hi
+Hexel: Hi!
+Player: job
+Hexel: I'm the overseer of the new glooth plant of course
+Player: rathleton
+Hexel: Rathleton hasn't yet reached its full potential but our new plant will change that.
+Player: plant
+Hexel: Specifics are classified and only comprehensible by a glooth expert anyway but suffice to say that this plant will revolutionize the way Rathleton is supplied and lead us to all new heights in civilisation.
+Player: magistrate
+Hexel: I'm certain after my work on the plant a position in the magistrate is the inevitable next stepping stone in my career.
+Player: minotaurs
+Hexel: It's a shame we can do that little to stop those brutes. In their envy they try to destroy our greatest accomplishment in history.
+Player: stories
+Hexel: I don't think I have to discuss some stupid rumours with you. We both have more important things to do with our time.
+Player: maxxen
+Hexel: Maxxen was a mediocre scientist at best. Sure he had a lucky hand in creating the walkers but that's it. He went mad and was killed by his own creations. ...
+Hexel: Still many of his malfunctioning walkers escaped and are still troubling us after all those years.
+Player: captain caveworm
+Hexel: Ah, come on, I'm a man of science and don't believe in superstitious nonsense.
+Player: bye
+Hexel: Good bye.

@@ -1,0 +1,27 @@
+Player: Hi Nezil  
+Nezil: Hiho Player, Nezil at your service. We sell equipment of all kinds.  
+Player: Equipment/Buy  
+Nezil: As you can see, we offer quite a lot of stuff, such as torches, shovels and the like. Ask me for a trade to have a look.  
+Player: Trade  
+Nezil: Of course, just browse through my wares. By the way, there's a deposit of 5 gold on empty vials.  
+Player: Name  
+Nezil: I'm Nezil Whetstone, son of Fire of the Savage Axes. I and my sis' Bezil are selling stuff, ye' know?  
+Player: Job  
+Nezil: We sell equipment of all kinds. If there's anything you need, ask me for a trade.  
+Player: Bezil  
+Nezil: She's my sis'.  
+Player: Deposit  
+Nezil: I will give you 5 gold for every empty vial. Ok?  
+Player: Food  
+Nezil: Sorry, visit the Jolly Axeman tavern for that.  
+Player: Poem  
+Nezil: I was thinking about a poem as a slogan for my shop but it's not ready for a big audience, yet.  
+Player: Time  
+Nezil: I think it's about 5:04 am. If you bought a watch, you'd know for sure.  
+Player: Bye  
+Nezil: Good bye, Player.  
+Special dialogue:  
+Player: Deposit  
+Nezil: I will give you 5 gold for every empty vial. Ok?  
+Player: No  
+Nezil: Hmm, but please keep our town litter free.  

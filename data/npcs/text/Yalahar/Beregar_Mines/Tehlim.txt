@@ -1,0 +1,48 @@
+NPC: Tehlim  
+Note: Transcription was made after completion the Royal Rescue quest.  
+Player: hi / hello  
+Tehlim: Hello. I'm so glad someone has found me. Did you meet THEM?!  
+Player: ab'dendriel / carlin / venore / thais / darama / darashia / folda / vega / senja / ice islands  
+Tehlim: The only place I know is Beregar. My home.  
+Player: alone / other  
+Tehlim: The other members of the expedition have either been killed or imprisoned by the trolls.  
+Player: attack / they / them  
+Tehlim: We were attacked by some sort of assassin trolls or something. They came over us like a storm and in the blink of an eye it was over... everyone was either killed or captured.  
+Player: beer  
+Tehlim: I could do with one right now.  
+Player: buy / sell  
+Tehlim: What kind of rescue party are you?! I neither have wares to sell nor do I want to buy something.  
+Player: captain  
+Tehlim: Ships have captains. Dwarfs usually don't have ships so we don't have captains. Smart, huh?  
+Player: dwarf  
+Tehlim: I won't tell you the secret of our success. No!  
+Player: fish / water / ship  
+Tehlim: I hate ships! I hate water! I hate fish! So let's talk about something different.  
+Player: food / meal / inventions / inventors  
+Tehlim: I am famous for having invented the most amazing meal ever known to dwarven kind! I call it 'hangman's relish'. I am not going to tell you the recipe, buuuut it contains lots of brown ale, special mushrooms and ground soapstone. Delicious!  
+Player: job / work  
+Tehlim: I'm the cook for the expedition party. The only one who didn't get cought by those.... those MONSTERS.  
+Player: kazordoon  
+Tehlim: Uhh yes, I heard the stories about the lost tribe. Really interesting. There are rumours that they used these old tunnels around here when they left Beregar.  
+Player: mine  
+Tehlim: This part of the mine was abandoned a long time ago. There are no crystals left. The expedition had the task to check for new veins of crystal... but before we could find one, THEY found us.  
+Player: mission / quest  
+Tehlim: I have nothing more for you to do. You could keep me company, if you wanted to. We could cook something, play a game or.... mock some trolls. Hrhrhrhrhr.  
+Player: name  
+Tehlim: They call me Tehlim Madtreat. I can make a meal from almost anything.  
+Player: Rehal  
+Tehlim: His son Rehon was with us. I don't know if he survived the troll attack.  
+Player: Rehon  
+Tehlim: You have to search the area for him. If he's still alive then rescue him... if not... you'll have to be the one to tell his father. I'm sorry.  
+Player: technomancer  
+Tehlim: Ahhh, forget technomancers, pyromancers are way better. Never seen one, huh? Figures. They are kind of shy.  
+Player: tibia  
+Tehlim: Beregar is our world. We don't want to be drawn in to any of your kind's conflicts.  
+Player: troll  
+Tehlim: Their hideout must be somewhere in the ore wagon tunnels. If you want to help me find Rehon and the others just ask me for a mission.  
+Player: what  
+Tehlim: The expedition had the task to check for new veins of crystal....but before we could find one, THEY found us. Those trolls are.... different.  
+Player: yalahar  
+Tehlim: Wasn't that destroyed ages ago? Whatever, it makes no difference to me.  
+Player: bye / farewell  
+Tehlim: See you soon, right?  

@@ -1,0 +1,93 @@
+Player: hi
+Bunny Bonecrusher: Address me properly, Simula!
+Player: hail
+Bunny Bonecrusher: Address me with my title, commoner Simula!
+Player: hail general
+Bunny Bonecrusher: Salutations, commoner Simula!
+Player: job
+Bunny Bonecrusher: I am the general of the queen's army! You really should consider to join, sister.
+Player: how are you
+Bunny Bonecrusher: We are in constant training and in perfect health.
+Player: queen
+Bunny Bonecrusher: HAIL TO QUEEN ELOISE, OUR NOBLE LEADER!
+Player: LEADER
+Bunny Bonecrusher: Queen Eloise is a fine leader for our fair town, indeed!
+Player: army / guards
+Bunny Bonecrusher: The army protects the defenceless males of our city. Our elite forces are the Green Ferrets.
+Player: city
+Bunny Bonecrusher: Our city blends in with the nature surrounding it. Our druids take care of that.
+Player: druid
+Bunny Bonecrusher: They are our main magic support and play a major role in our battle tactics.
+Player: tactics
+Bunny Bonecrusher: Our tactic is to kiss.
+Player: kiss
+Bunny Bonecrusher: K.I.S.S.! Keep It Simple, Stupid! Complicated tactics are too easy to be crushed by a twist of fate.
+Player: Green Ferrets
+Bunny Bonecrusher: Our elite forces are trained by rangers and druids. In the woods they come a close second to elves.
+Player: dogs of war
+Bunny Bonecrusher: This is a men's club, mainly busy with bragging and drinking alcohol.
+Player: knights of noodles
+Bunny Bonecrusher: They are rumoured to be skilled fighters. Then again, in the land of the blind...
+Player: reports
+Bunny Bonecrusher: Our reports are only for internal use.
+Player: commoner
+Bunny Bonecrusher: I am the general of the queen's army! You really should consider to join, sister.
+Player: join
+Bunny Bonecrusher: Join what?
+Player: join army
+Bunny Bonecrusher: Sorry, we don't recruit foreigners. Maybe you can join if you prove yourself in a mission for the queen.
+Player: mission
+Bunny Bonecrusher: Normally we don't assign missions to civilians but in this case I think we can make an exception. ...
+Bunny Bonecrusher: I need a courier to deliver a parcel to the watchtower in Femor Hills. You think you can handle that?
+Player: yes
+Bunny Bonecrusher: Okay sweety, now you can prove of what cloth you are cut from! At the watchtower you will get a password so I will know if you just threw it away or actually delivered it. Here is the parcel. Take care!
+Player: mission
+Bunny Bonecrusher: What are you still doing here, you should be on your way to Femor Hills!!
+Player: mission /quest (female)
+Bunny Bonecrusher: Sometimes the queen calls for heroines. Keep eyes and ears open!
+Player: mission / quest (male)
+Bunny Bonecrusher: Yeah. Entrusting a male with an important quest. Get serious!
+Player: subjects
+Bunny Bonecrusher: Our citizens are lucky to live under the wise rule of our beloved queen!
+Player: thais
+Bunny Bonecrusher: It's just a rotten hideout for drunks and men too lazy to do some serious work.
+Player: cemetery / graveyard / crypt
+Bunny Bonecrusher: Bah! Just men's tales! Who believes in such rubbish? Perhaps we should put some men there overnight and see what happens. Hehehe!
+Player: castle
+Bunny Bonecrusher: The castle was not built for defence but as a residence for the royal family.
+Player: gods
+Bunny Bonecrusher: I worship Banor, the first warrior!
+Player: banor
+Bunny Bonecrusher: He is the idol for all fighting women and a reminder of what a man could become if he jumps over his own shadow!
+Player: zathroth
+Bunny Bonecrusher: Don't mention the dark one in the city of life!
+Player: family / busty / blossom / bambi
+Bunny Bonecrusher: She is one of my beloved sisters and serves Carlin as a town guard.
+Player: sisters / bonecrusher
+Bunny Bonecrusher: Our family has been serving the Carlin army since countless generations!
+Player: sell
+Bunny Bonecrusher: Are you suggesting I am corruptible?
+Player: yes
+Bunny Bonecrusher: Take this!
+Player: no
+Bunny Bonecrusher: You should be careful with your words!
+Player: cornelia / armor
+Bunny Bonecrusher: Cornelia forges the armor for our troops.
+Player: barbara / fenbala
+Bunny Bonecrusher: She is one of the Green Ferrets and one of the queen's bodyguards.
+Player: rowenna / weapon
+Bunny Bonecrusher: Rowenna is responsible for our troops' supply of weapons.
+Player: harkath bloodblade
+Bunny Bonecrusher: Old man. I can't tell what's worse for the shape of Thais' army.
+Player: legola
+Bunny Bonecrusher: She is a distant cousin of me and my sisters.
+Player: monster
+Bunny Bonecrusher: We cleared the woods around Carlin of most monsters. But lately, more and more show up again.
+Player: ferumbras
+Bunny Bonecrusher: Believe it or not, I killed him two times with my own bow, but some unholy forces rise him again and again.
+Player: excalibug
+Bunny Bonecrusher: I'm sure only a woman has the courage and strength to wield this weapon of myth.
+Player: <swear>
+Bunny Bonecrusher: Take this!
+Player: bye
+Bunny Bonecrusher: LONG LIVE THE QUEEN!

@@ -1,0 +1,78 @@
+Player: hi
+Grubokk: Huh! Talking food! Hello!
+Player: job
+Grubokk: Me guard goblin slaves. Good job! Free food! Hur hur!
+Player: name
+Grubokk: Grrrrrr! Me mighty Grubokk! You puny morsel!
+Player: Grubokk
+Grubokk: Name of great warrior hero! Ate eighty-eight goblins alive in twenty-two mouthfuls while fighting eleven Thunder Tusk ogres at same time! Belched hugely when won!
+Player: goblins
+Grubokk: Full of air from too much fan-ci-ful words. Worship puny, powerless frog. Tinker with tools without own strength. Not know true power. Not earthed like ogres. Deserve to be slaves!
+Player: Thunder Tusk
+Grubokk: Other tribe, stupid and mean, steal from us. We fight them always!
+Player: ogre
+Grubokk: Ogres strong! And our tribe strongest!
+Player: tools / plier
+Grubokk: Puny goblins tinker with fiddly tools, huh. Never get anywhere with their repairs! Pah! Ogre strong, use big pliers to cut through bone and hide!
+Player: krailos
+Grubokk: Land of ogres you see out there, hu-man!
+Player: revolt
+Grubokk: Been too quiet! You check on pesky goblins? Me reward you! Get tasty sauce!
+Player: mission
+Grubokk: Huh! Grubokk got all under control! Goblins quiet! But if not... tell me and Grubokk may have task for you! Harhar!
+Player: task / quest
+Grubokk: Arr harr! Pesky goblins up to no good? You wanna teach lesson? Me reward you!
+Player: tibia
+Grubokk: Ow! Don't screech, human! Cannot understand! Say again that you no help goblin!
+Player: no help goblin
+Grubokk: That will show uppity goblins! Will take away water. Then they not feel so thirsty for revolt, harr! ...
+Grubokk: Three things to make them sorry. Cut off water supplies in mines first. Then poison wells in their wormy city tunnels. Then flood them out of mines with sea water! ...
+Grubokk: Will be nicely marinated and seasoned when they wash up here! HAHAHAH!
+Player: chief
+Grubokk: Me want to be chieftain instead of chieftain!
+Player: the great hunger
+Grubokk: Yes, I always hungry! Chosen by Great Hunger! Hurhur! I made joke!
+Player: water
+Grubokk: Grubokk prefer beer. <belch>
+Player: beer
+Grubokk: Tribe make best beer! You see!
+Player: tribe
+Grubokk: Tribes always at war with others! Bash in enemy heads! Harharr!
+Player: larek
+Grubokk: Scrawny hu-man. Looks as crunchy as his cookies! Hurhur!
+Player: ghorza
+Grubokk: She tribe shaman. She powerful. She keep tribe safe from evil spirits!
+Player: spirits
+Grubokk: I not know. Is stuff for shaman.
+Player: vuzrog
+Grubokk: Hah, him chieftain now. Him defeated Grubokk's father who chieftain before! But I bide time! I eat well, grow stronger! Then I challenge! One day, I chieftain!
+Player: mugruu
+Grubokk: Ph, him whimpy ogre. Never made as heavy a hammer as Grubokk! Him do like puny hu-man Larek do and trade stuff. Hah, Grubokk never trade for any of Mugruu's stuff! Uh-uh!
+Player: hammer
+Grubokk: Me not give you my hammer! Is personal! You find own hammer! Puny hammers good enough for you! Take one from goblin workers. Me not care.
+Player: salt
+Grubokk: Tasty, but bigger amount give you belly ache! Poison water!
+Player: sabotage
+Grubokk: That not enough to keep goblins occupied. Need to damage more! Would do myself if I were puny like you, but no fit in wormy tunnels, pah!
+Player: flood
+Grubokk: Sea water flood tunnels? Hurhur! Grubokk eat marinated goblin tonight!
+Player: tunnel
+Grubokk: Unworthy of ogre! Sacrilege to gnaw through bones of earth! Punishable by death! But goblins find holy crystals now and then. Needed by ogre!
+Player: bloody skull
+Grubokk: Our tribe. Strongest tribe of strongest ogres! Will one day rule all Krailos!
+Player: city
+Grubokk: Pah! Goblin tunnel like worms. Somewhere hiding, but have to come out to find water, oh yes. Hur hur. Then I eat!
+Player: key
+Grubokk: Huh. Why you should need key? I not trust you, wriggly hu-man! If you not find it, not my problem.
+Player: well
+Grubokk: Dry. Salty earth. Ogre tough, can survive. But puny goblins shrivel. Very crispy crunchy snack, hur hur!
+Player: land / steppe
+Grubokk: Land of ogres you see out there, hu-man!
+Player: lost
+Grubokk: Lost? What you lost? I say GET LOST! Ahahahh!
+Player: obsidian
+Grubokk: Look like onyx to me. Anyway. Lazy goblins never dig up enough!
+Player: onyx
+Grubokk: Precious! Talisman against danger. Lazy goblins never dig up enough!
+Player: bye
+Grubokk: Hur! <belch>

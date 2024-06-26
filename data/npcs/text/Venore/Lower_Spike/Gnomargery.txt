@@ -1,0 +1,29 @@
+Player: Hi  
+Gnomargery: Hi!  
+Player: Job  
+Gnomargery: I'm the officer responsible for this area. I give out missions, accept mission reports and oversee our defences.  
+Player: Area  
+Gnomargery: On the levels outside, we encountered the first serious resistance of our true enemy. As evidenced by the unnatural heat in an area with little volcanic activity, there is 'something' strange going on here. ...  
+Gnomargery: Even the lava pools we have found here are not actually lava, but rock that was molten pretty much recently without any reasonable connection to some natural heat source. And for all we can tell, the heat is growing, slowly but steadily. ...  
+Gnomargery: This is the first time ever that we can witness our enemy at work. Here we can learn a lot about its operations. ...  
+Gnomargery: How they work, and possibly how to stop them. But therefore expeditions into the depths are necessary. The areas around us are highly dangerous, and a lethal threat to us and the Spike as a whole. ...  
+Gnomargery: Our first object is to divert the forces of the enemy and weaken them as good as we can while gathering as much information as possible about them and their movements. Only highly skilled adventurers stand a chance to help us down here. ...  
+Gnomargery: The area is as treacherous as dangerous, and all of its inhabitants are eager to tear everything unknown to them into pieces.  
+Player: Mission  
+Gnomargery: I can offer you several missions: to deliver parcels to our boys and girls in the battlefield, to get reports from our undercover gnomes, to do some temperature measuring and to kill some drillworms.  
+Player: Reports  
+Gnomargery: What mission do you want to report about: the delivery of parcels, the undercover reports, the temperature measuring or killing of drillworms?  
+Player: Gnome  
+Gnomargery: It's good to be a gnome for sure!  
+Player: Dwarf  
+Gnomargery: We gain little from our dealings with the dwarfs. This metal stuff they trade to us is prone to rust, unlike our crystal. Their mining may open passages and create new caves, but that is not natural and always in danger of sudden cave- ins.  
+Player: Human  
+Gnomargery: I think you humans are fun, but a bit noisy. With some guidance from us gnomes, your people might prosper.  
+Player: Below  
+Gnomargery: I sometimes think they are so alien, they don't even know they are fighting us... yet.  
+Player: alpha
+Gnomargery: I like the pioneer feeling here more, but of course the Spike never felt home like gnomebase Alpha did.
+Player: Spike  
+Gnomargery: Now that's gnomish ingenuity given shape! Who but a gnome would come up with such a plan to defeat our enemies.  
+Player: Bye  
+Gnomargery: Good bye Player and take care.  

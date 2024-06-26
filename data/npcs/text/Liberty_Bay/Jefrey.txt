@@ -1,0 +1,97 @@
+Player: hi / hello  
+Jefrey: Hello, what can I do for you? Welcome to the Tibian Bank.  
+Player: bored  
+Jefrey: Okay okay, no need to be rude! It seems you are already know everything.  
+Player: Charlotta  
+Jefrey: That is some old women that sells some expensive but worthless lucky charms to superstitious fools. I must admit she is quite smart for one of these isle dwellers.  
+Player: Chondur  
+Jefrey: Who is that? Never heard that name.  
+Player: cult  
+Jefrey: The admiral says it is only superstitious wish-wash but maybe this is just another excuse for not doing investigations.  
+Player: Eleonore  
+Jefrey: A charming young lady. She must hate it to be here on this isle, so close to the middle of nowhere.  
+Player: explorer society  
+Jefrey: The society has acquired some substantial wealth. A shame they waste it to fund strange expeditions.  
+Player: ferumbras  
+Jefrey: His reappearance would be REALLY bad for business.  
+Player: governor  
+Jefrey: The governor is a cultivated man. But one man alone is not enough to cultivate a place like this. All of our efforts were quite futile due to the ignorance of the local people.  
+Player: Isolde  
+Jefrey: She is attractive although not beautiful. She probably never heard about make-up which is common in Venore. She is just as uncultivated as most of the people here.  
+Player: job  
+Jefrey: I thought it would be obvious that I am responsible for this rather small bank office here. My job is to exchange money. I hope that was slow enough for you to understand.  
+Player: king  
+Jefrey: The king might be well advised to give the responsibility for this isle completely into Venorean hands. Of course it would cost us a fortune but I am convinced in the end we would turn this backwater town into something profitable.  
+Player: Liberty Bay  
+Jefrey: This town has prospered so much since our arrival. If it were up to the locals, there were nothing here except ramshackle huts like the ones you can find near the harbour and the fields.  
+Player: loveless / theodore  
+Jefrey: Mr. Loveless is a true idol for all traders in Venore. He has all the skills, influence and wealth a man could wish for. He is a role model Venorean.  
+Player: natives  
+Jefrey: Well, they are no natives at all. Just like us, they came here from other places. So we have just the same rights to claim the land than they do.  
+Player: pirate  
+Jefrey: One day, the pirates will be our ruin. The money their assaults have cost us up to now, would have been sufficient to rebuild this whole town two or three times. Something has to be done.  
+Player: plantation  
+Jefrey: The plantation workers rarely have need for a depot box.  
+Player: quara  
+Jefrey: The sheer destructiveness of these sea people is frightening. We just HAVE to get rid of this threat. They are more dangerous than the pirates. At least the pirates come only for our wealth, the quara come for our lives.  
+Player: Raymond Striker  
+Jefrey: If you ever manage to bring me his head, I can grant you a substantial reward from the funds of the Venorean traders.  
+Player: rum  
+Jefrey: Drunken people often cause trouble here in the depot and we have to call the guards.  
+Player: sugar  
+Jefrey: Some stupid people hoard sugar in their depots. The depots become sticky and filthy and we have to clean them up.  
+Player: thais  
+Jefrey: Thais might have its charm but nowadays, it is overrun buy wannabe heroes. I prefer the exclusiveness of Venore.  
+Player: Tristan  
+Jefrey: Some young and unremarkable knight from Thais.  
+Player: Wyrmslicer  
+Jefrey: Well, he could be more efficient. His major success is to keep order in town and among the islanders at the bay ...  
+Jefrey: He has failed in eradicating the pirates as well as he failed in wiping out the quara. From an economical point of view he should have been replaced.  
+Player: venore  
+Jefrey: Venore has become the centre of trade and culture. There is no city that could be compared to Venore.  
+Player: voodoo  
+Jefrey: Leave me alone with this silly superstition. I can't bear this ignorance anymore.  
+Player: bye / farewell  
+Jefrey: Good bye, Player.  
+Some statements about the bank office:  
+Player: advanced  
+Jefrey: Your bank account will be used automatically when you want to rent a house or place an offer on an item on the market. Let me know if you want to know about how either one works.  
+Player: balance  
+Jefrey: Wow, you have reached the magic number of a million gp!!! Your account balance is 'xxx' gold!  
+Jefrey: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...  
+Jefrey: Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?  
+Player: basic  
+Jefrey: You can check the balance of your bank account, deposit money or withdraw it. You can also transfer money to other characters, provided that they have a vocation and are not on Dawnport.  
+Jefrey: We can change money for you. You can also access your bank account or your guild account options.  
+Player: change  
+Jefrey: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say 'change gold' and then '1 platinum'.  
+Player: change crystal  
+Jefrey: How many crystal coins would you like to change into platinum?  
+Player: change gold  
+Jefrey: How many platinum coins would you like to get?  
+Player: change platinum  
+Jefrey: Would you like to change your platinum coins into gold or crystal?  
+Player: deposit  
+Jefrey: You don't have any gold with you.  
+Player: guild  
+Jefrey: You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. ...  
+Jefrey: If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. ...  
+Jefrey: As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. ...  
+Jefrey: Please keep in mind that we may need some time to process such requests.  
+Player: guild deposit  
+Jefrey: You are not a member of a guild.  
+Player: guild player transfer  
+Jefrey: I am sorry but it seems you are currently not in any guild.  
+Player: guild transfer  
+Jefrey: I am sorry but it seems you are currently not in any guild.  
+Player: guild withdraw  
+Jefrey: I am sorry but it seems you are currently not in any guild.  
+Player: market  
+Jefrey: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!  
+Player: rent  
+Jefrey: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...  
+Jefrey: Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month.  
+Player: transfer  
+Jefrey: Please tell me the amount of gold you would like to transfer.  
+Player: withdraw  
+Jefrey: Please tell me how much gold you would like to withdraw.  

@@ -1,0 +1,50 @@
+Player: hi
+Mortimer: Greetings, what can I do for you?
+Player: job
+Mortimer: I am the local representative of the explorer society.
+Player: explorer society
+Mortimer: Our noble society is dedicated to exploring the unknown. No location is too remote for our members to travel there ...
+Mortimer: No beast is too wild to be hunted. No treasure buried too deep to be unearthed ...
+Mortimer: Only the most dedicated and fearless adventurers may join our ranks.
+Player: join
+Mortimer: But you are already a member, Player.
+Player: missions
+Mortimer: There are no new missions available right now.
+Player: base
+Mortimer: Currently we maintain public bases in Port Hope and Northport.
+Player: portals
+Mortimer: The portals should be ready to be used now. If you have an orichalcum pearl with you, enter the portal.
+Player: orichalcum
+Mortimer: Do you want to buy an orichalcum pearl for 80 gold?
+Player: no
+Mortimer: Is there anything else I can do for you?
+Player: yes
+Mortimer: Here, use it wisely.
+Player: ratha
+Mortimer: Ratha was a great explorer and even greater ladies' man. Thank you for returning his remains.
+Player: giant smith hammer
+Mortimer: The explorer society was looking for a genuine giant smith hammer until you brought us one. Thank you again.
+Player: scroll lizard / parchment
+Mortimer: The examination of scrolls with lizard writings is a valuable source of information. We buy such scrolls for 500 gold. Are you interested to sell one?
+Player: no
+Mortimer: If you ever aquire a parchment with lizard writings, bring it here.
+Player: yes
+Mortimer: Thank you in the name of science.
+Player: atlas
+Mortimer: Do you want to buy an atlas for 150 gold?
+Player: botanists container
+Mortimer: Do you want to buy a botanist container for 500 gold?
+Player: preparation kit
+Mortimer: Do you want to buy a preparation kit for 250 gold?
+Player: crown backpack
+Mortimer: Do you want to buy a crown backpack for 800 gold?
+Player: ectoplasm container
+Mortimer: Do you want to buy an ectoplasm container for 750 gold?
+Player: no
+Mortimer: Is there anything else I can do for you?
+Player: yes
+Mortimer: Here, better not lose it.
+Player: bye
+Mortimer: Good bye.
+Player: (vanish)
+Mortimer: How rude!

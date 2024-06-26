@@ -1,0 +1,74 @@
+Player: hi
+Rahkem: Be mourned pilgrim in flesh. How can I help you, Simula? I'm a healer and also teach druid spells.
+Player: name
+Rahkem: I am the mourned Rahkem.
+Player: job
+Rahkem: I am a humble preacher of the true revelation in the temple of the mourned flesh. I heal and teach magic spells to those who are spiritual enough.
+Player: time
+Rahkem: Time is a tool in the hands of the false gods, but it also serves to free us from our mortal prisons.
+Player: heal
+Rahkem: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection you should go on the pilgrimage of ashes or get the protection of the twist of fate here.
+Player: pilgrimage
+Rahkem: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.
+Player: blessing
+Rahkem: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...
+Rahkem: There are also two enhanced blessings for further reduction of experience loss.
+Player: sacred places
+Rahkem: Just ask in which of the five blessings you are interested in.
+Player: temple
+Rahkem: Here we mourn our mortal existence. Our flesh is our weakness and our curse, the bait for all the trials and tribulations the false gods let loose on the world.
+Player: arena
+Rahkem: The arena is a fitting place to test your mortal shell and to feed the power of the Rah and the Uthun.
+Player: palace
+Rahkem: The residence of our immortal king is a temple in its own right because it is the home of a true god.
+Player: uman / zathroth
+Rahkem: The beings Uman and Zathroth merged forever in the blaze that followed when the last of the true gods perished.
+Player: banor
+Rahkem: Banor was the most devout minion of the false gods. Their lickspittle lapdog. Seeing they needed additional strength, they granted him some of their powers, and he became a lesser false god himself.
+Player: pharaoh
+Rahkem: Our immortal ruler, may he be blessed, is the keeper of our enlightenment and our saviour.
+Player: ashmunrah
+Rahkem: The foolish old pharaoh withheld knowledge and power from his son, knowing that he would surpass him in every aspect. But in his infinite mercy his son granted him the chance to ascend.
+Player: scarab
+Rahkem: The eternal burrowers are the keepers of all the secrets their kind has unearthed in countless aeons.
+Player: tibia
+Rahkem: It is likely that our world is a part of one of the dead true gods or one of their manifestations that somehow escaped destruction. We must assume this is all that is left of the original universe.
+Player: carlin / venore / thais / edron
+Rahkem: The cities that bow to the false gods will be afflicted with plague and fear until they embrace the wisdom of the pharaoh.
+Player: kazordoon / dwarves / dwarfes
+Rahkem: The dwarves suffered, but they have drawn wrong conclusions. If they do not listen to the revelations of our immortal pharaoh, pain and grief will prove to be better teachers this time.
+Player: ab'dendriel / elves / elfes
+Rahkem: The foolish elves hold on to life too hard to see the way to salvation. However, if we teach them to remove the shackles of flesh through pain and suffering, they might begin to see their mistake.
+Player: darama
+Rahkem: The continent was named after Daraman, the prophet during the reign of Ashmunrah. The new pharaoh acknowledged the power that is in names and did not change the name when he acceded to the throne.
+Player: ankrahmun
+Rahkem: This city is a marvel of old. Our forefathers built it here on the ruins of an even older civilisation.
+Player: daraman
+Rahkem: We call Daraman the one-eyed prophet, for he clearly saw that ascension is possible, but he was blind to the fact that mortality itself and not mere temptation is the first obstacle that must be overcome.
+Player: undead
+Rahkem: Undeath is freedom from mortal needs. It is the first obvious step to divinity.
+Player: mourn
+Rahkem: We mortals are all to be mourned for our prison of flesh. Only through loyal servitude to the pharaoh, praised be his existence, may we escape this prison and find our true destiny.
+Player: darashia
+Rahkem: The followers of Daraman suffer the curse of the flesh. They can't reach ascension because they never really take the all-important initial step - they only pretend to do so.
+Player: initial step
+Rahkem: In his preachings Daraman taught that you can conquer the temptations of the flesh through denial. However, the truth is that this constant struggle between temptation and the will blurs your vision, so no follower of Daraman can focus on ascension.
+Player: ascension
+Rahkem: The sentient beings are all that is left of the essence of the elder gods. We can awake the dormant powers that slumber in us all. But ascension is a thorny path to follow.
+Player: thorny path
+Rahkem: Our mortal shells make us vulnerable to the temptations of the false gods. Only by leaving our mortality behind, we can study the true path of ascension. The balance of Akh'rah Uthun has to be changed to our favour.
+Player: balance
+Rahkem: As long as it is mortal the body breeds temptations and distractions. Its needs make it easy for the false gods to lead us from the path of enlightenment and to ultimately steal our souls.
+Player: steal our souls
+Rahkem: When a mortal is bound to one of the false gods by his faith this god will harvest his Rah on his death and strip away his Uthun, casting it into the void.
+Player: akh
+Rahkem: Your flesh is traitorous and weak. The pharaoh grants the power to conquer death to those who serve him well. Once they have entered this state of being neither dead nor alive they are ready to enter the path of ascension.
+Player: rah
+Rahkem: The Rah is the ultimate treasure. The false gods need the stolen Rah to sustain their usurped powers.
+Player: uthun
+Rahkem: The memory is what makes our personality. It is what defines us ... and its utterly worthless to the gods. For this reason destroy it to harvest our Rah.
+Player: akh'rah uthun
+Rahkem: The Akh'rah Uthun is the unity of the Akh, our body, the Rah, our soul and the Uthun, our memories and experiences.
+Player: bye
+Rahkem: May enlightenment be your path, Simula.
+Rahkem: Accept my thanks for your gift of silence.

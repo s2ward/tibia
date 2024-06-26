@@ -1,0 +1,66 @@
+Player: hi / hello  
+Omrabas: At last, a visitor! Welcome to my... humble abode.  
+Player: army  
+Omrabas: <scoffs> The Tibian king's parthetic soldiers, do you mean? Or are you alluding to... <falls silent>  
+Player: blood  
+Omrabas: The sap of life. The juice of the living, the flow of the carnal energies... <sighs wistfully> Oh, to feel it rushing through my veins once again!  
+Player: blood priest  
+Omrabas: If you want my opinion, they're just bloated necromancers, really. Upstart, pretentious lot! Highly... specialised in the uses of blood, though, which can be useful at times.  
+Player: conspired  
+Omrabas: I know he used my pupils against me, and when I am back in the flesh, he will pay! ...  
+Omrabas: Never again will I be fooled by other dark brothers. Treacherous lot, all of them... <grumble> <mumble>  
+Player: demon skeleton  
+Omrabas: Much better servants than simple skeletons. The binding spells are quite complex, though, but the effort is well worth it.  
+Player: dragonbone  
+Omrabas: The Dragonbone Cemetery? Not far from here. Old dragons lay there down to die, it is presumed. Or maybe they were slain there. Or died from a mysterious illness. ...  
+Omrabas: Anyway, lots of dragon bones there. Skulls, horns, ribs... Only place to find dragon tears, strange things, but that subject requires more study.  
+Player: Drefia  
+Omrabas: The sunken, undead soul of Darashia. The breathing, beautiful corpse of a once lively city, glowing darkly, unhealthily, gloriously... but I get carried away.  
+Player: ghost  
+Omrabas: Many restless souls roam the sunken graveyards of Drefia. ...  
+Omrabas: Whole families are buried here, so if you're on the search for relatives, just visit the crypts, you might meet them ...  
+Omrabas: ... though not in the flesh, as it were. <cackles>  
+Player: ghoul  
+Omrabas: Useless, slobbering things. Only on the lookout for food.  
+Player: gravedigger  
+Omrabas: Nasty little creatures, aren't they? The result of a failed experiment, but the theory was sound. They can be useful, if you know how to tame them.  
+Player: grim reaper  
+Omrabas: Some Grim Reapers haunt a forsaken temple deep under Drefia. Only people with a death wish would venture there!  
+Player: help  
+Omrabas: <scoffs> Help me? You? I don't think so. Come back when you are more experienced in the ways of Drefia.  
+Player: job  
+Omrabas: I used to be a famous necromancer in my lifetime. However, some... people... conspired against me, and the result you see before you.  
+Player: king  
+Omrabas: That king above ground? He's been in charge for quite a while, I understand. No serious rivals, eh? Lucky him.  
+Player: lich  
+Omrabas: Simple transformation, but not without use. Good servants. Can be quite clever.  
+Player: mission  
+Omrabas: Help me? You? I don't think you are ready for that yet. Come back when you are more experienced in the ways of Drefia.  
+Player: mummy  
+Omrabas: Very single-minded. Smelly. Tend to burn easily.  
+Player: name  
+Omrabas: Did I not mention it? You have the exceptional honour of meeting the soul of Omrabas the Black. Presently residing inside this skull.  
+Player: necromancer  
+Omrabas: Ha. Ungrateful imbecile lot. After all I've done for them in my lifetime... <grumble> , <mutter>...  
+Player: pharaoh  
+Omrabas: We always shared a... common interest in undeath.  
+Player: priestess  
+Omrabas: Ah, our dark, stern beauties. Skilled with herbs and masterly dancers. Only drawback is, they charge you heavily for their services.  
+Player: ritual  
+Omrabas: All in good time. <cackles>  
+Player: shadow pupil  
+Omrabas: PSST! Keep your voice down, will you? Strange things they do, and - well, just be careful mentioning them, and watch your back around them.  
+Player: skeleton  
+Omrabas: Besides simple guardings tasks? Hmm. Not very resourceful. And they tend to fall apart.  
+Player: tibia  
+Omrabas: These lands are ripe for the taking. Give me an army of undead, and... <cackles>  
+Player: tibianus  
+Omrabas: He's been in charge for quite a while, I understand. No serious rivals, eh? Lucky him.  
+Player: undead  
+Omrabas: Yes, obviously I am one of the numerous undead here. We are in Drefia, after all.  
+Player: vampire  
+Omrabas: Parasites. Came here to profit from our experiments and blood reserves. Arrogant lot, too. Keep to themselves, luckily.  
+Player: zombie  
+Omrabas: Can be useful. Have an unhealthy appetite, though.  
+Player: bye / farewell  
+Omrabas: Are you mocking me? Get lost!  

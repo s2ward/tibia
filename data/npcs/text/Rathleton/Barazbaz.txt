@@ -1,0 +1,29 @@
+Player: hi
+Barazbaz: Oh, hello there!
+Player: name
+Barazbaz: I'm known as Barazbaz.
+Player: job
+Barazbaz: I'm the historian of Rathleton and I'm also responsible for the city archives. A most important job, as you might have guessed.
+Player: glooth
+Barazbaz: You just need it for everything.
+Player: rathleton
+Barazbaz: I heard that in other cities a single person decides everything. That must be a very rich and busy person, to get all those votes for his own. ...
+Barazbaz: To live there must be wonderful, as that single person does so much there is nothing left to do for the others.
+Player: minotaurs
+Barazbaz: I heard other cites have an army to handle such threats. Perhaps we should vote to create one.
+Player: vote
+Barazbaz: Voting is the power of the people!
+Player: sewers
+Barazbaz: They are needed to keep the city clean.
+Player: beggar
+Barazbaz: There are only so few beggars, it's not even worth mentioning them.
+Player: airtight cloth
+Barazbaz: Thanks to this cloth, I was able to safely store away one of my most prized relics that would otherwise be lost to the mould. History is in the debt of the inventor.
+Player: captain caveworm
+Barazbaz: I tell you: everything related to that Captain Caveworm guy is made up out of some random events.
+Player: maxxen
+Barazbaz: When they did not choose him into the magistrate he let his golems loose in the city and fled.
+Player: nightmare knights
+Barazbaz: It's good such things are buried in the past.
+Player: bye
+Barazbaz: Yes, yes. Good bye.

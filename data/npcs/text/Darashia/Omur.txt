@@ -1,0 +1,32 @@
+Player: hi
+Omur: Welcome at the humble food booth of Omur, Simula.
+Player: name
+Omur: I am called Omur. No 'Ibn something', just Omur.
+Player: job
+Omur: I sell rare fruits and vegetables from our lands and distant places.
+Player: time
+Omur: Don't become a slave of a watch.
+Player: fruits
+Omur: I have oranges, bananas, grapes, and melons. If you'd like to see my offers, ask me for a trade.
+Player: vegetables
+Omur: I have carrots, pumpkins and tomatoes. If you'd like to see my offers, ask me for a trade.
+Player: trade
+Omur: Of course, just browse through my wares.
+Player: caliph / kazzan
+Omur: Ah, Caliph Kazzan; thrice praised be his name. May his life be as long as the beard of the king of all djinns.
+Player: news
+Omur: Sometimes the desertwind carries the crys and mourning of the tortured souls from Drefia far into the desert.
+Player: desert
+Omur: It's not called the Devourer for nothing.
+Player: ferumbras
+Omur: I think I have heard a traveller from the west mention that name.
+Player: excalibug
+Omur: Is that the name of a djinn?
+Player: tibia
+Omur: The world is nothing but a vain seduction.
+Player: thais
+Omur: We import some goods from there in exchange for ours.
+Player: carlin
+Omur: I know almost nothing about that town. It must be exotic and entertaining. A place of distractions from the true path.
+Player: bye
+Omur: May your soul flourish like dunegrass after a rainfall.

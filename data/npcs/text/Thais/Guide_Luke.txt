@@ -1,0 +1,52 @@
+Player: hi / hello
+Guide Luke: Hello there, Player and welcome to Thais! Would you like some information and a map guide?
+Player: (anything besides "information" and "map")
+Guide Luke: Well, you seem to know your way around. Take care!
+Player: map / mark
+Guide Luke: Would you like me to mark locations like - for example - the depot, bank and shops on your map?
+Player: yes
+Guide Luke: Here you go.
+Player: no / (anything else)
+Guide Luke: Well, nothing wrong about exploring the town on your own. Let me know if you need something!
+Player: (anything not a keyword)
+Guide Luke: Sorry, I don't have anything to tell you about this topic.
+Player: information
+Guide Luke: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot, as well as about the world status.
+Player: town / Thais
+Guide Luke: Thais is the oldest settlement in Tibia. You can hear its history whisper when walking through the streets. Beware of criminals, but else it's a fine city.
+Player: temple
+Guide Luke: The temple is in the centre of Thais. Walk east from the harbour and pass by the depot until you reach the infamous crossroads, then turn south.
+Player: bank
+Guide Luke: We have two bankers, Suzy and Naji. Naji is right in the depot. For Suzi, exit the depot to the west and walk south-west. Don't forget that I can mark important locations on your map.
+Player: shops
+Guide Luke: You can buy weapons, armor, tools, gems, magical equipment, furniture and food here.
+Player: spell trainers
+Guide Luke: Gregor, your trainer, can be found upstairs the knight arena. Walk east from this harbour, pass by the depot, crossroads and shops until you see a muddy arena. There go upstairs. I can mark it for you.
+Player: depot
+Guide Luke: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.
+Player: weapons
+Guide Luke: You can buy weapons and armors at Sam's. Walk east from the harbour and pass by the depot until you reach the infamous crossroads, then turn north. Or go to Turvy in the north-eastern part of town.
+Player: tools
+Guide Luke: General goods like ropes and shovels can be bought in Gorn's shop north of the temple.
+Player: gems
+Guide Luke: Hanna buys and sells gems. Her shop is just to the right of the magic shop. Walk east from here and you can't miss it.
+Player: magic
+Guide Luke: Magical equipment like runes and potions can be bought at Xodet's. Walk to the east from this harbour, pass by the depot and crossroads and you will eventually pass his shop. Or go to Topsy in the north-eastern part of town.
+Player: furniture
+Guide Luke: Gamon is our furniture trader. His shop is in the north-eastern part of town.
+Player: food
+Guide Luke: You could buy food at the McRonald's farm in the eastern part of town or at Frodo's tavern, north of the temple.
+Player: world status
+Guide Luke: If you'd like to know the status of this world just say the keyword for a world change.
+Player: keyword / change
+Guide Luke: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
+Player: name
+Guide Luke: I'm Luke. No jokes, please, I heard them all!
+Player: time
+Guide Luke: It's 7:01 pm right now. Almost time for my lunch break, so hurry up if you need some information from me!
+Player: job
+Guide Luke: I'm a guide, overworked and underpaid. I can mark important locations on your map and give you some information about the town and the world status.
+Player: escort
+Guide Luke: This service is only for newcomers below level 10. I think you can manage the way on your own! If you need marks on your map, let me know.
+Player: bye / farewell
+Guide Luke: Good bye and enjoy your stay in Thais, Player.

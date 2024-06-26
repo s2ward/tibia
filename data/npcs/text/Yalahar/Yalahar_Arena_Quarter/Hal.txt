@@ -1,0 +1,48 @@
+Player: hi / hello  
+Hal: He.. hello. Unless you have official business here or want to pass the gate, please m... move on. <clears throat>  
+Player: alchemist quarter  
+Hal: That's north of m... me. Sometimes there are... yellow clouds... and g... green clouds. It's p... pretty.  
+Player: arena quarter  
+Hal: I d... don't like the shouting coming from that quarter.  
+Player: augur  
+Hal: My b... boss is an Augur.  
+Player: cemetery quarter  
+Hal: I once saw the g... ghost of a woman strolling around the g... graves.  
+Player: drink  
+Hal: Please don't tell anyone! Really... I... I need that, else I couldn't do this job.  
+Player: factory quarter  
+Hal: They should shut a... all of that d... down. Or have they?  
+Player: fenrock  
+Hal: It's an i... island east of here. N... no, I mean west!  
+Player: foreign quarter  
+Hal: D... did you see those lizards?? And other beasts? I wonder where they come f... from.  
+Player: island  
+Hal: I d... don't know what you're talking about. Ask someone e... else.  
+Player: job / official  
+Hal: Corporal of the Yalaharian G... Guard Force.  
+Player: magician quarter  
+Hal: Ah, w... witches and w... warlocks!  
+Player: mission  
+Hal: Mission? I don't know anything about a m... mission. What do you want from me?  
+Player: mistrock  
+Hal: Uhm... I... forgot.  
+Player: name  
+Hal: I'm Hal... but please don't snitch on me.  
+Player: pass / gate  
+Hal: Do you want to p... pass the gate? Are you headed for the arena or the alchemist quarter?  
+Player: quarter  
+Hal: There's too much going on here... too many people... too many problems.  
+Player: random word  
+Hal: What the h... heck are you talking about?  
+Player: sunken quarter  
+Hal: Bah! Quara! That should be called a... quarater, not a ... quarter.  
+Player: trade quarter  
+Hal: I don't want to t... trade.  
+Player: vengoth  
+Hal: I heard there are v... vampires.  
+Player: Yalahar  
+Hal: Oh god... I hate this city. And my j... job.  
+Player: city  
+Hal: There's too much going on here... too many people... too many problems.  
+Player: bye  
+Hal: Goodbye citizen!  

@@ -1,0 +1,35 @@
+Player: hi
+Dal the Huntress: Welcome, traveller! Feel free to browse my selection of furs.
+Player: name / dal
+Dal the Huntress: My name is Dal, nice to meet you!
+Player: job / hunter / huntress
+Dal the Huntress: I am a huntress. There are plenty of deer around Bounac that needs to be kept in check.
+Player: furs / sell / buy
+Dal the Huntress: Sure, thanks to you I was able to reopen my business! Here you go!
+Player: bounac
+Dal the Huntress: Aaah, don't you just love it here? Well, I do.
+Player: onfroi
+Dal the Huntress: Quite a confused man but also really interesting once you got to know him a bit better.
+Player: kesar the younger / king
+Dal the Huntress: Our good king Kesar treats us fair and acts with wits and kindness.
+Player: john the carpenter
+Dal the Huntress: John had an accident with a snake it seems. He's currently trying to recover.
+Player: wes the smith
+Dal the Huntress: Wes, our blacksmith, is also a fine teacher. Go visit him some time!
+Player: jehan the baker
+Dal the Huntress: Jehan is a nice guy, not exactly the brightest spot under the sun but... I shouldn't say that, he's kind and always nice to me.
+Player: fral the butcher
+Dal the Huntress: Fral is our local butcher. He's actually an elf, did you know that? Didn't know they were so skilled with meat.
+Player: evrard the miller
+Dal the Huntress: You know Evrard? He's quite tough but can also crack a joke now and then, I quite like that.
+Player: innkeeper alphonse
+Dal the Huntress: Alphonse is a good friend, I sometimes come to the Lionheart when nothing much is going on and we just talk. ...
+Dal the Huntress: Not much opportunities for that anymore during the siege, however.
+Player: augustin
+Dal the Huntress: Augustin is a trader at Kesar's court as far as I know.
+Player: yselda
+Dal the Huntress: I quite like that name. I wish you all the best on your travels!
+Player: siege / drume / fugue
+Dal the Huntress: There is some kind of feud between Drume, Fugue and Kesar. Don't ask me when and where that started but it's no secret that they never got along.
+Player: bye
+Dal the Huntress: Goodbye, traveller!

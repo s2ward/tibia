@@ -1,0 +1,62 @@
+NPC: Red Lilly  
+Player: hi / hello  
+Red Lilly: Hello sweetie. If you need general equipment, stuff like that, let me know.  
+Player: Charlotta  
+Red Lilly: Just between you and me hun, that woman is a witch. Love potions, poison, voodoo dolls to torture your neighbour. You name it, she got it.  
+Player: cult  
+Red Lilly: Uh! <whispers> There are ... rumours, you know? About bloody rituals and gruesome curses ... better don't talk aloud about such issues.  
+Player: djinn  
+Red Lilly: Kshh!! No talks about ... the magic folk here ... This might draw their attention.  
+Player: Eleonore  
+Red Lilly: Hard to imagine that this fat man has such a pretty daughter.  
+Player: Ferumbras  
+Red Lilly: Don't mention HIM in my house you fool. You call evil and mayhem upon us.  
+Player: food  
+Red Lilly: I am not dealing with food.  
+Player: governor  
+Red Lilly: I won't say anything bad about such a high-born person. That's why I remain silent hun <blinks>.  
+Player: job  
+Red Lilly: I run this little pawnshop, hun, but I think you knew that already.  
+Player: king  
+Red Lilly: What interest could a king have in this little settlement? If a king cares about us, there must be something important behind all this.  
+Player: liberty bay  
+Red Lilly: Liberty comes, liberty goes, only the bay stays. Hehe.  
+Player: light  
+Red Lilly: I sell torches, candelabra, and oil.  
+Player: loveless / theodore  
+Red Lilly: That guy is a shrewd trader, sweetie. I bet even I could learn a thing or two from him.  
+Player: offer / buy / goods / sell / equipment / stuff / ware  
+Red Lilly: I have shovels, picks, scythes, bags, ropes, backpacks, plates, scrolls, watches, some lightsources, and other stuff. Just ask me for a trade.  
+Player: pirate  
+Red Lilly: Mostly, pirates are bad for business. But sometimes, they are good for business.  
+Player: plantations  
+Red Lilly: Sadly the workers have hardly enough money to buy something to eat and to drink. That is bad also for my business.  
+Player: quara  
+Red Lilly: The quara are the curse of the sea. Everybody that dares to enrage the sea spirits has to fear their vengeance. They come at night to kidnap people who forgot their lucky charms at home ...  
+Red Lilly: Sometimes those evil beings take the most naughty children to raise them as their own underwater.  
+Player: rum  
+Red Lilly: Ah, there is little in the world that comes close to the taste of rum.  
+Player: Striker  
+Red Lilly: I heard there is a fine bounty on his head. Would be a shame though to lose such a handsome man to the executioner <winks>.  
+Player: sugar  
+Red Lilly: Sugar lets the money flow. We depend heavily on it.  
+Player: thais  
+Red Lilly: Thais might be a splendid town, but this is of no use to us here. The situation in our town gets worse with every ship full of foreigners that arrives here.  
+Player: trade  
+Red Lilly: Of course, just browse through my wares. Remember that if you buy vials of oil, there's a deposit of 5 gold on the empty one.  
+Player: venore  
+Red Lilly: I heard Venore will soon acquire several trade monopolies that will grant them wealth for centuries.  
+Player: voodoo  
+Red Lilly: Well, <lowers the voice to a whisper> there are several people around who know this or that about voodoo and not all of them are up to something good. Just buy some lucky charms from that old hag Charlotta to be on the safe side.  
+Player: Wyrmslicer  
+Red Lilly: A handsome man but a bit too stiff. I think no one has ever had a chance to see him smiling.  
+Player: bye / farewell  
+Red Lilly: Good bye sweetie.  
+Player: vial  
+Red Lilly: I will pay you 5 gold for every empty vial. Ok?  
+Player: no  
+Red Lilly: Hmm, but please keep Tibia litter free.  
+Player: vial  
+Red Lilly: I will pay you 5 gold for every empty vial. Ok?  
+Player: yes  
+Red Lilly: You don't have any empty vials.  

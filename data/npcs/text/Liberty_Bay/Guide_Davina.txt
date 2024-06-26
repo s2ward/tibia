@@ -1,0 +1,60 @@
+Player: hi
+Guide Davina: Hello there, Player and welcome to Liberty Bay! Would you like some information and a map guide?
+Player: information
+Guide Davina: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot, as well as about the world status.
+Player: town / Liberty Bay
+Guide Davina: This city has three main districts - a noble district, a merchant district and the slums. The class difference is clearly visible here. Most shops are in the merchant district. There are also large sugarcane plantations.
+Player: sugarcane
+Guide Davina: Well, this is where the city got its wealth from, it's just that the wrong people got rich. The poor farmers who do all the dirty work earn almost nothing.
+Player: shops
+Guide Davina: You can buy weapons, armor, tools, gems, magical equipment, furniture and food here.
+Player: weapons / armor
+Guide Davina: You can buy armor and weapons as well as ammunition from Cedrik. His shop is in the centre of town, north west of the depot.
+Player: tools
+Guide Davina: General goods like ropes and shovels can be bought in Red Lilly's shop. You can find her in the western part of town, north west of the depot.
+Player: gems
+Guide Davina: Chantalle sells gems in the nobility district in the north-eastern part of Liberty Bay. She has her nose up pretty high if you ask me.
+Player: magic
+Guide Davina: Magical equipment like runes and potions can be bought at Malunga's assistant, Frederik. Malunga's tower is located north east of the depot. Once you've reached the tower, go upstairs to find her. I can mark it on your map for you.
+Player: furniture
+Guide Davina: Peggy sells furniture in the north-western part of town, just north of the weapon shop. Head north-west from the depot.
+Player: food
+Guide Davina: Lyonel in the tavern, just to the left of the depot, sells food.
+Player: temple
+Guide Davina: The temple is just north west of the depot. You can't miss it.
+Player: bank
+Guide Davina: Jefrey, our bank clerk, can be found inside the depot. Easy to find.
+Player: spell trainers
+Guide Davina: Knight spells can be bought in the fortress from Tristan. It's a bit tricky to find, but I can mark it on your map for you.
+Player: depot
+Guide Davina: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.
+Player: world status
+Guide Davina: If you'd like to know the status of this world just say the keyword for a world change.
+Player: keyword / change
+Guide Davina: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
+Player: mark / map
+Guide Davina: Would you like me to mark locations like - for example - the depot, bank and shops on your map?
+Player: yes
+Guide Davina: Here you go.
+Player: no
+Guide Davina: Well, nothing wrong about exploring the town on your own. Let me know if you need something!
+Player: name
+Guide Davina: I'm Davina. Glad to help you today.
+Player: job
+Guide Davina: Well, I'm a guide. I can mark important locations on your map and give you some information about the town. I do this for free, but I'm always happy about a small donation if you can spare some money.
+Player: donation
+Guide Davina: Ohhh... would you really spare 10 gold pieces for me?
+Player: yes
+Guide Davina: By the gods! Thank you so much! I will not forget this.
+Player: no
+Guide Davina: Ah well, I didn't think so.
+Player: time
+Guide Davina: It's 7:40 am right now. Almost time for my lunch break, so hurry up if you need some information from me!
+Player: harbour
+Guide Davina: That's where we are standing right now. You can travel between the Tibian settlements using this ship if you have a premium account, that is.
+Player: post
+Guide Davina: The post office is right in the depot. Herbert will be at your service.
+Player: blessings
+Guide Davina: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.
+Player: bye
+Guide Davina: Good bye and enjoy your stay in Liberty Bay, Player.

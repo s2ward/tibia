@@ -1,0 +1,18 @@
+Player: hi
+Dregor: Hi!
+Player: job
+Dregor: I'm a security guard of the plant.
+Player: plant
+Dregor: The plant is of greatest value and has to be protected appropriately.
+Player: magistrate
+Dregor: I think the magistrate should invest in some form of army. With all the threads and hand we few guardsmen are not numerous enough to fight back.
+Player: minotaurs
+Dregor: They will never give up. There will be no peace until all of them are dead.
+Player: maxxen
+Dregor: That was the madman responsible for that walker incident. It many good men died that day but in the end order prevailed.
+Player: captain caveworm
+Dregor: Spare me that nonsense.
+Player: stories
+Dregor: We have everything under control and I have nothing to discuss with you. Move on. [walks away]
+Player: bye
+Dregor: Good bye.

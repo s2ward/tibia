@@ -1,0 +1,44 @@
+Player: hi  
+Dorbin: Hello, Player! Welcome to my furniture store. I hope you are interested in a trade!  
+Player: name  
+Dorbin: I'm Dorbin.  
+Player: job  
+Dorbin: I sell furniture. We own this store in the third generation.  
+Player: yalahar  
+Dorbin: The city looks like a mess but new furniture here and there would work wonders, believe me.  
+Player: trade  
+Dorbin: Have a look. Most furniture comes in handy kits. Just use them in your house to assemble the furniture. Do you want to see only a certain type of furniture?  
+Player: type  
+Dorbin: I have beds, chairs, containers, decoration, flowers, instruments, pillows, pottery, statues, tapestries and tables. Which of those would you like to see?  
+Player: vampire  
+Dorbin: Well, sigh. It's not funny to live in a city that is under frequent attack by vampires.  
+Player: yalahari  
+Dorbin: They are too elitist to buy my wares. I doubt they find any better quality, though.  
+Player: orc  
+Dorbin: Ah you noticed my little helper? Well, if you train them at a young age, they are quite helpful. Still, I have to keep an eye on him. Until now his use outweighed the stuff he has smashed.  
+Player: offer / goods / ware / stuff / equipment / buy / sell / furniture  
+Dorbin: Well, as you can see, we sell furniture. Ask me for a trade if you're interested.  
+Player: alchemist quarter  
+Dorbin: It was probably just luck that those mad alchemists did not blow up the whole city.  
+Player: arena quarter  
+Dorbin: As if it had not been bad enough that this quarter was run over by madmen, these madmen were armed to the teeth.  
+Player: foreign quarter  
+Dorbin: One day, these monsters will unite and attack us.  
+Player: sunken quarter  
+Dorbin: For a while flotsam was quite popular as decor, but by now there are only a few pieces left.  
+Player: magician quarter  
+Dorbin: I don't want to deal with these strange guys wearing robes.  
+Player: factory quarter  
+Dorbin: I doubt that any factory could replace the carpentry skill me and my assistants have acquired.  
+Player: blood crystal  
+Dorbin: I agree, that would be a nice decoration object. Unfortunately I don't sell them.  
+Player: cookies  
+Dorbin: You can toss some cookies to my little helper over there. But don't stick your finger in.  
+Player: news  
+Dorbin: I just reduced all prices drastically.  
+Player: palimuth  
+Dorbin: He seems to be quite nice and reasonable.  
+Player: time  
+Dorbin: It is 2:42 am.  
+Player: farewell / bye  
+Dorbin: Good bye, Player.  

@@ -1,0 +1,68 @@
+NPC: Bradford  
+Player: hi / hello  
+Bradford: Greetings, traveller Player.  
+Player: Carlin  
+Bradford: In Carlin the arts are held in high value. I'd love to visit that city one day. If I only wouldn't get seasick that easily.  
+Player: Charlotta  
+Bradford: Charlotta is a healer who is knowledgeable about herbs and such. She's done many good things for the society.  
+Player: Chondur  
+Bradford: Chondur is some reclusive sage that lives, hidden from disturbing people, on some remote but beautiful isle.  
+Player: cult  
+Bradford: I don't know anything specific about some cult. Of course I heard rumours that there actually is some cult but I don't know if it is true or what that cult is all about.  
+Player: Eleonore  
+Bradford: *Sighs* What a beauty. But out of reach for a common man like me. She inspired me to a few love songs and poems though <blushes>.  
+Player: excalibug  
+Bradford: The legends about this weapon are by far older than our settlement. So I doubt that anyone will find a clue about its whereabouts here.  
+Player: Explorer Society  
+Bradford: I'd love to explore and travel on my own. Sadly I get seasick as soon as I set a foot on a plank. *sighs* It must be wonderful to see the wonders of the world. Just imagine, every day would be a new adventure.  
+Player: Ferumbras  
+Bradford: Once Ferumbras was the most powerful sorcerer in the known lands. He was in liege with the powers of evil and darkness. Rumour has it that he is so evil that not even hell can keep him captive after his death ...  
+Bradford: So he escapes now and then to the world of the living to wreak havoc once again.  
+Player: governor  
+Bradford: I don't understand much about politics but it must be an enormous responsibility to rule such a growing community like ours. It must be marvellous to see things evolving and growing on account of plans you made and decisions you took.  
+Player: Isolde  
+Bradford: Isolde's beauty is second only to that of the governor's daughter Eleonore. Although I think she's a bit melancholic most of the time, the knight Tristan has lost his heart to her.  
+Player: job / traveller  
+Bradford: I'm a bard and entertain the sailors and travellers here with my songs.  
+Player: king  
+Bradford: I only wish the king would visit us here one day. It must be great to see his majesty and all of his wealth and power with your own eyes.  
+Player: liberty bay  
+Bradford: It's such a lovely city. Of course, everybody likes his home best, but it is hard to believe any other city could have that much charm.  
+Player: loveless / theodore  
+Bradford: He is a wealthy tradesman from Venore. If you have seen the precious furniture of his villa, you begin to wonder how rich and marvellous Venore must be.  
+Player: natives  
+Bradford: Some people call the families of the first settlers natives. I hope these artificial boundaries will vanish one day.  
+Player: pirate  
+Bradford: Pirates live a life of freedom. Roaming the seas at it pleases them. Having a live of thrill, adventure and exploration.  
+Player: plantations  
+Bradford: The workers created their own kind of music. It's a bit strange but lovely nonetheless.  
+Player: quara  
+Bradford: These murderous fishmen are the curse of Liberty Bay. They seem to raid us with the only purpose to murder and to scare us.  
+Player: Raymond Striker  
+Bradford: Raymond Striker is the epitome of a pirate. Handsome and daring, leading his crew with cunning and bravery from adventure to adventure.  
+Player: rum  
+Bradford: A little rum now and then greases the throat and gives your voice the right timbre.  
+Player: sugar  
+Bradford: Sugar is as sweet as the kiss of a woman.  
+Player: thais  
+Bradford: Thais is the centre of a huge kingdom. As such it must be marvellous and filled with wonders and people from all over the world.  
+Player: treasure  
+Bradford: Hmmm, I'm just not in the mood to talk about treasures right now.  
+Player: Tristan  
+Bradford: He is a young and friendly knight. He's quite competent in the arts of war and trains aspiring knights.  
+Player: venore  
+Bradford: I heard Venore was built completely in a swamp. It must be a great sight indeed to see that strange city with your own eyes.  
+Player: voodoo  
+Bradford: That's some sort of dark magic that evil witches and necromancers command.  
+Player: Wyrmslicer  
+Bradford: He is a hero of the Thaian army, a seasoned fighter and a great tactician. He is an idol for his men and inspires their courage.  
+Player: bye / farewell  
+Bradford: Farewell, Player.  
+Player: song  
+Bradford: Do you want me to sing a song?  
+Player: yes  
+Bradford: Ding! Dong! The witch is dead! The witch is dead...  
+Player: song  
+Bradford: Do you want me to sing a song?  
+Player: no  
+Bradford: Oh, ok. Perhaps another time.  

@@ -1,0 +1,58 @@
+Player: hi
+Sissek: Greetingsss, dear guessst! What may I do for you? Bank businessss, perhapsss?
+Player: name
+Sissek: Sissek is my name.
+Player: job
+Sissek: I am running thisss bank.
+Player: time
+Sissek: It isss 8:02 am, precisssely.
+Player: rumors / rumours / news
+Sissek: If you want to hear sssome newsss, go to the market place. The tradersss there know all the gossssip.
+Player: tibia
+Sissek: It'sss the name of the world we live in.
+Player: marapur
+Sissek: It'sss thisss island here. At itsss centre lie the Ssstardance Mountainsss with the city Moonfall.
+Player: thais / venore / carlin / edron / ab'dendriel / kazordoon / darashia
+Sissek: I'm sssorry but I have never heard of thisss place.
+Player: kilmaresh / issavi / krailos / oramond / rathleton
+Sissek: I have never been there.
+Player: elfs / elves / dwarves / dwarfs
+Sissek: I don't know much about them.
+Player: nilavarna
+Sissek: He isss the raja of the coast folk. Their king ssso to sssay.
+Player: candra
+Sissek: She isss the daughter of Nilavarna, the coassstal nagasss' raja.
+Player: saraki
+Sissek: She isss the maharani of Moonfall and very beloved by her people.
+Player: nihaka
+Sissek: He isss the ssson of Saraki, our maharani.
+Player: amra
+Sissek: If you want to sssend a letter or parcel to sssomeone, asssk Amra at the possst office here in Moonfall.
+Player: asphota
+Sissek: Asssphota sellsss toolsss at the market of Sssilvertidesss.
+Player: giri
+Sissek: If you want to sssell some gemsss, Giri isss the one you ssshould asssk. You can find him at the market here in Moonfall.
+Player: isika
+Sissek: Isssika sellsss ammunition at the market of Sssilvertidesss.
+Player: nipuna
+Sissek: Nipuna isss ssselling wandsss and runesss at the market of Sssilvertidesss.
+Player: sundara
+Sissek: She isss a gifted alchemissst and isss selling potionsss at the market here in Moonfall.
+Player: haani
+Sissek: She isss a young two-leg from Issavi and isss ssselling two-leg friendly furniture at the market here in Moonfall.
+Player: sessek
+Sissek: He isss my brother and arrived together with me from Zzzao, a long time ago. He runsss the tavern in the Houssse of Ressst and Wisssdom here in Moonfall.
+Player: udu
+Sissek: She isss an assstronomer here in Moonfall and hasss a laboratory ssslightly away from the city.
+Player: vrisaki
+Sissek: She isss the shaman here, a very wissse woman with a ssstrong connection to the mountain spiritsss and the Moon Goddessss alike.
+Player: tarisu
+Sissek: He isss the coast folk'sss shaman, a powerful wave shaper.
+Player: kaumudi
+Sissek: Kaumudi isss one of our hatch-mothersss. That meansss she caresss for the eggsss of all of Moonfall'sss nagasss.
+Player: dhira
+Sissek: I'm not quite sssure, but I guessss he isss one of the coassstal nagasss' beaver keepersss.
+Player: ziyad
+Sissek: He hasss a magic carpet with which he can fly through the air. If you asssk him, he might be able to fly you to other islandsss or continentsss.
+Player: bye
+Sissek: Farewell!

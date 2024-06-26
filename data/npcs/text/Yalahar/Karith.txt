@@ -1,0 +1,67 @@
+Player: hi / hello  
+Karith: Hello! Tell me what's on your mind. Time is money.  
+Player: ab'dendriel  
+Karith: I must admit this bug milk is something special. The rich Yalahari might be quite fond of it. Do you want a passage to Ab'Dendriel for 150 gold?  
+Player: ankrahmun  
+Karith: The Yalahari seem to be obsessed with conserving their dead, so I guess the embalming fluid will be a great success in Yalahar. Do you want a passage to Ankrahmun for 220 gold?  
+Player: carlin  
+Karith: The evergreen flower pots are an amusing item that might find some customers here. Do you want a passage to Carlin for 175 gold?  
+Player: darashia  
+Karith: Of course it is merely superstition that the darashian sand wasp honey brings back youth and vitality, but as long people pay a decent price, I couldn't care less. Do you want a passage to Darashia for 200 gold?  
+Player: thais  
+Karith: Astonishing enough the royal satin seems to suit the exquisite taste of the Yalahari. Do you want a passage to Thais for 190 gold?  
+Player: liberty bay  
+Karith: The rum of this city seems .. adequate for the taste of some inhabitants. Do you want a passage to Liberty Bay for 265 gold?  
+Player: venore  
+Karith: The swamp spice will turn out very lucrative considering that it helps to make even the most disgusting dish taste good. Do you want a passage to Venore for 175 gold?  
+Player: port hope  
+Karith: Ivory is highly prized by the artisans of the Yalahari. Do you want a passage to Port Hope for 250 gold?  
+Player: travora  
+Karith: Travora is the place for the character world transfer, so if you travel there make sure you actually do want to change worlds. Do you want to purchase a new daily ticket for 1000 gold?  
+Player: svargrond  
+Karith: I deny going there. It is way too cold there.  
+Player: kazordoon  
+Karith: Even if they had a harbour, I can do without the company of dwarfs.  
+Player: edron  
+Karith: This city is of no interest to us.  
+Player: krailos  
+Karith: That's a faraway grassland, inhabited by savage ogres, as the word is. I won't sail there.  
+Player: issavi  
+Karith: A beautiful city in a strange but fascinating land. I don't sail there, though.  
+Player: darama  
+Karith: Darama is a continent, not a city! <sigh> I guess that is what happens when someone has never seen a school from the inside.  
+Player: ship / sail / trip / destination / passage / go / town  
+Karith: For the sake of profit, we established ship routes to Ab'Dendriel, Darashia, Venore, Ankrahmun, Port Hope, Thais, Liberty Bay and Carlin. I can also sail you to Travora, if you want.  
+Player: mind / job  
+Karith: I'm the captain of this ship. Now and then a Yalahari wants to make a trip around the isle. ...  
+Karith: It's a special privilege, although a rare one.  
+Player: name  
+Karith: I'm Karith. I don't belong to a caste any longer, and only serve the Yalahari.  
+Player: how are you  
+Karith: I guess as soon as you are leaving, I'll be fine.  
+Player: excalibug  
+Karith: I'm sure the Yalahari possess more powerful weapons than that.  
+Player: yalahar  
+Karith: The city was a marvel to behold. It is certain that its ruin was caused by too many foreigners.  
+Player: vampire  
+Karith: I leave them in peace, they leave me in peace. Whatever.  
+Player: blood crystal  
+Karith: I'm not interested in stuff like that.  
+Player: monster  
+Karith: The power of the Yalahari will ward off all monsters.  
+Player: ferumbras  
+Karith: I bet his power is nothing compared to the awesome might of the Yalahari.  
+Player: yalahari  
+Karith: The Yalahari are wiser and more powerful than you could ever imagine. You won't be able to understand the extent of their power. It's a pity there are only so few left.  
+Player: elf  
+Karith: I've got no contact to other elves, my family came here a generation ago.  
+Player: dwarf  
+Karith: Luckily, those little diggers are a rare sight here.  
+Player: god / banor / uman / zathroth  
+Karith: Gods are useless at best and a danger at worst.  
+Player: rumor / rumour / news  
+Karith: I'm too busy to bother about rumours.  
+Player: mission / task / quest  
+Karith: I doubt that you can do anything that would be useful for me!  
+Player: bye  
+Karith: Good bye.  

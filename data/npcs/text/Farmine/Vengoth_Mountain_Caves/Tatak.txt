@@ -1,0 +1,10 @@
+Player: hi
+Tatak: Ungh.
+Player: name
+Tatak: Tatak!
+Player: job
+Tatak: Ai, eh.
+Player: (any)
+Tatak: No, no. No. No speek!
+Player: bye
+Tatak: Ugha.

@@ -1,0 +1,22 @@
+Player: hi / hello
+Hanna: Oh, please come in, Player. What do you need? Have a look at my wonderful offers in gems and jewellery.
+Player: offers / sell / buy
+Hanna: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.
+Player: goblets
+Hanna: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.
+Player: trade
+Hanna: Here, take a look.
+Player: gems
+Hanna: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.
+Player: time
+Hanna: Currently it is 2:08 am.
+Player: name
+Hanna: I am Hanna.
+Player: job
+Hanna: I am a jeweler. Maybe you want to have a look at my wonderful offers.
+Player: jeweler
+Hanna: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.
+Player: Eclesius
+Hanna: I don't know that name.
+Player: bye / farewell
+Hanna: Good bye.

@@ -1,0 +1,77 @@
+Player: hi
+Charles: Ahoy. Where can I sail you today?
+Player: name
+Charles: It's Charles.
+Player: job
+Charles: I'm the captain of the Poodle, the proudest ship on all oceans.
+Player: time
+Charles: It's precisely 1:28 pm.
+Player: king
+Charles: His majesty himself was present at the day the Poodle was launched.
+Player: jungle
+Charles: It's a fascinating forest, full of exotic life. If it weren't for my duties, I would spend some time just exploring this jungle.
+Player: apes
+Charles: I'd love to catch a living exemplar to show it to the Thaian king.
+Player: lizards
+Charles: They live in a small settlement, south east of the jungle next to the coast. It looks somewhat primitive but there is evidence that it was built only recently.
+Player: dworcs
+Charles: They attacked us when we set feet on the southern shore of the continent. They are poison using savages, nothing more.
+Player: tibia
+Charles: We live in a fascinating world with even more fascinating oceans. I know all major harbours.
+Player: major harbours
+Charles: Well, the harbours of Thais, Venore, Carlin, Edron, Darashia, Yalahar and Ankrahmun. If you have any questions about one of these harbours, just ask.
+Player: thais
+Charles: Thais is the proud capital of the largest kingdom in the known world.
+Player: venore
+Charles: The Venoreans build fine ships.
+Player: carlin
+Charles: Rebellious women might be amusing for a while, but now it is time for them to stop this nonsense and to return to the kingdom.
+Player: edron
+Charles: The coastline of Edron is treacherous and it takes some skills to sail a ship safely into the harbour.
+Player: darashia
+Charles: An unremarkable little town with a small harbour and quiet people.
+Player: ankrahmun
+Charles: The city is surely worth a look, although its inhabitants are somewhat strange.
+Player: yalahar
+Charles: A city of wonders, even though there is not much left of its former glory.
+Player: kazordoon
+Charles: A dwarven city, somewhere in the middle of nowhere.
+Player: dwarves / dwarfs
+Charles: It's fun to see a seasoned dwarven fighter turning into a shivering green something as soon as we get a mild breeze on sea.
+Player: ab'dendriel
+Charles: My visits there were interesting and I learnt a lot about the elves and their city. I can only recommend a visit there and if it is only to admire the amazing architectural style in which the city was built.
+Player: elves / elfs
+Charles: Elves are very special creatures. They are in touch with nature almost like druids. Even though I don't really understand their way of life, I think we could learn one or two things of them.
+Player: darama
+Charles: Once, I sailed around the whole continent and I saw many of its wonders. There is surely much more that can be discovered.
+Player: Carlin
+Charles: A town ruled by women... nothing else to add.
+Player: krailos
+Charles: That's a faraway grassland, inhabited by savage ogres, as the word is.
+Player: rathleton
+Charles: Strange city and even stranger creatures there. And did I mention dangerous? Very dangerous.
+Player: ferumbras
+Charles: He must have immense powers.
+Player: excalibug
+Charles: You better ask some knight about it.
+Player: passenger
+Charles: We would like to welcome you on board.
+Player: trip / route / passage / town / destination / sail / go
+Charles: Where do you want to go - Thais, Darashia, Venore, Liberty Bay, Ankrahmun, Oramond, Yalahar or Edron? Or to Travora - a place between the worlds?
+Player: thais / edron / liberty bay / yalahar
+Charles: I know a shortcut on this route. Tell me if you are interested. Or do you seek a passage to (place) for x gold?
+Player: shortcut
+Charles: This passage is shorter and costs less gold - but on the other hand it is also a bit riskier. On this route there are frequent tempests and the severe winds may blow a passenger over board. ...
+Charles: Few ship captains would sail this route. But if you want to take the risk, I can bring you to Thais, Edron, Liberty Bay or Yalahar for less gold than usual. Interested?
+Player: no
+Charles: Perhaps another time.
+Player: yes
+Charles: Do you seek a shortcut passage to Thais for 100 gold, to Edron for 90 gold, to Liberty Bay for 20 gold or to Yalahar for 200 gold?
+Player: no
+Charles: We would like to serve you some time.
+Player: travora
+Charles: Travora is the place for the character world transfer, so if you travel there make sure you actually do want to change worlds. Do you want to purchase a new daily ticket for 1000 gold?
+Player: kick
+Charles: Off with you!
+Player: bye
+Charles: Bye.

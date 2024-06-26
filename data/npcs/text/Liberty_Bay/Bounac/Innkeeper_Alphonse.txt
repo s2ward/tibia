@@ -1,0 +1,36 @@
+Player: hi
+Innkeeper Alphonse: Welcome, customer! Enjoy a hot meal, fine cheese or a glass of wine!
+Player: name / alphonse
+Innkeeper Alphonse: The name's Alphonse, pleased to meet you!
+Player: job
+Innkeeper Alphonse: I am the innkeeper of the Lionheart. Doing this for quite a few decades now.
+Player: Lionheart
+Innkeeper Alphonse: Indeed, the best tavern in Bounac! I am very proud of it and named it to honour the courage of my long lost son, Valdyn.
+Player: meal / cheese / wine
+Innkeeper Alphonse: Enjoy your stay!
+Player: siege / drume / fugue
+Innkeeper Alphonse: Those two brothers, Drume and Fugue have been quite a nuisance lately. They were never nice people - but this?!
+Player: lesh the seer
+Innkeeper Alphonse: Well yes, we have a seer here, too. You can find him up in the mountains. Near the village.
+Player: kesar the younger
+Innkeeper Alphonse: Kesar is a good lad, you can trust him. We all do, he stood by us through some harsh times.
+Player: john the carpenter
+Innkeeper Alphonse: John was bitten by a snake, can you imagine that? A snake!
+Player: wes the smith
+Innkeeper Alphonse: Wes is our smith, he's also teaching after work.
+Player: dal the huntress / hunter
+Innkeeper Alphonse: Dal is a fine young lad, she often comes here to lighten up my mood.
+Player: jehan the baker
+Innkeeper Alphonse: Did you try baker Jehan's pastries yet? I don't like'em. Everybody seems to just love'em, I don't understand it.
+Player: fral the butcher
+Innkeeper Alphonse: Well, he's an elf, so what I say.
+Player: onfroi
+Innkeeper Alphonse: Onfroi doesn't come here very often. I guess he just doesn't like the hustle and bustle in here, can't blame in.
+Player: evrard the miller
+Innkeeper Alphonse: I've known Evrard for a long time, hope is doing well.
+Player: augustin
+Innkeeper Alphonse: TRADER AUGUSTIN!
+Player: yselda
+Innkeeper Alphonse: The one and uniquely pitiful, poor Yselda of Bounac.
+Player: bye
+Innkeeper Alphonse: Farewell, traveller!

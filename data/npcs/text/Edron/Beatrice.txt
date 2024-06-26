@@ -1,0 +1,53 @@
+Beatrice: Selling general goods and paperware! Come to my shop!
+Player: hi
+Beatrice: Hello, hiho, and ashari Player. Looking forward to trade with you.
+Player: job
+Beatrice: I'm selling all kind of useful equipment.
+Player: equipment / goods
+Beatrice: My inventory of general goods and paperware is large, ask me for a trade to take a look.
+Player: name
+Beatrice: I'm called Beatrice.
+Player: academy
+Beatrice: The studious magicians of the academy are mostly very polite but a bit absent-minded.
+Player: ruins
+Beatrice: I think there are haunted ruins in the North. Whatever has lived there was certainly not human, so better stay away.
+Player: svargrond
+Beatrice: Imagine a place of eternal winter. How gloomy and dark life must be there.
+Player: venore
+Beatrice: I'm somewhat nervous about the Venorean traders. They've been trying to buy my shop for years, and they are becoming more and more aggressive.
+Player: darama
+Beatrice: What a horrible land. I heard you can dry out in the desert or even be eaten by giant insects.
+Player: thais
+Beatrice: We are no longer in need for supplies from there.
+Player: tibia
+Beatrice: I don't like travelling much. I prefer to live in the safety of our city.
+Player: carlin
+Beatrice: Even though they rebelled against our king, the city is supposed to be very lovely.
+Player: edron
+Beatrice: It's the best place to live at.
+Player: news / rumors
+Beatrice: There are always rumors about the dangers in the far north of Edron.
+Player: time
+Beatrice: It's horas right now.
+Player: ferumbras
+Beatrice: I vaguely remember that name.
+Player: excalibug
+Beatrice: That's just a myth like the screwdriver of Kurik or the endless casket of mana potions.
+Player: king / tibianus
+Beatrice: I've seen him once. What a handsome man!
+Player: harkath bloodblade
+Beatrice: Now and then, the Thaian general comes here to inspect the army. He is such a brave and impressive man. I wonder if he is married.
+Player: army
+Beatrice: I supply them with some basic stuff.
+Player: orcs
+Beatrice: This brutish green beasts live somewhere in the South of our isle. I heard the only way to reach their area is through some underground passage ...
+Beatrice: I hope it is well-guarded by the army.
+Player: trolls
+Beatrice: The trolls are no match for our fine guards. They mostly keep among themselves, and no one with some sense of taste would bother to pay them a visit ...
+Beatrice: I find it rather amusing and fitting that you'll have to crawl through the sewers to get to them.
+Player: orshabaal
+Beatrice: I've heard a dragon or something like that with the name Orshabaal often ravages the northern part of our isle ...
+Beatrice: If it were not for the soldiers here, I'd be worried, but I'm sure the army will keep us safe ...
+Beatrice: If these adventurers weren't always scaring away that beast before the army can intervene, we'd be rid of this creature for years.
+Player: bye
+Beatrice: See you later, Player.

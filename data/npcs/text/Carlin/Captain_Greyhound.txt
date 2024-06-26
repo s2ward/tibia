@@ -1,0 +1,30 @@
+Player: hi
+Captain Greyhound: Welcome on board, Madam Player. Where can I sail you today?
+Player: name
+Captain Greyhound: My name is Captain Greyhound from the Royal Tibia Line.
+Player: job / captain
+Captain Greyhound: I'm the captain of this sailing ship.
+Player: tibia / line / company / route / ship
+Captain Greyhound: The Royal Tibia Line connects all seaside towns of Tibia.
+Player: goods
+Captain Greyhound: We can transport everything you want.
+Player: passenger
+Captain Greyhound: We would like to welcome you on board.
+Player: trip / passage / town / destination / sail / go
+Captain Greyhound: Where do you want to go? To Thais, Ab'Dendriel, Venore, Svargrond, Yalahar or Edron? Or to Travora - a place between the worlds?
+Player: thais / ab'dendriel / venore / svargrond / yalahar / edron
+Captain Greyhound: Do you seek a passage to (city) for (x) gold?
+Player: no
+Captain Greyhound: We would like to serve you some time.
+Player: ice islands / senja / folda / vega
+Captain Greyhound: I'm sorry, but we don't serve the routes to Senja, Folda or Vega. I could bring you to Svargrond, though.
+Player: darashia / darama
+Captain Greyhound: I'm not sailing there. This route is afflicted by a ghost ship! However, I heard that Captain Fearless sails there from Venore.
+Player: ghost
+Captain Greyhound: Many people who sailed to Darashia never returned because they were attacked by a ghost ship! I'd never sail there!
+Player: carlin
+Captain Greyhound: This is Carlin. Where do you want to go?
+Player: Player: ankrahmun / tiquanda / port hope / rathleton / oramond / roshamuul / kazordoon / liberty bay / krailos / farmine / zao
+Captain Greyhound: Sorry, but I don't sail there.
+Player: bye
+Captain Greyhound: Good bye. Recommend us if you were satisfied with our service.

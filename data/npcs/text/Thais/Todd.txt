@@ -1,0 +1,35 @@
+Player: hi / hello  
+Todd: Uhm oh hello Player... not so loud please... my head... What ... do you want?  
+Player: want / job  
+Todd: I am... a traveller. Just leave me alone if you have nothing interesting to talk about.  
+Player: interesting / trade  
+Todd: I'd really like to rebuild my reputation someday and maybe find a nice girl. If you come across scrolls of heroic deeds or addresses of lovely maidens... let me know! ...  
+Todd: Oh no, it doesn't matter what name is on the scrolls. I'm, uhm... flexible! And money - yes, I can pay. My, erm... uncle died recently and left me a pretty sum. Yes.  
+Player: how are you  
+Todd: Oh, this headache, one of the beers Frodo served me must have been foul.  
+Player: name  
+Todd: My Name? I am To... ahm... hum... My name is Hugo.  
+Player: hugo  
+Todd: Yes, that's my name of course.  
+Player: thais  
+Todd: I love that city.  
+Player: resistance  
+Todd: Resistance is futile... uhm... I wonder where I picked that saying up. Oh my head...  
+Player: head  
+Todd: Uhhh ohhhh one of the beers yesterday must have been bad.  
+Player: william  
+Todd: That's a common name, perhaps I met a William, not sure about that.  
+Player: money  
+Todd: I don't know anything about money, missing or not.  
+Player: todd  
+Todd: Uh .. I... I met a Todd on the road. He told me he was traveling to Venore, look there for your Todd.  
+Player: Eclesius  
+Todd: He often comes here. But his constant confusion gives me a worse headache than Frodo's beer. I rather avoid him.  
+Player: carlin  
+Todd: I never was there! Now leave me alone.  
+Player: karl  
+Todd: Uhm, never heard about him... and you can't prove otherwise.  
+Player: smuggler  
+Todd: I am a honest person and don't like to be insulted!  
+Player: bye / farewell  
+Todd: Yes, goodbye Player, just leave me alone.  

@@ -1,0 +1,73 @@
+NPC:Eleonore  
+Player: hi / hello  
+Eleonore: Be greeted. What brings you here?  
+Player: Charlotta  
+Eleonore: My father calls her an old hag who gives people strange ideas. But she did nothing to undermine his authority and is well liked all over town.  
+Player: Chondur  
+Eleonore: <whispers> That man is a living myth for the native people. Whenever they are looking for aid and guidance in mystical matters, they turn to him. He is rarely seen in town and no one knows where he lives.  
+Player: cult  
+Eleonore: There are rumours ... but rumours are common here. I think my father is convinced that is only some myth among the natives.  
+Player: daughter  
+Eleonore: My father is the local governor. There is little to do for me, other than attending festivities and handling all my suitors.  
+Player: errand  
+Eleonore: I knew I could trust you.  
+Player: fashion  
+Eleonore: I wonder what the latest fashion in Thais might be.  
+Player: governor  
+Eleonore: My father is the representative of the Thaian king for this whole area.  
+Player: here  
+Eleonore: My father is the local governor. There is little to do for me, other than attending festivities and handling all my suitors.  
+Player: hugo  
+Eleonore: Isn't that this wonderful fashion designer that resides in Venore?  
+Player: Isolde  
+Eleonore: She is so strong and confident. She simply does not care about the rumours people spread about her. I hope she will find some support in Tristan.  
+Player: job  
+Eleonore: Well, <giggles> I am a professional spoiled daughter.  
+Player: king  
+Eleonore: I have seen him as a child when we lived in Thais.  
+Player: Liberty Bay  
+Eleonore: This is the town I call home. It might not be the most beautiful town I have seen but the only one where we lived long enough to become accustomed to. We arrived here when I was still a child.  
+Player: loveless / theodore  
+Eleonore: Hmpf, this man is so self-centred and arrogant. I wish my father would see the bad influence this snake of a man has on other people.  
+Player: mermaid  
+Eleonore: I can't thank you enough for freeing my beloved Ray from that evil spell. I am still shocked that a mermaid could steal his love that easily.  
+Player: myth  
+Eleonore: Those rumours about some cult give me shivers. My fathers says that there is no cult or something to worry about. Still sometimes I wonder if there is a grain of truth in those stories that the people in town are whispering to each other.  
+Player: nargor  
+Eleonore: They suspect a pirate base there. On the other hand, they also suspect one on dozens of small other islands. The reefs and treacherous waters discourage everyone from further investigations.  
+Player: natives  
+Eleonore: These people have a strong desire for freedom and independence... I wish there would be a way for them to achieve their needs without causing any conflicts with Thais.  
+Player: peg leg  
+Eleonore: Psht! Don't say the secret word that loud.  
+Player: pirate  
+Eleonore: Not all pirates are alike. Of course some are just common bandits, but others were forced to live the life of a pirate in order to survive. Again others might have chosen this life to fight for ideals they hold dear.  
+Player: plantations  
+Eleonore: Sometimes I wonder what it is like to work on the plantations all day from morning until evening. I hardly can imagine that these workers ever have joy.  
+Player: ring  
+Eleonore: Thank you again for returning my ring.  
+Player: quara  
+Eleonore: Those beasts killed so many innocents. If there only was a way to stop them once and for all...  
+Player: Striker  
+Eleonore: <blushes> Oh, he is so wonderful. A very special man with a special place in my heart.  
+Player: time  
+Eleonore: <sighs> It seems that in some areas we can't keep pace with the rest of the world. Just look at our latest fashion.  
+Player: rum  
+Eleonore: I prefer wine to this horrible brew. I have seen what it can turn a man into and I can't say that I liked it.  
+Player: sugar  
+Eleonore: Sugar makes our town prosper. Perhaps we should share some of our wealth with the poor. I had an idea about a free soup kitchen but sadly my father and especially Mr. Loveless disliked it.  
+Player: suitors  
+Eleonore: I guess I have one or two admirers <wink>. They can become quite annoying sometimes.  
+Player: thais  
+Eleonore: I hardly remember Thais. We used to travel a lot before my father decided to settle here. So the memories of the town I was born in are vague at best.  
+Player: trade barons  
+Eleonore: <sigh> Actually they are just ordinary tradesmen, but considering their behaviour they truly act as if they were some kind of barons or some other nobility. I can see why people call them trade barons.  
+Player: tradesmen  
+Eleonore: Being a tradesman can be a good and honourable profession ... unless you succumb to greed and forget to care about your fellow men.  
+Player: Tristan  
+Eleonore: He is a fine young knight. I think he and Isolde did fall in love but I am not sure if they both even noticed <smiles>.  
+Player: venore  
+Eleonore: Well the city itself might be pretty but the trade barons give me shivers sometimes.  
+Player: voodoo  
+Eleonore: I think it is not fair to condemn the magic used by the poor citizens. It is all they have at their disposal and after all, we use magic too.  
+Player: bye / farewell  
+Eleonore: Good bye.  

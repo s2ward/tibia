@@ -1,0 +1,14 @@
+Player: hi
+Eva: Welcome Player! What business do you have in the Tibian bank today?
+Player: name
+Eva: I am Eva.
+Player: job
+Eva: I work in this bank. I can change money for you and help you with your bank account.
+Player: time
+Eva: It is exactly 1:09 pm.
+Player: bank / offer
+Eva: We can change money for you. You can also access your bank account or your guild account options.
+Player: bye
+Eva: Good bye, Player.
+Player: (vanish)
+Eva: Good bye.

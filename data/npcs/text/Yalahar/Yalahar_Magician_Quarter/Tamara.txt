@@ -1,0 +1,68 @@
+Player: hi  
+Tamara: Welcome to my little place, Player. How may I help you?  
+Player: job  
+Tamara: I'm a druid. I teach spells to other druids.  
+Player: name  
+Tamara: I'm known as Tamara, though my friends also nickname me Tamera.  
+Player: spells  
+Tamara: Sorry, I don't teach spells for your vocation.  
+Player: yalahar  
+Tamara: The city is dying, I can feel it. Not only in a physical sense, but also in a spiritual one.  
+Player: yalahari  
+Tamara: They have lost connection to their city, to their people, to the world. They are lost.  
+Player: druid  
+Tamara: Druids are in close communion with nature. Some of them are also close to their inner beast.  
+Player: sorcerer  
+Tamara: Sorcerers are very aggressive. They use their power to fight and to kill.  
+Player: knights  
+Tamara: Their animalistic rage and their passion for battles are somewhat impressive. If they only understood the animal in them, they could gain much more power.  
+Player: paladins  
+Tamara: They restrict themselves way too much. All this talk about holiness and divine will is pointless. Still, their devotion is admirable.  
+Player: power  
+Tamara: Everyone who becomes a druid has the opportunity to learn many magic spells.  
+Player: alchemist quarter  
+Tamara: The breath of life is no longer blowing over this quarter. The beast of the plaque is lurking in every shady corner, and no hunter can bring it down.  
+Player: foreign quarter  
+Tamara: A scorpion will always be a scorpion.  
+Player: trade quarter  
+Tamara: The pack is always looking for a leader.  
+Player: alchemist quarter  
+Tamara: The breath of life is no longer blowing over this quarter. The beast of the plaque is lurking in every shady corner, and no hunter can bring it down.  
+Player: foreign quarter  
+Tamara: A scorpion will always be a scorpion.  
+Player: trade quarter  
+Tamara: The pack is always looking for a leader.  
+Player: magician quarter  
+Tamara: They thought they could tame magic, but magic devoured them.  
+Player: arena quarter  
+Tamara: The gladiators are to some extent in touch with their inner beast. Still, sometimes they are the prey rather than the predator.  
+Player: sunken quarter  
+Tamara: It is inevitable that mother nature will claim what was once hers.  
+Player: factory quarter  
+Tamara: They tried to cage the forces of nature to have them work for them. Now the factories are silent and covered with dust. Those who thought to have mastered nature are gone, while nature is still here.  
+Player: time  
+Tamara: Eh, I haven't seen daylight for a long time. So, don't ask me, what time it is.  
+Player: excalibug  
+Tamara: Another weapon of destruction. I hope nobody will ever find it.  
+Player: ferumbras  
+Tamara: I came here to get away from evil creatures like him, but here I've found other curses.  
+Player: cookies  
+Tamara: Thank you honey, but I pass on that offer.  
+Player: palimuth  
+Tamara: He is nothing than a puppy of its uncaring masters.  
+Player: vampire  
+Tamara: Fortunately they never come here.  
+Player: blood crystal  
+Tamara: Oh! That cursed stone! I know about it, but I can't tell you anything. Evil gems like that shouldn't be passed around, only a crazy fool would do that.  
+Player: magic  
+Tamara: Everyone who becomes a druid has the opportunity to learn many magic spells.  
+Player: crunor  
+Tamara: Crunor, the father of all trees, is a symbol of life.  
+Player: membership  
+Tamara: Our members use their magic power to protect their life and the life of other creatures.  
+Player: news  
+Tamara: News are of little value in a city that old.  
+Player: vocation  
+Tamara: Your vocation is your profession. There are four vocations in Tibia: druids, paladins, knights, and sorcerers.  
+Player: bye / farewell  
+Tamara: Farewell.  

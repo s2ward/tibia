@@ -1,0 +1,39 @@
+Player: hi
+Kazzan: Feel welcome in the lands of the children of the enlightened Daraman, Player.
+Player: name
+Kazzan: I am Kazzan Ibn Gadral, caliph of Darama.
+Player: job
+Kazzan: I am the caliph of the children of Daraman. It is my privilege and mission to ensure their safety.
+Player: how are you
+Kazzan: I am fine, thank you.
+Player: caliph
+Kazzan: A caliph is a leader of his people, just like a king.
+Player: Daraman
+Kazzan: Daraman led our ancestors to the continent Darashia to live a life of simplicity and meditation.
+Player: mission
+Kazzan: There is nothing you can do for me right now but thank you for offering your help.
+Player: king / thais / tibianus
+Kazzan: Tibianus is the shepherd of the lost souls of the so called Thaian empire.
+Player: army / guard
+Kazzan: Our people are well prepared to fight for their land and their souls.
+Player: enemy / enemies
+Kazzan: The necromancers of Drefia fell under the wrath of the djinns once. If they challenge us again, they might lose more than a city.
+Player: Drefia
+Kazzan: When the djinns destroyed the better part of the unholy town in their wrath, the brotherhood hid like worms in the sand.
+Player: brotherhood
+Kazzan: The Brotherhood of Bones came here fleeing some war on the continent. They corrupted the settlers of the Thaian colony with ease.
+Player: minotaur
+Kazzan: The minotaurs are another test we have to endure. They inhabit the pyramid which is taboo for our people, as Daraman taught us.
+Player: taboo
+Kazzan: Daraman knew our souls might get corrupted by the things hidden there.
+Player: god
+Kazzan: The gods are powerful but it's ultimately up to us to work on our souls' ascension.
+Player: kazordoon / dwarf
+Kazzan: We have lost contact with the dwarven people of Kazordoon.
+Player: carlin
+Kazzan: We keep in touch with the queen, but we have not taken sides in the conflict of Carlin and Thais ... yet.
+Player: excalibug
+Kazzan: Once a djinn claimed to have seen it in a dream. I guess it's just that, some dream of a supernatural creature.
+Player: bye
+Kazzan: May your soul flourish, Player.
+Kazzan: May your soul flourish.

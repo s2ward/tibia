@@ -1,0 +1,38 @@
+NPC: Budrik  
+Player: hi / hiho / hello  
+Budrik: Hiho, hiho Player. Why do you disturb me?  
+Player: disturb / job / shop  
+Budrik: I'm the foreman of this mine.  
+Player: dwarfs  
+Budrik: We understand the ways of the earth like nobody else.  
+Player: help  
+Budrik: I'm a miner, not your mother. Go ask someone else.  
+Player: hideout  
+Budrik: The hideout of the Horned Fox is probably a dangerous if not lethal place for inexperienced adventurers. It is the source of all the trouble around here.  
+Player: horned fox  
+Budrik: He is a minotaur who was kicked out of Mintwallin. He must have some kind of hideout nearby.  
+Player: mine / dungeon  
+Budrik: This is not an amusement park! Leave the miners and their drilling-worms alone and get out! We've already got enough trouble without you.  
+Player: mission  
+Budrik: Well, I could need help with that damn Horned Fox and his gang, but I guess since you are rather experienced, killing minotaurs would bore you to death. I'll wait for someone else. But thanks!  
+Player: monster  
+Budrik: We occasionally come across nasty beasts in the deepest mines.  
+Player: name  
+Budrik: My name is Budrik Deepdigger, Son of Earth, from the Molten Rock.  
+Player: quest  
+Budrik: It was very decent of you to help me, and I am thankful, really I am, but now I have to get back to my duties as a foreman.  
+Player: time  
+Budrik: Precisely 5:13 am, young one.  
+Player: trouble  
+Budrik: The Horned Fox is leading his bandits in sneak attacks and raids on us.  
+Player: Shearton Softbeard  
+Budrik: Yes, I remember him well. It was a tragedy. An earthquake led to a cave-in and many of our brave miners died. ...  
+Budrik: Their ghosts still haunt the Grothmok tunnel in which they died, so we had to seal it off.  
+Player: Grothmok  
+Budrik: You may enter the tunnel.  
+Player: bye  
+Budrik: Bye bye.  
+Player: mining helmet  
+Budrik: Thank the rocks! I'm so glad to have this precious heirloom back!  
+Player: mining  
+Budrik: Mining is more than just digging in the dirt. It is an art form, a philosophy, the gathered knowledge of generations!! We Deepdiggers, Sons of Earth, from the Molten Rock have taken the science of mining to a new level!  

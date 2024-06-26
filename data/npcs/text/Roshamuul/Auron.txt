@@ -1,0 +1,28 @@
+Player: hi
+Auron: Welcome to the post office.
+Player: bye
+Auron: Bye.
+Player: name
+Auron: This unit is referred to as Auron.
+Player: auron
+Auron: That is the correct identifier for this unit.
+Player: gnome
+Auron: All hail our gnomish overlords!
+Player: job
+Auron: This unit is a sophisticated gnomish crystal golem, responsible for maintaining communication with other places in the world, even in a hostile and dangerous environment. ...
+Auron: This unit is responsible for keeping the local post office and spreading the word about gnomish accomplishments and products.
+Player: [hidden] accomplishments
+Auron: Gnomish inventors and craftsmen have a long tradition of providing their community with the best tools available and imaginable. The gnomish progress in fungus-farming and crystal-shaping is beyond compare. ...
+Auron: This unit is forbidden by local authorities to supply a full list of gnomish accomplishments, as day-long monologues would supposedly disrupt the functionality of this outpost.
+Player: [hidden] products
+Auron: Gnomish products are not only sophisticated but also quite affordable and stylish. After all, thousands of excited gnomish customers can't be wrong!
+Player: demon
+Auron: Demons are to be avoided by this unit. This unit has to engage into combat only in emergency situations. For protection against demonic forces, gnome-forged armour is highly recommended.
+Player: golem
+Auron: Crystal golems are only one example of gnomish ingenuity. Please contact your local gnome for more information about other astonishing gnomish products.
+Player: excalibug
+Auron: Excalibug is not available via gnomish supply posts. Feel free to try other insanely cheap gnomish weaponry supplied by the gnomish arms dealer of your trust.
+Player: measurements
+Auron: This unit is not authorised to supply information that might be considered gnomish trade secrets.
+Player: isle
+Auron: A place categorised as extremely dangerous. Artificial workforces are suggested to keep harm away from living beings. 

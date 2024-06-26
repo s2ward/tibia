@@ -1,0 +1,60 @@
+Player: hi
+Captain Breezelda: Hello Player Where do you want to sail?
+Player: name
+Captain Breezelda: My name is Breezelda.
+Player: job
+Captain Breezelda: I'm the captain of this ship.
+Player: sail
+Captain Breezelda: Where do you want to go? To Carlin, Venore or Thais? Or to Travora - a place between the worlds?
+Player: carlin / venore / thais
+Captain Breezelda: Do you seek a passage to Carlin|Venore|Thais for 100|140|170 gold?
+Player: yes
+Captain Breezelda: Set the sails!
+Player: no
+Captain Breezelda: We serve you whenever it pleases you.
+Player: (other city)
+Captain Breezelda: I'm sorry. We only sail to Thais, Carlin, Venore and Travora.
+Player: rum
+Captain Breezelda: I'm so sorry but the twenty rum flasks I brought with me from Port Hope were all bought by one shabby fisherman whose name I don't remember.
+Player: rumour
+Captain Breezelda: Last week a ship sunk between Svargrond and Carlin. Rumour has it that a ship's kobold was the reason for it.
+Player: druids
+Captain Breezelda: If you are looking for a druid, try your luck in Carlin.
+Player: raiders
+Captain Breezelda: They are no sailors so the ship is safe.
+Player: barbarian
+Captain Breezelda: At least they usually don't talk too much.
+Player: yeti
+Captain Breezelda: The locals claim that it exists.
+Player: bonelord
+Captain Breezelda: I heard there might be bonelords hidden beneath Ab'Dendriel.
+Player: chakoya
+Captain Breezelda: I've never seen one.
+Player: monster / enemies
+Captain Breezelda: The weather is our worst enemy here.
+Player: camps
+Captain Breezelda: I have no idea about the areas outside of town.
+Player: svargrond
+Captain Breezelda: Other captains rarely visit this city.
+Player: nibelor
+Captain Breezelda: It's too dangerous to go there with all that sea ice around here. Maybe one of the fishermen could bring you there.
+Player: test
+Captain Breezelda: I heard the jarl allows foreigners to take a test to become honourary barbarians.
+Player: leader / jarl
+Captain Breezelda: Look for Sven the Younger.
+Player: queen
+Captain Breezelda: I don't care much about politics.
+Player: cult
+Captain Breezelda: I don't spy on my passengers.
+Player: chyll
+Captain Breezelda: I believe that's how the locals call the north wind.
+Player: gods / zathroth / uman / banor
+Captain Breezelda: The gods help those who take care of their own fate.
+Player: ferumbras
+Captain Breezelda: I heard he reappeared somewhere in the South.
+Player: excalibug
+Captain Breezelda: Better ask in a tavern about such tales.
+Player: kick
+Captain Breezelda: Off with you!
+Player: bye
+Captain Breezelda: Bye.

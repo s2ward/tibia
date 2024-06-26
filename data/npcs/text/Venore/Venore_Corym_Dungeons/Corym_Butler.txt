@@ -1,0 +1,14 @@
+Player: hi
+Corym Butler: Every man is the architect of his own fortune. The times of repression are finally over.
+Player: repression
+Corym Butler: We have to dig up valuable resources, but don't get enough to eat. The situation is terrible.
+Player: rare earth
+Corym Butler: This material can only be found in the stomaches of stonerefiners. These creatures eat common stones and process them to rare earth. Even scientists don't know how this works exactly. Otherwise they would have reconstructed the process in their labs.
+Player: enormous
+Corym Butler: The deeper you are in a tunnel the hotter it is. That is known, but here the temperature rises much faster.
+Player: hi
+Corym Butler: The revolution is about to happen. Take arms!
+Player: bye
+Corym Butler: Bye
+Player: (vanish)
+Corym Butler: No goodbye?

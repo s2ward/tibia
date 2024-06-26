@@ -1,0 +1,60 @@
+Player: Hi  
+Prezil: Welcome, adventurer Player! What brings you here?  
+Player: Here/Job  
+Prezil: Building the temple is progressing slowly, but steadily. It's not all about setting up statues, you know - you also need to pray to the right spirits and channel the energies that flow through this mountain.  
+Player: Temple  
+Prezil: This temple has a slow start but we dwarfs are patient like stone. One day, this temple might become an important place, particularly when thinking of the sickness of this land.  
+Player: Land/Sickness/Taint  
+Prezil: There is a force of corruption at work in this land. It is not the destruction caused by humanoids but something else. ...  
+Prezil: It's like a hidden plague. Something that takes away the strength of earth and life itself. ...  
+Prezil: I have no idea what it is or what its source might be, but its presence haunts me even in my dreams.  
+Player: Adventurer stone  
+Prezil: Keep your adventurer's stone well.  
+Player: Ashes/ pilgrimage  
+Prezil: Whenever you receive a lethal wound, your vital force is damaged and there is a chance that you lose some of your equipment. With every single of the five blessings you have, this damage and chance of loss will be reduced.  
+Player: Blessing  
+Prezil: There are five blessings available in five sacred places: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. Additionally, you can receive the twist of fate here. ...  
+Prezil: There are also two enhanced blessings for further reduction of experience loss.  
+Player: Name  
+Prezil: I'm Prezil.  
+Player: Cave/Earth  
+Prezil: The embrace of the earth is strong here. I can feel ancient powers running just like veins of ore run through a mountain. ...  
+Prezil: But I also sense a sickness that is spreading. Something unhealthy winds its way through the streams of power in this land. ...  
+Prezil: It is not very strong here, but I can feel its source far in the north. ...  
+Prezil: I'm able to ward it off our base for now, but it will become stronger and stronger with each year passing.  
+Player: Mines  
+Prezil: These mines are not like the ones we know from back home. Something is different in this new land.  
+Player: Embrance  
+Prezil: I can sense that the druids north of Carlin have provided you with the Embrace of Tibia.  
+Player: Solitude  
+Prezil: I can sense you already talked to the hermit Eremo on the isle of Cormaya and received this blessing.  
+Player: Suns/Fire  
+Prezil: I can see you received the blessing of the two suns in the suntower near Ab'Dendriel.  
+Player: shielding/spiritual  
+Prezil: I see you received the spiritual shielding in the whiteflower temple south of Thais.  
+Player: Phoenix  
+Prezil: I can sense that the spark of the phoenix already was given to you by the dwarven priests of earth and fire in Kazordoon.  
+Player: Enhanced  
+Prezil: It is said that one enhanced blessing, the 'heart of the mountain', has been lost in the icy wastes of Svargrond. Find a nomad far to the west of these barren lands, hiding in the cold there, slightly above ground. ...  
+Prezil: It is also said that a mysterious djinn, bound to an existence of slavery, lies buried somewhere beneath the northern Tiquanda jungle. I cannot confirm whether this tale is true but if you find him, you shall also find the 'blood of the mountain'.  
+Player: Kazordoon  
+Prezil: Kazordoon is the cradle of dwarvenhood. Stepping out of the cradle might be a great adventure but it also carries some risks.  
+Player: Mining guild  
+Prezil: The guild puts its attention on physical matters, but they respect the traditions. This is important and the guild is an important part of our society.  
+Player: Progress  
+Prezil: It takes time to make progress and stabilise it. Haste is the enemy of stabilisation. Take your time and wait and see how things will evolve.  
+Player: Sacred places  
+Prezil: Just ask in which of the five blessings you are interested in.  
+Player: Lizard  
+Prezil: It's obvious that a new path often leads to new enemies. Now that the path has been chosen, we'll have to cope with the problem.  
+Player: Dragon  
+Prezil: Dragons that rule over an empire of minions are an alarming turn of events. I never heard that dragons did something like this before. ...  
+Prezil: Those changes confuse me but we will adapt in the course of time.  
+Player: Orc  
+Prezil: Orcs are a known threat - an enemy we know all too well. At least we know how to handle them. However, their strange alliance with the minotaurs is something that we've only noticed now.  
+Player: Minotaur  
+Prezil: We'll see if they keep their word. We'll see if they hold the reigns of the orcish horde. And we'll see how long they will survive in this savage land at all.  
+Player: Ongulf  
+Prezil: For a rather young dwarf, he is quite competent. Give him a few more centuries and he'll become a great leader.  
+Player: Bye/Farewell  
+Prezil: Farewell, Player!  

@@ -1,0 +1,57 @@
+Player: hi
+Memech: Be mourned, Simula, pilgrim in flesh. Have a look at my fine weapons and armors.
+Player: name
+Memech: I am the mourned Memech.
+Player: job
+Memech: I sell weapons and armor to protect your mortal shell.
+Player: time
+Memech: Time is only a burden to the flesh.
+Player: offer
+Memech: My offers are weapons, armors, helmets, legs, and shields.
+Player: temple
+Memech: You will find the temple in the northeastern part of the town.
+Player: arena
+Memech: The arena is a fun place to visit. You should go there to try out our quality equipment.
+Player: palace
+Memech: That's where our pharaohs resides. The palace is to the east.
+Player: pharaoh
+Memech: Praise to the pharaoh. Blessed be our saviour.
+Memech: The pharaoh is a living god and his power is rising with every day.
+Player: oldpharaoh
+Memech: Praised be our pharaoh who gave his father all the time in the world for contemplation and ascension.
+Player: ascension
+Memech: This is nothing I understand. I am but a simple man.
+Player: scarab
+Memech: The scarabs are wise as far as I know. They test each warrior's strength.
+Player: tibia
+Memech: This world is but a dying spark of a once great fire.
+Player: carlin / venore / thais / edron
+Memech: The lost cities of the Tibian continent are caught in their false gods' jaws.
+Player: false gods
+Memech: Well, the temple teaches us that the false gods want to steal our Rah.
+Player: kazordoon / dwarves / dwarfes
+Memech: I have been told the dwarves are worthy fighters. It is a shame their Rah will perish upon death.
+Player: ab'dendriel / elves / elfes
+Memech: Elves are a rare sight on this continent. I know little about this race and their ways.
+Player: ankrahmun
+Memech: Our home is blessed and protected by the power of our pharaoh.
+Player: darama
+Memech: The continent's name was changed to Darama after Daraman spread his teachings here. I don't know its old name, I'm afraid.
+Player: daraman
+Memech: Daraman is acknowledged as a prophet, though it is said he was misguided. I think you should better ask somebody in the temple about such issues.
+Player: akh
+Memech: Well, that is the mortal body. It is full of needs and thus sinful.
+Player: rah
+Memech: The Rah is what people from other religions call the soul.
+Player: uthun
+Memech: That's what we learn and remember. It is who we are because of our memories. At least that's what I understand.
+Player: akh'rah uthun
+Memech: Thats religious stuff, and I don't know much about it. It's about the union and the separation of Akh, Rah and Uthun.
+Player: undead
+Memech: Undeath must be great. No need to eat, to sleep or to do other things like that, you know.
+Player: mourn
+Memech: Mortality is a bad thing. The dead mourn us for that. Quite nice of them. We should mourn ourselves as well, if I understand the priests correctly.
+Player: false gods
+Memech: Well, the temple teaches us that the false gods want to steal our Rah.
+Player: bye
+Memech: May enlightenment be your path, Simula.

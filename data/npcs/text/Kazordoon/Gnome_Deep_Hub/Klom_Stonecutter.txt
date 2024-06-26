@@ -1,0 +1,59 @@
+Player: hi
+Klom Stonecutter: Greetings. A warning straight ahead: I don't like loiterin'. If you're not here to help us, you're here to waste my time. Which I consider loiterin'. Now, try and prove your worth to our alliance. ...
+Klom Stonecutter: I have sealed some of the areas far too dangerous for anyone to enter. If you can prove you're capable, you'll get an opportunity to help destroy the weird machines, pumping lava into the caves leading to the most dangerous enemies.
+Player: name
+Klom Stonecutter: Klom Stonecutter's the name.
+Player: sup
+Klom Stonecutter: Nothing much.
+Player: job
+Klom Stonecutter: Maintainin' this whole operation, the dwarven involvement 'course. Don't know about them gnomes but if I ain't gettin' those dwarves in line, there'll be chaos down here. I also oversee the defences and counterattacks.
+Player: rumours / news
+Klom Stonecutter: Ain't got no news. Got some work if you're interested to help.
+Player: time
+Klom Stonecutter: Time to make a stand against those foul buggers from below if you ask me.
+Player: defences
+Klom Stonecutter: The attacks of the enemy forces are fierce but we hold our ground. ...
+Klom Stonecutter: I'd love to face one of their generals in combat but as their masters they cowardly hide far behind enemy lines and I have other duties to fulfill. ...
+Klom Stonecutter: I envy you for the chance to thrust into the heart of the enemy, locking weapons with their jaws... or whatever... and see the fear in their eyes when they recognize they were bested.
+Player: counterattacks
+Klom Stonecutter: I welcome a fine battle as any dwarf worth his beard should do. As long as it's a battle against something I can hit with my trusty axe. ...
+Klom Stonecutter: But here the true enemy eludes us. We fight wave after wave of their lackeys and if the gnomes are right the true enemy is up to something far more sinister.
+Player: enemy
+Klom Stonecutter: I have no idea what kind of creeps are behind all this. Even the gnomes don't and they have handled that stuff way more often. ...
+Klom Stonecutter: But even if we knew nothing more about them, the fact alone that they employ the help of those mockeries of all things dwarfish, marks them as an enemy of the dwarves and it's our obligation to annihilate them.
+Player: dwarf
+Klom Stonecutter: We dwarves are an old race with ancient traditions that have to be honoured and upholded. With all their unproven new ideas and strange ways the gnomes at least try to respect that. ...
+Klom Stonecutter: The enemy, however, has no respect for traditions or honour, that much we can say. That's at least one thing that keeps our alliance together.
+Player: stuff
+Klom Stonecutter: I wouldn't put much trust into those gnomish inventions if I hadn't seen them to validate what my scouting parties reported. ...
+Klom Stonecutter: It seems that the enemy is preparing to flood the upper tunnels with lava.
+Player: lava
+Klom Stonecutter: Now that's an enemy who's skull my old axe can't split. We have to figure out some other way. ...
+Klom Stonecutter: I'm even supporting the gnomes in their efforts to stop the flooding, as little I understand their crystal babbling. ...
+Klom Stonecutter: When it works, fine. When it doesn't work, we at least tried and split a head or two along the way.
+Player: base
+Klom Stonecutter: The base is strong enough to withstand the constant attacks and provide us with shelter. ...
+Klom Stonecutter: If it were for me alone, we relied on dwarfish defences only. But those gnomes can be quite persistent and admittedly the combined defences might provide some additional protection, at least for now. ...
+Klom Stonecutter: Only time will tell how efficient they truly are.
+Player: help / mission
+Klom Stonecutter: Well, the biggest problem we need to address are the ever charging subterraneans around here. And on top of that, there's the threat of the Lost, who quite made themselves at home in these parts.
+Player: home
+Klom Stonecutter: Our scouts report another batch of Lost close to our base. How 'bout you find yourself some of their cozy makeshift homes and destroy them to get 'em out of hiding ...
+Klom Stonecutter: If you can capture a few of them, you'll receive a bonus. Just bring 'em to the border of our outpost and we will take care of the rest. ...
+Klom Stonecutter: Are you ready for that?
+Player: subterraneans
+Klom Stonecutter: Well the hunt for vermin is on again. You know the drill: if it moves more than two legs, destroy it. If it moves legs and tentacles, destroy it again.
+Klom Stonecutter: Prepared to get into that again? Player: Yes
+Klom Stonecutter: Alright, good. Those things are strolling about and I ain't gonna have that. If it moves more than two legs, destroy it. If it moves legs and tentacles, destroy it again.
+Player: worth
+Klom Stonecutter: You're already known amongst the gnomes, member of the Bigfoot Brigade. I will make sure that the alliance learns of your deeds but you'll still need to help the dwarves and gnomes of this outpost to show your worth. ...
+Klom Stonecutter: We also found suspicious devices carried by all kinds of creatures down here. Down here, they are of extreme worth to us since they could contain the key to what's happening all around us. ...
+Klom Stonecutter: If you can aquire any, return them to me and I make sure to tell the others of your generosity. Return to me afterwards to check on your current status.
+Player: suspicious devices
+Klom Stonecutter: If you bring me any suspicious devices on creatures you slay down here, I'll make it worth your while by telling the others of your generosity. How many do you want to offer?
+Player: status
+Klom Stonecutter: So you want to know what we all think about your deeds? What leader's opinion are you interested in, the gnomes (Gnomus), the dwarves (Klom Stonecutter) or the scouts (Lardoc Bashsmite)?
+Player: bye
+Klom Stonecutter: Hmph.
+Player: (vanish)
+Klom Stonecutter: Ah.

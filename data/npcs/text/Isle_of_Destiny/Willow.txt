@@ -1,0 +1,51 @@
+Player: (idle)
+Willow: Make runes, not death!
+Willow: Druids rock!
+Player: hi
+Willow: Hi there, friend. Follow the path of nature!
+Player: name
+Willow: I am Willow, a fellowcraft druid of the sage Yandur.
+Player: willow
+Willow: I am called that because it is my favourite tree. A gentle creature is the willow tree, and the wind sings in its boughs.
+Player: yandur
+Willow: Our beloved master. He is the druid vocation trainer on the Island of Destiny. ...
+Willow: Go visit him straight after the festival if you know your destiny is to be a druid.
+Player: tylius
+Willow: A young sorcerer-to-be. I heard he's gifted in the use of magic weapons, like staves and rods. ...
+Willow: He's in the northwestern tent, and will show you how to use these weapons, if you wish to learn. We druids use them too, if need be.
+Player: shanoya
+Willow: A fine huntress, and a nemesis to the undead. Go see her if you wish to learn how paladins fight.
+Player: neill
+Willow: A brave soul, who saw many hardships. Retired now, I believe. I wish him peace.
+Player: ula
+Willow: Another young sorcerer apprentice. Swooning for Tylius and indeed, for any good-looking young magician.
+Player: salbra
+Willow: She is wise in the craft. A master of spells and runes, and a gentle teacher to all young initiates. ...
+Willow: Go see her in her tent northeast from here to learn about the different ways of magic.
+Player: nature
+Willow: Mother Nature is our element, the element of the druids. ...
+Willow: If you want to learn how to use the magical forces of nature, and not just use a crude weapon, talk to Salbra. She will teach you the use of runes and spells.
+Player: druids
+Willow: We are healers, and versed in the use of ice and earth magic. We seek the balance of things. ...
+Willow: Salbra will teach you how to use spells and runes, should you wish to learn the ways of magic.
+Player: sorcerers
+Willow: Our dark brothers in the magic arts. ...
+Willow: Where we rely on nature's magic to defend ourselves and heal our friends, they cast fire, death and energy spells to wound their foes. ...
+Willow: Go visit Tylius in the northwestern tent if you wish to learn more.
+Player: paladins
+Willow: Hunters, skilled with bow and spear. ...
+Willow: Their magic is different from ours. It is for slaying the unholy, the undead. ...
+Willow: Go visit Shanoya in the northern tent if you wish to learn how to hunt with spear or bow.
+Player: spells
+Willow: Spells are words of wisdom and power that perform magic in the world. ...
+Willow: Salbra will tell you how to learn them.
+Player: runes
+Willow: Runes are stones that store spells. ...
+Willow: Each rune can hold only one spell and can be used only once. ...
+Willow: Salbra will tell you how to make spell runes, if you wish to learn.
+Player: magic
+Willow: We druids have the unique gift of healing our allies. Unlike sorcerers, who use fire, death and energy magic. And only the strong paladins use holy magic, to slay undead creatures.
+Player: bye
+Willow: Be well.
+Player: (vanish)
+Willow: Follow your nature.

@@ -1,0 +1,33 @@
+Captain Chelop: By direct edict of the honourable Henricus, we are ordered to give passage for all recruits to Thais.
+Player: hi
+Captain Chelop: Welcome on board, recruit Simula. Where can I sail you today?
+Player: name
+Captain Chelop: My name is Chelop and I am a captain of this inquisition ship.
+Player: inquisition
+Captain Chelop: By edict of the honourable Henricus himself, we are ordered to give passage to all recruits of the Roshamuul mission for a small fee.
+Player: roshamuul
+Captain Chelop: This is the island you are currently on, just in case you forgot.
+Player: job / captain
+Captain Chelop: Can't you see? I'm captain of the Pesadilla, the proud inquisition ship which anchors here.
+Player: ship
+Captain Chelop: This is the Pesadilla, one of the inquisition's finest ships.
+Player: sail
+Captain Chelop: I can bring you back to Thais if you are weary or you can stay and fight. What shall it be? 
+Player: thais
+Captain Chelop: Do you seek a passage to Thais for 200 gold?
+Player: no
+Captain Chelop: By direct edict of the honourable Henricus himself... well, you know.
+Player: passenger
+Captain Chelop: On behalf of the inquisition, I welcome you aboard.
+Player: goods
+Captain Chelop: We have enough room to transfer you, including all your belongings.
+Player: ghost
+Captain Chelop: We will vanquish evil regardless of its form. The illusions known to the forces of darkness are manyfold.
+Player: ankrahmun / gray isle
+Captain Chelop: Sorry, but I'm not sailing there.
+Player: darashia
+Captain Chelop: I am sorry, this ship is part of the Roshamuul mission. It goes straight back to Thais and then returns here. You can find other passages from there.
+Player: kick
+Captain Chelop: Off with you!
+Player: bye
+Captain Chelop: On behalf of the inquisition, I bid you farewell.

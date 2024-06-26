@@ -1,0 +1,45 @@
+Player: hi
+Gnomenezer: Hello Bigfoot. Be careful, it's dangerous downstairs. However, I can explain everything you need so don't fret.
+Player: name
+Gnomenezer: My name is Gnomenezer. I am the gnomish overseer of the golem facility. That is I WAS the overseer until that earthquake drove all the golems nuts. Now all I can do is to explain what is happening here to helpers such as you.
+Player: job
+Gnomenezer: I am the gnomish overseer of the golem facility. That is I WAS the overseer until that earthquake drove all the golems nuts. Now all I can do is to explain what is happening here to helpers such as you.
+Player: explain
+Gnomenezer: I would recommend you to go to Gnomeral first, to learn more about what you can do here.
+Player: explain
+Gnomenezer: Ok, your task here is quite simple. Well the task WOULD be simple, if you were a gnome. Sadly you are a ... uhm, something ... What is it they call you guys again? It was something like humus! ...
+Gnomenezer: Don't tell me! Just a minute ... well while I think about it I can continue to explain your task to you. For the time being I'll call you a humus if need be. Now for your task, and this time please refrain from interrupting. ...
+Gnomenezer: We have to get things done here, you know? However. The task is quite simple ... that is if ... no, wait, we had that already. So listen: ...
+Gnomenezer: Plain and simple, so even a humus can understand it. Ahem, you don't mind being called a humus, do you? ...
+Gnomenezer: It's only for the time being, as I said ... so now ... without further interruptions <gives you a stern look> you have to repair some of our crystal golems. ...
+Gnomenezer: You know, they sometimes 'loose their music' as we say. The golems are controlled not by sentience but by complex melodies that dictate their actions. ...
+Gnomenezer: The crystals vibrate in certain ways and react to certain vibrations in certain ways. I would explain it in more detail but I fear you could be a bit at a loss in face of gnomish crystallography. ...
+Gnomenezer: In fact, I assume your head might explode if filled with too much gnomish knowledge. ...
+Gnomenezer: So do you humus people have a brain in your heads like gnomes do, or is it in your stomach and your head more like a resonance body? I noticed you guys don't only have big feet but also quite loud voices. ...
+Gnomenezer: Oh well, no time for that now. Please stick to the topic now. Or even better, just listen silently. So you might remember, golems, crystals, music etc.? ...
+Gnomenezer: Well of course you do. So sometimes those golems get a disharmony by certain external effects beyond gnomish control. This is where you come into play. ...
+Gnomenezer: You have been handed a resonance bell and now you have to use it on the confused golems. ...
+Gnomenezer: That will not repair him of course, but resonate him into a call-back mode that will teleport him to the golem workshop. Simple enough, eh? I trust in you. Just do your humusly possible.
+Player: bigfoot
+Gnomenezer: The bigfoot are our attempt to integrate foreigners into our war efforts.
+Player: dwarf
+Gnomenezer: I know that not all dwarfs serve those below but they still give me shivers.
+Player: those below
+Gnomenezer: All we know about them is what we learned from some war captives. Even they were not able or willing to provide us with more than some dubious threats.
+Player: gnome
+Gnomenezer: We gnomes are masters of growing and working crystals and we also mastered the raising of a variety of mushrooms for different purposes.
+Player: mushroom
+Gnomenezer: In the last century mushrooms have become more and more important for producing raw materials and tools and less important for sustenance.
+Player: crystal
+Gnomenezer: Crystal breeding is a complicated process. By far more complicated than breeding some mushrooms. The mushrooms almost do all the work on their own. ...
+Gnomenezer: The crystals on the other hand have to be tended, carried around and so on. They have quite complicated personalities and are not easy to handle and very picky when it comes to breeding partners.
+Player: global warming
+Gnomenezer: Those below seem to enjoy heat and try to spread it all over the world.
+Player: thais
+Gnomenezer: A city of stone and wood as far as I heard. That has to be a wondrous sight for sure! Just imagine, no crystals, no mushrooms and it still does not just crumble.
+Player: surface
+Gnomenezer: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnomenezer: Some say it looks almost as beautiful as some crystals.
+Player: bye
+Gnomenezer: Good bye and take care!
