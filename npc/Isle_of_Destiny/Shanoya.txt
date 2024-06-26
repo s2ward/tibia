@@ -22,6 +22,10 @@ Player: Narai
 Shanoya: She is our benign mistress and the paladin vocation trainer on this island. A noble huntress of the wilds is Lady Narai, a trenchant ranger of the woods, an unrelenting destroyer of unholy creatures and the dreaded bane of the undead!
 Player: paladin
 Shanoya: True jacks of all trades, that's us! The happy medium between knight and mage, combining the best elements of all vocations, with better health and shielding than mages, and we can carry more. And we have holy magic to hunt down unholy creatures!
+Player: skip tutorial
+Shanoya: Oh? You're sure you want to skip the entire rest of our festival?
+Player: yes
+Shanoya: Alright! Make a good choice!
 Player: bye
 Shanoya: Good hunting!
 Player: (vanish)
