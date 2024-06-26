@@ -96,7 +96,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Farhilorn of the Winter Court</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Dream_Labyrinth/Farhilorn_of_the_Winter_Court.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Shirtalis of the Summer Court</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Feyrist/Dream_Labyrinth/Shirtalis_of_the_Summer_Court.txt)  
 ├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Raffael</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Raffael.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Weaponmaster</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Weaponmaster.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Willow</span> [↗](https://github.com/s2ward/tibia/blob/main/npc/Isle_of_Destiny/Willow.txt)  
 ├─&nbsp;&nbsp;<strong>Issavi</strong> [↗](https://github.com/s2ward/tibia/blob/main/npc/Issavi)  
