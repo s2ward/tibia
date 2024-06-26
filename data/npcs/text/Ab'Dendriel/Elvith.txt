@@ -1,0 +1,57 @@
+Player: hi / ashari
+Elvith: Ashari Player and welcome to my little music store.
+Player: name
+Elvith: I am Elvith Rollingstone.
+Player: job
+Elvith: I sell musical instruments of many kinds.
+Player: time
+Elvith: Time has its own song. Close your eyes and listen to the symphony of the seasons.
+Player: sing
+Elvith: Sorry, but there is a melody in my heart that wants to be born. I would lose it by singing right now.
+Player: music
+Elvith: Music is an attempt to condense emotions into harmonies and save them for the times to come.
+Player: harmonies / melodies / harmony / melody / song
+Elvith: Everything is a song. Life, death, history ... everything. To listen to the song of something is the first step to understand it.
+Player: magic / spell
+Elvith: Sorry, I don't feel like teaching magic today.
+Player: crunor
+Elvith: That is some god the humans worship. Our people are not interested in this god anymore.
+Player: humans
+Elvith: They are too loud and don't even understand the concept of a melody.
+Player: troll
+Elvith: I went down to the mines and tried to lighten up their spirit. The foolish creatures did not listen to my songs, though.
+Player: dwarf
+Elvith: They could at least use their picks and hammers with more rhythm.
+Player: elf / elves
+Elvith: We are the most graceful of all races. We feel the music of the universe in our hearts and souls.
+Player: deraisim
+Elvith: The other Deraisim are much too concerned with mastering nature, and so they don't listen to its music anymore.
+Player: kuridai
+Elvith: They could dig some halls for a big musical event, but they won't listen to me about that matter.
+Player: cenath
+Elvith: The Cenath think they know the 'art', but the only true art is music.
+Player: abdaisim
+Elvith: The wanderers have no patience. You need patience and passion to create and to enjoy music.
+Player: teshial
+Elvith: I bet they were great musicians.
+Player: roderick
+Elvith: This man tries too hard not to offend anyone.
+Player: olrik
+Elvith: He appreciates my music, and though he is as loud and clumsy as any human, it seems not everything is lost.
+Player: thais
+Elvith: I heard about Thais and it did not sound like a place I'd want to visit.
+Player: venore
+Elvith: By all what I heard, this city is not only built into a swamp but is a swamp of intrigue and corruption all by itself.
+Player: carlin
+Elvith: Carlin is a city that thrives for a harmony it can never achive.
+Player: ferumbras
+Elvith: Only humans made songs about him and his evil deeds.
+Player: excalibug
+Elvith: There are too many songs about that weapon to retell them all. Most of them are human and therefore quite crude anyways.
+Player: elven poetry / song of the forest
+Elvith: Sorry, I have no issue of this book left.
+Player: elven poetry / song of the forest
+Elvith: The last issue I had was bought by Randor Swiftfinger. He was banished through the hellgate and probably took the book with him ...
+Elvith: I would not recommend to seek him or the book there but of course its possible.
+Player: bye / asha thrazi
+Elvith: Asha Thrazi, Player.

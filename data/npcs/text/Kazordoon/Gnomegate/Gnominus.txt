@@ -1,0 +1,40 @@
+Player: hi
+Gnominus: Hi there! Welcome to my little tavern.
+Player: name
+Gnominus: My name is Gnominus. I provide the population with some fresh alcohol free mushroom beer!
+Player: tavern / job
+Gnominus: I provide the population with some fresh alcohol-free mushroom beer!
+Player: beer
+Gnominus: Do you want some mushroom beer for 10 gold?
+Player: yes
+Gnominus: And here it is! Drink it quick, it gets stale quite fast!
+Player: no
+Gnominus: What a pity!
+Player: dwarf
+Gnominus: Dwarfs have been our allies for quite a while. Both sides have profited from exchange of knowledge and items so far.
+Player: those below
+Gnominus: The more we learn about them, the more it becomes clear how little we know.
+Player: global warming
+Gnominus: I think those below try to press to the surface to get all the wood for a great fire that engulfs the world.
+Player: gnome
+Gnominus: We gnomes are very modest people so we hardly brag about our accomplishments. And this is quite hard given the sheer number and significance of our feats. ...
+Gnominus: We gnomes have mastered the art of mushroom breeding to create items, tools and sustenance. We mastered the secrets of the crystals. ...
+Gnominus: To grow them, shape them and use their capabilities to work effects that seem like magic to the ungnomish mind. ...
+Gnominus: Please excuse me, but my inherent humility prevents me from speaking further about that issue.
+Player: mushroom
+Gnominus: Mushrooms are healthy and useful. Mushroom-spice, mushroom-beer and mushroom-steak are examples for their use as food, mushroom-soap, mushroom-hats and mushroom-hammers are examples for other forms of usage.
+Player: crystals
+Gnominus: Crystals are just a part of gnomish everyday life.
+Player: thais
+Gnominus: I wonder what this Thais might be. Sounds a little bit like a minor illness to me. Like in 'yesterday I had an awful Thais'!
+Player: surface
+Gnominus: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: sky
+Gnominus: The sky is a somewhat frightening concept to us gnomes.
+Player: bigfoot
+Gnominus: You are one of those bigfoot guys, aren't you? Oh my, looking at your feet I can tell you are! You know the saying: with huge feet comes great responsibility? ...
+Gnominus: Just imagine on all the innocent things you could step upon!
+Player: yes [bug]
+Gnominus: Good bye and take care!
+Player: bye
+Gnominus: Good bye and take care!

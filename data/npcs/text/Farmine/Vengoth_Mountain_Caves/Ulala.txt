@@ -1,0 +1,73 @@
+Player: hi
+Ulala: Spirits bless and welcome you, Simula, hero of tribe!
+Player: Spirits / priest
+Ulala: Me talk to gods. Calm them. Ask them help.
+Player: gods
+Ulala: Our gods be Pandor, Uzroth, Krunus and Fasuon.
+Player: Pandor
+Ulala: Pandor great warrior and leader. Like he we should be. But we hiding, we weak. Pandor is sad about us.
+Player: Uzroth
+Ulala: Uzroth is easy to anger. Guardian of secrets and spirit world he is. He me give mighty secret powers!
+Player: Krunus
+Ulala: Krunus is God for plants and birth. He hidden in all that grows.
+Player: Fasuon
+Ulala: Fasuons eyes watch world from above. He all see. When he sleeps evil comes from hiding. Many evil from other side of mountain us hunt when Fasuon sleeping.
+Player: makao
+Ulala: He much love Namasa and she love Makao. She was belong to leader of tribe, so Makao fight Lazaran! Love so big that he win even when Lazaran is much stronger! Now Namasa belong Makao.
+Player: namasa
+Ulala: Namasa only woman left of tribe for have baby. Me pray much to Krunus for make her grow.
+Player: lazaran
+Ulala: He good man and leader. Very strong and wise.
+Player: tatak
+Ulala: He play war drum really good. But he no like talk with stranger. He much afraid. 
+Player: kito
+Ulala: He lazy. Usually just walk round and no work what he should.
+Player: name
+Ulala: Ulala!
+Player: farmine
+Ulala: Yes all yours. You can keep faaaah.
+Player: war
+Ulala: War was bad. We no chance. Bad monsters. Many dead. Now we hide in mountain.
+Player: monsters
+Ulala: I seen greens and horned. Very dangerous. And little men. But think they no danger.
+Player: greens
+Ulala: There are green men and snakemen. Of course snakemen also green but green men not like snakes, more like us but very brutal.
+Player: snakemen
+Ulala: Very evil. They want all land. They want kill all who not be like snakes. Great wars fought. Snakemen lost lands to east. ...
+Ulala: Then flying snakes came, breathing fire. Killed our people and green men. Many dying. Now snakemen defend north.
+Player: green men
+Ulala: Green men often fought each other and snakemen. Often green men too occupied with war to bother our people. Now green men all together and fight snakemen. If they coming for us we can not fight long. ...
+Ulala: Green men control plains. We hide in mountain. Green men often riding great beasts, not like to come in mountain on foot. Their leaders are horned ones.
+Player: horned
+Ulala: Horned really strong! They lead green men against snakemen. And us. But only if they bored. Prefer snakemen.
+Player: lizard
+Ulala: Lizzz... aaah? Me no know that.
+Player: minotaur
+Ulala: You can keep your otor. Me no want.
+Player: dwarf
+Ulala: Is how you call little men? We say little men.
+Player: little men
+Ulala: Little men funny. Live underground. Have strange things!
+Player: help
+Ulala: Sometimes we have mission to help the tribe.
+Player: mission
+Ulala: You hero of tribe. Much thank you. And this new water is many gooooood!
+Player: beer / strange water
+Ulala: Me understand you! Name of strange water is bee-ah! You bring more pot of bee-ah to old Ulala?
+Player: yes
+Ulala: You no have!
+Player: no
+Ulala: If you get any, me happy if you bring. Helps meditate.
+Player: yes
+Ulala: Strange water good for me prayers. Me see many spirits when drink bee-ah. All happy spirits! Me thank you for bringing.
+Player: job
+Ulala: Me priest of tribe.
+Player: tribe
+Ulala: Me love tribe. Protect tribe. Ask gods to help tribe. Tribe no understand you. You no speak their language.
+Player: language
+Ulala: You speak holy language. Tribe respect it, but no understand much.
+Player: land / zao
+Ulala: All that is outside. We not seen much. Snakemen say Zao to land.
+Player: bye
+Ulala: Spirits protect you.
+Ulala: Spirits protect.

@@ -1,0 +1,68 @@
+Player: hi
+Guide Behil: Daraman's blessings, Player, welcome to Darashia! Would you like some information and a map guide?
+Player: (anything not "information" or "map")
+Guide Behil: Well, you seem to know your way around. Take care!
+Player: information
+Guide Behil: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers and the depot, as well as about the world status.
+Player: town
+Guide Behil: Darashia is an oriental settlement ruled by Caliph Kazzan Ibn Gadral. We have a lot of shops, carpet travel and a rotworm plague, that sums it about up.
+Player: shops
+Guide Behil: You can buy weapons, armor, tools, gems, magical equipment, furniture, spells and food here.
+Player: weapons
+Guide Behil: Habdel's weapon shop is on the market place, just north of the depot.
+Player: armor
+Guide Behil: Azil's armor shop is on the market place, just north of the depot.
+Player: tools
+Guide Behil: General goods like ropes and shovels can be bought in Halif's shop on the market place, just north of the depot.
+Player: gems
+Guide Behil: Ishina offers beautiful gems. Her shop is on the market place north of the depot.
+Player: magic
+Guide Behil: Asima sells magical equipment like runes and potions. She lives in one of the western chambers of the caliph's palace.
+Player: furniture
+Guide Behil: Hofech's furniture store is to the north of this harbour, just below the carpet station.
+Player: spells
+Guide Behil: Razan is a good teacher for knight and paladin spells. You can find him in the south-eastern chamber of the caliph's palace.
+Player: food
+Guide Behil: Omur and Mugluf sell food on the market place north of the depot. However, most food is quite expensive here.
+Player: caliph / Kazzan
+Guide Behil: The caliph resides in a grand palace north of town. Just go north and slightly east from the depot, you can't miss it.
+Player: carpet
+Guide Behil: That's even better than travelling by ship. Chemar transports premium adventurers on his flying carpet. The station is just above the furniture store. You should give it a try!
+Player: rotworm
+Guide Behil: Oh yes, there are many rotworm tunnels surrounding this city. I fear that someday they will have undermined Darashia.
+Player: temple
+Guide Behil: The temple is a few floors over the depot. Just walk up the numerous stairs there.
+Player: bank
+Guide Behil: Muzir takes care of our bank business. His office is in the north-western part of the caliph's palace.
+Player: spell trainers
+Guide Behil: Razan is a good teacher for knight and paladin spells. You can find him in the south-eastern chamber of the caliph's palace.
+Player: depot
+Guide Behil: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there.
+Player: world status
+Guide Behil: If you'd like to know the status of this world just say the keyword for a world change.
+Player: keyword / change
+Guide Behil: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.
+Player: escort
+Guide Behil: This service is only for newcomers below level 10. I think you can manage the way on your own! If you need marks on your map, let me know.
+Player: map / mark
+Guide Behil: Would you like me to mark locations like - for example - the depot, bank and shops on your map?
+Player: yes
+Guide Behil: Here you go.
+Player: no
+Guide Behil: Well, nothing wrong about exploring the town on your own. Let me know if you need something!
+Player: name
+Guide Behil: My name is Behil. Glad to be your guide.
+Player: time
+Guide Behil: It's 12:33 am right now. But I can give you more valuable information than that!
+Player: job
+Guide Behil: I'll show you around Darashia if you like. I can mark important locations on your map and give you some information about the town and the world status.
+Player: blessings
+Guide Behil: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.
+Player: harbour
+Guide Behil: That's where we are standing right now. You can travel between the Tibian settlements using this ship if you have a premium account, that is.
+Player: post
+Guide Behil: Being a licensed carpet pilot, Chemar delivers our mail. You can find him north of this harbour, just above the furniture store.
+Player: (anything not a keyword)
+Guide Behil: Sorry, I don't have anything to tell you about that topic.
+Player: bye / farewell
+Guide Behil: Daraman's blessings, enjoy your stay in Darashia, Player.

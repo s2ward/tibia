@@ -1,0 +1,136 @@
+Player: (idle)
+Al Dee: Don't head for adventure without a rope and torches! Buy your supplies here!
+Al Dee: Feeling lost? You can always ask me about general hints!
+Al Dee: Are you looking for the best trades? Come to my shop!
+Al Dee: Tools and general equipment at Al Dee's!
+Player: Hi  
+Al Dee: Hello, hello, Player! Please come in, look, and buy! I'm a specialist for all sorts of tools. Just ask me for a trade to see my offers! You can also ask me for general hints about the game. ...  
+Al Dee: You can also ask me about each citizen of the isle.  
+Player: How Are You?  
+Al Dee: I'm fine. I'm so glad to have you here as my customer.  
+Player: Tools  
+Al Dee: As an adventurer, you should always have at least a backpack, a rope, a shovel, a weapon, an armor and a shield.  
+Player: offer  
+Al Dee: Just ask me for a trade to see my offers.  
+Player: Trade  
+Al Dee: Take a look in the trade window to your right.  
+Player: Gold  
+Al Dee: Well, no gold, no deal. Earn gold by fighting monsters and picking up the things they carry. Sell it to merchants to make profit!  
+Player: Backpack / Rope / Shovel  
+Al Dee: I am a merchant. What can I do for you?  
+Player: Weapon  
+Al Dee: Oh, I'm sorry, but I don't deal with weapons. That's Obi's or Lee'Delle's business. I could offer you a pick in exchange for a small axe if you should happen to own one.  
+Player: Armor / Shield  
+Al Dee: Armor and shields can be bought at Dixi's or at Lee'Delle's. Dixi runs that shop near Obi's.<br  
+Player: Food  
+Al Dee: Hmm, the best address to look for food might be Willie or Billy. Norma also has some snacks for sale.  
+Player: Potions  
+Al Dee: Sorry, I don't sell potions. You should visit Lily for that.  
+Player: Cookies / Fishing  
+Al Dee: I sell fishing rods and worms if you want to fish. Simply ask me for a trade.  
+Player: Cooking  
+Al Dee: I you want to find someone who may want to buy your cookies, you should meet Lily.  
+Player: Fish  
+Al Dee: No thanks. I don't like fish.  
+Player: Torch  
+Al Dee: No thank you. I can already overstock the market with torches.  
+Player: Worms  
+Al Dee: I have enough worms myself and don't want any more. Use them for fishing.  
+Player: Bone  
+Al Dee: You better put that bone back there where you dug it out.  
+Player: Help  
+Al Dee: If you need general equipment, just ask me for a trade. I can also provide you with some general hints about the game.  
+Player: Job  
+Al Dee: I'm a merchant. Just ask me for a trade to see my offers.  
+Player: Name  
+Al Dee: My name is Al Dee, but you can call me Al. Can I interest you in a trade?  
+Player: Time  
+Al Dee: It's about 0:00 am. I'm so sorry, I have no watches to sell. Do you want to buy something else?  
+Player: Premium  
+Al Dee: As a premium adventurer you have many advantages. You really should check them out!  
+Player: King  
+Al Dee: The king encouraged salesmen to travel here, but only I dared to take the risk, and a risk it was!  
+Player: Sell  
+Al Dee: Just ask me for a trade to see what I buy from you.  
+Player: Wares / Stuff  
+Al Dee: Just ask me for a trade to see my offers.  
+Player: Ck / Small Axe  
+Al Dee: Picks are hard to come by. I trade them only in exchange for high quality small axes. Would you like to make that deal?  
+Player: No (depois de Pick / Small Axe  
+Al Dee: Well, then don't.  
+Player: Yes (depois de Pick / Small Axe - sem um Small Axe  
+Al Dee: Sorry, I am looking for a SMALL axe.  
+Player: Yes (depois de Pick / Small Axe - com um Small Axe  
+Al Dee: Splendid! Here, take your pick.  
+Player: Dungeon  
+Al Dee: If you want to explore the dungeons such as the sewers, you have to equip yourself with the vital stuff I am selling. It's vital in the deepest sense of the word.  
+Player: Sewers  
+Al Dee: Oh, our sewer system is very primitive - it's so primitive that it's overrun by rats. But the stuff I sell is safe from them. Just ask me for a trade to see it!  
+Player: Vital  
+Al Dee: Well, vital means - necessary for you to survive!  
+Player: Rats  
+Al Dee: Rats plague our sewers. You can sell fresh rat corpses to Seymour or Tom the tanner.  
+Player: Monsters  
+Al Dee: If you want to challenge monsters in the dungeons, you need some weapons and armor from the local merchants.  
+Player: Merchants  
+Al Dee: To view the offers of a merchant, simply talk to him or her and ask for a trade. They will gladly show you their offers and also the things they buy from you.  
+Player: Tibia  
+Al Dee: One day I will return to the continent as a rich, a very rich man!  
+Player: Rookgaard  
+Al Dee: On the island of Rookgaard you can gather important experiences to prepare yourself for mainland.  
+Player: Mainland  
+Al Dee: Have you ever wondered what that 'main' is people are talking about? Well, once you've reached level 8, you should talk to the oracle. You can choose a profession afterwards and explore much more of Tibia.  
+Player: Profession  
+Al Dee: You will learn everything you need to know about professions once you've reached the Island of Destiny.  
+Player: Island of Destiny  
+Al Dee: The Island of Destiny can be reached via the oracle once you are level 8. This trip will help you choose your profession!  
+Player: Thais  
+Al Dee: Thais is a crowded town.  
+Player: Academy  
+Al Dee: The big building in the centre of Rookgaard. They have a library, a training centre, a bank and the room of the oracle. Seymour is the teacher there.  
+Player: Bank  
+Al Dee: A bank is quite useful. You can deposit your money safely there. This way you don't have to carry it around with you all the time. You could also invest your money in my wares!  
+Player: Temple  
+Al Dee: The monk Cipfried takes care of our temple. He can heal you if you're badly injured or poisoned.  
+Player: Citizen  
+Al Dee: If you tell me the name of a citizen, I'll tell you what I know about him or her.  
+Player: Al Dee  
+Al Dee: Yep, that's me. Smart of you to notice that!  
+Player: Amber  
+Al Dee: She's currently recovering from her travels in the academy. It's always nice to chat with her!  
+Player: Billy  
+Al Dee: This is a local farmer. If you need fresh food to regain your health, it's a good place to go. He's only trading with premium adventurers though.  
+Player: Cipfried  
+Al Dee: He is just an old monk. However, he can heal you if you are badly injured or poisoned.  
+Player: Dallheim  
+Al Dee: ome call him a hero. He protects the town from monsters.  
+Player: Dixi  
+Al Dee: She's Obi's granddaughter and deals with armors and shields. Her shop is south west of town, close to the temple.  
+Player: Hyacinth  
+Al Dee: He mostly stays by himself. He's a hermit outside of town - good luck finding him.  
+Player: Lily  
+Al Dee: She sells health potions and antidote potions. Also, she buys blueberries and cookies in case you find any.  
+Player: Loui  
+Al Dee: No idea who that is.  
+Player: Norma  
+Al Dee: She used to sell equipment, but I think she has opened a small bar now. Talks about changing her name to 'Mary' and such, strange girl.  
+Player: Obi  
+Al Dee: He sells weapons. His shop is south west of town, close to the temple.  
+Player: Paulie  
+Al Dee: He's the local bank clerk.  
+Player: Santiago  
+Al Dee: He dedicated his life to welcome newcomers to this island.  
+Player: Seymour  
+Al Dee: Seymour is a teacher running the academy. He has many important information about Tibia.  
+Player: The Oracle  
+Al Dee: You can find the oracle on the top floor of the academy, just above Seymour. Go there when you are level 8.  
+Player: Tom  
+Al Dee: He's the local tanner. You could try selling fresh corpses or leather to him.  
+Player: Willie  
+Al Dee: This is a local farmer. If you need fresh food to regain your health, it's a good place to go. However, many monsters also carry food such as meat or cheese. Or you could simply pick blueberries.  
+Player: Zerbrus  
+Al Dee: Some call him a hero. He protects the town from monsters.  
+Player: Zirella  
+Al Dee: Poor old woman, her son Tom never visits her.  
+Player: Bye  
+Al Dee: Bye, bye Player.  

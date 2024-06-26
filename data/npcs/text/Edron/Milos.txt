@@ -1,0 +1,58 @@
+Player: hi  
+Milos: Oh hello. I hardly noticed you. I'm afraid I am a bit distracted at the moment.  
+Player: name  
+Milos: My name is Milos. Milos of the Edron Academy. Nice to meet you.  
+Player: distracted / job  
+Milos: I'm a magician and a theoretical scientist. That is, I am of course a real scientist, not a scientist in theory, but I concentrate more on theories than on practice. ...  
+Milos: What I mean is, I do more reading and corresponding with other scientists - not exactly the fast lane to fame and fortune, granted, but it satisfies my humble desires.  
+Player: Academy  
+Milos: The academy is a place of learning. We could do with a bigger library, of course. If the White Raven Monastery weren't so far away I would consider going there for the privilege of seeing all those magnificent books. ...  
+Milos: But the cream of Tibian academics, professors and researchers are all based here, so we do have the greatest living knowledge base in the world.  
+Player: theory  
+Milos: Theories are my lifeblood, so to speak. Practice doesn't interest me in the same way. To be honest, I am easily frightened and I lose heart quickly. Theories are more forgiving. ...  
+Milos: I feel more comfortable with numbers and formulas and such. I like the safety of a laboratory and taking my time to develop my ideas. And of course I like the company of books more than the company of men. Sorry, no offence meant.  
+Player: White Raven  
+Milos: The monastery contains the greatest collection of books in the known world. They own books from every field of knowledge, philosophy and art ...  
+Milos: As far as I am aware, there is not much order in the collection though. The monks are ony collectors of books. They unfortunately lack the skills to catalogue them. Even if they read them I doubt they would understand them. ...  
+Milos: This makes researching there somewhat tedious and time consuming, but if you ever have to research a topic I would suggest starting there.  
+Player: knowledge  
+Milos: Knowledge is essential to everything. How can anyone make a decision without knowledge? The more you know, the better you can decide. Our Academy is one of the world's greatest hoards of knowledge. ...  
+Milos: Another, especially in the fields of books is the White Raven Monastery. The single most knowledgeable person in Tibia is, in my opinion, the sage Edowir in the Whiteflower Temple.  
+Player: Edowir  
+Milos: He is a very enigmatic person. His wisdom is unrivaled and his intentions are good. Although some people occasionally complain that he only imparts the bare minimum of information that they need. ...  
+Milos: He always leaves you with the feeling that he knows much more than he is willing to tell. Some even claim he is a chosen of Uman.  
+Player: Uman  
+Milos: Uman is the God of Knowledge who furthers society and stands for the greater good. He is the patron of research and progress.  
+Player: golem  
+Milos: I am more into theories then into practice but I have come up with several very solid theories that may be invaluable to Telas, if they work in practice ...  
+Milos: I would not go as far as to say that I have reinvented how golems can be constructed but I think some of my approaches are quite unique. Even by disproving some of my ideas Telas stands to gain some significant insights into his chosen field of study. ...  
+Milos: I am only too pleased that my theories are being applied in such a useful way!  
+Player: telas  
+Milos: He is a great and generous man. I owe him so much. I will never be able to even remotely make it up to him.  
+Player: yalahar  
+Milos: I am still waiting for a good book about Yalahar. Preferably with some drawings. That would be so interesting.  
+Player: yalahari  
+Milos: I have read some reports about the Yalahari and they sound extremely interesting. Sadly, information about the Yalahari is rather rare due to the fact that they are so elusive.  
+Player: dust / powder  
+Milos: If you have some gold or silver nuggets, grind them into dust. We have a gem grinder here in the Academy which you can use.  
+Player: gold / silver  
+Milos: The metal has to be in an unprocessed state. Coins or jewellery won't do it. The best bet is to go to a mine and dig up some of the required metal. ...  
+Milos: Deep underneath the Venorean swamps are tunnels where you might find what you are searching for. But beware of the Corym there and be sure to take a pick with you!  
+Player: brew  
+Milos: You have to distil the crimson nightshade first. You can use the alchemical devices in Sinclair's laboratory, here in the Academy. Then you have to add the silver and gold powder, in this order! At last you add the Shadow Bite Berries.  
+Player: crimson  
+Milos: This is a very rare subspecies of the purple nightshade. It grows exclusively on the small island Grimvale, and even there it is anything but common. In fact, it is so rare, it didn't even have a scientific name as of yet. ...  
+Milos: So, with becoming modesty, I called it 'solanum coccinea'.  
+Player: curse / moon / werewolf  
+Milos: Well done! I hope this will assuage the impact of the curse on Edron and Cormaya.  
+Player: enhanced / potion  
+Milos: Just have a look at my notes. The required components are listed there.  
+Player: ley  
+Milos: Most Tibian cultures have some knowledge about those straight lines that run across the landscape, connecting both, natural and sacred sites. Some also call them 'fairy paths' or 'spirit lines'. ...  
+Milos: As far as I know, in Zao they are called 'dragon lines'. Markers connecting the ley lines can be mounds, cairns, standing stones, stone circles, ponds, wells, shrines, temples or cross-roads.  
+Player: stone of insight  
+Milos: Ah well. This matter was taken out of our hands for now. The inquisition insisted to control the collection of these stones and by royal decree they were granted the exclusive right to do so. ...  
+Player: zathroth  
+Milos: Zathroth is represents the quest for knowledge in order to gain power. He stands for those who seek to gain knowledge regardless of its cost, and for progress for the sake of progress alone.  
+Player: bye  
+Milos: Good bye.  

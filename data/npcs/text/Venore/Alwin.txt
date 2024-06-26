@@ -1,0 +1,40 @@
+Player: hi  
+Alwin: LONG LIVE THE KING!  
+Player: KING / tibianus / leader  
+Alwin: Tibianus III is our beloved king! He rules over Venore from far away Thais.  
+Player: Venore  
+Alwin: The harbour is to the north, the weapon market in the south, the general market to the west, and the bank to the east. You will find other shops and the Hard Rock Tavern in the centre.  
+Player: job  
+Alwin: I am a protector of the people of Venore.  
+Player: dogs of war  
+Alwin: They are our rolemodells.  
+Player: battlegroups  
+Alwin: I doubt you have the security clearance to ask that.  
+Player: guard / army / secret police  
+Alwin: This information is confidential.  
+Player: news  
+Alwin: Look for the Hard Rock Tavern to learn the latest news.  
+Player: silver guard  
+Alwin: Only the best of the best serve as silver guards.  
+Player: city  
+Alwin: This city, a member of the Thaian kingdom, is under the protection of the Thaian army.  
+Player: ass / fuck / shit / idiot / stupid / homophobic word / lunatic / tyrant  
+Alwin: Take this!  
+Player: buy / sell  
+Alwin: Ask the merchants of the city. There are more than enough.  
+Player: castle  
+Alwin: The castle is in Thais, the crown of the kingdom.  
+Player: how are you?  
+Alwin: That's classified information!  
+Player: knights of noodles  
+Alwin: Every guard dreams of becoming one of them one day.  
+Player: monsters  
+Alwin: The swamp is full of nasty snakes and there's a dragon breeding ground somewhere in the swamps.  
+Player: swamps  
+Alwin: The swamp is a dangerous place and full of monsters, not to mention all those swampelves living at shadowthorn, amazons, and swamptrolls.  
+Player: swamptrolls  
+Alwin: This hideous creatures are even more ugly than the normal trolls. They are treacherous and use several poisons.  
+Player: swampelves  
+Alwin: Those elves hide in the swamps and are trying to kill all humans in this area.  
+Player: bye  
+Alwin: LONG LIVE THE KING!  

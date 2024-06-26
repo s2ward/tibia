@@ -1,0 +1,90 @@
+Player: hi / hello / ashari  
+Olrik: Greetings, Player. This is the post office. May I help you? Ask me for a trade if you want to buy something. I can also explain the mail system.  
+Player: buy / offer / stuff / goods / sell / equipment / ware  
+Olrik: I sell parcels and letters. Ask me for a trade if you're interested. I can also explain how the mail system works.  
+Player: kevin / postner  
+Olrik: He is the boss. There is always some boss, so I don't bother about that.  
+Player: postmasters guild  
+Olrik: Ah, they pay me and I do my work and that's it. Its some nice extra cash but I don't care much about that guild.  
+Player: join  
+Olrik: If you really think you have to join the postmasters guild, ask Kevin Postner at the headquarters.  
+Player: headquarter  
+Olrik: The postmasters guild headquarters are located south of the mountain known as the Big Old One, where the city of Kazordoon can be found.  
+Player: job  
+Olrik: I am a servant of the ambassador and running the post office. Ask me if you have questions about the Royal Tibia Mail System.  
+Player: name  
+Olrik: My name is Olrik.  
+Player: time  
+Olrik: It's 8:16 am.  
+Player: elves  
+Olrik: What a noble and graceful race.  
+Player: dwarfs  
+Olrik: Uhm, let's say I prefer the company of elves.  
+Player: carlin  
+Olrik: A city full of women, who surely have only ever known total whimps instead of real brave men like me, has some appeal.  
+Player: venore  
+Olrik: Those generous merchants are charming people. I am always looking forward to their visits.  
+Player: humans  
+Olrik: I feel so clumsy around those elves.  
+Player: troll  
+Olrik: What nasty creatures.  
+Player: cenath  
+Olrik: They are so wise and have a mystic aura around them.  
+Player: kuridai  
+Olrik: They are so diligent in the things they do and such awesome fighters!  
+Player: deraisim  
+Olrik: They are so familiar with the woods and move with unparalleled grace.  
+Player: abdaisim  
+Olrik: I look forward to meeting them one day.  
+Player: teshial  
+Olrik: I wonder where they have gone.  
+Player: ferumbras  
+Olrik: I heard he is dead, which is a good thing.  
+Player: crunor  
+Olrik: I honour all gods.  
+Player: tibianus  
+Olrik: He is our beloved ruler.  
+Player: roderick  
+Olrik: The ambassador is the best choice for this position of responsibility.  
+Player: excalibug  
+Olrik: Pardon?  
+Player: news  
+Olrik: We learn few important things about the tides of time here.  
+Player: magic  
+Olrik: You should talk to the elves about that.  
+Player: depot  
+Olrik: Each major city has at least one depot. Just step in front of one of the lockers and you can store items inside. Your mail will also arrive there. It doesn't matter which depot you stored it in - you can retrieve all your items from any depot in any city!  
+Player: trade  
+Olrik: Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
+Player: poetry  
+Olrik: Do you want to buy a poetry parchment for 60 gold?  
+Player: yes  
+Olrik: Here you are.  
+Player: special  
+Olrik: Oh, once you have tasted the elven bug milk you will never want to drink anything else again.  
+Player: mail / help / info / post  
+Olrik: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
+Player: receiver  
+Olrik: Well, the receiver - or addressee - is the person you want to send mail to. Always make sure to enter his or her name correctly.  
+Player: send  
+Olrik: Drag and drop a letter or a parcel on the blue mailbox to send it. However, you need to include the name of the receiver. If the sending fails, you most likely made a mistake.  
+Player: label  
+Olrik: If you want to buy a label, ask me for a trade. Or do you want me to explain how labels work?  
+Player: explain  
+Olrik: Including a label in your parcel is important. Imagine you want to send it to 'Ben' in Thais. Use the label - so that a form opens - and write 'Ben' in the first line. Check the spelling and put it in your parcel! ...  
+Olrik: Then drag your parcel on one of the blue mailboxes here to send it.  
+Player: letter  
+Olrik: If you want to buy a letter, ask me for a trade. Or do you want me to explain how letters work?  
+Player: explain  
+Olrik: With a letter you can send a message to another Tibian's depot. If you want to send it to 'Ben' in Thais, use the letter - so that a form opens - and write 'Ben' in the first line. Write your message below that. ...  
+Olrik: Then drag your letter on one of the blue mailboxes here to send it.  
+Player: parcel  
+Olrik: If you want to buy a parcel, ask me for a trade. Or do you want me to explain how parcels work?  
+Player: explain  
+Olrik: In a parcel you can send items to another Tibian's depot. Put your items into the parcel and also place a completed label with the name of the receiver inside. Then drag your parcel on one of the blue mailboxes here to send it.  
+Player: address  
+Olrik: The first line of the address on a label or letter is the name of the receiver. Make sure to enter the name correctly for the parcel to reach the desired destination.  
+Player: box  
+Olrik: Drag and drop a letter or a parcel on the blue mailbox to send it. However, you need to include the name of the receiver. If the sending fails, you most likely made a mistake.  
+Player: bye / farewell / asha thrazi  
+Olrik: Farewell, Player.  

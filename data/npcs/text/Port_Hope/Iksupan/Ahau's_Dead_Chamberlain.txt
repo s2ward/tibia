@@ -1,0 +1,37 @@
+Player: hi (white musical notes)
+Ahau's Dead Chamberlain: Aliiive Aaaahhhaaauuu...? Yeeeeesss, master...
+Player: name
+Ahau's Dead Chamberlain: My... name. After all those years, I have forgotten...
+Player: job
+Ahau's Dead Chamberlain: Well, Ahau is dead but, so am I. As are aaall Iks. You know, no physical form, phasing through walls and such, so... I'm kind of between jobs at the moment.
+Player: ahau
+Ahau's Dead Chamberlain: He who once fought valiant, heroic, strong. He who betrayed us, dark, heinous and weak. He left us to die and when his time came, he became just another vessel for our invaders.
+Player: king
+Ahau's Dead Chamberlain: No more kings and queens, lords and tyrants. I am free. Yet still, I am bound to this world for now. There are... some things I need to do.
+Player: device
+Ahau's Dead Chamberlain: The invaders built it. We know no such magic or heinous rituals.
+Player: atab
+Ahau's Dead Chamberlain: The malicious proconsul of our doomed city.
+Player: mitmah
+Ahau's Dead Chamberlain: Our invaders, they control the lifeless husks that now roam this halls and fight together with them.
+Player: hi (after killing ahau)
+Ahau's Dead Chamberlain: I was not allowed... to speak. Aaahauuu... Now I am allowed... to offer help! Do you accept?
+Player: no
+Ahau's Dead Chamberlain: Your will is free, and your soul will beee, too.
+Player: yes
+Ahau's Dead Chamberlain: Then I will glaaadly be of service one more time. I was the chamberlain of the mighty Ahau. He who once fought valiant, heroic, strong. ...
+Ahau's Dead Chamberlain: He who betrayed us, dark, heinous and weak. He left us to die and when his time came, he became just another vessel for our invaders. ...
+Ahau's Dead Chamberlain: After his faaall, a lot of us will feel freeeeedom again, after all those years. Yet I can seeense other souls like me that still have duties in this realm. ...
+Ahau's Dead Chamberlain: If you can find them, they may help you and offer information. Their burial with false gods bound their souls. Many amphoras housing their ashes are scattered throughout the city. ...
+Ahau's Dead Chamberlain: But there are other rulers still at the helm of our lost city. Here, you have power about the sphere in this room and can control it now. Go, fiiind the leader of the invaders and freee the shreds of soul left of us in this realm.
+Player: hi
+Ahau's Dead Chamberlain: Hooow does your quest come alooong... are you well?
+Player: no
+Ahau's Dead Chamberlain: Stay vigilant, strong and you can keep the enemy at baaaay. You are not alooone, I can seeense other souls like me that still have duties in this realm. ...
+5:25 Player: yes
+Ahau's Dead Chamberlain: I am looking fooorward to your victory. The strong and honourable will prevail. I can seeense other souls like me that still have duties in this realm. ...
+Ahau's Dead Chamberlain: If you can find them, they may help you and offer information. (repeat)
+Player: bye
+Ahau's Dead Chamberlain: Evennntful traveeels.
+Player: (vanish)
+Ahau's Dead Chamberlain: Spirited awaaay...

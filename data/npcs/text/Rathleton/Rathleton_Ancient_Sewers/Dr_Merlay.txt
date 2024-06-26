@@ -1,0 +1,60 @@
+Dr Merlay: Oh, to see the light of day again!
+Dr Merlay: So close! So close now!
+Dr Merlay: <groan>
+Dr Merlay: To hold my dearest in my own arms again!
+Dr Merlay: <growl> <snarl> ROAAAARRRRR! <sob>
+Dr Merlay: UUUUAAAAAAARRRGHHH!
+Dr Merlay: <sigh> Alone... always alone...
+Player: hi
+Dr Merlay: Oh, it's you! Wonderful! What brings you here, my friend? Did you see Maro? Emily? And my friends?
+Player: yes
+Dr Merlay: My hearing is a little impaired since my accident.... what did you say?
+Player: no
+Dr Merlay: Ah? No! Really? Most intriguing. Well, it's just as well that I made some copies for emergencies. Here. Please give these to my friends. I shall eagerly await your return!
+Player: yes
+Dr Merlay: But I still see some letters with you! I can imagine you're busy, but please give ALL my friends my letters as soon as possible.
+Player: no
+Dr Merlay: Well, I can imagine you're busy, but please give them my letters as soon as possible. I yearn to try out the new formula with the proper ingredients - maybe this time it will work!
+Player: name
+Dr Merlay: I used to be Dr. Henry Merlay, but now.... <howls>
+Player: dr merlay
+Dr Merlay: Yes, yes, the one who disappeared years ago in that tragic glooth factory incident.
+Player: job
+Dr Merlay: Job? JOB? Are you mocking me? I try to find a cure!
+Player: time
+Dr Merlay: <anxiously> The time? Which year is it? How long have I been here underground?
+Player: cure
+Dr Merlay: Yes, my basic idea is that of a lozenge, to and counteract the evil from the inside out! But I need a sort of liquid, both gloothy and magical, which I don't exactly know how to mix. <sigh> Alaistar would be the ideal man for this.
+Player: letter
+Dr Merlay: Yes, yes! I should write to Emily again! I have been silent for too long! At least SHE will recognise me by my style.
+Player: scientist
+Dr Merlay: The glooth has been my nemesis! It caused this strange transformation and now I dare not even walk the street at nights anymore.
+Player: glooth
+Dr Merlay: Ah, that strange enticing stuff! It is incredibly versatile, so fascinatingly useful! And yet, and yet... <looks down at himself>
+Player: potion / glooth
+Dr Merlay: That looks like Alaistar's design, but it is much too unstable to use it! Quickly now, maybe there's a stabilising element that you forgot to add! Go back to my friends if you're unsure, they will know what to do. I hope.
+Player: particle accelerator
+Dr Merlay: Ah, my latest invention when I was stilll above ground! A revolutionary principle, that accelerates and restructures the glooth particles according to temperature, coagents, and liquid formulas such as - <talks on and on>
+Player: wife
+Dr Merlay: My beautiful, lovely Emily. Is she still alive? Did she forget me? ... I can't bear to think of it!
+Player: rot
+Dr Merlay: These elementals seem to be attracted to this place, or me, I can't tell which. Perhaps they see me as one of theirs because of my glooth transformation. They are company of some sort at least. <sighs>
+Player: factory
+Dr Merlay: Ah, it was the pride of my days! An experimental glooth and working units production factory - nobody could construct metal golems like I did! <sadly> All in the past, now... all in the past.
+Player: alaistar
+Dr Merlay: I knew I could count on him to help me. There is no one like Alaistar when it comes to mixing potent fluids and liquids!
+Player: emily
+Dr Merlay: I hope in time to tell her the truth in my letters, but for now, I have so much to tell her - so many years of silence to breach, so many things to learn!
+Player: fyodor
+Dr Merlay: Please tell him that I am most grateful for him to copy out my letters to Carefew. It is a credit to his character that he does not take advantage of these strange circumstances to enrich himself, but chooses to be a herald of justice instead!
+Player: graham
+Dr Merlay: A son! I have a son! <sadly> Oh, he is right in having rejected the fruitless hopes of seeing me again. It is too hard to bear.
+Player: maro
+Dr Merlay: It is good to know he can make spare parts for my sensitive equipment, I was running low on supplies. <coughs> And his maintenance advice is always appreciated.
+Player: mordecai
+Dr Merlay: We appreciated each other, though we never became quite as good friends as Alaistar and I.
+Player: virgil
+Dr Merlay: It must be a deep-rooted dislike of my character. Why he constantly chooses to question the veracity of Emily, and rather believes me to be dead than alive, I will never understand. ...
+Dr Merlay: At least now he must regularly give Emily her due share of our fortune, when Fyodor has copied out one of my bank letters to him. I have at least that satisfaction.
+Player: bye
+Dr Merlay: <sadly> Good bye. I envy you.

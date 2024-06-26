@@ -1,0 +1,55 @@
+Player: hi / hello  
+Edmund: Welcome, Sir. Please, take a look and see if something beautiful catches your fancy. Ask me for a trade when you have made your choice.  
+Player: trade  
+Edmund: Why, certainly. Take your time.  
+Player: job  
+Edmund: <smiles> Well, it's rather a vocation than a mere job. I am Rathleton's most renowned jeweller and watchmaker.  
+Player: jewel  
+Edmund: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.  
+Player: goblet  
+Edmund: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.  
+Player: talon  
+Edmund: We don't trade with them.  
+Player: pearl  
+Edmund: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.  
+Player: mino  
+Edmund: Ah, the rough creatures that try to overrun our city? I have not much knowledge about them. You should visit Dr Alaistar Stanton, he collects their products and is a known field researcher.  
+Player: city / Rathleton  
+Edmund: Our city is one full of creative and pragmatic minds. Not unlike myself. <chuckles>  
+Player: magistrate  
+Edmund: I do not know much about their work, but things in the city seem to run smoothly enough, it seems.  
+Player: news  
+Edmund: I don't care much for the hustle and bustle of the outside world. However, if you bring me any gem you find, I might surely know a way how to turn it into a unique jewel!  
+Player: food / hung  
+Player: gem  
+Edmund: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.  
+Player: offer / sell / buy  
+Edmund: Of course. Ask me for a trade to have a look at our exquisite pieces.  
+Player: time  
+Edmund: It is 6:02 am, precisely. Would you care for a wrist watch? I have one there, or could make you a most fetching one.  
+Player: name  
+Edmund: I am Master Edmund Orlond.  
+Player: flint  
+Edmund: A quiet man. Very given to his work as a blacksmith.  
+Player: christine  
+Edmund: Young Lady D'Albay seems a good-natured girl. She always brings me fresh cookies when she comes to marvel at my jewellery.  
+Player: fyodor  
+Edmund: Yound Fairfax? He runs the Post Office now, I heard. He is also the editor of the Oramond Observer, a very critical paper. But ah, today's youth. <smiles mildly>  
+Player: fayla  
+Edmund: Ah, she was most beautiful in her youth! Well, time is not kind to any of us, and since the opera house burned down, I believe she has had to resort to giving singing and piano lessons, and to selling instruments in her little shop across the plaza.  
+Player: merlay  
+Edmund: Ah, what a shame about young Henry Merlay! <shakes head> Such interesting ideas! Such marvellous golem design! If that accident hadn't cost him his life, I believe this city would look different today.  
+Player: alaistar  
+Edmund: Dr Stanton is a most famous researcher on Oramondian flora and fauna, and a potions specialist. When he's not out collecting information, he runs a shop just over the street.  
+Player: maro  
+Edmund: Who? No!... - Oh, and I thought he had a lovely tan, though a little coarse features! Well, perhaps I should wear my glasses in public.  
+Player: mordecai  
+Edmund: Professor Stanton is unsurpassed in the art of creating runes and wands. You should visit his Magic Emporium if you wish to purchase magical equipment.  
+Player: stanton  
+Edmund: Mordecai and Alaistar Stanton are renowned men in Rathleton, and experts of their craft. Their specialty lies with the more practical arts of magic, rune-baking and potion creation.  
+Player: silas  
+Edmund: I heard he won quite some prizes in archer contests, and is a most succesful minotaur hunter. Naturally, it runs in the family. And bowmaking is virtually their second nature.  
+Player: virgil  
+Edmund: Mr Carefew was so kind as to suggest I take up my working quarters in the bank, seeing as it is the safest building, and my works are quite precious.  
+Player: bye / farewell  
+Edmund: Bid you good day, Sir.  

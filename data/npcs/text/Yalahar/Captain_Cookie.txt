@@ -1,0 +1,70 @@
+Player: hi  
+Captain Cookie: Greetings, daring adventurer. If you need a passage, let me know.  
+Player: job  
+Captain Cookie: Until I finally discover the cockaigne, I'll work as a captain of this ship for the explorer's society.  
+Player: passage  
+Captain Cookie: I can bring you to our base in Liberty Bay for 400 gold. Is that what you want?  
+Player: no  
+Captain Cookie: Maybe another time.  
+Player: vampire  
+Captain Cookie: Well, if I was a vampire I guess I'd want all the blood I could get too. So I can't really blame them. Guess they have found their land of blood and honey already.  
+Player: honey  
+Captain Cookie: There is little in the world that cannot be improved with honey! I even use honey to style my hair!  
+Player: yalahar  
+Captain Cookie: I travelled here, hoping to find the cockaigne. Imagine my disappointment when I discovered I was wrong.  
+Player: yalahari  
+Captain Cookie: I wonder what kind of sweets they might prefer.  
+Player: sweets  
+Captain Cookie: Sweets are the greatest creation of the gods ever!  
+Player: explorer's society  
+Captain Cookie: Isn't it obvious? They are explorers! If someone else but me should ever discover the cockaigne, it will be them! So I'm staying with them!  
+Player: ab'dendriel  
+Captain Cookie: Hmm, cookies with sweetened bug milk are so delicious.  
+Player: venore  
+Captain Cookie: Venore's sweets are exclusive and incredibly expensive. Once, I spent my whole wage on a night full of cookies and candies.  
+Player: carlin  
+Captain Cookie: They have a decent assortment of sweets there.  
+Player: thais  
+Captain Cookie: Thais is rather dull and uninteresting when it comes to sweets.  
+Player: kazordoon  
+Captain Cookie: Dwarfish sweets taste oddly. And most sorts contain alcohol.  
+Player: ankrahmun  
+Captain Cookie: A horrible place. You have no idea how fast chocolate is melting there!  
+Player: darashia  
+Captain Cookie: The heat there lets chocolate melt quickly, but their candies made of sand wasp honey are something I could die for!  
+Player: chocolate  
+Captain Cookie: I just love chocolate! And honeyed chocolate I like the most!  
+Player: blood crystal  
+Captain Cookie: That doesn't sound really tasty.  
+Player: darama  
+Captain Cookie: Darama is a strange continent. I traveled there a long time ago in search of the cockaigne.  
+Player: cockaigne  
+Captain Cookie: When I heard the story about the cockaigne as a kid, I just knew it must be the truth. A land of milk and honey must exist, and one day I'll find it!  
+Player: farmine  
+Captain Cookie: The dwarves and their odd cave systems ...  
+Player: zao  
+Captain Cookie: Zao is a continent south-east of Yalahar. Many lizards live there ... Creepy, I tell you!  
+Player: krailos  
+Captain Cookie: Krailos is a faraway grassland, inhabited by savage ogres.  
+Player: issavi  
+Captain Cookie: A really big city on the continent Kilmaresh. Its architecture is almost as impressive as Yalahar's. The creatures there, even more so.  
+Player: food  
+Captain Cookie: I can't help it, I love sweets of any kind!  
+Player: oramond  
+Captain Cookie: Well, this is a strange region of Tibia. All that green slime there ... That's not to my taste.  
+Player: palimuth  
+Captain Cookie: I don't know much about him. He welcomed me to the city and was quite polite.  
+Player: roshamuul  
+Captain Cookie: That's an island east of Darashia. Full of old ruins and unholy, demonic creatures. Brrr.  
+Player: ship  
+Captain Cookie: I always dreamt about a ship made of sweets. But honestly I think I could not resist to taste it and would probably shipwreck it.  
+Player: sugar  
+Captain Cookie: Yummy, the mother of all sweets!  
+Player: svargrond  
+Captain Cookie: Go away. Everything there tastes salty or oily. They use all their honey to produce mead. What a waste!  
+Player: ocean  
+Captain Cookie: I sometimes wonder why the gods did not make the ocean taste like lemonade. I guess if they did, it would have been drunken dry already.  
+Player: kick  
+Captain Cookie: Get off my raft!  
+Player: bye / farewell  
+Captain Cookie: Good bye.  

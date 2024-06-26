@@ -1,0 +1,52 @@
+Player: hi / hello  
+Richard: Hello there, mate. Here for a trade? My stock's just been refilled.  
+Player: job  
+Richard: I was a carpenter, back on Main. Wanted my own little shop. Didn't sit with the old man. So I shipped to somewhere else. Terrible storm. ...  
+Richard: Woke up on this island. Had to eat squirrels before the adventurers found me and took me in. End of story.  
+Player: squirrel / eat / cheese / ham  
+Richard: Don't talk to ME about squirrels! <shudders> Had to live off them the first days, when they were the only thing to go into my self-made acorn traps. Nasty. ...  
+Richard: Can't get rid of horrible dreams of giant squirrels hunting me, now.  
+Player: name  
+Richard: Richard. Just Richard. Lost my surname with my past in that storm. <winks>  
+Player: Coltrayne  
+Richard: You know, I really don't want to poke into someone else's private life. Suffice it to say that everyone has chapters of his life he doesn't want to mention. Judging by Coltrayne's looks, we're looking at a trilogy here.  
+Player: dawnport  
+Richard: This island here's not too bad. Once I didn't have to live off squirrels, it became quite enjoyable. Nasty things live underground though, so take care where you tread and ALWAYS have a rope with you! ...  
+Richard: Some of the others have been down there, didn't come out without several deep wounds each time. Mr Morris however is quite keen to find out more about the strange magical energies and the monsters deep down.  
+Player: rope  
+Richard: Only the best quality, I assure you. A rope in need is a friend indeed! Imagine you stumble into a rat hole without a rope - heh, your bones will be gnawed clean before someone finds ya! ...  
+Richard: Now, about that rope - ask me for equipment to see my wares. <winks>  
+Player: shovel  
+Richard: Yes, just the thing find the spot where you buried all that gold, eh? <winks> Just ask me for equipment.  
+Player: trade  
+Richard: Of course, just browse through my wares. You can also have a look at food or equipment only.  
+Player: equipment  
+Richard: Of course, just browse through my wares. You can also have a look at food.  
+Player: food  
+Richard: Of course, just browse through my wares. Say trade to see everything I offer.  
+Player: meat  
+Richard: Food is very important for your health! I have some keeping provisions here that will serve you nicely when you're in a fight. Ask me for food to dig into my stock.  
+Player: Garamond  
+Richard: Can you believe how old he is? He won't say it, but I wouldn't be surprised if he had been around for loooooong time.  
+Player: key  
+Richard: Sorry mate, but I told you everything I know about that key.  
+Player: Hamish  
+Richard: Tries to act tough, but he's quite a witty and decent bloke who wouldn't hurt a fly. We enjoy a good laugh together in the evenings.  
+Player: quest / mission  
+Richard: A quest, huh? That's Mr Morris' department, mate. He's the one who's always planning quests. You'll find him upstairs.  
+Player: Inigo  
+Richard: Old Inigo was the one who found me, actually, and brought me to the outpost. I was half starved by then. He taught me how to make better traps and how to fish... I owe much to Inigo.  
+Player: Morris  
+Richard: Don't know what to make of him. Great researcher in all Dawnport matters, though. Always has a quest or two where he needs help, if you're looking for adventuring work.  
+Player: Oressa  
+Richard: Quiet little lady, her. Knows her way around the isle, looking for herbs and stuff; but mostly spends her time in the temple, helping younglings like you choose a vocation.  
+Player: Plunderpurse  
+Richard: You know, on the day that ol' pirate decides to make off with all that gold in the bank, I'm gonna come with him. Should be much more fun landing on a strange island with some gold to spend on booze and babes! <winks>  
+Player: rookgaard  
+Richard: <shrugs> Never been, mate. Heard it's kinda cute, though.  
+Player: Tybald  
+Richard: Always acts his part, that one. Trustworthy in any plight. If it wasn't for his prowess in paladin and knight spells, we'd have had a tough time when the minotaurs once decided to attack - ah long story.  
+Player: offer / buy / stuff / wares  
+Richard: I sell equipment and food of all kinds. Just ask me for which you want to trade if you like to see my offers.  
+Player: bye  
+Richard: Have fun!  

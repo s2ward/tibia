@@ -1,0 +1,71 @@
+Player: hi  
+Ashtamor: Welcome, Player, wanderer between the worlds.  
+Player: name  
+Ashtamor: What's a name worth in your eyes? And more important: Does the choice of your name decide your fate? Perhaps we will never know.  
+Player: wanderer / job  
+Ashtamor: I consider myself as a guide, a guardian for the souls who transcend the border to another world.  
+Player: time  
+Ashtamor: It's 4:38 am now, but the true question is: How much time is left?  
+Player: buy / sell / offer / stuff / equipment / ware / goods  
+Ashtamor: I'm offering vases and amphoras, the perfect vessel for all kinds of dusty remains. Ask me for a trade if you're interested.  
+Player: trade  
+Ashtamor: Yes, it's a wise idea not to leave the choice of your future vessel to chance. Have a look.  
+Player: another world / death  
+Ashtamor: Does it mean anything than losing your weak physical shell? And isn't the true power in the universe rather mental than physical?  
+Player: leeland slim  
+Ashtamor: This man is so old and looks so unhealthy that I expect him to become my customer every day.  
+Player: abran ironeye  
+Ashtamor: At least his temper brought me some customers.  
+Player: soul  
+Ashtamor: The essence of life, source of your very self. While the body is in space and time, the soul exists in time only.  
+Player: body  
+Ashtamor: Is the mind a creation of the body, or the body an invention of the mind?  
+Player: life  
+Ashtamor: Life is nothing but a pre-stage for the eternity of death.  
+Player: birth  
+Ashtamor: Birth might be the beginning but death is certainly not the end.  
+Player: fire  
+Ashtamor: The purging force of fire ... it helps to free souls and its smoke helps them to find their way to another world. 
+Player: gods  
+Ashtamor: Once you leave your mortal shell, you'll become one with the gods.  
+Player: thais  
+Ashtamor: Thais needs to be cleansed by fire just like Venore!  
+Player: venore  
+Ashtamor: You come to this world naked, and you leave it this way. So there's no need to save your money, especially in a place like Venore.  
+Player: elves  
+Ashtamor: Elves have a strange relation to death. I don't know what they are up to but we should stay wary.  
+Player: dwarfs / dwarves  
+Ashtamor: Dwarfs live unhealthily long and its difficult to burn them to ashes. This is suspicious.  
+Player: monster  
+Ashtamor: Oh yes, monsters can grant you a passage to the afterlife also, but it's not a comfortable trip. <chuckles>  
+Player: carlin  
+Ashtamor: It seems less rotten than most other cities, but still purification would do no harm.  
+Player: king  
+Ashtamor: Kings, queens ... I've seen them come and go. Everything fades, even the glory and wealth of the richest.  
+Player: thanks  
+Ashtamor: 'Thank you' ... Words I rarely hear these days. Let me know when you need help again, Player.  
+Player: cemetery  
+Ashtamor: It would be a shame to let worms do the work that is meant to be done by cleansing fire.  
+Player: crematory  
+Ashtamor: Such an ugly word for this wonderful place. It's a door, a portal to a better world.  
+Player: guide  
+Ashtamor: You seem exceptionally healthy. It will still take many years until you'll need my guidance.  
+Player: help  
+Ashtamor: What help could I offer apart from guidance? Would you like me to help you to transcend the border to the afterlife?  
+Player: No  
+Ashtamor: Come back when you have changed your mind, wanderer.  
+Player: yes  
+Ashtamor: Are you sure? You might not be able to come back, consider that!  
+Player: yes  
+Ashtamor: Hmm... seems you are not ready yet to let go.  
+Player: afterlife  
+Ashtamor: No one really knows what awaits us beyond. Although there are some old stories about the Netherworld.  
+Player: Netherworld  
+Ashtamor: It is the place where the dead end up. Some sages believe, that it is located below the world of the living. ...  
+Ashtamor: Personally, I think it rather lies within another dimension so that terms like above or beneath are inappropriate to describe it. There are some rumours that the descent to the Netherworld is difficult yet possible for those still living.  
+Player: zarganash  
+Ashtamor: In a time when even death was young, the caverns of Zarganash were a place, where the souls of the dead rested for a while before they passed into the great beyond. ...  
+Ashtamor: Over the course of aeons, the caverns of Zarganash became a vast plane, filled with lost souls and far more powerful entities. ...  
+Ashtamor: Zarganash is a part of the Netherworld, the place where souls of sentient beings go after death. But it is not completely congruent with the Netherworld, it is just a part of this vast and mysterious realm.  
+Player: bye  
+Ashtamor: See you again, Player ... sooner or later, more or less alive.  

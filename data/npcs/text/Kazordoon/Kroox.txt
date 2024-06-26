@@ -1,0 +1,29 @@
+NPC: Kroox  
+Player: hi / hiho / hello  
+Kroox: Welcome to Kroox Quality Armor, Player! Wanna take a look, ask me for a trade.  
+Player: dungeon  
+Kroox: Much fun you can have in dungeons. Much battle and much gold, jawoll!  
+Player: dwarf  
+Kroox: We are proud fellows.  
+Player: help  
+Kroox: I sell and buy all kinds of armor. Dwarfish are the best, jawoll!  
+Player: job / shop  
+Kroox: I sell best armor in land. My armor save you life. Better buy much.  
+Player: measurements  
+Kroox: UH? No clue what you are talking about, jawoll.  
+Player: mines  
+Kroox: Foreigners not welcome in mines. An evil basilisk rob our deeper mines.  
+Player: monster  
+Kroox: You not be afraid, here you be save.  
+Player: name  
+Kroox: My name is Kroox Shieldbearer, son of Earth, from the Molten Rock.  
+Player: stuff / offer / goods / buy / sell / weapon / helmet / armor / trousers / shield / legs / ware / equipment  
+Kroox: I sell armors, helmets, legs, and shields. If you'd like to see my offers, ask me for a trade.  
+Player: thanks / thank you  
+Kroox: I you thank, too.  
+Player: time  
+Kroox: It's 2:19 am now.  
+Player: trade  
+Kroox: You look, you like, you buy!  
+Player: bye / farewell  
+Kroox: Good bye. Come back soon.  

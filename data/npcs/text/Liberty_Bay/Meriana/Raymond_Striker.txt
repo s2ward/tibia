@@ -1,0 +1,67 @@
+Player: hi / hello  
+Raymond Striker: Be greeted. Is there anything I can do for you?  
+Player: do for you / job  
+Raymond Striker: <chuckles> I am one of the free captains of the Shattered Isles, who selected me as their spokesperson. <bows>  
+Player: bounty  
+Raymond Striker: Yes, I know that there is a bounty on my head, but it is unwise to challenge one of the best swordsmen of the world while his friends are around. So you will have to wait for a better opportunity.  
+Player: captains  
+Raymond Striker: We don't consider ourselves as pirates, but as freedom fighters. But there are indeed pirates out there. They are true bandits, cutthroats and murderers. They are the ones responsible for the horrible acts that are accredited to us.  
+Player: outfit  
+Raymond Striker: Your outfit?? We have more urgent missions to think about than to improve your looks!  
+Player: Carlin  
+Raymond Striker: We have loose trade relations with Carlin.  
+Player: Charlotta  
+Raymond Striker: That old woman has a good heart, although she holds a grudge against Thais and Venore, just like most of us.  
+Player: Chondur  
+Raymond Striker: Chondur is a wise man. He is a great help in keeping our hideout secret and healing the wounded and sick ones.  
+Player: cult  
+Raymond Striker: Yes, we heard about some cult. Suppressed and angry people turn for help wherever it comes from and shut their eyes to reality ...  
+Raymond Striker: We have learnt that the cult maintains a base somewhere to the northeast of Liberty Bay. But that is not our problem, we have other battles to fight.  
+Player: eleonore  
+Raymond Striker: She is my only and true love. It hurts me deeply that the mermaid's magic let me forget her. I feel so guilty and can only hope that Eleonore can forgive my weakness.  
+Player: excalibug  
+Raymond Striker: Excalibug is a myth and older than the settlements on this isle. You won't find it here.  
+Player: explorer society  
+Raymond Striker: They are harmless explorers and we have no quarrels with them.  
+Player: Ferumbras  
+Raymond Striker: It is rumoured that he has established some base on one of the isles in the past.  
+Player: governor  
+Raymond Striker: The governor is only a pawn in the game of the trade barons of Venore. Those moneybags use him as it pleases them.  
+Player: Isolde  
+Raymond Striker: That woman might be more dangerous than it seems.  
+Player: king  
+Raymond Striker: I doubt the king gains as much from the occupation of the isles as the Venoreans do.  
+Player: liberty bay  
+Raymond Striker: One day the city will bear this name justly and with pride.  
+Player: loveless / theodore  
+Raymond Striker: That slimy toad Loveless is the true evil that dwells in Liberty Bay. But the evil is just like a hydra: If you cut off one head, another will grow back immediately. So we'd better stick to the evil we know.  
+Player: mermaid / marina  
+Raymond Striker: I am deeply ashamed that I lacked the willpower to resist her spell. Thank you for your help in that matter. Now my head is once more free to think about our mission.  
+Player: name  
+Raymond Striker: Raymond Striker, at your service. <bows>  
+Player: natives  
+Raymond Striker: We so-called natives have been suppressed and ransacked by the Venoreans and their Thaian puppets.  
+Player: pirate  
+Raymond Striker: We don't consider ourselves as pirates, but as freedom fighters. But there are indeed pirates out there. They are true bandits, cutthroats and murderers. They are the ones responsible for the horrible acts that are accredited to us.  
+Player: plantation  
+Raymond Striker: One day the workers might be free men and women again.  
+Player: quara  
+Raymond Striker: The quara pose a threat to all of us. As soon as we have freed the isles from the current occupiers, we must concentrate our efforts to wipe out the quara in this territory.  
+Player: rum  
+Raymond Striker: Rum is one of the few pleasures a sailor has on the high seas.  
+Player: sugar  
+Raymond Striker: Sugar lured the Venoreans here. Still, we need it.  
+Player: task  
+Raymond Striker: You should prove your worth to us first by solving missions.  
+Player: thais  
+Raymond Striker: Thais is not the source of the evil that has befallen our isles. It might end up as a victim itself whenever Venore feels powerful enough.  
+Player: Tristan  
+Raymond Striker: As far as I can tell he is a good and valorous warrior. It would be a shame if I had to fight him.  
+Player: venore  
+Raymond Striker: The scheming trade barons of Venore know nothing but profit and power. For that, they lie and murder and would readily sell their souls.  
+Player: voodoo  
+Raymond Striker: I have seen some bad things that voodoo can do, but it is not the magic that is good or evil - only its user.  
+Player: Wyrmslicer  
+Raymond Striker: He is smart and has some honour. Even though I admire these traits in him, he is still on the wrong side, and the day might come when we have to cross blades.  
+Player: bye / farewell  
+Raymond Striker: May there always be wind in your sails, Player.  

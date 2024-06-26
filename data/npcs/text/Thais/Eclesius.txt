@@ -1,0 +1,310 @@
+Player: hi / hello  
+Eclesius: Dear Player, how good to see you again! If you're here for your tasks, go right ahead.  
+Player: Assistant  
+Eclesius: As my assistant you can carry out daily tasks and solve missions for me.  
+Player: Eclesius  
+Eclesius: Yes?  
+Player: First Dragon  
+Eclesius: He was bested in combat, but the hero who killed him, was that humble that he never claimed the fame.  
+Player: Job  
+Eclesius: I have a lot of work to do. I'm a very wise sorcerer, you see. So I'm busy creating magic fields, inventing new spells, reading books, summoning creatures... all very complex. That's why I need assistants for the easy work.  
+Player: Key  
+Eclesius: Where did I put that key, erm... I think it's somewhere in my lab. But then again my memory is not the best.  
+Player: Mission / Quest  
+Eclesius: I think all important missions are solved. At least I can't remember anything else right now. But you can still do some tasks for me.  
+Player: Name  
+Eclesius: My name is Eclesius. And I'm quite happy that my memory works almost all of the time.  
+Player: Sorry  
+Eclesius: Yes, you SHOULD be sorry!  
+Player: Thais  
+Eclesius: I moved away from there for a reason. I just can't remember what the reason was.  
+Player: Turian / Frog  
+Eclesius: Oh dear. It's all my fault that he is the way he is now. That much I can remember. <sniff>  
+Player: Venore  
+Eclesius: It's to the far east of here. You can either reach it by ship or walk there, but it's QUITE a walk. I think.  
+Player: bye  
+Eclesius: Oh, have you already finished your tasks? Then, uh, have a pleasant day! Don't forget to drop by tomorrow!  
+Player: Task  
+Eclesius: I have five tasks which, ideally, need to be done once a day. Sweep the house, polish my crystal ball, feed my fish, exterminate bats and prevent the apocalypse. ...  
+Eclesius: ... wow, I remembered them all. Now if you remember to do them and I remember to pay you for it, I think we'll all be very happy! ...  
+Eclesius: Just remind me of the task you wanted to do and go right ahead, uh... what's your name again?  
+Player: Player  
+Eclesius: Was that your name...? Player? Really? <scratches head> Fine then... hello Player!  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Aha... I see.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Can't you see that I'm thinking of a complex magical formula and do not wish to be bothered?!  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Eh? No way.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: How strange. I can't seem to remember that.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Hum. You seem a little confused, none of this makes sense to me.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: I almost forgot about that. Good you reminded me.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: I don't really understand. But then again, you probably wouldn't understand my magic formulae either.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: I guess my memory doesn't work like it used to.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: I have no idea what you are talking about, but there are important matters at hand. I think.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Oh well... anyway.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Oh. Is that so...  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Really? That's interesting.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: That's rather funny.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Most curious.  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: Strange. <scratches head>  
+Player: hint  
+Eclesius: Hint? What kind of hint?  
+Player: Random Word  
+Eclesius: What? No... I can't believe that.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Aha... I see.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Can't you see that I'm thinking of a complex magical formula and do not wish to be bothered?!  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Eh? No way.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: How strange. I can't seem to remember that.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Hum. You seem a little confused, none of this makes sense to me.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: I almost forgot about that. Good you reminded me.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: I don't really understand. But then again, you probably wouldn't understand my magic formulae either.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: I guess my memory doesn't work like it used to.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: I have no idea what you are talking about, but there are important matters at hand. I think.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Oh well... anyway.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Oh. Is that so...  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Really? That's interesting.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: That's rather funny.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Most curious.  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: Strange. <scratches head>  
+Player: thank  
+Eclesius: What are you thanking me for? <scratches head>  
+Player: Random Word  
+Eclesius: What? No... I can't believe that.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Aha... I see.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Can't you see that I'm thinking of a complex magical formula and do not wish to be bothered?!  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Eh? No way.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: How strange. I can't seem to remember that.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Hum. You seem a little confused, none of this makes sense to me.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: I almost forgot about that. Good you reminded me.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: I don't really understand. But then again, you probably wouldn't understand my magic formulae either.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: I guess my memory doesn't work like it used to.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: I have no idea what you are talking about, but there are important matters at hand. I think.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Oh well... anyway.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Oh. Is that so...  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Really? That's interesting.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: That's rather funny.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Most curious.  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: Strange. <scratches head>  
+Player: lost sandals  
+Eclesius: You can't have lost them. We're already done with that mission, don't you remember??  
+Player: Random Word  
+Eclesius: What? No... I can't believe that.  
+Player: magical oil  
+Eclesius: Ah! Have you found the recipe and brought me the necessary ingredients?  
+Player: yes  
+Eclesius: No, no. Even I can see that you must have forgotten one or more of the ingredients. Just read the recipe properly, we can't afford to make any mistakes here.  
+Player: magical oil  
+Eclesius: Ah! Have you found the recipe and brought me the necessary ingredients?  
+Player: Random Word  
+Eclesius: Uhm. Huh? I just forgot what I was about to say.  
+Player: Random Word  
+Eclesius: Really? That's interesting.  
+Player: Task  
+Eclesius: I have five tasks which, ideally, need to be done once a day. Sweep the house, polish my crystal ball, feed my fish, `nate bats and prevent the apocalypse. ...  
+Eclesius: ... wow, I remembered them all. Now if you remember to do them and I remember to pay you for it, I think we'll all be very happy! ...  
+Eclesius: Just remind me of the task you wanted to do and go right ahead, uh... what's your name again?  
+Player: Feed  
+Eclesius: Feed? Feed who? My fish? Oh yes. But when I looked at it earlier, it seemed as hungry as ever! What is taking you so long?! Go and feed it!  
+Player: Feed  
+Eclesius: Feed my fish? Oh, right. <scratches head> So... have you fed it?  
+Player: yes  
+Eclesius: But the fish doesn't speak at all! I'm sure you must've done something wrong when feeding it. Please try again.  
+Player: Sweep  
+Eclesius: I told you to sweep the house? Really? Well, you seem to have taken such a long time that everything is dirty again. I guess you should start over.  
+Player: Sweep  
+Eclesius: Well, what are you waiting for? Sweep all the furniture in the house! Or are you done already?  
+Player: yes  
+Eclesius: No, no, no - achoo! I can still smell the dust in the ai.. - achoo! - air. Take that broom and clean every piece of furniture in my living room and bedroom!  
+Player: sweep  
+Eclesius: Well, what are you waiting for? Sweep all the furniture in the house! Or are you done already?  
+Player: no  
+Eclesius: Well, then off to work! Go on, get on with you!  
+Player: Prevent  
+Eclesius: What's wrong? Are you afraid to go down there? There's absolutely no reason for that. Me? Erm... my knees, you know. Stairs are such a trial for me. Go on! Secure the cage and calm the demon!  
+Player: Exterminate  
+Eclesius: You're still not done with the bats, I can hear them flapping and flapping and flapping! Argh! Do something!  
+Player: Polish  
+Eclesius: Yes! I remember! You were supposed to polish my crystal ball, weren't you? But when I took a look at it earlier, it was still clouded. You'd better start right away!  
+Player: Polish  
+Eclesius: Yes! I remember! You were supposed to polish my crystal ball, weren't you? Have you done it yet?  
+Player: yes  
+Eclesius: No no no! Whatever you did to it, it had nothing to do with polishing! I can't even see my face in it, let alone the future. I hope you can do better than that.  
+Player: Polish  
+Eclesius: Yes! I remember! You were supposed to polish my crystal ball, weren't you? Have you done it yet?  
+Player: no  
+Eclesius: Well then, what are you waiting for? Go away and get on with whatever it was you were doing!  
+Player: Exterminate (after killing the cat)  
+Eclesius: Don't even THINK that I'll let you into my attic again, you cat killer! And don't count on me forgetting about that incident!  
+Player: Exterminate  
+Eclesius: The bats? They have been quiet for a while now. Were you able to kill a few of the pests?  
+Player: yes  
+Eclesius: No! I can still hear them! Kill more of them, I can't concentrate!  
+Player: exterminate  
+Eclesius: The bats? They have been quiet for a while now. Were you able to kill a few of the pests?  
+Player: no  
+Eclesius: Well then get on with it! I'm suffering here!  
+Eclesius: Prevent  
+Eclesius: What's wrong? Are you afraid to go down there? There's absolutely no reason for that. Me? Erm... my knees, you know. Stairs are such a trial for me. Go on! Secure the cage and calm the demon!  
+Player: Prevent  
+Eclesius: Did you prevent the apocalypse, my brave assistant?  
+Player: Yes  
+Eclesius: You haven't! You must've forgotten something important. Go back down there and finish the task, or we might not see another tomorrow! If you need magical oil, don't hesitate to come to me with the ingredients.  
+Player: Prevent  
+Eclesius: Did you prevent the apocalypse, my brave assistant?  
+Player: No  
+Eclesius: What are you waiting for?! It might only be a matter of minutes before the demon breaks free! Hurry up! If you need magical oil, don't hesitate to come to me with the ingredients.  
+Player: Prevent  
+Eclesius: Did you prevent the apocalypse, my brave assistant?  
+Player: random word  
+Eclesius: Erm... wait... what were we just talking about?  
+Player: random word  
+Eclesius: Can't you see that I'm thinking of a complex magical formula and do not wish to be bothered?!  
+Player: sweep  
+Eclesius: Well, what are you waiting for? Sweep all the furniture in the house! Or are you done already?  
+Player: random word  
+Eclesius: What? Who? I think I just forgot what we were talking about. What was it?  
+Player: random word  
+Eclesius: Most curious.  
+Player: hi  
+Eclesius: Oh. OH. Is that... the result...?  
+Player: bye  
+Eclesius: What do you mean, 'bye'?? You stay here and finish that mission! Your only excuse to leave would be if you have to go pee!  
+Player: pee  
+Eclesius: Argh! Not now! But... okay, I don't want my floor dirtied. But once I beam you up, you'll have to start over with the levers! Still want to go?  
+Player: mission  
+Eclesius: Wait, wait, I know you. I also know what you wanted from me. Errrm... ah yes! The milk delivery! Right?  
+Player: yes  
+Eclesius: Well, where is it?? And what did Arthur say?  

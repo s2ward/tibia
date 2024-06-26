@@ -1,0 +1,105 @@
+Player: hi / hello  
+Narsai: Greetings, dear guest!  
+Player: Ab'Dendriel / Carlin / Darashia / Edron / Kazordoon / Thais / Venore  
+Narsai: I'm sorry but I have never heard of this place.  
+Player: ambassador  
+Narsai: The Ambassador of Rathleton is an envoy of Oramond.  
+Player: Alyxo  
+Narsai: Alyxo is one of the most fascinating women you will ever meet. Don't be put off by the fact that she's a medusa! Issavi has an open gate for those of peace and Alyxo respects our laws. She's running the Seaside Theatre. ...  
+Narsai: You should go and see one of the performances, especially if Alyxo herself enters the stage. She has the most beautiful singing voice! Uhm, am I talking too much about her? Well, I guess, that's what amorousness does to all of us.  
+Player: Anuma  
+Narsai: The Anuma are magical beings that inhabit the continent Kilmaresh. It is told that they were once created by the sun gods Suon and Fafnar. There are several kinds of Anuma: Sphinxes, lamassu, gryphons and manticores.  
+Player: Arishum  
+Narsai: He is an old and venerable lamassu and also the founder of our order, the Midnight Flame. He lost his sight a long time ago when he was defending the ruins of Nuur against invading Fafnar cultists. ...  
+Narsai: As a sign of gratitude and redemption the goddess Bastesh granted him the power of clairvoyance. Since then, his eyes might be clouded, but he sees far more than anyone can imagine. ...  
+Narsai: He lives very secluded and only our leader Kallimae sees him on a regular basis.  
+Player: Bastesh  
+Narsai: She is the Goddess of the Sea. We also call her the Keeper of Wisdom or She Who Knows. She is the patroness of our order because she blessed our founder, the lamassu Arishum with great visionary power.  
+Player: catacomb  
+Narsai: Before the people of Issavi established a cemetery beyond the city walls they used to bury the deceased underneath the city. The extensive tunnel network still exists down there. But it is a dangerous place to visit. ...  
+Narsai: Not only do the Anuma watch over the peace in death. I also heard that there are Fafnar cultists in hiding down there. ...  
+Narsai: Rumour has it that there are several sealed doors that could only be opened by priests. Those priests were wearing special masks which allowed them to pass.  
+Player: dwarves / dwarfs  
+Narsai: I don't know much about them.  
+Player: elves / elfes  
+Narsai: If you want to learn more about them, you should ask Faloriel over there.  
+Player: empress  
+Narsai: These days we have a sphinx empress who is ruling Kilmaresh. She resides in the palace of Issavi.  
+Player: Eshaya  
+Narsai: He's the leader of the Sapphire Blade.  
+Player: Fafnar  
+Narsai: I really don't think I should talk about the Feared One.  
+Player: golden  
+Narsai: Golden masks are common funerary objects in Kilmaresh. Many deceased are buried with such a mask.  
+Player: gryphon  
+Narsai: They don't act hostile towards humans but they are proud and withdrawn creatures. Make sure not to disturb their mountain territories.  
+Player: Issavi  
+Narsai: Issavi is this beautiful city here. It is rich and prosperous and many Kilmareshian sages hail from here. It's a good place for traders and merchants but also for scholars and scientists.  
+Player: ivory  
+Narsai: In the ancient Kilmareshian funerary cult, an ivory mask symbolised wealth in the afterlife.  
+Player: job  
+Narsai: I'm a member of the Midnight Flame.  
+Player: Kallimae  
+Narsai: She is the leader of my order, the Midnight Flame. Well, actually our leader is the venerable lamassu Arishum but he rarely makes an appearance. Kallimae is in charge in his absence - which is most times.  
+Player: Kilmaresh  
+Narsai: This is the continent you are currently visiting. You will find vast, dry steppes here as well as high mountains, the river Nykri and the big city Issavi.  
+Player: Krailos  
+Narsai: It is now separated from Kilmaresh by a strait. But once it was a part of the old empire - before Suon's Wrath, that is.  
+Player: lamassu  
+Narsai: Lamassu are benevolent towards humans - unless you disturb the peace of holy sites or graveyards. In this case they can be very unforgiving. The founder and leader of my order, the Midnight Flame, is the venerable lamassu Arishum.  
+Player: lyre  
+Narsai: Without this lyre, Alyxo's performances just aren't the same.  
+Player: manticore  
+Narsai: Manticores are much less kind than sphinxes or lamassu. Your best bet would be to steer clear of them.  
+Player: mask  
+Narsai: In the early days of the New Empire, there were four types of masks related to the ancient Kilmareshian funerary cult. A silver mask represented the purity of the soul. The mirror mask symbolised self-awareness in death. ...  
+Narsai: The wooden gryphon mask signified the veneration of the Anuma and the ivory mask symbolised wealth in the afterlife. A funeral was always held by four priests, each of them wearing one of those masks.  
+Player: Midnight Flame  
+Narsai: We are a small circle of chosen knights and oracles, led by the lamassu Arishum and by his locum tenens Kallimae. To honour the blinded lamassu, all of us tie gauze scarfs around our eyes. ...  
+Narsai: All of our seers have second sight and are able to foresee certain future events or hidden secrets.  
+Player: mirror  
+Narsai: In the ancient Kilmareshian funerary cult, a mirror mask symbolised self-awareness in death.  
+Player: mission / help / task / ritual  
+Narsai: I don't know whether I have permission to talk about this issue. You should speak with Kallimae first.  
+Player: demon  
+Narsai: I'd rather not discuss this issue.  
+Player: Moe  
+Narsai: He's a sibang who lives here in Issavi.  
+Player: name  
+Narsai: I'm Narsai.  
+Player: news / rumours / rumors  
+Narsai: Eshaya seems worried as of late. I wonder what troubles him.  
+Player: oracle  
+Narsai: It is not easy to be an oracle, believe me.  
+Player: Oramond  
+Narsai: Oramond lies south of Krailos and is very different from Kilmaresh. Many minotaurs are living there as well as humans.  
+Player: Rathleton  
+Narsai: It's a big city in Oramond. They have an Ambassador here in Issavi.  
+Player: Sapphire Blade  
+Narsai: They are a group of elite warriors who all carry blades made of tagralt. They defend Issavi against all threats.  
+Player: Shimun  
+Narsai: He's a brother, a member of the Midnight Flame. But he doesn't live in Issavi. You can find him in the delta region where he earns his living as a fisherman.  
+Player: silver  
+Narsai: In the ancient Kilmareshian funerary cult, a silver mask represented the purity of the soul.  
+Player: sphinx  
+Narsai: Sphinxes are generally benevolent towards humans but they are also enigmatic and aloof. Make sure to treat them with all due respect at any time.  
+Player: Suon  
+Narsai: He is the Sun God. We also call him the Benevolent Sun or simply the King.  
+Player: tagralt  
+Narsai: It is a blue metal, only to be found here in Kilmaresh.  
+Player: Tefrit  
+Narsai: She's a sister, a member of the Midnight Flame. But she doesn't live in Issavi. You can find her in the mountains far from here, as she prefers a life in solitude.  
+Player: Tibia  
+Narsai: It's the name of the world we live in.  
+Player: time  
+Narsai: I'm sorry but I don't know.  
+Player: wooden  
+Narsai: In the ancient Kilmareshian funerary cult, a wooden gryphon mask represented the veneration of the Anuma.  
+Player: Wrath  
+Narsai: The sun god Suon has once smitten this continent because of the blasphemy of Fafnar's worshippers. This happened more than thousand years ago. Since that time, Kilmaresh is separated from the rest of the continent.  
+Player: Xogixath / Mozradek / Bragrumol  
+Narsai: I'd rather not discuss this issue.  
+Player: Yonan  
+Narsai: He's a brother, a member of the Midnight Flame. He is trading with gems and jewellery at the market here in Issavi.  
+Player: bye / farewell  
+Narsai: Farewell, friend.  

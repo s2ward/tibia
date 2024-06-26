@@ -1,0 +1,30 @@
+Player: hi / hello  
+Santa Claus: Merry Christmas, little Player!  
+Player: name / job  
+Santa Claus: Ho ho ho! You don't know Santa Claus? Never mind. You may ask me for a present.  
+Player: present  
+Santa Claus: Here is your present! Enjoy!  
+Player: present  
+Santa Claus: You already got your present! Don't be greedy!  
+Player: thank you  
+Santa Claus: Oh - you absolutely deserve it! You've behaved really well this year. Almost no bad things about you in my book!  
+Player: thank you  
+Santa Claus: Thank you too, little Player, for coming to see me this year.  
+Player: thank you  
+Santa Claus: Keep up this friendliness and politeness and we shall see about a really cool present next year!  
+Player: thank you  
+Santa Claus: May the coming year be full of joy, happiness and love for you! You don't always have to be on the tough side, you know.  
+Player: thank you  
+Santa Claus: Oh, little Player, watching you from above always makes my heart smile. I'll be looking forward to seeing you next Christmas!  
+Player: thank you  
+Santa Claus: Yes, you should thank me! I ignored that evil thing you did last year and gave you a present anyway. You know what I mean.  
+Player: thank you  
+Santa Claus: You had a few hard times last year, I know. Considering all that you did well and I'm proud of you.  
+Player: thank you  
+Santa Claus: Your good and bad deeds are pretty balanced. If you try and lean more towards the good side, I'll consider giving you a really nice present next year!  
+Player: thank you  
+Santa Claus: You're one of my favourite children, little Player. But pssht, don't tell the others! I love all of you, of course.  
+Player: thank you  
+Santa Claus: You've been so good during the last year that I was almost tempted to give you a Ferumbras' hat. But I didn't want to make the other children jealous.  
+Player: bye / farewell  
+Santa Claus: Farewell, Player!  

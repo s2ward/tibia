@@ -1,0 +1,69 @@
+NPC: Malunga  
+Note: This NPC still has some generic spell statements for the specific vocation  
+Player: hi / hello  
+Malunga: Greetings. I have only little time to spare, so the conversation will be short. I teach sorcerer spells and buy a few magical ingredients.  
+Player: academy  
+Malunga: The academy of Edron as a royal institution has several agendas here. Not all of them are to be discussed with outsiders.  
+Player: civilisation  
+Malunga: The little we know about the extinct civilisation hints about a magically advanced race of humanoids, possibly of elven heritage, that once inhabited those isles until the disaster struck ...  
+Malunga: They were probably quite adept in manipulating the magical currents that are extremely strong on these isles.  
+Player: cult  
+Malunga: It would not surprise me much if some superstitious fools mess around with the chaotic magical currents of this isle. Only the gods may know what harm they could do to themselves and others.  
+Player: disaster  
+Malunga: The disaster took place at least some centuries ago. Our researches convinced us that the isles here belonged to a single landmass in the past. That should give you an idea of the extent of this catastrophe.  
+Player: edron  
+Malunga: Edron is a place of learning, magic and secrets. But others are dealing with that already in other places. It is my obligation to handle those issues here.  
+Player: education  
+Malunga: I teach aspiring sorcerers several spells.  
+Player: Ferumbras  
+Malunga: I will not discuss this issue now and here. If you have any questions about him, the academy in Edron is the place to ask ...  
+Malunga: Considering that this is a rather delicate issue, you should have a good reason to ask though.  
+Player: governor  
+Malunga: The legal issues are handled by the local authorities and the academy via mail, so I can gladly concentrate on scientific matters.  
+Player: ingredients  
+Malunga: Well, ask me for a trade and I'll show you what I need.  
+Player: king  
+Malunga: The king's support of the academy is dwindling. I hope results in my researches will change this significantly.  
+Player: loveless / theodore  
+Malunga: A typical Venorean. Always around where the money is and constantly looking for a chance to make profit.  
+Player: Morgaroth  
+Malunga: The name Morgaroth is mentioned in ancient books quite a few times. He seems to be some higher demon lord who likes to seduce mortals with promises of power to become his worldly minions.  
+Player: Orshabaal  
+Malunga: Orshabaal is one of the most ambitious minions of the Ruthless Seven. He tries to impress his masters by raids on our world. He hopes the destruction he causes will eventually make him the warlord of the hordes of the seven.  
+Player: pirate  
+Malunga: Pirates are a constant pest. As long as their existence does not interfere with my researches, I don't care much about them.  
+Player: plantations  
+Malunga: I have seen them only from afar.  
+Player: quara  
+Malunga: The quara are something that is worth some research. Sadly I lack the time and resources for further investigations.  
+Player: researches  
+Malunga: These isles hold more secrets than those that meet the eye. I am convinced that once a great civilisation prospered here. Some sort of disaster wiped out almost completely any trace of it.  
+Player: rum  
+Malunga: It is a rather uncultivated beverage for the lower classes.  
+Player: secret / magic currents  
+Malunga: Magic is not available everywhere at the same strength and intensity. There are areas that are dry like a desert, magically spoken, others are rich of magic. At some places magic flows as strong as if there were springs of magic ...  
+Malunga: At those places the savants build magical centres of great importance. My researches have shown that the chaotic currents of magic must have been more structured once and much stronger than today ...  
+Malunga: With the right knowledge the civilisation of the past could have worked literally marvellous with those energies ...  
+Malunga: Even today some use the now chaotic currents of magic to further their evil ends ... but ... that's nothing I am supposed to talk about.  
+Player: spare / job  
+Malunga: I was sent here by the Edron academy for scientific researches. I am also responsible for the magical education of the citizens.  
+Player: spell  
+Malunga: Sorry, I only sell spells to sorcerers.  
+Player: Striker  
+Malunga: I heard he is one of the more notorious pirates.  
+Player: sugar  
+Malunga: As far as I understand sugar is quite important for this isle. It grows here in abundance but I had no chance yet to do some research about the causes of its immense growth.  
+Player: thais  
+Malunga: Well, Thais is not the city it used to be. Too many people, too noisy, too dirty.  
+Player: trade  
+Malunga: I'm always looking for certain magical ingredients to create my... potions.  
+Player: triangle of terror  
+Malunga: There seems to be some demonic cabal called Triangle of Terror. We don't know anything about its members except that there are three of them.  
+Player: venore  
+Malunga: Those haggling and scheming merchants sometimes give me more shivers than a demon. At least you know what to expect from a demon.  
+Player: voodoo  
+Malunga: The superstition of the natives pushes this kind of hedge magic. It is intolerable that they are fooling around with powers they don't understand.  
+Player: Wyrmslicer  
+Malunga: I don't care much about the military. Given those pirates and quara, they are a necessary evil.  
+Player: bye / farewell  
+Malunga: Good bye.  

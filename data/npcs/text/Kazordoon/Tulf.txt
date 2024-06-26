@@ -1,0 +1,29 @@
+NPC: Tulf  
+Player: hi / hiho / hello  
+Tulf: Hiho Player! <mumbles> What's up?  
+Player: bodyguard  
+Tulf: We keep up law and order here.  
+Player: dungeon  
+Tulf: I despise the habit to challenge the prisoners of Dwarcatra or to provoke the boys in the mines.  
+Player: dwarfs  
+Tulf: If you go to a dwarven city, do as the dwarfs do.  
+Player: help / poem  
+Tulf: Sorry, I'm on duty!  
+Player: horned fox  
+Tulf: It's a renegade minotaur who has a hidden lair somewhere near our mines.  
+Player: lair  
+Tulf: The lair of the Horned Fox is surely well-guarded and even better hidden.  
+Player: mines  
+Tulf: The mines aren't meant for foreigners. The miners there have enough trouble.  
+Player: monster  
+Tulf: I doubt anyone can make it through our lines of defence.  
+Player: name  
+Tulf: My name is Tulf Beardweaver, son of Earth from the Dragoneaters.  
+Player: time  
+Tulf: It's 6:24 pm right now.  
+Player: trouble  
+Tulf: The mines are raided again and again by the bandits of the Horned Fox.  
+Player: up / job / shop  
+Tulf: I'm the captain of the emperor's personal bodyguards.  
+Player: bye  
+Tulf: Yeah, bye Player.  

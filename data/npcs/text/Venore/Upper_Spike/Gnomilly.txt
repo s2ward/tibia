@@ -1,0 +1,30 @@
+Player: Hi  
+Gnomilly: Hi!  
+Player: Job  
+Gnomilly: I'm the officer responsible for this area. I give out missions, accept mission reports and oversee our defences.  
+Player: Area  
+Gnomilly: On these levels we found evidence of some monumental battle that has taken place here centuries ago. We also found some grave sites, but oddly enough no clues of any form of settlement. ...  
+Gnomilly: Some evidence we have found suggests that at least one of the battles here was fought for many, many years. People came here, lived here, fought here and died here. ...  
+Gnomilly: The battles continued until someone or something literally ploughed through the battlefields, turning everything upside down. All this killing and death soaked the area with negative energy. ...  
+Gnomilly: Necromantic forces are running wild all over the place and we are hard-pressed to drive all these undead, spirits and ghosts, away from the Spike. ...  
+Gnomilly: Unless we can secure that area somehow, the Spike operation is threatened to become crippled by the constant attacks of the undead. ...  
+Gnomilly: The whole growing downwards could come to a halt, leaving us exposed to even more attacks, counter attacks, and giving the enemy time to prepare their defences. There's a lot to do for aspiring adventurers.  
+Player: Mission  
+Gnomilly: Sorry, but no! Your expertise could be put to better use elsewhere. Here awaits you no challenge. You are desperately needed in the deeper levels of the Spike. Report there immediately.  
+Player: Reports  
+Gnomilly: What mission do you want to report about: recharging the ghost pacifiers, the release of the spiritual anger, about tracking an evil presence and the killing of demon skeletons?  
+Player: Gnomes  
+Gnomilly: We are the only protectors of the world against the enemies below. With small stature comes great responsibilities, as they say.  
+Player: Dwarf  
+Gnomilly: Dwarfs are our eldest allies, but to be honest we learned little of each other's ways. Dwarfs and gnomes were content to share just enough goods and knowledge to have some profits and else be left alone.  
+Player: Human  
+Gnomilly: I still wonder how we should feed all of you. You are so many and absurdly huge!  
+Player: Below  
+Gnomilly: They are an enigma. They are cunning and powerful, and this hints at a small stature. Then again they are ruthless and evil, which hints at a large stature.  
+Player: alpha
+Gnomilly: The good old gnomebase has served us quite well. Usually, we have bases only temporarily, and are constantly on the move; but some of the bases endure. ...
+Gnomilly: Gnomebase Alpha is one of them and we are quite proud of it.
+Player: Spike  
+Gnomilly: It's time for us gnomes to strike back at our enemies. The Spike will help us accomplish that.  
+Player: Bye  
+Gnomilly: Good bye Player and take care.  

@@ -1,0 +1,29 @@
+Player: hi
+Kito: Ugha.
+Player: name (keywords trigger 1/10 times)
+Kito: Kito.
+Player: job
+Kito: Hunt. Ungh ungh.
+Player: lazaran
+Kito: Ungh! Ungh!! Lazaran!
+Player: ulala
+Kito: Ulala me ka meraza
+Player: tatak
+Kito: Ki teka sora.
+Player: namasa
+Kito: Ooooh, Namasa! Ugha!
+Player: makao
+Kito: Hmmmm grrr... Makao ne lak tat.
+Player: (if your keyword triggers no response, 1/10 times)
+Kito: No, nono. No.
+Player: (any word, random)
+Kito: Bebe lisaka to me.
+Kito: Tesana ki?
+Kito: ... ungh....
+Kito: Loka da tete.
+Kito: Makito tete laza nerebe.
+Kito: Ungh?
+Kito: Pun sa med lo kiroki.
+Kito: Ai mene lano ta. Ugha.
+Player: bye
+Kito: Gud hunt.

@@ -1,0 +1,33 @@
+Player: (idle)
+Sister Of Jack: Mother?! Oh no, now I have to do this all over again.
+Sister Of Jack: Where did I put my broom? Mother?
+Sister Of Jack: Mhmhmhmhm.
+Sister Of Jack: Lalala...
+Player: hi  
+Sister Of Jack: Mh hello there. What can I do for you?  
+Player: job  
+Sister Of Jack: I help my mother to do the housework.  
+Player: name  
+Sister Of Jack: I'm Jack's sister, and you should really not be here.  
+Player: jack / brother  
+Sister Of Jack: Oh this time he is in for it! Mother will be so upset!  
+Player: mother  
+Sister Of Jack: Mother takes good care of us. We never had to worry about anything, with her doing all the... thinking for us.  
+Player: thais  
+Sister Of Jack: I wanted to go there once, but mother said I shouldn't.  
+Player: excalibug  
+Sister Of Jack: I don't really know what you are talking about.  
+Player: edron  
+Sister Of Jack: Edron is our home and it will always be.  
+Player: king / tibianus  
+Sister Of Jack: I wanted to visit the king once but mother said I shouldn't go.  
+Player: army  
+Sister Of Jack: Jack never wanted to have anything to do with the army.  
+Player: news / rumours  
+Sister Of Jack: I guess I don't have any news for you.  
+Player: time  
+Sister Of Jack: It should be 10:58 pm by now.  
+Player: tibia  
+Sister Of Jack: I don't go outside much.  
+Player: bye  
+Sister Of Jack: Goodbye then  

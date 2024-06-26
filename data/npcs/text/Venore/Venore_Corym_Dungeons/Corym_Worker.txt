@@ -1,0 +1,26 @@
+Player: hi
+Corym Worker: My hero! A friend of mine sent you to liberate me? A true friend! I am poor but nevertheless I give you this as a little reward.
+Player: hi
+Corym Worker: Every man is the architect of his own fortune. We just need the right weapons!
+Player: hi
+Corym Worker: Every man is the architect of his own fortune. I want to see the daylight again! Just smell fresh air.
+Player: hi
+Corym Worker: Every man is the architect of his own fortune. The times of repression are finally over.
+Player: repression
+Corym Worker: We need weapons to overcome our situation.
+Player: repression
+Corym Worker: We have to dig up valuable resources, but don't get enough to eat. The situation is terrible.
+Player: hi
+Corym Worker: Every man is the architect of his own fortune. After smashing our oppressors we just have to escape from this place, maybe there's one last big challenge.
+Player: big challenge
+Corym Worker: Some of my mates tried to flee from this place. It is said that they were surprised by an unknown monster. Very tragic if true, I can't ... continue to talk...
+Player: hi
+Corym Worker: The revolution is about to happen. Take arms!
+Player: rare earth
+Corym Worker: This material can only be found in the stomaches of stonerefiners. These creatures eat common stones and process them to rare earth. Even scientists don't know how this works exactly. Otherwise they would have reconstructed the process in their labs.
+Player: enormous
+Corym Worker: The deeper you are in a tunnel the hotter it is. That is known, but here the temperature rises much faster.
+Player: bye
+Corym Worker: Bye
+Player: (vanish)
+Corym Worker: No goodbye?

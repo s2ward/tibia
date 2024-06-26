@@ -1,0 +1,44 @@
+Player: hi / hello  
+Karl: Pshhhht! Not that loud ... but welcome.  
+Player: army / women  
+Karl: Their army is the tool of opression. Hunting down every alcohol smuggler they can get.  
+Player: beer  
+Karl: Psst. Let's trade.  
+Player: hard stuff  
+Karl: Todd took all the money we could gather to buy us the best stuff on the whole continent.  
+Player: headquarters  
+Karl: Well it's more a hidden tavern, so to say.  
+Player: hugo  
+Karl: I think Todd mentioned a Hugo once.  
+Player: job / saloon / welcome  
+Karl: I am the responsible for our ... uhm ... resistance.  
+Player: karl  
+Karl: Who told you that???  
+Player: king / thais  
+Karl: I'm sure if the king learns about our tragedy, he will support us with alcohol.  
+Player: laws / needs / opression / alcohol  
+Karl: Those crazy women forbid us alcohol in the city! Imagine that!  
+Player: name  
+Karl: I won't tell you my name.  
+Player: news / rumors  
+Karl: Some travelers from Edron told about a great treasure guarded by cruel demons in the dungeons there.  
+Player: queen / eloise  
+Karl: Well, shes not that bad ... but some of her laws are.  
+Player: resistance  
+Karl: We fight the opression of the males and male needs by the women. This is our secret headquarters.  
+Player: smuggler  
+Karl: We collected money and hired one of the best smuggler in the whole land. His name is Todd.  
+Player: special  
+Karl: Carlin is known for its evergreen plants which the local druids have grown.  
+Player: stuff / offer / ware / drink / goods / buy / sell / equipment  
+Karl: I can offer you beer for a trade. For wine and really hard stuff we have to wait for Todd.  
+Player: tavern  
+Karl: Our offers are limited but here a man can buy what a man needs.  
+Player: Tim  
+Karl: Ah, Tim was such a ladies' man in his youth. He has broken many hearts and the women fainted on account of his kisses. Today they faint on account of his breath.  
+Player: Todd  
+Karl: A true fighter for malehood. He will bring us all the hard stuff from Thais and even contact the king there to support us.  
+Player: trade  
+Karl: Here, but psssst!  
+Player: bye / farewell  
+Karl: Please come back, but don't tell others.  

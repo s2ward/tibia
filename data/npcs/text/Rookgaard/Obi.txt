@@ -1,0 +1,68 @@
+Player: (idle)
+Obi: Selling and buying all sorts of weapons, come and have a look!
+Obi: Give those monsters a good whipping with my weapons!
+Obi: Only quality steel and wood used for my weapons!
+Player: Hi  
+Obi: Hello, hello, Player! Please come in, look, and buy! If you like to see my offers, ask me for a trade!  
+Player: Time  
+Obi: It's about "hora" am/pm. Yes"hora" am/pm. I'm so sorry, I have no watches for sale.  
+Player: Rookgaard  
+Obi: Ah, Rookgaard. Home sweet home, that's what it became for me, but I will always miss Thais and Sam.  
+Player: Thais  
+Obi: Oh, Thais, I'll be back. One day, I'll be back.  
+Player: Sam  
+Obi: My good old cousin Sam. Oh, how I miss him.  
+Player: Dixi  
+Obi: Oh, what an endearing little girl, and she's working so hard to help me, even without receiving payment. Such a sweet little girl!  
+Player: Loui  
+Obi: I told him there was no danger, but he wouldn't listen to me, no one listens to me.  
+Player: Willie  
+Obi: This guy doesn't understand that he should entrust me with the food business, too. He really should do. Then he had time for his farm.  
+Player: Billy  
+Obi: He's just like his cousin Willie.  
+Player: Zirella  
+Obi: An old woman shouldn't be treated like that, no way, that's bad.  
+Player: Tom  
+Obi: Well, he just buys what no one else wants. Stuff that's long dead. I can live with that, yes, I can live with that.  
+Player: Lee'Delle  
+Obi: She ruins the market with her offers! This is bad for us honest merchants, really bad.  
+Player: Al Dee  
+Obi: Oh, this guy is so greedy, so greedy. Ripping off poor adventurers like you!  
+Player: Santiago  
+Obi: I suggested him opening a tourist guide company with me, Obi's and Santiago's, but he didn't approve. I really don't understand why.  
+Player: Amber  
+Obi: She is beautiful, very, very beautiful. I hope I can impress her somehow.  
+Player: Hyacinth  
+Obi: I don't like him, actually I dislike him deeply. He is so greedy that he doesn't want to share his profit he gains from health potions.  
+Player: Lily  
+Obi: I knew it! I knew she would try to get the monopoly on potions in this village! But no one has listened to me!  
+Player: Dallheim  
+Obi: What a hero, what a hero.  
+Player: Norma  
+Obi: I don't know how anyone could give up the flourishing business she led. She should have listened to me and find someone who continues that business for her.  
+Player: Seymour  
+Obi: He is the head of the local academy. I encouraged him to sponsor you, but no one listens to Obi, no one listens to me, as usual.  
+Player: Weapon  
+Obi: Yes, I'm selling weapons. Just ask me for a trade to see my offers and the things I buy from you.  
+Player: Potions  
+Obi: I wish I could help you with that, but no, I was told to stick to weapons. Go see Lily.  
+Player: Mainland  
+Obi: Well, the mainland also consists of several continents. You can go there once you are level 8 and have talked to the oracle.  
+Player: Oracle  
+Obi: The oracle, ah, such a weird being! It will lead you off this island once you are level 8, yes it will, mark my words.  
+Player: Academy  
+Obi: I think good practice is better than reading a boring book. Of course, you will need proper equipment to be able to get practice!  
+Player: Equipment  
+Obi: As an adventurer you should always have at least a backpack, a rope, a shovel, a weapon, an armor and a shield.  
+Player: Monster  
+Obi: Good monsters to start with are rats. They live in the sewers under the village of Rookgaard.  
+Player: Sewers  
+Obi: There are many sewer entrances throughout Rookgaard. One is right outside this shop and to the left. For more details about monsters and dungeons, best talk to one of the guards.  
+Player: King  
+Obi: The king encouraged salesmen to travel here, but only I dared to take the risk, and a risk it was!  
+Player: Guards  
+Obi: The bridge guard Dallheim is north of here, just follow the street, you can't miss it.  
+Player: Tibia  
+Obi: It's really heart-warming to see how the Tibia economy is prospering.  
+Player: Thank You  
+Obi: Oh, you're welcome, very welcome.  

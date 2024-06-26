@@ -1,0 +1,48 @@
+Player: Hi  
+Rabaz: Ah, a customer! Please feel free to browse my wares, Player.  
+Player: Wares/Offer/Buy/Sell/Stuff/Wares/Equipment/Goods  
+Rabaz: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.  
+Player: Wand  
+Rabaz: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: Rod  
+Rabaz: Rods can be wielded by druids only and have a certain level requirement. There are eight different rods, would you like to hear about them?  
+Player: Farmine  
+Rabaz: I really hope those dwarfs know what they are doing. I feel not too comfortable with a few tons of stone over my head. ...  
+Rabaz: If the dwarfs are not cautious, the whole mountain might come down on us.  
+Player: Ongulf  
+Rabaz: He is quite loud for such a short person. Sometimes you might be scared if he's talking to you at that volume, but I guess in the course of time, you'll get accustomed to that.  
+Player: Ecalibug  
+Rabaz: Adventurers constantly come up with some stories and half-truths about this weapon. For instance, some claim the weapon has been found and was taken away by the gods. ...  
+Rabaz: This, however, is based on a completely unrelated story of Tibia's history. After all these years it's quite hard to figure out what is fact and what is myth.  
+Player: Trade  
+Rabaz: Have a look. But perhaps you just want to see my potions, wands or runes?  
+Player: Job  
+Rabaz: I was sent by the Edron academy to help the kingdom's dwarven allies with magical supplies. You have no idea what an enormous logistic problem this poses. ...  
+Rabaz: Actually, I had no idea either. Supplies are short and dwarfs are stubborn. This combination works not too well, you know? The dwarfs are not too supportive towards my efforts and my main customers are adventurers like you. ...  
+Rabaz: I'm not sure if this is what the academy leaders had in mind with their help, so I wouldn't be too surprised if they would pull off the support and abandon this shop. ...  
+Rabaz: Only time will tell how things develop. For now, they are content with this status quo.  
+Player: Acadamy  
+Rabaz: The academy has quite a reputation in the fields of knowledge and research.  
+Player: Mines  
+Rabaz: <sighs> Those dwarfs are so obsessed with mines. You could spend some weeks just learning their different words for mines and the difference in their meaning. ...  
+Rabaz: To me 'mine' only translates to 'dark and damp cave'.  
+Player: Mining guild  
+Rabaz: You have no idea how stubborn the officials of this guild are. If I should ever again think of my superiors back in Edron as stubborn and inflexible, someone should slap me in the face.  
+Player: Caves  
+Rabaz: Well, you can carve a room into some cave and even decorate it. To me it's still a cave. ...  
+Rabaz: The thought of having tons of stone and rock above me, just waiting to come crushing down on me, is not very encouraging.  
+Player: Deposit  
+Rabaz: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: No  
+Rabaz: Hmm, but please keep Tibia litter free.  
+Player: Fluid  
+Rabaz: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: Kazordoon  
+Rabaz: A town only dwarfs can love. No daylight at all. The smell of earth and fire everywhere. Well, actually it's like here but a bit cleaner <sighs>.  
+Player: Mission  
+Rabaz: Thank you once again for helping me with my almanach.  
+Player: Almanach  
+Rabaz: The book I am currently writing delves into the world of plants. It will cover every plant found in Tibia, including an appendix with newly discovered species in Zao such as the strange corrupted and deformed growths found within its borders. ...  
+Rabaz: While visibly corrupted, these plants have their own very special beauty every botanist or lover of nature will surely comprehend.  
+Player: Bye  
+Rabaz: Good bye.  

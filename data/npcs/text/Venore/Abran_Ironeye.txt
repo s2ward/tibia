@@ -1,0 +1,49 @@
+Player: hi
+Abran Ironeye: Hail, Simula! Why do you disturb me?
+Player: name
+Abran Ironeye: I am Abran Ironeye.
+Player: job
+Abran Ironeye: I am a busy man. I run the Ironhouse.
+Player: time
+Abran Ironeye: You should know that on your own!
+Player: Ironeye
+Abran Ironeye: I don't care if you like it or not. Stop staring at it!
+Player: disturb
+Abran Ironeye: I am a busy man. I run the Ironhouse.
+Player: Ironhouse
+Abran Ironeye: What do you think? Here weapons and armor are forged, repaired, and sold.
+Player: forged
+Abran Ironeye: My Ironhouse is more than a warehouse.
+Player: news
+Abran Ironeye: In Venore nothing comes for free and you could not afford my 'news'.
+Player: tax
+Abran Ironeye: The taxing keeps the Thaian kingdom alive, but it also might break its neck one day.
+Player: tax
+Abran Ironeye: The taxing keeps the Thaian kingdom alive, but it also might break its neck one day.
+Player: privilege
+Abran Ironeye: Venore's privileges are hard earned.
+Player: gambling
+Abran Ironeye: I trust only in skill, not luck.
+Player: army
+Abran Ironeye: Such a great tool wasted for garrison duties, a shame.
+Player: king
+Abran Ironeye: I would like to see a true warrior-king in Thais... like in the old days. But who knows, perhaps one day the tides of fate will bring such a man to power. Who knows...
+Player: thais
+Abran Ironeye: Thais has outlived its usefulness since years. Its star is sinking.
+Player: carlin
+Abran Ironeye: Their independence is a proof for the weakness of Thais.
+Player: tibia
+Abran Ironeye: The world is ready for a significant change.
+Player: excalibug
+Abran Ironeye: If someone would bring me that weapon I could reshape the realm... and reward this hero beyond his dreams.
+Player: banor
+Abran Ironeye: As a man that grows up needs no mommy, a warrior has to outgrow his need for gods.
+Player: ferumbras
+Abran Ironeye: Quite a challenge, but his bets for power were made without the finesse of a true warrior.
+Player: finesse
+Abran Ironeye: I won't give away my tricks, learn your own.
+Player: teddy
+Abran Ironeye: I don't know anything about a teddy... and if you are smart you shouldn't either...
+Player: bye
+Abran Ironeye: You are dismissed.
+Abran Ironeye: HEY! I DID NOT DISMISS YOU!

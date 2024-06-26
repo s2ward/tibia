@@ -1,0 +1,17 @@
+Player: hi
+Augustin: Welcome, Hero of Bounac! Feel free to trade to your heart's content! I also buy several ethereal and gnomish items.
+Player: name
+Augustin: My name is Augustin. Welcome, hero!
+Player: job
+Augustin: I trade in all kinds of things at Kesar's personal behest.
+Player: trade
+Augustin: Immediately.
+Player: ethereal
+Augustin: Looks like you're not quite there yet, sorry.
+Player: gnomish
+Augustin: Sure!
+Player: kesar the younger / king
+Augustin: I would trust Kesar with my life. He made some hard decisions in the past but he is the most trustworthy person I know.
+Player: bye
+Augustin: Farewell then, hero!
+Augustin: Goodbye!

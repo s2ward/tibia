@@ -1,0 +1,90 @@
+Player: hi
+Jack Springer: Welcome, Player! There is much we have to discuss.
+Player: name
+Jack Springer: My name is Jack Springer.
+Player: job
+Jack Springer: I am an Inquisitor.
+Player: time
+Jack Springer: It is exactly 1:35 pm.
+Player: trade
+Jack Springer: Of course, my friend.
+Player: discuss
+Jack Springer: I have a mission of great urgency, that will need all of your skills.
+Player: mission
+Jack Springer: I need your help in a matter of utmost urgency.
+Player: urgency
+Jack Springer: The situation is complicated and it's even hard to say where to start best, just to describe it to you.
+Player: start
+Jack Springer: You see, several incidents in history can be traced back to a single source.
+Player: source
+Jack Springer: Things get murkier the further you go down in history, but that's not even necessary. Even today we can discern a certain pattern in recent events.
+Player: events
+Jack Springer: Well, in Rathleton there was an individual at work, looking for some ancient artefact of power. ...
+Jack Springer: To cover its escape the creature left another creature, known as the ravager to cover his tracks. But there is more.
+Player: more
+Jack Springer: Only recently someone was trying to manipulate the elven dream courts into releasing a monstrosity of nightmares, probably planning to control or recruit this creature. ...
+Jack Springer: But those incidents were just some of many.
+Player: many
+Jack Springer: The recent rise of lycanthropy, the robbery of certain forbidden arcane texts and the vanishing of at least three dangerous individuals, targeted by the inquisition are just the tip of the iceberg.
+Player: iceberg
+Jack Springer: There is a scheming going on behind the scenes. Powerful good people were corrupted. Evil-doers got backup and resources from a hidden ally. ...
+Jack Springer: Powerful malignant creatures, gathering their kind under their banner and so much more. These things are not happening by chance. There is a pattern, a guiding hand.
+Player: hand
+Jack Springer: This outside force is moving behind the scenes since ages. Our research suggests that this force probably even predates the rise of humanity.
+Player: predates
+Jack Springer: Well, we are sure that the puppeteer behind all these events is an organisation. So old that even its name, the Shiron'Fal, has lost its meaning, because the language it originates from is long dead.
+Player: language
+Jack Springer: It has a rather complex meaning and as far as we can tell it translates to 'army of those who are many, dedicated to the ultimate time of mayhem and despair'. ...
+Jack Springer: Other, more handy names are army of the last battlefield, army of the last days, legion of mayhem, dread legion or simply the legion.
+Player: legion
+Jack Springer: We know little for sure. You can look into our books to see some of our sources. But most are vague and some even contradictory. ...
+Jack Springer: To summarise what we know, let me tell you this: The Shiron'Fal is an extremely old organisation. It seeks to accumulate power for some unknown but certainly sinister goal.
+Player: goal
+Jack Springer: For this purpose, the members gather knowledge, artefacts and powerful individuals. The members are formidable at certain fields of expertise. They are cunning and powerful and act with no regard for others, with no remorse or mercy. ...
+Jack Springer: As they are doing this since ages, they must have acquired tremendous powers and knowledge. Their members often operate alone but are usually well funded with the necessary resources. ...
+Jack Springer: Whatever their endgame might be, each of their operations pose a grave danger to the whole world and have to be stopped.
+Player: stopped
+Jack Springer: Here is where you come into play. We could identify the most recent plot of the Shiron'Fal and already had some clashes.
+Player: clashes
+Jack Springer: In our efforts to hinder their plot, we achieved mixed results at best. But now things are escalating fast and we have to hurry.
+Player: hurry
+Jack Springer: Our resources are already stretched thin, so we need your help with the most recent problem.
+Player: problem
+Jack Springer: The legion tries to use a new form of twisted rituals to raise the bodies of well-known knights.
+Player: knights
+Jack Springer: The knights they aim at were tainted in life by their actions or happenstance. ...
+Jack Springer: This leaves their bodies vulnerable to their special breed of necromancy that would raise them as powerful lich-knights.
+Player: lich
+Jack Springer: These powerful undead were a terrible threat on their own but it seems even they are just part of some larger scheme that we cannot make out yet.
+Player: scheme
+Jack Springer: We are still working feverishly to uncover their goals but for now more imminent threats are at hand.
+Player: threats
+Jack Springer: Death cultists of the Shiron'Fal are trying to locate the bodies of fallen knights and raise them in blasphemous rituals.
+Player: rituals
+Jack Springer: The churches of the gods worked hand in hand to supply us with the means to purge the graves of those knights.
+Player: purge
+Jack Springer: Reaching the graves will not be without danger and if you encounter the death cultists you will have to fight them. Even worse, they might have even succeeded in some cases. ...
+Jack Springer: As a newly risen lich-knight is not able to leave the site of its resurrection for some time, you might have to fight some of them. ...
+Jack Springer: Let us pray that you never come too late or else some of the fiends might be able to leave their crypts.
+Player: late
+Jack Springer: While you travel and fight the threat where it arises, we will put all our resources into researching the ultimate plans of the legion. Perhaps I can tell you more when you report back. ...
+Jack Springer: Don't forget that you'll need very potent holy water for your task. If you need some, just ask me for a trade.
+Player: report
+Jack Springer: Sadly, I have no news yet. But I can give you information about the locations of the graves that we learned about. If you need more holy water just ask me for a trade.
+Player: locations
+Jack Springer: We have located twelve graves that have to be secured: In the old northern Edron graveyard, in the dark cathedral of the plains of havoc, in the ghostlands, on Cormaya, Somewhere in the Femor Hills, on Vengoth, ...
+Jack Springer: in the graveyard of Darashia, in the old temple north of Thais, at the entrance to the orcland, one is on the southern ice islands, in a mountain on Kilmaresh, one on an island north-east of Ankrahmun.
+Player: report
+Jack Springer: By now the cultists of the Shiron'Fal seem to have abandoned their search. But this is sadly no good news. It seems they gathered enough lich-knights to proceed with their ultimate plan.
+Player: ultimate
+Jack Springer: It became obvious that their goal is to raise an ancient and fallen king, to lead their lich-knights and raise even more of them. ...
+Jack Springer: With each lich-knight being able to raise and control lesser undead, this would lead to a chain-reaction. If they succeed, we might face an undead threat not seen since the corpse wars.
+Player: threat
+Jack Springer: You have to travel to the isle of the kings. There, hidden beneath the isle of the kings is the shamefully hidden grave of king Zelos. It is him, they are trying to raise. ...
+Jack Springer: With some luck you will arrive before the ritual's completion. But be warned. At least four risen lich-knights will be present, to raise 'their king'. ...
+Jack Springer: Hopefully the ritual will bind some of their powers but they will still be formidable foes. You will have to act quick because with each moment you take to defeat the knights ...
+Jack Springer: The ritual will progress and the king will become stronger up to a point where you might be unable to defeat him. Due to the efforts and sacrifices of the death cultists, the king will be active at some capacity and you will have to confront him. ...
+Jack Springer: Remember, the further the ritual progresses when you face him, he will become considerably more powerful. So time is of the essence. ...
+Jack Springer: All I can do right now is to wish you good luck and may the gods bless you.
+Player: bye
+Jack Springer: Good bye

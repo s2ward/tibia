@@ -1,0 +1,28 @@
+Player: hi / hello  
+Evan: Hello there. What are you doing in the distillery?  
+Player: name  
+Evan: I am known as Evan.  
+Player: distillery  
+Evan: This distillery is the heart of Tibia's rum production. As we speak, Liberty Bay's rum is starting to become famous all over Tibia.  
+Player: job  
+Evan: I am the supervisor of this distillery.  
+Player: rum  
+Evan: I don't have time to explain to you how to make rum. Just read the blackboard.  
+Player: harvest  
+Evan: I don't bother with harvesting. If you want to know about it, ask the workers.  
+Player: Sugar cane  
+Evan: Sugar cane is our most precious good.  
+Player: offer / buy / goods / sell / equipment / stuff / ware  
+Evan: I am actually not a merchant, I am a supervisor. I don't know if I have something of interest to offer.  
+Player: trade  
+Evan: A fire bug? Those are needed for sugar cane harvesting. Help yourself.  
+Player: fire bug  
+Evan: A fire bug? Those are needed for sugar cane harvesting. I guess I could sell one to you for 100 gold - are you interested?  
+Player: yes  
+Evan: Thank you. Here you go.  
+Player: fire bug  
+Evan: A fire bug? Those are needed for sugar cane harvesting. I guess I could sell one to you for 100 gold - are you interested?  
+Player: no  
+Evan: Well, it's better to keep your fingers off them anyway.  
+Player: bye / farewell  
+Evan: Good bye.  

@@ -1,0 +1,29 @@
+Player: hi
+Namasa: Kara me, um?
+Player: name (keyword triggers 1/10 of times)
+Namasa: Kito.
+Player: job
+Namasa: Ata naha? Djop?
+Player: lazaran
+Namasa: Lazaran maka te ola!
+Player: ulala
+Namasa: Eh, Ulala sola si.
+Player: tatak
+Namasa: Ma lu anta.
+Player: kito 
+Namasa: Eh, Kito... husu...
+Player: makao
+Namasa: Si kema te.
+Player: (if your keyword trigger no response 1/10)
+Namasa: No, nono. No.
+Player: (any word, random)
+Namasa: Bebe lisaka to me.
+Namasa: Tesana ki?
+Namasa: Loka da tete.
+Namasa: Makito tete laza nerebe.
+Namasa: Ungh?
+Namasa: Pun sa med lo kiroki.
+Namasa: Ai, ehehe!
+Namasa: Ai mene lano ta. Ugha.
+Player: bye
+Namasa: Eh, bai! Ehehe! Ugha!

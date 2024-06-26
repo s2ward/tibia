@@ -1,0 +1,96 @@
+Player: hi / hello  
+Herbert: At last! The audience arrives!  
+Player: audience / job  
+Herbert: In these dark days of misery I must waste my talent by working as a humble postman. And yet, how lucky am I whose blessing by the muse has proved so rich and so profuse! ...  
+Herbert: For you should know, my friend, that I am poet at heart and that acting is my art. As true as day follows night I will rise into the light of fame and glory.  
+Player: buy / offer / stuff / goods / sell / equipment / ware  
+Herbert: I sell parcels and letters. Ask me for a trade if you're interested. I can also explain how the mail system works.  
+Player: Bertram  
+Herbert: Oh for a guy he's overly romantic. He has a crush on women in uniforms.  
+Player: Carlin  
+Herbert: Carlin! Oh Carlin, my love! Noble jewel of the north, it is you that I crave, for only among your people can I stop being a slave! ...  
+Herbert: One day I will come to you, fair Carlin. Bid this humble traveller welcome, lift this humble star into the the sky of greatness!  
+Player: Chantalle  
+Herbert: Ah, she is overly romantic. She does love guys in uniforms, but I'm not important enough for her, hmpf ...  
+Herbert: Also, she's quite busy and doesn't show up here very often. I still have a letter here for her that she never picked up.  
+Player: Charlotta  
+Herbert: Fie, that scary hag! She has been living in the shantytown forever like some tenacious weed.  
+Player: Chondur  
+Herbert: Of this name there is none in my book. If you don't believe me take a look!  
+Player: cult  
+Herbert: A cult? Oh dear. You would not think to which extremes my admirers would go in their worship.  
+Player: Eleonore  
+Herbert: Eleonore, sweet Eleonore, how your heart races when we're close. I pity you for your futile struggle with your passion, for who could hope to win a war like this? And yet, dear Eleonore, your fight is futile, for my heart is betrothed forever to my art.  
+Player: excalibug  
+Herbert: Why should you seek mere metal when the pen is mightier than the blade, and so is love? Fool! Be a lover, be a poet if you must, but never raise a blade unless your cause is just.  
+Player: explorer society  
+Herbert: I suppose there are those who like to spend their time digging through dirt and through lime. Boring stuff, if you want my opinion.  
+Player: ferumbras  
+Herbert: Is he real? Or is he a mere story, a tale told by weary parents by the fireside to put fear into their unruly children's hearts? ...  
+Herbert: But no! No! He is real, I tell you, he is real, for I can feel the icy clasp of his will of steel even while I am standing here. Who will be there to stop him if he stirs again, I ask of you?  
+Player: governor  
+Herbert: If ignorance were a virtue he'd deserve his station in life, for he is a dimwit and so is his wife.  
+Player: Isolde  
+Herbert: Fair like a sunrise in spring she is, yet graceful like a piece of dust floating in silky moonlight. And yet, poor Tristan, who knows? Thorns of poison may grow on this rose.  
+Player: king  
+Herbert: If only his majesty's eyes would rest me on the stage, if only he saw me once! How could he not see the greatness of my art if he saw me act my part?  
+Player: Liberty Bay  
+Herbert: This dreary place, though paradise to some, is hell and exile to me! My talent is shipwrecked on these sunny shores, my art a prisoner of the oafish horde. ...  
+Herbert: Oh Carlin! Carlin! Queen of the arts and sister of the muse! Only in your kind bosom would I be safe from ignorance and from abuse!  
+Player: loveless / theodore  
+Herbert: Oh the miser! Loveless is he called, and has there ever been a name more fitting to a mortal man? For he loves his money and else he loves none, and he himself is hated by everyone.  
+Player: pirate  
+Herbert: Har, Har! Shiver me timbers, ya filthy landlubberrr! Weigh anchorrr! Man the cannons! Err ... I'm still working on that part, you know.  
+Player: plantation  
+Herbert: Oh, the plantations, where so few earn so much and so many so little! Are they not a fitting mirror of this cruel world.  
+Player: quara  
+Herbert: Ah, the scourge of the Southern Seas! Surely these accursed creatures have been created by a vengeful god who looked with hate and envy on our noble race!  
+Player: Raymond Striker  
+Herbert: I must admit he is something of a character, but his pirate impression lacks style.  
+Player: rum  
+Herbert: Curious is this liquor, whom many have called divine, for it turns some into angels and others into swine.  
+Player: sugar  
+Herbert: Delicious morsel, so sweet and so tempting to the tongue! So sweet is your taste, and yet so bitter the lot of those who toil on the plantations.  
+Player: thais  
+Herbert: I mourn you, Thais, for you are no longer the shiny diamond that inspired a sense of purpose and pride in us all. ...  
+Herbert: Rather than building a temple for the muses your people chose to build an arena, where blood is shed and animals are slaughtered for sport. Oh Thais, how deep have you fallen!  
+Player: trade  
+Herbert: Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
+Player: Tristan  
+Herbert: Tristan, oh Tristan, you are lost! Fair Isolde took your heart, but did she give you hers? Ah, what cruel arithmetics is love unfulfilled, when it leaves some with all and others with nothing!  
+Player: Wyrmslicer  
+Herbert: Ah! The brave admiral has the makings of a true hero! I am planning on making him the hero of a history play, you know? Oh, he has to die first, of course.  
+Player: venore  
+Herbert: How could I hate you, Venore, the place where I grew up and so did my father before. But I shall ne'er go back to you, for your people are smug and their minds are small. ...  
+Herbert: One day they will weep for their prodigal son, but then I won't mind for I will be gone.  
+Player: voodoo  
+Herbert: Wicked, wicked witchery! The very mention of this evil art strikes terror into those who are faint of heart.  
+Player: bye / farewell  
+Herbert: Thank you! Thank you! Sorry, no autographs today!  
+Dialogues about the postal service:  
+Player: address  
+Herbert: The first line of the address on a label or letter is the name of the receiver. Make sure to enter the name correctly for the parcel to reach the desired destination.  
+Player: box  
+Herbert: Drag and drop a letter or a parcel on the blue mailbox to send it. However, you need to include the name of the receiver. If the sending fails, you most likely made a mistake.  
+Player: depot  
+Herbert: Each major city has at least one depot. Just step in front of one of the lockers and you can store items inside. Your mail will also arrive there. It doesn't matter which depot you stored it in - you can retrieve all your items from any depot in any city!  
+Player: info / help / post / mail  
+Herbert: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
+Player: receiver  
+Herbert: Well, the receiver - or addressee - is the person you want to send mail to. Always make sure to enter his or her name correctly.  
+Player: send  
+Herbert: Drag and drop a letter or a parcel on the blue mailbox to send it. However, you need to include the name of the receiver. If the sending fails, you most likely made a mistake.  
+Player: label  
+Herbert: If you want to buy a label, ask me for a trade. Or do you want me to explain how labels work?  
+Player: explain  
+Herbert: Including a label in your parcel is important. Imagine you want to send it to 'Ben' in Thais. Use the label - so that a form opens - and write 'Ben' in the first line. Check the spelling and put it in your parcel! ...  
+Herbert: Then drag your parcel on one of the blue mailboxes here to send it.  
+Player: letter  
+Herbert: If you want to buy a letter, ask me for a trade. Or do you want me to explain how letters work?  
+Player: explain  
+Herbert: With a letter you can send a message to another Tibian's depot. If you want to send it to 'Ben' in Thais, use the letter - so that a form opens - and write 'Ben' in the first line. Write your message below that. ...  
+Herbert: Then drag your letter on one of the blue mailboxes here to send it.  
+Player: parcel  
+Herbert: If you want to buy a parcel, ask me for a trade. Or do you want me to explain how parcels work?  
+Player: explain  
+Herbert: In a parcel you can send items to another Tibian's depot. Put your items into the parcel and also place a completed label with the name of the receiver inside. Then drag your parcel on one of the blue mailboxes here to send it.  

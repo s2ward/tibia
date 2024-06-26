@@ -1,0 +1,37 @@
+Player: Hi  
+Murim: Hello and welcome to the Farmine bank and post office, Player!  
+Player: Bored  
+Murim: Okay okay, no need to be rude! It seems you are already know everything.  
+Player: Caves  
+Murim: If people were more interested in the mines instead the lodging caves, we'd make far more progress!  
+Player: Mines  
+Murim: Ah well, they probably could get more ore from the mines if they spent less resources on comfort and lodging. ...  
+Murim: A true dwarf needs no comfort at all! A few of the younger dwarfs seem to forget that we are here for profit and not for holidays.  
+Player: Dwarf  
+Murim: Ah, my proud brothers and sisters. Only dwarfs could succeed with such an immense tunnelling project.  
+Player: Progress  
+Murim: Things could go smoother and faster. Speaking of this: Shouldn't you be out there completing some missions? Time is money!  
+Player: Elves  
+Murim: Luckily we're far away from them.  
+Player: Excalibug  
+Murim: A weapon of pure power - or a weapon of pure imagination. Who knows?  
+Player: Esrik  
+Murim: If he only stopped bugging Ongulf about resources. We've already spent too much money on things that yield no immediate profit. ...  
+Murim: But in the end, only profit will convince the imperial mining guild to continue their support.  
+Player: Mining guild  
+Murim: It took my three weeks with almost no sleep to do all the paperwork for my business permission, but it was worth it! ...  
+Murim: The guild is sticking to the old traditions and that is a good thing for sure.  
+Player: Ongulf  
+Murim: Now he is one-of-a-kind and a born leader.  
+Player: Farmine  
+Murim: A promising project for Kazordoon.  
+Player: Kazordoon  
+Murim: I hope this new project lets Kazordoon prosper. Half of my family is involved in Farmine one way or another. If things turn out well, we will earn a hefty sum of money.  
+Player: Job  
+Murim: I work for the Tibian bank.  
+Player: Tibia  
+Murim: What would Tibia be without dwarfs? Elves, on the other hand, are quite expendable.  
+Player: Mission  
+Murim: My only mission is to keep this little office running.  
+Player: Bye  
+Murim: Bye.  

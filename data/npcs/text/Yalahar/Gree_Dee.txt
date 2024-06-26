@@ -1,0 +1,41 @@
+Player: hi  
+Gree Dee: Be greeted esteemed customer with a full purse!  
+Player: job / customer  
+Gree Dee: I sell general equipment. Just ask me for a trade.  
+Player: trade  
+Gree Dee: You will not believe how cheap my items are.  
+Player: al dee  
+Gree Dee: My foolish brother thinks he'll get rich by selling equipment to some inexperienced paupers, but I know better!  
+Player: buy / offer  
+Gree Dee: Just ask me for a trade.  
+Player: stuff / wares  
+Gree Dee: It's almost as if I were handing them out for free. Just ask me for a trade.  
+Player: yalahar  
+Gree Dee: The city is a virtual gold mine. People from all over the world come here to explore and to get rich ...  
+Gree Dee: So they have much money to spend on supplies!  
+Player: yalahari  
+Gree Dee: They aren't worse than other nobles or officials. To be precise, they are so uninterested in our affairs that I prefer them to other city officials.  
+Player: vampire  
+Gree Dee: Uhm, unfortunately I just ran out of garlic necklaces. But I heard they help.  
+Player: cookie  
+Gree Dee: I'm not interested in trading my wares for cookies.  
+Player: alchemist quarter  
+Gree Dee: If they ever rebuild that city, I really hope to participate in this venture in some way.  
+Player: sunken quarter  
+Gree Dee: If you find some treasures down there, I might be interested in doing business with you.  
+Player: foreign quarter  
+Gree Dee: I tried to convince them of the quality of human wares, but without success.  
+Player: factory quarter  
+Gree Dee: I think the Yalahari should leave the factories inactive. They'd only ruin honest people's profit.  
+Player: trade quarter  
+Gree Dee: Mr. West is a honest man, that's for sure. You'll never hear me saying something bad about Mr. West.  
+Player: magician quarter  
+Gree Dee: The surviving magicians there seem to rely on resources they get by themselves. What a shame!  
+Player: arena quarter  
+Gree Dee: I wonder where these gladiators get their supplies from? I wouldn't mind to sell them some decent equipment.  
+Player: blood crystal  
+Gree Dee: If I had one, I could charge a fortune for it... <gets a dreamy look>  
+Player: shop  
+Gree Dee: My shop will be famous soon enough. With all the dangers that are around this city, adventurers have to resupply constantly!  
+Player: bye  
+Gree Dee: You really should have bought some extra stuff, just in case.  

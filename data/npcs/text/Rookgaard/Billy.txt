@@ -1,0 +1,57 @@
+Player: (idle)
+Billy: Buying many types of food and ingredients, too!
+Billy: Hmm, hmm, now which ingredients do I need...
+Billy: Add one fresh dead rat and stir it well... 
+Billy: Bread, cheese, ham and meat! All fresh!
+Billy: Need food? I have plenty for sale!
+Billy: Argh, if I only had a pan!
+Billy: Buying fresh dead rats!
+Player: Hi  
+Billy: Howdy Player.  
+Player: God  
+Billy: I am the god of cooking, indeed!  
+Player: Help  
+Billy: Can't help you, sorry. I'm a cook, not a priest.  
+Player: Job  
+Billy: I am farmer and a cook.  
+Player: Time  
+Billy: I came here to have some peace and leisure so leave me alone with 'time'.  
+Player: King  
+Billy: The king and his tax collectors are far away. You'll meet them soon enough.  
+Player: Magic / Spell  
+Billy: I can spell but know no spell.  
+Player: Sell  
+Billy: I sell various kinds of food.  
+Player: Buy  
+Billy: I buy food of most kind. Since I am a great cook I need much of it.  
+Player: Food  
+Billy: Are you looking for food? I have bread, cheese, ham, and meat.  
+Player: Weapon  
+Billy: Ask one of the shopkeepers. They make a fortune here with all those wannabe heroes.  
+Player: Dungeon  
+Billy: You'll find a lot of dungeons if you look around.  
+Player: Rat  
+Billy: So you bring me a fresh rat for my famous stew?  
+Player: No  
+Billy: Then not.  
+Player: Pan  
+Billy: Have you found a pan for me?  
+Player: No  
+Billy: $&*@!  
+Player: Monsters  
+Billy: Don't be afraid, in the town you should be save.  
+Player: Amber  
+Billy: Shes pretty indeed! I wonder if she likes bearded men.  
+Player: Cipfried  
+Billy: He never leaves this temple and only has time to care about those new arivals.  
+Player: Dallheim  
+Billy: One of the kings best men, here to protect us.  
+Player: Obi  
+Billy: I like him, we usualy have a drink or two once a week and share storys about Willie.  
+Player: Seymour  
+Billy: I don't like his headmaster behaviour. Then again, he IS a headmaster after all.  
+Player: Willie  
+Billy: Don't listen to that old wannabe, I'm the best cook around.  
+Player: Cook  
+Billy: I am the best cook around. You can sell me most types of food.  
+Player: Bye  

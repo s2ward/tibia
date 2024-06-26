@@ -1,0 +1,34 @@
+Player: hi  
+Leeland: Greetings, Player! Please don't interrupt me for too long!  
+Player: interrupt / job  
+Leeland: I'm the owner of the Useful Things Warehouse.  
+Player: Warehouse  
+Leeland: I offer many things. Actually I'm sure you'll find something here you have desired for a long time.  
+Player: time  
+Leeland: So it is a watch you need? Make sure to buy one downstairs.  
+Player: name  
+Leeland: My name is Slim, Leeland Slim.  
+Player: tibia  
+Leeland: I have seen most of it. And I like it. <chuckles>  
+Player: thais  
+Leeland: Perhaps one day I'll settle in Thais again. I love the city's potential.  
+Player: tax  
+Leeland: Taxes are a necessary evil, people say. I like that.  
+Player: army  
+Leeland: Your question suggests you are interested in military? I'm sure you'll find something interesting in my warehouse.  
+Player: news  
+Leeland: I would love to have the time to chat and exchange gossip, but sadly business always comes first, you know?  
+Player: carlin  
+Leeland: I was there some time ago. I exchanged ideas with some important people there and even could sell them something that furthered their cause.  
+Player: king  
+Leeland: Do I hear envy in your voice? Is this really what you want? To be ... king? Well, one never knows ... perhaps you find something royal in my warehouse.  
+Player: ferumbras  
+Leeland: Ah, Ferumbras. I remember selling him torches for his first adventure as if it was yesterday.  
+Player: excalibug  
+Leeland: That's one of the few things even I can't acquire for you.  
+Player: privilege  
+Leeland: Privileges have to be paid for. The one way ... or the other.  
+Player: gambling  
+Leeland: I just love bets and gambling. It inspires people doing such interesting things.  
+Player: bye  
+Leeland: Good bye, Player. Make sure to visit my shop.  

@@ -1,0 +1,31 @@
+NPC: Nokmir  
+Player: Hi  
+Nokmir: You are....kind of tall! Hello. What brings you here?  
+Player: Here  
+Nokmir: I guard the entrance to the northern part of the mine.  
+Player: Mine  
+Nokmir: It's a crystal mine. Nothing special, at least not for a dwarf.  
+Player: Dwarf  
+Nokmir: Yes, I'm a dwarf and you are standing in the crystal mines of Beregar.  
+Player: Beregar/city  
+Nokmir: Yes, these are the crystal mines of Beregar. The city itself is just above. Just go up the stairs south of here and you're almost there.  
+Player: Name  
+Nokmir: My name is Nokmir.  
+Player: Emperor Rehal  
+Nokmir: He's a good emperor but I doubt he is wise enough to see the truth behind that false accusation against me. If just someone would find out the truth about that whole mess.  
+Player: Grombur  
+Nokmir: Sooner or later, his drinking will get him into trouble. I promise.  
+Player: Frafnar  
+Nokmir: I try to stay away from him, he really annoys me with his 'I'm sooooo in love' chitchat.  
+Player: Xorlosh  
+Nokmir: He is a genius in mechanical issues. You find him south of here at the elevator.  
+Player: Beer  
+Nokmir: I don't drink beer at work anymore. It just causes trouble.  
+Player: Rerun  
+Nokmir: I heard that Emperor Rehal imprisoned him. I never thought that he would be able to do such a malicious act.  
+Player: Ring  
+Nokmir: I doubt Rerun will need it in prison.  
+Player: Help/mission  
+Nokmir: You've already helped me soooo much. I wouldn't dare bothering you again.  
+Player: What / Where  
+Nokmir: You are in the mines of Beregar. Made your way through the lava cave, huh? Not bad.  

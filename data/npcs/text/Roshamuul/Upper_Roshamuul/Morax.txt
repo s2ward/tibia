@@ -1,0 +1,59 @@
+Player: hi / hello  
+Morax: Chrzzz.... tea... hm? Oh - hello...  
+Player: job  
+Morax: <mumble> ...zzz walk back...the <mumble> catalogue ...  
+Player: name  
+Morax: ...Morax. ...zzz ...Astrolabius.  
+Player: morax  
+Morax: <mumble> Me, yes? Yes.  
+Player: mission / quest / task  
+Morax: Yes... zzz tea...<mumble> the terror... the ancient <mumble>... the waters...  
+Player: tea  
+Morax: A cup... of strong tea...  
+Player: cup  
+Morax: Found one, ages ago... drank it. Ah, so good... <sigh> lost it...  
+Player: terror  
+Morax: You have killed... <mumble> terror?  
+Player: killed  
+Morax: Must... sleep... Kill... the terror sleep... Yes?  
+Player: no  
+Morax: Oh no... no... must not sleep. <mumble>  
+Player: ancient / dream  
+Morax: You were there... the dreams you found, give them to me.  
+Player: give  
+Morax: Too small an amount. We require ...more, brother.  
+Player: water  
+Morax: The waters of the city <mumble> polluted, cut off... you must pull the levers... transform the guardians...  
+Player: levers  
+Morax: The three wheels for the central underground flows are blocked... Off the main pool they go. ...  
+Morax: The levers are nearby, but guarded by the stair labyrinth... Sections are cut off from one another.... infested with beasts, now.  
+Player: water  
+Morax: The waters of the city <mumble> polluted, cut off... you must pull the levers... transform the guardians...  
+Player: guardians  
+Morax: Used to ward off pests... Now, without masters... grown wild, feral... multiplied... Waters soiled... ...  
+Morax: Guardian shiversleeps must be transformed back. But many others there now... dangerous.  
+Player: roshamuul / city  
+Morax: The Heart of Midnight... <mumble> so beautiful... dream.  
+Player: shiversleeps  
+Morax: Zzz... Weak... cannot control their brethren. <mumble>  
+Player: horror  
+Morax: Hungry... everdying... souls...<sigh>  
+Player: Sandomo / inquisition / tibia  
+Morax: Who...?  
+Player: leaves  
+Morax: A bowl... green <mumble> wonderful taste. ...zzz...  
+Player: bed  
+Morax: Temple... bed... a voice...path...  
+Player: nightmare  
+Morax: I cannot escape them.  
+Player: pendulum  
+Morax: You lost ...the pendulum? Ah... but you hold it. Right there. It does that, yes. Go now.  
+Player: solace  
+Morax: Ah... if only they knew. Zzzz. ...quite versatile... chrzzz... forgotten knowledge... bsss.  
+Player: Essence of Wishful Thinking  
+Morax: Purest essence... very powerful... addictive... steers thoughts and enslaves ...  
+Morax: <mumble> ... used in the great war to deflect... <mumble> ... our doom... <sigh>  
+Player: Essence of Dread  
+Morax: Gist of dark dreams... used <mumble> interrogation of test subjects <mumble> strong hallucinations <mumble> poison.  
+Player: bye  
+Morax: Bye, yes... chrrr.. Good... bye. ...zzz  

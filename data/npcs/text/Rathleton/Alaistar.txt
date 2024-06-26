@@ -1,0 +1,54 @@
+Alaistar: Now where's that new specimen I collected?
+Alaistar: <sigh> So much to do, so little time...
+Alaistar: Now where are those notes on the new potion?
+Alaistar: Interesting creature product. It could boost the new formula I have in mind...
+Alaistar: Hmmm, interesting. There may be a reference to the findings of Macrenell on this subject.
+Alaistar: Judging by Baribas' remark on the quality of his latest sample, I wonder if he did not miscalculate the coefficient of the formula...
+Player: hi
+Alaistar: Oh, hello there! I'll be with you in a minute. Take your time and choose your items. Ask me for a trade if you're ready.
+Player: name
+Alaistar: I am Alaistar Stanton. You have met my elder brother Mordecai, I believe.
+Player: job
+Alaistar: I mix potions and tinctures. I also study the flora and fauna of Oramond, and am a renown researcher in the field of glooth liquids. If you have found something interesting, show it to me!
+Player: trade
+Alaistar: Only the finest ingredients! Feel free to browse.
+Player: potion / lost
+Alaistar: You lost the potion? That is terrible! I only have one small portion left, I don't know if that will suffice for any reaction! Still, better that than nothing. Take it. But BE CAREFUL.
+Player: potion / glooth
+Alaistar: You lost the lozenge? How could that happen? ... Never mind. <sigh> Here. Take this reserve I just mixed together, get a soothe blossom form Azalea and try again. Let's hope it works this time.
+Player: lost
+Alaistar: You lost the potion? But there it is! Quickly, go back to the laboratory and talk to Henry!
+Player: letter
+Alaistar: Please leave any message with Maro for the moment, I am very busy with my experiments.
+Player: creature products
+Alaistar: Ah! Yes, it is a hobby of mine, I admit. If you have some interesting creature product you would like to sell, ask me for a trade.
+Player: minotaurs
+Alaistar: I've studied them for years. Their culture is quite different from ours. If only we could coexist peacefully, oh, the possibilities to learn from each other!
+Player: factory
+Alaistar: The abandoned factory in the lower part of town. It was the most advanced factory of its time, experimenting with entirely new glooth concepts and improving the design of metal golems. ...
+Alaistar: There was a most strange explosion or glooth fire years ago, which burned all living things and contaminated the area. All that knowledge, all gone and ruined... <shakes head sadly>
+Player: azalea
+Alaistar: She has been a trusted friend all these years. She helped me in the experiments with glooth and nature magic, as I hoped to find a cure for Henry's... illness. ...
+Alaistar: Though I doubt Henry knew that she was aware of his plight. If only he'd come out openly, we would have stood up for him! But he shut himself away in shame and misery. <sigh> Well, at least now with your help, we have a chance to cure him.
+Player: emily
+Alaistar: I am glad you have joined our cause, the money is a great help for Emily. Still, I hope that Henry will decide to come out of his hiding, instead of writing her letters every so often. ...
+Alaistar: She would draw much support from Henry if he would show himself in town. Yes, even in this hideous form - it would quieten the ugly rumours that were stirred when he disappeared so soon after their marriage.
+Player: fyodor
+Alaistar: Fyodor is indeed very able with the pen, it is true. I am glad my hunch there was right. ...
+Alaistar: It is a shame we have to resort to such secretive means and - well, forgery of some sort there... but unless Henry shows himself in public, I believe we must go on like this. <sigh>
+Player: graham
+Alaistar: He is an excellent boy, just like Henry in his younger days! Graham however, long ago ceased to believe his father is still alive. Maybe that's a mercy. ...
+Alaistar: It gave him the strength he needed to support himself and his mother through all the hardship. He's a strong and honest man, but the truth about his father's fate will hurt him, if he ever learns about it.
+Player: maro
+Alaistar: Ah, he is my pride and joy! Who would have thought minotaurs could be that intelligent and diligent? It is time to rethink their status. If only someone could make a peaceful contact. Not that I haven't tried. <shakes head sadly>
+Player: tried
+Alaistar: I visit and observe their camps regularly, though I have to take care to be heavily camouflaged. They have a most remarkable society and hierarchy. I think they might even worship some sort of god. Fascinating.
+Player: mordecai
+Alaistar: Yes, we share an interest for the more practical aspects of magic. He is an expert in the field of runes and wands.
+Player: henry [bug?]
+Alaistar: A very brave and sweet-tempered lady. She has been through much. She likes visitors, though she hardly ever has one, these days.
+Player: airtight cloth
+Alaistar: It is really airtight, this cloth - I was able to gather some very volatile gases with this. I am looking forward to my next field trip, when I will use the cloth as a camouflage tent!
+Player: bye
+Alaistar: Don't waste everything at once!
+Alaistar: Always in a hurry, eh?

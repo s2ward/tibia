@@ -1,0 +1,50 @@
+Player: hi / ashari
+Brasith: Ashari Player. Fresh fruits and vegetables just arrived from our harvest.
+Player: name
+Brasith: I'm Brasith Seedsinger.
+Player: job / harvest
+Brasith: I sell all the things we grow or gather at this place.
+Player: time
+Brasith: Sorry, I can't help you.
+Player: offer / buy / sell / goods
+Brasith: I sell corncobs, cherries, grapes, melons, pumpkins, bananas, strawberries, and carrots. I also sell juice squeezers to make fruit juice. If you like to see my offers, ask me for a trade.
+Player: crunor
+Brasith: We abandoned the gods a long time ago. Shortly after, they abandoned us.
+Player: plant / tree
+Brasith: Life takes many forms. Plants are a very basic form of life. Their simplicity makes them close to the core of nature.
+Player: forest
+Brasith: The beauty of a forest is easily missed by the unobservant.
+Player: field
+Brasith: With the growth of a community comes the need to 'use' nature rather than to 'flow' with nature. This is sad but necessary.
+Player: humans
+Brasith: They are so many, so aimless, so divided. They have chosen a path I wouldn't want for my own race.
+Player: troll
+Brasith: I don't claim to understand these creatures but sometimes they are more close to the roots than we are.
+Player: dwarfs
+Brasith: They work deep in the earth and claim to have lots of knowledge about it. Still, all they know are minerals, they know nothing about the life it stands for.
+Player: elves
+Brasith: Sadly, our race lacks unity. And the differences we face will grow and grow until eventually there is no race left.
+Player: deraisim
+Brasith: We still have much to learn but we are on the correct path at least.
+Player: kuridai
+Brasith: The Kuridai left the true path and don't see their mistake. Their way of living may have been suitable in the past, but if they don't come back to us, their path will lead into darkness.
+Player: cenath
+Brasith: The Cenath forgot as much as they had learned. I doubt they find the wisdom they are looking for without the things they neglected in their pursuit of knowledge.
+Player: abdaisim
+Brasith: The Abdaisim are on the true way of our race, maybe even closer than we are. But by abandoning the other elves, they harm themselves more than they realise.
+Player: teshial
+Brasith: They're lost. If they still exist, they are alone in the cold and the darkness.
+Player: roderick
+Brasith: His house is out of place in our city which is built in accordance with nature.
+Player: olrik
+Brasith: This poor human seems to think he can become an elf by spending time with us.
+Player: thais
+Brasith: I heard only terrible stories about that city.
+Player: venore
+Brasith: Their traders seem suspiciously friendly. I don't trust them.
+Player: carlin
+Brasith: The humans of Carlin at least try to live in harmony with nature.
+Player: ferumbras
+Brasith: He thinks that he's incredibly powerful, but he only owns the mindless power of destruction.
+Player: bye / asha thrazi
+Brasith: Asha Thrazi.

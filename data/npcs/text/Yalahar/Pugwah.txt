@@ -1,0 +1,45 @@
+Player: hi  
+Pugwah: Uh, a brave customer! Me happy to serve you delicious food and drinks.  
+Player: name  
+Pugwah: Me Pugwah.  
+Player: food  
+Pugwah: Food has to be rotten to gain flavour! No need for expensive spices!  
+Player: drinks  
+Pugwah: Me offer bread, cheese, ham, or meat. And drinks. If you like? Ask Pugwah for trade.  
+Player: trade  
+Pugwah: Good, good! Take look at yummy food good Pugwah sells.  
+Player: dworc  
+Pugwah: Me came here with little canoe. Great storm making bshhhh bshhh! Trying to drown little Pugwah! But no no! Pugwah row row row and escape! Then long long only water. ...  
+Pugwah: But Pugwah have fishing rod. Many fish and drinking rain making Pugwah's stomach sick but then Pugwah seeing city! At first Pugwah wanting eat everyone in city but Pugwah small and lonely. ...  
+Pugwah: But Pugwah also smart very much! Hunting rats and selling stew Pugwah become rich! Soon buy old house and making tavern! Every one comes and eats! Stupid people selling rotten stuff so cheap, Pugwah making fortune by cooking it!  
+Player: food  
+Pugwah: Food has to be rotten to gain flavour! No need for expensive spices!  
+Player: buy / sell / offer / stuff / drink / ware / goods / equipment  
+Player: yalahar  
+Pugwah: Biiiiig city. Soooo many opportunity to find something rotten to make a stew or sausage!  
+Player: vampire  
+Pugwah: Me bite back!! Pugwah swear!  
+Player: mummy  
+Pugwah: Me find him in box with exquisite stinky old meat I ordered!  
+Player: alchemist quarter  
+Pugwah: I know people go there, come back green as dworc!  
+Player: trade quarter  
+Pugwah: Big chieftain West there master is.  
+Player: arena quarter  
+Pugwah: Good area for hunt.  
+Player: foreign quarter  
+Pugwah: Lot of different people around in quarter.  
+Player: sunken quarter  
+Pugwah: Now fish there live.  
+Player: magician quarter  
+Pugwah: Big bad voodoo they making. Stay away! Stay away!  
+Player: blood crystal  
+Pugwah: Big red crystal. Some people talk about it in my tavern. But strange people those are!  
+Player: job  
+Pugwah: Me great cook! Only ingredients most rotten find way in my stews!  
+Player: cookies  
+Pugwah: No thanks. Me mummy says no take food from strangers.  
+Player: factory quarter  
+Pugwah: People there mean, I don't go there. Thinking they want to eat Pugwah.  
+Player: bye  
+Pugwah: Coming back soon to taste me special meat, Player.  

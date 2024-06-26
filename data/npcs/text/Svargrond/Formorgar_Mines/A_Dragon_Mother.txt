@@ -1,0 +1,21 @@
+Player: hi
+A Dragon Mother: Greetings humans! Consider yourselfs lucky, I'm in need of help.
+Player: Hi
+A Dragon Mother: You have done me a favor and the knowledge you are seeking shall be yours. I melted the ice for you, you can pass now.
+Player: help
+A Dragon Mother: I'm aware what you are looking for. Usually I would rather devour you, but due to unfortunate circumstances, I need your assistance.
+Player: assistance
+A Dragon Mother: Wretched creatures of ice have stolen my egg that was close to hatching. ...
+A Dragon Mother: Since I'm too huge to enter those lower Tunnels I have to ask you to take care of my egg. Will you do this?
+Player: no
+A Dragon Mother: Then leave this place quickly or I will eat you!
+Player: yes
+A Dragon Mother: So return to the upper tunnels where cultists and ice golems dwell. Somewhere in these tunnels you will find a small prison haunted by a ghost. South of this prison cell there is a tunnel that will lead you eastwards. ...
+A Dragon Mother: Follow the tunnel until you reach a small cave. Step down and down until you see a blue energy field. It will lead you to my egg. It is sealed so that not everyone may enter the room. But you have the permission now.
+Player: egg
+A Dragon Mother: As I told you, fiendish ice creatures dragged my egg into the lower caves. ...
+A Dragon Mother: Without enough heat the egg will die soon. Venture there and save my hatchling and the knowledge you seeek shall be yours!
+Player: ice wall
+A Dragon Mother: I have seen the huge ice wall down there. I could melt the ice with my fire odem - if you help me first.
+Player: bye
+A Dragon Mother: Grrr.

@@ -1,0 +1,41 @@
+Player: hi
+Lesh the Seer: A good day I wish, wanderer. Are you here because of the curse? I know you're here because of it... I know it.
+Player: name
+Lesh the Seer: Lesh is my name, an important one for you to remember.
+Player: lesh
+Lesh the Seer: That's me, I am Lesh, the seer. The same you're currently talking to, unless you're actually talking to someone else.
+Player: job / seer
+Lesh the Seer: I am a seer. The most valued seer in all of Bounac. And the only one since my evil adversary Bosh turned tail and ran.
+Player: Bosh
+Lesh the Seer: I have to say - a man worthy of our profession. He was a skilled healer, always a lot of things on his mind, ever busy and... then he just vanished. ...
+Lesh the Seer: You know, I didn't very much like him when he was still around but now that he's gone and I'm stuck with old Onfroi here - let's just say I wish him all the best.
+Player: onfroi / wizard
+Lesh the Seer: Pah. Onfroi doesn't know the first thing about medicine. He likes to dabble in obscure magic and research preposterous spells. While all he'd need is everywhere around him: nature.
+Player: bounac / nature / life
+Lesh the Seer: Nature is pure around Bounac. Healthy and strong like a giant root, grasping firmly to the warm core of the world. With gentle arms it holds us in custody, nurturing all beings with life.
+Player: john the carpenter
+Lesh the Seer: Yes, I treated him. Treated him well and good. He was bitten by a snake. Regular warm and healthy baths in the hot springs beneath the mountain will heal him.
+Player: kesar the younger / king
+Lesh the Seer: Kesar, I serve him well and true. He will know what has befallen him and his line, his eyes towards fate will be open - always. I will see to that.
+Player: wes the smith
+Lesh the Seer: Wes is quite helpful with my cooking stuff, he always fixes my things.
+Player: dal the huntress
+Lesh the Seer: If you need fur, Dal can provide a good assortment of hides, furs and leather.
+Player: jehan the baker
+Lesh the Seer: Not my kind of meal.
+Player: fral the butcher
+Lesh the Seer: He is trustworthy, if a bit obnoxious at times.
+Player: evrard the miller
+Lesh the Seer: A good person, helping and knowledgable.
+Player: innkeeper alphonse
+Lesh the Seer: Alphonse owns the Lionheart inn, I don't go there much but it's south of town if you want.
+Player: augustin
+Lesh the Seer: That guy seems to elude me all the time. Even more so than the old wizard.
+Player: curse
+Lesh the Seer: A curse, yes. A curse has befallen the queen. Our poor king will utter Yselda's name no more, yet his heart longs for a conclusion.
+Player: yselda
+Lesh the Seer: Yselda, yes, an important name. The lands are in turmoil as of now and the king as an occupied mind, however.
+Player: siege / drume / fugue
+Lesh the Seer: Intrigues and lies and war and death, the usurpers have no respect for anything and will not let anyone stand in their way.
+Player: bye
+Lesh the Seer: Farewell and keep safe, wanderer.

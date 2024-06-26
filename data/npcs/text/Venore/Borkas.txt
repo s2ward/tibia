@@ -1,0 +1,17 @@
+Player: hi
+Borkas: Hey Simula, what'cha want?
+Player: name
+Borkas: I'm Borkas Flersson, but let's not waste precious tradin' time with small talk.
+Player: job / want
+Borkas: I'm into sellin' furniture. My grandfather was in that business, then my father, and so am I.
+Player: time
+Borkas: It's 5:07 am now.
+Player: offer / buy / sell / goods / equipment
+Borkas: Well, as you can see, we sell containers. Ask me for a trade if you're interested.
+Player: allen richardson
+Borkas: He's my boss but he likes to be one of us and sells some of the wares himself.
+Player: thank you 
+Borkas: No prob.
+Player: bye
+Borkas: Thanks and see ya.
+Borkas: Yeah, get lost...

@@ -1,0 +1,32 @@
+Player: hi
+Rodney: Greetings, Simula. If you're looking for fruits, you've come to the right place.
+Player: name
+Rodney: My name is Rodney.
+Player: job
+Rodney: I sell some local fruits.
+Player: time
+Rodney: It is 8:04 am right now. 
+Player: fruits / offer / food
+Rodney: I have apples, cherries, grapes, plums, raspberries and pears. Ask me for a trade if you're interested.
+Player: trade
+Rodney: Of course, just browse through my wares.
+Player: news / rumor / rumour / amazon
+Rodney: Rumour goes that some amazons, who where banished from Carlin, took refuge near the swamps.
+Player: tibia
+Rodney: I have seen only little of it.
+Player: thais
+Rodney: The Thaian protectorate serves our beloved Venore well.
+Player: carlin
+Rodney: We have little contact with far Carlin, but I heard some renegade Amazons are terrorising the area.
+Player: edron
+Rodney: Our climate is quite rough, so we can only grow wheat here, but no fruits.
+Player: king tibianus
+Rodney: King Tibianus! May the gods bless him!
+Player: army
+Rodney: I am glad that the Thaian garrison is here to protect us.
+Player: ferumbras
+Rodney: Sounds like the name of a foreign soup to me.
+Player: excalibug
+Rodney: What is that? Is it tasty?
+Player: bye
+Rodney: Good bye, Simula.

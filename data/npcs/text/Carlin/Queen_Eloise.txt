@@ -1,0 +1,105 @@
+Player: hail queen
+Queen Eloise: I greet thee, my loyal subject.
+Player: name
+Queen Eloise: I am Queen Eloise. For you it's 'My Queen' or 'Your Majesty', of course.
+Player: job
+Queen Eloise: I am Queen Eloise. It is my duty to reign over this marvellous city and the lands of the north.
+Player: time
+Queen Eloise: Don't worry about time in the presence of your Queen.
+Player: how are you
+Queen Eloise: Thank you, I'm fine.
+Player: Queen
+Queen Eloise: I am the Queen, the only rightful ruler on the continent!
+Player: city
+Queen Eloise: Isn't our city marvellous? Have you noticed the lovely gardens on the roofs?
+Player: no
+Player: lands / tibia
+Queen Eloise: Soon the whole land will be ruled by women at last!
+Player: women / justice
+Queen Eloise: We women try to bring justice and wisdom to all, even to males.
+Player: news
+Queen Eloise: I don't care about gossip like a simpleminded male would do.
+Player: sell (female)
+Queen Eloise: I beg your pardon? A queen that sells things? Be serious!
+Player: sell (male)
+Queen Eloise: Sell? Your question shows that you are a typical member of your gender!
+Player: castle
+Queen Eloise: It's my humble domain.
+Player: sewer
+Queen Eloise: I don't want to talk about 'sewers'.
+Player: dungeon
+Queen Eloise: Dungeons are places where males crawl around and look for trouble.
+Player: thais / city to the south
+Queen Eloise: They dare to reject my reign over them!
+Player: carlin
+Queen Eloise: Isn't our city marvellous? Have you noticed the lovely gardens on the roofs?
+Player: god
+Queen Eloise: We honour the gods of good in our fair city, especially Crunor, of course.
+Player: citizen
+Queen Eloise: All citizens of Carlin are my subjects. I see them more as my children, though. Especially the male population.
+Player: treasure
+Queen Eloise: The royal treasure is beyond the grasp of any thieves, hidden by magical means.
+Player: monster
+Queen Eloise: Go and hunt them! For queen and country!
+Player: help
+Queen Eloise: Visit the church or the townguards for help.
+Player: mission / quest
+Queen Eloise: I will call for heroes as soon as the need arises again.
+Player: gold / money / tax
+Queen Eloise: Our city is rich and prospering.
+Player: tax collector
+Queen Eloise: The taxes in Carlin are not high, more a symbol than a sacrifice.
+Player: hero / adventurer
+Queen Eloise: We need the assistance of heroes now and then. Even males prove useful now and then.
+Player: uniform
+Queen Eloise: The uniforms of our guards and soldiers are of unparalleled quality of course.
+Player: equipment
+Queen Eloise: Feel free to visit our town's magnificent shops.
+Player: shop
+Queen Eloise: My subjects maintain many fine shops. Go and have a look at their wares.
+Player: merchant / craftsmen
+Queen Eloise: Ask around about them.
+Player: army
+Queen Eloise: Ask one of the soldiers about that.
+Player: enemy / enemies
+Queen Eloise: Our enemies are numerous. We have to fight vile monsters and have to watch this silly king in the south carefully.
+Player: guild
+Queen Eloise: The four major guilds are the Knights, the Paladins, the Druids, and the Sorcerers.
+Player: sorceror / lea
+Queen Eloise: The sorcerers have a small isle for their guild. So if they blow something up it does not burn the whole city down.
+Player: druids / padreia
+Queen Eloise: The druids of Carlin are our protectors and advisors. Their powers provide us with wealth and food.
+Player: knights / trisha
+Queen Eloise: The knights of Carlin are the bravest.
+Player: paladins / legola
+Queen Eloise: The paladins are great hunters.
+Player: elane
+Queen Eloise: It's a shame that the High Paladin does not reside in Carlin.
+Player: eremo
+Queen Eloise: It is said that he lives on a small island near Edron. Maybe the people there know more about him.
+Player: minotaur
+Queen Eloise: They havn't troubled our city lately. I guess they fear the wrath of our druids.
+Player: good
+Queen Eloise: Carlin is a centre of the forces of good, of course.
+Player: evil
+Queen Eloise: The forces of evil have a firm grip on this puny city to the south.
+Player: order
+Queen Eloise: The order that Crunor gives the world is essential for survival.
+Player: chaos
+Queen Eloise: Chaos is common in the southern regions, where they allow a man to reign over a realm.
+Player: reward
+Queen Eloise: If you want a reward, go and bring me something this silly King Tibianus wants dearly!
+Player: tbi
+Queen Eloise: A disgusting organisation, which could be only created by men.
+Player: noodles
+Queen Eloise: That beast scared my cat away on my last diplomatic mission in that filthy town.
+Player: ferumbras
+Queen Eloise: He is the scourge of the whole continent!
+Player: excalibug
+Queen Eloise: A man's tale ... that means 'nonsense', of course.
+Player: promotion
+Queen Eloise: Do you want to be promoted in your vocation for 20000 gold?
+Player: bye
+Queen Eloise: Farewell, Simula!
+Queen Eloise: What a strange behaviour for a lady!
+Queen Eloise: Typical behaviour for males!

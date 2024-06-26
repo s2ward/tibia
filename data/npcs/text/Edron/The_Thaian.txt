@@ -1,0 +1,28 @@
+The Thaian: Welcome to my little tavern!
+The Thaian: Come, take a seat! Or... oh, I see. Feel free to just stand there!
+The Thaian: ANOTHER RABBIT, HMPF. OR IS IT A FOX? A BAT?! STAY OUT!
+Player: hi
+The Thaian: Greetings to you, weary traveller! Do you want something to eat or drink?
+Player: name
+The Thaian: My name is of no importance, traveller.
+Player: job
+The Thaian: I'm a tavern keeper. I own a tavern. You are standing in it right now. So do you want something to eat, drink or what?
+Player: eat
+The Thaian: Well, here you go then.
+Player: drink
+The Thaian: To your health!
+Player: tavern
+The Thaian: It's a fine refuge, don't you think? You can eat, drink and enjoy the relaxed atmosphere to your heart's content!
+Player: crystal
+The Thaian: There are crystals manifold in the hall of refulgence. Yet the eye, the eye of the chasm is the most important - the one important thing. Worth... to me... and me alone, more than anything.
+Player: the eye of the chasm
+The Thaian: The eye of the chasm. It is the one thing worth anything in this world. It's... it... what do you know about it? No, you don't know anything about the eye! Hmpf!
+Player: king
+The Thaian: The king? Er, yes. Our good king. Xenom... he is - oh, I mean he was - a... proud and just ruler. No? Oh, you mean Ti... Tibianus? Of course... yes, very well then.
+Player: greed
+The Thaian: Don't be... no good can ever come of it.
+Player: edron
+The Thaian: Edron? Oh this place. Yes, it is a very fine... location. I myself am from Thais, you know. A big metropolis. But it was too busy, too loud. I much prefer the countryside.
+Player: bye
+The Thaian: Farewell, traveller!
+The Thaian: Off you go then!

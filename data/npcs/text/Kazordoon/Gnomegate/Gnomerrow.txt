@@ -1,0 +1,40 @@
+Gnomerrow: Hm, pink burst arrows might be a breakthrough.
+Gnomerrow: Outch! This one is quite pointy and sharp.
+Player: hi
+Gnomerrow: Nice to see you. So what is it that you need? Are you interested in my stuff?
+Player: name
+Gnomerrow: I'm called Gnomerrow. A name you should remember!
+Player: job
+Gnomerrow: I am the gnome that sells bows, crossbows, and ammunition. I thought it would be obvious.
+Player: stuff / offer
+Gnomerrow: I offer bows, crossbows and ammunition. If you are interested then let us trade.
+Player: trade
+Gnomerrow: Of course, just browse through my wares.
+Player: ammunition
+Gnomerrow: I sell arrows for bows and bolts for crossbows. Ask me for a trade if you're interested to see my wares.
+Player: crossbows
+Gnomerrow: I don't buy used crossbows. If you want to buy one, just ask me for a trade.
+Player: bows
+Gnomerrow: I don't buy used bows. If you want to buy one, just ask me for a trade.
+Player: spears
+Gnomerrow: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.
+Player: gnome
+Gnomerrow: We gnomes are quite specialized and we hope by opening up towards outsiders we add some more diversity.
+Player: dwarf
+Gnomerrow: Dwarfs have been our allies for quite a while now.
+Player: crystal
+Gnomerrow: Ah you are amazed by our crystals, aren't you? Well, you have only seen a tiny fraction of what they are able to do.
+Player: mushrooms
+Gnomerrow: It's a common misconception that mushrooms are the only source of gnomish food. We gnomes also grow several other plants and mosses for that purpose.
+Player: thais
+Gnomerrow: From all what I hear it seems to be a pretty rough place.
+Player: surface
+Gnomerrow: For all I heard it has to be a place of incredible poverty! They say peole there are so poor, that they even are often out of doors!
+Player: global warming
+Gnomerrow: Those below are heating up the earth. Probably to burn everything but themselves.
+Player: sky
+Gnomerrow: The sky is a somewhat frightening concept to us gnomes.
+Player: those below
+Gnomerrow: Those cowards have never shown their faces in all those years of war.
+Player: bye
+Gnomerrow: Good bye.

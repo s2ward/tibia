@@ -1,0 +1,43 @@
+Player: hi  
+Redward: Hi there. Welcome to my humble post office.  
+Player: job  
+Redward: Believe it or not, I'm the local post officer. Don't give me that look. It's a long story how I ended up with this job.  
+Player: name  
+Redward: You may call me Redward.  
+Player: yalahar  
+Redward: The city is kind of a melting pot when it comes to civilisations and races. Such a mixture becomes quickly explosive, though. This will turn out very interesting.  
+Player: yalahari  
+Redward: Quite an arrogant bunch if you ask me. But at least they allow almost everyone to settle here.  
+Player: vampire  
+Redward: I guess I don't look really appetising to them. Being a big red monster and all that has its advantages I guess.  
+Player: post  
+Redward: With our mail system you can send letters and parcels to other Tibians. I can either explain how letters and parcels work or sell them to you if you ask me for a trade.  
+Player: trade  
+Redward: Here. Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
+Player: imp  
+Redward: Now, don't be nervous, I'm just your average next door imp.  
+Player: cookies  
+Redward: Have you seen my belly?? I'm on a diet. But thanks, kid.  
+Player: arena quarter  
+Redward: It's really a shame that it's no longer possible to watch humans slaughter each other for the amusement of the masses.  
+Player: sunken quarter  
+Redward: Too wet for my taste.  
+Player: factory quarter  
+Redward: Ahh, all that noise and the smoke and the smell and the whining of working humans - it must have been terrific.  
+Player: foreign quarter  
+Redward: Now those guys know how to party.  
+Player: magician quarter  
+Redward: Humans that tamper with magic - that must end up in something funny.  
+Player: evil  
+Redward: Ah well, sometimes I just can't help it. Then I must do something very evil, things like throwing around parcels who are labelled as fragile, and other stuff like that, you know?  
+Player: master  
+Redward: Oh well. My master was a dark wizard, not like Ferumbras, more the wannabe type ...  
+Redward: He was rather ambitious than competent, and he tended to blame me for all of his failures. Well, I have to admit I made fun of his mistakes quite often, and I might have spilled some of his spell ingredients now and then .. accidentally of course ...  
+Redward: Still, that's no reason to lock me into a bottle and throw me into the sea.  
+Player: story  
+Redward: To make a long story short: I left my master after a dispute, and after a long and perilous journey, I arrived at this city ...  
+Redward: I quit being evil and became a postman.  
+Player: buy / sell / offer / stuff / ware / goods / equipment  
+Redward: I sell parcels and letters. Ask me for a trade if you're interested. I can also explain how the mail system works.  
+Player: bye / farewell  
+Redward: Bye for now, Player.  

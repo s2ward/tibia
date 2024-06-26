@@ -1,0 +1,28 @@
+Player: (idle)
+Shanoya: Master the bow to shoot an arrow in the knee!
+Shanoya: Noble hunter, versatile adventurer - that's the paladin!
+Shanoya: Want the best of all vocations? Become a paladin!
+Player: hi
+Shanoya: Hey there! Didn't you visit Tylius first? I don't teach what he does, you know. You'd better go back and talk to him.
+Player: hi
+Shanoya: Hello again. Spears are in the chest, you can open it every 60 seconds. Or do you want me to explain it all again to you?
+Player: hi
+Shanoya: Hi there, stranger. Come on in and grab a spear! Tylius explains how to fire shots with fancy magic staffs, but they are not truly a distance weapon, oh no. In here, it's the real McCoy! Shall I go on? Yes?
+Player: no
+Shanoya: No? Seen it all before, have you? Well then, you're free to go to Salbra next door for spells and runes. Farewell.
+Player: yes / again
+Shanoya: You see, we paladins are the true distance fighter vocation. Nobody covers a long distance like we do! Spears, bow and arrow, throwing stars... you name it, we master it. ...
+Shanoya: See that chest there? Take some spears from it and aim at the party skeletons. If a spear breaks, you can get a new one from the chest every 60 seconds. ...
+Shanoya: Drag your spear to your weapon slot, right-click on a monster on the map or battle list, and choose 'attack'. If you mastered the principle, just go to the next tent while I - clean up the mess. <sigh>
+Player: name
+Shanoya: My name? Shanoya Arktemis Pride McCoy. Shanoya for you.
+Player: job
+Shanoya: Currently, teaching the basics of distance fighting to future paladins at this festival. Normally, I am a huntress and personal assistant to Lady Narai.
+Player: Narai
+Shanoya: She is our benign mistress and the paladin vocation trainer on this island. A noble huntress of the wilds is Lady Narai, a trenchant ranger of the woods, an unrelenting destroyer of unholy creatures and the dreaded bane of the undead!
+Player: paladin
+Shanoya: True jacks of all trades, that's us! The happy medium between knight and mage, combining the best elements of all vocations, with better health and shielding than mages, and we can carry more. And we have holy magic to hunt down unholy creatures!
+Player: bye
+Shanoya: Good hunting!
+Player: (vanish)
+Shanoya: Good riddance.

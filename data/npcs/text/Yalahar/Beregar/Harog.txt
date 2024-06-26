@@ -1,0 +1,14 @@
+Player: (idle)
+Harog: It's about time.  
+Harog: Armor, weapons! Buy a new one or refurbish your old!
+Harog: Buying nails! Got any?
+Harog: Is your armor rusty? Try my special rust remover and it will shine again.
+Player: hi  
+Harog: Hmmmm, I saw you helping Nokmir and talking to our emperor. Seems like you are not THAT bad. What do you want?  
+Player: job / name / want  
+Harog: Mind your own business if you don't want to trade.  
+Player: trade  
+Harog: Look what I have to offer.  
+Player: rotworm / urine  
+Harog: I'm really busy right now. Leave!  
+Player: bye  

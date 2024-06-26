@@ -1,0 +1,29 @@
+Rose: Have a look at my beautiful flowers!
+Player: hi
+Rose: Welcome to Crunor's finest warehouse, Simula.
+Player: name
+Rose: My name is Rose, nice to meet you, Simula.
+Player: job
+Rose: Here you may buy some of the most beautiful flowers.
+Player: time
+Rose: Sorry, I have no watch on me.
+Player: offer / flowers / goods / plants
+Rose: I am selling beautiful flowers here. Just ask me for a trade if you'd like to see them!
+Player: trade
+Rose: Of course, just browse through my wares.
+Player: rose
+Rose: That's me. I am not for sale. <giggles>
+Player: news
+Rose: You mean my new flowers, don't you?
+Player: hydra tongue
+Rose: Oh of course. Come on. As if I were to believe that you want to buy a pest plant. Well, you really want to buy a hydra tongue for 50 gold?
+Player: no
+Rose: Of course not. Only a fool would do that.
+Player: yes
+Rose: Oh of course. Come on. As if I were to believe that you want to buy a pest plant. Well, you really want to buy a hydra tongue for 50 gold?
+Player: yes
+Rose: You ... what ...? Erm, I mean, did I say 50 gold? I meant 100 gold! Do you want to buy this precious and rare hydra tongue for 100 gold?
+Player: yes
+Rose: Incredible ... I mean the beauty of the rare herb you just bought. Have as much fun with the plant as I will have with your 100 gold.
+Player: bye
+Rose: Good bye.

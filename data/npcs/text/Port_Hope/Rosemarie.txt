@@ -1,0 +1,52 @@
+Player: hi  
+Rosemarie: Greetings and nature's blessing, traveller!  
+Player: ab'dendriel  
+Rosemarie: The elves found the perfect balance between living from the plants and living with the plants. They should be role models for every living being  
+Player: ankrahmun  
+Rosemarie: It has its charm but the more plants I have around me the better I feel.  
+Player: queen  
+Rosemarie: The griffinclaw is the queen among the plants.  
+Player: blessing  
+Rosemarie: I'm here to celebrate life. I will stay with you mortals for a while. I exchange seeds, which you might have found on your adventures, for flowerpots with rare seedlings.  
+Player: carlin / venore / thais  
+Rosemarie: I prefer to stay outside of towns but this spot here is tolerable.  
+Player: care / plant  
+Rosemarie: You will have to water it regularly, then it will flourish and grow. There are several stages of growth that your plant has to pass ...  
+Rosemarie: With good care and luck, it will grow into the next stage until it finally becomes a fully blooming flower. ...  
+Rosemarie: Of course plants won't grow in the darkness of a depot box. On the other hand, it won't dry out there either ...  
+Rosemarie: So if you know you can't take care of your plant for a longer time, it might be a good idea to store it into your depot box.  
+Player: crunor  
+Rosemarie: The bringer of life and fertility is worshipped by all dryads.  
+Player: dryad  
+Rosemarie: Dryads are the daughters of Crunor and the protectors of plant life. Sadly, most of my sisters are quite aggressive on their mission.  
+Player: dwarf  
+Rosemarie: I accept every way of life but this of the dwarfs is not mine. Without sunlight, I would shrivel within days like a plant.  
+Player: elf / elves  
+Rosemarie: The elves found the perfect balance between living from the plants and living with the plants. They should be role models for every living being.  
+Player: flower  
+Rosemarie: Flowers are one of the most beautiful gifts that Crunor blessed us with. They are very delicate creatures and must be treated with utmost care.  
+Player: king  
+Rosemarie: For me, the trees in the jungle of Tiquanda are the kings. Oh, you mean the Tibian king? I'm not interested in human bureaucracy.  
+Player: job  
+Rosemarie: I'm here to celebrate life. I will stay with you mortals for a while. I exchange seeds, which you might have found on your adventures, for flowerpots with rare seedlings.  
+Player: jungle / port hope  
+Rosemarie: I love to stroll around in the jungle. The diversity of plants is fantastic there and even the poisonous spit nettle remains calm if it feels the unconditional love for all plants in your heart.  
+Player: liberty bay  
+Rosemarie: I prefer to stay outside of towns to enjoy the nature around me.  
+Player: mission  
+Rosemarie: Many dryads consider almost everything that is no plant as a threat to plants and the forests ...  
+Rosemarie: Humans that lumber our forests to build their wooden caves and the strange things they use to cross the seas are especially threatening.  
+Player: name  
+Rosemarie: I'm Rosemarie the dryad, and just like my name is linked to flowers, my whole existence is connected to the life of plants.  
+Player: news  
+Rosemarie: I don't know any news that you mortals would be interested in.  
+Rosemarie: If you bring me 5 seeds, I'll give you a flowerpot with a rare seedling. With good care and a little love, it will grow into a beautiful plant.  
+Player: seed  
+Rosemarie: Each seed is like a baby to us dryads. For every 5 seeds you bring me, I'll reward you with a flowerpot that contains a seedling that might flourish into a rare and beautiful plant if you care for it. ...  
+Rosemarie: Do you have any seeds that you would like to exchange?  
+Player: no  
+Rosemarie: Perhaps you are interested when you have more seeds.  
+Player: yes
+Rosemarie: Here, I planted this little baby in a flowerpot for you. Don't forget to water it regularly - buy a watering can somewhere!  
+Player: bye / farewell  
+Rosemarie: Farewell.  

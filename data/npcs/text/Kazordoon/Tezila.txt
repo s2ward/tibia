@@ -1,0 +1,30 @@
+Player: Hi  
+Tezila: Hiho, Player, welcome to the jewel store. Come in and look at the gems. But don't touch the exhibits, jawoll!  
+Player: Gems  
+Tezila: I offer small rubies, small sapphires, small amethysts, small emeralds and small diamonds.  
+Player: Name  
+Tezila: I'm Tezila Gemcutter, daughter of Fire from the Savage Axes.  
+Player: Trade  
+Tezila: Here, take a look.  
+Player: Poem  
+Tezila: Great idea! Jewels and poems match perfectly.  
+Player: Jewels  
+Tezila: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.  
+Player: Offer/Sell/Buy  
+Tezila: I sell the finest gems. Ask me for a trade if you're interested.  
+Player: Talons  
+Tezila: We don't trade with them.  
+Player: Time  
+Tezila: It's 7:31 pm.  
+Player: Bank/Deposit/Withdraw/Balance/Transfer  
+Tezila: I don't run the bank anymore. Please talk to Lokur in the depot to access your account.  
+Player: Gem  
+Tezila: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.  
+Player: Pearl  
+Tezila: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.  
+Player: Goblet  
+Tezila: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.  
+Player: Job  
+Tezila: I'm a jeweller. Maybe you want to have a look at my wonderful offers.  
+Player: Bye/Farewell  
+Tezila: Good bye.  

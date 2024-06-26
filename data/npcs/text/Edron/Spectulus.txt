@@ -1,0 +1,137 @@
+Player: hi  
+Spectulus: Ah hello again Player! I still have one or two other missions for you. There are also some tasks someone needs to attend to and I heard rumours in need of investigation. ...  
+Spectulus: All this among some other interesting stories I would like to look into - there's simply never enough time!  
+Player: name
+Spectulus: My name is Spectulus, astronomer and a very busy one at that.
+Player: job
+Spectulus: I find ways to unveil the secrets of the stars. Judging by this question, I doubt you follow my weekly publications concerning this research.  
+Player: time  
+Spectulus: Precisely 2:15 pm.  
+Player: news  
+Spectulus: Recently, I made a groundbreaking discovery concerning physics and metaphysics. However, somehow all my notes about it seem to have just vanished into thin air, hm.  
+Player: tibia  
+Spectulus: Our world is surrounded by a mysterious sea of light. I will not stop until I discovered all the secrets buried there. Take a look at the sky during a clear night and you will see what I mean.  
+Player: edron  
+Spectulus: Our town truly is the epicentre of science in this world.  
+Player: carlin  
+Spectulus: There are several islands near Carlin. I heard strange creatures live there.  
+Player: thais  
+Spectulus: While I'm proud to work for this academy, I wonder if the king is truly appreciating our research.  
+Player: king / tibianus  
+Spectulus: I'm afraid our king is not interested in astronomy at all - otherwise he would certainly answer my frequent requests for better equipment. 
+Player: army  
+Spectulus: Our armed forces are not of my concern right now.  
+Player: excalibug
+Spectulus: I've got no time for fabled legends right now.  
+Player: mines / lost  
+Spectulus: The people of Edron were digging there for minerals and gold. It seemed all that work was of no avail when they finally hit the motherlode. Gems, rare crystals and... water. So much that it flooded the whole system. And not a single soul escaped.  
+Player: stories  
+Spectulus: I came across a bunch of stories lately, none of them really adding up so I get this urge of investigating but - I simply don't have enough time. ...  
+Spectulus: Have you ever heard about the Thaian for example? There's also several stories about an old knight by name of Galthen.  
+Player: Thaian  
+Spectulus: The Thaian owns a small tavern to the north of Edron. It's quite a bit into the forest and not a very cozy place.  
+Player: Galthen  
+Spectulus: Once a proud knight of the old king Xenom, this honourable strategist followed his order far to the east and mysteriously disappeared only a few years later.   
+Player: hector
+Spectulus: Hector is an old friend and colleague of mine. Do you happen to know him? He's always a pleasure to work with and his philosophical approach to science has proven invaluable many a time.
+Player: parallel dimensions  
+Spectulus: To explain the infinity of parallel dimensions, please imagine the following. ...  
+Spectulus: We are currently at a specific point in the flow of time. Let's call it point ZERO at 12:00 o'clock. ...  
+Spectulus: As time flows I might drop my pencil to the ground - so the flow of time and the events chained to it have gone in direction ONE which leads to 12:01 o'clock with a dropped pencil. ...  
+Spectulus: Now let's go back to point ZERO. I might also have just put it back into my pocket - the flow of time and its chain of events would have taken a 'different' direction, direction TWO - which leads to a 12:01 o'clock where I never dropped my pencil. ...  
+Spectulus: Now imagine that 'both' directions actually exist - but you are only aware of one chain of events that has happened. The one where I dropped the pencil. And this is 'your' dimension, the one you are bound to. ...  
+Spectulus: One 'parallel' dimension would be where the chain of events went in direction TWO. The pencil has been put into my pocket. ...  
+Spectulus: Now imagine that there is an endless amount of ZERO points, maybe at 12:00 o'clock and one second, or at 12:00 o'clock and two seconds - each from which time can take any possible and probably impossible direction. ...  
+Spectulus: And whatever direction a chain of events takes, there will always be an infinite amount of points in time from which new events can take completely different directions, creating completely different dimensions of time. ...  
+Spectulus: Now you might have a better picture of the infinity of dimensions.  
+Player: falcon  
+Spectulus: The stronghold north of the castle? Yes, yes. Its former inhabitants, the 'Order of the Falcon', was an honourable successor order stemming from King Xenom's first knights. ...  
+Spectulus: As far as I read, the order was founded as by one of three siblings over a dispute they had with each other and the king. ...  
+Spectulus: There are many tales about strange lights, sounds and other superstitions coming directly from the tower at night but these are just tall tales. ...  
+Spectulus: Nothing happened over there since I was a child and the tower is just unused potential as far as I'm concerned. We could conduct experiments there or at the very least utilise its defences. ...  
+Spectulus: What's interesting indeed is the sudden disappearance of presumably the whole order - practically over night. Something did happen there before the disappearance, I assume they simply fooled around with magic. ...  
+Spectulus: Reports of flickering lights after their disappearance are just to keep folk away from the tower and spook the children if you ask me. Hm, there should be a book about this order somewhere in the library.  
+Player: lion  
+Spectulus: The third of three knightly successor orders who left Edron in search of a purpose. ...  
+Spectulus: Similar to the 'Order of the Falcon' and the 'Order of the Cobra' they were disappointed by the rule and opinions of then-ruler King Xenom. ...  
+Spectulus: They went out on their journey ages ago. I know for a fact that remnants of this very order have settled down on an island to the south. ...  
+Spectulus: If I only could remember the name.  
+Player: Cobra  
+Spectulus: Hm, as far as I know there were several knightly successor orders in Edron, centuries ago. ...  
+Spectulus: The 'Order of the Falcon for example, an old abandoned bastion of them can still be found right here in Edron. ...  
+Spectulus: The order of the Cobra is rumoured to be one of the former knightly orders of King Xenom. But they seem to be nothing more than a shady bunch of assassins nowadays.  
+Player: Jack / intern
+Spectulus: Well you know Jack - after all you talked to him in person. He will get over it. As for the real Jack, my former intern... I am glad that nothing serious happened to him. ...  
+Spectulus: According to his letter, he did just fine so many years ago. He somehow managed to make a name of himself when he cast some magic we enhanced through our research - of course no one back then had ever seen such spells. ...  
+Spectulus: Oh and he sends his regards to... how did he put it - 'whoever is currently helping me getting out of whatever mess I am currently in'. I... don't really know how this was meant but I guess this is directed at... you!  
+Player: tasks  
+Spectulus: Oh yes, there are some things I still need your help with. Namely - the testing of some... fragile equipment. You can call it scientific research which needs to be done.  
+Player: yselda  
+Spectulus: That name... it means something to you, yes? Do you want to tell me about it?  
+Player: yes  
+Spectulus: So the people of Bounac seem to remember that name as well. That's not much of a trace, however.  
+Player: yselda  
+Spectulus: That name... it means something to you, yes? Do you want to tell me about it?  
+Player: no  
+Spectulus: There is value in all stories, and more so in a story as tragic as this one.  
+Player: onfroi
+Spectulus: Onfroi! Of course, he is a dear friend of mine. Did you meet him? I wonder how he's doing...!
+Player: time machine / tempus  
+Spectulus: Well a project of me and Jack, my former intern. One day we played a game of... chess if I remember correctly. We discussed one of our moves when one of the chess pieces fell on the floor and under the table. ...  
+Spectulus: Jack couldn't reach it so I crawled under the table. And while I was bending down the greatest idea ever came to me - together with quite a lumbago - a working time machine! ...  
+Spectulus: A lot of thought went into capturing enough magical energy, binding and calibrating it, finding the right materials, putting it all together - and finding a nicely crafted shell. We were working on this part alone for weeks, literally. ...  
+Spectulus: And at its heart, we implemented a void crystal. Creating it was the hardest part of it all. ...  
+Spectulus: And the machine worked... it really worked... too bad that all of it is lost in time now.  
+Player: apparitions  
+Spectulus: If you want to know more about what we are actually hunting, just ask Sinclair. I am sure he can explain this to you a bit more detailed.  
+Player: sinclair  
+Spectulus: Together with him I formed the project Spirithunters. A series of experiments has led us to the conclusion that spirits can indeed be caught and preserved... for further studies.  
+Player: Spirithunters  
+Spectulus: Here we are! Sinclair, me and you - our first real employee! Excited? Yeah... no, you won't get your first pay in advance. Now get going.  
+Player: spirits / ghost  
+Spectulus: It is our goal to rid Tibia of those things. Just ask Sinclair downstairs if you want to know more. I'm sure he can explain this to you a bit more detailed.  
+Player: research  
+Spectulus: Of course, there's still a lot of work to do. Talk to Sinclair if you want to continue helping us researching ecto-magical disturbances.  
+Player: mirror crystal  
+Spectulus: I found the cause of the initial failure. A rare component, a mirror crystal was used to store magical energy. Miscalculations within the construction damaged this fragile power source. The unleashed energy must have been devastating.  
+Player: sea of light  
+Spectulus: Without any means of transportation... we will never uncover its secrets.  
+Player: secret / magic  
+Spectulus: With the only remaining mirror crystal destroyed, the Lightboat will be forever incomplete, useless, unfinished, ...hmmm.  
+Player: collector  
+Spectulus: You snatched the mirror crystal from that monster... I would have never accomplished this.  
+Player: fishmen  
+Spectulus: I assume it may have something to do with my theories about the Njey and their ambitions to conquer surface but I lack information.  
+Player: creature / njey  
+Spectulus: Mh? Ah, yes yes. 'Njey' is the native-language term for a very old race of undersea creatures which ...  
+Spectulus: ...hm, wait - only a select few of my colleagues even bothered studying their culture. They are a mere fantasy to the common man - is there anything of importance you want to tell me? 
+Player: deepling
+Spectulus: Mh? Ah, yes yes. 'Deepling' is the general term for a very old race of undersea creatures which ...
+Spectulus: ...hm, wait - only a select few of my colleagues even bothered studying their culture. They are a mere fantasy to the common man - is there anything of importance you want to tell me?
+Player: no  
+Spectulus: Hm, presentiments. Clearly you must have found some old paper from me about all this - I don't blame you, my old publications on this field have been criticised even by the most reputable individuals of our university and beyond.  
+Player: yes  
+Spectulus: Well, if you really want to delve into this - I could use some help. So you have found my machine on that island? And you found the notes with the coordinates? Then you can find the entrance! ...  
+Spectulus: Just look for a large staircase with sprawling steps. There is an unpassable stream there that will prevent you from venturing further on. But fear not, you can indeed travel down there - with these small enhancements I created. ...  
+Spectulus: I will put this under your footgear. Here you go. And this in your nose. There. And there will be no further problems for you down there. Except- ah, well you'll find out yourself soon enough, won't you?  
+Player: machine  
+Spectulus: Ah, the machine you found at that island. Well, I built this thing to venture far beneath the very soil we walk on. I suspected something there. Something deep down below. Something evil. Even more so than the dreaded bugs which are crawling my study. ...  
+Spectulus: Drilling hole after hole only to get stuck in another hard, unbreakable sediment again and again, I was about to quit this pointless enterprise. ...  
+Spectulus: However, the very last day I lingered on that island, I finally fell into a large hollow right under the beach. My drill was shattered and the machine was not mobile anymore. ...  
+Spectulus: I am well aware that this may sound laughable now - at this part all of my colleagues burst into laughter anyway - but suddenly there were stairs. Incredibly large stairs that led to the underworld. A world deep under the sea - can you believe this?  
+Player: enhancements  
+Spectulus: Feeling the might of the stream when I entered the water at the top of these stairs, I was terrified by the immediate loss of control. ...  
+Spectulus: Being dragged down into the depths, shocked, a desperate grasp to reach the stony steps above me literally saved my life. ...  
+Spectulus: I decided that if I were ever again to venture anywhere near these waters, I would have to prepare myself in a proper way. At first I would need something to weight down my shoes. ... 
+Spectulus: Then of course, I would need to find a way for me and a mount to breathe down there. At the same time such enhancements should not slow me down in any way or I would not be able to explore the area effectively. ...  
+Spectulus: I finally opted for a trade-off. I used a most uncommon sponge I did some research on to wad my nose. This sponge is able to find just the elements necessary to survive in any substance I would inhale down there. It discards everything else. ...  
+Spectulus: While I don't understand the whole process yet, by doing so I can practically breathe underwater. An alloy of metal right under my shoes would help me to stand fast in all but the strongest of streams. ...  
+Spectulus: And the downside? The downside is that it is impossible to swim with that stuff under your shoes.  
+Player: drill / note
+Spectulus: I have built a lot of machinery in my time.  
+Player: death
+Spectulus: Now that we know that something else is watching us from the deep, you should be even more careful.
+Player: death
+Spectulus: And? Well, I have quite a lot of books here, indeed. I have a lot less time than books, however. So please hit the trail now, thanks.
+Player: bye
+Spectulus: Yes yes. Goodbye Player.

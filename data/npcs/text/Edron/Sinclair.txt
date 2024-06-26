@@ -1,0 +1,56 @@
+Player: hi  
+Sinclair: Greetings Player. I have - very - little time, please make it as short as possible. I may be able to help you if you are here to help us with any of our tasks or missions.  
+Player: tasks / research  
+Sinclair: We are still in need of more research concerning environmental as well as psychic ecto-magical influences. Besides more common ghosts, we also need some of the harder to come by nightstalkers and - if you're really hardboiled - souleaters. ...  
+Sinclair: We will of course pay for every ghost you catch. You will receive more if you hunt for some of the tougher fellows - but don't overdo it. What do you say?  
+Player: missions  
+Sinclair: There is indeed something you could do for us. We are still in need of more research concerning environmental as well as psychic ecto-magical influences.  
+Player: name  
+Sinclair: My name is Sinclair. Pleased to meet you. Now where was I - oh yes.  
+Player: job  
+Sinclair: I'm one of the few leading scientists in the field of ecto-magical research and development. There is a lot of work to do, time is very precious right now and we have practically no supporters.  
+Player: curse / moon / were  
+Sinclair: I'm a scientist in the field of ecto-magical research and development. But curses are not my subject. Talk to Thomas, he might know something.  
+Player: spectulus  
+Sinclair: My colleague and fellow campaigner in our quest to explore the world of the spirits. He was the first one I encountered actively interested in this field of science  
+Player: edron  
+Sinclair: We can work quite untroubled here in the university - at least for now.  
+Player: thais  
+Sinclair: Thais is a lively city, that's for sure. Well, I'm not much a people person actually, so... maybe you should ask someone else about that.  
+Player: carlin  
+Sinclair: Aren't there several islands near Carlin? Hm, I wonder if one can find anything interesting there.  
+Player: tibia  
+Sinclair: Its people are what we are doing all this for. All our research, all magical devices we create - it's all for the purpose to do good in our world.  
+Player: king / tibianus  
+Sinclair: I erm - I'm not much of a politician I'm afraid.  
+Player: ghost  
+Sinclair: In contrary to ghasts, ghosts are dangerous phenomena that can change their position, they wail and can even manipulate materia in the case of 'poltergeists'. ...  
+Sinclair: It is also possible to communicate with some of them, but be wary of their true evil nature and keep your distance. You may even encounter harmless ghosts out there. But those are very rare and usually tied to sad events.  
+Player: ghasts  
+Sinclair: Ghasts largely differ from ghosts in a way that they are almost always stationary, silent manifestations of a dead person or creature. They are also a common illusion poorly talented mages think of.  
+Player: apparitions  
+Sinclair: Apparitions can be visions - very similar to day-dreams - of spirits or ghostly phenomena. ...  
+Sinclair: Those visions always feel very real, we tracked several cases where people were actually... 'eaten' by one of those. You should take them very seriously.  
+Player: spirits  
+Sinclair: Spirits can be good and also evil. In common belief, spirits are often seen as guides or guardians of people. But there are many forms and types of them, and they often actively try to cause harm. ...  
+Sinclair: We also use 'spirit' as a broader term to describe all sorts of ghosts, ghasts and apparitions here at the Spirithunters headquarters.  
+Player: Spirithunters  
+Sinclair: That's currently Spectulus, me and - well, you of course!  
+Player: excalibug  
+Sinclair: Ah yes, an interesting legend. Don't know any details, though.  
+Player: time  
+Sinclair: What? Well, let me see - it is 5:12 am. Satisfied?  
+Player: army  
+Sinclair: Well, there are some phenomena even the army is at a loss with. And who are you going to call then? Oh well.  
+Player: cure / distracted / potion  
+Sinclair: So, Milos said that you may use my alchemical devices? Well, if Master Milos says so ... It's not that he asked me beforehand. But I don't want to be awkward. Feel free to use any alchemical apparatus you need. Just ... don't break something!  
+Player: news / rumours  
+Sinclair: Well, we are indeed not far from a major breakthrough in the field of ecto-magical disturbances.  
+Player: thaian  
+Sinclair: There was a greedy man from Edron who wanted to find a very rare gem. Based on a loose story told by a travelling merchant, he found the mountain where the gem had to be ripped from the clutches of the stone. ...  
+Sinclair: He searched so hard and with so much effort that he became obsessed by not only the stone but the search itself. He turned every stone, spent all his money and crew and equipment. ...  
+Sinclair: His obsessiveness would eventually cost him the only precious thing still left to him, his own life. ...  
+Sinclair: His obsession became so powerful, however, that it is said he roams the small mountain to this very day. The hidden stone still his object of desire. ...  
+Sinclair: If this is indeed true, we have an object or relic here - the stone itself - which could be used for our paranormal studies.  
+Player: bye  
+Sinclair: Goodbye and good luck Player.  

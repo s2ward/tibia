@@ -1,0 +1,35 @@
+NPC: Grombur  
+Note: This is the first test transcription. All the words were discovered after all the Beregar missions were completed.  
+Player: beer  
+Grombur: THAT is a problem....I tell you. My shift lasts for 48 hours and no one cares about my thirst. That's such a shame! The barrel over there is already empty and I still have 37 hours to go.  
+Player: beregar  
+Grombur: Congrats on finding it! We don't get many visitors here.  
+Player: disturb  
+Grombur: I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE! No one is allowed to enter.  
+Player: dwarv/dwarf  
+Grombur: Down here! Yes, here. I'm a dwarf.  
+Player: enter/permission  
+Grombur: I already told you that you may enter, and now leave me with my cask........ahhhh.  
+Player: frafnar  
+Grombur: What a wimp! 'Bolfona here, Bolfona there!'.  
+Player: guard  
+Grombur: I love this job. No threat on this side of the door, and everyday I find someone stupid enough to bring me beer, hrhrhrhr.  
+Player: job  
+Grombur: I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE! No one is allowed to enter.  
+Player: mine  
+Grombur: It's a crystal mine. Very rare crystals can be found here. We mine them and produce all kind of precious things out of them. Well, not me. I'm too clumsy for this kind of work so, they PROMOTED me to a guard! ...  
+Grombur: I'm a good guard, no one without permission is allowed to enter.  
+Player: mission/quest  
+Grombur: No more trouble for me, no more work for you. Leave me alone with my cask.  
+Player: name  
+Grombur: You haven't heard anything about me yet?! I aehhhhhhohoh........sorry....I AM GROMBUR GOLDTOOTH, GUARD OF THIS MINE HERE!...Impressive, huh?  
+Player: Nokmir  
+Grombur: He is guarding the entrance to the northern mine if you're looking for him.  
+Player: promot  
+Grombur: Every year the most honoured dwarf gets promoted. I for myself are not keen on being promoted. I prefer sitting here with my cask of beer.  
+Player: rehal  
+Grombur: I don't mind who sits on that throne as long as I have enough to drink.  
+Player: Rerun  
+Grombur: I'm sure he's still drunk after THAT amount of beer he drank yesterday.  
+Player: ring  
+Grombur: Oh well, I liked Nokmir. He used to be a good dwarf until that day on which he stole the ring from Rerun.  

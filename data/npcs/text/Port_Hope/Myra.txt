@@ -1,0 +1,54 @@
+Player: hi
+Myra: Greetings, Player. If you are looking for sorcerer spells don't hesitate to ask.
+Player: name
+Myra: Myra is my name.
+Player: job
+Myra: I am a sorcerer. I was sent here by the academy of Edron to function as an adviser in magical matters and as a teacher for sorcerers in need of training.
+Player: spells
+Myra: Sorry, I don't teach spells for your vocation.
+Player: time
+Myra: It is 4:37 am right now.
+Player: tibia
+Myra: I have already seen more of the world as I had ever planned.
+Player: king
+Myra: We are here on the behalf of the king and try our best to make this colony prosper.
+Player: jungle
+Myra: I am working on a spell aiming specifically on destroying plant life. I am sure it would be of enormous help and would earn me a positon in the academy once more.
+Player: apes
+Myra: They are annoying but easily driven away.
+Player: lizards
+Myra: The lizards are somewhat mysterious, but who would care to travel through the whole cursed jungle to learn the boring secrets of some fly-eaters?
+Player: dworcs
+Myra: Sooner or later we will have to face this threat in the south.
+Player: thais
+Myra: Thais lacks the lovely peace of Edron, but as the capital of the Thaian kingdom it offers more chances to study or entertain yourself than this fledgling city.
+Player: venore
+Myra: I find the Venoran activity here disturbing, but, after all, that's not my business.
+Player: carlin
+Myra: The druids of Carlin could do a lot with all the freedom they have, but they waste their resources in some strange cult and lack any scientific approach to magic.
+Player: edron
+Myra: I loved my time at the academy. I had my differences with some superiors though, and when it came to select somebody to come here, my name was mentioned once too often I think.
+Player: darama
+Myra: I think all this talk about the conquest of a new continent is simply exaggerated.
+Player: darashia
+Myra: Living in the desert must be even worse than living here.
+Player: ankrahmun
+Myra: Although I'd love to study the undeath more closely, I'd not want to study it first hand.
+Player: kazordoon
+Myra: I would have even preferred an appointment to the dark halls of Kazordoon than to this colony.
+Player: dwarves / elves
+Myra: Dwarves are good miners, I can't say much more about them.
+Player: ab'dendriel / elves / elfs
+Myra: Elves would probably be more suitable to this environment.
+Player: ferumbras
+Myra: He wastes all his power to spread terror and destruction. Doesn't this become boring after a while?
+Player: excalibug
+Myra: The magic used to create that weapon would be more interesting than the weapon itself.
+Player: vocation
+Myra: Your vocation is your profession. There are four vocations in Tibia: Sorcerers, paladins, knights and druids.
+Player: rune
+Myra: Each spell, that starts with 'Ad', needs a rune. You have to hold a blank rune in one of your hands when you cast it. You can buy runes at the magic shop.
+Player: bye
+Myra: Farewell, Player.
+Player: (vanish)
+Myra: Farewell.

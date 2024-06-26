@@ -1,0 +1,24 @@
+Player: hi
+Digger: Oh, Simula is that you? You look inconveniently healthy. Are you here to trade?
+Player: name
+Digger: They call me Digger, that's fine with me.
+Player: job
+Digger: I am selling some potions.
+Player: offer / goods / potion / do you sell / do you have
+Digger: I'm selling spirit, health and mana potions. If you'd like to see my offers, ask me for a trade.
+Player: magic / market
+Digger: This is the magic market. Just have a look around.
+Player: frans
+Digger: I think the FRANS is bugged.
+Player: digger
+Digger: So what?
+Player: sorcerer / druid
+Digger: The way of the magicwielder is the only way to true power.
+Player: vladruc urghain
+Digger: Better don't cross the master!
+Player: ferumbras
+Digger: An upstart of minor skills and great ambitions.
+Player: excalibug
+Digger: Just a knights' legend.
+Player: bye
+Digger: Bye

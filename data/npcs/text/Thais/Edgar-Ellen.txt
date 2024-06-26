@@ -1,0 +1,13 @@
+Player: hi / hello  
+Edgar-Ellen: This world is nothing without poetry, don't you think? It gives us hope, it envokes love. It's inciting and invigorating all the same.  
+Player: job  
+Edgar-Ellen: Rather a calling. The weight of words is something not easily lifted by some, yet it can be a mighty weapon to others. ...  
+Edgar-Ellen: It is my duty to see to it that the words of mighty poets all over Tibia are spread and carried with the heart and prowess they deserve.  
+Player: tibia  
+Edgar-Ellen: Our world, our home, our very own plane of existence. We have to protect it, mind you. Underneath all the battles, challenges and monsters there still resides a majestic, yet vulnerable being. A mother to us all.  
+Player: king  
+Edgar-Ellen: A king and a beggar know more than a king alone... ahem, except for King Tibianus. He most certainly would. All hail King Tibianus etc. etc.  
+Player: quest / mission  
+Edgar-Ellen: So, you're on a mission. Aren't we all? A quest to savour the important moments, the valuable memories? To fight for love and happiness, heroically and against all odds? Yes, we are indeed.  
+Player: bye / farewell  
+Edgar-Ellen: Goodbye and farewell, my friend.  

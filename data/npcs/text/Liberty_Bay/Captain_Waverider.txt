@@ -1,0 +1,95 @@
+Player: hi / hello  
+Captain Waverider: Greetings, daring adventurer. If you need a passage, let me know.  
+Player: job  
+Captain Waverider: Oh I do nothing of importance. I mind my own business, catch a fish now and then, and try to find some riches on Treasure Island ... oops, I guess I should not have mentioned that.  
+Player: Carlin  
+Captain Waverider: This city is too far away to care about.  
+Player: Chondur  
+Captain Waverider: He knows many things that others don't even understand rudimentary. And he's a nice and helpful person if treated with respect.  
+Player: cult  
+Captain Waverider: Well, there are rumours you know ... If you anger the wrong person, you could wake up the next day with some curse upon you, or even worse, vanish without a trace.  
+Player: Eleonore  
+Captain Waverider: What a charming young lady! Of course you have to be incredibly rich to win the heart of this true beauty ...  
+Captain Waverider: If I were younger, I'd unearth the treasures of Treasure Island and then try to win her heart. Uhm, did I just mention Treasure Island? Just forget about it please.  
+Player: excalibug  
+Captain Waverider: Rumour has it that old Captain Blackbeard found it in a dead sea serpent once and hid it on Treasure Island. Oh my, why can't I keep my mouth shut about Treasure Island.  
+Player: Explorer Society  
+Captain Waverider: They do many expeditions and such. I guess it's only a matter of time until they even find Treasure Island. Oops, I'm an old fool who should mind his words.  
+Player: governor  
+Captain Waverider: I did never feel the need for a governor but I don't mind having him around here either.  
+Player: treasure island  
+Captain Waverider: Well, well, Treasure Island is the place where all pirates have hidden their treasures in the last decades. Most of them never returned to reclaim them ...  
+Captain Waverider: Sadly I'm too old to dig deep and diligent enough to earn all that wealth that is hidden there. But ... Now that I think about it you might have the energy to unearth a fortune there ...  
+Captain Waverider: I tell you what, since you seem a honest and nice person, I consider you worthy of all that gold hidden there. Just ask me for a passage, and for a small fee I will bring you to that secret isle.  
+Player: Isolde  
+Captain Waverider: A pretty young lady. I often see her strolling along the beach - alone and lost in thought.  
+Player: king  
+Captain Waverider: The king is enormously rich. His wealth is only dwarfed by the treasures of Treasure Island ... Oops, I guess I should not have mentioned that.  
+Player: klabauter  
+Captain Waverider: Of course I know about klabautermen. They are little spirits that are invisible most of the time. They live on ships and haunt those that they don't like. If you befriend a klabauterman though, he might become an useful ally.  
+Player: krailos  
+Captain Waverider: That's a faraway grassland, inhabited by savage ogres, as the word is.  
+Player: Liberty Bay  
+Captain Waverider: Just like me the city has seen its best days already.  
+Player: loveless / theodore  
+Captain Waverider: He has tried to send me bribes to find out the secret location of Treasure Island. But old Captain Waverider is too smart to reveal it to greedy people.  
+Player: natives  
+Captain Waverider: Yes, that's what they call us, the descendants of the first settlers. And of course we are native here.  
+Player: pirate  
+Captain Waverider: Ah, pirates ... you know, most pirates are only bandits today. Only the young Striker has the heart on the right place. In former times, pirates were the nobility of the seas ...  
+Captain Waverider: They stole from the rich and gave it to the poor. Of course only that portion of the plunders that they did not hide on Treasure Island. Oh no! I should not have said that.  
+Player: plantation  
+Captain Waverider: I don't know much about those plantations.  
+Player: quara  
+Captain Waverider: The quara pose a constant threat. They raid ships and our town alike and know no mercy in their bloodlust.  
+Player: Raymond Striker  
+Captain Waverider: That young fellow is not as bad as the authorities want us to believe. All the cruel things that are accredited to him were actually done by other pirates. Actually there are two kinds of pirates ...  
+Captain Waverider: The ones around the young Striker see themselves as some sort of freedom fighters. They don't kill without need and show no unnecessary cruelty. But there are other pirates that kill and burn. No one knows where they come from or from where they operate.  
+Player: rum  
+Captain Waverider: Can you imagine a sailor without rum?  
+Player: sugar  
+Captain Waverider: We ship lots of sugar to the continent.  
+Player: thais  
+Captain Waverider: A rough place with rough people as far as I have heard.  
+Player: Tristan  
+Captain Waverider: Some young knight who is responsible for the guards and the training of knights.  
+Player: venore  
+Captain Waverider: You are nothing without money in Venore. On the other hand, with all the treasures of Treasure Island you could be king over there. Oops, I should not mention Treasure Island. You better forget what I just said.  
+Player: voodoo  
+Captain Waverider: Uhm, that is nothing someone should talk or even think about.  
+Player: Wyrmslicer  
+Captain Waverider: He is the living proof that even Thaians can become good sailors.  
+Player: meriana  
+Captain Waverider: Psssht! Not that loud! Have you forgotten why there is a codeword?!  
+Player: peg leg  
+Captain Waverider: Ohhhh. So... <lowers his voice> 'you know who' sent you so I sail you to 'you know where'. <wink> <wink> It will cost 50 gold to cover my expenses. Is it that what you wish?  
+Player: passage  
+Captain Waverider: <sigh> I knew someone else would claim all the treasure someday. But at least it will be you and not some greedy and selfish person. For a small fee of 200 gold pieces I will sail you to your rendezvous with fate. Do we have a deal?  
+Player: bye / farewell  
+Captain Waverider: Good bye.  
+Player: job (on treasure island)  
+Captain Waverider: I'm a fisher with a sideline in giving passage to landlubbers like yourself now and then.  
+Player: Carlin (on treasure island)  
+Captain Waverider: Carlin is so far away - I don't waste my time thinking about it.  
+Player: cult (on treasure island)  
+Captain Waverider: Well, there are rumours you know ... If you anger the wrong person, you could wake up the next day with some curse upon you, or even worse, not wake up at all.  
+Player: Eleonore (on treasure island)  
+Captain Waverider: What a charming young lady. Keep searching here and you'll find enough treasures to impress her.  
+Player: excalibug (on treasure island)  
+Captain Waverider: Rumour has it that old Captain Blackbeard found it in a dead sea serpent once and hid it on Treasure Island. So keep your shovel moving!  
+Player: Explorer Society (on treasure island)  
+Captain Waverider: They organise quite a lot of expeditions, so they are good for business  
+Player: treasure island (on treasure island)  
+Captain Waverider: Yes, this is the famous Treasure Island. Just look around and start digging. Good luck! If you need passage back to Liberty Bay, just ask me.  
+Player: king (on treasure island)  
+Captain Waverider: The King doesn't have much to do with us out here. Dig around a bit and you'll be as rich as him.  
+Player: Liberty Bay (on treasure island)  
+Captain Waverider: Like me the city has had its heyday. Do you want to go back there for 50 gold pieces?  
+Player: venore (on treasure island)  
+Captain Waverider: You are nothing without money in Venore. If you find enough money here, I recommend you visit that city one day.  
+Player: voodoo (on treasure island)  
+Captain Waverider: Uhm, that's not something a person should talk lightly about. Or think about. Can we change the subject?  
+Player: peg leg (on treasure island)  
+Captain Waverider: Pssht. Not here! Ask me again, when we are back in town.  
+Player: passage (on treasure island)  
+Captain Waverider: You give up that easily? Too bad, I'm sure if you had a couple more attempts at digging you'd find a fortune. Well, your decision. Do you want a passage back for 50 gold?  

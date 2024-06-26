@@ -1,0 +1,34 @@
+Player: hi  
+Samir: Hmm. Good day, Player. What do you want from an old man?  
+Player: want / job  
+Samir: I don't have a job anymore. Long time ago, I used to be an assassin... but that is a dark chapter of my past. Nowadays I'm a simple hermit.  
+Player: assassin  
+Samir: It is true - I once made a living from... well, putting people away who made others feel uncomfortable. It is not an easy life.  
+Player: hermit  
+Samir: That is the life I chose now. My sins can't be made undone, but my life in solitude is my self-imposed punishment.  
+Player: life  
+Samir: You would not want to lead such a life, believe me. And I simply refuse to take anyone as my apprentice anymore.  
+Player: apprentice  
+Samir: No way. I am old and weary. If you really want to throw your life away and become an assassin, go bother Atrad, Vescu or Erayo and try not to get killed.  
+Player: Atrad  
+Samir: You got Atrad's katana? Impressive. That probably wasn't an easy task. Don't hurt yourself with it, kid.  
+Player: Vescu  
+Samir: Interesting. So you managed to talk an assassin outfit out of Vescu? Doesn't surprise me... that fool is easily manipulated.  
+Player: Erayo  
+Samir: You were able to sneak into Erayo's house? Hehe, that must have startled him. <chuckles>  
+Player: name  
+Samir: I never speak my name in front of others. I believe that doing so gives other people power over you.  
+Player: beggar  
+Samir: Don't insult me, Player. I have never begged for anything in my life, nor do I ask for alms.  
+Player: alms  
+Samir: I don't need that.  
+Player: forbidden  
+Samir: These islands are cursed. No captain will bring you there on his own free will, that's for sure.  
+Player: sin  
+Samir: Regret your own sins before you judge others.  
+Player: tiquanda  
+Samir: All this bustle in the jungle makes me nervous.  
+Player: Samir  
+Samir: Right. But it's not me who said that.  
+Player: bye  
+Samir: Always watch your back, Player.  

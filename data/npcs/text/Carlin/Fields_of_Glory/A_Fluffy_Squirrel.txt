@@ -1,0 +1,12 @@
+Player: (idle)
+A Fluffy Squirrel: Chchch.
+Player: hi
+A Fluffy Squirrel: Chhchh?
+Player: trade
+A Fluffy Squirrel: Chchch. Chh! <you're not sure, but it seems that squirrel wants to trade your valuable acorns for useless stones that it found and considered uneatable>
+Player: acorn
+A Fluffy Squirrel: Chh? Chhh?? <though you don't understand squirrelish, that one seems really excited>
+Player: chchch
+A Fluffy Squirrel: Chhhhhhhhhhh!
+Player: bye
+A Fluffy Squirrel: Chh...

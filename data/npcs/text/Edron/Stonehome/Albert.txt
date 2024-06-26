@@ -1,0 +1,42 @@
+Player: hi
+Albert: Feel welcome in my humble hut, Player. If you are heavily wounded or poisoned, I can heal you.
+Player: name
+Albert: My Name is Albert Fibulanian.
+Player: job
+Albert: I'm a healer.
+Player: humble hut / thais / edron
+Albert: The sinful city of Thais is a monument of corruption and murder. I'm glad I left for Edron and thank the gods every day for this isle.
+Player: time
+Albert: Now, it is 6:30 am.
+Player: news
+Albert: I've only got news about weather, taxes, and harvests. I heard nothing that would interest a traveller like you.
+Player: healer
+Albert: I'm gifted with the ability to heal the wounded and sick ones. Yet, there are wounds of the soul that even the most powerful magic can't cure.
+Player: heal
+Albert: You aren't looking really bad. Sorry, I can't help you.
+Player: tibia
+Albert: Tibia is a world big enough for everyone. I wish people would realise that.
+Player: fibula
+Albert: My family used to live on the isle of Fibula. At this time it wasn't overrun by soldiers of fortune. Later, I was sent to Thais to learn the art of healing, while my family was amongst the first settlers of Edron.
+Player: daniel steelsoul
+Albert: I healed his wounds, but nothing can heal his soul after the betrayal of some of his knightly brethren.
+Player: betrayal
+Albert: Oh better ask the knights about that issue. I know only little about that tragic story. Some knights betrayed their order and joined some sinister cult in the northern ruins.
+Player: kaine
+Albert: Another victim of his own ambitions. I mourn for his soul.
+Player: gods
+Albert: The gods of good take care of us.
+Player: zathroth
+Albert: I mourn the fallen god as I mourn all sinners who have lost their path and live their lives in darkness.
+Player: king
+Albert: The king does much to enhance the life of his people, but he could do more.
+Player: army / banor
+Albert: I dream of times which see no need for armies or warriors.
+Player: orshabaal
+Albert: I praise the brave heroes that risk their lives to defy that unholy beast! Even if the creature is not always defeated, their efforts did stop him from invading the town.
+Player: ferumbras
+Albert: The fallen one is a perfect example where evil leads us to.
+Player: excalibug
+Albert: It's only another instrument of pain and destruction.
+Player: bye
+Albert: Good bye, Player!

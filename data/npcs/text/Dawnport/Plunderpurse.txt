@@ -1,0 +1,81 @@
+Player: hi / hello  
+Plunderpurse: Welcome, young adventurer! Harr! Deposit your gold or withdraw your money from your bank account. I can also explain the functions of your bank account to ya.  
+Player: Abram  
+Plunderpurse: Only good friends may call me by my first name. Not sure you should use it, yet.  
+Player: advance  
+Plunderpurse: Once you are on the Tibian mainland, you can access new functions of your bank account, such as transferring money to other players safely, accessing your guild account or taking part in house auctions. ...  
+Plunderpurse: Just ask any of my colleagues on the Mainland and they'll be happy to tell you all about the advanced functions of your bank account.  
+Player: balance  
+Plunderpurse: Your account balance is 397 gold.  
+Player: buy / offer / sell / money / do you have / bank  
+Plunderpurse: You can deposit and withdraw money from your bank account here. I can also change money for you.  
+Player: change  
+Plunderpurse: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. For example, if you like to change 100 gold coins into 1 platinum coin, simply say 'change gold' and then '1 platinum'.  
+Player: change crystal  
+Plunderpurse: How many crystal coins would you like to change into platinum coins?  
+Player: change gold  
+Plunderpurse: How many platinum coins would you like to get?  
+Player: change platinum  
+Plunderpurse: Would you like to change your platinum coins into gold or crystal coins?  
+Player: Coltrayne  
+Plunderpurse: Gloomy sort. Keeps glaring at me for some reason. Or maybe for no reason, harr. Formidable blacksmith, anyway. Sharpest sword blade I've seen in a long time.  
+Player: dawn  
+Plunderpurse: Yeah, well, some romantic at work there. Island was reached at dawn, new heroes and adventurers forthcoming, stuff like that. ...  
+Plunderpurse: It's a nice enough island, but a bit small. Perfect training grounds before we unleash you on the Mainland! <winks>  
+Player: death / die / dying  
+Plunderpurse: If you die, you lose experience, skills and some of your items - including gold. So it's best to deposit your gold somewhere safe before you go back out hunting. ...  
+Plunderpurse: Here on Dawnport, I run the bank. I keep any gold you deposit safe, so you can't lose it when you're out fighting or if you die, aye.  
+Player: deposit  
+Plunderpurse: Please tell me how much gold you would like to deposit.  
+Player: function / account / help  
+Plunderpurse: Every Tibian has a global bank account. This means you can deposit your gold in one bank, and withdraw it from the same or any other Tibian bank in any city. ...  
+Plunderpurse: Here on Dawnport, I run the bank. I keep any gold you deposit safe, so you can't lose it when you're out fighting or dying, heh. Ask me for your balance to learn how much money you've already saved. ...  
+Plunderpurse: There are also advanced functions, but those are only available to you once you have reached the Tibian mainland.  
+Player: Garamond  
+Plunderpurse: Fetching white beard, I hope I grow one in due time, would impress the younger folk no end! Knowing some sorcerer and druid spells like he does wouldn't come amiss, either. Go to him if you need mage spells.  
+Player: gold  
+Plunderpurse: Ah, wonderful stuff! That and a bottle o' rum, o'course! Harrharr. You have some gold you want to deposit or withdraw, just tell me.  
+Player: Hamish  
+Plunderpurse: Could've used his talent to brew up some more explosive runes back in the sea fight against... ah well, you wouldn't know the name anyway. Gotta admit, his potions are good stuff.  
+Player: Inigo  
+Plunderpurse: He's an ol' trapper and knows his away around in Tibia, aye. Ask him how a thing works and he'll be sure to have an answer. ...  
+Plunderpurse: That old hand can teach you a trick or two. Also buys any creature products you may have. Too old to go out hunting now, alas.  
+Player: job  
+Plunderpurse: Arr! I'm a pira... er, I mean <cough> <cough> ... clerk. Banking clerk. That's what I am. You need somethin'? Bank business, p'raps?  
+Player: key  
+Plunderpurse: Harumph, I told ye everythin' I know aboot that blood... dorm key.  
+Player: main  
+Plunderpurse: Aye, Tibia is a vast world, my friend, with plenty of adventures, harbours, and loot! The Mainland is open to everyone; but there are many beautiful islands and more cities to explore, if you have premium rights and can use a ship. ...  
+Plunderpurse: Once you have reached level 8 here on this isle, you can choose your definite vocation and leave for the Mainland.  
+Player: Menesto  
+Plunderpurse: Heh heh. Took his gold off him in that last poker round, aye. Nice lad though, nice lad.  
+Player: Morris  
+Plunderpurse: That's Mr Morris to you, friend. Go get yourself a useful thing to do and ask him about a quest, will you.  
+Player: name  
+Plunderpurse: Abram Plunderpurse, at your service. <bows>  
+Player: Oressa  
+Plunderpurse: Harrr, what a dame! Would like to buy her a pint one day. <leers> Unless she kills me with one of her icy looks first. Anyway, decent healer. Can help ya with choosing a vocation.  
+Player: platinum / crystal  
+Plunderpurse: Ah, nah, that's not for me. I like shiny gold! Jewels is fine, too, though... but those other lighter coins, you'll get them in any bank in Main.  
+Player: Plunderpurse  
+Plunderpurse: Aye, what about my name? You don't like it? Well, you don't have to wear it! And I am quite happy with that!  
+Player: quest / mission  
+Plunderpurse: Not my line of trade, friend! Mr Morris next door will tell you what needs doin' around here.  
+Player: Richard  
+Plunderpurse: <shifts uneasily> Well, maybe I did come across his ship some time. In bad weather. And couldn't do a thing for those poor souls. And anyway, he swam ashore here. So it all worked out in the end, see.  
+Player: rookgaard  
+Plunderpurse: Arrr. Not a very profitable place.  
+Player: transfer  
+Plunderpurse: I'm afraid this service is not available to you until you reach the Tibian mainland.  
+Player: Tybald  
+Plunderpurse: I could swear he looks like that old pal I met back on... ah well, much salt water passed my ship since then. If ye need a spell or two for a knight or paladin, he's the spell teacher to go to.  
+Player: vocation  
+Plunderpurse: There's a choice of four: knight, sorcerer, paladin or druid. ...  
+Plunderpurse: Exit through one of the four gates and you will be equipped with the specific gear of that vocation, so you can see which one suits you best. ...  
+Plunderpurse: If you need more information on this subject, go ask Inigo.  
+Player: Wentworth  
+Plunderpurse: Arrr. We go wayyyy back, Keeran an' me. Best you ask him, I'm no good at details.  
+Player: withdraw  
+Plunderpurse: Please tell me how much gold you would like to withdraw.  
+Player: bye / farewell  
+Plunderpurse: Good bye, and remember: entrusting us with your gold is the safest way of storing it! Heh heh.  

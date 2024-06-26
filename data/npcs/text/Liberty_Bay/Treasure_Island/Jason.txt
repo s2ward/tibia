@@ -1,0 +1,34 @@
+Player: hi  
+Jason: Hello, but would you be so kind not to dig here, PlYWE? This is my spot!  
+Player: dig  
+Jason: Yep, no treasure without digging. That's how it has always been and always will be.  
+Player: spot  
+Jason: This island is famous for its hidden treasures. I haven't found anything yet, but I'm sure something must be here.  
+Player: job  
+Jason: Job? I don't need a job anymore once I find my treasure.  
+Player: name  
+Jason: I'm Jason.  
+Player: pirate  
+Jason: They say that a bunch of cursed undead pirates roam this island sometimes. Spooky, isn't it?  
+Player: liberty bay  
+Jason: Except for the tavern I haven't seen much of Liberty Bay. I leave early and return late, life as a treasure hunter is hard.  
+Player: treasure  
+Jason: This island is famous for its hidden treasures. I haven't found anything yet, but I'm sure something must be here.  
+Player: treasure map  
+Jason: Get your own treasure map, this one is mine! I think the ones sold here are sort of... well, you probably need a real pirate treasure map here.  
+Player: pirate treasure map  
+Jason: Yes, get a treasure map from the pirates, keep it with you at all times and then just dig. Sooner or later you'll get lucky.  
+Player: shovel  
+Jason: I think they are selling shovels here. However, I rather bring my own lucky shovel.  
+Player: war  
+Jason: I don't know anything about a war.  
+Player: curse / undead  
+Jason: Listen, mate, the sun is shining, the sky is blue, and I really don't feel like talking about curses and ghosts.  
+Player: sell  
+Jason: Do I look like a merchant? If you need anything, check out the huts at the northern coast.  
+Player: nargor  
+Jason: Don't know what you're talking about.  
+Player: sugar cane  
+Jason: Who would waste any time harvesting and selling sugar cane if you can get instantly rich by finding a treasure?  
+Player: bye / farewell  
+Jason: Yes, yes, bye already.  

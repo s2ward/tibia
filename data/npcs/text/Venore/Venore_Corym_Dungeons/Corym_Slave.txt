@@ -1,0 +1,14 @@
+Player: hi
+Corym Slave: Every man is the architect of his own fortune. There will be the day of pay back.
+Player: pay back
+Corym Slave: The repression has taken too long. With our new weapons the respective people will get their just punishment. (vanish)
+Player: rare earth
+Corym Slave: This material can only be found in the stomaches of stonerefiners. These creatures eat common stones and process them to rare earth. Even scientists don't know how this works exactly. Otherwise they would have reconstructed the process in their labs.
+Player: enormous
+Corym Slave: The deeper you are in a tunnel the hotter it is. That is known, but here the temperature rises much faster.
+Player: hi
+Corym Slave: The revolution is about to happen. Take arms!
+Player: bye
+Corym Slave: Bye
+Player: (vanish)
+Corym Slave: No goodbye?

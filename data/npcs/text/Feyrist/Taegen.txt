@@ -1,0 +1,43 @@
+Player: Hi
+Taegen: Be greeted, mortal being!
+Player: name
+Taegen: I'm Taegen.
+Player: job
+Taegen: Job? Well, I'm a faun but I don't know whether that is the answer to your question.
+Player: time
+Taegen: Yes, I have time for a little chat.
+Player: news / rumors / rumours
+Taegen: Something unsettling seems to happen on Feyrist right now. But if you want to know more you should talk to Maelyrra.
+Player: offer / buy / sell / trade
+Taegen: I'm carving bolts and arrows and I also craft bows and spears. If you'd like to buy some ammunition, take a look.
+Player: ammo / spear
+Taegen: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.
+Player: arrow
+Taegen: I have normal arrows, sniper arrows, flaming arrows, shiver arrows, flash arrows, earth arrows and onyx arrows used with bows. Just ask me for a trade.
+Player: bolt
+Taegen: I have bolts, piercing bolts and power bolts used with crossbows.
+Player: bow
+Taegen: I don't buy used bows. If you want to buy one, just ask me for a trade.
+Player: distance / ammunition
+Taegen: Well, I sell spears, bows, crossbows and ammunition for distance fighting. Ask me for a trade if you're interested to see my wares.
+Player: gem
+Taegen: Gems are pretty!
+Player: sun catcher
+Taegen: I'm sorry, I don't have one.
+Player: raven herb
+Taegen: That's a very rare fern-like plant. If eaten it allows an air breathing creature to breathe underwater for a while. Please find this plant for me. ...
+Taegen: But know that you'll find it only at night. It resembles a common fern but its leaves are of a lighter green.
+Player: mission / help / spell
+Taegen: Please find a way to transform Aurita's fishtail into legs. There is a fairy who once told me about a spell. Perhaps she will share her knowledge. You can find her in a small fairy village in the southwest of Feyrist.
+Player: Feyrist
+Taegen: We call our realm Feyrist which means 'the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
+Player: Maelyrra
+Taegen: She's our queen.
+Player: Aurita
+Taegen: She's the most beautiful, clever and graceful mermaid you've ever seen. Valindara says I'm so lovey-dovey it's insufferable. *laughs* But I don't care.
+Player: Valindara
+Taegen: She's a swan maiden and a friend of mine.
+Player: Talila
+Taegen: She's a pixie. Maybe she will sell or buy some nice trinkets.
+Player: bye
+Taegen: Farewell, friend.

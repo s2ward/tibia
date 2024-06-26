@@ -1,0 +1,51 @@
+NPC: Rottin Wood  
+Player: hi  
+Rottin Wood: Hunter's greeting! I assume you want something from me since you came all the way out here on your own. This is a dangerous place to be, I doubt that all my men will accept strangers like I do. You don't seem to have any problems with that, though.  
+Player: Name  
+Rottin Wood: My name is Rottin Wood, I'm the leader of this bunch - but hey, everyone knows that, right? Right.  
+Player: Job / Here  
+Rottin Wood: We are hunters. We are chasing our prey in the woods, ever watchful, ever deadly, evergreen.  
+Player: Hunters/Hunt  
+Rottin Wood: Aaaaah the thrill of the hunt. The wind in the forest making the trees talk to you. The glistening water of the rivers and lakes... you cannot get enough of it, can you? OUCH! Fir cone... again... I hate this... ah, nevermind.  
+Player: Tibia  
+Rottin Wood: Isn't it a beautiful world? Just look at this forest, aaah.  
+Player: H.L.  
+Rottin Wood: Well, he never tells anyone his real name. He always wears his old wedding ring, though. It has a small engraving, the letters 'H.' and 'L.'. So we simply call him H.L.  
+Player: Married/Men  
+Rottin Wood: Yes, we were all married once. In fact we still are. That's why we're here. ...  
+Player: Rabbit  
+Rottin Wood: We are selling lucky charms. Actually each lucky charm is an ordinary rabbit's foot - with a special handcrafted ribbon of course, heh. Made by the guys, heh. The people in Thais are going crazy for those.  
+Player: Thais  
+Rottin Wood: I don't like the city. I sleep among trees out in the open.  
+Player: Carlin  
+Rottin Wood: Carlin? Never been there.  
+Player: Edron  
+Rottin Wood: Been there once, but that was a long time ago.  
+Player: King  
+Rottin Wood: I'm the king of the forest.  
+Player: Army  
+Rottin Wood: I command my own... army. And I'm proud to say that we are the... the strongest - hey, hey you there, are you taking a nap?! You're on sentry duty! Quit fooling around and start your shift!  
+Player: Time  
+Rottin Wood: Judging by the position of the sun, the wind in the trees, the slightly glistening dew on the moss and my watch - it is about 2:38 am.  
+Player: Excalibug  
+Rottin Wood: What? That old legend? If you want legends, you should join us - unfortunately it isn't possible for you to join us. In fact, no one can, heh.  
+Player: Tibianus  
+Rottin Wood: Yeah, well. I'm the king of the forest - what about that, eh?  
+Player: Mission  
+Rottin Wood: Hey there, well no new missions from Rottin Wood and his men today - but you can still help us with some tasks.  
+Player: News  
+Rottin Wood: Some random fool came here and started getting on everyone's nerves. Oh wait, you're HERE. Hmph.  
+Player: Task  
+Rottin Wood: Alright of course. You can help us getting even more lucky charms. There are also some repairs to be made around the camp. For now these are the only tasks we can offer.  
+Player: Lucky Charms  
+Rottin Wood: Are you ready to get more lucky charms? You know, if we won't get our hands on new charms in time, we will surely have to starve... during the autumn. That would be a hard time for all of us. So... you in once again?  
+Player: Repair  
+Rottin Wood: Welcome back, did you repair all the broken structures?  
+Player: No  
+Rottin Wood: If you don't want to do this - I have no problem with that. But my comrades... well if they are getting a cold, have fun getting out of the woods in one piece.  
+Player: Lucky Charms  
+Rottin Wood: Are you ready to get more lucky charms? You know, if we won't get our hands on new charms in time, we will surely have to starve... during the autumn. That would be a hard time for all of us. So... you in once again?  
+Player: No  
+Rottin Wood: Hey, I like rabbits too, alright? And I doubt anyone would even notice if you would just take a wooden spoon and put some wool on it with the ribbon. But the people want it - and we need the money. So, no pain, no gain, my friend.  
+Player: Join  
+Rottin Wood: Not possible. You cannot - in fact no one can - join us. Not anymore. ...  

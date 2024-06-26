@@ -1,0 +1,92 @@
+Player: hi / hello
+Squeekquek: Don't kill! Don't kill! Me good Corym. Me no doing harm! - Hmm, you new face. New face can't trade in black market!
+Player: buy
+Squeekquek: Great trade bosses are suspicious towards strangers, yes, yes. Without invitation or recommendation there no way is, anyone will make trade with you.
+Player: Carlin
+Squeekquek: There sewers are that clean, atrocity it is!
+Player: cat
+Squeekquek: Vile monsters they are! One day ratkind will triumph over them. Final victory is inevitable.
+Player: caves
+Squeekquek: There is nothing better than a cuddly cave to call your own. One day me will own several all over the world!
+Player: cheese
+Squeekquek: You not know about great cheese? But great cheese created everything! One day big cheese found lonely and created whole world out of parts of his cheesy body. ...
+Squeekquek: That is why Corym could eat almost everything. Corym alway where his favourite because they admired cheese that much and cheese is what is most similar to the godly cheesedom. ...
+Squeekquek: But first Corym grew greedy and fat. Almost devoured whole creation of big cheese. Therefore big cheese made it that not each creature could eat anything any longer. ...
+Squeekquek: Praised be the big cheese and his wisdom in all his cheesynes!
+Player: chosen
+Squeekquek: Sometimes the big cheese chooses his champions amongst the Corym. They are fierce fighters, skilled looters, great diggers, shrewd leaders and the like. ...
+Squeekquek: They become famous, rich and powerful but often fall prey to strange accidents. That is because big cheese is constantly testing them and if they fall, they are not worthy.
+Player: corym
+Squeekquek: We are numerous but hidden well. I have family everywhere in the world! We have many enemies and must stick together. ...
+Squeekquek: On the other hand the commandments of the big cheese order us to spread.
+Player: cyclops
+Squeekquek: One-eyes are good smiths. Corym sometimes find metals that are of interest to one-eyes. Others often buy one-eyes' wares. Corym trade with them a lot.
+Player: died
+Squeekquek: He choked on his food. Poor Raticus. Leader of market are always in bad luck. All die fast and competitors too. The great cheese puts big burden on his chosen.
+Player: dirt
+Squeekquek: One has to be Corym to appreciate beauty of dirt.
+Player: dwarf
+Squeekquek: Beard-people are evil. Always chasing good Corym and keeping good stuff form themselves. Always chase Corym out of mines and collapsing our tunnels.
+Player: elf
+Squeekquek: Wood-people are mean hunters. Often hunt good Corym for sport. Not much good stuff Corym want from them anyway.
+Player: fight / pits
+Squeekquek: Some people liking fighting, others liking to bet their money. Me people eagerly deliver what is wanted.
+Player: forest fury
+Squeekquek: Strange creature, half woman, half deer. Looking so funny! We caught one and keep her in a cage, so anyone might see her.
+Player: gods
+Squeekquek: Human gods care only for stupid humans. Gods of the Corym are more mighty but they are secretive. It is not for you to know about our gods, like the great cheese.
+Player: humans
+Squeekquek: Humans are good ... some are. Often find stuff that they trade with Corym. Often run from other humans. Humans are as numerous as Corym are ... almost. Have many good stuff and cheese.
+Player: job
+Squeekquek: Me simple Corym is. Me doing some hauling in the market.
+Player: Kazordoon
+Squeekquek: So many pretty tunnels and so many mean dwarfs.
+Player: lair
+Squeekquek: Me peoples lair is far beyond the reach of human guards. Tunnels are treacherous and narrow. Humans would be dead before they'd ever reach us.
+Player: leader
+Squeekquek: Raticus was great leader full of shrewd ideas and cunning. He saw potential in trading with others, being neutral party between all. ...
+Squeekquek: Built great trading empire and had even greater plans but he died too young.
+Player: magic
+Squeekquek: Magic stuff is rare and precious. Even if it's traded it's too expensive for most.
+Player: market
+Squeekquek: It's big market for everything. Other Corym come here to sell stuff they have ... found, yes, yes. And people come here to buy and sell stuff. Market is open only for trusted customers. This excludes you, of course.
+Player: orc
+Squeekquek: Though they have colour of quite mouldy cheese you can't trust them. They are easy to anger and often cause problems in the market.
+Player: people
+Squeekquek: Different people come here for trade. People who not ... wanted other place. Or who wanted there, that is, yes, yes. Here people are all equal welcome. ...
+Squeekquek: Who has good gold is good people here and welcome. Here are people from all places of world. Often traveling through secret Corym tunnels and paying for passage.
+Player: plague
+Squeekquek: Corym are resistant to your plagues. Even that proves that we are superior beings.
+Player: plans
+Squeekquek: Raticus ever had great plans. Market idea was just one of them, yes, yes. He other great ideas had. He once was training big tortoises to become his bodyguards and the like! ...
+Squeekquek: His ultimate plan though was get enough money to found expeditions to find the holy land of Corym prophecies.
+Player: profit
+Squeekquek: Ah, sweet beloved profit. Me people praising it above anything else of course!
+Player: prophecies
+Squeekquek: The prophecies speak of the holy land that Corym once will find. If they spread enough they one day will find the promised land of milk and cheese, Mousetralia!
+Player: rat
+Squeekquek: Funny little guys. It's always a pleasure to have them around.
+Player: recommendation
+Squeekquek: Me guess you out of luck here. Everyone knows you are a pain in the side of every villain since you coming from mainland. No one here will ever trade with mean you.
+Player: rita
+Squeekquek: Ah, sweet Rita. Sweet corym girl she was. Signed on for the pirats and was never seen again. Lost at sea. ...
+Squeekquek: Left her parrot Larry here at the Black Market, though. Sometimes, this bird tells strange things about a treasure and ... cheddar? Don't ask.
+Player: sell
+Squeekquek: Great trade bosses are suspicious towards strangers, yes, yes. Without invitation or recommendation there no way is, anyone will make trade with you.
+Player: stuff
+Squeekquek: Other Corym sell stuff that they acquired elsewhere. Buy weapons from Cyclopses and sell them to orc and the like. But selling stuff to anyone is the rule here. ...
+Squeekquek: Also sell lodge to people who on the run or looking for job. Some come here to sell stuff that they can't sell other where. Stuff they took and owner might looking. ...
+Squeekquek: Some come here to fight and some Corym arrange that, too. Others just come here to spend the money they ... got somehow.
+Player: Thais
+Squeekquek: Crowded, violence, stinky and dirty, a heaven on earth! One day the Corym will rule over Thais.
+Player: trade
+Squeekquek: Corym market begun with few Corym and a leader who traded food to humans who where on the run for stuff they had found in someone else's home. ...
+Squeekquek: Corym spread word they would trade and others came. Corym got better stuff and more space. More people come and more gold and good stuff for Corym. Nasty goblins wanted competition but Corym grew in number and chased nasty goblins away.
+Player: treasure
+Squeekquek: The big bosses hide away all of their profit. They don't like to share with poor other Corym.
+Player: weapon
+Squeekquek: We sell some of the nastiest and deadliest weapons in the realm.
+Player: world
+Squeekquek: Some believe the core of world is made out of purest cheese.
+Player: bye
+Squeekquek: So long!

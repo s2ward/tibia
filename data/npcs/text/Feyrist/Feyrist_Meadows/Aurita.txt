@@ -1,0 +1,40 @@
+Player: hi
+Aurita: Greetings, traveller!
+Player: name
+Aurita: I'm Aurita, whicht means ,the golden one'. The name was given to me because of my hair, not because of my scales' colour.
+Player: job
+Aurita: I like swimming and singing but I'm not sure whether that answers your question.
+Player: time
+Aurita: Time is not of relevance here.
+Player: Feyrist
+Aurita: That's the name of our secret realm which we keep hidden from mortal eyes. It means ,the fairest' and just few mortals get permission to enter it.
+Player: valindara
+Aurita: She's a swan maiden and a friend of Taegen.
+Player: talila
+Aurita: She's a pixie of queen Maelyrra's court. Maybe she will sell or buy some nice trinkets.
+Player: dreams
+Aurita: There is far more to dreams than mortal beings are aware of. They possess some kind of magical power, ancient and mysterious. The fae are closely linked to this power.
+Player: news / rumours / rumors
+Aurita: Something unsettling seems to happen right now. Even the fish in the ocean around Feyrist can sense it. But if you want to know more you should talk to Maelyrra.
+Player: Maelyrra
+Aurita: She's the queen of the fairy court my beloved Taegen is part of.
+Player: Taegen
+Aurita: He's the most handsome and caring faun you'll ever meet. He knows to dance, to sing and to play the panpipes like nobody else. But it is ... difficult.
+Player: difficult / mission / quest / task
+Aurita: Yes, there is something. I'm in love with Taegen, but he is a faun. As such he's inhabiting the forests, dancing with fairies. And I, being a mermaid, am living in the ocean, swimming with the fish between coral reefs. ...
+Aurita: But I lost my heart to Taegen, I can't help it. We would love to spend some time together, but not just sitting on the beach. ...
+Aurita: I'd love to show him my homestead beneath the waves. I have an idea but I can't do it alone. Would you help me?
+Player: no
+Aurita: I'm sad to hear that. If you change your opinion and are willing to help us, come back to me.
+Player: yes
+Aurita: That's very kind of you, my friend! Listen: I know there is a spell to transform my fishtail into legs. It is a temporary effect, so I could return to the ocean as soon as the spell ends. Unfortunately I don't know how to cast this spell. ...
+Aurita: But there is a fairy who once told me about it. Perhaps she will share her knowledge. You can find her in a small fairy village in the southwest of Feyrist.
+Player: mission / quest / task
+Aurita: Please find a way to transform my fishtail into legs. There is a fairy who once told me about a spell. Perhaps she will share her knowledge. You can find her in a small fairy village in the southwest of Feyrist.
+Player: starlight vial
+Aurita: Oh, I don't guess I can give it to you.
+Player: raven herb
+Aurita: That's a very rare fern-like plant. If eaten it allows an air breathing creature to breathe underwater for a while. Please find this plant for Taegen. ...
+Aurita: But know that you'll find it only at night. It resembles a common fern but its leaves are of a lighter green.
+Player: bye
+Aurita: Farewell.

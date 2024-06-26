@@ -1,0 +1,32 @@
+Player: hi
+Peremin: Hi there. I hope I can help you, I really do. Did you know that we worked on some revolutionary vehicles here? No? Oh well.
+Player: job
+Peremin: I work here. Doin' the stuff that I'm ordered to.
+Player: vehicles / glooth / glider
+Peremin: So, you are looking for some kind of vehicle to ease travelling around these parts? Well then ...
+Peremin: One of the teams I was in, recently conducted some experiments concerning some kind of glider. We were tasked with the actual flight of the thing. ...
+Peremin: However, we could never quite get that thing to do what we asked it to. Still, a revolutionary thing - incredible, really. It was glooth powered but don't get your hopes up just yet. ...
+Peremin: The only thing left from this project, are blueprints. We never got it to actually lift off. I know of some guy who claimed to have found a way - but that one is not working with us anymore. ...
+Peremin: If I remember correctly, his name was professor Pierre Zeronex. But beware, that guy can be... dangerous. ...
+Peremin: And even in case you find those plans, there are a lot of other factors and requirements to count in as well: ...
+Peremin: We are constantly raided by bandits, we need a certain amount of clean glooth, you would need a way to constantly 'power' the glooth its running on and there is the 'secret ingredient' from that weird Zeronex.
+Player: blueprints
+Peremin: We usually draw blueprints before building anything. They also serve as documentation as well as base for prototypes, we also revise them often.
+Player: minotaurs
+Peremin: Never seen one. When they attack I keep me busy upstairs.
+Player: rathleton
+Peremin: What about it? It's up there, above us.
+Player: magistrate
+Peremin: No idea what they are doing. They tell us what to do and we do it.
+Player: plant
+Peremin: No rain, not too cold in winter. It's not that bad.
+Player: stories
+Peremin: Uh. Well. Things happen ye' know? Sometimes people gone missing. Bet is was the minotaurs or somethin'. Sometimes stuff happening, weird stuff.
+Player: weird
+Peremin: Man, strange stuff I tell ya'. Things movin' while you are not looking. Strange noises. It's some minotaur curse.
+Player: maxxen
+Peremin: Don't know all that science guys here by name, sorry.
+Player: captain caveworm
+Peremin: Captain Caveworm a true hero and I know people who have seen him like my grandma.
+Player: bye
+Peremin: Goodbye, still got some work to do. Check back later if you want.

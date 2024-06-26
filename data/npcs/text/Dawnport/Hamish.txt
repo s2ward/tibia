@@ -1,0 +1,76 @@
+Player: hi / hello  
+Hamish: Hi there, fellow adventurer. What's your need? Say trade and we'll soon get you fixed up. Or ask me about potions, wands, or runes.  
+Player: job  
+Hamish: I craft highly efficient runes, wands and potions - always handy when you're in a fight against monsters! Ask me for a trade to browse through my stock.  
+Player: name  
+Hamish: Hamish MacGuffin, at your disposal.  
+Player: wand / rod  
+Hamish: Wands and rods are a magic user's weapon of choice! You can distinguish a specific weapon by its name: WANDS are used by SORCERERS, and DRUIDS use RODS. Simply equip one and aim at a monster to shoot. Mana will be consumed with each shot. ...  
+Hamish: A sorcerer can't use a rod, and a druid can't use a wand. Simple, really. When you advance some more levels, check back to see if you can buy a new wand or rod that would make more damage!...  
+Hamish: Each wand or rod makes a specific type of damage, which is useful to know if you're hunting monsters which may be immune or weak to a certain element! ...  
+Hamish: Traditionally, druid rods focus on ice or earth damage, whereas sorcerer wands deal death, fire or energy damage. Here on Dawnport, the druids deal ice damage with their chiller, while the sorcerers wield the fire-dealing scorcher. ...  
+Player: potion  
+Hamish: Great stuff. Potions will instantly refill something of your health or mana, which makes them very useful in a tight corner during a fight! ...  
+Hamish: But you should always leave some capacity to carry your loot - loot can be made into gold to buy even more potions and stuff! <grins> ...  
+Hamish: There are three kinds of potions in Tibia. Health and mana potions are the most frequently used, and can be used by everyone. ...  
+Hamish: Then there's the spirit potion, which only very experienced paladins can use, to refill their holy magic powers. But that's for much later! ...  
+Hamish: Here on Dawnport, I offer mana potions as well as small health potions and normal health potions. That's all you need right now, so don't worry. You will be able to purchase bigger mana and health potions in shops on the mainland, of course.  
+Player: rune  
+Hamish: Runes become very important for magic users later on. Knights are not really talented at using runes, and paladins are average at them - but they don't need to, the sturdy fellows! ...  
+Hamish: A rune is like a stone that stores a specific magic spell. Most runes require a certain magic level to be cast, so the more you train your magic level, the more runes you will eventually be able to use. ...  
+Hamish: There are different kinds of runes. Some are aggressive and deal area damage, some target a single victim, while others are healing runes, and some do other stuff as well - you will learn about them on the mainland as you grow more experienced. ...  
+Hamish: Here at my store, you can buy runes that store specific spells, which is all you need at the beginning. Later on, you can use a blank rune to store a spell in it that you have learned, and then cast it. ...  
+Hamish: When you go out hunting, try to cast a rune on a monster to see what it does! If you're short on runes, come and buy them here at my place. Just say trade and I'll show you my stock.  
+Player: mana  
+Hamish: That's the magic energy. Each magic spell costs mana and will decrease your energy, but your mana storage slowly refills itself as long as you eat. You can also use potions to fill up your mana instantly.  
+Player: fluid  
+Hamish: Ahah, you're a seasoned expert I see! But I'm sorry to say that life and mana fluids nowadays are no longer traded. However, we offer health and mana potions up to two sizes, just ask me for a trade.  
+Player: Coltrayne  
+Hamish: Never asked about his past. Seems it's a pretty gloomy one. But he's an excellent blacksmith and seems content enough with his work here.  
+Player: dawnport  
+Hamish: Small and deceptively friendly-looking island. Strange magical flows underground which seem to creep into certain herbs, like the Dawnfire herb. Well, I used to study the plants and herbs here for my potions. ...  
+Hamish: Nowadays I leave that to Oressa, she has a better way with the horrible wildlife here. Garamond and Mr Morris may have something more to say about the strange magical currents if you're curious; personally, I don't care. ...  
+Hamish: I prefer to distil potions in the quiet of my lab. If you need some potions, runes or other magic equipment, ask for a trade.  
+Player: Garamond  
+Hamish: Can be quite feisty if you doubt his seniorship. <snorts> Knows a thing or two about spells, though. Useful knowledge.  
+Player: key  
+Hamish: Again? I already told you everything I know about that key!  
+Player: Menesto  
+Hamish: Hah, I told him he should take a potion or two! But nooo, he's always so sure of himself. Huh. Well, you'd better tell Oressa to patch him up, then.  
+Player: quest  
+Hamish: Oh, you are looking for a quest or some such? Then you should talk to Mr Morris upstairs. He's planning quests and such and never has the time to do them all himself. He'll be glad to have help.  
+Player: Inigo  
+Hamish: Inigo taught me a trick or two since I joined Mr Morris' little crowd. Quite a nice old chap who's seen much of the world and knows his way around here. You should definitely ask him if you need help.  
+Player: Morris  
+Hamish: If it wasn't for Mr Morris, maybe none of us would be alive. Or at least, none of us would be here. He's been everywhere and gathered some adventurers around him to investigate the secrets of Dawnport.  
+Player: Oressa  
+Hamish: Our druid, down in the temple. Just appeared out of the blue one day. Keeps to herself. She must have some reason to stay with us rather than roam the bigger mainland. Well, we all have our reasons.  
+Player: Plunderpurse  
+Hamish: Now there's someone who has lived life to the full! Don't know though whether I should really believe that he's a clerk now.  
+Player: Richard  
+Hamish: Seems good-natured enough a guy. Nimble with his hands, be it cooking or carpentering. Seems to want to keep his mind off something, so he's always busy fixing stuff or cooking something up.  
+Player: rookgaard  
+Hamish: Nope. Doesn't sound familiar.  
+Player: spell  
+Hamish: To learn magic spells, you have to visit a spell trainer. There are spell trainers in every city on the mainland. Here on Dawnport, you can try out some spells for free at Garamond or Tybald.  
+Player: Tybald  
+Hamish: I wish I had thought of changing my name to that of a hero. Would have smoothed my way no end! ...  
+Hamish: Anyway, whatever he was before he joined, Tybald now fits the bill of the legendary hero. He even has a crush on lady Oressa. Cute. <chuckles>  
+Player: Wentworth  
+Hamish: Keeran? He's a bit like Plunderpurse's shadow, isn't he? Loves numbers, but I believe underneath it all he always wanted to break out of his boring little job in the city.  
+Player: main  
+Hamish: Dawnport is not far off from the coast of the Tibian mainland. Lots of cities, monsters, bandits, brigands, mean folk and people of low understanding with no sense of respect towards alchemical genius. <mutters to himself> ...  
+Hamish: Ahem. Once you're level 8, you should be experienced enough to choose your definite vocation and leave Dawnport for the mainland - and Tibia definitely needs more skilled adventurers to keep those monsters in check which roam our lands!  
+Player: Tibia  
+Hamish: Did you spend your life in a cave? Tibia is the world we live in. Made by the gods, populated with all sorts of monsters, evildoers, demons, etc. ...  
+Hamish: It's a huge and ancient world, and there's still more to be discovered. Still we find new islands, news kinds of people and monsters every year - and we really need adventurers like you to venture out there and defend Tibia against evil.  
+Player: offer / sell / buy  
+Hamish: Why yes! Ask me for a trade to see my wares.  
+Player: trade  
+Hamish: Take your pick! Or maybe you want to look only at potions, wands or runes?  
+Player: vocations  
+Hamish: A profession or destiny that every adventurer in Tibia has to choose for himself once they reached level 8. There are four vocations - knight, druid, paladin or sorcerer. ...  
+Hamish: Every vocation has specific skills and advantages to slay the evil monsters that roam the Tibian lands. Choosing your vocation will shape your skills and adventuring life forever. ...  
+Hamish: If you want to know more or when you have decided on your definite vocation, then you should talk to Oressa. She can send you on your way.  
+Player: bye / farewell  
+Hamish: Use your runes wisely!  

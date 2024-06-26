@@ -1,0 +1,47 @@
+Player: (idle)
+Lee'Delle: No need to run from shop to shop, my place is all that's needed!
+Lee'Delle: Buy and sell everything you want here!
+Lee'Delle: Special offers for premium customers!
+Lee'Delle: Ask me if you need help!
+Player: Hi  
+Lee'Delle: Hello, hello, Player! Please come in, look, and buy!  
+Player: Help  
+Lee'Delle: I am already helping you by selling stuff.  
+Player: Stuff  
+Lee'Delle: I sell equipment of all kinds. Just ask me about the type of wares you are interested in.  
+Player: Wares / Offer  
+Lee'Delle: I sell weapons, shields, armor, helmets, and equipment. For what do you want to ask?  
+Player: Weapons  
+Lee'Delle: I sell spears, rapiers, sabres, daggers, hand axes, axes, and short swords. Just tell me what you want to buy.  
+Player: Shield  
+Lee'Delle: I sell wooden shields and studded shields. Just tell me what you want to buy.  
+Player: Armors  
+Lee'Delle: I sell jackets, coats, doublets, leather armor, and leather legs. Just tell me what you want to buy.  
+Player: Helmets  
+Lee'Delle: I sell leather helmets, studded helmets, and chain helmets. Just tell me what you want to buy.  
+Player: Equipment  
+Lee'Delle: I sell torches, bags, scrolls, shovels, picks, backpacks, sickles, scythes, ropes, fishing rods and sixpacks of worms. Just tell me what you want to buy.  
+Player: Job  
+Lee'Delle: I am a merchant, so what can I do for you?  
+Player: Name  
+Lee'Delle: My name is Lee'Delle.  
+Player: Time  
+Lee'Delle: It is about 0:00 am. I am so sorry, I have no watches to sell. Do you want to buy something else?  
+Player: Tibia  
+Lee'Delle: The continent is even more exciting than this isle!  
+Player: Sell  
+Lee'Delle: I sell much. Have a look at the blackboards for my wares or just ask.  
+Player: Mission / Quest / Flowers  
+Lee'Delle: I really love flowers. Sadly my favourites, honey flowers are very rare on this isle. If you can find me one, I'll give you a little reward.  
+Player: Honey flowers  
+Lee'Delle: Honey flowers are my favourites <sigh>.  
+Player: Dungeon  
+Lee'Delle: be carefull down there. Make sure you bought enough torches and a rope or you might get lost.  
+Player: Monsters  
+Lee'Delle: There are plenty of them. Buy here the equipment to kill them and sell their loot afterwards!  
+Player: Thais  
+Lee'Delle: Thais is the capital of the thaian empire.  
+Player: Dallheim  
+Lee'Delle: He is a great warrior and our protector.  
+Player: Bye  
+Lee'Delle: Bye, bye.  

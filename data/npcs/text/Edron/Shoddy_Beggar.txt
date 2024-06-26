@@ -1,0 +1,38 @@
+Player: hi / hello  
+Shoddy Beggar: What do you want? Listen to the old madman? If you have nothing to spare, leave me alone.  
+Player: army  
+Shoddy Beggar: Soldiers... learning ways to fight monsters instead of fighting to learn the way to the root of all this evil.  
+Player: Edron  
+Shoddy Beggar: I thought this was the city of knowledge, arts and exploration. Instead I found this academy full of... *mumbles*  
+Player: Excalibug  
+Shoddy Beggar: I heard about the legend, but I don't know how much of it is actually true.  
+Player: job  
+Shoddy Beggar: Are you kidding me? Do I look like a... well, we'd better change the topic.  
+Player: King / Tibianus  
+Shoddy Beggar: Tibianus? What is a king measured against a scientist? What is wealth measured against wisdom?  
+Player: name  
+Shoddy Beggar: My name is... not of your concern.  
+Player: news / rumors / rumours  
+Shoddy Beggar: Every day is the same in the streets.  
+Player: Sea  
+Shoddy Beggar: Ah, the sea of light... we are surrounded by it. It holds the secrets of our very existence, the meaning of - ah you wouldn't even understand.  
+Player: Spectulus / astronomer  
+Shoddy Beggar: Pah, he thinks he knows what holds the world together - in fact he's just as clueless as the rest of the academy. *mumbles*  
+Player: Tibia  
+Shoddy Beggar: It is but one world in an endless sea of light.  
+Player: time  
+Shoddy Beggar: Must be about 12:43 am.  
+Player: mission / quest / spare  
+Shoddy Beggar: Hmm, if you can spare one gold... we can talk. What do you say?  
+Player: yes  
+Shoddy Beggar: Very kind indeed. Maybe you are not such a bad guy after all. Maybe I can even give it back to you one day... you know I was not always like that *mumbles*.  
+Player: mission / quest / spare  
+Shoddy Beggar: Hmm, if you can spare one gold... we can talk. What do you say?  
+Player: yes  
+Shoddy Beggar: Is that all you have? That would be less than I have... *mumbles*  
+Player: mission / quest / spare  
+Shoddy Beggar: Hmm, if you can spare one gold... we can talk. What do you say?  
+Player: no  
+Shoddy Beggar: Mean, heartless... go and leave me be.  
+Player: bye  
+Shoddy Beggar: Yes, whatever.  

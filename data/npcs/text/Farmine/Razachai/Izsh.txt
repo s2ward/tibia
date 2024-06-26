@@ -1,0 +1,6 @@
+Player: hi
+Izsh: Greetingz zcalelezz being. I guezz you are on a mizzion.
+Player: <any word>
+Izsh: Buzy, buzy, alwayz buzy. Pleaze leave me alone if you have no buzinezz here.
+Player: bye
+Izsh: Good Bye.

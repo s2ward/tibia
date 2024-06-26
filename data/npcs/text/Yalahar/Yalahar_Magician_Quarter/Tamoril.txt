@@ -1,0 +1,96 @@
+Player: hi  
+Tamoril: Another pesky mortal who believes his gold outweighs his nutrition value.  
+Player: job  
+Tamoril: I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful.  
+Player: name  
+Tamoril: My real name is not pronounceable for a human.  
+Player: mortal / human  
+Tamoril: You puny mortals are an annoyance. However, the little magic your simple minds are able to comprehend earns me enough money not to kill you.  
+Player: gold / money  
+Tamoril: I share some of my eternal knowledge of spells with you humans ... for a price of course. You should be grateful.  
+Player: yalahar  
+Tamoril: The city is dying. It is mortal just like you and for this reason, it is insignificant. I will still be around when this city is long forgotten.  
+Player: dragon  
+Tamoril: Dragons are the most powerful creatures of the world. Every year, we gain more and more power. ...  
+Tamoril: Hardly anyone of us dies of old age. Instead we find death by diseases brought to our race by you mortal pests, and countless of my younger brethren and sisters have been slaughtered by humans. ...  
+Tamoril: Expect little from me mortal. And even for that little, you will have to pay dearly.  
+Player: magic  
+Tamoril: What you call magic is only a pale shadow of real magic. The more you try, the more magic will retreat from you. ...  
+Tamoril: To us dragons magic comes natural. It is a part of us, and not a tool we have to learn to control like you do.  
+Player: Spells  
+Tamoril: I can teach you rune spells and instant spells. What kind of spell do you wish to learn? You can also tell me for which level you would like to learn a spell, if you prefer that.  
+Player: yalahari  
+Tamoril: They are strange beings at best. If I had any interest in mortals, I might be curious. Regardless of what they claim, they smell of mortality.  
+Player: alchemist quarter  
+Tamoril: I'm not surprised about the things that happened there. Humans are unable to handle the higher forces.  
+Player: magician quarter  
+Tamoril: Another bunch of humans who dabbles in the arcane arts to become godlike beings.  
+Player: alchemist quarter  
+Tamoril: I'm not surprised about the things that happened there. Humans are unable to handle the higher forces.  
+Player: factory quarter  
+Tamoril: You humans are unable to live on your own. You rely on your little tools and protection. Your sheer inferiority makes me sick.  
+Player: sunken quarter  
+Tamoril: That was only the beginning. I will be there when everything comes to an end.  
+Player: foreign quarter  
+Tamoril: A museum of races who will sooner or later be wiped out.  
+Player: arena quarter  
+Tamoril: Sometimes I fly there for some exercise.  
+Player: trade quarter  
+Tamoril: I'm not interested in your human quarrels.  
+Player: gods / banor  
+Tamoril: Gods are of no use for us dragons. One day, a dragon will become old and powerful enough to destroy all gods. Fear that day mortal, from then on the age of the dragons will have begun.  
+Player: animate dead  
+Tamoril: Do you want to learn the spell 'Animate Dead Rune' for 1200 gold?  
+Player: no / yes  
+Tamoril: Then not.  
+Tamoril: Here you are. Look in your spellbook for the pronunciation of this spell.  
+Player: blood crystal  
+Tamoril: If I had one, I'd surely add it to my treasure and not give it to you.  
+Player: trade  
+Tamoril: I usually prefer to plunder instead of a fair trade. However, I have enough gold and could use some more shiny valuables.  
+Player: the first dragon
+Tamoril: The First Dragon? The first of all of us? The Son of Garsharak? I'm surprised you heard about him. It is such a long time that he wandered Tibia. Yet, there are some rumours.
+Player: Garsharak
+Tamoril: Brog the Raging Titan once released as much of a painful flame into the world as he could. The searing fire mixed with his rage, and from it rose Garsharak, the progenitor of all dragons. ...
+Tamoril: He sired the first dragon that wandered the world of Tibia and later a whole race of intelligent, giant lizards, a race that would eventually bring terror and chaos into the world.
+Player: rumours
+Tamoril: It is told that the First Dragon had four descendants, who became the ancestors of the four kinds of dragons we know in Tibia. They perhaps still have knowledge about the First Dragon's whereabouts - if one could find them.
+Player: descendants
+Tamoril: The names of these four are Tazhadur, Kalyassa, Gelidrazah and Zorvorax. Not only were they the ancestors of all dragons after but also the primal representation of the draconic incitements. About whom do you want to learn more?
+Player: Tazhadur
+Tamoril: He was the firstborn among the four, the primal dragon, the kind so many of you know. He saw no advantage in choosing any special aspect or element. So he became the ancestor of all common dragons. These days he's hiding in a secret lair.
+Player: Kalyassa
+Tamoril: She was Tazhadur's younger sister, lofty and imperious. She declared herself a dragon empress and thus became the ancestress of all dragon lords. These days she's hiding in a secret lair
+Player: Gelidrazah
+Tamoril: She was also called the Frozen because she chose to inhabit the icy wastes in the north of Tibia, today known as Svargrond. She is the ancestress of the frost dragons. These days she's hiding in a secret lair
+Player: Zorvorax
+Tamoril: He was once a dragon of air and storm. But he chose undeath and transformed himself into an undead dragon. And thus all his children became undead monstrosities, too. These days he's hiding in a secret lair
+Player: secret
+Tamoril: What didn't you understand about the word secret, little human? What do you want to do, if you know about these mighty dragons' abodes? Go there and look for a fight?
+Player: descendants
+Tamoril: The names of these four are Tazhadur, Kalyassa, Gelidrazah and Zorvorax. Not only were they the ancestors of all dragons after but also the primal representation of the draconic incitements. About whom do you want to learn more?
+Player: draconic incitements
+Tamoril: Each kind of dragon has its own incitement, an important aspect that impels them and occupies their mind. For the common dragons this is the lust for power, for the dragon lords the greed for treasures. ...
+Tamoril: The frost dragons' incitement is the thirst for knowledge and for the undead dragons it's the desire for life, as they regret their ancestor's mistake. ...
+Tamoril: These incitements are also a kind of trial that has to be undergone if one wants to find the First Dragon's four descendants.
+Player: power
+Tamoril: The lust for power is connected to the urge to kill and the delight in bloodshed. This trial means to kill two hundred dragons. Only if you do this you will be able to enter Tazhadur's secret lair.
+Player: treasures
+Tamoril: The greed for treasures is connected to the hoarding of gold and the seeking for gems. This trial means to find at least five ancient dragon hoards spread all over this world. Only if you do this you will be able to enter Kalyassa's secret lair.
+Player: hoards
+Tamoril: If I knew where they are any efforts to find them would be futile. In this case the treasures would be here in my hoard. But no, unfortunately I don't know. I guess an old book about dragon hoards exists in some library. But I don't remember the place.
+Player: knowledge
+Tamoril: The thirst for knowledge is connected to learning and the love for ancient myths. This trial means to answer some questions. I don't know anything about these questions. ...
+Tamoril: I assume you will learn more about them when you find the portal to the secret lair. Only if you can answer the questions you will be able to enter Gelidrazah's lair.
+Player: life
+Tamoril: The desire for life is connected to the restlessness of undeath and the longing for days long lost. This trial means to visit three places connected to the power of living. Only if you do this you will be able to enter Zorvorax' secret lair.
+Player: living
+Tamoril: I never thought about it, little human. Perhaps it could be something connected to the elves. Or a druidic site. Or maybe it is something symbolic. Like water in the desert, that kind of romantic stuff.
+Player: find
+Tamoril: What do you want to do, if you know about these mighty dragons' abodes? Go there and look for a fight?
+Player: no
+Tamoril: Hrhrhr, I thought so, cowardly little human. (idle)
+Player: yes
+Tamoril: Good luck then.
+Player: bye  
+Tamoril: Come back if you dare, Player.  

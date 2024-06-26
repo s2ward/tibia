@@ -1,0 +1,32 @@
+Player: hi
+Miraia: Daraman's blessings, Simula. Welcome to the Enlightened Oasis. Sit down, have a drink or some food!
+Player: name
+Miraia: My name is Miraia.
+Player: job / tavern
+Miraia: I am the owner of this tavern, this oasis for the thirst, home of shadow and relaxation.
+Player: time
+Miraia: Don't worry about time right now.
+Player: offer / buy / sell
+Miraia: I can offer you food and drinks. If you'd like to see my offers, ask me for a trade.
+Player: drink
+Miraia: I can offer you lemonade, camel milk, and water. If you'd like to see my offers, ask me for a trade.
+Player: food
+Miraia: Are you looking for food? I have bread, cheese, ham, and meat. If you'd like to see my offers, ask me for a trade.
+Player: caliph / kazzan
+Miraia: Sadly the caliph does not visit this humble place.
+Player: news / rumor / rumour
+Miraia: Oh, just listen to the tales told by the other visitors.
+Player: tibia
+Miraia: Here we are far away from the temptations of the world.
+Player: thais
+Miraia: Thais is a place of evil and corruption.
+Player: carlin
+Miraia: At least they shun alcohol over there.
+Player: ferumbras
+Miraia: Travellers talked to me about his evilness. Thrice damned be his name.
+Player: excalibug
+Miraia: Some foolish adventurers seek for it in the haunted ruins of Drefia.
+Player: frodo
+Miraia: He's my cousin and lives in Thais.
+Player: bye
+Miraia: Daraman's blessings. Come back soon.

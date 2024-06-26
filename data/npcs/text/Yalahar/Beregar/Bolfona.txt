@@ -1,0 +1,42 @@
+Player: (idle)
+Bolfona: You consider yourself superior? Let me show you the drinking skills of a female dwarf.
+Bolfona: YES, I'm female. Got a problem with that?!?
+Bolfona: Come on guys, have a drink.
+Player: hi  
+Bolfona: Are you talking to me? Well, go on chatting but don't expect an answer.  
+Player: beer / chocolate cake  
+Bolfona: Did you hear something about old Borre? Haven't seen him for a while.  
+Player: beregar / rehal  
+Bolfona: These 20 hour shifts kill me.  
+Player: buy / shop  
+Bolfona: If you pay for it, no problem.  
+Player: chatting / tavern  
+Bolfona: I am not sure if I'd like to trade with you.  
+Player: druid / sell  
+Bolfona: I told you 1000 times, it's because of the mushrooms. They grow faster and so the flavour of the mushroom beer is better!  
+Player: dwarf / emperor  
+Bolfona: Guys, I have a good one. Do you know the term for a foolish, tall being that roams through Beregar? ....It's a HUMAN! Hahahaha!  
+Player: food / meat  
+Bolfona: Have you heard the rumours about that other dwarven city?  
+Player: Grombur  
+Bolfona: I'll give a good thrashing to the next lucky dwarf who spills beer on my counter. Understand?!  
+Player: ham / paladin  
+Bolfona: Bad?!? It was your 13th beer today!!!  
+Player: job  
+Bolfona: I'm standing behind the counter in a tavern. What do you think I'm doing?  
+Player: kazordoon / quest  
+Bolfona: Hey Drog, have you been in the mines when that rotworm attack took place?  
+Player: knight / sorcerer  
+Bolfona: You still owe me 2000 gold from our last game.  
+Player: woman / female  
+Bolfona: I THINK YOU NEED A GOOD SPANK FROM A WOMAN, HUH?!  
+Player: man / male  
+Bolfona: WHAT DID YOU JUST SAY?!?  
+Player: mine / offer  
+Bolfona: Drog, your next beer is on its way!  
+Player: name  
+Bolfona: Who are you that you are interested in a dwarf woman?!? Pick someone of your own kind.  
+Player: trade  
+Bolfona: Oh well, you don't seem to be THAT bad. What do you want?  
+Player: bye  
+Bolfona: Good news!  

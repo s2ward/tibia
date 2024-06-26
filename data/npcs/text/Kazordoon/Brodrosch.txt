@@ -1,0 +1,43 @@
+NPC: Brodrosch  
+Player: hi / hiho / hello  
+Brodrosch: Welcome, Player! May Earth protect you, even whilst sailing! Need a passage or a ticket for the ore wagon system here?  
+Player: ab'dendriel / carlin venore / thais / darama / darashia / folda / vega / senja / ice islands / liberty bay / port hope / svargrond / yalahar  
+Brodrosch: This is a steamship that travels only subterraneously. No way to get on that risky ocean.  
+Player: beer  
+Brodrosch: Sometimes being drunk means seeing two rivers. I survive by steering right between them.  
+Player: buy / sell  
+Brodrosch: This is not a shop, damn it!  
+Player: captain  
+Brodrosch: Of course, I am the captain. But I am also a technomancer.  
+Player: cormaya  
+Brodrosch: So you want to go to Cormaya? 150 gold?  
+Player: dwarf  
+Brodrosch: Deep inside, we're all dwarfs.  
+Player: farmine  
+Brodrosch: Would you like me to take you to Farmine for 200 gold?  
+Player: gurbasch  
+Brodrosch: Ah, my brother in Cormaya. He also steers steamships.  
+Player: inventions / inventors  
+Brodrosch: Yes. There could have been thousands of our inventions, if they wouldn't explode all the time...  
+Player: job / work  
+Brodrosch: Look at my blackened beard? I'm the steamship captain!  
+Player: kazordoon  
+Brodrosch: Hey, we ARE at Kazordoon! Must be the cave madness...  
+Player: name  
+Brodrosch: I am Brodrosch Steamtrousers, son of the Machine, of the Molten Rock.  
+Player: passage  
+Brodrosch: Where do you want me to take you? To Cormaya or to Farmine?  
+Player: poem  
+Brodrosch: Sorry, too busy with caring for my machines!  
+Player: ship  
+Brodrosch: This is a great ship. Ha! It works without wind but with fire, and it travels not on the ocean but beneath the earth!  
+Player: technomancer  
+Brodrosch: Being a technomancer is a privilege few dwarfs have. We form earth and fire through powerful technology into tools. Also, we are great inventors.  
+Player: thorgrin  
+Brodrosch: He's a distant cousin.  
+Player: tibia  
+Brodrosch: Tibia? Just don't ask.  
+Player: ticket / ore wagon / ride / travel  
+Brodrosch: Your weekly ticket is still valid. Would be a waste of money to purchase a second one.  
+Player: bye / farewell  
+Brodrosch: Earth under your feet ... it's still better than lava.  

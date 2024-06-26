@@ -1,0 +1,102 @@
+Player: hi
+Klaus: Ho matey!
+Player: name
+Klaus: I'm Klaus.
+Player: job / matey
+Klaus: I keep up morale by running this tavern for the pirate crews. I also love to gamble when I have the chance.
+Player: pirate
+Klaus: Ah, the romantic life of a pirate. Fish for breakfast, storms for lunch and an early death for supper. Har Har Har.
+Player: rum
+Klaus: There are people who would kill you for rum. Then again there are people who would kill you anyway.
+Player: treasure map
+Klaus: I've already given you the complete map. Now you're on your own, matey.
+Player: isolde
+Klaus: That was the name of my fifth wife. Or was it the sixth?
+Player: tristan
+Klaus: A typical Thaian knight - thick as two short planks. Har Har.
+Player: chondur
+Klaus: Some evil voodoo magician.
+Player: theodore loveless
+Klaus: It is dangerous to get on his bad side.
+Player: governor
+Klaus: As far as I've heard, he loves to party. But you don't know anything about a real party unless you've been to a pirate one. Har Har Har.
+Player: king
+Klaus: If I were the king, I'd fill my court with the most beautiful women of the realm. Har Har Har.
+Player: pirate
+Klaus: Ah, the romantic life of a pirate. Fish for breakfast, storms for lunch and an early death for supper. Har Har Har.
+Player: liberty bay
+Klaus: We have a kind of trade agreement. They make the rum and we plunder it. Har Har Har.
+Player: thais
+Klaus: The Thaian people see themselves as the rulers of the world. If they only knew ... Har Har Har.
+Player: venore
+Klaus: The Venoreans are the power of the future, trust me.
+Player: carlin
+Klaus: A city that is run by women. And those wimps in Thais have still not been able to regain control. Har Har Har.
+Player: wyrmslicer
+Klaus: He should really get rid of Striker and his men and save us the job of doing it.
+Player: raymond striker
+Klaus: Sooner or later he will run out of luck and then we will have his head.
+Player: cult
+Klaus: Yeah, I heard the fools in Liberty Bay began to worship some Quara God or something like that.
+Player: quara
+Klaus: They are good competition. If people start to fear them more than us, we know we are doing something wrong. Har Har Har.
+Player: voodoo
+Klaus: Shut up before I cut your tongue out.
+Player: natives
+Klaus: They are the sheep and we are the wolves of the sea. Har Har Har.
+Player: ferumbras
+Klaus: Dead magicians are only good for frightening little children. Har Har Har.
+Player: excalibug
+Klaus: I guess it would come in handy to open some casks. Har Har Har.
+Player: logbook / book (after mission)
+Klaus: Alright, what do you want to know about the story?
+Player: (any)
+Klaus: Don't know what to tell you about that.
+Player: nutty jack
+Klaus: Errrr.....yes....Nutty Jack, that crazy fish! He was......did I say 'was' I mean IS....errrr...Har har har....a very nice guy. I don't have a clue where he is living at the moment.
+Player: rapp scallion
+Klaus: You haven't found his body?! That doesn't surprise me. The clumsy fool probably fell into some mountain gorge. Har har.
+Player: captain nathaniel
+Klaus: You found him?! Ohh, he was a good Captain. I'd even go so far as to say he was the best.
+Player: treasure map (treasure hunt quest)
+Klaus: Ohhh, look what we got here! It's been a long long time since I last saw that map. Up for the big treasure, huh? I tell you what ...
+Klaus: I'm also have a part of that treasure map. Sooooo if you are interested I'll sell it to you for 5000 gold. What d'ya say?
+Player: yes
+Klaus: Alright, here you go. See that door behind me? You'll find my old Logbook there. Get it and read it. If you have any questions, just ask me.
+Player: logbook / book  
+Klaus: Alright what do you want to know about the story?
+Player: rapp scallion
+Klaus: He was the worst sailor I have ever met in my whole life. Fortunately, he realised it and traded the sea for the land. Wanted to open up a tavern where you don't have to wait at all. ...
+Klaus: He bought a house near the dwarf bridge but died before he could open his 'fast booze tavern'.
+Player: captain nathaniel
+Klaus: Last thing I heared he was in command of a really huge ship. People say it was destroyed in a seafight between Darama and Tiquanda. Maybe you'll find what's left of the ship washed up in one of the smuggler caves in the mountains.
+Player: treasure map (treasure hunt quest)
+Captain Waverider: This map seems to be very old, not like those fake maps that are all the rage nowadays. I know the spot on the map. It's not far from here. Do you want me to take you there?
+Player : mission (the shattered isles quest)
+Klaus: Hmm, you look like a seasoned seadog. Kill Captain Ray Striker, bring me his lucky pillow as a proof and you are our hero!
+Player : mission
+Klaus: Do you have Striker's pillow?
+Player : yes
+Klaus: You DID it!!! Incredible! Boys, lets have a PAAAAAARTY!!!!
+Player: dice / gamble / game
+Klaus: So, care for a game of dice?
+Player: no
+Klaus: Oh come on, wat are you scared of?
+Player: yes
+Klaus: Want to play for money or for a chance to win your own die?
+Player: money
+Klaus: Har Har Har. Okay, I roll a die. If I roll a 6, you get five times your bet. How much do you want to bet?
+Player: 99
+Klaus: Ok, here we go ... 5! You lost. Your loss, my gain! Har Har Har. One more game?
+Player: 99
+Klaus: Ok, here we go ... 6! You have won 495 gold pieces, hrmph. Want to play again?
+Player: dice
+Klaus: Har Har Har. Good choice. Okay, the price for this game is 100 gold pieces. I roll a die. If I roll a 6, you can have my die. Agreed?
+Player: yes
+Klaus: Ok, here we go ... 2! You have lost. Bad luck. Har Har Har. One more game?
+Player: yes
+Klaus: Ok, here we go ... 6! You have won my die, hrmph. Want to take your chances again?
+Player: bye
+Klaus: Whenever your throat is dry, you know where to find my tavern.
+Player: (vanish)
+Klaus: A typical pirate.

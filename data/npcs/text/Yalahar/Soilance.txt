@@ -1,0 +1,44 @@
+Player: hi  
+Soilance: Hi, Player. I assume you are here for a good old trade.  
+Player: trade  
+Soilance: Of course, take a look at the great food I sell.  
+Player: rotworm  
+Soilance: They are .. uhm just there to get rid of the garbage. Don't pay them any attention.  
+Player: meat  
+Soilance: I .. import that meat from several sources which I cannot reveal for the safety of my small profit.  
+Player: yalahar  
+Soilance: The city has some severe problems. Thanks to me the supply of meat is a smaller problem, though.  
+Player: yalahari  
+Soilance: I haven't even seen one in my life.  
+Player: palimuth  
+Soilance: He should care more about the city instead of harassing innocent traders like me.  
+Player: food  
+Soilance: I offer ham or meat. If you'd like to see my offers, ask me for a trade.  
+Player: alchemist quarter  
+Soilance: They shouldn't allow anyone to go there at all. If they do, they risk the spreading of the plague in the rest of the city.  
+Player: trade quarter  
+Soilance: I have an agreement with Mr. West which provides that I supply his people with meat.  
+Player: sunken quarter  
+Soilance: They used to fish there a lot, but fish seems to become quite rare lately. Luckily, I provide the city with delicious meat!  
+Player: magician quarter  
+Soilance: I heard nothing good about this quarter.  
+Player: foreign quarter  
+Soilance: Those barbaric monsters have no taste at all.  
+Player: trade quarter  
+Soilance: I have an agreement with Mr. West which provides that I supply his people with meat.  
+Player: ware / buy / sell / offer / stuff / goods  
+Soilance: I offer ham or meat. If you'd like to see my offers, ask me for a trade.  
+Player: vampire  
+Soilance: They are rather scary. I wish those attacks would stop.  
+Player: arena quarter  
+Soilance: The creatures in the arena are lean and their meat tastes stale. Nothing like the meat I'm selling!  
+Player: blood crystal  
+Soilance: No, haven't heard about that.  
+Player: cookies  
+Soilance: No, I don't sell cookies. And I don't want to buy any either. This is a MEAT store!  
+Player: factory quarter  
+Soilance: The people there are way too poor to buy anything, so they better stay away from my store.  
+Player: job  
+Soilance: I supply this part of the city with meat.  
+Player: farewell / bye  
+Soilance: You'll come back when you are hungry enough.  

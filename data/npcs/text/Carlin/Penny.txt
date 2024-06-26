@@ -1,0 +1,20 @@
+Player: Hello / Hi  
+Penny: Welcome home, Sir/Lady Player.  
+Player: <vanish>  
+Penny: Wait... will you take me a diamond when you're back?  
+Player: Bye / Farewell  
+Penny: Farewell, and may Justice be with you!  
+Player: Name  
+Penny: I am miss Penny, your secretary.  
+Player: Penny  
+Penny: Yep, Penny's my name. You seem to be as smart as you're talkative.  
+Player: Job  
+Penny: I'm a secretary. I'm organising all those papers and your mail.  
+Player: Criminal / Record / Paper  
+Penny: <Sigh> It's an evil world, isn't it?  
+Player: Mail  
+Penny: You can get a letter from me.  
+Player: Letter  
+Penny: Here you are.  
+Player: ?  
+Penny: Don't stare at me.  

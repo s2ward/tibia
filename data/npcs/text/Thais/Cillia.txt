@@ -1,0 +1,18 @@
+Player: hi / hello  
+Cillia: Welcome to the Prize Exhibition. I offer tickets for 50 gold as well as replica of certain old weapons. The special exhibition is for free.  
+Player: name  
+Cillia: I'm Cillia, actually it is CEcillia!  
+Player: time  
+Cillia: It's 5:20 pm right now.  
+Player: job  
+Cillia: I sell tickets for the exhibition here. I also sell some replica items.  
+Player: replica  
+Cillia: I have dozens of wonderful replica of strong weapons. Take a look at them.  
+Player: ticket  
+Cillia: So, do you want to buy a ticket?  
+Player: yes  
+Cillia: And here we go!  
+Player: special  
+Cillia: This is a new section of the museum. It is dealing with different landscapes from all over Tibia. Enjoy it, it's for free! The entrance is over there between the two pillars.  
+Player: bye / farewell  
+Cillia: Good bye and enjoy your stay Player.  

@@ -1,0 +1,79 @@
+Player: hi
+Nor: Get lost before I call the guards.
+Player: guards / how are you
+Nor: Thanks to you making small talk here, I certainly get killed.
+Player: name
+Nor: If you have to ask, you should not know it.
+Player: job
+Nor: I'm hunting and fighting like everyone else in the tribes.
+Player: sell
+Nor: We have little more than we need to survive. The chieftains and the witch take care that we don't have anything too much that we could sell.
+Player: shamans
+Nor: Our few shamans are directly responsible to the ice witch. They are only allowed to learn things that she teaches them.
+Player: druids
+Nor: Those druids from the far away lands are strange people. But as long as they help against the ice witch I don't care much.
+Player: raiders
+Nor: My people are a bit rougher than those you meet in Svargrond but our leaders are responsible for all the cruelty and bloodthirst.
+Player: barbarian
+Nor: It's a sad thing our people split up. With each year passing, we drift more apart from each other.
+Player: yeti
+Nor: The yetis are real. I've seen them. Yes, I was drunk but I got sober by the shock over their sight. I barely escaped with my life.
+Player: bonelord
+Nor: Such strange creatures surely exist only in legends.
+Player: chakoya
+Nor: The chakoyas are murderous beasts that raid the lands when the summer is unusually warm.
+Player: elf
+Nor: This magic people are rare in our lands. They seem so fragile. I don't think they could survive here.
+Player: dwarf
+Nor: I heard those little people are fierce fighters. Perhaps they are related to the chakoyas.
+Player: dragons
+Nor: Most dragons stay on some remote isle far in the seas. It's a rare occurrence to meet one here.
+Player: monster
+Nor: You'll find surely enough of them if you're looking around a bit.
+Player: enemies
+Nor: I think our worst enemy is that witch that rules our tribes.
+Player: carlin
+Nor: Most of my people blame Carlin for all misery but I know it was the ice witch that is responsible for all our problems.
+Player: thais / venore
+Nor: That's some far away place.
+Player: port hope / edron
+Nor: I never heard about this place.
+Player: camps
+Nor: We have 3 major camps. This is the biggest one of them.
+Player: nibelor
+Nor: I think the ice witch fears the powers of Nibelor. Else she had already sent her forces to kill the shamans there.
+Player: Svargrond
+Nor: I would feel uncomfortable in such a so-called city. However, over the years some of our camps have grown to a size that easily resemble a city.
+Player: witch / ice shaman
+Nor: That witch Yakchal is old but looks young. She is responsible that our people split up when they started to build Svargrond. She's still around after all those years ...
+Nor: Only occasionally she visits us in person. Most times she just calls the chieftains to her lair that's hidden somewhere in the mountains.
+Player: join / honourary
+Nor: I heard that the jarl of Svargrond allows outsiders like you to become honourary barbarians. Such a thing is an outrage to our people .
+Player: leader
+Nor: Our chieftains rule our tribes only nominally. The true power lies in the hand of that cursed ice witch.
+Player: jarl
+Nor: The jarl is a good man. If we had such leaders here, we'd have gotten rid of this ice witch years ago.
+Player: king
+Nor: We have no use for such people in our lands.
+Player: queen
+Nor: The ice shaman behaves somewhat like a queen or even worse. It is her against whom I'm working, not my people.
+Player: cult
+Nor: Perhaps it was some cult that drove my people away from the mines. They used powerful magic and demons fought beside them.
+Player: mines
+Nor: The mines were our territory for some time. But strangers came with powerful magic and drove us away. After a few skirmishes, even the ice witch had to accept that we have not the power to recapture the mines.
+Player: everspring
+Nor: The afterlife is of no importance to the ice witch. It's the here and now we should care about.
+Player: chyll
+Nor: The north wind is almost forgotten by my people. The ice witch styles herself as a goddess. It's her we have to present our sacrifices.
+Player: year of the serpents
+Nor: I've never heard about it.
+Player: gods
+Nor: We have to take care of ourselves and can't rely on some gods.
+Player: zathroth / uman / banor
+Nor: I am not too familiar with your foreign gods.
+Player: ferumbras
+Nor: Sounds like he and the ice witch have some things in common.
+Player: excalibug
+Nor: Excaliwhat?
+Player: bye
+Nor: Yes, get lost.

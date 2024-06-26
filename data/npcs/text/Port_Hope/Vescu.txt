@@ -1,0 +1,48 @@
+Player: hi
+Vescu: Hey t-there, you look like someone who enjoys a good booze.
+Player: booze
+Vescu: Did I say booze? I meant, flamingo. <hicks> Pink birds are kinda cool, don't you think? Especially on a painting.
+Player: flamingo
+Vescu: You have to enjoy the word. Like, flayyyminnngoooo. Say it with me. <hicks>
+Player: flayyyminnngoooo
+Vescu: Yes, you got it! Hahaha, we understand each other. Good job. <hicks>
+Player: job
+Vescu: I'm a killer! Yeshindeed! A masterful assassin. I prefer that too 'Peekay'. <hicks>
+Player: assassin
+Vescu: <makes a dramatic gesture> Being an assassin brings big responsibility. Yeshindeed. <hicks>
+Player: name
+Vescu: <scratches head> Was it Vescu? Yes, that's it.
+Player: Erayo
+Vescu: He's my friend. <hicks> But for some reason, I never manage to get inside his house. <hicks>
+Player: Atrad
+Vescu: He's a pyromaniac. <hicks> And he gets angry fast.
+Player: sober
+Vescu: I wish there was like a potion which makes you sober in an instant. Dwarven rings wear off so fast. <hicks>
+Player: lizard
+Vescu: I once had a girlfriend c-called L-lizzie. She had s-scales too.
+Player: dragon
+Vescu: Have you ever wondered if a red dragon means 'stop' whereas a green dragon means 'go'?
+Player: eye
+Vescu: Do bonelord eyes continue blinking when they are seperated from the bonelord? That is a scary thought.
+Player: demon
+Vescu: I like d-demons. They are just as pretty as flamingos. But you need a blessed stake or something to get demon dust. <hicks>
+Player: fish
+Vescu: Not normal fish fins of course. We need <hicks> Quara fish fins. If you haven't h-heard about them, ask the - <hicks> - plorer society.
+Player: vampire
+Vescu: Don't you think vampires have something - <hicks> - romantic about them? I think you need a b-blessed steak though to turn them into d-dust.
+Player: addon
+Vescu: I can give you a <hicks> scar as an addon. Nyahahah.
+Player: outfit / secret
+Vescu: I don't think I can tell you any more s-secrets. Maybe my f-friends can. Visit Atrad and Erayo sometime <hicks>. Or old Samir the Daraman Plague Spire. <hicks>
+Player: blessed steak
+Vescu: Did I say steak? <hicks> Must be the hunger... I mean, blessed stake.
+Player: nutty
+Vescu: I'm not nuts!
+Player: responsibility
+Vescu: Yes, especially getting sober before going to work. <hicks>
+Player: scar
+Vescu: You don't understand a j-joke when bumped right into it, d-do you? <hicks>
+Player: sweat
+Vescu: If you can't sweat enough yourself, go ask a Djinn. They do - <hicks> magical <hicks> - tractions. Err, extractions.
+Player: bye
+Vescu: T-time for another b-beer. <hicks>

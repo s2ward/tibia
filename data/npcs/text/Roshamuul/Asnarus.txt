@@ -1,0 +1,53 @@
+Player: hi  
+Asnarus: Good day, Player. Ask me for a trade.  
+Player: trade  
+Asnarus: Sure, take a look. Or do you want to look merely at potions, runes or distance weapons?  
+Player: name  
+Asnarus: I am called Asnarus.  
+Player: Asnarus  
+Asnarus: That is my name.  
+Player: job  
+Asnarus: I am bound by my word to serve here as a trader. I will provide this service faithful for 111 years, as I vowed.  
+Player: word  
+Asnarus: I lost a game of chess to the chief inquisitor Henricus. By my word I am now bound to a service of 111 years.  
+Player: years  
+Asnarus: We Djinn are ageless and ancient. What is hundreds of years to me would be at most something about an hour for you, so I don't care much.  
+Player: djinn  
+Asnarus: We are a powerful embodiment of magic. We are so different from you humans that it's often hard to understand each other. Not that we'd care much. ...  
+Asnarus: Your puny, little ambitions are of little concern to us. Everything you strive to accomplish will be blown away like sand before the desert wind in a blink of a Djinn's eye. ...  
+Asnarus: Therefore we are as patient as we are wise. You humans, though, are nothing but a curiosity, and nothing that will endure like us.  
+Player: humans  
+Asnarus: Humans are so weak and fragile, so disconnected from the true world, which is magic and its flow. The most powerful of you may wield strong spells of destruction, yet they are still not connected to magic as we are.  
+Player: excalibug  
+Asnarus: A myth of humans to strive to be more than human, by the use of tools that bestow godly powers to them.   
+Player: dream  
+Asnarus: We Djinn do not dream as you mortals do. Therefore I don't fear to sleep; not that I need any sleep at all.  
+Player: demon  
+Asnarus: Fierce beasts, no better than the Efreet. You humans do well to fight them. They are vile and despicable, and I don't mind to be of some assistance in that fight, offering my service.  
+Player: Efreet  
+Asnarus: They are our bane and shame. Unless they see the light and begin to walk the right path, they are no better than the vile demons; yet they could be so much more. ...  
+Asnarus: It's to be blamed on us Djinn that we still fail to save our brethren from their evil ways.  
+Player: inquisition  
+Asnarus: An overly ambitious and childish undertaking to try to purge the world of evil. But even the least of us must play their part in the war against evil, even you humans.  
+Player: ferumbras  
+Asnarus: An upstart human, pretending to be an efreet. Disgusting, but nothing more.  
+Player: daraman  
+Asnarus: The prophet was surely more than a mere mortal. I sometimes meditate on his true nature. It's a pleasant enigma even to my mind.  
+Player: potion  
+Asnarus: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.  
+Player: isle  
+Asnarus: I never even heard about this place. I doubt any Djinn was aware that it existed, which is odd and disturbing. It is a place of evil for sure, even if it was not what the inquisition expected.  
+Player: fluid  
+Asnarus: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: deposit  
+Asnarus: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: no  
+Asnarus: Hmm, but please keep Tibia litter free.  
+Player: deposit  
+Asnarus: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: yes  
+Asnarus: Oof, I can only carry xxx empty flasks or vials at a time. I'll take the biggest flasks first, here you are ... xxx gold. Do you want to deposit more?  
+Player: yes  
+Asnarus: Here you are ... xx gold.  
+Player: bye  
+Asnarus: Bye.  

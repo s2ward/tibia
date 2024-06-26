@@ -1,0 +1,36 @@
+Player: hi
+Rock in a Hard Place: Everyone on this island has gone crazy! Except for me and you, it seems. Let's trade like normal people would.
+Player: name
+Rock in a Hard Place: No, you got it all wrong! I said I'm stuck between a rock and a hard place!
+Player: job
+Rock in a Hard Place: Have you noticed that I'm actually the only rock on this island with a proper job? Those lazy pebbleheads! I'm proud to announce: I'm a trader.
+Player: help
+Rock in a Hard Place: I can help you buy trading stuff with you. Good for me, good for you. It's a win-win!
+Player: rock
+Rock in a Hard Place: Oh no no no, don't name me in one sentence with those fools. I'm here, on my own little rock, and quite happy about that.
+Player: qjell / god
+Rock in a Hard Place: Can't we talk about something else? Why don't you tell me a little about the world outside of this island? I'm really tired of the local mythology.
+Player: deeplings
+Rock in a Hard Place: I find it rather scary that there are supposed to be creatures living on the bottom of the sea. Especially, you know, as a rock, once you're down, you can't get up anymore. That's why I prefer to stand a little higher. Just in case of a flood.
+Player: the hive
+Rock in a Hard Place: I can see a large hive from here, but obviously I can't go there. Not as if I wanted to. If I had skin, I could probably feel it tingly just thinking about insects.
+Player: insects
+Rock in a Hard Place: Well, by definition I guess not all of these creatures are even insects. I think a good term would be 'hiveborn'. But then again I'm just a stupid rock. What do I know?
+Player: heart of the sea
+Rock in a Hard Place: I don't have one for sale. Sorry.
+Player: coral
+Rock in a Hard Place: I once knew a girl named Coral. Pretty she was with her long red curls and pale skin. She would've rocked my world, but she never even looked at me. Now I rock my own world. You get it? Hahaha!
+Player: pits
+Rock in a Hard Place: I don't know anything about a pit. But if you find it and discover some treasures, I might buy them from you.
+Player: first visitor
+Rock in a Hard Place: Bah, ask one of the pebbles on the beach about that. What I can tell you is that YOU are not the first.
+Player: trade / sell
+Rock in a Hard Place: You would be surprised how many things are washed ashore here. I trade magic stuff, local equipment, weapons, armor, ammunition, post things and creature products.
+Player: magic stuff / local equipment / weapons / armor / ammunition
+Rock in a Hard Place: Here, have a look.
+Player: creature products
+Rock in a Hard Place: Actually I don't really know why I buy all this garbage. I think I just like trading and to have normal people keeping me company.
+Player: bye
+Rock in a Hard Place: Promise to come back sometime, will ya?
+Player: (vanish)
+Rock in a Hard Place: Hey! Don't leave me alone with all these lunatics!

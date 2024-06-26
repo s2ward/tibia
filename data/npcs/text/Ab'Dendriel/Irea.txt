@@ -1,0 +1,52 @@
+Player: hi / ashari
+Irea: Ashari Player, welcome to the distance and spell store.
+Player: name
+Irea: I am known as Irea.
+Player: job
+Irea: I sell bows, arrows, crossbows and bolts. I also teach some spells.
+Player: time
+Irea: That's unimportant.
+Player: news
+Irea: My news are not for your ears.
+Player: crunor
+Irea: The master of nature. He nurtures us and is our benevolent protector.
+Player: humans
+Irea: Humans have so little time to learn.
+Player: troll
+Irea: I despise them.
+Player: dwarfs
+Irea: Bearded, heavy, and small.
+Player: elves
+Irea: Humans or dwarfs will never understand us.
+Player: deraisim
+Irea: My people love the woods.
+Player: kuridai
+Irea: They provide us with tools and metal.
+Player: cenath
+Irea: I often listen to their tales.
+Player: abdaisim
+Irea: One day we will be reunited.
+Player: teshial
+Irea: They have left so long ago.
+Player: roderick
+Irea: What is this human's use at all? I don't understand it.
+Player: olrik
+Irea: His trade seems to be the delivery of messages and items.
+Player: thais
+Irea: I don't understand what interest these humans from a faraway land have in our town.
+Player: venore
+Irea: Their traders are very intrusive.
+Player: carlin
+Irea: The druids of Carlin seek our guidance now and then.
+Player: ferumbras
+Irea: Who is that?
+Player: excalibug
+Irea: Our people have a bugfarm in the southeast of Ab'Dendriel.
+Player: distance / offer / buy / sell / goods / stuff
+Irea: I sell distance weapons and ammunition. If you'd like to see my offers, ask me for a trade. I also teach spells.
+Player: trade
+Irea: Of course, just browse through my wares.
+Player: spells
+Irea: I have no spells for you. Go see Faluae, Elathriel, Eroth and Maealil.
+Player: bye / asha thrazi
+Irea: Asha Thrazi.

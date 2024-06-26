@@ -1,0 +1,76 @@
+Player: Hi  
+Grizzly Adams: Welcome to the 'Paw and Fur - Hunting Elite' Player. Feel free to do tasks for us.  
+Player: Name  
+Grizzly Adams: My name is James Adams but people call me 'Grizzly' because of my pet. Ben must be somewhere around, that old bounder.  
+Player: Ben  
+Grizzly Adams: Have you seen him? He must be somewhere around here, but don't worry, he always comes back to me.  
+Player: Port Hope  
+Grizzly Adams: A fantastic place. The jungle, the creatures, the humidity. Wonderful.  
+Player: Thais/Carlin  
+Grizzly Adams: Ahhh, the main continent....rough and beautiful. The bears there are great....I got Ben from the main continent.  
+Player: Ankrahmun/Darama/Darashia  
+Grizzly Adams: The desert is well worth visiting. On the one hand, it is dry and dusty, but then you find areas full of lush, vivid vegetation.  
+Player: Venore  
+Grizzly Adams: Interesting region for hunting. The swamps are the home for many creatures, both strange and dangerous. Always worth an outing.  
+Player: Edron  
+Grizzly Adams: I lived in the mountains north of Edron for a few years until it became overrun with adventurers. I left to look for fresh pastures where the hunting was better and found this wonderful place here.  
+Player: Liberty bay  
+Grizzly Adams: Too many pirates around and the hunting isn't too good.  
+Player: Troll  
+Grizzly Adams: Some people hunt them. I myself don't. They are too much like humans in a way.  
+Player: Orc  
+Grizzly Adams: The 'Paw and Fur - Hunting Elite' doesn't support the killing of this noble kind. I lived amongst them for several years. They are nice chaps, nicer than most humans.  
+Player: Minotaur  
+Grizzly Adams: The 'Paw and Fur - Hunting Elite' doesn't support the killing of this kind. They are not animals even if they are furry!  
+Player: Dragon  
+Grizzly Adams: It's just a matter of skill and power when it comes to hunting regular dragons. If you prove yourself worthy, I might even entrust you to hunt Demodras, the mighty dragon lord.  
+Player: Demon  
+Grizzly Adams: Hoho, you must be a hell of a hunter if you want to go for demons.  
+Player: Knight  
+Grizzly Adams: Oh well, brute force is not the way I prefer to hunt - has no subtlety, you know - but each to their own.  
+Player: Boss  
+Grizzly Adams: Do tasks for our society to earn the right to kill a boss.  
+Player: Bug/Rat  
+Grizzly Adams: Not really a challenge for a hunter but everybody starts small, right?  
+Player: Butterfly  
+Grizzly Adams: Hahaha! That's funny, old chap! Never heard anyone talking about hunting butterflies before.  
+Player: Rotworm  
+Grizzly Adams: There are so many around in some dungeons that it's more like slaughtering than hunting. I'm looking for a challenge not a blood bath.  
+Player: War  
+Grizzly Adams: I've never fought in a war. I'm more the lonesome ranger type who hides from civilisation.  
+Player: Druid  
+Grizzly Adams: I've seen good hunters and bad hunters within this vocation, but mainly they are tree hugging animal loving environmentalists who need a good reason to justify hunting. No sportsmanship if you ask me.  
+Player: Sorcerer  
+Grizzly Adams: No offence but blasting an animal with a magic missile is a bit over the top. It's like stabbing a fly with a sword.  
+Player: Paladin  
+Grizzly Adams: If you ask me, this vocation has it's origin in hunting. They are born hunters.  
+Player: King  
+Grizzly Adams: I don't mind the king and he doesn't mind me. He and his decisions don't affect me out here in the jungle.  
+Player: Havoc  
+Grizzly Adams: It's a dangerous area. Many undead around but there are also many secrets to be discovered.  
+Player: Tibia  
+Grizzly Adams: It's a wonderful land we've got. Full of wonders and mysteries. Most of them huntable.  
+Player: Svargrond  
+Grizzly Adams: The animals there have adapted to the cold climate. Nice hunting location for mammoths, ice golems, and frost dragons.  
+Player: Frost dragon  
+Grizzly Adams: You've got to have some hunting experience if you want to go for them.  
+Player: Ice golems  
+Grizzly Adams: Strange creatures and not that easy to hunt.  
+Player: Mammoths  
+Grizzly Adams: Those furry elephants on the Ice Islands are a nice sport. I chose their appearance as logo for the hunting society. Did you see it on the banner?  
+Player: Mission/Quest  
+Grizzly Adams: Please ask me for a task if you want to work for our society.  
+Player: Promotion  
+Grizzly Adams: You already have the highest rank within our hunting society. You are one of our most ambitious hunters Player!  
+Player: Quara  
+Grizzly Adams: Very specialised skills are needed when it comes to a quara hunt. I'm more the land hunting type of guy, ya know?  
+Player: Serpent  
+Grizzly Adams: If you know a place where you can hunt them. I don't.  
+Player: Special  
+Grizzly Adams: You bested everything in terms of my special tasks. You're one marvel of a hunter, I give you that.  
+Player: Stone golem  
+Grizzly Adams: Hmmmm, stone golems you say? Interesting idea and challenging on top of it. Bad for wear and tear of weapons.  
+Player: Trade  
+Grizzly Adams: Alright, show me what you've got.  
+Player: Bye/Farewell  
+Grizzly Adams: Happy hunting, old chap!  

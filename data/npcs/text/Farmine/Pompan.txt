@@ -1,0 +1,54 @@
+Player: hi / hello  
+Pompan: Hello. I hope you are here for a trade.  
+Player: ammo / spear  
+Pompan: Yes, I sell spears. Ask me for a trade if you're interested to see my wares.  
+Player: ammunition  
+Pompan: I sell all sorts of arrows for bows and different bolts for crossbows. Ask me for a trade if you're interested to see my wares.  
+Player: arrow  
+Pompan: I have normal arrows, sniper arrows, flaming arrows, shiver arrows, flash arrows, earth arrows and onyx arrows used with bows. Just ask me for a trade.  
+Player: bolt  
+Pompan: I have bolts, piercing bolts and power bolts used with crossbows.  
+Player: bow  
+Pompan: I don't buy used bows. If you want to buy one, just ask me for a trade.  
+Player: caves  
+Pompan: Well, for now we got some modest comfort down here. At least, I don't feel like some primitive cave dweller anymore.  
+Player: continent  
+Pompan: I'm sure this is a land full of opportunities. Sadly, I'm extremely occupied down here with important tasks for my superiors. They wouldn't allow me to explore the land on my own ...  
+Pompan: For people like you though, it's an amazing possibility you shouldn't miss. Someone as powerful and clever as you has to fear little and to gain much.  
+Player: crossbow  
+Pompan: I don't buy used crossbows. If you want to buy one, just ask me for a trade.  
+Player: distance  
+Pompan: Well, I sell spears, bows, crossbows and ammunition for distance fighting. Ask me for a trade if you're interested to see my wares.  
+Player: human  
+Pompan: They are neglectable as they have nothing to offer. They live in horrible primitive conditions, but we are not here for charity work. As long as they don't have anything interesting to offer, we will simply ignore them.  
+Player: Job  
+Pompan: Now that the negotiations have been successful, I have opened up a small business to buy and sell certain wares ...  
+Pompan: Of course my inventory is limited by the restrictions of this fledgling base. I hope I can expand my dealings here as soon as the work on the base progresses.  
+Player: Kazordoon  
+Pompan: Well, for an underground town it's probably not that bad. Still, you have to be a dwarf to like it.  
+Player: Lizard  
+Pompan: They are an incredible threat. At the moment, they are occupied with the orcs. But once they are done with the orcs, who will be next? They might even plan to conquer human civilisation... ...  
+Pompan: I agree with my superiors that a preventative strike will be the best solution. The lizards' cities are rich and the land offers plentiful resources that would easily cover the costs of a war.  
+Player: mines  
+Pompan: The mines do well. If only the miners would loosen their purse strings.  
+Player: mining guild  
+Pompan: The imperial mining guild is one of the toughest institutions in the known world to negotiate with. Everything you tell them will be discussed by an unknown number of elders behind closed doors. ...  
+Pompan: Sometimes negotiations come to a halt for weeks, then they continue for a few minutes until they call for the next break to discuss further things.  
+Player: Minotaur  
+Pompan: It's amazing how they enslaved the orcs. I already wrote a report home. I wonder if this cheap labour couldn't be used in some efficient way ...  
+Pompan: For now I try to figure out how to convince the minotaurs to open up some form of trade, but that will prove difficult if not impossible.  
+Player: Ongulf  
+Pompan: He can be quite stubborn sometimes but I see why they chose him to head this venture. ...  
+Pompan: If you've ever talked to dwarfs, you'll recognise that he is an rather open-minded and flexible fellow.  
+Player: Orc  
+Pompan: Of course they are dangerous. But we all know: Orcs can die, can't they? And speaking of that, they might have stolen some interesting stuff from these lizardmen that could be of some value for someone with an exotic taste.  
+Player: progress  
+Pompan: I think they are content with the state of the base and will fully concentrate on the mines now.  
+Player: superiors  
+Pompan: My superiors are a board of tree traders from Venore who are looking for new opportunities.  
+Player: trade  
+Pompan: Just browse through my wares. After I've seen those interesting patterns I've also grown more interested in all sorts of flags or banners. If you find any I'll gladly buy them.  
+Player: venore  
+Pompan: My lovely hometown was always at the forefront of science, exploration and daring ventures. I see some profitable opportunities in this project, and I'm in constant correspondence with my superiors.  
+Player: bye  
+Pompan: Bye.  

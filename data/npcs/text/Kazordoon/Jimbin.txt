@@ -1,0 +1,36 @@
+Player: Hi Jimbin  
+Jimbin: Welcome to the Jolly Axeman, have a good time and some drinks, Player!  
+Player: Drinks/Buy/Offer/Sell/Equipment/Goods  
+Jimbin: I can offer you beer... or water if you are sick. If you'd like to see my offers, ask me for a trade.  
+Player: Trade  
+Jimbin: Take a look, but not a sip before you paid.  
+Player: Name  
+Jimbin: I am Jimbin Luckythroat, son of Earth, from the Molten Rock.  
+Player: Job/Tavern  
+Jimbin: I'm running the Jolly Axeman together with my wife Maryza.  
+Player: Maryza  
+Jimbin: She's a fine cook; likes it bloody, though. Humans call her Bloody Mary, but don't mention that to her if you're smart.  
+Player: Food  
+Jimbin: Ask my wife Maryza for food.  
+Player: Carlin  
+Jimbin: Silly town. Alcohol is forbidden there and elves visit this town quite often, which certainly suggests nothing good about a town, jawoll.  
+Player: Thais  
+Jimbin: Bah! Humans, can't stand a drink, jawoll.  
+Player: Ferumbras  
+Jimbin: Hah! He never dares to trespass our realm.  
+Player: Excalibug  
+Jimbin: Actually, I believe it's more than a tavern tale.  
+Player: News/Rumor/Rumour  
+Jimbin: Oh well, many hidden places of ancient times appear seemingly out of nowhere in these times.  
+Player: Time  
+Jimbin: It is about 5:12 am.  
+Player: Army  
+Jimbin: I supply the army with dwarfish beer to keep morale high.  
+Player: Cookbook/Book  
+Jimbin: The cookbook? It belongs to Maryza. I think she has a few copies for sale.  
+Player: General  
+Jimbin: The general is a fine man. Can drink as much as he wants and still is sober.  
+Player: King  
+Jimbin: The king orders huge amounts of mushroom beer for festivities.  
+Player: Farewell/Bye  
+Jimbin: Come back if you enjoyed my tavern, Player - if not ... well, get eaten by a dragon, jawoll.  

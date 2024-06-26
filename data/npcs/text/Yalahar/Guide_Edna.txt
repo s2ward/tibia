@@ -1,0 +1,96 @@
+Player: hi  
+Guide Edna: Meow, welcome to Yalahar, Player! Even though I might not look like it, I can give you information and a map guide. Need some?  
+Player: information  
+Guide Edna: Currently, I can tell you all about the town, its temple, the bank, shops, spell trainers, the depot and the different quarters, as well as about the world status.  
+Player: town  
+Guide Edna: Yalahar is a very old city of gigantic size, consisting of a city centre and eight quarters. The beings that are closest to be called rulers of the city are the Yalahari.  
+Player: temple  
+Guide Edna: The temple is just south west of here. Actually, it's a temple raft and the priestess is somewhat... meow... you'll see what I mean.  
+Player: bank  
+Guide Edna: Our bank clerk Znozel is somewhat... special. You can find him north of this harbour and then to the right, past the tavern.  
+Player: shops  
+Guide Edna: You can buy weapons, armor, tools, gems, magical equipment, furniture, spells and food here.  
+Player: spell trainers  
+Guide Edna: Hm, I would teach you, but I guess I should keep my paws off spells for a while. Try Tamoril, north east of the magician quarter. Remember, dragons that spit fire don't bite. Hehe.  
+Player: depot  
+Guide Edna: The depot is a place where you can safely store your belongings. You are also protected against attacks there. I escort newcomers there, but it's just north of here.  
+Player: quarters  
+Guide Edna: We are currently south of the inner city. Outside its walls, you can find eight city quarters, arranged like slices of a cake around the centre. ...  
+Guide Edna: There is the former trade quarter, the foreigner quarter, the arena quarter, the alchemist quarter, the cemetery quarter, the magician quarter, the sunken quarter and the factory quarter.  
+Player: world status  
+Guide Edna: If you'd like to know the status of this world just say the keyword for a world change.  
+Player: weapons / armor
+Guide Edna: We are so lucky that dwarfs are responsible for weapons and armors here. They are, as you probably know, the finest craftsmen you can imagine. The shop is just north of the post office.
+Player: tools  
+Guide Edna: General goods like ropes and shovels can be bought in Gree Dee's store in the shop tower, just north of the depot.  
+Player: gems  
+Guide Edna: You can buy gems and jewellery on the lowest floor of the shop tower. Just north of the depot.  
+Player: magical / potion / runes  
+Guide Edna: Chuckles sells magical equipment like runes and potions. I'm not sure if he is really as harmless as he claims, but well, he gets the job done. Shop tower, north of the depot.  
+Player: furniture  
+Guide Edna: Dorbin's furniture store is to the left of the shop tower, close to the depot.  
+Player: food  
+Guide Edna: Soilance, north of the depot, sells meat and the like. Serafin, whose shop is in the eastern part of the city, sells fruits and vegetables.  
+Player: map  
+Guide Edna: Meow, should I make some pawprints for locations like the depot, bank and shops on your map?  
+Player: no  
+Guide Edna: Meow, nothing wrong about exploring the town on your own. Let me know if you need something!  
+Player: yes  
+Guide Edna: Meow. <makes a few fast pawprints on your map>  
+Player: yalahar / city  
+Guide Edna: Yalahar is a very old city of gigantic size, consisting of a city centre and eight quarters. The beings that are closest to be called rulers of the city are the Yalahari.  
+Player: yalahari  
+Guide Edna: Ordinary people and cats like you and me hardly ever see one of them. They have sealed themselves off in their towers. There are a lot of guards and Augur, though.  
+Player: guards  
+Guide Edna: Yalahar employs many guards to keep watch in front of and in between the city quarters. None of the quarters is a safe zone, terrible things happen there.  
+Player: Augur  
+Guide Edna: They are basically the henchmen of the Yalahari. In case you are looking for work, you should look for an Augur.  
+Player: name  
+Guide Edna: Well, when I was still a human, I was called Eduania, the Great Witch - with capitals letters, mind you. But ever since my spell went wrong, I'm just Edna.  
+Player: job  
+Guide Edna: I'm the only feline guide in Tibia. I might not have fingers anymore, but with my paw I can still mark important locations on your map and give you some information about the town and the world status.  
+Player: keyword / change  
+Guide Edna: Valid keywords are: Horestis, Mage Tower, Master's Voice, Swamp Fever, Thornfire, Twisted Waters, Awash, Steamship, Horses, Overhunting, Demon War, Sea Serpent, Deepling or Hive.  
+Player: meow  
+Guide Edna: Meow, very funny. I try not to do it, but sometimes it just slips out of my mouth.  
+Player: trade quarter  
+Guide Edna: The former trade quarter in the South was once the flourishing marketplace of Yalahar. Nowadays it is completely overrun by smugglers and criminals, although, ruled by some sort of kingpin.  
+Player: foreigner quarter  
+Guide Edna: That quarter is just left of here. It's a melting pot of different races. Don't expect to receive a warm welcome there.  
+Player: arena quarter  
+Guide Edna: Meow, ever since all the animals broke out of the zoo and the gladiators started to behave strangely, this is no place for recreation anymore. It's to the west.  
+Player: alchemist quarter  
+Guide Edna: The alchemists in the North-west experimented with dangerous and weird things, which eventually led to a gigantic explosion that ruined and contaminated the whole quarter. My fur always itches when I return from there.  
+Player: cemetery quarter  
+Guide Edna: Don't expect to see a holy place of peace. The large cathedral is used for forbidden rituals only, and the graveyard is overrun by undead. It's in the North.  
+Player: magician quarter  
+Guide Edna: The north-eastern quarter is home to many talented magicians. Some friendly, some... not so friendly. They try their best to keep their quarter intact and the academy running.  
+Player: sunken quarter  
+Guide Edna: That's a tragedy... one of Yalahar's quarters, the one to the east, grew so big, that one day it just broke down and fell into the ocean. So many people died... ...  
+Guide Edna: If you are interested in the whole story, you should go to the monument place to the east of the city and talk to Tarak. He's a great storyteller.  
+Player: factory quarter  
+Guide Edna: The old factory is to the south-east. All sorts of things used to be manufactured there, but nowadays most magic machines are destroyed.  
+Player: ammunition / bow / distance / goods / stuff  
+Guide Edna: There's something suspicious about Vincent and his past, I tell you. You can find his distance weapon store on top of the shop tower, just north of the depot.  
+Player: blessing  
+Guide Edna: Blessings reduce the death penalty, meaning that if you should die, you will lose less experience, fewer skill points and fewer to no items, if you have all five blessings.  
+Player: buy / sell / equipment / offer  
+Guide Edna: Meow, do I look like I have pockets? I could tell you about the shops in town though, or about the former trade quarter.  
+Player: escort  
+Guide Edna: Meow, I think you can manage the way on your own, it's just to the north , down the stairs and to the left. If you need marks on your map, let me know.  
+Player: harbour  
+Guide Edna: That's where we are standing right now. Captain Karith of Yalahar might need to be convinced to sail to other cities, though, so don't be surprised.  
+Player: mission / quest  
+Guide Edna: Sorry, but right now you already received one or more blessings. In order to start this mission you shouldn't have received one. Please return if this is the case. Farewell.  
+Player: post  
+Guide Edna: Redward is our local postman. Meow... you will get used to him. Teehee. You can find him north of this harbour and then to the right, past the tavern.  
+Player: time  
+Guide Edna: It's 10:26 am right now. But I can give you more valuable information than that!  
+Player: tool  
+Guide Edna: General goods like ropes and shovels can be bought in Gree Dee's store in the shop tower, just north of the depot.  
+Player: train  
+Guide Edna: Are you looking for the training statues? They're just over the depot, up the stairs! I can mark them on your map.  
+Player: random word  
+Guide Edna: Sorry, I don't have anything to tell you about that topic.  
+Player: farewell / bye  
+Guide Edna: Enjoy your stay in Yalahar, Player. Meow.  

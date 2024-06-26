@@ -1,0 +1,92 @@
+Player: hi
+Haroun: Be greeted, human Simula. How can a humble djinn be of service?
+Player: name
+Haroun: My name is Haroun. At your service.
+Player: job
+Haroun: I am a merchant. Though I have not chosen this position for myself I have accepted the task with humility and devotion. ...
+Haroun: If you have the permission of Gabel to trade with me, I can sell you some useful magical equipment.
+Player: haroun
+Haroun: That is the name my honourable father chose for me.
+Player: permission
+Haroun: I am not allowed to trade with you unless Gabel gave you the permission to trade with us.
+Player: trade
+Haroun: At your service. Just browse through my wares.
+Player: sell
+Haroun: My task is to buy and sell supplies. We are dealing with magical equipment like rings, amulets, rods and some special items. I can also perform magical extractions. If you'd like to see my offers, ask me for a trade.
+Player: extractions
+Haroun: That's my speciality. I can extract magic sulphur, enchanted chicken wings, fighting spirit and warrior's sweat.
+Player: Fighting Spirit
+Haroun: I need two royal helmets to extract one container of fighting spirit. Would you like me to perform the extraction?
+Player: Yes
+Haroun: Al Adhra Zubana Akras!
+Player: king
+Haroun: We do not have kings. Of the members of our community, Gabel is closest to being what you would consider a leader, but he would resent being called by that presumptuous title.
+Player: gabel
+Haroun: He is our leader. Not because he desires power or distinction, of course, but because the community needs a guide in spiritual and in worldly matters. ...
+Haroun: He has accepted this burden with the modesty that is required of a true follower of Daraman.
+Player: malor
+Haroun: That filthy heretic! To me he is the very embodiment of all the evilness and the baseness we djinn must leave behind.
+Player: fa'hradin
+Haroun: Fa'hradin is a learned man, and this alone is enough to make me respect him. However, I sometimes can't help the feeling that he is lacking spiritual strength.
+Player: alesar
+Haroun: Who? Yes, I... I have never... I mean, I don't know who that is.
+Player: melchior
+Haroun: I remember Melchior. I used to meet him regularly, but strictly in matters of business. He was not really a likeable fellow then. ...
+Haroun: All money and profit he was, and not as quite as clever as he thought. He made quite a pretty penny by doing business both with us and the efreet. ...
+Haroun: He thought we wouldn't notice, but the truth is we just chose to look the other way.
+Player: bo'ques
+Haroun: Bo'ques is a cook. Cooking! What a useless craft. If I were Gabel I would have little use for a cook such as him, but perhaps not all djinns are as spiritual as Daraman would have them be.
+Player: zathroth
+Haroun: An evil, evil god. He was the creator of my race, but he rejected us because we were not evil enough and far too independent to his taste. For this reason the djinn do not worship him anymore, not even those depraved efreet. ...
+Haroun: It is difficult, you know. We djinn had to learn to find our own way, to create a destiny of our own. And although we are not evil by nature the fact that we were created by this fiend was lying like a curse on us. ...
+Haroun: For a long time we walked in darkness, filled with hate of ourselves and of all creation. But then everything changed. A human came and made us realise how blind we were. ...
+Haroun: Praise the gods who have spoken to us through Daraman! That human taught us how we could overcome our grim heritage and heal the scars that marred our souls. Humility and asceticism are the keys to a fuller existence. ...
+Haroun: The task may be tedious, but the price that awaits the disciples of the true creed is worth it all.
+Player: daraman
+Haroun: How could my unworthy tongue ever find words to praise the enlightened one the way he deserves to be praised? Daraman took the veil from our eyes. He made us realise the extent of our misery. ...
+Haroun: However, he did much more than that. He showed us a way out. He gave meaning to our lives. The service he has done to my race will never be forgotten.
+Player: scarab
+Haroun: The scarab is an ancient species. It's chitinous shell can be turned into excellent armour.
+Player: lamp
+Haroun: The lamp is a djinn's resting place of choice.
+Player: djinn
+Haroun: That is my race. I like to compare it to iron. It has the potential to be forged into the finest steel, but it does need a lot of work and devotion. ...
+Haroun: Without that it is nothing but worthless scrap metal. Like our master said in the scriptures: Forge thyself! Be a blade of the true creed! (Book VI, chapter 14, verses 3 and 4).
+Player: efreet
+Haroun: Daraman has taught us restraint. But I am sure one day those apostates will pay dearly for their sinful rebellion!
+Player: marid
+Haroun: We are the chosen ones. Those who walk the path to enlightenment with serenity and humility.
+Player: human
+Haroun: Back in the dark days we used to be enemies, the humans and us. But then a human came and radically changed the way we see things. ...
+Haroun: He taught us to see your race as brothers. Of course... of course we still have lessons to learn, I suppose.
+Player: edron / thais / venore / kazordoon / carlin / ab'dendriel / ankrahmun
+Haroun: They say the humans have founded impressive communities to the north. I hope their spiritual integrity matches their entrepreneurial spirit.
+Player: darashia
+Haroun: I understand the humans living there are self-indulgent and decadent. I am sure Daraman would disapprove of their ways.
+Player: ankrahmun
+Haroun: Ankrahmun has a venerable tradition, but now that heretic fool has acceeded to the throne it has degenerated into a breeding place for wicked heresy.
+Player: palace
+Haroun: I am a peaceful djinn, but with all those stories I have heard I really feel like visiting the palace and to cleanse this place from all the evil and the misbelief infesting that place.
+Player: ascension
+Haroun: I have heard this is what the pharaoh has promised his followers. It is sad to see this wicked sinner is still allowed to spread his heresy!
+Player: pharaoh
+Haroun: I have heard many a gruesome stories about this presumptuous fool, who calls himself a pharaoh. Such hubris! Daraman himself, who was certainly the most divine mortal that ever walked Tibia, would never have dared to call himself a god.
+Player: akh / rah / uthun
+Haroun: Another one of the pharaoh's confused ideas.
+Player: tibia
+Haroun: Despite all the evil that stalks this world it is still a source of endless marvel and joy to me. Like the master said: ...
+Haroun: 'Look at the world and reflect in admiration. For there is peace in a sunset and wisdom in the ocean's neverending melody.' (Book I, chapter 3, verses 2 and 3).
+Player: kha'zeel
+Haroun: The Kha'zeel mountains have been created by the gods as a vantage point from where they could watch their creation. ...
+Haroun: Isn't it uplifting to think that even now we are standing on ground that was blessed by the great creators.
+Player: kha'labal
+Haroun: Kha'labal. It makes me sad just to hear that name. Long, long time ago this used to be a garden, you know? ...
+Haroun: You should have seen it then. You should have seen the springs and the meadows and the flowers. It was a paradise. <sighs>. Oh, this terrible war.
+Player: mal'ouquah
+Haroun: That is the name of the Efreets' hideout. It certainly is one filthy hotbed of vice and degeneration.
+Player: ashta'daramai
+Haroun: This is the name of the humble abode you are currently visiting. After Daraman had shown him the true way Gabel decided to tear down his former palace and to erect the present structure. ...
+Haroun: Its name is meant as a tribute to the invaluable service Daraman has done to our race.
+Player: bye
+Haroun: Farewell! May the serene light of the enlightened one rest shine on your travels.
+Haroun: Farewell, human.

@@ -1,0 +1,15 @@
+Player: hi
+Kromrek: Greetings, I advise you to stay inside the plant unless you feel prepared to face the danger outside!
+Player: danger
+Kromrek: We are under constant attacks by strange metal creatures from the south. Some are familiar like the glooth golems and the dreaded walkers but others are foreign to us but just as murderous of course.
+Player: foreign
+Kromrek: Some were identified as golems of yalaharian design. But others are of designs like nothing we have ever seen. ...
+Kromrek: There are control towers that boost the strength of the golems at a disturbing degree and there are batteries that recharge and so to say heal the attackers. ...
+Kromrek: This should be your first targets in any fights. But the worst thing in the enemies arsenal is the glooth bomb for sure.
+Player: yalaharian
+Kromrek: From inspecting golems from previous attacks we could figure that most of the golems are made up from golem scrap and don't fit perfectly together but they are as efficient enough to pose a serious threat. ...
+Kromrek: Strangely enough some inner parts were often replaced with local technology and glooth components. This is for sure not the work of yalaharians but someone else with disturbingly high knowledge.
+Player: bomb
+Kromrek: It's kind of a doomsday device, that can cause serious damage to our plant. It's slowly moving towards the plant and heavily armoured. The only way to stop it, is it's timely destruction.
+Player: bye
+Kromrek: Good bye!

@@ -1,0 +1,18 @@
+Player: hi / hello  
+John: Welcome, welcome to Treasure Island, Player! Come, look and buy your souvenirs here!  
+Player: offer / buy / goods / sell / equipment / stuff / ware  
+John: I offer fishing rods, worms, shovels, picks, bags, ropes, backpacks, torches and even treasure maps! Ask me for a trade.  
+Player: job  
+John: I sell exquisite equipment for treasure hunters, as well as a few treasures I found here myself.  
+Player: name  
+John: I am John Copper, pleased to trade with you.  
+Player: treasure  
+John: Oh, now we're talking. If you want to find a treasure, you really need one of my highly accurate treasure maps.  
+Player: treasure map  
+John: Hey, hey, don't blame me for you not finding a treasure. If you can't read my map correctly, it's not my problem.  
+Player: watch  
+John: Hey, hey, don't blame me if you don't know how to handle a noble watch carefully.  
+Player: trade  
+John: Of course, just browse through my wares.  
+Player: bye / farewell  
+John: Good luck finding a treasure!  

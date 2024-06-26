@@ -1,0 +1,48 @@
+Player: hi
+Brengus: Be greeted, Player. If you want to buy or sell weapons and armors, ask me for a trade.
+Player: name
+Brengus: My name is Brengus.
+Player: job
+Brengus: I'm a tradesman. I sell and buy weapons and armors.
+Player: offer
+Brengus: My offers are weapons, armors, helmets, legs, and shields. If you like to see my offers, ask me for a trade.
+Player: time
+Brengus: Sorry, my watch didn't take the moist air here too well.
+Player: tibia
+Brengus: It's a world full of possibilities.
+Player: king
+Brengus: This is the king's land. It was a wise decision to let us people from Venore rule this settlement.
+Player: jungle
+Brengus: Of course there are problems. But problems are there to keep those out of business who are not prepared and diligent enough.
+Player: apes
+Brengus: They are neither skilled in a craft nor do they know about the concept of trade. They constantly raid our colony to steal items.
+Player: lizards
+Brengus: The lizard folk is hostile to us but luckily they live far enough from here than to be an immediate danger.
+Player: dworcs
+Brengus: They should be driven into the sea.
+Player: thais
+Brengus: A nice big city of course, but it lacks style and grandeur. Such qualities you find only when visiting my hometown Venore.
+Player: venore
+Brengus: I miss my home like most of us here, but I have duties and responsibilities. After all, there is some meagre profit to earn here.
+Player: edron
+Brengus: A rich and lovely island. Sadly those knights kept our tradesmen out of business for some unknown reason. I'm convinced that after seeing our success with this colony here, the king will allow Venore to become more present over there, too.
+Player: carlin
+Brengus: I hope the king will take these rebelling women soon under Thaian guidance once again. I hate to see the profits wasted that could be earned there.
+Player: darama
+Brengus: We've hardly scratched the surface of all the possibilities to gain profit that are hidden on this continent.
+Player: darashia
+Brengus: The sand wasp's honey is quite useful. But that's the only noteworthy thing about this unimportant desert hicktown.
+Player: ankrahmun
+Brengus: It's somewhat hard to evaluate if this city poses another threat or is a new market. Only time can tell.
+Player: kazordoon
+Brengus: The dwarves of Kazordoon are stubborn people and it's hard to trade with them. But as often, the hardship is very rewarding for those who are able to handle them.
+Player: ab'dendriel / elves / elfs
+Brengus: It's complicated to negotiate with those elves but it's possible.
+Player: ferumbras
+Brengus: He is bad for business. The big trading houses of Venore have yet to decide what price they will put on his head.
+Player: excalibug
+Brengus: If you ever stumble upon that interesting piece of jewellery, contact me. I know somebody who would pay a decent amount of crystal to add it to his collection of curiosities.
+Player: bye
+Brengus: Good bye, Player.
+Player: (vanish)
+Brengus: Good bye.

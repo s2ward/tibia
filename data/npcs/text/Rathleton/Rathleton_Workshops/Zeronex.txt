@@ -1,0 +1,32 @@
+Player: hi / hello  
+Zeronex: Hmm? Oh yes, hello. Please, what do you have to report? Any progress?  
+Player: yes  
+Zeronex: Yes what? Remind me again about your current mission, please.  
+Player: no  
+Zeronex: Well, that's the way of science - sometimes, you just have to keep on trying even though it seems there's no progress at all. Back to work!  
+Player: name  
+Zeronex: Zeronex, Professor Pierre Zeronex.  
+Player: job  
+Zeronex: Well, it's not so much as a job, but rather a vocation. I am a research scientist by trade. ...  
+Zeronex: I research the use of heavy glooth gases, or Gloud, as I call it. A rather dangerous job, at that.  
+Player: process  
+Zeronex: Maybe the mixture will work this time! I am sure it can only be a minuscule variation that needs to take place. Then the gloud-filled balloon should be lifted UP, and we achieve non-magical levitation, or airborne travel!  
+Player: gloud  
+Zeronex: My own invention to indicate gaseous glooth, made up from the words 'glooth' and 'cloud' - gloud. Gloud will revolutionise research, travel, and everything else!  
+Player: revolutionise  
+Zeronex: Don't you see the implications? Airborne travel would no longer confine us to the boundaries of Oramond with its dangerous cliffs and this devious fog! ...  
+Zeronex: The possibilities to travel, to observe and to learn from a higher vantage point are sheer endless! ...  
+Zeronex: And I shall be the one to give this to the world. It will redeem the name of Pierre Zeronex, and show everyone they were wrong to exclude me from my research, to forbid me the use of my laboratory!  
+Player: incident  
+Zeronex: Well, the concoction was nearly right. Nearly. Unfortunately, I had miscalculated the effect that the pressurised gloothine would have on the gaseous mixture and the tank exploded, and... oh well, I really shouldn't bore you with details. ...  
+Zeronex: <sigh> Sometimes I wonder how much longer I will have to wait for my mission to be successfully concluded.  
+Player: dangerous  
+Zeronex: I had to abandon the old laboratory after the last ...incident.  
+Player: glooth  
+Zeronex: I am certain we have not yet unlocked its full potential. My own experiments lead me to conclude that there is still a lot we do not know about glooth properties and its behaviour when subjected to various treatments.  
+Player: mission / Nicholas / cloth / quest  
+Zeronex: Hmm, well, first, you should try to talk to Nicholas Cavendish about this so-called 'strong cloth'. I believe it may lead me on the right path to perfectioning my balloon cover.  
+Player: magistrate  
+Zeronex: I fear the magistrate does not take the forward-looking point of a scientist, but instead reflects the conservative point of view of the common trader. They fear for their merchandise and overlook the risk of cultural stagnation.  
+Player: bye  
+Zeronex: <absentmindedly> Err yes, good bye!  

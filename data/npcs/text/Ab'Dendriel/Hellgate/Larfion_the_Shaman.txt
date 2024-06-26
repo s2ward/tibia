@@ -1,0 +1,47 @@
+Player: hi
+Larfion the Shaman: I greet you - and I have to ask you to... just tell me if you have something for me.
+Player: job
+Larfion the Shaman: I'm the spiritual guide and keeper of knowledge for this community.
+Player: community
+Larfion the Shaman: We are the shame born, the repenters, the pardoners. The sins of our ancestors are the poison in our souls and our shame in the eyes of those born in the light of the suns.
+Player: ancestors
+Larfion the Shaman: Our ancestors were outcasts and evil. We still bear their taint and shame. No such sinner is allowed in our ranks, but we welcome all those born down here.
+Larfion the Shaman: Only who is of the second generation can atone for the unspeakable sins that led to the punishment of the ancestors.
+Player: suns / great judge
+Larfion the Shaman: The suns are the eternal eyes of the great judge. He who is the justice of the purified.
+Player: purified
+Larfion the Shaman: All those who are born without sin in the light of the suns are purified in death. Unlike us tainted ones.
+Player: tainted
+Larfion the Shaman: We are unclean because of the sins of our ancestors. In this harsh afterworld we are allowed to distance us from the ancestors and atone for their sins. If we die here, we are damned into nothingness.
+Larfion the Shaman: Only if we live in purity and humility, we might find pardon in the eyes of the lightborn.
+Player: lightborn
+Larfion the Shaman: Those who are born under the light of the suns, are born pure. Unlike us. They live a life in light, splendour and without hunger, thirst or fear. They are wise and just and watching us.
+Larfion the Shaman: If they deem us worthy, they will take us into the light on the day of the prophecy.
+Player: prophecy
+Larfion the Shaman: Our ancestors were soaked with evil. They were vile criminals that were cast out of the light and the lands of splendour that the ancestors called Abar Dendri.
+Larfion the Shaman: The wise judges of Abar Dendri spoke justice and they spoke true. No outcast was ever to see the light of the suns again. No single life could atone for their sins.
+Larfion the Shaman: Through those wise words they gave a clue. A shed of hope which they bestowed upon the sinners in their wisdom and mercy.
+Larfion the Shaman: But they were blinded by the darkness of the afterworld, they have been banished and their minds were clouded by the evil of their sins.
+Larfion the Shaman: Only Feridil of the second generation was enlightened enough to see what those words meant. He gathered the second born, slew the sinners and drove off those who escaped to cast them deeper into darkness.
+Larfion the Shaman: Then the great judge spoke to him in a vision. He showed him the path to salvation by purifying the blood by generations of atonement.
+Player: Abar Dendri / ab'dendriel
+Larfion the Shaman: Abar Dendri it is! As the words of the repenters that came before us told us. It is the land of plenty, without any need and where the light always shines and it is warm without a fire.
+Player: atonement
+Larfion the Shaman: In their wisdom the wise of Abar Dendri provided the children of the sinners with an harsh environment to work off the sins through hard work.
+Larfion the Shaman: With every drop of sweat and blood that is shed in our suffering a little bit of the ancestors sinfulnesses is driven out.
+Larfion the Shaman: Only by enduring this trial we can better ourself. It is a slow process, since obviously the ancestors' sins were grave.
+Larfion the Shaman: If we needed any proof for that, the fact that the wise of Abar Dendri have not yet deemed us worthy to return into the light should show any doubter that we are not cleansed yet.
+Player: elves
+Larfion the Shaman: We are not worthy to be elves, perhaps one day the children of our children might see the light again. We have to suffer for our children and for a better future for them.
+Player: bonus
+Larfion the Shaman: Talk to Ashari over there.
+Player: something / quest / task / mission
+Larfion the Shaman: Yes, well you see, I am... waiting for something. Did Ashari tell you anything? Or ask you to do something?
+Player: no
+Larfion the Shaman: Then you are wasting both our time.
+Player: yes
+Larfion the Shaman: I don't suppose you already have anything for me then? Oh well. Maybe you should go... talk to Ashari again.
+Player: bye
+Larfion the Shaman: Yes, yes erm - goodbye.
+Player: (vanish)
+Larfion the Shaman: Goodbye? Yes, well, goodbye then.

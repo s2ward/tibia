@@ -1,0 +1,40 @@
+Player: Hi  
+Sigurd: Welcome to the magic store, Zaajebustor! Ask me for a trade if you need something.  
+Player: Trade  
+Sigurd: Of course, just browse through my wares. Or do you want to look only at potions, wands or runes?  
+Player: Wands/Runes(after writing trade)  
+Sigurd: Have a look! You can also look at potions or runes.  
+Player: Name  
+Sigurd: I'm Sigurd Fireworker, brother to Etzel Fireworker, son of Fire of the Molten Rocks.  
+Player: Job  
+Sigurd: I help my brother handling his little magic store so he can focus on studying spells.  
+Player: Animate dead rune / energy bomb rune / poison bomb rune  
+Sigurd: Sorry, but runes of this type can't be purchased here.  
+Player: Wands  
+Sigurd: Wands can be wielded by sorcerers only and have a certain level requirement. There are eight different wands, would you like to hear about them?  
+Player: Rune / Sell  
+Sigurd: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.  
+Player: No  
+Sigurd: Maybe another time.  
+Player: Bomb rune  
+Sigurd: I can offer you fire bomb runes.  
+Player: Fluid  
+Sigurd: Sorry, we removed the old life and mana fluids from our assortment. However, we offer health, spirit and mana potions in up to four sizes, just ask me for a trade.  
+Player: Rod  
+Sigurd: In case you'd like a free snakebite rod, just ask me for one. Or would you like to hear about rods in general?  
+Player: Poem  
+Sigurd: Go ask my brother.  
+Player: Potions  
+Sigurd: We offer health, spirit and mana potions in up to four sizes: normal, strong, great and ultimate. Ask me for a trade to see my offers.  
+Player: Runes  
+Sigurd: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.  
+Player: Time  
+Sigurd: It's 3:32 am right now.  
+Player: Vial  
+Sigurd: Well, you could ask me for a trade to deposit your flasks, but you can also do it old style. I will pay you 5 gold for every empty vial and potion flask. Ok?  
+Player: No  
+Sigurd: Hmm, but please keep Tibia litter free.  
+Player: Sudden death rune  
+Sigurd: Yes, those runes are in my assortment. Ask me for a trade to have a look.  
+Player: Bye/Farewell  
+Sigurd: Good bye. Come back soon.  

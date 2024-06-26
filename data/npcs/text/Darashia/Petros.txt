@@ -1,0 +1,9 @@
+Petros: Passages to Venore, Port Hope, Liberty Bay, Yalahar, Gray Island, Ankrahmun, Krailos and Issavi.
+Player: hi
+Petros: Greetings, Simula. Where can I sail you today?
+Player: ship / boat / passage
+Petros: My boat is ready to bring you to Venore, Port Hope, Liberty Bay, Yalahar, Gray Island, Ankrahmun, Krailos or Issavi. Or to Travora - a place between the worlds.
+Player: ghost
+Petros: Oh, I don't believe in ghosts.
+Player: bye
+Petros: Good bye!

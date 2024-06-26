@@ -1,0 +1,74 @@
+Player: hi
+Ubaid: Shove off, little one! Humans are not welcome here, Simula!
+Player: djanni'hah
+Ubaid: What? You know the word, Simula? All right then - I won't kill you. At least, not now. What brings you here?
+Player: here
+Ubaid: Only the mighty Efreet, the true djinn of Tibia, may enter Mal'ouquah! ...
+Ubaid: All Marid and little worms like yourself should leave now or something bad may happen. Am I right?
+Player: yes
+Ubaid: Of course. Then don't waste my time and shove off.
+Player: no
+Ubaid: Who do you think you are? A Marid? Shove off you worm!
+Player: name
+Ubaid: My name is Ubaid. Why do you want to know that, human? Hmm... suspicious.
+Player: job
+Ubaid: Well, what do you think? I keep watch around here to make sure people like you don't enter.
+Player: king
+Ubaid: Well, Malor is not officially king of all djinn yet, but now that our beloved leader is back that is a mere formality.
+Player: pharaoh
+Ubaid: They say Ankrahmun is now ruled by a crazy Pharaoh who wants to tell his whole people into drooling undead. That's humans. Sickos and weirdos the lot of them.
+Player: palace
+Ubaid: One day we will sack that place and burn it to the ground.
+Player: ascension
+Ubaid: I think I've heard that term before. Has to do with that weirdo Pharaoh, right?
+Player: akh / rah / uthun
+Ubaid: Are you drunk?
+Player: war
+Ubaid: I don't know why I am stuck here! I should be at the front, killing Marid and humans. Well, perhaps I will kill you...
+Player: lamp
+Ubaid: I am not taking a nap! I am on duty!
+Player: djinn
+Ubaid: We are a race of rulers and dominators! Or at least we, the Efreet, are!
+Player: efreet
+Ubaid: The Efreet are the true djinn! Those namby-pamby milksops who call themselves the Marid and still follow Gabel, no longer deserve the honour to call themselves djinn.
+Player: marid
+Ubaid: Marid? When? Where? How many? RED ALERT! ...
+Ubaid: Hey! There is nobody here! Don't do that again, human!
+Player: human
+Ubaid: You are an inferior race of feeble, scheming jerks. No offence.
+Player: scarab
+Ubaid: They make good pets if you know how to keep them. Did you know they just adore human flesh?
+Player: malor
+Ubaid: Well, Malor is not officially king of all djinn yet, but now that our beloved leader is back that is a mere formality.
+Player: gabel
+Ubaid: I used to serve under Gabel, but he is no longer my king. If that wacky wimp should ever come here to Mal'ouquah, I will personally... you know... turn him away. Yes!
+Player: zathroth
+Ubaid: Zathroth is our father! Of course, the son always has a right to hate his father, right?
+Player: daraman
+Ubaid: How dare you utter that name in my presence, human. Don't strain my patience, worm! You may know the secret word, but... who knows... it is always possible that your head is torn off in some terrible accident.
+Player: baa'leal
+Ubaid: General Baa'leal is our commander-in-chief of all his minions. He is as tough as an ancient scarab's buttocks and as sly as a sand weasel.
+Player: alesar
+Ubaid: I am not used to the sight of blueskins here in Mal'ouquah, and it does not make me too happy to see one. I am keeping an eye on this guy, and if I should ever find that he is playing games with us I will personally break his neck!
+Player: fa'hradin
+Ubaid: The old wizard is dangerous, but he will get what he deserves sooner or later.
+Player: tibia
+Ubaid: This world is ours by right, and we will take it!
+Player: mal'ouquah
+Ubaid: This place is our home, and as long as I'm here no meddler will trespass!
+Player: ashta'daramai
+Ubaid: The Marid's hideout, isn't it? I have never been there, but I am sure one day I will. That will be the day Ashta'daramai falls into our hands!
+Player: darashia
+Ubaid: A human settlement to the west? I have not been there yet, but when I do I'm sure I will be remembered.
+Player: ankrahmun
+Ubaid: I know that damn city well. A long time ago we laid siege to it. ...
+Ubaid: We would have taken it, but those traitorous humans allowed a Marid garrison to entrench itself there, and we never managed to throw them out. Cowards and traitors the lot of them.
+Player: edron / venore / thais / carlin / kazordoon / ab'dendriel
+Ubaid: Isn't that the name of some petty human settlement?
+Player: kha'zeel
+Ubaid: This mountain range is our home. Too bad we have to share it with the Marid. That will change, though. And pretty soon, believe me.
+Player: kha'labal
+Ubaid: I like the desert. Just ruins and sand. And no human dogs to be seen. The Kha'labal is a foretaste of what the djinn will do to the whole of Tibia!
+Player: bye
+Ubaid: Hail King Malor! See you on the battlefield, human worm.
+Ubaid: Why did you waste my time?

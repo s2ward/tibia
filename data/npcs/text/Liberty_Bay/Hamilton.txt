@@ -1,0 +1,40 @@
+Player: hi / hello  
+Hamilton: Uhh, rather don't talk to me, it'll get me into trouble.  
+Player: distillery  
+Hamilton: There's a large distillery in the south of Liberty Bay. As we speak, Liberty Bay's rum is starting to become famous all over Tibia.  
+Player: fire bug  
+Hamilton: You don't know what a fire bug is? It's a little magical insect setting everything on fire that it touches. Strange and somewhat dangerous creature, but very useful.  
+Player: free town  
+Hamilton: You mean Summerhaven? That was our town originally located where Liberty Bay is now.  
+Player: governor  
+Hamilton: Sometimes I wonder if that man has any idea what's going on behind his back. Even the slum people know.  
+Player: harvest  
+Hamilton: To harvest sugar cane first the useless leaves have to be burnt away. The remaining stalks are cut and brought into the distillery.  
+Player: how are you  
+Hamilton: Wow, been ages since someone asked me that. My back is usually aching and inhaling all this smoke is not actually healthy either, but I guess I could be worse.  
+Player: leaves / burn  
+Hamilton: Oh no, you can't use a normal torch to burn these leaves. It's more efficient to use a fire bug.  
+Player: Liberty Bay  
+Hamilton: Such irony to have a city called Liberty Bay built on the ruins of a free town.  
+Player: name  
+Hamilton: My name is Hamilton. It's really sad that you sort of lose your identity as a harvester. Same work, same dress code.  
+Player: random word  
+Hamilton: Please, I really gotta work and don't have time for smalltalk.  
+Player: sell  
+Hamilton: Sorry mate, not allowed to sell you anything. The sugar cane I harvest and the rum I distill are property of Liberty Bay.  
+Player: slum  
+Hamilton: Just because we're poor and forced to live in shanties that doesn't mean we have lost our pride. I prefer this life to being a rich pig living on the back of others.  
+Player: sugar cane  
+Hamilton: Sugar cane is what made Vandura rich... or at least the people claiming it for themselves.  
+Player: Summerhaven  
+Hamilton: Ahh... I miss it.  
+Player: talk / job  
+Hamilton: Oh well... as you can see I harvest sugar cane. Not as if I ever wanted to be one. It's all due to the war.  
+Player: Vandura  
+Hamilton: The name of this island.  
+Player: venore / thais  
+Hamilton: Thais, Venore... all the same. Greedy for power and wealth.  
+Player: war  
+Hamilton: That's a long story. There was a time when Vandura used to be free and Liberty Bay didn't even exist. I fought in the war for Vandura, but we had no chance against the united power of Thais and Venore.  
+Player: bye / farewell  
+Hamilton: Long live the governor... or so.  

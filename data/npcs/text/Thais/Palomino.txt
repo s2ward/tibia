@@ -1,0 +1,38 @@
+Player: hi / hello  
+Palomino: Salutations, Player! I guess you are here for the horses.  
+Player: rent  
+Palomino: Right now our horses are on the loose. As long as there are not enough horses chased back into the barn, there are no horses to rent.  
+Player: horse / job  
+Palomino: I can rent you a horse for a day or I can transport you with a coach.  
+Player: donkey  
+Palomino: Sorry, but the donkeys and the horses did not get along well with each other. So we sold all of the donkeys to the dwarfs.  
+Player: transport  
+Palomino: Right now our horses are on the loose. As long as not enough horses are chased back into the barn, the service is not running.  
+Player: minotaur  
+Palomino: Did you know that minotaurs ride giant bulls? It seems somewhat strange, like a human riding a cyclops.  
+Player: cyclops  
+Palomino: There is nothing big enough for a cyclops to ride.  
+Player: orc  
+Palomino: Orcs ride wolves and sometimes boars, and even spiders, as far as one can trust the rumour mill.  
+Player: Dwarf  
+Palomino: Most dwarfs don't like riding at all. Though I heard one of their heroes is riding a ram, they usually use horses and donkeys as beasts of burden. Given their size it is not astounding that they prefer the smaller donkeys over the horses.  
+Player: Venore  
+Palomino: Venore is the heart of trade and commerce. Not even Thais can rival Venore in that field.  
+Player: Thais  
+Palomino: The city is the centre of the known world. It is almost as if everything else is just built around it!  
+Player: Carlin  
+Palomino: Perhaps one day we will expand to Carlin. The women there will just love our ponies!  
+Player: Elves  
+Palomino: I heard the elves ride every animal that roams the woods. From wolves and bears to squirrels, the elves befriend and ride them all. Just amazing!  
+Player: Goblin  
+Palomino: As far as I know, the goblins ride all kinds of creepy things like lizards, centipedes, spiders and slugs. Most of those beasts can even walk on the ceilings of caverns and climb walls with ease!  
+Player: King  
+Palomino: If we could convince the king to use one of our coaches on his next visit to Venore, our business would get a fundamental boost!  
+Player: Mounts  
+Palomino: We loan mounts for a certain time. Those horses are easy to handle and loyal.  
+Player: Straw  
+Palomino: Be careful, the straw is highly inflammable.  
+Player: Coach  
+Palomino: We order our coaches from the dwarfs. They deliver high quality work that rarely breaks. Therefore we rarely have any delays. That is if there are no bandits, or monsters, or bad weather, or the horses are on the loose and such.  
+Player: bye  
+Palomino: Good bye!  

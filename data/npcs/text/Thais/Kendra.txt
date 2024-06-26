@@ -1,0 +1,38 @@
+Player: hi (thais)
+Kendra: Welcome on board, Madam Player. I can sail you to Vigintia Island and the lovely Nostalgia that lies close nearby. It's free!
+Player: hi
+Kendra: Welcome on board, Madam Player May I sail you back to Thais?
+Player: name
+Kendra: My name is Kendra.
+Player: job
+Kendra: I run a ferry service between Thais and the islands Vigintia and Nostalgia.
+Player: nostalgia
+Kendra: This is a very old island. It magically appears and disappears. Right now it has returned somehow! It's for sure worth a visit if you want to travel into Tibia's past.
+Player: vigintia
+Kendra: This lovely island is close to Nostalgia. There are a fair, beautiful beaches, some festive diversion and of course enough to eat and drink.
+Player: thais
+Kendra: That's where we are.
+Player: venore / carlin / edron / roshamuul / darashia / ankrahmun / darama / yalahar / ab'dendriel / svargrond / liberty bay / oramond / krailos
+Kendra: I'm sorry, but I don't sail there.
+Player: travora
+Kendra: Sorry, but I've never heard of this place.
+Player: ship
+Kendra: I'd rather call it a boat or a ferry, to be honest.
+Player: boat
+Kendra: It is a ferry. I can sail you to the islands Vigintia and Nostalgia.
+Player: ferry
+Kendra: I can sail you to the islands Vigintia and Nostalgia.
+Player: first dragon
+Kendra: So many claimed to have found and slain him but they had nothing to prove it.
+Player: passage / sail / go
+Kendra: Do you seek a passage to Vigintia and Nostalgia Island? It's for free!
+Player: passage / sail / go
+Kendra: Do you seek a passage back to Thais? It's for free!
+Player: no
+Kendra: Maybe later.
+Player: yes
+Kendra: Here we go!
+Player: kick
+Kendra: Off with you!
+Player: bye
+Kendra: Good bye!

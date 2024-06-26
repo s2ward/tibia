@@ -1,0 +1,50 @@
+Player: hi  
+Oiriz: Hi! How nice of you to visit my gem shop!  
+Player: kazordoon  
+Oiriz: Back home there was too much competition for an old dwarf like me. I prefer a peaceful life with enough time for my stuff.  
+Player: shop  
+Oiriz: It's a shame that I have to sell my precious gems to igno.. uhm customers who might not appreciate their value.  
+Player: sell / buy / offer / stuff / ware / equipment / goods  
+Oiriz: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.  
+Player: goblets  
+Oiriz: Ah, our newest import! We have golden goblets, silver goblets and bronze goblets. All of them have space for a hand-written dedication.  
+Player: yalahar  
+Oiriz: This city has turned into an uncut diamond over the centuries. Perhaps one day someone will come and cut it.  
+Player: vampire  
+Oiriz: I heard they appreciate beauty, even though they are beasts.  
+Player: gems  
+Oiriz: You can buy and sell small diamonds, sapphires, rubies, emeralds and amethysts or sell topazes.  
+Player: yalahari  
+Oiriz: They are as rare as the most valuable gems. Yet, I can't say they are as much in demand as jewels.  
+Player: name  
+Oiriz: I'm Oiriz Stonedigger.  
+Player: alchemist quarter  
+Oiriz: Plagues and destruction hold this quarter in a firm grip. Not many of the people who went there looking for treasures have ever returned.  
+Player: magician quarter  
+Oiriz: Well, it seems those magicians really messed things up.  
+Player: trade quarter  
+Oiriz: Humans come, humans go. Considering the shortness of a human's life span, I wouldn't bother much about a crime lord in this quarter.  
+Player: foreign quarter  
+Oiriz: They have quite rough attitudes in this quarter. You'll only earn respect if you fight for it...  
+Player: sunken quarter  
+Oiriz: This quarter is way too wet as that any dwarf with some self-esteem would care about.  
+Player: arena quarter  
+Oiriz: Those gladiators have an even worse temper than a drunken dwarf. And a drunken dwarf has quite a bad temper, I tell you.  
+Player: pearl  
+Oiriz: There are white and black pearls you can buy or sell, as well as giant green and brown pearls which you can sell.  
+Player: blood crystal  
+Oiriz: Haha, they are not meant to be owned by ordinary humans. Sorry, but no.  
+Player: cookies  
+Oiriz: I'm not a fan of sweets.  
+Player: factory quarter  
+Oiriz: I guess the technomancers back in Kazordoon would love all those machines.  
+Player: jewel  
+Oiriz: Currently you can purchase wedding rings, golden amulets, and ruby necklaces. We also buy gold ingots.  
+Player: job  
+Oiriz: Selling only the finest jewels!  
+Player: talon  
+Oiriz: We don't trade with them.  
+Player: trade  
+Oiriz: Here, take a look.  
+Player: bye  
+Oiriz: Good bye! Always remember where to buy the best gems and jewellery in the world!  

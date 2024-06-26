@@ -1,0 +1,48 @@
+Player: hi
+Perod: Greetings, dear Player. What do you need? I sell general equipment and distance weapons.
+Player: name
+Perod: I am Perod, how could you forget that, Player? We fought back-to-back in those troll caves on Rookgard a long time ago.
+Player: tibia
+Perod: I have travelled a lot and still I have not seen everything. So I abandoned my life as an explorer and became an employee of a trading company domiciled in Venore.
+Player: king
+Perod: The king is far away and yet we are still his subjects. Strange, isn't it?
+Player: jungle
+Perod: The jungle is full of adventures and secrets that wait to be explored. Some years ago I would have surely enjoyed that. ...
+Perod: But now that I settled down here, I don't feel excited anymore by the thought of exploring an inhospitable forest full of animals that want to kill me.
+Player: apes
+Perod: Their occasional raids give me a chance to train my fighting skills.
+Player: lizards
+Perod: I bet those lizards hide some ancient treasures in their settlements.
+Player: dworcs
+Perod: It's the jungle variant of the orcs. I guess no matter where you go, there is always some orc waiting behind some bush, ready to thrust his blade in your body.
+Player: thais
+Perod: Thais lacked any prospect for a change. I quickly figured out that Venore is the place to be.
+Player: venore
+Perod: After I had left Thais I found a new home in Venore and I never regreted it.
+Player: edron
+Perod: I lived in Edron as a treasure hunter for a while, but then the place became too crowded.
+Player: carlin
+Perod: Carlin is a dull city with strange habits.
+Player: darama
+Perod: A new continent means new chances. But my days as an adventurer are over. My new chances lie in trade and commerce.
+Player: darashia
+Perod: My trips there were very short, I don't like the desert and I did not like that town.
+Player: ankrahmun
+Perod: It's one of the few cities I have never visited and no one will ever get me even close to that city of undeads and mummies.
+Player: kazordoon
+Perod: The hidden city of the dwarves can be quite confusing for a newcomer. I got lost there a dozen times before I became familiar with that city.
+Player: dwarves / dwarfs
+Perod: Some dwarves live in the city, you'll find them in the tavern.
+Perod: The elves of Ab'Dendriel built a city seemingly out of trees. I wonder how they can stand the winter in those odd houses.
+Player: ab'dendriel / elves / elfs
+Perod: The elves of Ab'Dendriel built a city seemingly out of trees. I wonder how they can stand the winter in those odd houses.
+Player: ferumbras
+Perod: During my days as an adventurer, I was thrilled by the thought to fight him. Looking back I must say it is better that I have never met him.
+Player: excalibug
+Perod: Oh boy, how long have we searched for that weapon. I still wonder sometimes where it might be hidden, but I have no clue.
+Player: offer
+Perod: I sell equipment for your adventure as well as distance weapons! Just ask me for a trade to see my wares.
+Player: bye
+Perod: Good bye, Player.
+Player: (vanish)
+Perod: Good bye.

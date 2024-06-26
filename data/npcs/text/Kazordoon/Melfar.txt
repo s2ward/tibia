@@ -1,0 +1,29 @@
+NPC: Melfar  
+Player: hi / hello / hiho  
+Melfar: Just great, another disturbance. Just what I need.  
+Player: minotaur  
+Melfar: Those good-for-nothing horned monkeys have no better idea than to assault our workers and ruin our mining efforts. Each dead one is a step forward.  
+Player: beaver  
+Melfar: What do you mean, you haven't seen any?? They're hard to overlook, big and furry. Something must be wrong with your eyes.  
+Player: rodeo  
+Melfar: Well, if you can find a giant beaver that's enormous enough for you to jump on, fat human, you're welcome to compete with us.  
+Player: bait  
+Melfar: Ah, speak no more! I know you want to participate in the beaver rodeo this year! Well, I have some more bait to sell, just ask me for a trade.  
+Player: mine  
+Melfar: We mine ore and crystals in the mines around here. On a good day, we even find gold. Now, don't get that greedy look! Stay out of there!  
+Player: disturbance / job  
+Melfar: I'm the master of supplies for the imperial mining guild. And as such, as you might have guessed, I am a very busy dwarf, so speak up and speak quickly.  
+Player: supplies  
+Melfar: Well, supplies like tools, food or wood.  
+Player: wood  
+Melfar: Unless you're on a mission, I don't know why I should help you acquiring wood. Or what are you suggesting??  
+Player: dwarf / dwarv  
+Melfar: Yep! That's us. You're a smart one.  
+Player: elf / elv  
+Melfar: Pah! Speak no more of them treehuggers.  
+Player: name  
+Melfar: I'm Melfar Rockdriller, master of supplies.  
+Player: trade  
+Melfar: I don't think I have anything you could need. <scratches head> But if you've slain some of them nasty minotaurs - we could definitely use some of their old stuff, especially their horns.  
+Player: bye  
+Melfar: Good bye.  

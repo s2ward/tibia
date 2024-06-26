@@ -1,0 +1,65 @@
+Player: hi
+Chartan: Great Znake forgive me to converze wiz ziz unworzy blankzkin.
+Player: job / unworzy
+Chartan: Not zat it were of any conzern to a creature like you but I'm rezponzible for ze coordination of our reziztanze effortz.
+Player: mission
+Chartan: I don't have any mizzionz for you, zoftzkin. But we finally have some zuppliez. Warez againzt gold, of courze, like a good trade zhould work.
+Player: task
+Chartan: Yez, of courze. We are in dire need of zome zuppliez. And we alzo need zomeone to collect food and plantz from around Zao. Zere iz alzo ztill zome trouble lurking at ze great gate. ...
+Chartan: You are already familiar to our hit and run tacticz, developed by Zalamon himzelf. A zmaller ztrike now and zen directly at ze gate will weaken hiz forzez and furzer diztract him from ze tunnelz zat connect uz to ze zouz.
+Player: zuppliez
+Chartan: You are finished? Did you get ze zuppliez?
+Player: collect
+Chartan: Zo, I didn't zee you tazte any fruit yet - did you find zomezing? You know, my men can't take anymore right now, you need to try what you've found yourzelf. ...
+Chartan: Truzt me it iz not... zat dangerouz, really. And I? I, I myzelf am... far too important for ze reziztanze for zuch ezcapadez, of courze. Or do you want to ztart over and collect everyzing again?
+Player: ztrike
+Chartan: We need to zin out ze enemy linez even furzer. You will have to approach ze great gate onze again. I will try my best to get you out of zere in time. Are you prepared for battle?
+Player: resistance
+Chartan: We are fighting a holy war againzt ze power of ze impozter emperor. We will free our people from zeir zlavery and bring back ze znake god to itz children.
+Player: lizard
+Chartan: For many zenturiez our people followed ze wayz of ze Great Znake. We were ze choozen, itz children. Our land flourished and our wealz and power grew beyond meazure ...
+Chartan: But we became too fat and lazy. In our vanity we believed we would not need ze Great Znake and itz guidanze. ...
+Chartan: Inztead of liztening to ze prieztz and being content wiz what we had, we wanted more and did no longer value ze teachingz of ze true faiz.
+Player: teachingz
+Chartan: When we neglected ze teachingz of ze znake, we were punished. A great plague came upon uz and our old enemiez which we had nearly driven to extinction roze again. ...
+Chartan: While our leaderz were stunned, plague and invaderz took zeir toll and crushed our realm. But in zeir blindnezz ze lizardz of Zao did not zee ziz zign of zeir god and returned to ze true faiz but committed anozer zin.
+Player: zin
+Chartan: Inztead of begging ze Great Znake for forgivenezz, zey turned to ozerz to zave zem. Zey willingly became ze zlavez of ze traitor dragonz and betrayed zeir god even more. ...
+Chartan: We have to repent to regain ze favour of ze Great Znake.
+Player: repent
+Chartan: We have to free ourzelvez from ze tyranny of ze dragonz to prove our god zat we are onze more worzy of itz blezzingz.
+Player: snake
+Chartan: We are guilty az we have abandoned ze Great Znake. Zalamon'z teachingz are our only zalvation ...
+Chartan: He remindz uz about our heritage and our dutiez to ze Great Znake ...
+Chartan: We muzt repent, we muzt prove our worz to ze Great Znake by breaking ze shacklez of zlavery zat ze dragonz put upon uz ...
+Chartan: Zen ze Great Znake will onze again embraze uz.
+Player: zalamon
+Chartan: Ze great Zalamon iz our leader and a vizionary zat forezeez a gloriouz future for our people. He iz ze voize of ze Great Znake. ...
+Chartan: Zalamon iz an exalted being. He iz cloze to ze znake god. He iz ze lazt of ze anointed prieztz and never lozt ze blezzing of ze Great Znake becauze hiz faiz never wavered. ...
+Chartan: He haz taught me much of ze wayz of ze true faiz. One day I might become a priezt myzelf. I have yet much to learn about ze teachingz of ze Great Znake.
+Player: zao
+Chartan: Ze land haz lozt ze blezzing of ze Great Znake. We all zuffer for our failure in ze eyez of ze god. ...
+Chartan: When ze people return to ze true faiz, ze Great Znake will lift ze curze from ze land and our raze will experienze a new age of advanzement and power.
+Player: dragons
+Chartan: Ze dragonz are az bad az ze corruption of ze land. We have to endure zeir exiztanze az a penalty for abandoning ze Great Znake. ...
+Chartan: Additionally, zey are ze obztacle we have to overcome to prove our worz to ze Great Znake onze again.
+Player: human
+Chartan: You humanz are horrible and unclean creaturez. You and ze ozer beaztmen are ze zcourge wiz zat ze znake god punishez uz for failing it ...
+Chartan: Only for ziz reazon I will aczept your help. But be warned, I will watch every ztep you take.
+Player: garden
+Chartan: Ze garden iz lozt zinze zome time. It waz overgrown wiz corruption. Itz keeper went mad and it iz rumoured hiz ghozt ztill hauntz ze garden. All kind of evil creaturez live zere.
+Player: emperor
+Chartan: Ze minionz of ze emperor are aware of uz. Zey plan to deztroy uz all ...
+Chartan: Treachery can be our downfall, zerefore we have to act wiz great care. Zey try to capture uz, to get any zort of information about uz zey can. ...
+Chartan: Zey work wiz trapz and cruelty. Zey wiped out an entire miniztry becauze zey zuzpected a rebel in zeir rankz.
+Player: corruption
+Chartan: It iz ze mark of ze znake god'z ire. Ze Great Znake punishez ze land and our people. When we all worship ze Great Znake again, it will turn our land into a paradize for itz true followerz. ...
+Chartan: It iz only juzt zat ze Great Znake punishez uz for our failurez. We have zinned and lozt our faiz and paz. Itz zcourge iz ze corruption and ze vile orcz zat will ztrike down ze unworzy. ...
+Chartan: Only when whole Zao bowz to ze Great Znake again, ze curze will be lifted and ze land will onze again turn into a fertile paradize.
+Player: goods / wares / sell / offer
+Chartan: Yez, we finally have some zuppliez. Warez againzt gold, of courze, like a good trade zhould work.
+Player: supplies
+Chartan: Well you are too late, all provizionz for yezterday have already been packed and ztored, earlier. However, we ztill need zome zuppliez for today. And ze prizzonerzz are ztill in need of more food az well. Come back zoon.
+Player: bye
+Chartan: Ze planz finally will come to fruition.
+Chartan: Praize ze znake!

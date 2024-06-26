@@ -1,0 +1,82 @@
+NPC: Theodore Loveless  
+Player: hi / hello  
+Theodore Loveless: Greetings, dear visitor Player.  
+Player: companies  
+Theodore Loveless: Ah, my young friend, you have no idea how many companies have some sort of interest in seeing this settlement prosper.  
+Player: Charlotta  
+Theodore Loveless: This ugly hag is known as witch and poison brewer. Sadly she is too clever and the citizens too fearful, so the guards could not arrest her yet ...  
+Theodore Loveless: Given she's only a minor nuisance though, it is not that urgent.  
+Player: Chondur  
+Theodore Loveless: Chondur was a charismatic leader amongst the settlers that used to lived here. His greed for land and power made him to one of the warlords that were responsible for all those fights and cruelty between the settlers ...  
+Theodore Loveless: It was for warlords like him that we had to intervene for the good of the people. I heard he is still around and uses his magic to lure superstitious followers under his banner.  
+Player: cult  
+Theodore Loveless: The superstitious townspeople are simple-minded and easily lured into the influence of some charismatic trickster. For their own good we have to keep an eye on them to protect them from such cults and their own stupidity.  
+Player: djinn  
+Theodore Loveless: The djinns are common in the mountains not far away from the desert city Ankrahmun. I doubt you will ever encounter one of their kind here.  
+Player: Eleonore  
+Theodore Loveless: Miss Eleonore is so charming, so beautiful. Her strong will and her independence poses surely a great challenge to every man who wants to marry her ...  
+Theodore Loveless: But one look into her beautiful eyes and you will see that she is worth the effort. Perhaps one day I might be allowed to take that challenge ... who knows.  
+Player: Explorer Society  
+Theodore Loveless: The society is of admirable diligence in its efforts. If it were up to me, we would support them even more ...  
+Theodore Loveless: The times are hard though and as long as evil pirates and murderous quara steal and destroy much of our property ...  
+Theodore Loveless: it is hard enough to earn a living, not to mention financing explorations that could easily wait another year or two.  
+Player: Ferumbras  
+Theodore Loveless: I heard he has some relation to these isles. To learn more about it, you probably talk to the mage from Edron that resides in a tower here in the city.  
+Player: governor  
+Theodore Loveless: Governor Silverhand is such a fine person. He does so much for the city and receives so little in return. I hope we can cheer him up now and then ...  
+Theodore Loveless: That's the least we can do for this great man that sacrifices himself for the good of his people.  
+Player: Isolde  
+Theodore Loveless: I must admit I am a bit suspicious of this young lady. As far as I know she was not overly fond of the Thaian nobility. Add her strong family ties to this rebel town Carlin and you begin to wonder what that woman is up to ...  
+Theodore Loveless: All of a sudden she accepted a mission for the nobility that she did not acknowledge before? ...  
+Theodore Loveless: And this unholy influence on this poor young Tristan whom she seduced with her beauty. I must admit, I am concerned.  
+Player: job  
+Theodore Loveless: I am honoured to humbly serve as the spokesman of the Venorean trading companies.  
+Player: king  
+Theodore Loveless: The king has again proven his great wisdom. The way how he allowed to settle the affairs in Liberty Bays was more than smart ...  
+Theodore Loveless: The trust he has put in the governor, the local military and the help from Venore begins slowly to pay off ...  
+Theodore Loveless: People have work and something to do. The number of fights decreased to the brawls between drunks that are usual for seaports ...  
+Theodore Loveless: As soon as we have the pirates eliminated, we can lower many of the restrictions we had to enforce for the safety of all.  
+Player: liberty bay  
+Theodore Loveless: We put great hope in this settlement. The Venorean traders invested much money in the growth of that community here ...  
+Theodore Loveless: We have to see that the little profit we make will be enough to cover our expenses in the remote future ...  
+Theodore Loveless: But we are happy that our money could help to bring peace and to civilise the natives here ...  
+Theodore Loveless: Thais finally brought order to the locals that were torn from fightings and hunger before our arrival.  
+Player: loveless / theodore  
+Theodore Loveless: Yes, that is my name.  
+Player: pirate  
+Theodore Loveless: The pirates are all what is left from the warlords that once terrorised this region. Now that peace and the protection of Liberty Bay by our military moves in, their days are numbered ...  
+Theodore Loveless: One day, hopefully in the near future, the sea will be just as safe as this isle.  
+Player: plantations  
+Theodore Loveless: The productivity of our plantations is horrible. The rebellious minds of the workers let them perform poorly. We need to give them the right ... incentive to work harder.  
+Player: quara  
+Theodore Loveless: These creatures pose a constant threat to all we have established so far. They could destroy everything we have worked for so hard ...  
+Theodore Loveless: That's why we cannot put all our efforts in getting rid of the pirates. The safety of the city comes first.  
+Player: Raymond Striker  
+Theodore Loveless: This notorious pirate and cutthroat has killed more men, women and children than the last epidemic we had here in the slums ...  
+Theodore Loveless: He is known as ruthless warlord who sacrifices even his own men to ensure his escape. Sooner or later some hero will rise and slay him.  
+Player: rum  
+Theodore Loveless: Most sugar we harvest is turned into rum before we ship it. That keeps the supply of sugar short enough to ensure it is not profitable enough to produce rum elsewhere.  
+Player: settlement  
+Theodore Loveless: We put great hope in this settlement. The Venorean traders invested much money in the growth of that community here ...  
+Theodore Loveless: We have to see that the little profit we make will be enough to cover our expenses in the remote future ...  
+Theodore Loveless: But we are happy that our money could help to bring peace and to civilise the natives here ...  
+Theodore Loveless: Thais finally brought order to the locals that were torn from fightings and hunger before our arrival.  
+Player: sugar  
+Theodore Loveless: Sugar is money. Sugar is business. It's as easy as that.  
+Player: thais  
+Theodore Loveless: Thais is such a lovely city. The bustling centre of civilisation. The world has to thank Thais for so many things.  
+Player: Tristan  
+Theodore Loveless: What a fine young man. I just wonder what brought him here in the first place. Of course I don't believe into rumours that he left a sick wife and 3 children somewhere to begin a new life here ...  
+Theodore Loveless: That is probably just made up by those that are jealous of him.  
+Player: venore  
+Theodore Loveless: Venore has become an impressive little point of trade for wares from all over the world. The steady work pays off and brings us a modest state of luxury ...  
+Theodore Loveless: We have learnt much from our big brother Thais which we admire and where we are still searching for guidance.  
+Player: visitor  
+Theodore Loveless: I am honoured to humbly serve as the spokesman of the Venorean trading companies.  
+Player: voodoo  
+Theodore Loveless: Call it like you want. It is just another form of magic ...  
+Theodore Loveless: The only difference to the more common magic is that they are rather revert to cheap tricks, poison and superstition.  
+Player: Wyrmslicer  
+Theodore Loveless: Even the mentionable efforts of this great admiral could not stop the pirates yet. But he will not rest until the last one of these dogs will hang for the glory of Thais.  
+Player: bye  
+Theodore Loveless: Good bye, Player.  

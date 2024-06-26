@@ -1,0 +1,69 @@
+Player: Hi  
+Nemal: Hello. How are you? Maybe you can help me: Do my shoes have the same colour?  
+Player: Name  
+Nemal: My name is Nemal.  
+Player: Job  
+Nemal: I have no job. I'm a wanderer.  
+Player: Time  
+Nemal: I had a watch. It was nice, but I can't see the hands anymore.  
+Player: Offer  
+Nemal: I don't sell things. If you really need somthing, better walk straight to one of the towns or ask another adventurer.  
+Player: Thais  
+Nemal: Yes, I used to live there a while ago. Nice town.  
+Player: Carlin  
+Nemal: Aaaahh, Carlin, yes. I know this town. Strange graveyard there, isn't it?  
+Player: Desert  
+Nemal: Desert? Where is one? 
+Player: King  
+Nemal: King...king...yes, there is one. I still can remember the time when we had an other king. What was his name again?  
+Player: Library  
+Nemal: I can't read or write. What use would I have of a library?  
+Player: Book  
+Nemal: I can't read. I've never learned it.  
+Player: Door  
+Nemal: Closed doors need keys. What a pity keys are not lying around like rubbish!  
+Player: Secret  
+Nemal: Secrets should remain secret. No need of making them public.  
+Player: Treasure  
+Nemal: You can find some treasures here - some are bigger, some are smaller, some are of true value, some are of materialistic value.  
+Player: way 
+Nemal: There are many ways. I don't know all of them.
+Player: God  
+Nemal: I don't believe in gods, but a lot of people do. I never saw a god, why should I trust in someone I never met?  
+Player: fight
+Nemal: Better know how to fight!
+Player: Weapon  
+Nemal: I always have weapons with me. You never know what's behind the next corner.  
+Player: Sword  
+Nemal: I have a sword. It's very sharp. But I don't give it away, you never know. 
+Player: guild
+Nemal: Hmmm.. I wouldn't ever join a guild, but i know of the existance of some.
+Player: Excalibug  
+Nemal: I heard the name, but I don't trust rumours.  
+Player: Gharonk  
+Nemal: My father knew this language.  
+Player: Blind  
+Nemal: Yes, I seem to be blind. But I am not sure - maybe the dungeons are too dark!  
+Player: Potion of regained vision 
+Nemal: I heard of a potion of regained vision ... but I can't remember how to make it! Maybe you can help me. Do you know something about it?
+Player: yes 
+Nemal: So, did you bring the ingredients with you, stranger?
+Player: <any>
+Nemal: Oh. Maybe someone else could do it, then.
+Player: yes 
+Nemal: It doesn't seem to me as if you have the correct ingredients with you, stranger!
+Player: yes 
+Nemal: You seem to have them with you. Can you tell me, how many minutes I have to cook them? 
+Player: <any> 
+Nemal: Oh no, I don't think this is right. 
+Player: 31
+Nemal: Ah. It seems to work. But what are the words I have to speak?
+Player: <any> 
+Nemal: Oh no, I don't think these are the right words.
+Player: nalus murtu 
+Nemal: Thank you! NALUS MURTUUU! ... I can see again! To show you, how grateful I am, I'll give you a key. Be wise when using it. I can't tell you, where it matches, but ... take good care, it is useless without mental powers!
+Player: Bye  
+Nemal: Farewell!  
+Player: Farewell 
+Nemal: May the light be with you!
+Nemal: Where are you? Are you gone?

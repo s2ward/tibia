@@ -1,0 +1,56 @@
+Player: hi  
+Zlak: Ah, ze human everyone iz talking about. Your victory over ze champion waz quite imprezzive. ...  
+Zlak: Alzough, for many ziz only provez what a huge zreat you blank-zkinz ztill poze. What do you want?  
+Player: want  
+Zlak: Of courze I know about your mizzion zilly human!  
+Player: zao  
+Zlak: Ze land iz in a ztate of dizorder due to ze lozzez in ze zouz. Our enemiez became too powerful and numerouz. Ze whole empire iz now in imbalanze. ...  
+Zlak: Partz are mizzing and zingz zat uzed to work are not working anymore. Ze whole organization had to be reztructured and thiz prozezz iz ztill not completed.  
+Player: land  
+Zlak: I have no idea what iz happening to ze land. Perhapz it iz zick due to ze imbalanze.  
+Player: imbalanze  
+Zlak: A land needz order. To function it needz to be complete. Only zen a land iz healzy. Our land lozt partz to ze enemiez. Ziz hampered ze order we provided. ...  
+Zlak: Now ze land iz torn apart. Az long az we don't exterminate our enemiez, ze corruption will continue.  
+Player: corruption  
+Zlak: It iz nozing we are allowed to talk about. It iz zomezing zat haz to be ignored. Zoze who mention it tend to vanish. ...  
+Zlak: We do our bezt to work around ze lozzez it cauzez for ze empire. We even izzue orderz for villagez zat are long forgotten.  
+Player: emperor  
+Zlak: Ze emperor'z lackeyz are everywhere. You are endangering me with your prezenze and your uzelezz banter.  
+Player: zalamon  
+Zlak: Ziz lizard haz no right to zreaten me! Hiz planz will get uz all killed in ze end. ...  
+Zlak: He iz putting uz all into great danger. Don't truzt him too much. He iz willing to zacrifize everyzing for hiz planz. ...  
+Zlak: Ziz includez you and me.  
+Player: dragon  
+Zlak: Ze dragonz are not worze zan any ozer regent would be. I am no friend of ziz zilly rebellion but I will comply. ...  
+Zlak: It'z not az if I had a choize. Your friendz ztreaten to expoze my immunity to ze binding of ze dragon kingz.  
+Player: king  
+Zlak: Ze dragon kingz zupplanted ze highezt officialz in ze hierarchy. Zey rule in ze name of ze dragon emperor. Not all of zeir dezizionz are eazy to underztand for uz of ze lower rank. ...  
+Zlak: It haz to be zome zecret knowledge zat guidez zem. We of ze lower rank probably don't underztand zuch zingz. I guezz zat iz ze reazon why we are not allowed to mention ze corruption.  
+Player: binding  
+Zlak: Ze dragonz bind ze people to zeir will in zome way I don't underztand. It'z not a direct control but zomezing more zubtle. ...  
+Zlak: Zey juzt want to pleaze ze dragonz and believe zat everyzing zey dezide iz right. ...  
+Zlak: I zee no harm in zat but for zome reazon I and a few ozerz are not bound zat way. ...  
+Zlak: Ziz curzed devil Zalamon knowz about zat and if ze dragonz found out, I'd be dead.  
+Player: gods  
+Zlak: I don't care about religion. Life iz complicated enough az it iz. I will follow ze orderz of ze znake god and itz prieztz when zey rule zough. I juzt want to zerve and lead my life in peaze.  
+Player: human  
+Zlak: Your zpeziez iz dangerouz and irritating. Alzough you are no lizardz, you uze itemz, you drezz, and you talk.  
+Player: garden  
+Zlak: Ze old garden iz lozt to ze corruption of ze land. Everyone pretendz nozing haz happened. Everyone lookz away. Zat iz ze will of ze dragon kingz. ...  
+Zlak: Ze garden waz onze a plaze of pleazure and beauty. Ziz all iz lozt today. I heard itz keeper waz driven inzane and changed like hiz garden. ...  
+Zlak: But zoze who zpread zat ztory were zilenzed zoon and I did not bozer to azk around furzer.  
+Player: snake  
+Zlak: I will zerve ze znake god when itz time haz come. I hope it will not forgotten what dangerz I take upon me to azzizt itz followerz.  
+Player: palace  
+Zlak: Ze palaze iz a huge labyrinth for ze unwary. It iz full of high ranking officialz, minizterz and zeir clanz.  
+Player: resistance  
+Zlak: I don't underztand what zey are zinking. ...  
+Zlak: Az if my pozition were not already dangerouz enough, now zey zend me outziderz like you. Can't zey zee ze danger for me and juzt leave me alone? ...  
+Zlak: However, I will cooperate. Let uz get out of ziz predicament az quickly az pozzible.  
+Player: sick  
+Zlak: Why shouldn't a land become zick, too? You can zee it iz zuffering. Itz illnezz iz zpreading. It'z ze imbalanze zat makez it zick.  
+Player: dragon kingz  
+Zlak: Ze dragonz are not worze zan any ozer regent would be. I am no friend of ziz zilly rebellion but I will comply. ...  
+Zlak: It'z not az if I had a choize. Your friendz ztreaten to expoze my immunity to ze binding of ze dragon kingz.  
+Player: bye  
+Zlak: Juzt leave me alone.  

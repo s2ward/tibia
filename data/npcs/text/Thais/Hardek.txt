@@ -1,0 +1,16 @@
+Player: Hi  
+Hardek: Hello Player! Do you need my services?  
+Player: Job / Forestaller  
+Hardek: I am buying some weapons and armors.
+Player: weapons / armors
+Hardek: Ask me for a trade to see my offers.
+Player: trade
+Hardek: Yes, yes, just take a look.
+Player: help
+Hardek: I buy and sell stuff. Ask me for a trade, trade and we'll see if it catches my interest
+Player: Name  
+Hardek: I am Hardek, the forestaller.  
+Player: Time  
+Hardek: It is 0:00 am.  
+Player: Bye / farewell
+Hardek: Good bye, Player. Visit me whenever you want to sell something.

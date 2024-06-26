@@ -1,0 +1,44 @@
+Player: hi  
+Gurbasch: Welcome, Player! Lovely steamboat, ain't it? I can even offer you a passage if you like.  
+Player: passage  
+Gurbasch: Where do you want me to take you? To Kazordoon or to Farmine?  
+Player: Kazordoon  
+Gurbasch: Do you want to go to Kazordoon to try the beer there? 150 gold?  
+Player: Farmine  
+Gurbasch: Would you like me to take you to Farmine for 200 gold?  
+Player: job / work  
+Gurbasch: Should be quite obvious, I'm operating a steamship.  
+Player: name  
+Gurbasch: I'm Gurbasch Firejuggler, son of the Machine of the Molten Rock.  
+Player: kick me  
+Gurbasch: Off with you!  
+Player: dwarfs  
+Gurbasch: We are an old and proud race, although we possess the best inventions.  
+Player: cormaya  
+Gurbasch: Hey, we ARE at Cormaya! Must be the cave madness...  
+Player: invention  
+Gurbasch: You know, elves may be intelligent, but they are too lazy to invent something. Really.  
+Player: elves / elf  
+Gurbasch: Have only one elf on board of a ship, and you are doomed.  
+Player: tibia  
+Gurbasch: Tibia? Just don't ask.  
+Player: thais / venore / ab'dendriel /carlin / ankrahmun / darashia / edron / port hope / oramond / roshamuul / svargrond / yalahar / darama / folda / senja / vega / ice islands / issavi / krailos / liberty bay / rathleton  
+Gurbasch: How do you expect me to get there? Fly? Hm, wait... NO, sorry.  
+Player: ship  
+Gurbasch: A ship operated by steam power is something we dwarfs are indeed very proud of.  
+Player: poem  
+Gurbasch: Sorry, too busy with caring for my machines!  
+Player: technomancers  
+Gurbasch: A technomancer wields power over incredible machines.  
+Player: beer  
+Gurbasch: Ah, you got some? Nah, only beer from Kazordoon tastes fine.  
+Player: brodrosch  
+Gurbasch: He is my brother working at the Kazordoon steamship.  
+Player: buy / sell  
+Gurbasch: I'm not a vendor.  
+Player: captain  
+Gurbasch: Yes, I'm the captain of this ship.  
+Player: fare thee well  
+Gurbasch: Thou art truly in possession of fine manners. Be blessed!  
+Player: bye / farewell  
+Gurbasch: Until next time.  

@@ -1,0 +1,56 @@
+Player: hi  
+Fiona: Good day, Player. I hope you bring a lot of magical ingredients with you.  
+Player: magical ingredients  
+Fiona: Oof, there are too many to list. Magical ingredients can sometimes be found when you defeat a monster, for example bat wings. I buy many of these things if you don't want to use them for quests, just ask me for a trade.  
+Player: quests  
+Fiona: There are many quests out there where magical ingredients are required. If you are not sure whether you might need the stuff, better keep it.  
+Player: trade  
+Fiona: Sure, take a look. Apart from those, I also buy some of the possessions from famous demonlords and bosses. Ask me about it if you found anything interesting.  
+Player: time  
+Fiona: I never wear a watch. I dislike the pressure it gives me.  
+Player: curse / moon  
+Fiona: I buy magical ingredients for the Edron academy and study their effects when used for potions. But sadly I couldn't find out anything about a cure for the were-sickness. Talk to Alexander or Wyrdin, they might know something.  
+Player: name  
+Fiona: I am lady Fiona Mercury.  
+Player: edron  
+Fiona: I love the peaceful atmosphere.  
+Player: job  
+Fiona: I buy magical ingredients for the Edron academy and study their effects when used for potions.  
+Player: buy/sell/offer/stuff/equipment/goods/weapon/ware  
+Fiona: Sorry, but I'm not selling anything. I only buy magical ingredients. If you'd like to see what I need, ask me for a trade.  
+Player: potion  
+Fiona: If you are interested in potions, go visit Sandra's store.  
+Player: steel  
+Fiona: Sorry, I don't need any steel here.  
+Player: quest  
+Fiona: There are many quests out there where magical ingredients are required. If you are not sure whether you might need the stuff, better keep it.  
+Player: news  
+Fiona: Well, I stocked my wares up a bit.  
+Player: magical ingredients  
+Fiona: Oof, there are too many to list. Magical ingredients can sometimes be found when you defeat a monster, for example bat wings. I buy many of these things if you don't want to use them for quests, just ask me for a trade.  
+Player: tibia  
+Fiona: Not the ideal place to raise your children in, but still a world with its own charm.  
+Player: ferumbras  
+Fiona: He fascinates me. I've heard that they found his hideout... I'm very curious what will happen.  
+Player: spool of yarn  
+Fiona: Sorry, I only buy pure spider silk. Maybe they buy the yarn in Venore.  
+Player: cloth  
+Fiona: Sorry, I don't need any cloth here. I heard they buy it in Venore though.  
+Player: leather  
+Fiona: Sorry, I don't need any leather here. I heard they buy it in Venore though.  
+Player: iron  
+Fiona: Sorry, I don't need any iron here.  
+Player: paw  
+Fiona: Sorry, I don't need those. I heard some druid in Port Hope buys them.  
+Player: Orshabaal's Brain  
+Fiona: Impressive! You have retrieved the brain of Orshabaal himself! Would you really like to sell it for 12000 gold?  
+Player: no  
+Fiona: Maybe next time.  
+Player: Dragon Claw  
+Fiona: Impressive! You have obtained the claw of the feared Demodras! Would you really like to sell it for 8000 gold?  
+Player: nose ring  
+Fiona: Impressive! You have found the nose ring of the famous Horned Fox! Would you really like to sell it for 2000 gold?  
+Player: no  
+Fiona: Maybe next time.  
+Player: bye  
+Fiona: Good bye and please come back soon.  

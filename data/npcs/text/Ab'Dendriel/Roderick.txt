@@ -1,0 +1,47 @@
+Player: hi / ashari
+Roderick: Salutations Player. What brings you here?
+Player: name
+Roderick: I am Roderick of Thais, commoner.
+Player: job
+Roderick: I am ambassador of our beloved king, Tibianus III.
+Player: tibianus
+Roderick: Our beloved ruler seeks friendship and peace with the elves of Ab'Dendriel.
+Player: time
+Roderick: Ask someone else.
+Player: news
+Roderick: We don't hear much at this place.
+Player: magic
+Roderick: I am impressed by the magic the elves are able to wield. Many of them can cast and even teach spells.
+Player: sorcerer
+Roderick: Perhaps Thaian sorcerers can teach the elves their magic in exchange for knowledge of that noble race.
+Player: druid
+Roderick: The elven magic is somewhat similar to that of the druids.
+Player: crunor
+Roderick: I am not familiar enough with the different faiths to discuss them properly.
+Player: humans
+Roderick: Though there are differences with other races, I am sure we can live in peace and harmony with them.
+Player: troll
+Roderick: I heard about them working in the local mines. I am not sure if I like the concept of having such creatures within the walls of a city.
+Player: dwarfs / kazordoon
+Roderick: The dwarfs are very diligent and crafty people. Our contracts with Kazordoon assure the best for both of our races.
+Player: elves
+Roderick: Though there are differences, I am sure we can live in peace and harmony with that noble race.
+Player: deraisim / kuridai / cenath
+Roderick: I look forward to improving our relations with them.
+Player: abdaisim
+Roderick: Unfortunately I've had no contact with them yet.
+Player: teshial
+Roderick: They hardly seem more then an elven myth.
+Player: olrik
+Roderick: He is my servant and responsible for the mail. I wish he would not spend so much time with elven ladies and work harder.
+Player: venore
+Roderick: The tradesmen of Venore show great interest in trade contracts with the elves.
+Player: carlin
+Roderick: We are watching their relations with Ab'Dendriel closely.
+Player: thais
+Player: ferumbras
+Roderick: A threat to all free races.
+Player: excalibug
+Roderick: A nice myth, but nothing more.
+Player: bye
+Roderick: Farewell, Player.

@@ -1,0 +1,28 @@
+Player: hi
+Graubart: Ahoi, young (man / lady) Player. Looking for work on my ship?
+Player: name
+Graubart: My name is Graubart, captain of the great Seahawk!
+Player: job / live
+Graubart: I'm a merchant. I sail all over the world with my ship and trade with many different races!
+Player: merchant
+Graubart: A merchant is someone who trades goods with other people and tries to make a little profit. *laughs*
+Player: work
+Graubart: I'm sorry, but it is too dangerous nowadays. Too many storms out there. Too dangerous for the ship. Come back in some months and we will see.
+Player: ship / seahawk
+Graubart: Ah, my whole proud: My ship named Seahawk. We rode out so many stormy nights together. I think I couldn't live without it.
+Player: races
+Graubart: You know; elves, dwarfs, lizardmen, minotaurs and many others.
+Player: bruno
+Graubart: Bruno is one of the best sailors I know. He is nearly as good as me. *laughs loudly*
+Player: aneus
+Graubart: Hmm, I don't know him very well. But he has a very nice story to tell.
+Player: marlene
+Graubart: Pssst. Marlene is not near right now...? You know... she is a lovely woman, but she talks too much! So I always try to keep distance from her because she can't stop talking.
+Player: trade
+Graubart: I trade nearly everything, for example weapons, food, water, and even magic runes.
+Player: weapons / water / magic runes
+Graubart: Sorry, sold out.
+Player: food
+Graubart: Sorry, sold out. Ask Bruno.
+Player: bye
+Graubart: Good bye and don't forget me!

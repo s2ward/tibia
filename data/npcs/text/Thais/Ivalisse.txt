@@ -1,0 +1,46 @@
+Player: hi
+Ivalisse: Hello, worshipper of the Astral Shapers! Welcome to the temple! While you are here to pay tribute, you can also learn something about the ancient art of imbuing.
+Player: name
+Ivalisse: My name is Ivalisse.
+Player: time
+Ivalisse: There is always time to make a change.
+Player: job / mission
+Ivalisse: Besides my various duties in the temple, I also take care of visitors. Well, I would but right now I can't get my mind of how my father's doing. I am sorry.
+Player: (any)
+Ivalisse: Alright then, you are very welcome to explore the temple!
+Player: gates / duties
+Ivalisse: I help linking the gates of is temple to other ancient sites of the Astral Shapers.
+Player: temple
+Ivalisse: Well, I hope you like it here. We tried to rebuild in the Shaper's will. I am a bit preoccupied at the moment because of the absence of my father. I may not be the best of help currently, sorry.
+Player: Astral Shapers
+Ivalisse: As far as we know today, the Astral Shapers are an ancient, very advanced race of master artisans.
+Player: rumours
+Ivalisse: I hope he's alright... ah, nevermind.
+Player: imbuements / imbuing / imbue
+Ivalisse: The astral Shapers had many ways to shape and refine weapons and equipment. They built shrines dedicated to this world's energies, focussing it and utilising it like a tool to enhance objects. ...
+Ivalisse: They called this process imbuing and perfected it throughout time. Remains of these shrines are scattered all over Tibia. ...
+Ivalisse: If you truly want to master this art, you will need to visit the various ancient sites related to the original Shaper imbuements. There is one for each element and we know of at least one other besides these. ...
+Ivalisse: The discovery of the foundations of this very temple we are standing in, was the key to access their legacy. It is now the center of all our efforts in getting closer to the astral predecessors. ...
+Ivalisse: They found ways to connect various sites with a system of gates, all concentrating energy to allow travel to far away places. The more we learn, the more we can restore of these ancient gateways. ...
+Ivalisse: We see the gates as an invitation, use them to your advantage and follow the ways of the Shapers. Access to one of these ancient shrines is the only way to learn additional imbuements. ...
+Ivalisse: But beware, as far as we know, some of them have been claimed by other ancient beings and there is now way for us to prepare you what lies beyond any of those gates.
+Player: father
+Ivalisse: What? You're telling me you found father? How is he, what did papa say? A chalice? As a disguise? The whole time? ...
+Ivalisse: Well, I am not as much surprised as I am happy to hear that he's alright. You know, after the incident with the duck and the umbrella - it doesn't get to me that easily anymore. ...
+Ivalisse: Thank you very much for doing all this for me, I will be forever grateful. I have nothing to repay you with but you are already blessed to have been able to lay eyes on the sacred shaper ruins.
+Player: yes  
+Ivalisse: Thank you! He told me the other researchers in his team discovered a bridge leading to a cave with a dragon sculpture somewhere in a muggy, grassy area. ...  
+Ivalisse: The cave is said to lead to a temple complex underground which is ued as a gathering place for a race called 'draken'. He left right away and tried to enter Zao on his own. ...  
+Ivalisse: I was even more worried when he explained the route he chose. he wanted to head straight through a giant steppe and through a massive mountainous ridge to reach the grassy plains of lower Zao. ...  
+Ivalisse: If you're interested: I know that the Shapers where active in all corners of Tibia. If you happen to find Shaper ruins there, you may even be able to gather some of their lost knowledge. ...  
+Ivalisse: I may have been a bit stubborn and angry the day he left, I even refused to say farewell. And now I worry if he is safe. ...  
+Ivalisse: I can not do much to help you but I can open a portal to get you quite close to his last known location in Zao. What do you say, will you help me find my father?  
+Player: yes  
+Ivalisse: You would? That's great! Thank you! If you can find my father, tell him I understand and that I really miss him!  
+Player: silus
+Ivalisse: My father, can you tell me if he's alright?
+Player: chalice
+Ivalisse: I don't really know what you're talking about, sorry.
+Player: bye
+Ivalisse: Goodbye, have a pleasant day.
+Ivalisse: Oh, farewell!

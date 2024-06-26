@@ -1,0 +1,16 @@
+Player: hi
+Valindara: Greetings, mortal being!
+Player: name
+Valindara: I'm Valindara.
+Player: job
+Valindara: I sell and buy precious things.
+Player: time
+Valindara: Yes, I have time for a little chat or a trade.
+Player: trade / offer
+Valindara: Yes, I have some potions and runes if you are interested. Or do you want to buy only potions or only runes? Oh, if you want to sell or buy gems, you may also ask me.
+Player: news / rumours / rumors
+Valindara: Something unsettling seems to happen on Feyrist right now. But if you want to know more you should talk to Maelyrra.
+Player: maelyrra
+Valindara: Maelyrra is our queen, a beautiful nymph.
+Player: bye
+Valindara: Farewell, friend.

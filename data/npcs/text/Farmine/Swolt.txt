@@ -1,0 +1,110 @@
+Player: Hi  
+Swolt: Hello.  
+Player: Job  
+Swolt: Well, you see me standing behind a bar. Selling drinks. Food. And stuff. Now try figuring out what I could be making a living of down here.  
+Player: Food / Offer / Drinks / Buy / Sell / Equipment / Goods / Stuff / Ware  
+Swolt: I can offer you bread, cheese, ham, or meat. And as drinks we serve beer and water. If you'd like to see what we have to offer, just ask me for a trade.  
+Player: Farmine  
+Swolt: The Farmine project is a spark of hope for the whole dwarvenhood. The resources here might lead the dwarfs to a new golden age.  
+Player: Kazordoon  
+Swolt: Ah, home sweet home! Though I don't mind being here for a while, my heart still belongs to Kazordoon. ...  
+Swolt: In a few decades, I'll certainly return there and hand over this tavern to someone else.  
+Player: Tavern  
+Swolt: Every dwarf needs some relaxation now and then. This is the place where the miners come to share stories about home and hear news about the latest events like the giant beaver rodeos.  
+Player: Giant beaver rodeos.  
+Swolt: If you need to ask, you don't need to know.  
+Player: Miners  
+Swolt: The miners are a hardy folk. They love the mines, the sweat, the hammering of pick axes, and the smell of stone dust. And they love to curse about that all over a mug of beer. ...  
+Swolt: That's their way to do it and you can't really understand it if you're not a miner yourself.  
+Player: Mines  
+Swolt: For all I've heard, the mines are growing at a steady pace and the construction is stable.  
+Player: Excalibug  
+Swolt: The cousin of my mother's neighbour knows someone who claims to have seen a strange guy in the Kazordoon tavern. He was wearing a dark cloak and beneath it he hid a weapon that might have been Excalibug.  
+Player: Orc  
+Swolt: If the orcs come here to kill us, we will be prepared! They will pay heavily for every attack.  
+Player: Lizard  
+Swolt: Dragonkin! You can't expect anything good from dragons and the likes of them.  
+Player: Minotaur  
+Swolt: It wouldn't surprise me if there were another minotaur city somewhere on this continent. They are a pest.  
+Player: Thais  
+Swolt: Yeah, another land where Thais tries to get a foot in the door. I really hope they don't get us into a war or something.  
+Player: Venore  
+Swolt: I know we needed resources and gold but I doubt it was a good idea to invite them to participate in this project. ...  
+Swolt: Their representative never comes here for a drink. It seems he's afraid that something might slip him when he is drunk.  
+Player: Cave  
+Swolt: Now come on, this is more of a city than a cave by now. You have shops, a depot, a bank and even a tavern! Sunlight isn't that healthy anyway.  
+Player: Edron  
+Swolt: Those mages don't support us much with our project. I think everything they did was sending us this trader for magic stuff that no one but a few adventurers needs anyway. ...  
+Swolt: I think he's quite at a loss on how to handle the situation down here, but who cares? That's his problem, not ours.  
+Player: Trade  
+Swolt: Take a look, but not a sip before you've paid. And I hope it stays like this and you don't get any strange ideas about rice.  
+Player: Rice  
+Swolt: Aaargh! Cael and his strange thoughts! He bugged me so long about the lizard culture that I eventually agreed to prepare that rice for you if you need it. I need one ripe rice plant to prepare ten rice balls. OK?  
+Player: yes  
+Swolt: You don't have a ripe rice plant. Thank fire and earth I was spared.  
+Player: Rice  
+Swolt: Aaargh! Cael and his strange thoughts! He bugged me so long about the lizard culture that I eventually agreed to prepare that rice for you if you need it. I need one ripe rice plant to prepare ten rice balls. OK?  
+Player: Yes  
+Swolt: Here you go. 360 rice balls. Hope you buy a beer with them at least.  
+Player: Leader  
+Swolt: He's a good man with a dwarven sense of humour. He is very popular among his men.  
+Player: Mining guild  
+Swolt: Ah the guild. Each year, back in Kazordoon, the most influential breweries compete to become the official beer supplier for the guild meetings. ...  
+Swolt: Astonishingly, the guild needs less than a month to come up with a decision in this matter.  
+Player: Progress  
+Swolt: We've accomplished quite much since we started this base.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: No  
+Swolt: Bah, it must be boring to be you.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: As soon as the ore is pouring and some great smithies are running, Farmine will serve as a base for a dwarven army that will conquer the whole continent.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: If you went out in the open, wearing something golden or shiny, one of the numerous dragons might swoop down on you and snatch you away.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: Some claim the whole project is a big failure and we'll be called back to Kazordoon soon.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The fruits that grow in this land are poisonous. Don't eat anything that grows here.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The land is ruled by some dragon emperor. But this is no one else than Ferumbras himself.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The land north of the mountains that divide the continent is barren. An army of dragons is breeding there and prepares to set the world on fire with its breath.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The mining operation runs quite well and we might get additional resources soon. The first mines will be converted into barracks to accommodate all the new arrivals.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The mountains are the home of wild humans that can turn you into a mushroom if you anger them!  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The orcs of this land are a special breed. As long as you're not afraid, they won't kill you. Well, they might make you a cripple, you know, but they won't kill you unless you show fear.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The plains of this lands are roamed by orcs that are as numerous as locusts in a swarm. They've already eaten everything alive from deer to fruits to grass and even trees. ...  
+Swolt: Now they are eating themselves!  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: The whole Farmine project is only a cover to disguise what the dwarven emperor is actually seeking here.  
+Player: Rumor  
+Swolt: Rumours about the new land are all around. Would you like to hear one?  
+Player: yes  
+Swolt: Word is that we built our mine just under a castle full of vampires and undead. Some claim there is a tunnel ending directly in some old sarcophagus in a crypt full of bloodsucking monsters.  
+Player: Bye  
+Swolt: Bye.  

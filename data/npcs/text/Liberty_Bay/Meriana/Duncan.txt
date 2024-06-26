@@ -1,0 +1,64 @@
+Player: hi / hello  
+Duncan: Hi Player, come closer. Have a look at my wares and such.  
+Player: addon / outfit / sabre  
+Duncan: You're talking about my sabre? Nah, only a true pirate is allowed to wear one. Become one of us by solving all missions entrusted to you, and we will see.  
+Player: buy / goods / sell / equipment / stuff / ware  
+Duncan: Well erm, currently we are a little short on weapons and the like, but I still have pirate tapestries for sale. <cough> Ask me for a trade if you're interested.  
+Player: Carlin  
+Duncan: Carlin should seize the opportunity to trade with us much more often than they do now, but I guess they fear to get into trouble with Thais.  
+Player: Charlotta  
+Duncan: That old hag has a sharp tongue, I tell you.  
+Player: Chondur  
+Duncan: That Chondur knows how to exploit people's superstition. Not that I would blame him. He actually has certain powers at his command.  
+Player: cult  
+Duncan: Yes, I heard some superstitious folk in Liberty Bay formed some sort of cult. What a waste of time.  
+Player: excalibug  
+Duncan: If you ever stumble upon that weapon, I know some persons that are interested in buying it for a decent price.  
+Player: Ferumbras  
+Duncan: I heard that he is buried here on the isles or something like that. Speaking of that, I should sell some 'original Ferumbras bones' to some necromancers.  
+Player: governor  
+Duncan: Some say it does not matter who is in charge, but to the people, who came here to live their lives in freedom, it matters a lot.  
+Player: Isolde  
+Duncan: One of the Thaians in that bastion east of Liberty Bay.  
+Player: job  
+Duncan: I am responsible for all kind of equipment here.  
+Player: king  
+Duncan: It must be fun to be the king.  
+Player: liberty bay  
+Duncan: I consider home as the place where I can make a good deal. Right now that is here and not Liberty Bay.  
+Player: loveless / theodore  
+Duncan: I wonder if he was born with a silver spoon in his mouth or if he earned all his wealth by himself. Be it as it may, nowadays he does not only run his business but the whole town.  
+Player: mission  
+Duncan: People here tell the tales of your daring deeds. I don't need your help anymore, but you should ask Captain Striker if he has some important mission for you.  
+Player: name  
+Duncan: I am Duncan.  
+Player: natives  
+Duncan: Ha, that's what they call us. Who cares.  
+Player: pirate  
+Duncan: Pirate is an ugly word for somebody that is just fighting for things that belong to him anyway.  
+Player: plantation  
+Duncan: The plantations are sometimes raided by the pirates from Nargor.  
+Player: quara  
+Duncan: The quara are bad for business Even if they attack our enemies it is our loss in the long run.  
+Player: rum  
+Duncan: Rum is the liquid gold of the isles.  
+Player: Striker  
+Duncan: Striker is a fine man. A bit too picky with his targets for my taste, but still the best leader around here.  
+Player: sugar  
+Duncan: We plunder a lot of sugar from the ships. It is hard to sell though.  
+Player: task  
+Duncan: I can't think of any task for you right now.  
+Player: thais  
+Duncan: I think there is too much competition in such huge cities to run a decent business.  
+Player: trade  
+Duncan: Here you go. Those would fit nicely into your house, showing that you're a fan and supporter and all that.  
+Player: Tristan  
+Duncan: One of the Thaians in that bastion east of Liberty Bay.  
+Player: venore  
+Duncan: For all you may say, the Venoreans know how to earn some profit. At least for that I must respect them.  
+Player: voodoo  
+Duncan: Some sort of magic as far as I know.  
+Player: Wyrmslicer  
+Duncan: He has ruined me a few deals and gives the captains a headache now and then.  
+Player: bye / farewell  
+Duncan: Good bye.  

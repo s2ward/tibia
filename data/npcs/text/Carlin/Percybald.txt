@@ -1,0 +1,10 @@
+Player: hi  
+Percybald: Be greeted Player! Please don't interrupt me for too long!  
+Player: interrupt / job  
+Percybald: Can't you see? I am the greatest actor in the world!  
+Player: name  
+Percybald: Haven't you heard of me? I'm Percybald, the Magnificent!  
+Player: test / disguise  
+Percybald: I'm busy studying my next great role, you philistine!  
+Player: bye / farewell  
+Percybald: Good bye, Player!.  

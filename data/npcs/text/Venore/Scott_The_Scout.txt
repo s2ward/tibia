@@ -1,0 +1,14 @@
+Player: hi
+Scott the Scout: Hello, Cony Island. Norman told me a young adventurer would visit. Do you have that grind stone with you?
+Player: no
+Scott the Scout: Are you kidding me? Come back with the stone or get lost!
+Player: yes
+Scott the Scout: Hmm. It seems you lost your grind stone. Return to Norman, he may be able to help you.
+Player: venore
+Scott the Scout: Best place to live in. Thrivin' city. Best manufacturers of wood, famous for its 'haute cuisine' Venorean spice and has got the nicest shops with lots of frills for the lady while a man can enjoy a quiet game o' cards or dograces, if ya get my drift.
+Player: dograces
+Scott the Scout: Our Venore's the only city with an official gambling license. Famous for its dog races throughout Tibia's lands! ... You'll find the races in the city centre. For a small fee, I can name ye the dog that's sure to win. <winks>
+Player: swamp
+Scott the Scout: Nice place, ain't it? See the specialty of Venore, the spice weed? Only grows here in our swamp. Delicious stuff.
+Player: bye
+Scott the Scout: Safe journey, friend. Come back soon.

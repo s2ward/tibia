@@ -1,0 +1,16 @@
+Player: Hi / Hello  
+Dead Bureaucrat: Back again? How can I help you this time?  
+Player: skeleton  
+A Dead Bureaucrat: You wouldn't look any better if you worked 200 years without a break!  
+Player: work  
+A Dead Bureaucrat: I'm one of the lucky ones that have to work a SMALL eternity for Pumin.*SIGH*  
+Player: name  
+A Dead Bureaucrat: Sorry, I seem to have forgotten it  
+Player: job  
+A Dead Bureaucrat: I'm a bureaucrat who does not even find the time to eat. Just look how bony I am! *SIGH*  
+Player: water / food  
+A Dead Bureaucrat: Don't bother me with that worldly stuff.  
+Player: alcohol  
+A Dead Bureaucrat: It is not allowed for us, but if you have some stuff with you ... be my guest.  
+Player: bye / farewell  
+A Dead Bureaucrat: Good bye and don't forget me!  

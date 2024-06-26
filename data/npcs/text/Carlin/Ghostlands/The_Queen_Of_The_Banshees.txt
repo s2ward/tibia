@@ -1,0 +1,34 @@
+Player: hi / hello  
+The Queen Of The Banshees: Be greeted, dear visitor. Come and stay ... a while.  
+Player: name  
+The Queen Of The Banshees: It hurts me to even think about my mortal past. Its long lost and forgotten. So don't ask me about it!  
+Player: job / stay  
+The Queen Of The Banshees: It's my curse to be the eternal guardian of this ancient place.  
+Player: seed  
+The Queen Of The Banshees: This ancient race was annihilated by its own doings, that's all I know. Aeons have passed since then, but the sheer presence of this complex is still defiling and desecrating this area.  
+Player: destruction  
+The Queen Of The Banshees: This ancient race was annihilated by its own doings, that's all I know. Aeons have passed since then, but the sheer presence of this complex is still defiling and desecrating this area.  
+Player: complex  
+The Queen Of The Banshees: Its constructors were too strange for you or even me to understand. We don't know what this ... thing they built was supposed to be good for. I feel a constant twisting and binding of souls, though, that is probably only a side-effect.  
+Player: race  
+The Queen Of The Banshees: The race that built this edifice came to this place from the stars. They ran from an enemy even more horrible than themselves. But they carried the seed of their own destruction in them.  
+Player: ghostlands  
+The Queen Of The Banshees: The place you know as the Ghostlands had a different name once ... and many names after. Too many to remember them all.  
+Player: banshee  
+The Queen Of The Banshees: They are my maidens. They give me comfort in my eternal watch over the last seal.  
+Player: seal / guardian  
+The Queen Of The Banshees: I'm the guardian of the SEVENTH and final seal. The seal to open the last door before ... but perhaps it's better to see it with your own eyes.  
+Player: place  
+The Queen Of The Banshees: It served as a temple, a source of power and ... as a sender for an ancient race which lived a long time ago and has long been forgotten.  
+Player: seventh / last  
+The Queen Of The Banshees: If you have passed the first six seals and entered the blue fires leading to the seals' chambers, you are ready to receive my kiss ... It will open the last seal. Do you think you are ready?  
+Player: kiss  
+The Queen Of The Banshees: You've already received my kiss. You should know better than to ask for it.  
+Player: addon / outfit / task  
+The Queen Of The Banshees: Before we talk about any reward, fulfil my task: bring me 50 holy orchids - the ones elves often carry with them.  
+Player: holy orchid  
+The Queen Of The Banshees: Have you really brought me 50 holy orchids?  
+Player: no  
+The Queen Of The Banshees: Try to be better prepared next time we meet.  
+Player: bye / farewell  
+The Queen Of The Banshees: We will meet again, Player.  

@@ -1,0 +1,188 @@
+Player: hi / hello  
+Lily: Welcome, Player! You look a little stressed today. If you like to view my offers of potions, just ask me for a trade. In case you're looking for the marketplace and dungeons, just follow the path to the east!  
+Player: academy  
+Lily: The academy is the big stone building in the town centre. If you're ready to leave Rookgaard, go there to see the oracle.  
+Player: Al Dee  
+Lily: Best tool shop in town, if you ask me.  
+Player: Amber  
+Lily: I heard that she's recovering below the academy. She has been on an exciting expedition. I haven't talked to her yet, though.  
+Player: antidote  
+Lily: Antidote potions will cure poisoning. They also have a lovely blueberry taste. You only need them when you get poisoned deep down in a dungeon, else just go to the temple for a free heal!  
+Player: antidote potion  
+Lily: I can offer you homemade antidote potions and small health potions. Ask me for a trade if you like to see them.  
+Player: armor  
+Lily: Armors? Best buy them at Dixi's little counter, just upstairs from Obi's shop. Or, if you have a premium account, go to Lee'Delle for better offers.  
+Player: bank  
+Lily: It's wise to store most of your gold at the bank below the academy. It's safer that way.  
+Player: Billy  
+Lily: He's a farmer and sells food. Food will help you regain health when you are injured. Many monsters also carry food with them.  
+Player: blueberry / berry / blueberries  
+Lily: Oh, do you have blueberries for sale? I need them for my antidote potion. I give you 1 gold for 5 of them, yes?  
+Player: cipfried  
+Lily: Visiting Cipfried in the temple is a good idea if you are injured or poisoned. He can heal you.  
+Player: citizen  
+Lily: If you tell me the name of a citizen, I'll tell you what I know about him or her.  
+Player: cookie  
+Lily: Yum, cookies! If you have some for me, just ask me for a trade.  
+Player: Crunor  
+Lily: Crunor is the great lord of trees and the creator of all plants. Despite what some people believe, he didn't create the monsters, though.  
+Player: Dallheim  
+Lily: He is a great warrior. He can also tell you much about monsters and dungeons on this island.  
+Player: deposit / flask / vial  
+Lily: I will pay you 5 gold for every empty vial and potion flask. Just ask me for a trade.  
+Player: Dixi  
+Lily: She's Obi's granddaughter and deals with armors and shields, just upstairs from Obi's shop.  
+Player: druid  
+Lily: Being a druid is a wonderful profession. You control the forces of nature and can heal others.  
+Player: dungeon  
+Lily: If you need information about the dungeons here, you should talk to one of the bridge guards. They will show you where to go.  
+Player: equipment  
+Lily: You definitely need a good weapon, an armor and a shield. Also, you should never leave for a dungeon without rope, shovel and torch.  
+Player: fight  
+Lily: If you want to fight monsters, you should get better equipment from the merchants. You should also talk to one of the bridge guards to find suitable monsters for you.  
+Player: food  
+Lily: Oh, I'm sorry honey, I don't sell food. If you are hungry, visit one of the farmers Billy and Willie. I buy blueberries and cookies, though.  
+Player: gold / money  
+Lily: Earn gold by fighting monsters and picking up what they carry. Sell it to merchants to make profit!  
+Player: guard  
+Lily: Our bridge guards are Dallheim and Zerbrus. You can find Dallheim if you follow the path to the right, then turn north at the temple.  
+Player: health  
+Lily: Health potions will heal you for about 75 hit points. It can't hurt to carry one with you, just in case.  
+Player: help / information  
+Lily: How can I help you? If you like to buy something, just ask me for a trade. We can also chat about Tibia. Or, I could give you general hints about the game.  
+Player: how are you  
+Lily: I'm in tune with myself and with nature. Thank you.  
+Player: hyacinth  
+Lily: Hyacinth also sells small health potions. He lives outside the village, in a hidden place.  
+Player: job  
+Lily: I'm a druid, bound to the spirit of nature. My potions will help you if you feel bad. I also buy blueberries and cookies. Just ask me for a trade.  
+Player: king  
+Lily: I think Tibia would be a better place without authorities who lead others to war. Can't we just all live in peace?  
+Player: Lee'Delle  
+Lily: If you are a premium adventurer, you should check out Lee'Delle's shop. She lives in the western part of town, just across the bridge.  
+Player: Lily  
+Lily: Yes?  
+Player: Loui  
+Lily: He used to help me gather blueberries. Then, one day, he suddenly stopped comming here. They say he went a little out of his mind.  
+Player: main  
+Lily: The main continent is huge! The gods of Tibia created everything from great seas, deep jungles and large deserts.  
+Player: merchant  
+Lily: To view the offers of a merchant, simply talk to him or her and ask for a trade. They will gladly show you their offers and also the things they buy from you.  
+Player: monster  
+Lily: Sadly, our little village of Rookgaard is invaded by monsters. From the dungeons they creep to the surface and attack the city. We always need adventurers helping us to fight them.  
+Player: name  
+Lily: My name is Lily, like the flower. It also stands for purity, just like my potions are!  
+Player: Norma  
+Lily: I don't know what to think about all this new bar. Rookgaard needs a little peace!  
+Player: Obi  
+Lily: He sells weapons. His shop is east of here.  
+Player: offer / stuff / buy / wares  
+Lily: Just ask me for a trade to see my offers. If you want to sell blueberries, ask me about them separately.  
+Player: oracle  
+Lily: You can find the oracle on the top floor of the academy, just above Seymour. Go there when you are level 8 to reach more areas of Tibia.  
+Player: Paulie  
+Lily: He takes care of the bank, keeping our money safe.  
+Player: poisoning  
+Lily: Some creatures like snakes or poison spiders can poison you. That will diminish your health over a certain amount of time, so be careful when dealing with those creatures!  
+Player: potion  
+Lily: I can offer you homemade antidote potions and small health potions. Ask me for a trade if you like to see them.  
+Player: premium  
+Lily: If you purchase premium time for your account, this opens up a lot of possibilities. ...  
+Lily: For example, you will be able to travel off the mainland, ride a mount and benefit from offline training as well as having more outfits and magic spells to choose from.  
+Player: rookgaard  
+Lily: Well, in this village and its surroundings you can train your skills until you are level 8. Then you should see the oracle and head to the main continent.  
+Player: rope / shovel / torch  
+Lily: You best buy such equipment at Al Dee's store in the North of the village. Or, if you have a premium account, go to Lee'Delle for better offers.  
+Player: Santiago  
+Lily: We tried everything to fight that cockroach plague in his cellar, but natural anti-bug potions simply won't help. I guess those roaches need to be fought with stronger weapons.  
+Player: sell  
+Lily: Just ask me for a trade to see what I buy from you. If you want to sell blueberries, ask me about them separately.  
+Player: Seymour  
+Lily: Seymour is a teacher running the academy. He has many important information about Tibia.  
+Player: shield  
+Lily: Shields? Best buy them at Dixi's little counter, just upstairs from Obi's shop. Or, if you have a premium account, go to Lee'Delle for better offers.  
+Player: shop  
+Lily: There are many shops around here which are owned by local citizens.  
+Player: temple  
+Lily: The temple is just to the right. You can get a healing for free there if you are badly injured or poisoned.  
+Player: thank  
+Lily: Oh, it's a pleasure.  
+Player: Tibia  
+Lily: Tibia is our beautiful world, created by the gods. Being a druid, I'm a worshipper of Crunor.  
+Player: time  
+Lily: It's about 5:05 pm. But does it really matter? Don't rush yourself and enjoy all these little moments.  
+Player: tom  
+Lily: He's the local tanner. You could try selling fresh corpses or leather to him.  
+Player: trade  
+Lily: Of course, just browse through my offers. If you buy a potion, don't forget that there's a deposit of 5 gold on the empty flask.  
+Player: train  
+Lily: To train your skills, simply help us fighting monsters.  
+Player: weapon  
+Lily: If you are looking for weapons, you should visit Obi's shop east of here. Or, if you have a premium account, go to Lee'Delle for better offers.  
+Player: Willie  
+Lily: He's a farmer and sells food. Food will help you regain health when you are injured. Many monsters also carry food with them.  
+Player: Zerbrus  
+Lily: He is a great warrior. He can also tell you much about monsters and dungeons on this island.  
+Player: Zirella  
+Lily: That poor old woman. I wish I could help her.  
+Player: hint  
+Lily: Send private messages to other players by right-clicking on the player or the player's name and select 'Message to ....'. You can also open a 'private message channel' and type in the name of the player.  
+Player: hint  
+Lily: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.  
+Player: hint  
+Lily: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Lily: To open or close skills, battle or VIP list, click on the corresponding button to the right.  
+Player: hint  
+Lily: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Lily: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Lily: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Lily: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Lily: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Lily: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Lily: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Lily: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Lily: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Lily: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Lily: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Lily: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Lily: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Lily: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Lily: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Lily: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Lily: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Lily: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Lily: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Lily: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Lily: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Lily: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Lily: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Lily: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Lily: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Lily: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: bye / farewell  
+Lily: Take care, Player.  

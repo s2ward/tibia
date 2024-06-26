@@ -1,0 +1,152 @@
+Player: Hail Emperor / Salutations Emperor  
+Emperor Kruzak: Hiho, may fire and earth bless you, my child. Are you looking for a promotion?  
+Player: Promotion  
+Emperor Kruzak: Do you want to be promoted in your vocation for 20000 gold?  
+Player: Name  
+Emperor Kruzak: Well, I'm Emperor Kruzak Dustbeard, son of Fire and Earth, second only to the gods, jawoll.  
+Player: Gods  
+Emperor Kruzak: Well, we honour Father Earth and Mother Fire. Some of us even follow the teachings of additional gods.  
+Player: Job  
+Emperor Kruzak: Well, I'm the emperor of the dwarfs. It's my duty to protect my folk and to see that justice is done.  
+Player: City  
+Emperor Kruzak: Well, go and see the wonders of our cities for yourself.  
+Player: Eremo  
+Emperor Kruzak: It is said that he lives on a small island near Edron. Maybe the people there know more about him.  
+Player: Father / Beard  
+Emperor Kruzak: Well, more than 150 years ago, my father lost his beard overnight. Thereupon, he resigned from his leadership after hundreds of years of supreme ruling.  
+Player: Lost  
+Emperor Kruzak: <sigh> Well, it saddens me to see what can become of a dwarf. They are truly lost. They are not ours any more, even if their ancestors once might have been. ...  
+Emperor Kruzak: Their dwarfish traits though make them fearsome fighters and the number in which their masters have bred them makes them a threat for anyone. ...  
+Emperor Kruzak: The worst thing is, if their masters did not seemingly consider the gnomes their major enemies, we would probably face even fiercer attacks. ...  
+Emperor Kruzak: It took our entire might to stop their last invasion force. Only when their leader Bloodtooth, a horrible thing that none of our experienced veterans had ever encountered before, was cut down, was the assault stopped. ...  
+Emperor Kruzak: Now the Lost are roaming the mines, and are still numerous and powerful enough to pose a threat. Meanwhile, we are regrouping and reorganizing in the hopes that we will be better prepared when the time of another assault comes.  
+Player: Prepared  
+Emperor Kruzak: Well, we use all stocked resources of finest metal to craft weapons and armor, we train new warriors and spellcasters every day. ...  
+Emperor Kruzak: We give battle training to each citizen to enable them to better defend themselves and to form militia units in case of emergency. And we call in old favours and allies.  
+Player: Citizen  
+Emperor Kruzak: Well, all dwarfs could be considered citizens. We are brothers and sisters in fire and earth.  
+Player: Time  
+Emperor Kruzak: Well, after some centuries I stopped to worry about time.  
+Player: Beregar  
+Emperor Kruzak: Well, you claim there is another dwarven city called Beregar? Could that be the city of the ancient tribe?!?  
+Player: Ancient tribe  
+Emperor Kruzak: Well, there is an old poem that is known by every dwarven child. It tells a story about the God Wars and the early years of Tibia. There have been two big dwarven tribes, but then a conflict arose. ...  
+Emperor Kruzak: This conflict caused one of the tribes to leave their birthplace and to find themselves a new home. Not in my wildest dreams I would have believed that this poem could contain some truth. You should try to find it.  
+Player: Conflict  
+Emperor Kruzak: Well, our race is very hot-blooded, bullheaded, and also proud. The real cause is unknown but I can imagine how it happened.  
+Player: Poem  
+Emperor Kruzak: Well, it must have been written by someone of the Kazordoon tribe as there hasn't been any contact to the other tribe since the day we parted. I doubt you'll find a written copy of it here as it has been passed on by word of mouth. ...  
+Emperor Kruzak: Maybe you find someone who tells you the poem. I for myself don't have time to tell you a children's poem. By the beard of my father, I'm the emperor, jawoll!  
+Player: Tribe  
+Emperor Kruzak: Well, like all dwarfs we worship earth and fire. As you know, our tribe is closer connected to the element of earth. It is said that the other tribe prefers the element of fire.  
+Player: Noodles  
+Emperor Kruzak: WAAAH! Don't mention that beast! He was after the bones of our ancestors last time King Tibianus visited us!  
+Player: Tibia / Lands  
+Emperor Kruzak: Well, the gods handed the lands over to the younger races, but my people will leave this world in dignity.  
+Player: Thais / Carlin  
+Emperor Kruzak: Well, we keep peace with Carlin and Thais.  
+Player: Edron  
+Emperor Kruzak: Well, it's a colony of this human king.  
+Player: Elves  
+Emperor Kruzak: Well, they are not as bad as one might think.  
+Player: Army  
+Emperor Kruzak: Well, you'd better ask the general.  
+Player: Ferumbras  
+Emperor Kruzak: Well, we are prepared even for him.  
+Player: Excalibug  
+Emperor Kruzak: Well, well, well, the god blade. A myth? Perhaps. Even in my youth, it was only a legend.  
+Player: How are you?  
+Emperor Kruzak: Well, I'm fine, the last centuries have been good to me, jawoll.  
+Player: Quest / Mission  
+Emperor Kruzak: Well, if you walk through the world with open eyes, you will see quests without asking.  
+Player: Mines  
+Emperor Kruzak: Well, our mines have been invaded by a basilisk. We trapped him with a cave-in. The hero who brings me the body of this beast will get a great reward. ...  
+Emperor Kruzak: But of course after the blight we have other problems down there, like the lost and the renegades.  
+Player: Blight  
+Emperor Kruzak: Well, the blight was a great disaster. It hit us completely unprepared. ...  
+Emperor Kruzak: Given the severity of the disaster, we can be glad we handled it that well. Still, it weakened our defences, and by chance or sinister plans our enemies took it as an opportunity to hit us even harder. ...  
+Emperor Kruzak: In the midst of recovering from the blight and relocating resources, the trouble in the mines began. First with rampaging creatures and then came the Lost. ...  
+Emperor Kruzak: With resources bound there, even here in Kazordoon an enemy rose his ugly head ... and this head wore a dwarfen beard. Our own people, lead by the Axe of Vengeance fellowship.  
+Player: Axe of Vengeance / Renegades  
+Emperor Kruzak: Well, the Axes of Vengeance were troublemakers even when they were few. Their reckless ways and boasting sadly impressed a lot of the young and easily gullible. ...  
+Emperor Kruzak: Stories of their mostly made-up exploits and lies lured some into their embrace, but it was not until the blight that they became popular and a threat thanks to their leader, Jarok Bilespit.  
+Player: Jarok Bilespit  
+Emperor Kruzak: Well, Jarok Bilespit was a mercenary. He did many questionable things for money. Especially dealing with non-dwarfs, although he usually was the first to express their disgust for them, when not taking their money, of course. ...  
+Emperor Kruzak: He gathered around him a number of drunkards and bullies of the worst sort, and founded the Axes of Vengeance fellowship, which was rather his private gang than a true fellowship. ... Emperor Kruzak: They were usually travelling on contract, doing questionable missions and only returned to Kazordoon to boast about their made-up exploits and to spend their ill-begotten money with both hands. ...  
+Emperor Kruzak: This impressed certain people and gained him an undeserved reputation as a daring hero. ...  
+Emperor Kruzak: Though no week they were in town passed without one of them getting imprisoned for brawls, threats and destruction of property, especially younger dwarfs thought it would be cool to be one of them, and if not respected, then at least be feared. ...  
+Emperor Kruzak: When the blight struck, his easy explanations and pointless accusations stroke a cord in the minds of several individuals. I admit we did not see this coming and let him spread his phrases in the city. ...  
+Emperor Kruzak: We had other things to do and did not want more unrest by arresting some popular figure. With our attention elsewhere, Bilespit took advantage of the desperate and lured them into his ranks. ...  
+Emperor Kruzak: He was never the subtle type though, so it became quite clear what unspeakable treason he planed. ...  
+Emperor Kruzak: When he led his bunch of mercenaries and several drunks as some kind of meat-shield to dethrone me, we were prepared. We planned to take Bilespit down first to minimize casualties, but things got out of hand and there were many deaths on both sides. ...  
+Emperor Kruzak: With the order to keep presumably innocent casualties low, my guards fought very restricted, which could have led to their losing the battle. So we had to change orders to reduce our own casualties, and the fight turned very bloody and nasty. ...  
+Emperor Kruzak: Rumours spread through the city and others who thought they sympathized with Bilespit's cause joined the battles. ...  
+Emperor Kruzak: Still, we tried to keep casualties low; and as soon as we took certain strategic positions and gained the upper hand, most of the rebellious forces escaped. ...  
+Emperor Kruzak: Now they are hiding in the mine: Most of those mines are old and depleted of ore. They are overrun by all sorts of creatures such as the Lost. ...  
+Emperor Kruzak: So it made not much sense to send in troops that could not efficiently use their numbers and combat training in brawls within winding and narrow tunnels. We had to sent in troops to fight the advancing lost, though.  
+Player: Money / Tax / Gold  
+Emperor Kruzak: Well, our people love gold, that's common knowledge.  
+Player: Knight  
+Emperor Kruzak: Well, dwarven knights are feared by our enemies in the whole world.  
+Player: Druid  
+Emperor Kruzak: Well, we have almost no druids in our town. If need arises, we can ask for them in Carlin.  
+Player: Paladin  
+Emperor Kruzak: Well, we have some crossbowmen in our army but rely more on our knights.  
+Player: Old / Age  
+Emperor Kruzak: Well, I don't want to talk about my age.  
+Player: Shop  
+Emperor Kruzak: Well, my subjects maintain many fine shops. Go and have a look at their wares.  
+Player: Minotaur  
+Emperor Kruzak: Well, we don't fear them. They seem more occupied with the humans anyway.  
+Player: Durin  
+Emperor Kruzak: Well, Durin is one of the celestial paladins, messenger of the gods. He's the protector of the dwarven race.  
+Player: Justice  
+Emperor Kruzak: Well, justice is a difficult thing. Can one be just to everybody at once, and if not, to whom should he be just?  
+Player: Food/Equipment  
+Emperor Kruzak: Well, go and buy some in the city.  
+Player: Dungeon  
+Emperor Kruzak: Well, there are a lot of dungeons in Tibia, waiting to be explored by the daring ones.  
+Player: Hero / Adventurer  
+Emperor Kruzak: Well, some of the greatest heroes of all times have been dwarfs.  
+Player: Sorceror  
+Emperor Kruzak: Well, the sorcerers are followers of the elemental powers.  
+Player: Monsters  
+Emperor Kruzak: Well, it's up to the younger ones to slay the beasts that roam the lands and the tunnels.  
+Player: Enemy  
+Emperor Kruzak: Well, only a dead enemy is a good enemy.  
+Player: TBI  
+Emperor Kruzak: Well, I don't think our southern allies have agents in our town.  
+Player: Treasure  
+Emperor Kruzak: Well, we aren't poor, and we have ways to defend our wealth.  
+Player: Castle  
+Emperor Kruzak: Well, our people need no castle, our home IS a fortress.  
+Player: Chaos  
+Emperor Kruzak: Well, chaos is the ancient enemy. Dwarfs bring order to the world and give things shape. We are enemies of chaos.  
+Player: Craftsmen / Merchant  
+Emperor Kruzak: Well, there are some in our city. Go and visit them.  
+Player: News  
+Emperor Kruzak: Well, I'm too old to care about gossip anymore.  
+Player: Elane  
+Emperor Kruzak: Well, the highest paladin is a woman that deserves respect. I've admired most Elanes I met in my life.  
+Player: Evil / Good  
+Emperor Kruzak: Well, good and evil will fight each other for all eternity.  
+Player: Emperor  
+Emperor Kruzak: Well, I'm the emperor of the dwarfs and the oldest living dwarf, jawoll!  
+Player: Guild  
+Emperor Kruzak: Well, we have two guilds in our town, the knight and the sorcerer one.  
+Player: Help  
+Emperor Kruzak: Well, I am too busy to help you, but feel free to ask around.  
+Player: Legola  
+Emperor Kruzak: Well, isn't that the leader of the Carlin paladins?  
+Player: Order  
+Emperor Kruzak: Well, order is of great importance. Life has to follow rules, and so do we.  
+Player: Padreia  
+Emperor Kruzak: Well, that's an trustworthy ally of dwarfs.  
+Player: Reward  
+Emperor Kruzak: Well, isn't it reward enough to talk to the emperor of all dwarfs?  
+Player: Sell  
+Emperor Kruzak: Well, what do you expect a king to sell?  
+Player: Trisha  
+Emperor Kruzak: Well, that's Carlin's highest knight, isn't she? Not too bad as fighter for a big one.  
+Player: Bye  
+Emperor Kruzak: Farewell, Player, my child!  

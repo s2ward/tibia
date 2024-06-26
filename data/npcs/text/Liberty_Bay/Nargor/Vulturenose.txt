@@ -1,0 +1,52 @@
+Player: hi / hello  
+Vulturenose: Hrrrrm. So what?  
+Player: Carlin  
+Vulturenose: A city full of women? That calls for plunder. Sadly, a bit far away. Ho Ho Ho.  
+Player: Chondur  
+Vulturenose: The pet magician of Striker. Sooner or later, we will get the heads of both.  
+Player: cult  
+Vulturenose: What are you talking about? I don't wanna hear about that nonsense.  
+Player: enter  
+Vulturenose: YOU WILL NOT PASS! Erm ... I mean you don't look like a true pirate to me. You won't get in.  
+Player: excalibug  
+Vulturenose: Only a wimp needs magical weapons.  
+Player: Ferumbras  
+Vulturenose: If he'd be still alive, he'd make a fine ship magician. Ho Ho Ho.  
+Player: governor  
+Vulturenose: The little lord in his little palace wets his pants whenever he just thinks about us.  
+Player: Isolde  
+Vulturenose: That was the name of a tavern wench in some harbour in the North.  
+Player: job / what  
+Vulturenose: I guard this door. I won't let anyone pass who is not supposed to enter.  
+Player: king  
+Vulturenose: We are the undisputed kings of the seas.  
+Player: liberty bay  
+Vulturenose: For us Liberty Bay is an open treasure chest. Ho Ho Ho.  
+Player: loveless / theodore  
+Vulturenose: You shouldn't poke your nose into Mr. Loveless' business, understood?  
+Player: name  
+Vulturenose: They call me Vulturenose.  
+Player: natives  
+Vulturenose: I'd rather call them cowards. Ho Ho Ho.  
+Player: pirate  
+Vulturenose: Yoho, a pirate's life for me!  
+Player: quara  
+Vulturenose: I don't understand why they all dislike the quara. They don't taste that bad at all.  
+Player: rum  
+Vulturenose: You won't bribe old Vulturenose with some rum. No way.  
+Player: Striker  
+Vulturenose: Sooner or later he will run out of luck and then we will get his head.  
+Player: sugar  
+Vulturenose: You can call me honey.  
+Player: thais  
+Vulturenose: Thais is a town full of wimps.  
+Player: Tristan  
+Vulturenose: I owe him a scar. His own will be much deeper and right over his throat though.  
+Player: venore  
+Vulturenose: The Venoreans don't care about the likes of you.  
+Player: voodoo  
+Vulturenose: Who needs spells and runes when some inches of steel do the same and mean much more fun?  
+Player: Wyrmslicer  
+Vulturenose: That toy soldier can't scare a real pirate.  
+Player: bye / farewell  
+Vulturenose: Get lost.  

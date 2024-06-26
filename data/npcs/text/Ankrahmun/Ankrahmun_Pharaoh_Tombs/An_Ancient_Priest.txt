@@ -1,0 +1,73 @@
+Player: hi  
+An Ancient Priest: Greetings mortal! What brings you here? I have a job to do you know.  
+Player: job  
+An Ancient Priest: I'm the caretaker of this tomb. I also know these parts like the back of my hand - just in case you need a status update.  
+Player: caretaker  
+An Ancient Priest: I preserve the history of the great Pharaoh Horestis.  
+Player: Horestis  
+An Ancient Priest: He was one of the first Pharaohs of the united tribes and under his rule the race of man flourished to formerly unknown heights.  
+Player: status  
+An Ancient Priest: Horestis's body has been desecrated. His curse now hangs over the land like the shadow of the vulture. Abandon all hope mortals, his vengeance will be dreadful.  
+Player: heights  
+An Ancient Priest: He wisely used the power of his position to unite the tribes of the desert who formerly defied the rules of the dynasty.  
+Player: dynasty  
+An Ancient Priest: The ancestors of the dynasty led the human tribes from the lizard-ruled jungles to the desert where they could finally live without prosecution.  
+Player: prosecution  
+An Ancient Priest: In the jungle the cruel lizards hunted humans for sport and although food was abundant, the humans were denied any hunting grounds as the lizards claimed everything for themselves.  
+Player: lizards  
+An Ancient Priest: The lizards were powerful and many. They wielded magic unknown to the race of man at this time. Nothing could oppose their rule in these days. ...  
+An Ancient Priest: The desert was harsh but avoided by the lizards. Due to cunning and resilience the humans prevailed where the lizards had failed.  
+Player: prevailed  
+An Ancient Priest: They learned to live with that little that the desert and the sea had to offer. They dwelt in the caves of the mountains, however, some split and rather roamed the desert.  
+Player: caves  
+An Ancient Priest: The caves were the first safe haven of humankind since the beginning of time. They were widened and artificial caves were added. ...  
+An Ancient Priest: Even later when a settlement had been built at the coast, the caves served as final retreat and fortress in times of danger.  
+Player: danger  
+An Ancient Priest: Some defied the rules of the dynasty that had made the jungle of Tiquanda taboo for all humans. When they wandered into the jungle to hunt and steal equipment and secrets about the desert, they provoked punishing raids by the lizard people.  
+Player: raids  
+An Ancient Priest: The raids were a great danger for the tribes of man in these days. They had not the manpower or weapons to stand against the might of the lizards.  
+Player: might  
+An Ancient Priest: Only slowly the humans became a power on their own. They learned from the desert, they learned from its inhabitants and finally, they learned how to communicate with its spirits.  
+Player: spirits  
+An Ancient Priest: The spirits of nature and of the animals began to talk to selected individuals. Individuals that used forbidden arts derived from what had been stolen from the lizards.  
+Player: arts  
+An Ancient Priest: In the jungle, the humans had learned some of the most basic principles of magic through observation and experimentation. ...  
+An Ancient Priest: Although everything connected with the lizard was seen as tainted, many of the greatest minds turned their attention to those studies.  
+Player: studies  
+An Ancient Priest: The first shamans of mankind wielded only little power and there was only a small distinction between magic and making fire or creating a tool. ...  
+An Ancient Priest: But when their dabbling with magic brought them into connection with the spirit world it became a breakthrough.  
+Player: breakthrough  
+An Ancient Priest: The spirits talked to the shamans and taught them many new things. The rock revealed its secrets and taught the humans to build with stone and to melt ore to metal. The water taught them about the places where to find it and how to conserve it. ...  
+An Ancient Priest: The scorpion taught the use of poison and medicine, explained how to craft an armor and told them much about warfare. Many more spirits revealed their secrets, big and small.  
+Player: secrets  
+An Ancient Priest: With the emergence of these secrets, the shamans came out of hiding and boldly rose to power. Fights ensued and only the most mighty would prevail as leaders.  
+Player: leaders  
+An Ancient Priest: The most powerful shaman and fighter became the chieftain and the others became priests under his rule. ...  
+An Ancient Priest: The chieftain married only into the families of priests and soon the first dynasty emerged.  
+Player: chieftain  
+An Ancient Priest: When the dynasty emerged, the chieftains were called Pharaohs. They were the absolute rulers on this side of the mountains. Soon the caves were abandoned and people left for fortified settlements.  
+Player: abandoned  
+An Ancient Priest: When the caves were abandoned, Horestis ordered to rebuild them into a temple and a tomb at once.  
+Player: temple  
+An Ancient Priest: Wide parts of the caves were planned to become a temple where the spirits of nature could be worshipped. ...  
+An Ancient Priest: It served as spiritual centre of the realm and Horestis's tomb was an integral part of the complex.  
+Player: centre  
+An Ancient Priest: For a few generations after Horestis's death, the complex has been used as planned by the Pharaoh. ...  
+An Ancient Priest: Then the interest in the old spirits waned and new rulers embraced more sinister secrets ...  
+An Ancient Priest: Those were stolen and traded from the lizards and gained by bargains with the envious and reclusive scarab spirit. ...  
+An Ancient Priest: The spirits turned more and more away from the humans and the humans turned away from the spirits. So the old pact had been broken.  
+Player: pact  
+An Ancient Priest: The spirits, the temple and the tomb became forgotten. ...  
+An Ancient Priest: A few of the remaining priests, loyal to the pact, exiled themselves to the complex and summoned vengeful spirits as guardians of the tomb and the temple and they constructed several protections to ensure that Horestis's eternal rest is not disturbed.  
+Player: protections  
+An Ancient Priest: Many of the protections faded away over the centuries. ...  
+An Ancient Priest: A few of the most powerful remain though. Foremost there are the spirits and guardians of the temple that will fight every intruder. ...  
+An Ancient Priest: But their might is bound to the tomb and if Horestis's rest is disturbed, they will eventually fade away. The tomb itself is sealed with the help of Horestis' canopic jars. ...  
+An Ancient Priest: As long as the canopic jars are intact, the tomb is sealed against any intruder. Also Horestis's honour guards keep watch. ...  
+An Ancient Priest: If Horestis's body will ever be desecrated, they will rise from the desert to take revenge upon the living. Vast armies of undead warriors will seek revenge and try to strike down the living. ...  
+An Ancient Priest: Finally there is Horestis's scorpion curse. He was the high priest of the scorpion spirit and his scorpions will spawn, particularly from the bodies of scarabs.  
+Player: canopic jars  
+An Ancient Priest: The canopic jars contain the preserved organs of Horestis's mummified body. ...  
+An Ancient Priest: They are powerful magic talismans that ward off any intrusion into Horestis's tomb.  
+Player: bye  
+An Ancient Priest: Farewell, mortal.  

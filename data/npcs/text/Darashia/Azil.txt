@@ -1,0 +1,22 @@
+Azil: Finest armors on the desert continent!
+Player: hi
+Azil: Be greeted Simula! See these fine armors - harder than the scales of a dragon, lighter than a feather.
+Player: job
+Azil: I sell various kinds of masterly crafted armor. The wares I offer are as numerous as the grains of sand in the desert.
+Player: name
+Azil: My name is Azil Ibn Izal.
+Player: offer
+Azil: What do you need? I sell armor, helmets, shields, and trousers. If you like to see my offers, ask me for a trade.
+Player: trade
+Azil: I hope you find something that suits your needs, oh richest of the wealthiest.
+Player: time
+Azil: It's 10:14 am right now, o honoured one.
+Player: help
+Azil: I sell and buy armors, helmets, and shields.
+Player: drefia
+Azil: O brave one! Before you go there, please make sure that you buy the best armor you can afford.
+Player: thanks
+Azil: You are welcome, o richest of the wealthiest.
+Player: bye
+Azil: Good bye, Simula. Come back soon.
+Azil: Good bye, honoured customer. It was a pleasure to talk to you.

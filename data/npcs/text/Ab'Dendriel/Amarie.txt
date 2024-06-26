@@ -1,0 +1,59 @@
+Player: hi / hello  
+Amarie: I really have to study, I'm sorry. Please leave me alone with my books.  
+Player: dwarf  
+Amarie: Oh, those coarse barbarians!  
+Player: job  
+Amarie: I'm a scholar. I believe that the ultimate aim in life is the pursuit of perfect knowledge through study.  
+Player: ab'dendriel  
+Amarie: It's pretty here with all these trees and flowers.  
+Player: mission  
+Amarie: Mission? You should read more books. Take that as your mission.  
+Player: dating  
+Amarie: Well... maybe there is a chance for me to find love, after all...  
+Player: name  
+Amarie: My name is Amarie Leafdancer.  
+Player: interesting  
+Amarie: Yes, interesting, isn't it? I could read about them all day.  
+Player: Book  
+Amarie: Do you like books, too? I really think there's nothing better than a good book and a cup of bug milk to relax.  
+Player: Study  
+Amarie: Oh, you're interested in what I study? Really? <blushes> That's unusual. Well, it's about the... no wait. I don't want to bore you. Are you really interested?  
+Player: Yes  
+Amarie: Wow. Okay... it's about the... <blushes even more> well... social interaction of milkbugs in their m... mating season.  
+Player: Bug Milk  
+Amarie: It's really sweet and nutritious. You should try it while you're in Ab'Dendriel.  
+Player: Care  
+Amarie: Sigh... so caring, yes. <gets a dreamy look in her eyes> Sometimes I dream of.... ah .. forget what I said. <blushes>  
+Player: Dream  
+Amarie: What do I dream of? I think... no one has asked me that for a long time. In my favourite book it says... oh, but it isn't really interesting.  
+Player: Book  
+Amarie: My favourite book... is an erm... poetry book. Which I shouldn't waste my study time on, but... poetry can also be meaningful.  
+Player: meaningful  
+Amarie: Meaningful like... it really touches something deep inside your heart and that just makes perfect sense to you.  
+Player: deep  
+Amarie: I... don't know how I can explain that better.  
+Player: heart  
+Amarie: No, no, that's getting far too personal... <blushes>  
+Player: sense  
+Amarie: I... don't know how I can explain that better.  
+Player: poetry  
+Amarie: Would you like me to... re... recite some poetry? <blushes>  
+Player: yes  
+Amarie: Really... okay. I'll tell you my favourite. Maybe you'll like it too... <smiles shyly> It's an elven poem, but I'll translate it for you. Here goes: ...  
+Amarie: 'Alas, her pale face up in the starry sky ...  
+Amarie: Flaunting a light that is not hers ...  
+Amarie: Lost in reverie to dance with the fervid sun ...  
+Amarie: Yet knowing that this day will never dawn ...  
+Amarie: For with the dawn she fades ...  
+Amarie: And only when darkness engulfs her ...  
+Amarie: Will her light shine the brightest.' ...  
+Amarie: <blushes> So... what do you think? Did you like the poem?  
+Player: yes  
+Amarie: Oh, do you really mean it? That's so nice, finally someone who understands me. <smiles and claps her hands> Maybe you will understand my dreams as well. Or... I'm getting carried away. My dreams are a little confusing. ...  
+Amarie: And I don't think there's a chance that I'll ever find what I'm really looking for. <sighs> I guess I shall have to resign myself to a long, lonely life without love...  
+Player: Love  
+Amarie: Love? Hah... you don't know me. I'm really not good at this stuff. Or what is it you're implying?  
+Player: Dating  
+Amarie: Well... maybe there is a chance for me to find love, after all...  
+Player: bye / asha thrazi  
+Amarie: Asha Thrazi.  

@@ -1,0 +1,47 @@
+Player: hi  
+Kepar: Hi there. Our trophies are off-limits to you, but perhaps you want to access our banking service?  
+Player: banking  
+Kepar: We can change money for you. You can also access your bank account or your guild account options.  
+Player: name  
+Kepar: I'm called Kepar. Kepar the keeper actually. But I'm not fond of nicknames. Bet you wouldn't like to be called Player the annoyance!  
+Player: job  
+Kepar: I am foremost a guard for our treasures and trophies. But I also deal with the finances of the guild. I can change money for you and help you with your bank account.  
+Player: time  
+Kepar: It is exactly 9:34 am.  
+Player: Eclesius  
+Kepar: Some mad mage. Got a permission to build some magic door on our isle.  
+Player: magic door  
+Kepar: The magic door of this strange mage Eclesius is outside the guild house at the southern shore. It connects the isle via magic with his house. I guess he is looking for some assistant or test subject.  
+Player: change  
+Kepar: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say 'change gold' and then '1 platinum'.  
+Player: guild  
+Kepar: We are here to provide young adventurers with some advice and assistance. All our more experienced members remember all to well how it was to be thrown into a hostile world with so many things to do and to know.  
+Player: balance  
+Kepar: Wow, you have reached the magic number of a million gp!!! Your account balance is xxx gold!  
+Player : bank/sell/buy/money/offer  
+Kepar: We can change money for you. You can also access your bank account or your guild account options.  
+Player: bank account  
+Kepar: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...  
+Kepar: Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?  
+Player: bank account  
+Kepar: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...  
+Kepar: Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?  
+Player: basic  
+Kepar: You can check the balance of your bank account, deposit money or withdraw it. You can also transfer money to other characters, provided that they have a vocation and are not on Dawnport.  
+Player: advanced  
+Kepar: Your bank account will be used automatically when you want to rent a house or bid on an item on the market. Let me know if you want to know about how either one works.  
+Player: deposit  
+Kepar: Please tell me how much gold it is you would like to deposit.  
+Player: withdraw  
+Kepar: Please tell me how much gold you would like to withdraw.  
+Player: transfer  
+Kepar: Please tell me the amount of gold you would like to transfer.  
+Player: rent  
+Kepar: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...  
+Kepar: Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month.  
+Player: market  
+Kepar: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!  
+Player: bored  
+Kepar: Okay okay, no need to be rude! It seems you are already know everything.  
+Player: farewell/bye  
+Kepar: Good bye.  

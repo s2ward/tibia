@@ -1,0 +1,85 @@
+Player: hi / hello  
+Znozel: Hi there. Welcome to me gold storage called bank.  
+Player: name  
+Znozel: Me Znozel the great goblin banker!  
+Player: job  
+Znozel: Me great good banker! Me smart and honey .. no wait I mean horrible .. no, no honest I am! Yes, yes! Money give, give to honest goblin! Uhhh so shiny coins!  
+Player: yalahar  
+Znozel: Me came here to plunder. Old banker hired me. When dragon eats banker for must waiting in line I taking over everything!  
+Player: vampire  
+Znozel: Where? WHERE?! HELP! Protect my gold!  
+Player: yalahari  
+Znozel: Taxes, taxes! Always government is harassing harmless little goblins!  
+Player: buy / sell / offer / do you have  
+Znozel: We can change money for you. You can also access your bank account or your guild account options.  
+Player: alchemist quarter  
+Znozel: It gone BOOOM! Yes, yes! No good going there.  
+Player: arena quarter  
+Znozel: Big humans there are mean. Big beasts even worse!  
+Player: foreign quarter  
+Znozel: Others there only bully little goblins around.  
+Player: sunken quarter  
+Znozel: Me did not break it! Honest! Was broke as I came!  
+Player: magician quarter  
+Znozel: Spooky guys are not good for business.  
+Player: factory quarter  
+Znozel: Many humans there. Seldom come here to trade.  
+Player: trade quarter  
+Znozel: This West human not too bad is. He great trader, strong chieftain.  
+Player: blood crystal  
+Znozel: Oooooooooh shiny shiny shiny shiny!! Give me!!  
+Player: cookie  
+Znozel: Me only take cookie if it's golden. Ehehehe.  
+Player: goblin  
+Znozel: Goblins not bankers usually. But great love everything shiny. Yes. Yes.  
+Player: bank  
+Znozel: Me do good job! Me honest goblin for sure! Me that honest other goblin call me mad! Imagine!  
+Player: bored  
+Znozel: Okay okay, no need to be rude! It seems you are already know everything.  
+Player: dragon  
+Znozel: Banker rule number one: Dragons are always served first!  
+Player: money  
+Znozel: Just give good goblin all your money. Me making us both rich. Trust! Trust!  
+Player: advanced  
+Znozel: Your bank account will be used automatically when you want to rent a house or place an offer on an item on the market. Let me know if you want to know about how either one works.  
+Player: balance  
+Znozel: Wow, you have reached the magic number of a million gp!!! Your account balance is 59729991 gold!  
+Player: basic  
+Znozel: You can check the balance of your bank account, deposit money or withdraw it. You can also transfer money to other characters, provided that that they have a vocation and are not on Dawnport.  
+Player: change  
+Znozel: There are three different coin types in Tibia: 100 gold coins equal 1 platinum coin, 100 platinum coins equal 1 crystal coin. So if you'd like to change 100 gold into 1 platinum, simply say 'change gold' and then '1 platinum'.  
+Player: change crystal  
+Znozel: How many crystal coins would you like to change into platinum?  
+Player: change gold  
+Znozel: How many platinum coins would you like to get?  
+Player: change platinum  
+Znozel: Would you like to change your platinum coins into gold or crystal?  
+Player: deposit  
+Znozel: You don't have any gold with you.  
+Player: guild  
+Znozel: You can transfer money from your account to the account of a guild via player guild transfer. If you are a member of a guild, you can deposit money on its account via guild deposit. ...  
+Znozel: If you are leader or vice leader of a guild, you can also withdraw gold from your guild account via guild withdraw or use a guild transfer to transfer money from your guild to another guild. ...  
+Znozel: As a leader or vice leader of a guild you can also transfer money from your guild account to a player account via guild player transfer. ...  
+Znozel: Please keep in mind that we may need some time to process such requests.  
+Player: guild deposit  
+Znozel: You are not a member of a guild.  
+Player: guild player transfer  
+Znozel: I am sorry but it seems you are currently not in any guild.  
+Player: guild transfer  
+Znozel: I am sorry but it seems you are currently not in any guild.  
+Player: guild withdraw  
+Znozel: I am sorry but it seems you are currently not in any guild.  
+Player: market  
+Znozel: If you buy an item from the market, the required gold will be deducted from your bank account automatically. On the other hand, money you earn for selling items via the market will be added to your account. It's easy!  
+Player: rent  
+Znozel: Renting a house has never been this easy. Simply make a bid for an auction on the house section of the official Tibia website. We will check immediately if you have enough money ...  
+Znozel: Please keep in mind that the sum you have used to bid will be unavailable unless somebody places a higher bid. Once you have acquired a house the rent will be charged automatically from your bank account every month.  
+Player: transfer  
+Znozel: Please tell me the amount of gold you would like to transfer.  
+Player: withdraw  
+Znozel: Please tell me how much gold you would like to withdraw.  
+Player: bank account  
+Znozel: Every Tibian has one. The big advantage is that you can access your money in every branch of the Tibian Bank! ...  
+Znozel: Would you like to know more about the basic functions of your bank account, the advanced functions, or are you already bored, perhaps?  
+Player: bye / farewell  
+Znozel: Bye, bye. You gold safe at here, Player. <snickers>!  

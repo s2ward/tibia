@@ -1,0 +1,43 @@
+Player: hi / ashari
+Edala: Ashari, Player. Is there anything I can do for you?
+Player: name
+Edala: My name is Edala, pilgrim.
+Player: do for you / job
+Edala: I am a mystic of the suns. I provide protective blessings for those in need.
+Player: mystic
+Edala: We mystics are philosophers and healers.
+Player: news
+Edala: News? I don't care about news.
+Player: cenath / kuridai / deraisim / abdaisim / teshial
+Edala: I don't consider myself a member of any caste, and I don't want to talk about this matter.
+Player: crunor
+Edala: Crunor is great in his beauty.
+Player: priyla
+Edala: The daughter of the stars is my patron.
+Player: excalibug
+Edala: It is true that this weapon brings great power. But you should not look for power. It is wisdom you really need.
+Player: heal
+Edala: You aren't looking that bad. Sorry, I can't help you. But if you are looking for additional protection you should go on the pilgrimage of ashes.
+Player: blessings
+Edala: There are five different blessings available in five sacred places. These blessings are: the spiritual shielding, the spark of the phoenix, the embrace of Tibia, the fire of the suns and the wisdom of solitude. ...
+Edala: There are also two enhanced blessings for further reduction of experience loss.
+Player: hi
+Edala: Ashari, Player. How... nice to see a human taking interest in a beautiful art such as music.
+Player: hi
+Edala: Ashari, Player... that sound was.. interesting.
+Player: hi
+Edala: Ashari, Player. You've made some... progress playing the lyre, haven't you..? I want to believe you have.
+Player: hi
+Edala: Player. My regular visitor. I certainly... appreciate your efforts to entertain me, but let me assure you, I'm quite comfortable up here by myself. Alone. In silence.
+Player: hi
+Edala: Ashari, Player. I'm starting to feel a little sorry... for your lyre. Being forced to produce such noise must be a tragic fate.
+Player: hi
+Edala: Player! You're driving me insane! I beg you, take your lyre away from this sacred and peaceful place.
+Player: hi
+Edala: AAAARGH! Player! My ears! I'd prefer listening to drunken dwarves rambling all day to the sound of your lyre! Please, at least get it tuned. Here, you can have this elvish diapason.
+Player: diapason
+Edala: This item has magical abilities. We elves use it to tune our instruments so they create the most silvery, delicate song. It might have other uses, but I wouldn't know about that.
+Player: bye / asha thrazi
+Edala: Asha Thrazi, traveller. May the suns enlighten your path!
+Player: (vanish)
+Edala: Asha Thrazi, traveller.

@@ -1,0 +1,31 @@
+Player: hi
+Kizar: Greetings, brave adventurer!
+Player: name
+Kizar: My name is Kizar.
+Player: job
+Kizar: I'm kind of a butler of the First Dragon. I used to be a bard but I decided I needed a job change.
+Player: butler
+Kizar: He has no unreasonable demands so the job is acceptable. Sometimes he's moody and some of his demands are strange, especially the deliveries he orders now and then. ...
+Kizar: Well, rich and eccentric people are all the same, be they humans or dragons.
+Player: deliveries
+Kizar: The boss has some kind of agreement with the amazons of the Green Claw Swamp. They sent us all the goods we need.
+Player: goods
+Kizar: For a while they tried to train local wasps for deliveries, but later on they preferred to assign them to dragons.
+Player: bard
+Kizar: Yes, I travelled from town to town to perform my songs - sometimes for the populace, sometimes for the nobility. But eventually it took its toll on me.
+Player: toll
+Kizar: There is always this pressure and the possibility of failure. Also, there is a good chance that people hold you - a travelling stranger - responsible for everything from weather to bad harvests.
+Player: responsible
+Kizar: I couldn't stand the pressure anymore and decided I'd prefer working for a dragon.
+Player: dragon
+Kizar: Yes he hired me as his butler so to say. He is a real pain sometimes and requires me to bath in hot water - along with loads of vegetables. However, he is also not worse than my boss before him.
+Player: thais
+Kizar: I was born and raised there. Later I travelled the whole world as a bard.
+Player: gods
+Kizar: I just try not to upset the gods.
+Player: ferumbras
+Kizar: He was here as a visitor years ago. He left after a heated argument and never returned.
+Player: excalibug
+Kizar: I wouldn't be surprised if that old scaleface hid it somewhere in his secret lair.
+Player: chess
+Kizar: Yes. At the time I invented it, it had little in common with the version you know today. I changed and perfected it step by step. But the backlash was horrible!

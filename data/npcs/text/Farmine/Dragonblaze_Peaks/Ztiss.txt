@@ -1,0 +1,54 @@
+Player: hi
+Ztiss: Be greeted my .. guezt.
+Player: guezt / job
+Ztiss: Ziz iz not for you to azk. I work for zomeone of immenze power. He haz an offer for you.
+Player: name
+Ztiss: I'm Ztiss!
+Player: offer
+Ztiss: You are ztill a captive and your life is forfeit. Zere might be a way for you to ezcape if you agree to work for my mazter.
+Player: work
+Ztiss: Zere iz a great tournament of ztrengz each decade. It determinez ze granted privilegez for zertain individualz of power for ze comming decade. ...
+Ztiss: My mazter wantz to zurprize hiz opponentz by an unexpected move. He will uze warriorz from ze outzide, zomeone zat no one can azzezz. ...
+Ztiss: One of ziz warriorz could be you. Or you could ztay here and rot in ze dungeon. Are you interezted in ziz deal?
+Player: no
+Ztiss: Zen you'll die down here. You better reconzider ziz.
+Player: yes
+Ztiss: You are zmart for a zoftzkin, but before you begin to feel too zmart, you should know zat we will zeal our deal wiz you drinking a ztrong poizon zat will inevitably kill you if you want to trick me and not attend ze tournament. ...
+Ztiss: Zo are you ready to drink ziz poizon here?
+Player: yes
+Ztiss: Excellent! Now you may leave ziz area zrough ze teleporter to ze norz. It will bring you to a hidden boat. Ziz boat will take you to ze tournament izle. ...
+Ztiss: Zere you'll learn anyzing you need to know about ze great tournament.
+Player: land / continent
+Ztiss: Ziz land iz ze home of our people. We call it Zao, after ze firzt great leader of our people! Zao ruled for many hundred yearz. ...
+Ztiss: He united ze tribez under hiz rule. He tamed ze firzt animalz and taught hiz people to zeed and harvezt. ...
+Ztiss: He ztole ze zecret of zteel from ze evil lordz of ze deep and flooded zeir cavez to drown zem. ...
+Ztiss: He fought ze many-eyed horrorz and enzlaved zem. When zey finally rebelled, Zao had learnt enough of zeir magic to crush zem. ...
+Ztiss: He led hiz armiez to conquer ze whole continent. After many centuriez, he choze ze mozt worzy of hiz offzpring in a battle on ze Izle of Ztrife az hiz zuccezzor. ...
+Ztiss: Zen he azcended to ze zky to watch over hiz people from the cloudz for all eternity.
+Player: zao
+Ztiss: Ziz land iz ruled by ze immortal dragon emperor! Ze barbarianz in ze zouz are juzt a nuizanze. Zoon ze whole land will again be in our handz. Zo it iz zmart to ztay on good termz wiz uz.
+Player: emperor
+Ztiss: Ze mighty dragon emperor iz immortal. Hiz power iz unchallenged and hiz wizdom iz unparalleled. He rezidez in ze dragon palace behind ze great wall.
+Player: palace
+Ztiss: Ze palace iz a mozt magnificant place zat only ze mozt honourable officialz and ze dragon kingz may enter.
+Player: dragon
+Ztiss: Ze dragonz are ze rulerz of ziz land. Zeir wize decizionz lead our people and zeir power protectz uz.
+Player: king
+Ztiss: Ze dragon kingz are ze mozt truzted followerz of ze emperor. Zey replaced ze higher ranking lizardz in ze hierarchy when ze rule of ze dragon emperor waz eztablished.
+Player: wall
+Ztiss: King Chong III ordered ze begin of ze wall'z conztruction in ze zirteen'z year of hiz reign. Ze wall waz built az lazt line of defenze againzt barbarianz az well az a boundary between ze lower and upper clazzez.
+Player: barbarians
+Ztiss: Zere are zo many barbarianz. It'z a time conzuming and difficult tazk to cleanze ze land from zeir influence. Ze mozt dangerouz zreat are ze orcz. ...
+Ztiss: No matter how many of zem you kill, zey juzt come back in even greater numberz. ...
+Ztiss: Ze minotaurz are a more zubtle zreat. We zought we had exterminated zem, but zomehow zey zurvived and now rule over ze orcz. ...
+Ztiss: Alzo, zeir iz a zmall number of primitive humanz around.
+Player: minotaurz
+Ztiss: Zey are zomewhat enigmatic. Zey zeem to be ze leaderz of ze orcz. If we got rid of zem, we would probably eliminate ze orc zreat az well.
+Player: orcs
+Ztiss: Zey are ze worzt of ze barbarianz, vile and brutal zey aim only at deztruction.
+Player: humanz
+Ztiss: Humanz are of no importance. Zey are wizout power and lack ze zkillz and manpower to poze a zreat to uz.
+Player: farmine
+Ztiss: I don't know anyzing about zat place. Iz zat ze plaze you come from? Very interezting.
+Player: bye
+Ztiss: Hurry, you no longer have any buzinezz here.

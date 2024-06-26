@@ -1,0 +1,165 @@
+Player: hi  
+Hyacinth: Greetings, traveller Leonardo Dikarpio. As you have found the way to my hut, how can I help you?  
+Player: help  
+Hyacinth: What help do you seek? I sell health potions, ask me for a trade if you need one.  
+Player: trade  
+Hyacinth: Here. Don't forget, if you buy potions, there's a deposit of 5 gold on the empty flask.  
+Player: deposit  
+Hyacinth: I'll pay you 5 gold for every empty vial and potion flask. Just ask me for a trade.  
+Player: job  
+Hyacinth: I'm a druid and healer, a follower of Crunor.  
+Player: name  
+Hyacinth: I'm Hyacinth.  
+Player: druid  
+Hyacinth: There are only two other druids on Rookgaard, Lily and Cipfried.  
+Player: Crunor  
+Hyacinth: May Crunor bless you and protect you on your journeys!  
+Player: Lily  
+Hyacinth: She's a druid. Since she started selling health potions, people visit me only rarely. Which is a good thing, but of course I'll help if I'm needed.  
+Player: Cipfried  
+Hyacinth: His healing powers equal mine.  
+Player: potion  
+Hyacinth: Yes, I sell small health potions. Ask me for a trade if you need one.  
+Player: norma  
+Hyacinth: Now she has completely gotten out of her mind.  
+Player: buy / sell / offer / stuff / wares  
+Hyacinth: Just ask me for a trade to check out my offers. I have only small health potions for sale, though.  
+Player: god  
+Hyacinth: Teaching you about the gods would require too much time. But you can always read the books in the library.  
+Player: library  
+Hyacinth: The library is in the academy, north of the temple.  
+Player: academy  
+Hyacinth: A place to learn about Tibia.  
+Player: Tibia  
+Hyacinth: It is shaped by the will of the gods, so we don't have to question it.  
+Player: temple  
+Hyacinth: I used to be there with my old friend Cipfried to heal adventurers. After all these years, I prefer solitude now.  
+Player: rookgaard  
+Hyacinth: I rarely visit the town. It's much better here.  
+Player: king  
+Hyacinth: I don't care about kings, queens, and the like.  
+Player: al dee  
+Hyacinth: One of these greedy merchants.  
+Player: billy  
+Hyacinth: He's a farmer and behaves a little better than his cousin.  
+Player: willie  
+Hyacinth: An unpleasant person.  
+Player: dallheim  
+Hyacinth: A man of the sword.  
+Player: hyacinth  
+Hyacinth: That's my name.  
+Player: dixi  
+Hyacinth: I think she's under bad influence.  
+Player: Lee'Delle  
+Hyacinth: She's actually quite nice.  
+Player: loui  
+Hyacinth: He was a promising young druid when something happened to his mind. It's a sad story.  
+Player: paulie  
+Hyacinth: I think that guy is new. He's a bank clerk.  
+Player: bank  
+Hyacinth: Storage for worldly wealth.  
+Player: obi  
+Hyacinth: A greedy and annoying person just like most people are.  
+Player: santiago  
+Hyacinth: He does a good job out there.  
+Player: Seymour  
+Hyacinth: He has some inner devils that torture him.  
+Player: the oracle  
+Hyacinth: The oracle will lead you to your destiny once you are level 8.  
+Player: destiny  
+Hyacinth: Who knows what it will be? Only time will show.  
+Player: time  
+Hyacinth: Time doesn't matter to me.  
+Player: tom  
+Hyacinth: Tom is the local tanner. That means he always needs fresh corpses or leather.  
+Player: Zerbrus  
+Hyacinth: A man of the sword.  
+Player: zirella  
+Hyacinth: I know her since she was little.  
+Player: main  
+Hyacinth: There's a huge world waiting for you.  
+Player: hint  
+Hyacinth: Send private messages to other players by right-clicking on the player or the player's name and select 'Message to ....'. You can also open a 'private message channel' and type in the name of the player.  
+Player: hint  
+Hyacinth: Use the shortcuts 'SHIFT' to look, 'CTRL' for use and 'ALT' for attack when clicking on an object or player.  
+Player: hint  
+Hyacinth: If you already know where you want to go, click on the automap and your character will walk there automatically if the location is reachable and not too far away.  
+Player: hint  
+Hyacinth: To open or close skills, battle or VIP list, click on the corresponding button to the right.  
+Player: hint  
+Hyacinth: 'Capacity' restricts the amount of things you can carry with you. It raises with each level.  
+Player: hint  
+Hyacinth: Always have a look on your health bar. If you see that you do not regenerate health points anymore, eat something.  
+Player: hint  
+Hyacinth: Always eat as much food as possible. This way, you'll regenerate health points for a longer period of time.  
+Player: hint  
+Hyacinth: After you have killed a monster, you have 10 seconds in which the corpse is not moveable and no one else but you can loot it.  
+Player: hint  
+Hyacinth: Be careful when you approach three or more monsters because you only can block the attacks of two. In such a situation even a few rats can do severe damage or even kill you.  
+Player: hint  
+Hyacinth: There are many ways to gather food. Many creatures drop food but you can also pick blueberries or bake your own bread. If you have a fishing rod and worms in your inventory, you can also try to catch a fish.  
+Player: hint  
+Hyacinth: Baking bread is rather complex. First of all you need a scythe to harvest wheat. Then you use the wheat with a millstone to get flour. ...  
+Hyacinth: This can be be used on water to get dough, which can be used on an oven to bake bread. Use milk instead of water to get cake dough.  
+Player: hint  
+Hyacinth: Dying hurts! Better run away than risk your life. You are going to lose experience and skill points when you die.  
+Player: hint  
+Hyacinth: When you switch to 'Offensive Fighting', you deal out more damage but you also get hurt more easily.  
+Player: hint  
+Hyacinth: When you are on low health and need to run away from a monster, switch to 'Defensive Fighting' and the monster will hit you less severely.  
+Player: hint  
+Hyacinth: Many creatures try to run away from you. Select 'Chase Opponent' to follow them.  
+Player: hint  
+Hyacinth: The deeper you enter a dungeon, the more dangerous it will be. Approach every dungeon with utmost care or an unexpected creature might kill you. This will result in losing experience and skill points.  
+Player: hint  
+Hyacinth: Due to the perspective, some objects in Tibia are not located at the spot they seem to appear (ladders, windows, lamps). Try clicking on the floor tile the object would lie on.  
+Player: hint  
+Hyacinth: If you want to trade an item with another player, right-click on the item and select 'Trade with ...', then click on the player with whom you want to trade.  
+Player: hint  
+Hyacinth: Stairs, ladders and dungeon entrances are marked as yellow dots on the automap.  
+Player: hint  
+Hyacinth: You can get food by killing animals or monsters. You can also pick blueberries or bake your own bread. If you are too lazy or own too much money, you can also buy food.  
+Player: hint  
+Hyacinth: Quest containers can be recognised easily. They don't open up regularly but display a message 'You have found ....'. They can only be opened once.  
+Player: hint  
+Hyacinth: Better run away than risk to die. You'll lose experience and skill points each time you die.  
+Player: hint  
+Hyacinth: You can form a party by right-clicking on a player and selecting 'Invite to Party'. The party leader can also enable 'Shared Experience' by right-clicking on him- or herself.  
+Player: hint  
+Hyacinth: You can assign spells, the use of items, or random text to 'hotkeys'. You find them under 'Options'.  
+Player: hint  
+Hyacinth: You can also follow other players. Just right-click on the player and select 'Follow'.  
+Player: hint  
+Hyacinth: You can found a party with your friends by right-clicking on a player and selecting 'Invite to Party'. If you are invited to a party, right-click on yourself and select 'Join Party'.  
+Player: hint  
+Hyacinth: Only found parties with people you trust. You can attack people in your party without getting a skull. This is helpful for training your skills, but can be abused to kill people without having to fear negative consequences.  
+Player: hint  
+Hyacinth: The leader of a party has the option to distribute gathered experience among all players in the party. If you are the leader, right-click on yourself and select 'Enable Shared Experience'.  
+Player: hint  
+Hyacinth: There is nothing more I can tell you. If you are still in need of some hints, I can repeat them for you.  
+Player: hint  
+Hyacinth: If you don't know the meaning of an icon on the right side, move the mouse cursor on it and wait a moment.  
+Player: equipment / backpack / rope / shovel / armor / shield / helmet / fishing  
+Hyacinth: You'll have to buy that from the merchants in town. I'm just a simple druid and healer.  
+Player: weapon  
+Hyacinth: I don't care much about weapons.  
+Player: cookies / food / blueberries  
+Hyacinth: Are you hungry? I'm sorry, I have no food here.  
+Player: dungeon  
+Hyacinth: The dungeons are dangerous for inexperienced adventurers.  
+Player: how are you?  
+Hyacinth: Thank the gods, I'm fine.  
+Player: thank  
+Hyacinth: You're welcome, Leonardo Dikarpio.  
+Player: magic  
+Hyacinth: I'm one of the few magic users on this isle. I can sense a follower of the dark path of magic hiding somewhere in the depths of the dungeons.  
+Player: amber  
+Hyacinth: I saw her stranding with her raft.  
+Player: spells  
+Hyacinth: I can't teach you magic. On the mainland you will learn spells early enough.  
+Player: monster  
+Hyacinth: Most of the so-called monsters of this isle are only creatures of the gods. There are some beasts that are truly monstrous on the mainland.  
+Player: vial / deposit  
+Hyacinth: I'll pay you 5 gold for every empty vial and potion flask. Just ask me for a trade.  
+Player: bye / farewell  
+Hyacinth: May Crunor bless you.  

@@ -1,0 +1,180 @@
+Player: (idle)
+Druid Yandur: Follow your instincts and let nature guide you.
+Druid Yandur: Are you injured? Come and get a free healing at my little hut.
+Druid Yandur: Sometimes it's not the loudest voice which has the most valuable information to give.
+Player: hi
+Druid Yandur: You did not learn all there is to know at the festival. Come back when you did.
+Player: hi
+Druid Yandur: Welcome to my humble hut, Player! Are you interested in learning something about the druid vocation?
+Player: hi
+Druid Yandur: Welcome, my dear druid friend Player! I'm sure you are looking for information - I will also gladly heal you if you are injured!
+Player: heal
+Druid Yandur: I just ran out of mana - but simply use that rune on my table on yourself to get healed.
+Player: name
+Druid Yandur: My name is Yandur Brighthand. I was told I had some elvish roots.
+Player: yandur
+Druid Yandur: My name means 'servant of the holy' in an old language.
+Player: job
+Druid Yandur: I teach new Tibians the basic knowledge about druids.
+Player: knight
+Druid Yandur: Knights are capable fighters and excellent blockers. Talk to Hykrion if you want to know more.
+Player: Hykrion
+Druid Yandur: He's never afraid to fight for his friends. He can have quite a bad temper, though, if you catch him on the wrong foot.
+Player: paladin
+Druid Yandur: Paladins are very good distance fighters and even blessed with some magic skills. Talk to Narai if you want to know more.
+Player: Narai
+Druid Yandur: One of the most warmhearted and gentle people I know.
+Player: sorcerer
+Druid Yandur: Sorcerers are on the more destructive side of elemental magic, but otherwise very similar to us. Talk to Estrella if you want to know more.
+Player: Estrella
+Druid Yandur: I respect every being... even if it's as arrogant and self-centred as Estrella, haha. Just kidding, below the surface she is a decent person.
+Player: druids
+Druid Yandur: As a druid, your spirit is close to nature and its powers. Your aim is also to protect your friends with powerful healing magic. Don't assume, though, that druids are weak and can't defend themselves. ...
+Druid Yandur: Our magic is as strong as that of sorcerers, just in a different way. Whereas sorcerers call forth hellfire and death itself, druids ask nature for assistance to conjure powerful ice storms and rock showers. ...
+Druid Yandur: Like all magicians, we do not have that much health and should be careful when fighting strong monsters, but we can easily keep distance and deal great damage anyway. ...
+Druid Yandur: That's why druids are welcome in parties not only as healers and supporters but also as fighters. ...
+Druid Yandur: Last but not least, we can create runes storing magic power and enchant gems at elemental shrines to be used in weapons. Once a druid reaches level 20, he or she can receive a vocation promotion and become an elder druid. ...
+Druid Yandur: That's it! If you need other information, let me know.
+Player: kurt
+Druid Yandur: I rather avoid his company. He's a little too rough for my taste.
+Player: raffael
+Druid Yandur: I don't need to shop at his booth. Nature gives me everything that I need.
+Player: vocations
+Druid Yandur: This might be one of the biggest choices you have to make. All the vocations - druids, sorcerers, paladins and knights - have their good sides.
+Player: information
+Druid Yandur: Which information do you require? I can tell you about druids, spells, monsters, rods, runes, potions, shrines or equipment as well as about some other topics, just ask me.
+Player: spells
+Druid Yandur: We know a range of instant spells such as 'Ice Strike', for example, with which we can deal direct damage. We can also cast magic onto blank runes to turn them into magic runes to be used whenever we need them ...
+Druid Yandur: Your magic will do more damage the higher your magic level is. Our most devastating spells are called 'Wrath of Nature' and 'Eternal Winter'. ...
+Druid Yandur: Only really experienced druids can unleash their power, though. You can buy new spells in each city, just look for a druid trainer.
+Player: magic level
+Druid Yandur: With each spell you cast, you will slowly get better at using magic. Those 'magic levels' are similar to character levels. With each new level, you will deal more damage with your spells.
+Player: monsters
+Druid Yandur: As a young druid you won't be able to kill strong monsters all by yourself. For this reason you should rather team up with a friend or hunt easy monsters. ...
+Druid Yandur: Trolls or rotworms, for example, are good monsters for a start, or anything that is slow enough for you to hit it with your magic rod while outrunning it.
+Player: rods
+Druid Yandur: Rods are very useful magical tools for druids. They are also really easy to use - simply equip one like you would a weapon and aim at a monster to unleash a magic attack which consumes mana. ...
+Druid Yandur: As a new druid, you can find your first rod in the cellar of this building. Currently, there are eight different rods. The higher your level, the more powerful is the rod that you can use.
+Player: runes
+Druid Yandur: We can cast magic onto blank runes to turn them into magic runes to be used whenever we need them. Popular rune spells are 'Stone Shower' or 'Stalagmite'.
+Player: potions
+Druid Yandur: For us druids, only mana potions are actually interesting. We usually don't need health potions since we have healing spells. ...
+Druid Yandur: Mana potions can be bought in different sizes and in each large city from the magic shop. They will come in handy once you run out of mana. ...
+Druid Yandur: Simply use one on yourself to drink it and refill your magical energy. They aren't cheap, though, so you might want to save your money until it's really worth it.
+Player: mana
+Druid Yandur: Our magic energy. Each spell costs mana and will decrease your magical energy, but your mana storage slowly refills itself as long as you regularly eat something. You can also use potions to fill up your mana instantly.
+Player: equipment
+Druid Yandur: We don't really rely on protective equipment because we actually try to avoid close contact. It's better for us to wear light gear such as robes so that we can save our capacity for resources like runes.
+Player: armor
+Druid Yandur: Although we can wear most heavy armors, it's preferable for us to wear light gear such as robes and save our capacity for resources.
+Player: capacity
+Druid Yandur: Each item has a certain weight. Capacity determines how much resources and other things you can carry around with you. With each character level, you can carry a little bite more. However, druids will never be able to carry as much as a knight.
+Player: robes
+Druid Yandur: I keep comfortable robes for new druids in the cellar of this building.
+Player: shrines
+Druid Yandur: From every main city, special portals close to the local depot lead to elemental shrines. Common gems can be used on these shrines to enchant them with elemental powers which then can be used on knight weapons.
+Player: depot
+Druid Yandur: A depot is basically some sort of a locker room - each large city has at least one. You can store your belongings there safely.
+Player: city
+Druid Yandur: There are many cities worthwhile staying in. The captain can tell you more. My personal favourite? The elvish city.
+Player: elvish
+Druid Yandur: The most popular elvish city is Ab'Dendriel. It's almost completely made of plants and trees, you should visit it!
+Player: captain
+Druid Yandur: You'll find him just to the north, up the hill and on the ship docking there.
+Player: ship
+Druid Yandur: It's docked north of here. Once you decided which city you want to move to from here, he'll bring you there.
+Player: magic
+Druid Yandur: I know a lot about magic, what's of interest to you? I can tell you about elements, spells or runes.
+Player: elements
+Druid Yandur: There are six elements in Tibia: fire, energy, ice, earth, holy and death. Each element has its counterpart against which it is especially effective.
+Player: fire
+Druid Yandur: Sorcerers are best at using fire magic, but we also have some basic fire magic at our disposal. I recommend using it against earth creatures such as spiders.
+Player: energy
+Druid Yandur: Energy is one of the main strengths that sorcerers have. The basic spells which druids can use work well against ice or water creatures such as polar bears.
+Player: ice
+Druid Yandur: One of the great forces of nature. We can call powerful ice storms to fight fire monsters such as fire elementals.
+Player: earth
+Druid Yandur: Earth itself will come to our help when we ask for it. Our earth spells are very good against energy creatures and spirit beings. Some even poison the enemy.
+Player: holy
+Druid Yandur: Holy magic has been researched by paladins. It's especially feared by undead monsters like skeletons.
+Player: death
+Druid Yandur: Death defies life. Go away with that!
+Player: information
+Druid Yandur: Depending on how much time you have, I can either give you the short or the detailed version. Choose whatever suits you most!
+Player: short
+Druid Yandur: In short: Druids are focused on ice, earth and healing magic. We use runes, spells and rods to hunt our enemies and usually try to avoid body contact. Easy, right?
+Player: detailed
+Druid Yandur: That's wonderful. As a druid, your spirit is close to nature and its powers. Your aim is also to protect your friends with powerful healing magic. Can you follow me so far?
+Player: no
+Druid Yandur: Well, in short, druids use nature spells and healing magic. Can you follow me so far?
+Player: yes
+Druid Yandur: Good. Don't assume that druids are weak and can't defend themselves. Our magic is as strong as that of sorcerers, just in a different way. Do you understand that so far?
+Player: no
+Druid Yandur: To say it in easy words: Druids and sorcerers have similar powers, but different types of spells. Do you understand that so far?
+Player: yes
+Druid Yandur: Good. Whereas sorcerers call forth hellfire and death itself, druids ask nature for assistance to conjure powerful ice storms and rock showers. Can you follow me so far?
+Player: no
+Druid Yandur: I said, the difference between sorcerer and druid spells is the focus. Sorcerers use black magic and druids white magic, so to speak. Can you follow me so far?
+Player: yes
+Druid Yandur: Good. Like all mages, we do not have that much health and should be careful when fighting strong monsters, but we can easily keep our distance and deal great damage anyway. Do you understand?
+Player: no
+Druid Yandur: To put this differently: Don't get hit by monsters. Rather shoot spells on them from a distance as druids don't have a lot of hit points. Do you understand?
+Player: yes
+Druid Yandur: Good. Last but not least, we can create runes storing magic power and enchant gems at elemental shrines to be used in weapons. Do you understand that so far?
+Player: no
+Druid Yandur: Well, I just said that druids can create runes and enchant gems which are used in weapons. Do you understand that so far?
+Player: yes
+Druid Yandur: Once a druid reaches character level 20, he or she can receive a vocation promotion and become an elder druid. Did you listen to everything I told you?
+Player: no
+Druid Yandur: Again, at level 20 a druid can be promoted to an elder druid. Did understand everything I told you?
+Player: yes
+Druid Yandur: So, dear Player, let's test your newly gained knowledge! Let me ask you: How is a promoted druid called? Master Druid, Elder Druid or Royal Druid?
+Player: (any)
+Druid Yandur: This isn't an answer to my question, Player. Please think again: how is a promoted druid called? Master Druid, Elder Druid or Royal Druid?
+Player: royal druid
+Druid Yandur: I'm sorry Player, but the paladins are the ones which gain a 'Royal' title. We druids will become 'Elder'. Another question for you: Name one of the elements which we mastered - is it ice, holy or fire?
+Player: Master Druid
+Druid Yandur: I'm sorry Player, but the sorcerers are the ones which gain a 'Master' title. We druids will become 'Elder'. Another question for you: Name one of the elements which we mastered - is it ice, holy or fire?
+Player: elder druid
+Druid Yandur: Yes, well done! Elder druids are well respected among Tibians. Another question for you: Name one of the elements which we mastered - is it ice, holy or fire?
+Player: holy
+Druid Yandur: Although one can easily mistake healing magic for 'holy magic', it's not the same thing. Only paladins can use holy magic. So just try again: Fire, Ice or earth?
+Player: fire
+Druid Yandur: That's rather a sorcerer's job, although we can use some basic fire magic, too. You may want to try again: Ice or holy?
+Player: earth
+Druid Yandur: Although that wasn't one of the answers I gave you, you're right, earth is also correct. Next question: Where are magically enchanted gems used? In weapons, as decoration or as food?
+Player: death
+Druid Yandur: No! Death magic is mainly for sorcerers and I personally don't like it. Although, druids can use some basic death magic, too. You may want to try again: Ice, fire or holy?
+Player: energy
+Druid Yandur: That's rather a sorcerer's job, although we can use some basic energy magic, too. You may want to try again: Ice, fire or holy?
+Player: ice
+Druid Yandur: Very good Player, you remembered that detail about the ice storms. Next question: Where are magically enchanted gems used? In weapons, as decoration or as food?
+Player: food
+Druid Yandur: Nyargh! I hope you don't ruin your teeth when trying to bite on them...! They are used on weapons to add elemental damage. ...
+Druid Yandur: I have one last question for you, Player. What do you think a druid will spend most of his money on - buying runes or buying weapons?
+Player: decoration
+Druid Yandur: Well... although some may use them for decoration, that's not their main purpose. They are used on weapons to add elemental damage. ...
+Druid Yandur: I have one last question for you, Player. What do you think a druid will spend most of his money on - buying runes or buying weapons?
+Player: weapons
+Druid Yandur: Right, enchanted gems add elemental damage to weapons. I have one last question for you, Player. What do you think a druid will spend most of his money on - buying runes or buying weapons?
+Player: weapons
+Druid Yandur: Although we can use weapons, spells and runes are so much more effective. This is why we usually buy runes and mana potions. That was easy, don't you think?
+Player: runes
+Druid Yandur: Right, although we need of course some basic equipment, most of our money is spent on buying new runes and mana potions. That was easy, don't you think?
+Player: no / yes
+Druid Yandur: Well, anyway Player, after having learnt a few basic things about druids, do you think that vocation would be fine for you?
+Player: no
+Druid Yandur: Well, the other vocations have their own advantages and disadvantages. Maybe you will find something more suitable for you by talking to Hykrion, Estrella and Narai. Come and talk to me anytime!
+Player: druid / yes
+Druid Yandur: Are you sure that you have all needed information and are ready to become a druid forever?
+Player: no
+Druid Yandur: I'll give you all the information you require. The short version or the long version?
+Player: yes
+Druid Yandur: SO BE IT! Let the energy of nature fill you, druid Player! Learn the words of your first three spells: 'UTEVO LUX', 'EXURA' and 'EXORI MIN FLAM' ! Light, Light healing and Apprentice's strike. ...
+Druid Yandur: You may cast it by saying the magic words 'UTEVO LUX', 'EXURA' and ' EXORI MIN FLAM' while you have enough mana. Also, you have earned the right to enter the cellar of this house. What you will find inside the chests there is yours to take. ...
+Druid Yandur: Equip yourself well and gather some experience in the caves below. You may stay there for a while, but you should leave for the main continent soon. ...
+Druid Yandur: The captain on the ship to the north will bring you to a city of your choice when you are prepared. Farewell, young druid, and don't hesitate to ask me if you have any questions.
+Player: bye
+Druid Yandur: Farewell Player, may you always have friends in your company.
+Player: (vanish)
+Druid Yandur: Leaving without a friendly word... what a pity.

@@ -1,0 +1,26 @@
+Player: hi  
+Scrutinon: Player. I have been watching your fate for quite some time. It's about time you came here. Do you seek to enter the riven island of Quirefang or travel back from where you came?  
+Player: Quirefang / Gray / Beach  
+Scrutinon: This island is cleft. Go there only prepared or you will meet your end. The surface of this forgotten rock is a barren wasteland full of hostile creatures. ...  
+Scrutinon: Its visage is covered with holes and tunnels in which its leggy inhabitants are hiding. Its bowels filled with the strangest creatures, waiting to feast on whatever dares to disturb their hive. ...  
+Scrutinon: And you will find no shelter in Quirefang's black depths, where the creatures of the deep are fulfilling a dark prophecy. ...  
+Scrutinon: It is impossible to reach it by ship or boat. However, there was one before you. A visitor who found a way to enter the island.  
+Player: visitor  
+Scrutinon: He travelled on the very ground to reach the hostile shores of Quirefang. He used something that turned the soil and carved a way to the island. ...  
+Scrutinon: You will need to follow his trail if you want to reach it.  
+Player: travel / go / passage / teleport  
+Scrutinon: So you want to leave this place? As you may have noticed, most seafarers won't stay here... for long. So, do you want me to send you back to Ab'Dendriel, Darashia, Edron or Venore?  
+Player: Ab'Dendriel / Darashia / Edron / Venore  
+Scrutinon: I will see you again.  
+Player: name / Scrutinon  
+Scrutinon: My name is Scrutinon. However, there are not many people calling my name nowadays. Not many captains even dare to land on this island. It is too close to Quirefang. ...  
+Scrutinon: Most of them do not know this island by that name. Some call it Demon Horn, others the Dragon's Tooth or the Gray Beach as none of them ever came closer than a fair distance. ...  
+Scrutinon: There are drifts and storms surrounding that place that are far too dangerous to navigate through even for the most versed captains. They often sail not closer than to this island here and drop off whoever dares to explore near this dreaded coast.  
+Player: job  
+Scrutinon: I am waiting. Beyond time and ever watchful. And I expected you, traveller.  
+Player: go / travel / passage / teleport  
+Scrutinon: So you want to leave this place? As you may have noticed, most seafarers won't stay here... for long. So, do you want me to send you back to Ab'Dendriel, Darashia, Edron or Venore?  
+Player: no  
+Scrutinon: Then stay. I certainly don't mind.  
+Player: bye / farewell  
+Scrutinon: I will see you again.  
