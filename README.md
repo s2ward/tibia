@@ -5,7 +5,7 @@ A repository for all things Tibia.
 ### Where are the NPCs?  
 
 They are here!
-- [/data/npcs/text/]]([https://github.com/s2ward/tibia/data/npcs/text](https://github.com/s2ward/tibia/tree/main/data/npcs/text))
+- [/data/npcs/text/](https://github.com/s2ward/tibia/tree/main/data/npcs/text)
 
 - Talesoftibia.com: [Open Source](https://talesoftibia.com)
 - Discord: [Explorer Society](https://discord.gg/JRvjSuU99U)
