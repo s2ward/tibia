@@ -1,5 +1,3 @@
-### Updated Documentation
-
 # Tibia  
 
 A repository for all things Tibia.  
@@ -13,7 +11,7 @@ They are here!
 - Discord: [Explorer Society](https://discord.gg/JRvjSuU99U)
 - Search Transcripts: [NPSearch](https://www.talesoftibia.com/npsearch)   
 - Search Books: [LIBSearch](https://www.talesoftibia.com/libsearch)  
-- Research: [talesoftibia](https://www.talesoftibia.com/blog)), [reddit](https://www.reddit.com/r/SolvingTibia) 
+- Research: [talesoftibia](https://www.talesoftibia.com/blog), [reddit](https://www.reddit.com/r/SolvingTibia) 
 - All Transcripts: [↗](./docs/npc_trees/all_transcripts.md)  
 
 The `data/npcs/text/` directory and its content is used by [NPSearch](https://www.talesoftibia.com/npsearch)  
