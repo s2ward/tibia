@@ -1,4 +1,0 @@
-Player: hi
-A Wyrm: Get lost! You are blowing my cover!
-Player: hi  
-A Wyrm: Pssst! Keep it down! <gives you an elaborate report on monster activity>  

@@ -1,6 +1,0 @@
-Player: sniffler
-A Starving Dog: <sniff>
-Player: (any)
-A Starving Dog: Grrr! (idle)
-Player: meat
-A Starving Dog: <munch>

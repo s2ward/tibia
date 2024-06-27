@@ -1,2 +1,0 @@
-Player: hi
-Gnomenace: Hi! And of course bye!

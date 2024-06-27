@@ -1,2 +1,0 @@
-Player: fingers crossed
-Test: fubar
