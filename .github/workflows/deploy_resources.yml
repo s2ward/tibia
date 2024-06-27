@@ -28,14 +28,15 @@ jobs:
         # Prepare directories
         mkdir -p gh-pages/{images/{books,creatures,spells,npcs},data/{npcs,books}}
 
-        # Copy files
+        # Copy image files
         cp -r images/npcs/* gh-pages/images/npcs/
         cp -r images/books/* gh-pages/images/books/
         cp -r images/creatures/* gh-pages/images/creatures/
         cp -r images/spells/* gh-pages/images/spells/
         
+        # Copy and rename minimized JSON files
         for file in data/{npcs,books}/*.min.json; do
-          cp "$file" "gh-pages/${file%.min.json}"
+          cp "$file" "gh-pages/${file%.min.json}.json"
         done
 
     - name: Sync to Cloudflare R2
