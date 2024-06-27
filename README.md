@@ -638,8 +638,8 @@ As well as some from Tibiasecrets.com Discord community.
 ## Research:  
 
 - [469](https://article.talesoftibia.com/469/1/)
-- [Island Dianscher, 469]([https://www.reddit.com/r/TibiaMMO/comments/15832tv/lore_warlocks_draconia_trolls_the_mysterious/](https://talesoftibia.com/blog/2024-06-08-island-dianscher/))
-- [getting-started]([https://s2ward.github.io/docs/getting-started/](https://talesoftibia.com/blog/2024-06-14-getting-started-with-lore-and-mysteries/))
+- [Island Dianscher, 469](https://talesoftibia.com/blog/2024-06-08-island-dianscher/)
+- [getting-started](https://talesoftibia.com/blog/2024-06-14-getting-started-with-lore-and-mysteries/)
 
 # Legal Note
 
