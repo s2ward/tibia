@@ -41,16 +41,16 @@ jobs:
 
     - name: Copy updated docs and minimized JSON to gh-pages branch
       run: |
-        mkdir -p gh-pages/img/book
-        mkdir -p gh-pages/img/creature
-        mkdir -p gh-pages/img/spell
+        mkdir -p gh-pages/images/books
+        mkdir -p gh-pages/images/creatures
+        mkdir -p gh-pages/images/spells
+        mkdir -p gh-pages/images/npcs
         mkdir -p gh-pages/data/npcs
         mkdir -p gh-pages/data/books
-        cp main/img/npc/* gh-pages/img/npc/
-        cp main/img/book/* gh-pages/img/book/
-        cp main/img/creature/* gh-pages/img/creature/
-        cp main/img/spell/* gh-pages/img/spell/
-        cp main/docs/npc_trees/*_transcripts.md gh-pages/data/npcs/
+        cp main/images/npcs/* gh-pages/images/npcs/
+        cp main/images/books/* gh-pages/images/books/
+        cp main/images/creatures/* gh-pages/images/creatures/
+        cp main/images/spells/* gh-pages/images/spells/
         cp main/data/npcs/min_npc_transcript_database.json gh-pages/data/npcs/npc_transcript_database.json
         cp main/data/npcs/min_npc_metadata.json gh-pages/data/npcs/npc_metadata.json
         cp main/data/books/min_book_database.json gh-pages/data/books/book_database.json
@@ -76,10 +76,10 @@ jobs:
         cp main/data/npcs/min_npc_metadata.json local_sync/data/npcs/npc_metadata.json
         cp main/data/books/min_book_database.json local_sync/data/books/book_database.json
         cp main/data/books/min_book_image_mapping.json local_sync/data/books/book_image_mapping.json
-        cp -r main/img/npc/* local_sync/images/npcs/
-        cp -r main/img/book/* local_sync/images/books/
-        cp -r main/img/spell/* local_sync/images/spells/
-        cp -r main/img/creature/* local_sync/images/creatures/
+        cp -r main/images/npc/* local_sync/images/npcs/
+        cp -r main/images/book/* local_sync/images/books/
+        cp -r main/images/spell/* local_sync/images/spells/
+        cp -r main/images/creature/* local_sync/images/creatures/
 
         rclone sync local_sync/ cloudflare:resources
         rm -rf local_sync
