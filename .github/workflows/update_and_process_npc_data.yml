@@ -38,7 +38,7 @@ jobs:
           python-version: 3.8
 
       - name: Convert txt files to JSON
-        run: python src/gha/txt_to_json.py
+        run: python src/scripts/gha/compile_npc_transcript_database.py
 
       - name: Update file mapping
         if: "!contains(github.event.issue.labels.*.name, 'patch')"
@@ -52,16 +52,16 @@ jobs:
           MODIFIED_FILES=${MODIFIED_FILES[@]}
           RENAMED_FILES=${RENAMED_FILES[@]}
           DELETED_FILES=${DELETED_FILES[@]}
-          python src/gha/update_file_mapping.py "$GITHUB_WORKSPACE" "$GITHUB_WORKSPACE/base" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
+          python src/scripts/gha/update_npc_file_and_verification_mapping.py "$GITHUB_WORKSPACE" "$GITHUB_WORKSPACE/base" "$ADDED_FILES" "$MODIFIED_FILES" "$RENAMED_FILES" "$DELETED_FILES"
 
       - name: Sync NPC data
-        run: python src/gha/sync_npc_data.py npc api/npc_data.json
+        run: python src/scripts/gha/update_npc_location_metadata.py npc data/npcs/npc_metadata.json
 
       - name: Sync book-images.json
-        run: python src/gha/create_book_images.py
+        run: python src/scripts/gha/generate_book_image_mapping.py
 
       - name: Generate trees
-        run: python src/gha/tree.py
+        run: python src/scripts/gha/generate_npc_trees.py
 
       - name: Add 'base' to .gitignore
         run: |
