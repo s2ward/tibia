@@ -61,8 +61,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thomas</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Thomas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ursula</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Ursula.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Zoltan</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Zoltan.txt)  
-├─&nbsp;&nbsp;<strong>Isle of Destiny</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Isle_of_Destiny)  
-│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Weaponmaster</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Isle_of_Destiny/Weaponmaster.txt)  
 ├─&nbsp;&nbsp;<strong>Kazordoon</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alberto</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Alberto.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brom</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Brom.txt)  
