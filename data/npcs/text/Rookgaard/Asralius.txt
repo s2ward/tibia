@@ -12,7 +12,7 @@ Asralius: You have been wounded in this battle and lost 10 percent of your exper
 Player: help
 Asralius: I restored your experience. Since you are still young, it wasn't much you have lost, but next time, things could be a lot worse. Do you feel better?
 Player: no
-Asralius: Hmm no, indeed you didn’t. You should go and open it, I stored some stuff in there which you can use for now. Come back to me after you opened it.
+Asralius: Hmm no, indeed you didn't. You should go and open it, I stored some stuff in there which you can use for now. Come back to me after you opened it.
 Player: yes
 Asralius: In any case, be careful when exploring dungeons you don't know. Be prepared to run away fast if you meet a monster that is stronger than you. Dying does hurt! This time you didn't have a chance though. By the way... did you open the big blue chest yet?
 Player: yes
