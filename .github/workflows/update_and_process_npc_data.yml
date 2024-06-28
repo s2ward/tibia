@@ -37,6 +37,11 @@ jobs:
         with:
           python-version: 3.8
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyGithub requests
+
       - name: Convert txt files to JSON
         run: python src/scripts/gha/compile_npc_transcript_database.py
 
@@ -63,6 +68,10 @@ jobs:
       - name: Generate trees
         run: python src/scripts/gha/generate_npc_trees.py
 
+      - name: Generate NPC Status Report
+        run: |
+          python src/scripts/gha/generate_npc_status_report.py data/npcs/npc_verification_mapping.json data/status/npc_status.json
+
       - name: Add 'base' to .gitignore
         run: |
           echo "base" > .gitignore
@@ -71,6 +80,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Apply NPC updates"
+          commit_message: "Apply NPC updates and update NPC status"
           file_pattern: .
           branch: ${{ needs.prepare.outputs.pr_branch_name }}
