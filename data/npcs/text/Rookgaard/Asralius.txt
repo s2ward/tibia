@@ -1,0 +1,28 @@
+Player: (idle)
+Asralius: Let me speak a few words to you
+Asralius: Death comes to the best of us, but this time you had no chance.
+Player: hi
+Asralius: Player, are you prepared to continue your journey?
+Player: (any)
+Asralius: This is not the time for idle waiting. Still, if you want to enjoy the view for a bit more, I won't force you to leave. Talk to me once you're ready. (idle)
+Player: hi / hello
+Asralius: Player! You finally woke up - I felt dark energy vibrating somewhere deep underground, but I couldn't save you in time. This place is safe. Are you alright?
+Player: alright
+Asralius: You have been wounded in this battle and lost 10 percent of your experience and skills. Death in Tibia often means a grave loss. I'm sorry... but there might be a way I can help you.
+Player: help
+Asralius: I restored your experience. Since you are still young, it wasn't much you have lost, but next time, things could be a lot worse. Do you feel better?
+Player: no
+Asralius: Hmm no, indeed you didn't. You should go and open it, I stored some stuff in there which you can use for now. Come back to me after you opened it.
+Player: yes
+Asralius: In any case, be careful when exploring dungeons you don't know. Be prepared to run away fast if you meet a monster that is stronger than you. Dying does hurt! This time you didn't have a chance though. By the way... did you open the big blue chest yet?
+Player: yes
+Asralius: Good. This should cover most of your losses. The backpack you found in the chest allows you to carry more items at the same time. ...
+Asralius: You know... this must have been Kraknaknork's doing... he is a powerful orc shaman who has risen from the crowd of less 'gifted' orcs and started to terrorise Rookgaard. Have you seen him?
+Player: yes
+Asralius: You have? I'm really worried about Rookgaard. We've never had orcs intruding our village, but Kraknaknork even seems capable of teleporting people to strange dimensions and summoning demons. I don't like this at all. What do you think? Speak freely.
+Player: (any)
+Asralius: I see... maybe you have a point. You know, maybe you'd want to talk to Vascalir in the Rookgaard academy. He has recently arrived to aid us with the recent orc problems. Should I teleport you back downstairs?
+Player: no
+Asralius: This is not the time for idle waiting. Still, if you want to enjoy the view for a bit more, I won't force you to leave. Talk to me once you're ready. (idle)
+Player: yes
+Asralius: Seek out Vascalir in the academy. I think if you can help him, he will be able to help you as well. And remember to be careful!

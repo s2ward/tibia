@@ -1,25 +1,25 @@
 {
   "total_npcs": 1131,
   "verified": {
-    "count": 882,
-    "percentage": 77.98
+    "count": 883,
+    "percentage": 78.07
   },
   "unverified": {
     "count": 106,
     "percentage": 9.37
   },
   "empty": {
-    "count": 143,
-    "percentage": 12.64
+    "count": 142,
+    "percentage": 12.56
   },
   "unverified_or_empty": {
-    "count": 249,
-    "percentage": 22.02
+    "count": 248,
+    "percentage": 21.93
   },
   "last_updated": {
-    "date": "2024-06-28T13:59:26Z",
-    "pr_number": 622,
-    "pr_title": "Blind Orc",
-    "pr_url": "https://github.com/s2ward/tibia/pull/622"
+    "date": "2024-06-28T14:37:58Z",
+    "pr_number": 624,
+    "pr_title": "Asralius",
+    "pr_url": "https://github.com/s2ward/tibia/pull/624"
   }
 }
