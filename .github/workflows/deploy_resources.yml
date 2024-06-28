@@ -21,12 +21,12 @@ jobs:
     - name: Process and copy files
       run: |
         # Minimize JSON files
-        for file in data/{npcs,books}/*.json; do
+        for file in data/{npcs,books,status}/*.json; do
           jq -c . "$file" > "${file%.json}.min.json"
         done
 
         # Prepare directories
-        mkdir -p gh-pages/{images/{books,creatures,spells,npcs},data/{npcs,books}}
+        mkdir -p gh-pages/{images/{books,creatures,spells,npcs},data/{npcs,books,status}}
 
         # Copy image files
         cp -r images/npcs/* gh-pages/images/npcs/
@@ -35,7 +35,7 @@ jobs:
         cp -r images/spells/* gh-pages/images/spells/
         
         # Copy and rename minimized JSON files
-        for file in data/{npcs,books}/*.min.json; do
+        for file in data/{npcs,books,status}/*.min.json; do
           cp "$file" "gh-pages/${file%.min.json}.json"
         done
 
