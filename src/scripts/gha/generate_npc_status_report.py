@@ -68,13 +68,20 @@ def get_pr_info():
     if event_path and os.path.exists(event_path):
         with open(event_path, 'r') as f:
             event_data = json.load(f)
-        pr = event_data.get('pull_request', {})
-        print("PR Data:", pr)  
-        return {
-            'number': pr.get('number'),
-            'title': pr.get('title'),
-            'url': pr.get('html_url')
-        }
+        
+        pr = event_data.get('issue', {}).get('pull_request', {})
+        if pr:
+            pr_number = event_data.get('issue', {}).get('number')
+            pr_title = event_data.get('issue', {}).get('title')
+            pr_url = pr.get('html_url')
+            print("PR Number:", pr_number)
+            print("PR Title:", pr_title)
+            print("PR URL:", pr_url)
+            return {
+                'number': pr_number,
+                'title': pr_title,
+                'url': pr_url
+            }
     return None
 
 # Main execution
