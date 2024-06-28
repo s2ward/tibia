@@ -65,6 +65,8 @@ jobs:
 
       - name: Generate NPC Status Report
         run: |
+          echo "GITHUB_EVENT_PATH: $GITHUB_EVENT_PATH"
+          cat $GITHUB_EVENT_PATH
           python src/scripts/gha/generate_npc_status_report.py data/status/npc_verification_mapping.json data/status/npc_status.json
 
       - name: Add 'base' to .gitignore
@@ -77,4 +79,4 @@ jobs:
         with:
           commit_message: "Apply NPC updates and update NPC status"
           file_pattern: .
-          branch: ${{ needs.prepare.outputs.pr_branch_name }}
+          branch: ${{ github.event.issue.pull_request.head.ref }}

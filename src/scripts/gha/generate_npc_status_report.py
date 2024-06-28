@@ -3,7 +3,7 @@ import sys
 import os
 from datetime import datetime
 
-# generate_npc_status_report.py
+# Function to count NPCs and calculate percentages
 def count_npcs(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
@@ -62,12 +62,14 @@ def count_npcs(file_path):
 
     return output
 
+# Function to get PR information
 def get_pr_info():
     event_path = os.environ.get('GITHUB_EVENT_PATH')
     if event_path and os.path.exists(event_path):
         with open(event_path, 'r') as f:
             event_data = json.load(f)
         pr = event_data.get('pull_request', {})
+        print("PR Data:", pr)  
         return {
             'number': pr.get('number'),
             'title': pr.get('title'),
@@ -75,6 +77,7 @@ def get_pr_info():
         }
     return None
 
+# Main execution
 if __name__ == '__main__':
     input_file_path = sys.argv[1] if len(sys.argv) > 1 else 'data/status/npc_verification_mapping.json'
     output_file_path = sys.argv[2] if len(sys.argv) > 2 else 'data/status/npc_status.json'
@@ -89,7 +92,14 @@ if __name__ == '__main__':
             'pr_title': pr_info['title'],
             'pr_url': pr_info['url']
         }
-    
+    else:
+        npc_stats['last_updated'] = {
+            'date': datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            'pr_number': None,
+            'pr_title': None,
+            'pr_url': None
+        }
+
     with open(output_file_path, 'w') as output_file:
         json.dump(npc_stats, output_file, indent=2)
 
