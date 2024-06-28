@@ -30,7 +30,7 @@ def update_contributions_table(issue, pr_info, repo_name):
         elif header_encountered and line.strip() and not line.startswith('| --- | --- | --- | --- | --- |'):
             table_lines.append(line)
     
-    # Dictionary to track the highest count for each contributor's file
+    # Dictionary to track the highest count for each contributor
     contributor_counts = {}
 
     # Parse the existing table to populate the contributor_counts dictionary
@@ -39,19 +39,18 @@ def update_contributions_table(issue, pr_info, repo_name):
         if len(parts) >= 6:
             try:
                 opener = parts[1].strip()
-                file_path = parts[2].strip().split('](')[-1].rstrip(')')
                 count = int(parts[4].strip())
-                contributor_counts[(opener, file_path)] = max(count, contributor_counts.get((opener, file_path), 0))
+                contributor_counts[opener] = max(count, contributor_counts.get(opener, 0))
             except ValueError:
                 continue  # Skip any invalid lines
 
     new_entries = []
     for f in pr_info['files']:
         file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-        current_count = contributor_counts.get((pr_info["opener"], file_url), 0) + 1
+        current_count = contributor_counts.get(pr_info["opener"], 0) + 1
         entry = f'| {pr_info["opener"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | {current_count} | {timestamp} |'
         new_entries.append(entry)
-        contributor_counts[(pr_info["opener"], file_url)] = current_count
+        contributor_counts[pr_info["opener"]] = current_count
 
     table_header = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
     table_content = '\n'.join(table_lines + new_entries).rstrip()
