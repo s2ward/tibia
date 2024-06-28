@@ -1,0 +1,32 @@
+Player: hi
+Blind Orc: Buta humak!
+Player: charach (hi)
+Blind Orc: Ikem Charach maruk.
+Player: charach (busy)
+Blind Orc: Ikem napak aluk.
+Player: goshak [buy]
+Blind Orc: Ba goshak maruk?
+Player: ikem goshak
+Blind Orc: Ikem pashak porak, bata, dora. Ba goshak maruk?
+Player: goshak porak [weapon]
+Blind Orc: Ikem pashak charcha, burka, burka bata, hakhak. Ba goshak maruk? [sabre, short sword, sword, hatchet]
+Player: goshak bata [armor]
+Blind Orc: Ikem pashak aka bora, tulak bora, grofa. Ba goshak maruk? [leather armor, studded armor, studded helmet]
+Player: goshak dora [shield]
+Blind Orc: Ikem pashak donga. Ba goshak maruk? [brass shield]
+Player: goshak (specific item)
+Blind Orc: Maruk goshak ta? (will you buy it?~)
+Player: goshak batuk [bow]
+Blind Orc: Ahhhh, maruk goshak batuk?
+Player: goshak pixo [arrows]
+Blind Orc: Maruk goshak tefar pixo ul batuk?
+Player: burp [no] / (any)
+Blind Orc: Buta maruk klamuk!
+Player: mok [yes]
+Blind Orc: Maruk rambo zambo!
+Player: mok (without money)
+Blind Orc: Maruk nixda!
+Player: futchi (bye)
+Blind Orc: Futchi!
+Player: (vanish)
+Blind Orc: Futchi.
