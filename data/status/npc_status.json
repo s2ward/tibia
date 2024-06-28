@@ -1,25 +1,25 @@
 {
   "total_npcs": 1131,
   "verified": {
-    "count": 881,
-    "percentage": 77.9
+    "count": 882,
+    "percentage": 77.98
   },
   "unverified": {
     "count": 106,
     "percentage": 9.37
   },
   "empty": {
-    "count": 144,
-    "percentage": 12.73
+    "count": 143,
+    "percentage": 12.64
   },
   "unverified_or_empty": {
-    "count": 250,
-    "percentage": 22.1
+    "count": 249,
+    "percentage": 22.02
   },
   "last_updated": {
-    "date": "2024-06-28T13:53:46Z",
-    "pr_number": 623,
-    "pr_title": "An Orc Guard",
-    "pr_url": "https://github.com/s2ward/tibia/pull/623"
+    "date": "2024-06-28T13:59:26Z",
+    "pr_number": 622,
+    "pr_title": "Blind Orc",
+    "pr_url": "https://github.com/s2ward/tibia/pull/622"
   }
 }

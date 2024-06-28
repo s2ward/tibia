@@ -667,6 +667,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Virgil</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Virgil.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">An Orc Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/An_Orc_Guard.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Blind Orc</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Blind_Orc.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Cipfried</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Cipfried.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dallheim</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Dallheim.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hyacinth</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Hyacinth.txt)  
