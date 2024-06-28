@@ -5,6 +5,7 @@ from github import Github
 from datetime import datetime, timezone
 
 # update_project_status.py
+
 def load_pr_data(pr_event_path):
     with open(pr_event_path, 'r') as f:
         return json.load(f)
@@ -18,16 +19,24 @@ def update_contributions_table(issue, pr_info, repo_name):
     existing_table = existing_comment.body.split('\n')[4:] if existing_comment else []
     new_entries = []
 
+    # Dictionary to track the highest count for each contributor's file
+    contributor_counts = {}
+
+    # Parse the existing table to populate the contributor_counts dictionary
+    for line in existing_table:
+        parts = line.split('|')
+        if len(parts) >= 6:
+            opener = parts[1].strip()
+            file_path = parts[2].strip().split('](')[-1].rstrip(')')
+            count = int(parts[4].strip())
+            contributor_counts[(opener, file_path)] = max(count, contributor_counts.get((opener, file_path), 0))
+
     for f in pr_info['files']:
         file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-        existing_contributions = [line for line in existing_table if f'| {pr_info["opener"]} |' in line]
-        if existing_contributions:
-            count = sum(1 for line in existing_contributions if f'| {pr_info["opener"]} |' in line) + 1
-            updated_entry = f'| {pr_info["opener"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | {count} | {timestamp} |'
-            existing_table.append(updated_entry)
-        else:
-            entry = f'| {pr_info["opener"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | 1 | {timestamp} |'
-            new_entries.append(entry)
+        current_count = contributor_counts.get((pr_info["opener"], file_url), 0) + 1
+        entry = f'| {pr_info["opener"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | {current_count} | {timestamp} |'
+        new_entries.append(entry)
+        contributor_counts[(pr_info["opener"], file_url)] = current_count
 
     table = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
     table += '\n'.join(existing_table + new_entries).rstrip()
