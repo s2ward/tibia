@@ -1,23 +1,23 @@
 {
   "total_npcs": 1131,
   "verified": {
-    "count": 880,
-    "percentage": 77.81
+    "count": 881,
+    "percentage": 77.9
   },
   "unverified": {
     "count": 106,
     "percentage": 9.37
   },
   "empty": {
-    "count": 145,
-    "percentage": 12.82
+    "count": 144,
+    "percentage": 12.73
   },
   "unverified_or_empty": {
-    "count": 251,
-    "percentage": 22.19
+    "count": 250,
+    "percentage": 22.1
   },
   "last_updated": {
-    "date": "2024-06-28T13:39:51Z",
+    "date": "2024-06-28T13:53:46Z",
     "pr_number": 623,
     "pr_title": "An Orc Guard",
     "pr_url": "https://github.com/s2ward/tibia/pull/623"
