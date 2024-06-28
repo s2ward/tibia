@@ -26,10 +26,13 @@ def update_contributions_table(issue, pr_info, repo_name):
     for line in existing_table:
         parts = line.split('|')
         if len(parts) >= 6:
-            opener = parts[1].strip()
-            file_path = parts[2].strip().split('](')[-1].rstrip(')')
-            count = int(parts[4].strip())
-            contributor_counts[(opener, file_path)] = max(count, contributor_counts.get((opener, file_path), 0))
+            try:
+                opener = parts[1].strip()
+                file_path = parts[2].strip().split('](')[-1].rstrip(')')
+                count = int(parts[4].strip())
+                contributor_counts[(opener, file_path)] = max(count, contributor_counts.get((opener, file_path), 0))
+            except ValueError:
+                continue  # Skip the header or any invalid lines
 
     for f in pr_info['files']:
         file_url = f'https://github.com/{repo_name}/blob/main/{f}'
