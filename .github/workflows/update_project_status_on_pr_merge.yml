@@ -1,5 +1,4 @@
 name: Update Project Status on PR Merge
-
 on:
   pull_request:
     types:
@@ -11,7 +10,6 @@ jobs:
   update_issue:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
@@ -24,26 +22,25 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install PyGithub
-        pip install requests
+        pip install PyGithub requests
 
-    - name: Run NPC Status Script and Set Output
-      id: npc_status
+    - name: Run NPC Status Script
       run: |
-        output="$(python src/scripts/gha/generate_npc_status_report.py data/npcs/npc_verification_mapping.json base64)"
-        echo "npc_status_output=$output" >> $GITHUB_ENV
-        echo "npc_status_output: $output"
-    
-    - name: Update issue
+        python src/scripts/gha/generate_npc_status_report.py data/npcs/npc_verification_mapping.json data/status/npc_status.json
+
+    - name: Read NPC Status JSON
+      id: read_npc_status
+      run: |
+        content=$(cat data/status/npc_status.json)
+        echo "npc_status=$content" >> $GITHUB_OUTPUT
+
+    - name: Update issue, NPC status, and send Discord message
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         ISSUE_NUMBER: 51
         DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         GITHUB_EVENT_PATH: ${{ github.event_path }}
         GITHUB_REPOSITORY: ${{ github.repository }}
-        NPC_STATUS_OUTPUT: ${{ env.npc_status_output }}
+        NPC_STATUS_JSON: ${{ steps.read_npc_status.outputs.npc_status }}
       run: |
-        # Decode the Base64-encoded output before using it
-        npc_status_output=$(echo $NPC_STATUS_OUTPUT | base64 --decode)
-        echo "Decoded NPC Status Output: $npc_status_output"
         python src/scripts/gha/update_project_status.py

@@ -117,6 +117,8 @@ tibia/
 │   │   ├── npc_verification_mapping.json
 │   │   └── text/
 │   │       └── [NPC text files organized by <area>/<subarea>]
+│   └── status/
+│       └── [project status files]
 ├── docs/
 │   ├── npc_trees/
 │   │   └── [NPC tree structures]
@@ -138,9 +140,9 @@ tibia/
 │   │   │   ├── update_npc_file_and_verification_mapping.py
 │   │   │   ├── update_project_status.py
 │   │   │   └── validate_npc_file_structure.py
-│   │   ├── utils/
-│   │   │   ├── mapper_to_tibiamaps.py
-│   │   │   └── sanitize.py
+│   │   └── utils/
+│   │       ├── mapper_to_tibiamaps.py
+│   │       └── sanitize.py
 │   └── [other source code modules]
 ├── hotkeys.json
 └── [other project files]

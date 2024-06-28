@@ -1,11 +1,13 @@
-import base64
 import json
 import sys
+import os
+from datetime import datetime
 
+# generate_npc_status_report.py
 def count_npcs(file_path):
     with open(file_path, 'r') as file:
         data = json.load(file)
-
+    
     total_npcs = 0
     verified_count = 0
     unverified_count = 0
@@ -37,28 +39,58 @@ def count_npcs(file_path):
     empty_percent = (empty_count / total_npcs) * 100 if total_npcs > 0 else 0
     unverified_or_empty_percent = ((unverified_count + empty_count) / total_npcs) * 100 if total_npcs > 0 else 0
 
-    # Creating output string
-    output = f"Total NPCs: {total_npcs}\n"
-    output += f"Verified: {verified_count}/{total_npcs}, {verified_percent:.2f}%\n"
-    output += f"Unverified: {unverified_count}/{total_npcs}, {unverified_percent:.2f}%\n"
-    output += f"Empty: {empty_count}/{total_npcs}, {empty_percent:.2f}%\n"
-    output += f"Unverified or Empty: {unverified_count + empty_count}/{total_npcs}, {unverified_or_empty_percent:.2f}%"
+    # Creating output dictionary
+    output = {
+        "total_npcs": total_npcs,
+        "verified": {
+            "count": verified_count,
+            "percentage": round(verified_percent, 2)
+        },
+        "unverified": {
+            "count": unverified_count,
+            "percentage": round(unverified_percent, 2)
+        },
+        "empty": {
+            "count": empty_count,
+            "percentage": round(empty_percent, 2)
+        },
+        "unverified_or_empty": {
+            "count": unverified_count + empty_count,
+            "percentage": round(unverified_or_empty_percent, 2)
+        }
+    }
 
     return output
 
+def get_pr_info():
+    event_path = os.environ.get('GITHUB_EVENT_PATH')
+    if event_path and os.path.exists(event_path):
+        with open(event_path, 'r') as f:
+            event_data = json.load(f)
+        pr = event_data.get('pull_request', {})
+        return {
+            'number': pr.get('number'),
+            'title': pr.get('title'),
+            'url': pr.get('html_url')
+        }
+    return None
+
 if __name__ == '__main__':
-    # Default values
-    file_path = 'data/npcs/npc_verification_mapping.json'
-    output_format = 'plain'
+    input_file_path = sys.argv[1] if len(sys.argv) > 1 else 'data/npcs/npc_verification_mapping.json'
+    output_file_path = sys.argv[2] if len(sys.argv) > 2 else 'data/status/npc_status.json'
 
-    if len(sys.argv) > 1:
-        file_path = sys.argv[1]
-    if len(sys.argv) > 2:
-        output_format = sys.argv[2]
-        
-    npc_output = count_npcs(file_path)
+    npc_stats = count_npcs(input_file_path)
+    
+    pr_info = get_pr_info()
+    if pr_info:
+        npc_stats['last_updated'] = {
+            'date': datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            'pr_number': pr_info['number'],
+            'pr_title': pr_info['title'],
+            'pr_url': pr_info['url']
+        }
+    
+    with open(output_file_path, 'w') as output_file:
+        json.dump(npc_stats, output_file, indent=2)
 
-    if output_format == 'base64':
-        print(base64.b64encode(npc_output.encode('utf-8')).decode('utf-8'))
-    else:
-        print(npc_output)
+    print(f"NPC status data has been written to {output_file_path}")
