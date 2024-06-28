@@ -146,10 +146,10 @@ if __name__ == '__main__':
     print(f"base_dir: {base_dir}")
     print(f"files: {files}")
 
-    with open(repo_dir / 'data' / 'npcs' / 'npc_verification_mapping.json') as f:
+    with open(repo_dir / 'data' / 'status' / 'npc_verification_mapping.json') as f:
         mapping = json.load(f)
 
     process_files(mapping, base_dir, repo_dir, files)
 
-    with open(repo_dir / 'data' / 'npcs' / 'npc_verification_mapping.json', 'w') as f:
+    with open(repo_dir / 'data' / 'status' / 'npc_verification_mapping.json', 'w') as f:
         json.dump(mapping, f, indent=4)
