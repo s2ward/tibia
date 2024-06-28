@@ -16,14 +16,25 @@ def get_timestamp():
 def update_contributions_table(issue, pr_info, repo_name):
     timestamp = get_timestamp()
     existing_comment = next((comment for comment in issue.get_comments() if '### Contributions Table' in comment.body), None)
-    existing_table = existing_comment.body.split('\n')[4:] if existing_comment else []
-    new_entries = []
-
+    if existing_comment:
+        existing_table = existing_comment.body.split('\n')
+    else:
+        existing_table = []
+    
+    # Extract table content excluding headers
+    table_lines = []
+    header_encountered = False
+    for line in existing_table:
+        if line.startswith('| Opener | Changed File | PR Link | Count | Timestamp |'):
+            header_encountered = True
+        elif header_encountered:
+            table_lines.append(line)
+    
     # Dictionary to track the highest count for each contributor's file
     contributor_counts = {}
 
     # Parse the existing table to populate the contributor_counts dictionary
-    for line in existing_table:
+    for line in table_lines:
         parts = line.split('|')
         if len(parts) >= 6:
             try:
@@ -32,8 +43,9 @@ def update_contributions_table(issue, pr_info, repo_name):
                 count = int(parts[4].strip())
                 contributor_counts[(opener, file_path)] = max(count, contributor_counts.get((opener, file_path), 0))
             except ValueError:
-                continue  # Skip the header or any invalid lines
+                continue  # Skip any invalid lines
 
+    new_entries = []
     for f in pr_info['files']:
         file_url = f'https://github.com/{repo_name}/blob/main/{f}'
         current_count = contributor_counts.get((pr_info["opener"], file_url), 0) + 1
@@ -41,13 +53,14 @@ def update_contributions_table(issue, pr_info, repo_name):
         new_entries.append(entry)
         contributor_counts[(pr_info["opener"], file_url)] = current_count
 
-    table = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
-    table += '\n'.join(existing_table + new_entries).rstrip()
+    table_header = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
+    table_content = '\n'.join(table_lines + new_entries).rstrip()
 
     if existing_comment:
-        existing_comment.edit(table)
+        existing_comment.edit(table_header + table_content)
     else:
-        issue.create_comment(table)
+        issue.create_comment(table_header + table_content)
+
 
 def prepare_discord_message(pr_info, npc_status, repo_name):
     content_lines = [
