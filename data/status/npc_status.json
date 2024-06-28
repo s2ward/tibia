@@ -1,25 +1,25 @@
 {
   "total_npcs": 1131,
   "verified": {
-    "count": 877,
-    "percentage": 77.54
+    "count": 880,
+    "percentage": 77.81
   },
   "unverified": {
-    "count": 107,
-    "percentage": 9.46
+    "count": 106,
+    "percentage": 9.37
   },
   "empty": {
-    "count": 147,
-    "percentage": 13.0
+    "count": 145,
+    "percentage": 12.82
   },
   "unverified_or_empty": {
-    "count": 254,
-    "percentage": 22.46
+    "count": 251,
+    "percentage": 22.19
   },
   "last_updated": {
-    "date": "2024-06-28T10:51:12Z",
-    "pr_number": 620,
+    "date": "2024-06-28T13:01:35Z",
+    "pr_number": 621,
     "pr_title": "Update Test.txt",
-    "pr_url": "https://github.com/s2ward/tibia/pull/620"
+    "pr_url": "https://github.com/s2ward/tibia/pull/621"
   }
 }
