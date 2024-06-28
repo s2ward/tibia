@@ -136,7 +136,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Roughington</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Roughington.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Strange Pipe</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Strange_Pipe.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">An Orc Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/An_Orc_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asralius</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Asralius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Blind Orc</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Blind_Orc.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Paulie</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Paulie.txt)  

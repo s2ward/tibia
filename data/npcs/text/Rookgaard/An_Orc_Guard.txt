@@ -1,0 +1,5 @@
+Player: (idle)
+An Orc Guard: Grrrr.
+An Orc Guard: Fetchi maruk buta.
+Player: hi / charach
+An Orc Guard: (does not respond)
