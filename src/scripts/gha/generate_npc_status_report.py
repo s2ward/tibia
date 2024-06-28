@@ -76,7 +76,7 @@ def get_pr_info():
     return None
 
 if __name__ == '__main__':
-    input_file_path = sys.argv[1] if len(sys.argv) > 1 else 'data/npcs/npc_verification_mapping.json'
+    input_file_path = sys.argv[1] if len(sys.argv) > 1 else 'data/status/npc_verification_mapping.json'
     output_file_path = sys.argv[2] if len(sys.argv) > 2 else 'data/status/npc_status.json'
 
     npc_stats = count_npcs(input_file_path)

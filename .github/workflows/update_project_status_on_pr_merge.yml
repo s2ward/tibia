@@ -23,15 +23,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install PyGithub requests
-
-    - name: Run NPC Status Script
-      run: |
-        python src/scripts/gha/generate_npc_status_report.py data/npcs/npc_verification_mapping.json data/status/npc_status.json
+        sudo apt-get install jq
 
     - name: Read NPC Status JSON
       id: read_npc_status
       run: |
-        content=$(cat data/status/npc_status.json)
+        content=$(cat data/status/npc_status.json | jq -c .)
         echo "npc_status=$content" >> $GITHUB_OUTPUT
 
     - name: Update issue, NPC status, and send Discord message
