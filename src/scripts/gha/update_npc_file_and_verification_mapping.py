@@ -46,13 +46,18 @@ def get_status_for_file(mapping, file_path):
 
 def get_status(base_dir, repo_dir, file_path):
     """Determine the status of a file based on its content."""
-    base_file_path = base_dir / 'text' / file_path.relative_to(repo_dir / 'text')
+    relative_path = file_path.relative_to(repo_dir / 'data' / 'npcs')
+    base_file_path = base_dir / 'data' / 'npcs' / relative_path
+
+    print(f"Base file path: {base_file_path}")
+    print(f"Repo file path: {file_path}")
 
     if base_file_path.exists():
         with open(base_file_path) as f:
             base_content = f.read().strip()
     else:
         base_content = ""
+        print(f"Warning: Base file does not exist: {base_file_path}")
 
     with open(file_path) as f:
         content = f.read().strip()
@@ -110,7 +115,8 @@ def process_modified_files(mapping, base_dir, repo_dir, modified_files):
             status = get_status(base_dir, repo_dir, file_path)
             print(f"Status: {status}")
             if status != "UNCHANGED":
-                update_status(mapping, file_path.relative_to(repo_dir / 'text'), status)
+                relative_path = file_path.relative_to(repo_dir / 'data' / 'npcs' / 'text')
+                update_status(mapping, relative_path, status)
 
 def process_renamed_files(mapping, base_dir, repo_dir, renamed_files):
     file_paths = ' '.join(renamed_files).split(' ')
