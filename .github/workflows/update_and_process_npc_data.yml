@@ -44,10 +44,10 @@ jobs:
         if: "!contains(github.event.issue.labels.*.name, 'patch')"
         run: |
           git worktree add base FETCH_HEAD
-          mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-          mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^npc/')
-          mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^npc/')
-          mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^npc/')
+          mapfile -t ADDED_FILES < <(git diff --name-status --diff-filter=A FETCH_HEAD | awk '{print $2}' | grep '^data/npcs/text/')
+          mapfile -t MODIFIED_FILES < <(git diff --name-status --diff-filter=M FETCH_HEAD | awk '{print $2}' | grep '^data/npcs/text/')
+          mapfile -t RENAMED_FILES < <(git diff --name-status --diff-filter=R FETCH_HEAD | awk '{print $2" "$3}' | grep '^data/npcs/text/')
+          mapfile -t DELETED_FILES < <(git diff --name-status --diff-filter=D FETCH_HEAD | awk '{print $2}' | grep '^data/npcs/text/')
           ADDED_FILES=${ADDED_FILES[@]}
           MODIFIED_FILES=${MODIFIED_FILES[@]}
           RENAMED_FILES=${RENAMED_FILES[@]}
