@@ -196,7 +196,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Strange Pipe</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Strange_Pipe.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Al Dee</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Al_Dee.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Amber</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Amber.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Billy</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Billy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dixi</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Dixi.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Lee'Delle</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Lee'Delle.txt)  

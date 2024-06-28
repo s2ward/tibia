@@ -1,25 +1,25 @@
 {
   "total_npcs": 1131,
   "verified": {
-    "count": 883,
-    "percentage": 78.07
+    "count": 884,
+    "percentage": 78.16
   },
   "unverified": {
-    "count": 106,
-    "percentage": 9.37
+    "count": 105,
+    "percentage": 9.28
   },
   "empty": {
     "count": 142,
     "percentage": 12.56
   },
   "unverified_or_empty": {
-    "count": 248,
-    "percentage": 21.93
+    "count": 247,
+    "percentage": 21.84
   },
   "last_updated": {
-    "date": "2024-06-28T14:37:58Z",
-    "pr_number": 624,
-    "pr_title": "Asralius",
-    "pr_url": "https://github.com/s2ward/tibia/pull/624"
+    "date": "2024-06-28T16:18:36Z",
+    "pr_number": 625,
+    "pr_title": "Amber",
+    "pr_url": "https://github.com/s2ward/tibia/pull/625"
   }
 }

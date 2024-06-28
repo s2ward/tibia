@@ -666,6 +666,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Silas</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Silas.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Virgil</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton/Virgil.txt)  
 ├─&nbsp;&nbsp;<strong>Rookgaard</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Amber</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Amber.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">An Orc Guard</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/An_Orc_Guard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Asralius</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Asralius.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Blind Orc</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rookgaard/Blind_Orc.txt)  
