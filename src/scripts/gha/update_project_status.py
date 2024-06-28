@@ -27,7 +27,7 @@ def update_contributions_table(issue, pr_info, repo_name):
     for line in existing_table:
         if line.startswith('| Opener | Changed File | PR Link | Count | Timestamp |'):
             header_encountered = True
-        elif header_encountered:
+        elif header_encountered and line.strip():
             table_lines.append(line)
     
     # Dictionary to track the highest count for each contributor's file
@@ -54,13 +54,12 @@ def update_contributions_table(issue, pr_info, repo_name):
         contributor_counts[(pr_info["opener"], file_url)] = current_count
 
     table_header = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
-    table_content = '\n'.join(table_lines + new_entries).rstrip()
+    table_content = '\n'.join(new_entries).rstrip()
 
     if existing_comment:
         existing_comment.edit(table_header + table_content)
     else:
         issue.create_comment(table_header + table_content)
-
 
 def prepare_discord_message(pr_info, npc_status, repo_name):
     content_lines = [
