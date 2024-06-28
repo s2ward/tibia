@@ -1,0 +1,25 @@
+{
+  "total_npcs": 1131,
+  "verified": {
+    "count": 877,
+    "percentage": 77.54
+  },
+  "unverified": {
+    "count": 107,
+    "percentage": 9.46
+  },
+  "empty": {
+    "count": 147,
+    "percentage": 13.0
+  },
+  "unverified_or_empty": {
+    "count": 254,
+    "percentage": 22.46
+  },
+  "last_updated": {
+    "date": "2024-06-28T08:27:17Z",
+    "pr_number": null,
+    "pr_title": null,
+    "pr_url": null
+  }
+}
