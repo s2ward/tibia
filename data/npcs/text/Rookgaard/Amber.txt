@@ -148,8 +148,10 @@ Player: yes
 Amber: Sorry, but that's not enough leather to make one of these backpacks.
 Player: yes
 Amber: Great! Alright, I need a while to finish this backpack for you. Please come back later.
-Player: backpack / addon
+Player: backpack / outfit / addon
 Amber: Just in time! Your backpack is finished. Here you go, I hope you like it. Activate it for your citizen outfit.
+Player: backpack / outfit / addon
+Amber: Sorry, but I can only make one backpack per person, else I'd have to quit being an adventurer and open a leather manufacture.
 Player: bye
 Amber: See you later, Player.
 Player: (vanish)
