@@ -132,7 +132,9 @@ Player: no
 Amber: Too bad.
 Player: yes
 Amber: Excellent. Here, take this short sword as a reward.
-Player: backpack
+Player: backpack / outfit / addon (free account)
+Amber: Sorry, but I don't have time for that right now.
+Player: backpack / outfit / addon
 Amber: Sorry, this one is not for sale. I could make one for you, but minotaur leather is hard to come by these days. Are you willing to put some work into this?
 Player: no
 Amber: Sorry, but I don't run a welfare office, you know... no pain, no gain.
