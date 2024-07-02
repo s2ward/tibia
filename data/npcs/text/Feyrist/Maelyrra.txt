@@ -1,9 +1,23 @@
-Player: Hi
+Player: (idle)
+Maelyrra: Annoying nightmarish creatures!
+Maelyrra: This is the homestead of every pleasant dream.
+Maelyrra: Our siblings are tainted. Bewail them!
+Player: hi
 Maelyrra: Nature's blessings! Welcome to the land of dreams.
-Player: job
-Maelyrra: I'm the queen of this court ... if this answers your question.
 Player: name
 Maelyrra: I'm Maelyrra, the queen of this fae court.
+Player: job
+Maelyrra: I'm the queen of this court ... if this answers your question.
+Player: time
+Maelyrra: Time is not of relevance here.
+Player: queen
+Maelyrra: The queen is responsible for the well-being of every fae in her court. If necessary, she makes decisions or gives orders. But this happens rarely because most of the time the fae are wool gathering and just living their lives.
+Player: court
+Maelyrra: The fae of Feyrist are forming different courts and whereas not all of them belong to a fairy court, many of them do. Leader of a court is usually the most powerful female fae who often refers to herself as a queen. In this case - me.
+Player: knight
+Maelyrra: The queen of a fae court is supported by several knights, male and female alike, who are acting as her personal guard as well as the court's defenders.
+Player: realm
+Maelyrra: We call our realm Feyrist which means ,the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
 Player: dream
 Maelyrra: There is far more to dreams than mortal beings are aware of. They possess some kind of magical power, ancient and mysterious. The fae are closely linked to this power as we arise from the mortals' dreams. ...
 Maelyrra: The nightmares are responsible for the existence of Roshamuul while Feyrist emerged from sweet and pleasant dreams. You know, dreams of love or friendship, dreams of flying or the fulfilment of heartfelt wishes. ...
@@ -17,12 +31,18 @@ Player: Feyrist
 Maelyrra: We call our realm Feyrist which means ,the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
 Player: Roshamuul
 Maelyrra: Compared to Feyrist it is like the reverse side of a mirror. Where Feyrist is luminous, peaceful and pleasant, Roshamuul is dark and dangerous. It is full of terrible monsters and made of nightmares - literally.
+Player: Candia
+Maelyrra: Candia is a fairy island like Feyrist. It is colourful and friendly like our fairy realm here, not dark and threatening like the nightmare realm of Roshamuul. But there are a few clear differences to Feyrist. ...
+Maelyrra: I don't want to give too much away, though. You'd better see for yourself.
+Player: candyland
+Maelyrra: That's another name for Candia.
+Player: donut
+Maelyrra: So, you saw the gate. Yes, I know where it leads: the island Candia, also known as Candyland. But at the moment we have some serious problems here, with the nightmare monsters from Roshamuul and our magical barrier. ...
+Maelyrra: Once those are solved and Feyrist is safe, I will gladly tell you more about that sweet gate.
 Player: boogies
 Maelyrra: Boogies are a rather twisted kind of fae. Other than pixies, nymphs or fauns they favour underground caves and tunnels over forests or lush meadows. ...
 Maelyrra: Only at night, they are roaming the surface, chasing other fae and visitors to Feyrist alike. They were once clumsy yet peaceful fae, but they are now twisted and tainted by a mysterious, sinister force. ...
 Maelyrra: Boogies initially emerged from mortals' dreams about tasty food.
-Player: court
-Maelyrra: The fae of Feyrist are forming different courts and whereas not all of them belong to a fairy court, many of them do. Leader of a court is usually the most powerful female fae who often refers to herself as a queen. In this case - me.
 Player: faun
 Maelyrra: Fauns are half-human, half-beast nature spirits inhabiting the woods and mountains of Feyrist. They are a slightly roguish but cheerful folk, lovers of wine and dancing. ...
 Maelyrra: Fauns show a youthful and graceful aspect but they are also brave and fearless when it comes to defend themselves. They emerge from mortals' dreams about celebrations, music and dancing. ...
@@ -40,8 +60,6 @@ Player: pooka
 Maelyrra: Pookas are nature spirits in animal form, looking like big hares with a faintly glittering fur. They are benign but mischievous, for sure with good reason regarded as the tricksters among the fae. ...
 Maelyrra: Pookas love to play pranks on others, snitching and hiding things or telling made-up stories. They are capricious and fickle creatures. Pookas emerge from mortals' dreams about gems, treasures and gold. ...
 Maelyrra: Lately, some pookas on Feyrist are tainted by a mysterious, sinister force that is threatening Feyrist as well as the rest of Tibia.
-Player: queen
-Maelyrra: The queen is responsible for the well-being of every fae in her court. If necessary, she makes decisions or gives orders. But this happens rarely because most of the time the fae are wool gathering and just living their lives.
 Player: sinister
 Maelyrra: Some of our siblings are tainted by the unknown dark force that also destroys the border to Roshamuul. They became twisted and mischievous, they will attack even the still untainted fae in this realm. ...
 Maelyrra: During the day they seclude themselves in the caves underneath Feyrist. But at night they return to the surface and attack us.
@@ -49,6 +67,8 @@ Player: swan maidens
 Maelyrra: Swan maidens are fae who can shapeshift from human form to swan form. The magical item allowing this transformation is a swan feather cloak, a garment with swan feathers attached. ...
 Maelyrra: Here on Feyrist it is always hard to tell whether a swan swimming on a lake is an ordinary animal or a swan maiden in her bird shape. ...
 Maelyrra: They protect the wilds of our secret realm from every intruder and live in small flocks along secluded lakeshores. Swan maidens emerge from mortals' dreams about flying.
+Player: Tibia
+Maelyrra: That's the world we are living in.
 Player: ab'dendriel
 Maelyrra: Alkestios wanted to start his research there. But I don't know more about it.
 Player: Alkestios
@@ -56,13 +76,9 @@ Maelyrra: He's my most trusted knight. Therefore, I sent him on a mission to fin
 Maelyrra: I hope he's safe and will return home soon.
 Player: Rathleton / Oramond / Venore / Yalahar / Thais / Carlin / Kazordoon / Darashia / Krailos / Zao
 Maelyrra: I have never heard of this place.
-Player: knight
-Maelyrra: The queen of a fae court is supported by several knights, male and female alike, who are acting as her personal guard as well as the court's defenders.
 Player: spell / fairy
 Maelyrra: A spell to transform a fishtail into legs - I guess, such a spell exists, yes. But I never used it and I don't know anything about the details. But there is a fairy who once told me about it. ...
 Maelyrra: You can find her in a small fairy village in the southwest of Feyrist. However, as some of her sisters were kidnapped by the tainted fae, I suggest you first free her captured siblings. I'm sure she will help you then.
-Player: realm
-Maelyrra: We call our realm Feyrist which means ,the fairest'. We keep it secret and hidden from mortal eyes. Just few mortals get permission to enter it. A long time ago, we learned how to hide this realm of dreams from the outside world.
 Player: Aurita
 Maelyrra: She's a mermaid who's often lingering in the shallow coastal waters of western Feyrist.
 Player: mermaid
@@ -112,11 +128,9 @@ Player: Tooth Fairy
 Maelyrra: She is not a member of my court but I know her quite well. She's the sister of a friendly court's queen and responsible for children's milk teeth. This duty is a deep-seated tradition among the fae.
 Player: Talila
 Maelyrra: She's a pixie you can find here in the village. She will buy and sell various things, if you are interested in a trade.
-Player: Tibia
-Maelyrra: That's the world we are living in.
 Player: mission / quest / task
 Maelyrra: Have you found the moon mirror and freed the captured fairies?
-Player: time
-Maelyrra: Time is not of relevance here.
+Player: mission
+Maelyrra: Some annoying nightmarish creatures rove about in the tunnels underneath this island. They are threatening the members of my court and devastate the flora and fauna. They also threaten the natural balance. Would you go and fight them for me?
 Player: Bye
 Maelyrra: Farewell. May your dreams be pleasant.
