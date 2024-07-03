@@ -20,14 +20,15 @@ jobs:
 
       - name: Fetch fork branch
         run: |
-          git fetch origin ${{ github.event.pull_request.head.ref }}
+          echo "Fetching fork branch: ${{ github.event.pull_request.head.repo.full_name }} ${{ github.event.pull_request.head.ref }}"
+          git fetch https://github.com/${{ github.event.pull_request.head.repo.full_name }} ${{ github.event.pull_request.head.ref }}:${{ github.event.pull_request.head.ref }}
 
       - name: Create merge commit
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git checkout -b merge-fork-${{ github.event.pull_request.number }}
-          git merge --no-ff origin/${{ github.event.pull_request.head.ref }} -m "Merge fork PR #${{ github.event.pull_request.number }}"
+          git merge --no-ff ${{ github.event.pull_request.head.ref }} -m "Merge fork PR #${{ github.event.pull_request.number }}"
 
       - name: Push merge branch
         env:
@@ -50,6 +51,7 @@ jobs:
         if: steps.create_pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
