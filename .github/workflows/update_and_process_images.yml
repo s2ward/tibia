@@ -69,7 +69,7 @@ jobs:
           original_size=$(stat -c%s "$file")
           new_size=$(stat -c%s "$temp_file")
 
-          if [ $new_size -le $original_size ]; then
+          if [ $new_size -lt $original_size ]; then
             mv "$temp_file" "$output_file"
             echo "Optimized: $file -> $output_file (Original: $original_size bytes, New: $new_size bytes)"
           else
