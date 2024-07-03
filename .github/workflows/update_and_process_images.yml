@@ -3,7 +3,11 @@ name: Optimize and Process Images
 on:
   pull_request:
     paths:
-      - 'images/**/*.{gif,webp,png,jpg,jpeg}'
+      - 'images/**/*.gif'
+      - 'images/**/*.webp'
+      - 'images/**/*.png'
+      - 'images/**/*.jpg'
+      - 'images/**/*.jpeg'
 
 env:
   IMAGE_DIR: 'images'
