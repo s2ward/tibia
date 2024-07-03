@@ -26,10 +26,22 @@ jobs:
       with:
         python-version: '3.10'
 
+    - name: Cache apt packages
+      uses: awalsh128/cache-apt-pkgs-action@latest
+      with:
+        packages: optipng imagemagick
+        version: 1.0
+
+    - name: Cache pip packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Install dependencies
       run: |
-        sudo apt-get update
-        sudo apt-get install -y optipng
         python -m pip install --upgrade pip
         pip install Pillow
 
@@ -48,26 +60,42 @@ jobs:
 
         def process_image(input_path):
             try:
-                # Open the image
-                with Image.open(input_path) as img:
-                    # Convert to RGBA if it's not already
-                    img = img.convert('RGBA')
+                # Prepare the output filename
+                output_path = os.path.splitext(input_path)[0] + '.png'
+                temp_path = output_path + '.temp.png'
 
-                    # Calculate the size for a square image
-                    max_size = max(img.size)
-                    
-                    # Create a transparent square background
-                    square_img = Image.new('RGBA', (max_size, max_size), (0, 0, 0, 0))
-                    
-                    # Paste the original image onto the square background
-                    paste_pos = ((max_size - img.size[0]) // 2, (max_size - img.size[1]) // 2)
-                    square_img.paste(img, paste_pos, img)
+                # Convert to PNG using ImageMagick (lossless)
+                subprocess.run(['convert', input_path, '-colorspace', 'RGB', 'PNG32:' + temp_path], check=True)
 
-                    # Prepare the output filename
-                    output_path = os.path.splitext(input_path)[0] + '.png'
+                # Open the converted image with Pillow
+                with Image.open(temp_path) as img:
+                    # Get the bounding box of the non-zero regions in the image
+                    bbox = img.getbbox()
+                    
+                    if bbox:
+                        # Crop to the bounding box
+                        cropped = img.crop(bbox)
+                        
+                        # Calculate the size of the smallest square that fits the content
+                        size = max(cropped.width, cropped.height)
+                        
+                        # Create a new square image with transparent background
+                        square_img = Image.new('RGBA', (size, size), (0, 0, 0, 0))
+                        
+                        # Calculate position to paste the cropped image
+                        paste_pos = ((size - cropped.width) // 2, (size - cropped.height) // 2)
+                        
+                        # Paste the cropped image onto the square background
+                        square_img.paste(cropped, paste_pos)
+                    else:
+                        # If there's no content (fully transparent image), just use the original
+                        square_img = img.copy()
 
                     # Save as PNG
                     square_img.save(output_path, 'PNG')
+
+                # Remove the temporary file
+                os.remove(temp_path)
 
                 # Optimize with optipng
                 subprocess.run(['optipng', '-o2', '-quiet', output_path], check=True)
@@ -109,10 +137,3 @@ jobs:
         git add -A
         git diff --staged --quiet || (git commit -m "Optimize and process images" && 
           git push origin HEAD:${{ github.head_ref }})
-
-    - name: Upload error log
-      if: failure()
-      uses: actions/upload-artifact@v2
-      with:
-        name: processing-errors
-        path: ${{ github.workspace }}/*.log
