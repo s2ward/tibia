@@ -1,0 +1,40 @@
+name: Fork PR Preparation
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  prepare_fork_pr:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.head.repo.full_name != github.repository
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Prepare fork PR
+        run: |
+          echo "Processing fork PR #${{ github.event.pull_request.number }}"
+          BRANCH_NAME="npc-update-fork-${{ github.event.pull_request.number }}"
+          git checkout -b $BRANCH_NAME ${{ github.event.pull_request.base.ref }}
+          git fetch origin ${{ github.event.pull_request.head.ref }}
+          git merge --no-commit --no-ff origin/${{ github.event.pull_request.head.ref }}
+          git push origin $BRANCH_NAME
+          gh pr create --base ${{ github.event.pull_request.base.ref }} --head $BRANCH_NAME --title "NPC updates for fork PR #${{ github.event.pull_request.number }}" --body "This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with '/apply' command."
+
+      - name: Comment on original PR
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.name,
+              body: 'A new PR has been created to handle NPC updates from this fork. Please use the /apply command on the new PR to process updates.'
+            })
