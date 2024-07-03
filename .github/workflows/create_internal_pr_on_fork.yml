@@ -10,12 +10,17 @@ jobs:
       contents: write
       pull-requests: write
     steps:
+      - name: Generate token
+        id: generate_token
+        run: echo "token=${{ secrets.TIBIA_REPOSITORY_PR_KEY }}" >> $GITHUB_OUTPUT
+
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
+          token: ${{ steps.generate_token.outputs.token }}
       
       - name: Fetch base branch
         run: |
@@ -61,7 +66,7 @@ jobs:
       - name: Push changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
-          git push origin fork-pr-${{ github.event.pull_request.number }}
+          git push https://${{ steps.generate_token.outputs.token }}@github.com/${{ github.repository }}.git fork-pr-${{ github.event.pull_request.number }}
 
       - name: Log branch information
         run: |
@@ -75,7 +80,7 @@ jobs:
         if: steps.check_changes.outputs.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  
+          token: ${{ steps.generate_token.outputs.token }}
           commit-message: 'Creating a PR from fork PR #${{ github.event.pull_request.number }}'
           branch: fork-pr-${{ github.event.pull_request.number }}
           base: ${{ github.base_ref }}
@@ -86,7 +91,7 @@ jobs:
         if: steps.create_pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ steps.generate_token.outputs.token }}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
