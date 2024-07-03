@@ -21,25 +21,6 @@ jobs:
           persist-credentials: true
           fetch-depth: 0
 
-      - name: Fetch fork branch
-        run: |
-          git remote add fork https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
-          git fetch fork ${{ github.event.pull_request.head.ref }}
-
-      - name: Configure Git identity
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-
-      - name: Create new branch with fork changes
-        run: |
-          git checkout -b merge-fork-${{ github.event.pull_request.number }}
-          git merge --no-ff fork/${{ github.event.pull_request.head.ref }} -m "Merge fork PR #${{ github.event.pull_request.number }}"
-
-      - name: Push new branch to s2ward/tibia
-        run: |
-          git push origin merge-fork-${{ github.event.pull_request.number }}
-
       - name: Install GitHub CLI
         run: |
           sudo apt-get update
@@ -50,6 +31,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
         run: |
           echo $GITHUB_TOKEN | gh auth login --with-token
+
+      - name: Fetch fork branch and create new branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+        run: |
+          gh repo clone s2ward/tibia
+          cd tibia
+          git remote add fork https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
+          git fetch fork ${{ github.event.pull_request.head.ref }}
+          git checkout -b merge-fork-${{ github.event.pull_request.number }}
+          git merge --no-ff fork/${{ github.event.pull_request.head.ref }} -m "Merge fork PR #${{ github.event.pull_request.number }}"
+          git push origin merge-fork-${{ github.event.pull_request.number }}
 
       - name: Create PR to main
         env:
