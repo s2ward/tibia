@@ -31,13 +31,13 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y optipng
         python -m pip install --upgrade pip
-        pip install Pillow pillow-avif
+        pip install Pillow
 
     - name: Get changed files
       id: changed-files
       uses: tj-actions/changed-files@v35
       with:
-        files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg,avif}
+        files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
 
     - name: Process changed images
       run: |
@@ -45,7 +45,6 @@ jobs:
         import sys
         import subprocess
         from PIL import Image
-        import pillow_avif
 
         def process_image(input_path):
             try:
