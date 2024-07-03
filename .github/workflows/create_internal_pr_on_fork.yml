@@ -15,19 +15,25 @@ jobs:
         with:
           fetch-depth: 0
           ref: ${{ github.event.pull_request.head.ref }}
-
-      - name: Create and switch to new branch
-        run: |
-          git checkout -b fork-${{ github.event.pull_request.number }}
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
       
       - name: Fetch base branch
         run: |
-          git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+          git remote add base https://github.com/${{ github.repository }}
+          git fetch base ${{ github.base_ref }}
+      
+      - name: Create new branch
+        run: |
+          git checkout -b fork-pr-${{ github.event.pull_request.number }} base/${{ github.base_ref }}
+      
+      - name: Apply PR changes
+        run: |
+          git merge --no-commit --no-ff ${{ github.event.pull_request.head.sha }}
       
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code --ignore-space-at-eol ${{ github.base_ref }} HEAD || echo "changes=true" >> $GITHUB_OUTPUT
+          git diff --exit-code --staged || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Get original committer info
         id: get_committer_info
@@ -42,8 +48,7 @@ jobs:
         run: |
           git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
           git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
-          git add -A
-          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}" || echo "No changes to commit"
+          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}"
 
       - name: Log branch information
         run: |
