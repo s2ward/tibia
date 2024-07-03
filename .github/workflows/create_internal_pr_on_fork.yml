@@ -84,10 +84,6 @@ jobs:
             NEW_PR=$(gh pr create --base main --head $PR_BRANCH \
               --title "$PR_TITLE" \
               --body "$PR_BODY_WITH_CREDIT")
-            if [ $? -ne 0 ]; then
-              echo "Failed to create PR. There might be no changes to commit."
-              exit 1
-            fi
             echo "new_pr_number=$NEW_PR" >> $GITHUB_OUTPUT
           else
             gh pr edit $EXISTING_PR --title "$PR_TITLE" \
