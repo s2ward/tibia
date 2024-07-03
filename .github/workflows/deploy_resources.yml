@@ -13,12 +13,30 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 10  # Fetch all history for all branches and tags
+        fetch-depth: 10 
+
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cache/apt
+          ~/.cache/rclone
+        key: ${{ runner.os }}-deps-${{ hashFiles('**/workflow.yml') }}
+        restore-keys: |
+          ${{ runner.os }}-deps-
 
     - name: Install dependencies
       run: |
-        sudo apt-get update && sudo apt-get install -y jq
-        curl https://rclone.org/install.sh | sudo bash
+        if ! command -v jq &> /dev/null; then
+          sudo apt-get update && sudo apt-get install -y jq
+        else
+          echo "jq is already installed"
+        fi
+        if ! command -v rclone &> /dev/null; then
+          curl https://rclone.org/install.sh | sudo bash
+        else
+          echo "rclone is already installed"
+        fi
 
     - name: Process and copy files
       run: |
@@ -47,10 +65,10 @@ jobs:
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
         RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
       run: |
-        # Get list of changed files
         CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(images|data)/')
+        echo "Files to be synced to Cloudflare R2:"
+        echo "$CHANGED_FILES"
         echo "$CHANGED_FILES" > changed_files.txt
-
         rclone sync --files-from changed_files.txt gh-pages/ cloudflare:resources
         rm changed_files.txt
 
