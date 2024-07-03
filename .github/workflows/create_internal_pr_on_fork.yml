@@ -2,6 +2,7 @@ name: Fork PR Preparation
 on:
   pull_request:
     types: [opened, synchronize, reopened]
+
 jobs:
   prepare_fork_pr:
     runs-on: ubuntu-latest
@@ -9,28 +10,23 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-    steps:
-      - name: Generate token
-        id: generate_token
-        run: echo "token=${{ secrets.TIBIA_REPOSITORY_PR_KEY }}" >> $GITHUB_OUTPUT
 
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.ref }}
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
-      
+          ref: ${{ github.event.pull_request.head.sha }}
+
       - name: Fetch base branch
         run: |
-          git remote add base https://github.com/${{ github.repository }}
-          git fetch base ${{ github.base_ref }}
-      
-      - name: Create new branch
+          git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+
+      - name: Check for changes
+        id: check_changes
         run: |
-          git checkout -b fork-pr-${{ github.event.pull_request.number }} base/${{ github.base_ref }}
-      
+          git diff --exit-code --ignore-space-at-eol ${{ github.base_ref }} HEAD || echo "changes=true" >> $GITHUB_OUTPUT
+
       - name: Get original committer info
         id: get_committer_info
         run: |
@@ -38,41 +34,20 @@ jobs:
           COMMITTER_EMAIL=$(git log -1 --pretty=format:'%ae' ${{ github.event.pull_request.head.sha }})
           echo "committer_name=${COMMITTER_NAME}" >> $GITHUB_OUTPUT
           echo "committer_email=${COMMITTER_EMAIL}" >> $GITHUB_OUTPUT
-      
-      - name: Set git identity
+
+      - name: Commit changes if any
+        if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
           git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
-      
-      - name: Apply PR changes
-        run: |
-          if ! git merge --no-commit --no-ff --signoff ${{ github.event.pull_request.head.sha }}; then
-            echo "Merge failed. There might be conflicts."
-            git merge --abort
-            exit 1
-          fi
-      
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git diff --exit-code --staged || echo "changes=true" >> $GITHUB_OUTPUT
-
-      - name: Commit changes
-        if: steps.check_changes.outputs.changes == 'true'
-        run: |
-          COMMIT_MSG=$(git log -1 --pretty=%B ${{ github.event.pull_request.head.sha }})
-          git commit -m "$COMMIT_MSG" --signoff
-
-      - name: Push changes
-        if: steps.check_changes.outputs.changes == 'true'
-        run: |
-          git push https://${{ secrets.TIBIA_REPOSITORY_PR_KEY }}@github.com/${{ github.repository }}.git fork-pr-${{ github.event.pull_request.number }}
+          git add .
+          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}"
 
       - name: Log branch information
         run: |
           echo "PR number: ${{ github.event.pull_request.number }}"
           echo "SHA: ${{ github.sha }}"
-          echo "Branch: fork-pr-${{ github.event.pull_request.number }}"
+          echo "Branch: fork-${{ github.event.pull_request.number }}"
           echo "Base ref: ${{ github.base_ref }}"
 
       - name: Create PR to main
@@ -80,22 +55,22 @@ jobs:
         if: steps.check_changes.outputs.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: 'Creating a PR from fork PR #${{ github.event.pull_request.number }}'
-          branch: fork-pr-${{ github.event.pull_request.number }}
+          branch: fork-${{ github.event.pull_request.number }}
           base: ${{ github.base_ref }}
           title: 'NPC updates for fork PR #${{ github.event.pull_request.number }}'
-          body: 'This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with `/apply` command.'
+          body: 'This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
 
       - name: Comment on original PR
         if: steps.create_pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.name,
-              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle NPC updates from this fork. Please use the `/apply` command on the new PR to process updates.'
+              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle NPC updates from this fork. Please use the /apply command on the new PR to process updates.'
             })
