@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       pr_number:
-        description: 'PR number to process (e.g., 668)'
+        description: 'PR number to process (e.g., 670)'
         required: true
       fork_branch:
         description: 'Branch name in the fork repository (e.g., talesoftibia-gh:patch-29)'
@@ -45,9 +45,8 @@ jobs:
           git remote add fork https://github.com/$FORK_OWNER/tibia.git
           git fetch fork $BRANCH_NAME
           git checkout -b process-fork-pr-$PR_NUMBER
-          if git merge fork/$BRANCH_NAME --no-commit; then
-            git commit -m "Merge changes from fork PR #$PR_NUMBER by @$FORK_OWNER"
-          else
+          git merge --no-ff fork/$BRANCH_NAME -m "Merge changes from fork PR #$PR_NUMBER by @$FORK_OWNER"
+          if [ $? -ne 0 ]; then
             echo "Merge conflict occurred. Manual intervention required."
             git merge --abort
             exit 1
