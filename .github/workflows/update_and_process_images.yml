@@ -41,37 +41,48 @@ jobs:
           local filename=$(basename -- "$file")
           local extension="${filename##*.}"
           local filename="${filename%.*}"
-          local temp_file="$dir/temp_$filename.png"
+          local temp_file=$(mktemp)
           local output_file="$dir/$filename.png"
-
+        
           echo "Processing: $file"
-
+        
+          # Check if the file is new in this PR
+          if git ls-files --error-unmatch "$file" &> /dev/null; then
+            file_status="existing"
+          else
+            file_status="new"
+          fi
+        
           # Convert to PNG if not already PNG
           if [ "$extension" != "png" ]; then
             convert "$file" -colorspace RGB PNG32:"$temp_file"
           else
             cp "$file" "$temp_file"
           fi
-
+        
           # Get original dimensions
           local dimensions=$(identify -format "%wx%h" "$temp_file")
-
+        
           # Pad to square if necessary
           local max_dim=$(identify -format "%[fx:max(w,h)]" "$temp_file")
           if [ "$dimensions" != "${max_dim}x${max_dim}" ]; then
             convert "$temp_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$temp_file"
           fi
-
+        
           # Optimize PNG
           optipng -o2 -quiet "$temp_file"
-
+        
           # Compare file sizes
           original_size=$(stat -c%s "$file")
           new_size=$(stat -c%s "$temp_file")
-
-          if [ $new_size -lt $original_size ]; then
+        
+          if [ "$file_status" = "new" ] || [ $new_size -lt $original_size ]; then
             mv "$temp_file" "$output_file"
-            echo "Optimized: $file -> $output_file (Original: $original_size bytes, New: $new_size bytes)"
+            if [ "$file_status" = "new" ]; then
+              echo "New file created: $output_file (Size: $new_size bytes)"
+            else
+              echo "Optimized: $file -> $output_file (Original: $original_size bytes, New: $new_size bytes)"
+            fi
           else
             if [ "$file" != "$output_file" ]; then
               cp "$file" "$output_file"
