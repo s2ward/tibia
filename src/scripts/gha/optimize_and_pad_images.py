@@ -64,9 +64,11 @@ def main(args):
             for file in files:
                 if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
                     process_image(os.path.join(root, file))
-    elif args.files:
-        # Process only specified files
-        for file_path in args.files:
+    elif args.files_from:
+        # Read files from the specified file
+        with open(args.files_from, 'r') as f:
+            files = f.read().splitlines()
+        for file_path in files:
             if os.path.exists(file_path) and file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
                 if not process_image(file_path):
                     return False
@@ -78,7 +80,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process images to square PNG format.")
     parser.add_argument('--all', action='store_true', help='Process all images in the directory')
     parser.add_argument('--directory', default='images', help='Directory containing images to process')
-    parser.add_argument('--files', nargs='*', help='List of specific files to process')
+    parser.add_argument('--files-from', help='File containing list of files to process')
     args = parser.parse_args()
 
     if main(args):
