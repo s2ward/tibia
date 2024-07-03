@@ -3,14 +3,11 @@ name: Fork PR Processor
 on:
   workflow_dispatch:
     inputs:
-      issue_number:
-        description: 'Issue number of the fork PR to process'
-        required: true
-      fork_owner:
-        description: 'Owner of the fork repository'
+      pr_number:
+        description: 'PR number to process (e.g., 668)'
         required: true
       fork_branch:
-        description: 'Branch name in the fork repository'
+        description: 'Branch name in the fork repository (e.g., talesoftibia-gh:patch-29)'
         required: true
 
 jobs:
@@ -31,53 +28,74 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
 
+      - name: Extract fork owner and branch
+        id: extract_info
+        run: |
+          FORK_OWNER=$(echo "${{ github.event.inputs.fork_branch }}" | cut -d':' -f1)
+          BRANCH_NAME=$(echo "${{ github.event.inputs.fork_branch }}" | cut -d':' -f2)
+          echo "fork_owner=$FORK_OWNER" >> $GITHUB_OUTPUT
+          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
+
       - name: Fetch and merge fork branch
         env:
-          FORK_OWNER: ${{ github.event.inputs.fork_owner }}
-          FORK_BRANCH: ${{ github.event.inputs.fork_branch }}
+          FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
+          BRANCH_NAME: ${{ steps.extract_info.outputs.branch_name }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number }}
         run: |
           git remote add fork https://github.com/$FORK_OWNER/tibia.git
-          git fetch fork $FORK_BRANCH
-          git checkout -b process-fork-pr-${{ github.event.inputs.issue_number }}
-          git merge fork/$FORK_BRANCH --no-commit --no-ff
+          git fetch fork $BRANCH_NAME
+          git checkout -b process-fork-pr-$PR_NUMBER
+          if git merge fork/$BRANCH_NAME --no-commit; then
+            git commit -m "Merge changes from fork PR #$PR_NUMBER"
+          else
+            echo "Merge conflict occurred. Manual intervention required."
+            git merge --abort
+            exit 1
+          fi
+
+      - name: Push changes
+        run: |
+          git push origin process-fork-pr-${{ github.event.inputs.pr_number }}
 
       - name: Create or update PR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE_NUMBER: ${{ github.event.inputs.issue_number }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number }}
         run: |
-          PR_BRANCH="process-fork-pr-$ISSUE_NUMBER"
-          git push origin $PR_BRANCH
+          PR_BRANCH="process-fork-pr-$PR_NUMBER"
           
-          ISSUE_INFO=$(gh issue view $ISSUE_NUMBER --json title,body)
-          ISSUE_TITLE=$(echo $ISSUE_INFO | jq -r .title)
-          ISSUE_BODY=$(echo $ISSUE_INFO | jq -r .body)
+          PR_INFO=$(gh pr view $PR_NUMBER --json title,body)
+          PR_TITLE=$(echo $PR_INFO | jq -r .title)
+          PR_BODY=$(echo $PR_INFO | jq -r .body)
           
           EXISTING_PR=$(gh pr list --head $PR_BRANCH --json number --jq '.[0].number')
           
           if [ -z "$EXISTING_PR" ]; then
-            gh pr create --base main --head $PR_BRANCH \
-              --title "Process fork PR #$ISSUE_NUMBER: $ISSUE_TITLE" \
-              --body "This PR processes changes from fork PR #$ISSUE_NUMBER.
+            if ! gh pr create --base main --head $PR_BRANCH \
+              --title "Process fork PR #$PR_NUMBER: $PR_TITLE" \
+              --body "This PR processes changes from fork PR #$PR_NUMBER.
 
               Original PR description:
-              $ISSUE_BODY
+              $PR_BODY
 
-              Apply changes with /apply command."
+              Apply changes with /apply command."; then
+              echo "Failed to create PR. There might be no changes to commit."
+              exit 1
+            fi
           else
-            gh pr edit $EXISTING_PR --title "Process fork PR #$ISSUE_NUMBER: $ISSUE_TITLE" \
-              --body "This PR processes changes from fork PR #$ISSUE_NUMBER.
+            gh pr edit $EXISTING_PR --title "Process fork PR #$PR_NUMBER: $PR_TITLE" \
+              --body "This PR processes changes from fork PR #$PR_NUMBER.
 
               Original PR description:
-              $ISSUE_BODY
+              $PR_BODY
 
               Apply changes with /apply command."
           fi
 
-      - name: Comment on original issue
+      - name: Comment on original PR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ISSUE_NUMBER: ${{ github.event.inputs.issue_number }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number }}
         run: |
-          PROCESS_PR=$(gh pr list --head process-fork-pr-$ISSUE_NUMBER --json number --jq '.[0].number')
-          gh issue comment $ISSUE_NUMBER --body "Changes from this fork PR are being processed in PR #$PROCESS_PR. Please use the /apply command on the new PR to finalize updates."
+          PROCESS_PR=$(gh pr list --head process-fork-pr-$PR_NUMBER --json number --jq '.[0].number')
+          gh pr comment $PR_NUMBER --body "Changes from this fork PR are being processed in PR #$PROCESS_PR. Please use the /apply command on the new PR to finalize updates."
