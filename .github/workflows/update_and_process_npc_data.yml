@@ -9,7 +9,12 @@ permissions: write-all
 
 jobs:
   npc_processing:
-    if: github.event.issue.pull_request && contains(github.event.comment.body, '/apply')
+    if: |
+      github.event.issue.pull_request &&
+      contains(github.event.comment.body, '/apply') &&
+      (github.event.comment.author_association == 'OWNER' ||
+       github.event.comment.author_association == 'MEMBER' ||
+       github.event.comment.author_association == 'COLLABORATOR')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
