@@ -2,7 +2,7 @@ name: Deploy Resources
 on:
   push:
     branches: [main]
-    paths: ['images/**', 'data/**', 'docs/**']
+    paths: ['images/**', 'data/**', 'docs/**'] # docs for testing purposes
   workflow_dispatch:
 
 jobs:
@@ -11,7 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 10  # Fetch all history for all branches and tags
 
     - name: Install dependencies
       run: |
@@ -24,15 +26,12 @@ jobs:
         for file in data/{npcs,books,status}/*.json; do
           jq -c . "$file" > "${file%.json}.min.json"
         done
-
+        
         # Prepare directories
         mkdir -p gh-pages/{images/{books,creatures,spells,npcs},data/{npcs,books,status}}
-
-        # Copy image files
-        cp -r images/npcs/* gh-pages/images/npcs/
-        cp -r images/books/* gh-pages/images/books/
-        cp -r images/creatures/* gh-pages/images/creatures/
-        cp -r images/spells/* gh-pages/images/spells/
+        
+        # Copy only changed image files
+        git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^images/' | xargs -I {} cp --parents {} gh-pages/
         
         # Copy and rename minimized JSON files
         for file in data/{npcs,books,status}/*.min.json; do
@@ -47,7 +46,13 @@ jobs:
         RCLONE_CONFIG_CLOUDFLARE_ACCESS_KEY_ID: ${{ secrets.CLOUDFLARE_R2_ACCESS_KEY_ID }}
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
         RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
-      run: rclone sync gh-pages/ cloudflare:resources
+      run: |
+        # Get list of changed files
+        CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(images|data)/')
+        echo "$CHANGED_FILES" > changed_files.txt
+
+        rclone sync --files-from changed_files.txt gh-pages/ cloudflare:resources
+        rm changed_files.txt
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
