@@ -25,6 +25,22 @@ jobs:
         run: |
           git diff --exit-code --ignore-space-at-eol ${{ github.base_ref }} HEAD || echo "changes=true" >> $GITHUB_OUTPUT
 
+      - name: Get original committer info
+        id: get_committer_info
+        run: |
+          COMMITTER_NAME=$(git log -1 --pretty=format:'%an' ${{ github.event.pull_request.head.sha }})
+          COMMITTER_EMAIL=$(git log -1 --pretty=format:'%ae' ${{ github.event.pull_request.head.sha }})
+          echo "committer_name=${COMMITTER_NAME}" >> $GITHUB_OUTPUT
+          echo "committer_email=${COMMITTER_EMAIL}" >> $GITHUB_OUTPUT
+
+      - name: Commit changes if any
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
+          git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
+          git add .
+          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}"
+
       - name: Log branch information
         run: |
           echo "PR number: ${{ github.event.pull_request.number }}"
