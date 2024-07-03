@@ -27,9 +27,6 @@ jobs:
       with:
         files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
 
-    - name: Print changed files
-      run: echo "${{ steps.changed-files.outputs.all_changed_files }}"
-
     - name: Install dependencies
       run: |
         sudo apt-get update && sudo apt-get install -y imagemagick pngquant optipng
@@ -47,23 +44,48 @@ jobs:
 
           echo "Processing: $file"
 
-          convert "$file" -colorspace RGB PNG32:"$temp_file"
+          # Convert to PNG
+          if ! convert "$file" -colorspace RGB PNG32:"$temp_file"; then
+            echo "Error: Failed to convert $file to PNG"
+            return 1
+          fi
           
+          # Get dimensions and pad to square if necessary
           local max_dim=$(identify -format "%[fx:max(w,h)]" "$temp_file")
-          convert "$temp_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$temp_file"
+          if ! convert "$temp_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$temp_file"; then
+            echo "Error: Failed to pad $file to square"
+            return 1
+          fi
 
-          optipng -o2 -quiet "$temp_file"
+          # Optimize PNG
+          if ! optipng -o2 -quiet "$temp_file"; then
+            echo "Error: Failed to optimize $file"
+            return 1
+          fi
 
+          # Verify the integrity of the processed image
+          if ! identify "$temp_file" > /dev/null 2>&1; then
+            echo "Error: Processed file $temp_file is not a valid image"
+            return 1
+          fi
+
+          # Move the processed file only if it's smaller than the original
           if [ ! -f "$file" ] || [ $(stat -c%s "$temp_file") -lt $(stat -c%s "$file") ]; then
             mv "$temp_file" "$output_file"
             echo "Optimized: $file -> $output_file"
           else
+            echo "Kept original: $file (processed version not smaller)"
             rm "$temp_file"
-            echo "Kept original: $file"
+          fi
+
+          # Final verification
+          if ! identify "$output_file" > /dev/null 2>&1; then
+            echo "Error: Final output file $output_file is not a valid image"
+            return 1
           fi
         }
         export -f process_image
-        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | xargs -I {} bash -c 'process_image "{}"'
+        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | xargs -I {} bash -c 'process_image "{}" || echo "Failed to process {}"'
 
     - name: Commit and push changes
       run: |
