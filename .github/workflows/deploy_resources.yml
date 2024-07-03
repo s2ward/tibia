@@ -12,7 +12,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0  # Fetch all history for all branches and tags
+        fetch-depth: ${{ github.event_name == 'workflow_dispatch' && 0 || 10 }}
 
     - name: Cache dependencies
       uses: actions/cache@v3
@@ -57,10 +57,6 @@ jobs:
         for file in data/{npcs,books,status}/*.min.json; do
           cp "$file" "gh-pages/${file%.min.json}.json"
         done
-        
-        # List all copied files for verification
-        echo "Files in gh-pages:"
-        find gh-pages -type f
 
     - name: Sync to Cloudflare R2
       env:
@@ -90,4 +86,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: './gh-pages'
         publish_branch: gh-pages
-        commit_message: ${{ github.event_name == 'workflow_dispatch' && 'Full sync deployed to GitHub Pages' || 'Updated resources deployed to GitHub Pages' }}
+        commit_message: ${{ github.event_name == 'workflow_dispatch' && 'Deploy full resources sync' || 'Deploy updated resources' }}
