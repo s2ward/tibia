@@ -43,9 +43,10 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git checkout -b fork-${{ github.event.pull_request.number }}
+          git reset --hard ${{ github.event.pull_request.head.sha }}
           git add -A
-          git commit -m "Sync changes from fork PR #${{ github.event.pull_request.number }}"
-          git push origin fork-${{ github.event.pull_request.number }}
+          git commit -m "Sync changes from fork PR #${{ github.event.pull_request.number }}" || echo "No changes to commit"
+          git push origin fork-${{ github.event.pull_request.number }} --force
 
       - name: Create PR to main
         if: steps.check_changes.outputs.changes == 'true'
