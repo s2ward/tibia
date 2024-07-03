@@ -41,12 +41,18 @@ jobs:
 
     - name: Process changed images
       run: |
-        IFS=$'\n' read -r -d '' -a changed_files <<< "${{ steps.changed-files.outputs.all_changed_files }}"
-        if [ ${#changed_files[@]} -gt 0 ]; then
-          python src/scripts/gha/update_square_images.py --files "${changed_files[@]}"
+        # Write changed files to a temporary file
+        echo "${{ steps.changed-files.outputs.all_changed_files }}" > changed_files.txt
+        
+        # Check if the file is empty
+        if [ -s changed_files.txt ]; then
+          python src/scripts/gha/optimize_and_pad_images.py --files-from changed_files.txt
         else
           echo "No image files changed."
         fi
+        
+        # Clean up
+        rm changed_files.txt
 
     - name: Commit and push changes
       if: success()
