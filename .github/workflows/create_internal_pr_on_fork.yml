@@ -14,7 +14,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.sha }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Create and switch to new branch
+        run: |
+          git checkout -b fork-${{ github.event.pull_request.number }}
       
       - name: Fetch base branch
         run: |
@@ -33,13 +37,13 @@ jobs:
           echo "committer_name=${COMMITTER_NAME}" >> $GITHUB_OUTPUT
           echo "committer_email=${COMMITTER_EMAIL}" >> $GITHUB_OUTPUT
 
-      - name: Commit changes if any
+      - name: Commit changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
           git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
           git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
-          git add .
-          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}"
+          git add -A
+          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}" || echo "No changes to commit"
 
       - name: Log branch information
         run: |
