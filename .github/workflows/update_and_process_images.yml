@@ -1,0 +1,57 @@
+name: Process Images
+on:
+  pull_request:
+    paths:
+      - 'images/**/*.gif'
+      - 'images/**/*.webp'
+      - 'images/**/*.png'
+      - 'images/**/*.jpg'
+      - 'images/**/*.jpeg'
+
+jobs:
+  process-images:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick optipng
+        convert --version
+        optipng --version
+
+    - name: Convert, pad, and optimize images
+      run: |
+        for dir in images/{books,creatures,npcs,spells}; do
+          if [ -d "$dir" ]; then
+            for file in $dir/*.{gif,webp,png,jpg,jpeg}; do
+              if [ -f "$file" ]; then
+                filename=$(basename -- "$file")
+                extension="${filename##*.}"
+                filename="${filename%.*}"
+                
+                # Convert to PNG if not already PNG
+                if [ "$extension" != "png" ]; then
+                  convert "$file" PNG32:"$dir/$filename.png"
+                  rm "$file"
+                fi
+                
+                # Pad to square
+                convert "$dir/$filename.png" -background none -gravity center -extent $(identify -format "%[fx:max(w,h)]x%[fx:max(w,h)]" "$dir/$filename.png") PNG32:"$dir/$filename.png"
+                
+                # Optimize PNG (lossless)
+                optipng -o2 "$dir/$filename.png"
+              fi
+            done
+          fi
+        done
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add images
+        git commit -m "Convert, pad, and optimize images (lossless)" || echo "No changes to commit"
+        git push
