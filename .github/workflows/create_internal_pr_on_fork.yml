@@ -57,6 +57,7 @@ jobs:
           git push origin process-fork-pr-${{ github.event.inputs.pr_number }}
 
       - name: Create or update PR
+        id: create_or_update_pr
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
@@ -73,10 +74,10 @@ jobs:
           
           PR_BODY_WITH_CREDIT="This PR processes changes from fork PR #$PR_NUMBER by @$PR_AUTHOR.
 
-          Original PR description:
+          $([ ! -z "$PR_BODY" ] && echo "Original PR description:
           $PR_BODY
 
-          Thank you for your contributions @$PR_AUTHOR!
+          ")Thank you for your contributions @$PR_AUTHOR!
           Wait for a maintainer to apply changes with the /apply comment command."
           
           if [ -z "$EXISTING_PR" ]; then
@@ -87,11 +88,11 @@ jobs:
               echo "Failed to create PR. There might be no changes to commit."
               exit 1
             fi
-            echo "new_pr=$NEW_PR" >> $GITHUB_OUTPUT
+            echo "new_pr_number=$NEW_PR" >> $GITHUB_OUTPUT
           else
             gh pr edit $EXISTING_PR --title "$PR_TITLE" \
               --body "$PR_BODY_WITH_CREDIT"
-            echo "new_pr=$EXISTING_PR" >> $GITHUB_OUTPUT
+            echo "new_pr_number=$EXISTING_PR" >> $GITHUB_OUTPUT
           fi
 
       - name: Comment and close original PR
@@ -99,26 +100,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
           FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
-          NEW_PR: ${{ steps.create_or_update_pr.outputs.new_pr }}
+          NEW_PR_NUMBER: ${{ steps.create_or_update_pr.outputs.new_pr_number }}
         run: |
-          CLOSING_COMMENT="Thank you for your contribution! Your changes have been processed and are now being handled in PR #$NEW_PR.
+          CLOSING_COMMENT="Thank you for your contribution! Your changes have been processed and are now being handled in PR #$NEW_PR_NUMBER.
 
           We greatly appreciate your effort to improve our project. Your original PR is being closed to streamline our workflow, but your contributions are valued and will be reviewed in the new PR.
 
-          If you have any questions or would like to make additional changes, please feel free to comment on the new PR #$NEW_PR.
+          If you have any questions or would like to make additional changes, please feel free to comment on the new PR #$NEW_PR_NUMBER.
 
           Thank you again for your support and involvement in our project!"
 
           gh pr comment $PR_NUMBER --body "$CLOSING_COMMENT"
-          gh pr close $PR_NUMBER --comment "Closed in favor of PR #$NEW_PR"
-
-      - name: Comment on new PR
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.inputs.pr_number }}
-          FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
-          NEW_PR: ${{ steps.create_or_update_pr.outputs.new_pr }}
-        run: |
-          PR_INFO=$(gh pr view $PR_NUMBER --json author)
-          PR_AUTHOR=$(echo $PR_INFO | jq -r .author.login)
-          gh pr comment $NEW_PR --body "This PR processes changes from fork PR #$PR_NUMBER. Original contributor: @$PR_AUTHOR. Thank you for your contributions!"
+          gh pr close $PR_NUMBER --comment "Closed in favor of PR #$NEW_PR_NUMBER"
