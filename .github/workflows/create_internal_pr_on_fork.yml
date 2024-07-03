@@ -1,4 +1,4 @@
-name: Fork PR Preparation
+name: Prepare PR if fork
 on:
   pull_request:
     types: [opened, synchronize, reopened]
@@ -14,15 +14,26 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }}
+      
+      - name: Fetch base branch
+        run: |
+          git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --exit-code ${{ github.base_ref }} HEAD || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Create PR to main
         id: create_pr
+        if: steps.check_changes.outputs.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}  
           commit-message: 'Creating a PR from fork PR #${{ github.event.pull_request.number }}'
           branch: fork-${{ github.event.pull_request.number }}-${{ github.sha }}
-          base: main
+          base: ${{ github.base_ref }}
           title: 'NPC updates for fork PR #${{ github.event.pull_request.number }}'
           body: 'This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with `/apply` command.'
 
