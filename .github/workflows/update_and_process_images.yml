@@ -27,9 +27,12 @@ jobs:
       with:
         files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
 
-    - name: Install dependencies
+    - name: Install and verify ImageMagick
       run: |
-        sudo apt-get update && sudo apt-get install -y imagemagick pngquant optipng
+        sudo apt-get update
+        sudo apt-get install -y imagemagick pngquant optipng
+        convert -version
+        identify -list format | grep -E 'GIF|PNG'
 
     - name: Process changed images
       run: |
@@ -43,6 +46,12 @@ jobs:
           local temp_file=$(mktemp)
 
           echo "Processing: $file"
+
+          # Verify input file integrity
+          if ! identify "$file" > /dev/null 2>&1; then
+            echo "Error: Input file $file is not a valid image"
+            return 1
+          fi
 
           # Convert to PNG
           if ! convert "$file" -colorspace RGB PNG32:"$temp_file"; then
@@ -85,9 +94,20 @@ jobs:
           fi
         }
         export -f process_image
-        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | xargs -I {} bash -c 'process_image "{}" || echo "Failed to process {}"'
+        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | while read file; do
+          if ! process_image "$file"; then
+            echo "Failed to process $file" >> processing_errors.log
+          fi
+        done
+        
+        if [ -f processing_errors.log ]; then
+          echo "Some files failed to process. See processing_errors.log for details."
+          cat processing_errors.log
+          exit 1
+        fi
 
     - name: Commit and push changes
+      if: success()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
