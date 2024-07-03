@@ -27,6 +27,9 @@ jobs:
       with:
         files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
 
+    - name: Print changed files
+      run: echo "${{ steps.changed-files.outputs.all_changed_files }}"
+
     - name: Install dependencies
       run: |
         sudo apt-get update && sudo apt-get install -y imagemagick pngquant optipng
@@ -60,7 +63,7 @@ jobs:
           fi
         }
         export -f process_image
-        echo "${{ steps.changed-files.outputs.all_changed_files }}" | xargs -I {} bash -c 'process_image "{}"'
+        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | xargs -I {} bash -c 'process_image "{}"'
 
     - name: Commit and push changes
       run: |
