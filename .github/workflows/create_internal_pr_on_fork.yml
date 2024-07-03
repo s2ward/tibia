@@ -46,7 +46,7 @@ jobs:
           git fetch fork $BRANCH_NAME
           git checkout -b process-fork-pr-$PR_NUMBER
           if git merge fork/$BRANCH_NAME --no-commit; then
-            git commit -m "Merge changes from fork PR #$PR_NUMBER"
+            git commit -m "Merge changes from fork PR #$PR_NUMBER by @$FORK_OWNER"
           else
             echo "Merge conflict occurred. Manual intervention required."
             git merge --abort
@@ -61,41 +61,54 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
+          FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
         run: |
           PR_BRANCH="process-fork-pr-$PR_NUMBER"
           
-          PR_INFO=$(gh pr view $PR_NUMBER --json title,body)
+          PR_INFO=$(gh pr view $PR_NUMBER --json title,body,author)
           PR_TITLE=$(echo $PR_INFO | jq -r .title)
           PR_BODY=$(echo $PR_INFO | jq -r .body)
+          PR_AUTHOR=$(echo $PR_INFO | jq -r .author.login)
           
           EXISTING_PR=$(gh pr list --head $PR_BRANCH --json number --jq '.[0].number')
           
+          PR_BODY_WITH_CREDIT="This PR processes changes from fork PR #$PR_NUMBER by @$PR_AUTHOR.
+
+          Original PR description:
+          $PR_BODY
+
+          Contributors: @$PR_AUTHOR, @$FORK_OWNER
+
+          Apply changes with /apply command."
+          
           if [ -z "$EXISTING_PR" ]; then
             if ! gh pr create --base main --head $PR_BRANCH \
-              --title "Process fork PR #$PR_NUMBER: $PR_TITLE" \
-              --body "This PR processes changes from fork PR #$PR_NUMBER.
-
-              Original PR description:
-              $PR_BODY
-
-              Apply changes with /apply command."; then
+              --title "$PR_TITLE" \
+              --body "$PR_BODY_WITH_CREDIT"; then
               echo "Failed to create PR. There might be no changes to commit."
               exit 1
             fi
           else
-            gh pr edit $EXISTING_PR --title "Process fork PR #$PR_NUMBER: $PR_TITLE" \
-              --body "This PR processes changes from fork PR #$PR_NUMBER.
-
-              Original PR description:
-              $PR_BODY
-
-              Apply changes with /apply command."
+            gh pr edit $EXISTING_PR --title "$PR_TITLE" \
+              --body "$PR_BODY_WITH_CREDIT"
           fi
 
       - name: Comment on original PR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PR_NUMBER: ${{ github.event.inputs.pr_number }}
+          FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
         run: |
           PROCESS_PR=$(gh pr list --head process-fork-pr-$PR_NUMBER --json number --jq '.[0].number')
-          gh pr comment $PR_NUMBER --body "Changes from this fork PR are being processed in PR #$PROCESS_PR. Please use the /apply command on the new PR to finalize updates."
+          gh pr comment $PR_NUMBER --body "Changes from this fork PR by @$FORK_OWNER are being processed in PR #$PROCESS_PR. Please use the /apply command on the new PR to finalize updates."
+
+      - name: Comment on new PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.inputs.pr_number }}
+          FORK_OWNER: ${{ steps.extract_info.outputs.fork_owner }}
+        run: |
+          NEW_PR=$(gh pr list --head process-fork-pr-$PR_NUMBER --json number --jq '.[0].number')
+          PR_INFO=$(gh pr view $PR_NUMBER --json author)
+          PR_AUTHOR=$(echo $PR_INFO | jq -r .author.login)
+          gh pr comment $NEW_PR --body "This PR processes changes from fork PR #$PR_NUMBER. Original contributors: @$PR_AUTHOR, @$FORK_OWNER. Thank you for your contributions!"
