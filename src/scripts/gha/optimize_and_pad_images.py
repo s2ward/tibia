@@ -64,12 +64,14 @@ def main(args):
             for file in files:
                 if file.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
                     process_image(os.path.join(root, file))
-    else:
+    elif args.files:
         # Process only specified files
         for file_path in args.files:
             if os.path.exists(file_path) and file_path.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.webp')):
                 if not process_image(file_path):
                     return False
+    else:
+        print("No files specified and --all not used. Nothing to do.")
     return True
 
 if __name__ == "__main__":

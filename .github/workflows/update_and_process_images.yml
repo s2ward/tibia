@@ -41,8 +41,9 @@ jobs:
 
     - name: Process changed images
       run: |
-        if [ -n "${{ steps.changed-files.outputs.all_changed_files }}" ]; then
-          python src/scripts/gha/optimize_and_pad_images.py --files ${{ steps.changed-files.outputs.all_changed_files }}
+        IFS=$'\n' read -r -d '' -a changed_files <<< "${{ steps.changed-files.outputs.all_changed_files }}"
+        if [ ${#changed_files[@]} -gt 0 ]; then
+          python src/scripts/gha/update_square_images.py --files "${changed_files[@]}"
         else
           echo "No image files changed."
         fi
