@@ -16,58 +16,44 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.event.pull_request.head.sha }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch base branch
+      - name: Fetch fork branch
         run: |
-          git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+          git fetch origin ${{ github.event.pull_request.head.ref }}
 
-      - name: Check for changes
-        id: check_changes
-        run: |
-          git diff --name-only ${{ github.base_ref }}..HEAD | grep . && echo "changes=true" >> $GITHUB_OUTPUT || echo "No changes detected"
-
-      - name: Debug info
-        run: |
-          echo "Base ref: ${{ github.base_ref }}"
-          echo "Head ref: ${{ github.head_ref }}"
-          echo "PR head sha: ${{ github.event.pull_request.head.sha }}"
-          echo "Changes detected: ${{ steps.check_changes.outputs.changes }}"
-          git status
-          git log --oneline -n 5
-          git diff ${{ github.base_ref }}..HEAD
-
-      - name: Create branch and commit changes
-        if: steps.check_changes.outputs.changes == 'true'
+      - name: Create merge commit
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git checkout -b fork-${{ github.event.pull_request.number }}
-          git reset --hard ${{ github.event.pull_request.head.sha }}
-          git add -A
-          git commit -m "Sync changes from fork PR #${{ github.event.pull_request.number }}" || echo "No changes to commit"
-          git push origin fork-${{ github.event.pull_request.number }} --force
+          git checkout -b merge-fork-${{ github.event.pull_request.number }}
+          git merge --no-ff origin/${{ github.event.pull_request.head.ref }} -m "Merge fork PR #${{ github.event.pull_request.number }}"
+
+      - name: Push merge branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+        run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin merge-fork-${{ github.event.pull_request.number }}
 
       - name: Create PR to main
-        if: steps.check_changes.outputs.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'Sync changes from fork PR #${{ github.event.pull_request.number }}'
-          branch: fork-${{ github.event.pull_request.number }}
+          token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          commit-message: 'Merge fork PR #${{ github.event.pull_request.number }}'
+          branch: merge-fork-${{ github.event.pull_request.number }}
           base: ${{ github.base_ref }}
-          title: 'Sync changes from fork PR #${{ github.event.pull_request.number }}'
-          body: 'This PR contains changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
+          title: 'Merge changes from fork PR #${{ github.event.pull_request.number }}'
+          body: 'This PR contains merged changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
 
       - name: Comment on original PR
         if: steps.create_pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.name,
-              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle updates from this fork. Please use the /apply command on the new PR to process updates.'
+              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to merge updates from this fork. Please use the /apply command on the new PR to process updates.'
             })
