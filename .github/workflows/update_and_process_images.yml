@@ -15,6 +15,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
+        ref: ${{ github.head_ref }}
         fetch-depth: 0
 
     - name: Install dependencies
@@ -95,10 +96,14 @@ jobs:
         export -f process_image
         cat changed_files.txt | xargs -I {} bash -c 'process_image "{}"'
 
-    - name: Commit changes
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add images
-        git commit -m "Optimize and process images" || echo "No changes to commit"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Optimize and process images"
+          git push
+        fi
