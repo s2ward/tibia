@@ -21,76 +21,99 @@ jobs:
       with:
         fetch-depth: 0
 
-    - name: Get changed files
-      id: changed-files
-      uses: tj-actions/changed-files@v35
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
+        python-version: '3.10'
 
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y imagemagick pngquant optipng
-        convert -version
+        sudo apt-get install -y optipng
+        python -m pip install --upgrade pip
+        pip install Pillow pillow-avif
+
+    - name: Get changed files
+      id: changed-files
+      uses: tj-actions/changed-files@v35
+      with:
+        files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg,avif}
 
     - name: Process changed images
       run: |
-        process_image() {
-          local input_file="$1"
-          local dir=$(dirname "$input_file")
-          local filename=$(basename -- "$input_file")
-          local name="${filename%.*}"
-          local output_file="$dir/$name.png"
-          local temp_file=$(mktemp --suffix=.png)
+        import os
+        import sys
+        import subprocess
+        from PIL import Image
+        import pillow_avif
 
-          echo "Processing: $input_file"
+        def process_image(input_path):
+            try:
+                # Open the image
+                with Image.open(input_path) as img:
+                    # Convert to RGBA if it's not already
+                    img = img.convert('RGBA')
 
-          # Step 1: Convert to PNG
-          if ! convert "$input_file" PNG32:"$temp_file"; then
-            echo "Error: Failed to convert $input_file to PNG"
-            rm -f "$temp_file"
-            return 1
-          fi
+                    # Calculate the size for a square image
+                    max_size = max(img.size)
+                    
+                    # Create a transparent square background
+                    square_img = Image.new('RGBA', (max_size, max_size), (0, 0, 0, 0))
+                    
+                    # Paste the original image onto the square background
+                    paste_pos = ((max_size - img.size[0]) // 2, (max_size - img.size[1]) // 2)
+                    square_img.paste(img, paste_pos, img)
 
-          # Step 2: Pad to square
-          local size=$(identify -format "%[fx:max(w,h)]" "$temp_file")
-          if ! convert "$temp_file" -background none -gravity center -extent ${size}x${size} PNG32:"$temp_file"; then
-            echo "Error: Failed to pad $temp_file to square"
-            rm -f "$temp_file"
-            return 1
-          fi
+                    # Prepare the output filename
+                    output_path = os.path.splitext(input_path)[0] + '.png'
 
-          # Step 3: Optimize PNG
-          if ! optipng -o2 -quiet "$temp_file"; then
-            echo "Error: Failed to optimize $temp_file"
-            rm -f "$temp_file"
-            return 1
-          fi
+                    # Save as PNG
+                    square_img.save(output_path, 'PNG')
 
-          # Move optimized file to final destination
-          mv "$temp_file" "$output_file"
+                # Optimize with optipng
+                subprocess.run(['optipng', '-o2', '-quiet', output_path], check=True)
 
-          # Step 4: Remove original file if it's different from the output
-          if [ "$input_file" != "$output_file" ]; then
-            rm -f "$input_file"
-          fi
+                # Remove the original file if it's different from the output
+                if input_path != output_path:
+                    os.remove(input_path)
 
-          echo "Successfully processed: $input_file -> $output_file"
-        }
+                print(f"Successfully processed: {input_path} -> {output_path}")
+                return True
 
-        export -f process_image
+            except Exception as e:
+                print(f"Error processing {input_path}: {str(e)}")
+                return False
 
-        echo "${{ steps.changed-files.outputs.all_changed_files }}" | tr ' ' '\n' | while read file; do
-          if ! process_image "$file"; then
-            echo "Failed to process $file"
-          fi
-        done
+        def main(file_list):
+            success = True
+            for file_path in file_list:
+                if not process_image(file_path):
+                    success = False
+            return success
+
+        if __name__ == "__main__":
+            changed_files = r"""${{ steps.changed-files.outputs.all_changed_files }}""".split()
+            if changed_files:
+                if main(changed_files):
+                    sys.exit(0)
+                else:
+                    sys.exit(1)
+            else:
+                print("No image files to process.")
+      shell: python
 
     - name: Commit and push changes
       if: success()
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add -A  # This will add all changes, including deletions
+        git add -A
         git diff --staged --quiet || (git commit -m "Optimize and process images" && 
           git push origin HEAD:${{ github.head_ref }})
+
+    - name: Upload error log
+      if: failure()
+      uses: actions/upload-artifact@v2
+      with:
+        name: processing-errors
+        path: ${{ github.workspace }}/*.log
