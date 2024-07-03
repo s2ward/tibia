@@ -1,72 +1,83 @@
-name: Fork PR Preparation
+name: Fork PR Processor
+
 on:
-  pull_request:
-    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: 'Issue number of the fork PR to process'
+        required: true
+      fork_owner:
+        description: 'Owner of the fork repository'
+        required: true
+      fork_branch:
+        description: 'Branch name in the fork repository'
+        required: true
 
 jobs:
-  prepare_fork_pr:
+  process_fork_pr:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.head.repo.full_name != github.repository
     permissions:
       contents: write
       pull-requests: write
-
+      issues: write
     steps:
-      - name: Checkout s2ward/tibia repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          repository: s2ward/tibia
-          ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
           fetch-depth: 0
 
-      - name: Install GitHub CLI
+      - name: Set up Git
         run: |
-          sudo apt-get update
-          sudo apt-get install -y gh
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
 
-      - name: Authenticate GitHub CLI
+      - name: Fetch and merge fork branch
         env:
-          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          FORK_OWNER: ${{ github.event.inputs.fork_owner }}
+          FORK_BRANCH: ${{ github.event.inputs.fork_branch }}
         run: |
-          echo "${{ secrets.TIBIA_REPOSITORY_PR_KEY }}" | gh auth login --with-token
+          git remote add fork https://github.com/$FORK_OWNER/tibia.git
+          git fetch fork $FORK_BRANCH
+          git checkout -b process-fork-pr-${{ github.event.inputs.issue_number }}
+          git merge fork/$FORK_BRANCH --no-commit --no-ff
 
-      - name: Fetch fork branch and create new branch
-        run: |
-          gh repo clone s2ward/tibia -- -q
-          cd tibia
-          gh repo set-default fork https://github.com/${{ github.event.pull_request.head.repo.full_name }}.git
-          gh repo sync fork/${{ github.event.pull_request.head.ref }} --branch main
-          gh pr checkout ${GITHUB_REF}
-          gh pr merge ${GITHUB_REF} --merge
-          gh pr checkout main
-          gh pr create \
-            --repo s2ward/tibia \
-            --head fork/${{ github.event.pull_request.head.ref }} \
-            --base main \
-            --title "Merge changes from fork PR #${{ github.event.pull_request.number }}" \
-            --body "This PR contains merged changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command."
-          gh pr comment ${GITHUB_REF} --body "A new PR has been created to merge updates from this fork. Please use the /apply command on the new PR to process updates."
-
-      - name: Push new branch to s2ward/tibia
-        run: |
-          git push origin merge-fork-${{ github.event.pull_request.number }}
-
-      - name: Create PR to main
+      - name: Create or update PR
         env:
-          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.inputs.issue_number }}
         run: |
-          gh pr create \
-            --repo s2ward/tibia \
-            --head merge-fork-${{ github.event.pull_request.number }} \
-            --base main \
-            --title "Merge changes from fork PR #${{ github.event.pull_request.number }}" \
-            --body "This PR contains merged changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command."
+          PR_BRANCH="process-fork-pr-$ISSUE_NUMBER"
+          git push origin $PR_BRANCH
+          
+          ISSUE_INFO=$(gh issue view $ISSUE_NUMBER --json title,body)
+          ISSUE_TITLE=$(echo $ISSUE_INFO | jq -r .title)
+          ISSUE_BODY=$(echo $ISSUE_INFO | jq -r .body)
+          
+          EXISTING_PR=$(gh pr list --head $PR_BRANCH --json number --jq '.[0].number')
+          
+          if [ -z "$EXISTING_PR" ]; then
+            gh pr create --base main --head $PR_BRANCH \
+              --title "Process fork PR #$ISSUE_NUMBER: $ISSUE_TITLE" \
+              --body "This PR processes changes from fork PR #$ISSUE_NUMBER.
 
-      - name: Comment on original PR
+              Original PR description:
+              $ISSUE_BODY
+
+              Apply changes with /apply command."
+          else
+            gh pr edit $EXISTING_PR --title "Process fork PR #$ISSUE_NUMBER: $ISSUE_TITLE" \
+              --body "This PR processes changes from fork PR #$ISSUE_NUMBER.
+
+              Original PR description:
+              $ISSUE_BODY
+
+              Apply changes with /apply command."
+          fi
+
+      - name: Comment on original issue
         env:
-          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.inputs.issue_number }}
         run: |
-          pr_number=$(gh pr list --repo s2ward/tibia --head merge-fork-${{ github.event.pull_request.number }} --json number --jq '.[0].number')
-          gh pr comment ${{ github.event.pull_request.number }} --body "A new PR #$pr_number has been created to merge updates from this fork. Please use the /apply command on the new PR to process updates."
+          PROCESS_PR=$(gh pr list --head process-fork-pr-$ISSUE_NUMBER --json number --jq '.[0].number')
+          gh issue comment $ISSUE_NUMBER --body "Changes from this fork PR are being processed in PR #$PROCESS_PR. Please use the /apply command on the new PR to finalize updates."
