@@ -25,7 +25,7 @@ jobs:
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code --ignore-space-at-eol ${{ github.base_ref }} HEAD || echo "changes=true" >> $GITHUB_OUTPUT
+          git diff --name-only ${{ github.base_ref }}..HEAD | grep . && echo "changes=true" >> $GITHUB_OUTPUT || echo "No changes detected"
 
       - name: Get original committer info
         id: get_committer_info
@@ -35,20 +35,23 @@ jobs:
           echo "committer_name=${COMMITTER_NAME}" >> $GITHUB_OUTPUT
           echo "committer_email=${COMMITTER_EMAIL}" >> $GITHUB_OUTPUT
 
-      - name: Commit changes if any
+      - name: Debug info
+        run: |
+          echo "Base ref: ${{ github.base_ref }}"
+          echo "Head ref: ${{ github.head_ref }}"
+          echo "PR head sha: ${{ github.event.pull_request.head.sha }}"
+          echo "Changes detected: ${{ steps.check_changes.outputs.changes }}"
+          git status
+          git log --oneline -n 5
+
+      - name: Create branch for changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
+          git checkout -b fork-${{ github.event.pull_request.number }}
+          git add .
           git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
           git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
-          git add .
-          git commit -m "Committing changes detected in PR #${{ github.event.pull_request.number }}"
-
-      - name: Log branch information
-        run: |
-          echo "PR number: ${{ github.event.pull_request.number }}"
-          echo "SHA: ${{ github.sha }}"
-          echo "Branch: fork-${{ github.event.pull_request.number }}"
-          echo "Base ref: ${{ github.base_ref }}"
+          git commit -m "Sync changes from fork PR #${{ github.event.pull_request.number }}"
 
       - name: Create PR to main
         id: create_pr
@@ -56,11 +59,11 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: 'Creating a PR from fork PR #${{ github.event.pull_request.number }}'
+          commit-message: 'Sync changes from fork PR #${{ github.event.pull_request.number }}'
           branch: fork-${{ github.event.pull_request.number }}
           base: ${{ github.base_ref }}
-          title: 'NPC updates for fork PR #${{ github.event.pull_request.number }}'
-          body: 'This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
+          title: 'Sync changes from fork PR #${{ github.event.pull_request.number }}'
+          body: 'This PR contains changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
 
       - name: Comment on original PR
         if: steps.create_pr.outputs.pull-request-number
@@ -72,5 +75,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.name,
-              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle NPC updates from this fork. Please use the /apply command on the new PR to process updates.'
+              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle updates from this fork. Please use the /apply command on the new PR to process updates.'
             })
