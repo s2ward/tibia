@@ -72,13 +72,17 @@ jobs:
           
           EXISTING_PR=$(gh pr list --head $PR_BRANCH --json number --jq '.[0].number')
           
-          PR_BODY_WITH_CREDIT="This PR processes changes from fork PR #$PR_NUMBER by @$PR_AUTHOR.
+          PR_BODY_WITH_CREDIT=$(cat << EOF
+          This PR processes changes from fork PR #$PR_NUMBER by @$PR_AUTHOR.
 
-          $([ ! -z "$PR_BODY" ] && echo "Original PR description:
-          $PR_BODY
-
-          ")Thank you for your contributions @$PR_AUTHOR!
-          Wait for a maintainer to apply changes with the /apply comment command."
+          $(if [ ! -z "$PR_BODY" ]; then
+            echo "Original PR description:"
+            echo "$PR_BODY"
+            echo
+          fi)Thank you for your contributions @$PR_AUTHOR!
+          Wait for a maintainer to apply changes with the /apply comment command.
+          EOF
+          )
           
           if [ -z "$EXISTING_PR" ]; then
             NEW_PR=$(gh pr create --base main --head $PR_BRANCH \
