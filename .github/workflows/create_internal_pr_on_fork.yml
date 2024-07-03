@@ -27,14 +27,6 @@ jobs:
         run: |
           git diff --name-only ${{ github.base_ref }}..HEAD | grep . && echo "changes=true" >> $GITHUB_OUTPUT || echo "No changes detected"
 
-      - name: Get original committer info
-        id: get_committer_info
-        run: |
-          COMMITTER_NAME=$(git log -1 --pretty=format:'%an' ${{ github.event.pull_request.head.sha }})
-          COMMITTER_EMAIL=$(git log -1 --pretty=format:'%ae' ${{ github.event.pull_request.head.sha }})
-          echo "committer_name=${COMMITTER_NAME}" >> $GITHUB_OUTPUT
-          echo "committer_email=${COMMITTER_EMAIL}" >> $GITHUB_OUTPUT
-
       - name: Debug info
         run: |
           echo "Base ref: ${{ github.base_ref }}"
@@ -43,18 +35,19 @@ jobs:
           echo "Changes detected: ${{ steps.check_changes.outputs.changes }}"
           git status
           git log --oneline -n 5
+          git diff ${{ github.base_ref }}..HEAD
 
-      - name: Create branch for changes
+      - name: Create branch and commit changes
         if: steps.check_changes.outputs.changes == 'true'
         run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
           git checkout -b fork-${{ github.event.pull_request.number }}
-          git add .
-          git config user.name "${{ steps.get_committer_info.outputs.committer_name }}"
-          git config user.email "${{ steps.get_committer_info.outputs.committer_email }}"
+          git add -A
           git commit -m "Sync changes from fork PR #${{ github.event.pull_request.number }}"
+          git push origin fork-${{ github.event.pull_request.number }}
 
       - name: Create PR to main
-        id: create_pr
         if: steps.check_changes.outputs.changes == 'true'
         uses: peter-evans/create-pull-request@v4
         with:
