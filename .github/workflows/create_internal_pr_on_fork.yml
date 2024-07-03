@@ -40,25 +40,30 @@ jobs:
         run: |
           git push origin merge-fork-${{ github.event.pull_request.number }}
 
+      - name: Install GitHub CLI
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh
+
+      - name: Authenticate GitHub CLI
+        env:
+          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+        run: |
+          echo $GITHUB_TOKEN | gh auth login --with-token
+
       - name: Create PR to main
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
-          commit-message: 'Merge fork PR #${{ github.event.pull_request.number }}'
-          branch: merge-fork-${{ github.event.pull_request.number }}
-          base: main
-          title: 'Merge changes from fork PR #${{ github.event.pull_request.number }}'
-          body: 'This PR contains merged changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+        run: |
+          gh pr create --repo s2ward/tibia \
+            --head merge-fork-${{ github.event.pull_request.number }} \
+            --base main \
+            --title "Merge changes from fork PR #${{ github.event.pull_request.number }}" \
+            --body "This PR contains merged changes from the fork PR #${{ github.event.pull_request.number }}. Apply changes with /apply command."
 
       - name: Comment on original PR
-        if: steps.create_pr.outputs.pull-request-number
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
-          script: |
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
-              owner: context.repo.owner,
-              repo: context.repo.name,
-              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to merge updates from this fork. Please use the /apply command on the new PR to process updates.'
-            })
+        env:
+          GITHUB_TOKEN: ${{ secrets.TIBIA_REPOSITORY_PR_KEY }}
+        run: |
+          pr_number=$(gh pr list --repo s2ward/tibia --head merge-fork-${{ github.event.pull_request.number }} --json number --jq '.[0].number')
+          gh pr comment ${{ github.event.pull_request.number }} --body "A new PR #$pr_number has been created to merge updates from this fork. Please use the /apply command on the new PR to process updates."
