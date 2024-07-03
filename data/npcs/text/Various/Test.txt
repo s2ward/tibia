@@ -1,2 +1,2 @@
 Player: fingers crossed!   
-Test: fubar
+Test: fubar !
