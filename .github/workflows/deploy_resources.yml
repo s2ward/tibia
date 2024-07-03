@@ -2,18 +2,17 @@ name: Deploy Resources
 on:
   push:
     branches: [main]
-    paths: ['images/**', 'data/**', 'docs/**'] # docs for testing purposes
+    paths: ['images/**', 'data/**', 'docs/**']
   workflow_dispatch:
 
 jobs:
   deploy:
-    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 10 
+        fetch-depth: ${{ github.event_name == 'workflow_dispatch' && 0 || 10 }}
 
     - name: Cache dependencies
       uses: actions/cache@v3
@@ -48,8 +47,11 @@ jobs:
         # Prepare directories
         mkdir -p gh-pages/{images/{books,creatures,spells,npcs},data/{npcs,books,status}}
         
-        # Copy only changed image files
-        git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^images/' | xargs -I {} cp --parents {} gh-pages/
+        # Copy image files
+        cp -r images/npcs/* gh-pages/images/npcs/
+        cp -r images/books/* gh-pages/images/books/
+        cp -r images/creatures/* gh-pages/images/creatures/
+        cp -r images/spells/* gh-pages/images/spells/
         
         # Copy and rename minimized JSON files
         for file in data/{npcs,books,status}/*.min.json; do
@@ -65,12 +67,18 @@ jobs:
         RCLONE_CONFIG_CLOUDFLARE_SECRET_ACCESS_KEY: ${{ secrets.CLOUDFLARE_R2_SECRET_ACCESS_KEY }}
         RCLONE_CONFIG_CLOUDFLARE_ENDPOINT: https://${{ secrets.CLOUDFLARE_ACCOUNT_ID }}.r2.cloudflarestorage.com
       run: |
-        CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(images|data)/')
-        echo "Files to be synced to Cloudflare R2:"
-        echo "$CHANGED_FILES"
-        echo "$CHANGED_FILES" > changed_files.txt
-        rclone sync --files-from changed_files.txt gh-pages/ cloudflare:resources
-        rm changed_files.txt
+        if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+          echo "Performing full sync to Cloudflare R2"
+          rclone sync gh-pages/ cloudflare:resources
+        else
+          echo "Syncing changed files to Cloudflare R2"
+          CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep -E '^(images|data)/')
+          echo "Files to be synced to Cloudflare R2:"
+          echo "$CHANGED_FILES"
+          echo "$CHANGED_FILES" > changed_files.txt
+          rclone sync --files-from changed_files.txt gh-pages/ cloudflare:resources
+          rm changed_files.txt
+        fi
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
@@ -78,4 +86,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: './gh-pages'
         publish_branch: gh-pages
-        commit_message: "Deployed to GitHub Pages by GitHub Actions"
+        commit_message: ${{ github.event_name == 'workflow_dispatch' && 'Deploy full resources sync' || 'Deploy updated resources' }}
