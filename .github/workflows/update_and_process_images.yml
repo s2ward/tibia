@@ -1,12 +1,12 @@
 name: Optimize and Process Images
+
 on:
   pull_request:
     paths:
-      - 'images/**/*.gif'
-      - 'images/**/*.webp'
-      - 'images/**/*.png'
-      - 'images/**/*.jpg'
-      - 'images/**/*.jpeg'
+      - 'images/**/*.{gif,webp,png,jpg,jpeg}'
+
+env:
+  IMAGE_DIR: 'images'
 
 jobs:
   process-images:
@@ -15,24 +15,17 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        ref: ${{ github.head_ref }}
         fetch-depth: 0
-
-    - name: Install dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y imagemagick pngquant optipng
-        convert --version
-        pngquant --version
-        optipng --version
 
     - name: Get changed files
       id: changed-files
+      uses: tj-actions/changed-files@v35
+      with:
+        files: ${{ env.IMAGE_DIR }}/**/*.{gif,webp,png,jpg,jpeg}
+
+    - name: Install dependencies
       run: |
-        git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep -E '^images/.*\.(gif|webp|png|jpg|jpeg)$' > changed_files.txt
-        echo "CHANGED_FILES<<EOF" >> $GITHUB_OUTPUT
-        cat changed_files.txt >> $GITHUB_OUTPUT
-        echo "EOF" >> $GITHUB_OUTPUT
+        sudo apt-get update && sudo apt-get install -y imagemagick pngquant optipng
 
     - name: Process changed images
       run: |
@@ -42,68 +35,33 @@ jobs:
           local filename=$(basename -- "$file")
           local extension="${filename##*.}"
           local filename="${filename%.*}"
-          local temp_file=$(mktemp)
           local output_file="$dir/$filename.png"
-        
+          local temp_file=$(mktemp)
+
           echo "Processing: $file"
-        
-          # Check if the file is new in this PR
-          if git ls-files --error-unmatch "$file" &> /dev/null; then
-            file_status="existing"
-          else
-            file_status="new"
-          fi
-        
-          # Convert to PNG if not already PNG
-          if [ "$extension" != "png" ]; then
-            convert "$file" -colorspace RGB PNG32:"$temp_file"
-          else
-            cp "$file" "$temp_file"
-          fi
-        
-          # Get original dimensions
-          local dimensions=$(identify -format "%wx%h" "$temp_file")
-        
-          # Pad to square if necessary
+
+          convert "$file" -colorspace RGB PNG32:"$temp_file"
+          
           local max_dim=$(identify -format "%[fx:max(w,h)]" "$temp_file")
-          if [ "$dimensions" != "${max_dim}x${max_dim}" ]; then
-            convert "$temp_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$temp_file"
-          fi
-        
-          # Optimize PNG
+          convert "$temp_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$temp_file"
+
           optipng -o2 -quiet "$temp_file"
-        
-          # Compare file sizes
-          original_size=$(stat -c%s "$file")
-          new_size=$(stat -c%s "$temp_file")
-        
-          if [ "$file_status" = "new" ] || [ $new_size -lt $original_size ]; then
+
+          if [ ! -f "$file" ] || [ $(stat -c%s "$temp_file") -lt $(stat -c%s "$file") ]; then
             mv "$temp_file" "$output_file"
-            if [ "$file_status" = "new" ]; then
-              echo "New file created: $output_file (Size: $new_size bytes)"
-            else
-              echo "Optimized: $file -> $output_file (Original: $original_size bytes, New: $new_size bytes)"
-            fi
+            echo "Optimized: $file -> $output_file"
           else
-            if [ "$file" != "$output_file" ]; then
-              cp "$file" "$output_file"
-            fi
             rm "$temp_file"
-            echo "Kept original: $file (Original: $original_size bytes, New would be: $new_size bytes)"
+            echo "Kept original: $file"
           fi
         }
-
         export -f process_image
-        cat changed_files.txt | xargs -I {} bash -c 'process_image "{}"'
+        echo "${{ steps.changed-files.outputs.all_changed_files }}" | xargs -I {} bash -c 'process_image "{}"'
 
     - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add images
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Optimize and process images"
-          git push
-        fi
+        git add ${{ env.IMAGE_DIR }}
+        git diff --staged --quiet || (git commit -m "Optimize and process images" && 
+          git push origin HEAD:${{ github.head_ref }})
