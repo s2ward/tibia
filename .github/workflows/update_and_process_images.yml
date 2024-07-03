@@ -1,4 +1,4 @@
-name: Process Images
+name: Optimize and Process Images
 on:
   pull_request:
     paths:
@@ -14,44 +14,73 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y imagemagick optipng
+        sudo apt-get install -y imagemagick pngquant optipng
         convert --version
+        pngquant --version
         optipng --version
 
-    - name: Convert, pad, and optimize images
+    - name: Get changed files
+      id: changed-files
       run: |
-        for dir in images/{books,creatures,npcs,spells}; do
-          if [ -d "$dir" ]; then
-            for file in $dir/*.{gif,webp,png,jpg,jpeg}; do
-              if [ -f "$file" ]; then
-                filename=$(basename -- "$file")
-                extension="${filename##*.}"
-                filename="${filename%.*}"
-                
-                # Convert to PNG if not already PNG
-                if [ "$extension" != "png" ]; then
-                  convert "$file" PNG32:"$dir/$filename.png"
-                  rm "$file"
-                fi
-                
-                # Pad to square
-                convert "$dir/$filename.png" -background none -gravity center -extent $(identify -format "%[fx:max(w,h)]x%[fx:max(w,h)]" "$dir/$filename.png") PNG32:"$dir/$filename.png"
-                
-                # Optimize PNG (lossless)
-                optipng -o2 "$dir/$filename.png"
-              fi
-            done
+        git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.sha }} | grep -E '^images/.*\.(gif|webp|png|jpg|jpeg)$' > changed_files.txt
+        echo "CHANGED_FILES<<EOF" >> $GITHUB_OUTPUT
+        cat changed_files.txt >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+
+    - name: Process changed images
+      run: |
+        process_image() {
+          local file="$1"
+          local dir=$(dirname "$file")
+          local filename=$(basename -- "$file")
+          local extension="${filename##*.}"
+          local filename="${filename%.*}"
+          local output_file="$dir/$filename.png"
+
+          echo "Processing: $file"
+
+          # Convert to PNG if not already PNG
+          if [ "$extension" != "png" ]; then
+            convert "$file" -colorspace RGB PNG32:"$output_file"
+          else
+            cp "$file" "$output_file"
           fi
-        done
+
+          # Get original dimensions
+          local dimensions=$(identify -format "%wx%h" "$output_file")
+
+          # Pad to square if necessary
+          local max_dim=$(identify -format "%[fx:max(w,h)]" "$output_file")
+          if [ "$dimensions" != "${max_dim}x${max_dim}" ]; then
+            convert "$output_file" -background none -gravity center -extent ${max_dim}x${max_dim} PNG32:"$output_file"
+          fi
+
+          # Optimize PNG
+          optipng -o2 -quiet "$output_file"
+
+          echo "Processed and optimized: $file -> $output_file"
+
+          # Verify changes (for all files, including PNGs)
+          if ! cmp -s "$file" "$output_file"; then
+            echo "Changes detected for $file"
+          else
+            echo "No changes detected for $file"
+          fi
+        }
+
+        export -f process_image
+        cat changed_files.txt | xargs -I {} bash -c 'process_image "{}"'
 
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add images
-        git commit -m "Convert, pad, and optimize images (lossless)" || echo "No changes to commit"
+        git commit -m "Optimize and process images" || echo "No changes to commit"
         git push
