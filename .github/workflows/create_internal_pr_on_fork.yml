@@ -1,9 +1,7 @@
-name: Prepare forked pull requests
-
+name: Fork PR Preparation
 on:
   pull_request:
     types: [opened, synchronize, reopened]
-
 jobs:
   prepare_fork_pr:
     runs-on: ubuntu-latest
@@ -11,37 +9,32 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Fetch fork branch
-        run: |
-          git fetch origin ${{ github.event.pull_request.head.ref }}
-          git checkout -b fork-${{ github.event.pull_request.number }} origin/${{ github.event.pull_request.head.ref }}
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
+      - name: Create PR to main
+        id: create_pr
+        uses: peter-evans/create-pull-request@v4
         with:
-          base: ${{ github.event.pull_request.base.ref }}
-          branch: npc-update-fork-${{ github.event.pull_request.number }}
-          title: "NPC updates for fork PR #${{ github.event.pull_request.number }}"
-          body: |
-            This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}.
-            Apply changes with '/apply' command.
-          labels: npc-update, automated-pr
-          commit-message: Sync changes from fork PR #${{ github.event.pull_request.number }}
+          token: ${{ secrets.GITHUB_TOKEN }}  
+          commit-message: 'Creating a PR from fork PR #${{ github.event.pull_request.number }}'
+          branch: fork-${{ github.event.pull_request.number }}-${{ github.sha }}
+          base: main
+          title: 'NPC updates for fork PR #${{ github.event.pull_request.number }}'
+          body: 'This PR contains NPC updates from the fork PR #${{ github.event.pull_request.number }}. Apply changes with `/apply` command.'
 
       - name: Comment on original PR
+        if: steps.create_pr.outputs.pull-request-number
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.name,
-              body: 'A new PR has been created to handle NPC updates from this fork. Please use the /apply command on the new PR to process updates.'
+              body: 'A new PR #${{ steps.create_pr.outputs.pull-request-number }} has been created to handle NPC updates from this fork. Please use the `/apply` command on the new PR to process updates.'
             })
