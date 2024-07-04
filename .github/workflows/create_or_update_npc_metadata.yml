@@ -157,17 +157,27 @@ jobs:
         
         pr_description += "\nPlease review and merge if everything looks correct."
         
-        # Set PR description as an output
-        with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-            fh.write(f"pr_description<<EOF\n{pr_description}\nEOF\n")
+        # Save PR description to a file
+        with open('pr_description.txt', 'w') as f:
+            f.write(pr_description)
 
       shell: python
 
     - name: Create Pull Request
-      uses: peter-evans/create-pull-request@v6
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: 'Update NPC metadata for ${{ github.event.inputs.name }}'
-        title: 'Update NPC: ${{ github.event.inputs.name }}'
-        body: ${{ steps.update-metadata.outputs.pr_description }}
-        branch: update-npc-${{ github.event.inputs.name }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git checkout -b update-npc-${{ github.event.inputs.name }}
+        git add .
+        git commit -m "Update NPC metadata for ${{ github.event.inputs.name }}"
+        git push -u origin update-npc-${{ github.event.inputs.name }}
+        pr_url=$(gh pr create --title "Update NPC: ${{ github.event.inputs.name }}" --body-file pr_description.txt --base main)
+        echo "PR_URL=$pr_url" >> $GITHUB_ENV
+
+    - name: Add PR Comment
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        gh pr comment ${{ env.PR_URL }} --body "This pull request was automatically created by the GitHub Actions workflow."
