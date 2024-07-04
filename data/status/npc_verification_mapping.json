@@ -1426,5 +1426,12 @@
             "Niral": "EMPTY"
         },
         "Yerga": "EMPTY"
+    },
+    "text": {
+        "Candia": {
+            "Chocolate_Mines": {
+                "Candis": "VERIFIED"
+            }
+        }
     }
 }

@@ -1,8 +1,8 @@
 {
-  "total_npcs": 1131,
+  "total_npcs": 1132,
   "verified": {
     "count": 884,
-    "percentage": 78.16
+    "percentage": 78.09
   },
   "unverified": {
     "count": 105,
@@ -10,16 +10,16 @@
   },
   "empty": {
     "count": 142,
-    "percentage": 12.56
+    "percentage": 12.54
   },
   "unverified_or_empty": {
     "count": 247,
-    "percentage": 21.84
+    "percentage": 21.82
   },
   "last_updated": {
-    "date": "2024-07-03T11:26:23Z",
-    "pr_number": 634,
-    "pr_title": "Update Test.txt",
-    "pr_url": "https://github.com/s2ward/tibia/pull/634"
+    "date": "2024-07-04T15:17:48Z",
+    "pr_number": 677,
+    "pr_title": "Candis",
+    "pr_url": "https://github.com/s2ward/tibia/pull/677"
   }
 }
