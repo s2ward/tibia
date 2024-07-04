@@ -1,0 +1,13 @@
+The events starts each 4 hours. You will get an information 15 minutes in advance.
+When the event starts, all participants will be teleported into the challenge area.
+Use your wand of tricks while standing on the white ground floor. You should do this immediately after your teleport.
+You will be turned into a certain animal and only have a few seconds to reach the corresponding teleporter.
+If you do not manage to reach the teleporter, you have lost your chance on that occasion and are out.
+If you have managed to reach the safety of a room, you will be teleported back to the central chamber where the procedure begins anew.
+The next cycle works the same but will grant you less time to reach safety.
+This will continue for a given time.
+In the end, at least one participant has to reach safety.
+If no participant is left before the event ends, the event fails.
+A world needs a certain amount of successful events in order to succeed.
+Avoid slimes as they will slow you down.
+Take notice of the changing floor tiles which will change your movement rate drastically.

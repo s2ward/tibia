@@ -1,0 +1,2 @@
+This spell has been developed by and for paladins. In critical situations it might become necessary for a paladin to outrun his opponent. Casting the Swift Foot spell raises the speed of a paladin by 80% for 10 seconds. However, as running so quickly costs much energy, the paladin can neither attack nor use attack spells during this time.
+As the magic potential of a paladin is only strong enough to master one such powerful spell, Sharpshooter and Swift Foot share the same cooldown, before either of them can be cast again.

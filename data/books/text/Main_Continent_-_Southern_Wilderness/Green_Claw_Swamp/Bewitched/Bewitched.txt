@@ -1,0 +1,10 @@
+You will have to fill the witches' cauldron with the supplies needed for the brew.
+The ingredients needed in each phase will be displayed on the altars left and right to the cauldron. Only these items will be accepted. They will be only accepted as long as the amount of needed ingredients has not been reached.
+To contribute an ingredient, use the cauldron's lower, right edge and then 'use' it on the ingredient.
+All possible ingredients will be displayed separately in a room upstairs.
+Ingredients will be random for each phase. It is possible that an ingredient is needed several times in a row.
+At the fixed end of each phase, the needed ingredients will have to be supplied or the quest will fail.
+The clocks near the cauldron should help to estimate how much time is left.
+When a new phase starts, evil spirits will attack the room beneath the cauldron.
+You can use the wood looted from the evil spirits to fuel the fire of the cauldron. To do so, 'use' the wood on the chute.
+Contributing items and wood used on the chute will earn you favour that can be turned in for rewards by talking to the witch Minzy.

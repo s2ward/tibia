@@ -1,0 +1,2 @@
+To be able to defend themselves against extremely powerful hits, experienced knights can cast the Protector spell. If cast, the shielding of the knight will raise to 135% and the knight will gain an overall damage reduction of 15% for 10 seconds. However, as the knight needs to concentrate all his energy on this spell, his attacks and spells have a -35% penalty during this time.
+A knight is versatile and can alter quickly between an aggressive stance and a defensive stance by casting Blood Rage to remove Protector.

@@ -1,0 +1,10 @@
+The tridiag formula
+Written by Donazia
+This formula bases on the honeminas formula.
+It is not completed yet. But here are our results until now:
+a=3er*8g->99k
+g[a_,l_] :=e*g[1,1]->9g*3a
+h:=3pe-34u
+.
+.
+.

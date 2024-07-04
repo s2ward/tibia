@@ -1,0 +1,8 @@
+The second stage will need many hungry players.
+The cake has several layers. Players will have to eat a complete layer in a given, short period of time. Else the cake will regenerate itself and reset.
+Certain edges are not edible and don't count for the success.
+When a layer is not eaten in time, it will regenerate itself and all participants will be moved to safety.
+When a layer is eaten, the upper layers will come down, though the participants will be moved to safety.
+It is advised to wait until enough hungry people have been gathered and then wait until the cake resets again. Then start to eat the cake as quickly as you can.
+Remember you will not get hungry while logged out.
+The quest will succeed if the participants manage to reach the isle and to eat the whole cake in the few days the event lasts and after which the isle vanishes for another year.

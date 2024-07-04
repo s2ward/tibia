@@ -1,0 +1,2 @@
+Sacrifice Notes
+White and dark can never be neighbours. Dark and brown are facing each other. The mushroom is always greener on the right side.

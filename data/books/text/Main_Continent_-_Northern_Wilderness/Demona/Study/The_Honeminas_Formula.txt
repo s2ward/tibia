@@ -1,0 +1,14 @@
+The honeminas formula
+Written by Mathemicus
+The honeminas formula is one of the basic formulas that describe how the magic web was made by the gods.
+It is not completed yet, because honeminas itself died by 2 intruders who found out the way into our city. But we are trying to finish his work.
+And Im sure that one day we will finish it and then we will be a big part closer to our goal.
+As far we solve the following formulas:
+(Note: g stands for gate, g [a_,x_] for the coordinates of the gate in the 2-dimensional-area  and e for the strengh of the magic energy that flows into this gate.
+For all other formulas look in your collection of formulas)
+g[a_,x_] := a g[3,2] + (4,3,1,5,3).(3,4,7,8,4)
+e=3m*2g->3p
+.
+.
+.
+.
