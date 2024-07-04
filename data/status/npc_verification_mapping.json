@@ -1433,5 +1433,10 @@
                 "Candis": "VERIFIED"
             }
         }
+    },
+    "Candia": {
+        "Chocolate_Mines": {
+            "Candis": "VERIFIED"
+        }
     }
 }
