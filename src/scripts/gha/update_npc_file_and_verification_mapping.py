@@ -105,7 +105,7 @@ def process_added_files(mapping, base_dir, repo_dir, added_files):
             status = get_status(base_dir, repo_dir, file_path)
             print(f"Status: {status}")
             if status != "UNCHANGED":
-                relative_path = file_path.relative_to(repo_dir / 'data' / 'npcs')
+                relative_path = file_path.relative_to(repo_dir / 'data' / 'npcs' / 'text')
                 update_status(mapping, relative_path, status)
 
 def process_modified_files(mapping, base_dir, repo_dir, modified_files):
