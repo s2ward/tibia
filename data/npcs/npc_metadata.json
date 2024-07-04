@@ -23694,5 +23694,27 @@
             32011,
             7
         ]
+    },
+    {
+        "name": "Candis",
+        "job": "Supervisor",
+        "race": "Candy",
+        "gender": "Male",
+        "location": "Candia",
+        "subarea": "Chocolate_Mines",
+        "map": "https://tibiamaps.io/map#33362,32138,8:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Threatened Dreams Quest - Sweet Dreams",
+                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest#Sweet_Dreams"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33362,
+            32138,
+            8
+        ]
     }
 ]
