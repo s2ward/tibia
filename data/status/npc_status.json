@@ -1,25 +1,25 @@
 {
-  "total_npcs": 1132,
+  "total_npcs": 1133,
   "verified": {
-    "count": 885,
-    "percentage": 78.18
+    "count": 886,
+    "percentage": 78.2
   },
   "unverified": {
     "count": 105,
-    "percentage": 9.28
+    "percentage": 9.27
   },
   "empty": {
     "count": 142,
-    "percentage": 12.54
+    "percentage": 12.53
   },
   "unverified_or_empty": {
     "count": 247,
-    "percentage": 21.82
+    "percentage": 21.8
   },
   "last_updated": {
-    "date": "2024-07-04T19:38:44Z",
-    "pr_number": 689,
-    "pr_title": "Atui in Podzilla Maw",
-    "pr_url": "https://github.com/s2ward/tibia/pull/689"
+    "date": "2024-07-04T19:48:16Z",
+    "pr_number": 691,
+    "pr_title": "Candis",
+    "pr_url": "https://github.com/s2ward/tibia/pull/691"
   }
 }
