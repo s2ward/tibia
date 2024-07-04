@@ -1,0 +1,17 @@
+Player: (idle)
+Candis: We still have to load the cherry drops, stack the candy canes and the fruit drops are behind with the strawberry flavours!
+Candis: So much to do, so little time to do it!
+Player: hi
+Candis: *The small sugar cube greets you but you don't understand it. It makes a gesture as if to apply some lipstick. Then it is pointing to the surface. But what does that mean?*
+Player: hi
+Candis: Greetings!
+Player: name
+Candis: My name is Candis.
+Player: job
+Candis: I am the sugarseer in the Chocolate Mines. Which means I make sure that all the important work down here is done carefully and that all workers are safe from danger.
+Player: time
+Candis: Time to mine some chocolate.
+Player: mission
+Candis: I'm sorry, but I'm really too busy to talk at the moment.
+Player: bye
+Candis: Sweet dreams!
