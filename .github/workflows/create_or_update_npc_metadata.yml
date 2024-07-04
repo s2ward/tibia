@@ -55,12 +55,15 @@ jobs:
         import os
         import requests
         
+        def replace_spaces_with_underscores(text):
+            return text.replace(' ', '_')
+        
         # Load existing metadata
         with open('data/npcs/npc_metadata.json', 'r') as f:
             metadata = json.load(f)
         
         # Replace spaces with underscores in the name
-        npc_name = '${{ github.event.inputs.name }}'.replace(' ', '_')
+        npc_name = replace_spaces_with_underscores('${{ github.event.inputs.name }}')
         
         # Find existing NPC or create new entry
         npc_index = next((index for (index, npc) in enumerate(metadata) if npc["name"] == npc_name), None)
@@ -89,9 +92,9 @@ jobs:
         if '${{ github.event.inputs.gender }}':
             new_npc["gender"] = '${{ github.event.inputs.gender }}'
         if '${{ github.event.inputs.location }}':
-            new_npc["location"] = '${{ github.event.inputs.location }}'
+            new_npc["location"] = replace_spaces_with_underscores('${{ github.event.inputs.location }}')
         if '${{ github.event.inputs.subarea }}':
-            new_npc["subarea"] = '${{ github.event.inputs.subarea }}'
+            new_npc["subarea"] = replace_spaces_with_underscores('${{ github.event.inputs.subarea }}')
         if '${{ github.event.inputs.version }}':
             new_npc["version"] = '${{ github.event.inputs.version }}'
         
