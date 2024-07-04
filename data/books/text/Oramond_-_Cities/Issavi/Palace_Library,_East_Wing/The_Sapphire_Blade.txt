@@ -1,0 +1,8 @@
+The Sapphire Blade
+This group consists of elite warriors who all carry blades made of the blue metal tagralt. They are often in conflict with Fafnar cultists and the remaining ogres on Kilmaresh.
+reputation: high among humans as well as Anuma
+influence: high among humans, medium among Anuma
+members: mainly warriors and fighters, some wizards
+size: 700 - 1000 members
+enemies: Fafnar cultists, ogres
+allies: cults of Suon and Bastesh, the Empress of Kilmaresh

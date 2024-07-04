@@ -1,0 +1,16 @@
+Original
+:
+5 5 5 5 2 charcha
+5 burka
+5 burka bata
+2 batuk
+5 1 aka bora
+3 tulak bora
+Translation
+:
+22 sabres
+5 short swords
+5 swords
+2 bows
+6 leather armors
+3 studded armors

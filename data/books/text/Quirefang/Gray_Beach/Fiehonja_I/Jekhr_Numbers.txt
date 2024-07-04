@@ -1,0 +1,12 @@
+The Deepling Language, Volume II: Exercises
+By Lagatos, Chronicler and Scholar
+Exercises, Chapter III: Numbers
+one/first=hon
+two/second=rau
+three/third=du
+four/fourth=qo
+five/fifth=rei
+six/sixth=tau
+eight/eighth=kri
+nine/ninth=lod
+ten/tenth=emm

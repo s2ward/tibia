@@ -1,0 +1,6 @@
+This quest has two stages.
+In the first stage, cake golems will attack certain cities.
+Once they are slain, they can be looted for a vital ingredient which should be given to one of the bakers at the cake extractor machines.
+It is IMPORTANT though that a certain amount of cake golems will be disassembled in the cake extraction machines. To do so, they have to be lured into the cake extractors where they will vanish. Since it is much easier to kill them, it is advised to begin with the luring part.
+If the first stage has been completed successfully, a bridge is built south of Cormaya after a certain amount of time.
+The second stage will take place on an isle south of Cormaya and explained in a book found there.

@@ -1,0 +1,4 @@
+Magic
+There are two kinds of spells: rune spells, and instant spells. Rune spells are cast on blank runes and some mana is used up in this process.
+These can easily be carried around and store the specific spell. It can be used at any time, and only some require further investment of mana.
+Instant spells are cast in the heartbeat they are needed and take effect instantly. Some of these spells Instant Spells heal while others are agressive and some even have more astonishing effects, such as invisibility.

@@ -1,0 +1,6 @@
+\frac{1}{2} ab
+
+A_G\cdot h
+
+\vec{P} = \begin{pmatrix}p_1\
+p_2\end{pmatrix}

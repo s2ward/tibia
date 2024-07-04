@@ -1,0 +1,9 @@
+The Donina formula
+Written by Donina
+This is a formula based on the honeminas formula.
+It should help to understand the pulsate of the red light in the magic web.
+ft:=E[3,2,3]*fd(3.2),as->20
+io=g[i,u]->2
+.
+.
+.

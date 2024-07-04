@@ -1,0 +1,7 @@
+Tactics for close-ranged combat
+- Use the terrain to your advantage: always know the way to the nearest ropespot, and make sure you are not surrounded by enemies - that can be a death trap!
+- Use narrow passages to make sure not more than one enemy at a time can sneak up.
+- Avoid being close to more than two enemies at once if you can, because you can only block two at a time.
+- Be careful while chasing an enemy: you might run into his allies or other monsters.
+- Target the closest enemy, or you'll become confused and might not be able to defend yourself against other attacks.
+- Different enemies require different tactics. While some are best to be fought in an agressive combat mode to finish them off quickly, you might want to defend yourself more against others. Choosing between your combat modes also depends on your equipment -  play your strengths!

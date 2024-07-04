@@ -1,0 +1,5 @@
+Coordinates for the area around Dianscher
+Written by Mathemicus
+I think I found out some coordinates for the Island Dianscher.
+p3,q9,0o and p3,23,0t.
+Yet, we must wait until we can control the destination gates and open them without problems.

@@ -1,0 +1,19 @@
+The Travelling Savant
+A savant from Edron once travelled our world far and wide. He took seven journeys to the highest reaches and deepest depths.
+On his seven journeys, he visited Fiehonja, the Ice Islands, Oramond, the Plains of Havoc, Razachai, Roshamuul, and Tiquanda.
+His souvenirs included a painting of a gozzler, an opticording sphere, a tin key, a basket with puppies, a werewolf amulet, a pillow backpack, and a ghost detector.
+He obtained those things in various ways: from a fresh corpse, through fishing, from a dustbin, through a magic experiment, from a food crate, from a forgotten loot bag, and from remains of a bonfire.
+His dreams were once caught in shreds:
+1. His journey to Tiquanda took place before he found something in the remains of a bonfire. He discovered something in the remains of a bonfire on a trip that happened before he got hold of a painting of a gozzler.
+2. Once, something in a fresh corpse caught his eye. This neither happened on his journey to the Ice Islands nor when he visited Oramond.
+3. The werewolf amulet was not the result of a magic experiment.
+4. The savant found the opticording sphere neither in a forgotten loot bag nor in a dustbin.
+5. He obtained something through fishing on the journey that took place right after he had returned from Fiehonja and directly before he set out to the place where he acquired the werewolf amulet.
+6. The ghost detector was neither a souvenir from Razachai nor from Roshamuul.
+7. He acquired the tin key on the trip that directly followed the expedition on which he had found something near a fresh corpse.
+8. When he obtained the ghost detector, he had already found something in a food crate one of his previous journeys. His discovery in a food crate happened at a later point of time than his visit of the Plains of Havoc.
+9. He headed for the Ice Islands directly after the expedition on which he had acquired something as a result of a magic experiment.
+10. It was not in Roshamuul where something in the remains of a bonfire caught his attention.
+11. On his seventh and last journey, the savant came into the possesion of a pillow backpack. His first expedition led him to Oramond.
+12. He did not find the basket of puppies in a forgotten loot bag.
+13. He did not obtain the tin key through fishing.
