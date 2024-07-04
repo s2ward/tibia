@@ -1,0 +1,184 @@
+name: Create or update NPC metadata
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'NPC Name'
+        required: true
+      job:
+        description: 'NPC Job, values can be Unknown'
+        required: false
+      race:
+        description: 'NPC Race, e.g. Minotaur, Human, Rat'
+        required: false
+      gender:
+        description: 'NPC Gender, e.g. Male, Female, Unknown'
+        required: false
+      location:
+        description: 'NPC Location, e.g. Edron, Thais, Venore'
+        required: false
+      subarea:
+        description: 'NPC Subarea, e.g. Cormaya, Mintwalin, Green Claw Swamp'
+        required: false
+      map_url:
+        description: 'Full Tibiamaps.io URL, e.g. https://tibiamaps.io/map#32368,32198,7:0'
+        required: false
+      version:
+        description: 'Game Version, e.g. 13.30'
+        required: false
+      quest_name:
+        description: 'Quest Name'
+        required: false
+      quest_url:
+        description: 'Quest URL on tibia.fandom.com'
+        required: false
+
+jobs:
+  update-metadata:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Update metadata and create empty file
+      run: |
+        import json
+        import os
+        import requests
+        
+        def replace_spaces_with_underscores(text):
+            return text.replace(' ', '_')
+        
+        # Load existing metadata
+        with open('data/npcs/npc_metadata.json', 'r') as f:
+            metadata = json.load(f)
+        
+        # Replace spaces with underscores in the name
+        npc_name = replace_spaces_with_underscores('${{ github.event.inputs.name }}')
+        
+        # Find existing NPC or create new entry
+        npc_index = next((index for (index, npc) in enumerate(metadata) if npc["name"] == npc_name), None)
+        if npc_index is not None:
+            new_npc = metadata[npc_index]
+        else:
+            new_npc = {
+                "name": npc_name,
+                "job": "",
+                "race": "",
+                "gender": "",
+                "location": "",
+                "subarea": "",
+                "map": "",
+                "version": "",
+                "quests": [],
+                "dialogues": [],
+                "coordinates": []
+            }
+        
+        # Update fields only if input is provided
+        if '${{ github.event.inputs.job }}':
+            new_npc["job"] = '${{ github.event.inputs.job }}'
+        if '${{ github.event.inputs.race }}':
+            new_npc["race"] = '${{ github.event.inputs.race }}'
+        if '${{ github.event.inputs.gender }}':
+            new_npc["gender"] = '${{ github.event.inputs.gender }}'
+        if '${{ github.event.inputs.location }}':
+            new_npc["location"] = replace_spaces_with_underscores('${{ github.event.inputs.location }}')
+        if '${{ github.event.inputs.subarea }}':
+            new_npc["subarea"] = replace_spaces_with_underscores('${{ github.event.inputs.subarea }}')
+        if '${{ github.event.inputs.version }}':
+            new_npc["version"] = '${{ github.event.inputs.version }}'
+        
+        # Update map and coordinates if map_url is provided
+        if '${{ github.event.inputs.map_url }}':
+            new_npc["map"] = '${{ github.event.inputs.map_url }}'
+            coordinates = new_npc["map"].split('#')[1].split(':')[0].split(',')
+            new_npc["coordinates"] = [int(coord) for coord in coordinates]
+        
+        # Add quest if both name and URL are provided
+        if '${{ github.event.inputs.quest_name }}' and '${{ github.event.inputs.quest_url }}':
+            new_quest = {
+                "quest-name": '${{ github.event.inputs.quest_name }}',
+                "quest-url": '${{ github.event.inputs.quest_url }}'
+            }
+            if new_quest not in new_npc["quests"]:
+                new_npc["quests"].append(new_quest)
+        
+        # Ensure correct order of properties
+        ordered_npc = {
+            "name": new_npc["name"],
+            "job": new_npc["job"],
+            "race": new_npc["race"],
+            "gender": new_npc["gender"],
+            "location": new_npc["location"],
+            "subarea": new_npc["subarea"],
+            "map": new_npc["map"],
+            "version": new_npc["version"],
+            "quests": new_npc["quests"],
+            "dialogues": new_npc["dialogues"],
+            "coordinates": new_npc["coordinates"]
+        }
+        
+        # Update or add NPC to metadata
+        if npc_index is not None:
+            metadata[npc_index] = ordered_npc
+        else:
+            metadata.append(ordered_npc)
+        
+        # Save updated metadata
+        with open('data/npcs/npc_metadata.json', 'w') as f:
+            json.dump(metadata, f, indent=4)
+        
+        # Create empty file only if it doesn't exist
+        if ordered_npc["location"]:
+            if ordered_npc["subarea"]:
+                file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["subarea"]}/{ordered_npc["name"]}.txt'
+            else:
+                file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["name"]}.txt'
+            if not os.path.exists(file_path):
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)
+                open(file_path, 'w').close()
+        
+        # Prepare PR description
+        pr_description = f"This PR updates the NPC metadata for {ordered_npc['name']}.\n\nUpdated metadata fields:\n"
+        for key, value in ordered_npc.items():
+            if value and key != "name":
+                if isinstance(value, list):
+                    if value:
+                        pr_description += f"- {key}: {value}\n"
+                else:
+                    pr_description += f"- {key}: {value}\n"
+        
+        pr_description += "\nPlease review and merge if everything looks correct.\nNote, you may optionally add an NPC image to `images/npcs/Your_Npc.png|gif` and transcripts to this branch by editing it from the changed files view, this can be done in a separate Pull Request at a later time as well."
+        
+        # Save PR description to a file
+        with open('pr_description.txt', 'w') as f:
+            f.write(pr_description)
+
+      shell: python
+
+    - name: Ignore pr_description.txt
+      run: |
+        echo "pr_description.txt" >> .git/info/exclude
+
+    - name: Create Pull Request
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git checkout -b update-npc-${{ github.event.inputs.name }}
+        git add .
+        git commit -m "Update NPC metadata for ${{ github.event.inputs.name }}"
+        git push -u origin update-npc-${{ github.event.inputs.name }}
+        pr_url=$(gh pr create --title "Update NPC metadata: ${{ github.event.inputs.name }}" --body-file pr_description.txt --base main)
+        echo "PR_URL=$pr_url" >> $GITHUB_ENV

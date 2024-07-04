@@ -1426,5 +1426,15 @@
             "Niral": "EMPTY"
         },
         "Yerga": "EMPTY"
+    },
+    "Oramond": {
+        "Podzilla_Maw": {
+            "Atui": "VERIFIED"
+        }
+    },
+    "Candia": {
+        "Chocolate_Mines": {
+            "Candis": "VERIFIED"
+        }
     }
 }
