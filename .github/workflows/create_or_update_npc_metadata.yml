@@ -166,9 +166,9 @@ jobs:
 
       shell: python
 
-    - name: Update .gitignore
+    - name: Ignore pr_description.txt
       run: |
-        echo "pr_description.txt" >> .gitignore
+        echo "pr_description.txt" >> .git/info/exclude
 
     - name: Create Pull Request
       env:
