@@ -1,4 +1,4 @@
-name: Update NPC Metadata
+name: Create or update NPC metadata
 
 on:
   workflow_dispatch:
@@ -39,7 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -54,71 +54,74 @@ jobs:
         import json
         import os
         import requests
-
+        
         # Load existing metadata
-        with open('tibia/data/npcs/npc_metadata.json', 'r') as f:
-          metadata = json.load(f)
-
+        with open('data/npcs/npc_metadata.json', 'r') as f:
+            metadata = json.load(f)
+        
+        # Replace spaces with underscores in the name
+        npc_name = '${{ github.event.inputs.name }}'.replace(' ', '_')
+        
         # Find existing NPC or create new entry
-        npc_index = next((index for (index, npc) in enumerate(metadata) if npc["name"] == '${{ github.event.inputs.name }}'), None)
+        npc_index = next((index for (index, npc) in enumerate(metadata) if npc["name"] == npc_name), None)
         if npc_index is not None:
-          new_npc = metadata[npc_index]
+            new_npc = metadata[npc_index]
         else:
-          new_npc = {"name": '${{ github.event.inputs.name }}'}
-
+            new_npc = {"name": npc_name}
+        
         # Update fields only if input is provided
         if '${{ github.event.inputs.job }}':
-          new_npc["job"] = '${{ github.event.inputs.job }}'
+            new_npc["job"] = '${{ github.event.inputs.job }}'
         if '${{ github.event.inputs.race }}':
-          new_npc["race"] = '${{ github.event.inputs.race }}'
+            new_npc["race"] = '${{ github.event.inputs.race }}'
         if '${{ github.event.inputs.gender }}':
-          new_npc["gender"] = '${{ github.event.inputs.gender }}'
+            new_npc["gender"] = '${{ github.event.inputs.gender }}'
         if '${{ github.event.inputs.location }}':
-          new_npc["location"] = '${{ github.event.inputs.location }}'
+            new_npc["location"] = '${{ github.event.inputs.location }}'
         if '${{ github.event.inputs.subarea }}':
-          new_npc["subarea"] = '${{ github.event.inputs.subarea }}'
+            new_npc["subarea"] = '${{ github.event.inputs.subarea }}'
         if '${{ github.event.inputs.version }}':
-          new_npc["version"] = '${{ github.event.inputs.version }}'
-
+            new_npc["version"] = '${{ github.event.inputs.version }}'
+        
         # Update map and coordinates if map_url is provided
         if '${{ github.event.inputs.map_url }}':
-          new_npc["map"] = '${{ github.event.inputs.map_url }}'
-          coordinates = new_npc["map"].split('#')[1].split(':')[0].split(',')
-          new_npc["coordinates"] = [int(coord) for coord in coordinates]
-
+            new_npc["map"] = '${{ github.event.inputs.map_url }}'
+            coordinates = new_npc["map"].split('#')[1].split(':')[0].split(',')
+            new_npc["coordinates"] = [int(coord) for coord in coordinates]
+        
         # Initialize quests if not present
         if "quests" not in new_npc:
-          new_npc["quests"] = []
-
+            new_npc["quests"] = []
+        
         # Add quest if both name and URL are provided
         if '${{ github.event.inputs.quest_name }}' and '${{ github.event.inputs.quest_url }}':
-          new_quest = {
-            "quest-name": '${{ github.event.inputs.quest_name }}',
-            "quest-url": '${{ github.event.inputs.quest_url }}'
-          }
-          if new_quest not in new_npc["quests"]:
-            new_npc["quests"].append(new_quest)
-
+            new_quest = {
+                "quest-name": '${{ github.event.inputs.quest_name }}',
+                "quest-url": '${{ github.event.inputs.quest_url }}'
+            }
+            if new_quest not in new_npc["quests"]:
+                new_npc["quests"].append(new_quest)
+        
         # Initialize dialogues if not present
         if "dialogues" not in new_npc:
-          new_npc["dialogues"] = []
-
+            new_npc["dialogues"] = []
+        
         # Update or add NPC to metadata
         if npc_index is not None:
-          metadata[npc_index] = new_npc
+            metadata[npc_index] = new_npc
         else:
-          metadata.append(new_npc)
-
+            metadata.append(new_npc)
+        
         # Save updated metadata
-        with open('tibia/data/npcs/npc_metadata.json', 'w') as f:
-          json.dump(metadata, f, indent=2)
-
+        with open('data/npcs/npc_metadata.json', 'w') as f:
+            json.dump(metadata, f, indent=2)
+        
         # Create empty file only if it doesn't exist
         if 'location' in new_npc and 'subarea' in new_npc:
-          file_path = f'tibia/data/npcs/text/{new_npc["location"]}/{new_npc["subarea"]}/{new_npc["name"]}.txt'
-          if not os.path.exists(file_path):
-            os.makedirs(os.path.dirname(file_path), exist_ok=True)
-            open(file_path, 'w').close()
+            file_path = f'data/npcs/text/{new_npc["location"]}/{new_npc["subarea"]}/{new_npc["name"]}.txt'
+            if not os.path.exists(file_path):
+                os.makedirs(os.path.dirname(file_path), exist_ok=True)
+                open(file_path, 'w').close()
 
       shell: python
 
