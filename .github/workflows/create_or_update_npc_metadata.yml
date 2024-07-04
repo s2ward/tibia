@@ -17,7 +17,7 @@ on:
         required: false
       location:
         description: 'NPC Location, e.g. Edron, Thais, Venore'
-        required: false
+        required: true
       subarea:
         description: 'NPC Subarea, e.g. Cormaya, Mintwalin, Green Claw Swamp'
         required: false
@@ -67,7 +67,19 @@ jobs:
         if npc_index is not None:
             new_npc = metadata[npc_index]
         else:
-            new_npc = {"name": npc_name}
+            new_npc = {
+                "name": npc_name,
+                "job": "",
+                "race": "",
+                "gender": "",
+                "location": "",
+                "subarea": "",
+                "map": "",
+                "version": "",
+                "quests": [],
+                "dialogues": [],
+                "coordinates": []
+            }
         
         # Update fields only if input is provided
         if '${{ github.event.inputs.job }}':
@@ -89,10 +101,6 @@ jobs:
             coordinates = new_npc["map"].split('#')[1].split(':')[0].split(',')
             new_npc["coordinates"] = [int(coord) for coord in coordinates]
         
-        # Initialize quests if not present
-        if "quests" not in new_npc:
-            new_npc["quests"] = []
-        
         # Add quest if both name and URL are provided
         if '${{ github.event.inputs.quest_name }}' and '${{ github.event.inputs.quest_url }}':
             new_quest = {
@@ -102,26 +110,53 @@ jobs:
             if new_quest not in new_npc["quests"]:
                 new_npc["quests"].append(new_quest)
         
-        # Initialize dialogues if not present
-        if "dialogues" not in new_npc:
-            new_npc["dialogues"] = []
+        # Ensure correct order of properties
+        ordered_npc = {
+            "name": new_npc["name"],
+            "job": new_npc["job"],
+            "race": new_npc["race"],
+            "gender": new_npc["gender"],
+            "location": new_npc["location"],
+            "subarea": new_npc["subarea"],
+            "map": new_npc["map"],
+            "version": new_npc["version"],
+            "quests": new_npc["quests"],
+            "dialogues": new_npc["dialogues"],
+            "coordinates": new_npc["coordinates"]
+        }
         
         # Update or add NPC to metadata
         if npc_index is not None:
-            metadata[npc_index] = new_npc
+            metadata[npc_index] = ordered_npc
         else:
-            metadata.append(new_npc)
+            metadata.append(ordered_npc)
         
         # Save updated metadata
         with open('data/npcs/npc_metadata.json', 'w') as f:
-            json.dump(metadata, f, indent=2)
+            json.dump(metadata, f, indent=4)
         
         # Create empty file only if it doesn't exist
-        if 'location' in new_npc and 'subarea' in new_npc:
-            file_path = f'data/npcs/text/{new_npc["location"]}/{new_npc["subarea"]}/{new_npc["name"]}.txt'
+        if ordered_npc["location"] and ordered_npc["subarea"]:
+            file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["subarea"]}/{ordered_npc["name"]}.txt'
             if not os.path.exists(file_path):
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 open(file_path, 'w').close()
+        
+        # Prepare PR description
+        pr_description = f"This PR updates the NPC metadata for {ordered_npc['name']}.\n\nUpdated metadata fields:\n"
+        for key, value in ordered_npc.items():
+            if value and key != "name":
+                if isinstance(value, list):
+                    if value:
+                        pr_description += f"- {key}: {value}\n"
+                else:
+                    pr_description += f"- {key}: {value}\n"
+        
+        pr_description += "\nPlease review and merge if everything looks correct."
+        
+        # Save PR description to a file
+        with open('pr_description.txt', 'w') as f:
+            f.write(pr_description)
 
       shell: python
 
@@ -131,11 +166,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update NPC metadata for ${{ github.event.inputs.name }}'
         title: 'Update NPC: ${{ github.event.inputs.name }}'
-        body: |
-          This PR updates the NPC metadata for ${{ github.event.inputs.name }}.
-
-          Updated metadata fields:
-          ${{ join(github.event.inputs.*, '\n') }}
-
-          Please review and merge if everything looks correct.
+        body-file: pr_description.txt
         branch: update-npc-${{ github.event.inputs.name }}
