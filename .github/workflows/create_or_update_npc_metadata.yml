@@ -17,7 +17,7 @@ on:
         required: false
       location:
         description: 'NPC Location, e.g. Edron, Thais, Venore'
-        required: true
+        required: false
       subarea:
         description: 'NPC Subarea, e.g. Cormaya, Mintwalin, Green Claw Swamp'
         required: false
@@ -154,9 +154,9 @@ jobs:
         
         pr_description += "\nPlease review and merge if everything looks correct."
         
-        # Save PR description to a file
-        with open('pr_description.txt', 'w') as f:
-            f.write(pr_description)
+        # Set PR description as an environment variable
+        with open(os.environ['GITHUB_ENV'], 'a') as env_file:
+            env_file.write(f'PR_DESCRIPTION<<EOF\n{pr_description}\nEOF\n')
 
       shell: python
 
@@ -166,5 +166,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update NPC metadata for ${{ github.event.inputs.name }}'
         title: 'Update NPC: ${{ github.event.inputs.name }}'
-        body-file: pr_description.txt
+        body: ${{ env.PR_DESCRIPTION }}
         branch: update-npc-${{ github.event.inputs.name }}
