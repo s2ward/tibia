@@ -157,9 +157,9 @@ jobs:
         
         pr_description += "\nPlease review and merge if everything looks correct."
         
-        # Set PR description as an environment variable
+        # Set PR description as an output
         with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
-            fh.write(f'PR_DESCRIPTION<<EOF\n{pr_description}\nEOF\n')
+            fh.write(f"pr_description<<EOF\n{pr_description}\nEOF\n")
 
       shell: python
 
@@ -169,5 +169,5 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'Update NPC metadata for ${{ github.event.inputs.name }}'
         title: 'Update NPC: ${{ github.event.inputs.name }}'
-        body: ${{ steps.update-metadata.outputs.PR_DESCRIPTION }}
+        body: ${{ steps.update-metadata.outputs.pr_description }}
         branch: update-npc-${{ github.event.inputs.name }}
