@@ -139,8 +139,11 @@ jobs:
             json.dump(metadata, f, indent=4)
         
         # Create empty file only if it doesn't exist
-        if ordered_npc["location"] and ordered_npc["subarea"]:
-            file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["subarea"]}/{ordered_npc["name"]}.txt'
+        if ordered_npc["location"]:
+            if ordered_npc["subarea"]:
+                file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["subarea"]}/{ordered_npc["name"]}.txt'
+            else:
+                file_path = f'data/npcs/text/{ordered_npc["location"]}/{ordered_npc["name"]}.txt'
             if not os.path.exists(file_path):
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 open(file_path, 'w').close()
@@ -155,13 +158,17 @@ jobs:
                 else:
                     pr_description += f"- {key}: {value}\n"
         
-        pr_description += "\nPlease review and merge if everything looks correct."
+        pr_description += "\nPlease review and merge if everything looks correct.\nNote, you may optionally add an NPC image to `images/npcs/Your_Npc.png|gif` and transcripts to this branch by editing it from the changed files view, this can be done in a separate Pull Request at a later time as well."
         
         # Save PR description to a file
         with open('pr_description.txt', 'w') as f:
             f.write(pr_description)
 
       shell: python
+
+    - name: Update .gitignore
+      run: |
+        echo "pr_description.txt" >> .gitignore
 
     - name: Create Pull Request
       env:
@@ -173,11 +180,5 @@ jobs:
         git add .
         git commit -m "Update NPC metadata for ${{ github.event.inputs.name }}"
         git push -u origin update-npc-${{ github.event.inputs.name }}
-        pr_url=$(gh pr create --title "Update NPC: ${{ github.event.inputs.name }}" --body-file pr_description.txt --base main)
+        pr_url=$(gh pr create --title "Update NPC metadata: ${{ github.event.inputs.name }}" --body-file pr_description.txt --base main)
         echo "PR_URL=$pr_url" >> $GITHUB_ENV
-
-    - name: Add PR Comment
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        gh pr comment ${{ env.PR_URL }} --body "This pull request was automatically created by the GitHub Actions workflow."
