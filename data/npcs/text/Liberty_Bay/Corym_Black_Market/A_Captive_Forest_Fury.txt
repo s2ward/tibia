@@ -1,0 +1,18 @@
+Player: (idle)
+A Captive Forest Fury: Free me!
+A Captive Forest Fury: I have to get out of here.
+A Captive Forest Fury: You, over there ... could you help me, please?
+Player: hi
+A Captive Forest Fury: *The forest fury glares at you. Only you know that she is not real, though. Just a mirror image left behind in the cage.*
+Player: hi
+A Captive Forest Fury: Greetings, stranger. Please tell me, that you are here to help me!
+Player: no
+A Captive Forest Fury: I'm sad to hear that. If you change your opinion and are willing to help me, come back. (idle)
+Player: name
+A Captive Forest Fury: A forest fury never tells her real name.
+Player: job
+A Captive Forest Fury: I'm a prisoner here, as you can see.
+Player: time
+A Captive Forest Fury: Time seems endless in this cage.
+Player: bye
+A Captive Forest Fury: Farewell. May your dreams be pleasant.
