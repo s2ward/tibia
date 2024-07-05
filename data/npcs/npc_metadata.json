@@ -2313,6 +2313,28 @@
         ]
     },
     {
+        "name": "Atui",
+        "job": "Unknown",
+        "race": "Corym",
+        "gender": "Male",
+        "location": "Oramond",
+        "subarea": "Podzilla_Maw",
+        "map": "https://tibiamaps.io/map#33833,32011,7:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Podzilla Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33833,
+            32011,
+            7
+        ]
+    },
+    {
         "name": "Atur",
         "job": "Banker",
         "race": "Human",
@@ -3210,6 +3232,19 @@
         ]
     },
     {
+        "name": "Bolfona_And_Drog",
+        "job": "Dwarf",
+        "race": "Human",
+        "gender": "Female",
+        "location": "Yalahar",
+        "subarea": "Beregar",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": []
+    },
+    {
         "name": "Bonifacius",
         "job": "Food",
         "race": "Human",
@@ -3852,6 +3887,28 @@
             32202,
             32835,
             7
+        ]
+    },
+    {
+        "name": "Candis",
+        "job": "Supervisor",
+        "race": "Candy",
+        "gender": "Male",
+        "location": "Candia",
+        "subarea": "Chocolate_Mines",
+        "map": "https://tibiamaps.io/map#33362,32138,8:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Threatened Dreams Quest - Sweet Dreams",
+                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest#Sweet_Dreams"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33362,
+            32138,
+            8
         ]
     },
     {
@@ -10563,6 +10620,28 @@
         ]
     },
     {
+        "name": "Gunther",
+        "job": "Trader",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Edron",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33173,31775,7:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Podzilla_Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33173,
+            31775,
+            7
+        ]
+    },
+    {
         "name": "Gurbasch",
         "job": "Ship",
         "race": "Dwarf",
@@ -11174,6 +11253,19 @@
             31025,
             7
         ]
+    },
+    {
+        "name": "Hoaxette",
+        "job": "Jester",
+        "race": "Human",
+        "gender": "Female",
+        "location": "Thais",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": []
     },
     {
         "name": "Hofech",
@@ -12729,23 +12821,6 @@
         ]
     },
     {
-        "name": "Kesar_the_Younger",
-        "job": "Unknown",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Liberty Bay",
-        "subarea": "Bounac",
-        "map": "https://tibiamaps.io/map#32365,32477,2:2",
-        "version": "12.40.9997",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": [
-            32365,
-            32477,
-            2
-        ]
-    },
-    {
         "name": "Kesar's_Valet",
         "job": "Servant",
         "race": "Human",
@@ -12759,6 +12834,23 @@
         "coordinates": [
             32366,
             32475,
+            2
+        ]
+    },
+    {
+        "name": "Kesar_the_Younger",
+        "job": "Unknown",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Liberty Bay",
+        "subarea": "Bounac",
+        "map": "https://tibiamaps.io/map#32365,32477,2:2",
+        "version": "12.40.9997",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            32365,
+            32477,
             2
         ]
     },
@@ -14753,6 +14845,19 @@
         ]
     },
     {
+        "name": "Morax_Dream",
+        "job": "Inquisitor",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Roshamuul",
+        "subarea": "Upper Roshamuul",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": []
+    },
+    {
         "name": "Mordecai",
         "job": "Magic",
         "race": "Human",
@@ -14911,6 +15016,30 @@
         ]
     },
     {
+        "name": "Mr._West",
+        "job": "Merchant",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Yalahar",
+        "subarea": "Yalahar Trade Quarter",
+        "map": "https://tibiamaps.io/map#32772,31358,6:2",
+        "version": "8.40",
+        "quests": [
+            {
+                "quest-name": "In Service of Yalahar Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest"
+            }
+        ],
+        "dialogues": [
+            "I'll make them an offer they can't refuse."
+        ],
+        "coordinates": [
+            32772,
+            31358,
+            6
+        ]
+    },
+    {
         "name": "Mr_Brandon",
         "job": "Fisherman",
         "race": "Undead",
@@ -14967,30 +15096,6 @@
             32070,
             31900,
             4
-        ]
-    },
-    {
-        "name": "Mr._West",
-        "job": "Merchant",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Yalahar",
-        "subarea": "Yalahar Trade Quarter",
-        "map": "https://tibiamaps.io/map#32772,31358,6:2",
-        "version": "8.40",
-        "quests": [
-            {
-                "quest-name": "In Service of Yalahar Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/In_Service_of_Yalahar_Quest"
-            }
-        ],
-        "dialogues": [
-            "I'll make them an offer they can't refuse."
-        ],
-        "coordinates": [
-            32772,
-            31358,
-            6
         ]
     },
     {
@@ -17098,6 +17203,28 @@
         ]
     },
     {
+        "name": "Petaloid",
+        "job": "Guardian",
+        "race": "Rootthing",
+        "gender": "Unknown",
+        "location": "Oramond",
+        "subarea": "Podzilla_Maw",
+        "map": "https://tibiamaps.io/map#33825,31982,6:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Podzilla Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33825,
+            31982,
+            6
+        ]
+    },
+    {
         "name": "Peter",
         "job": "Guard",
         "race": "Human",
@@ -18758,6 +18885,19 @@
         ]
     },
     {
+        "name": "Santa_Claus",
+        "job": "Santa Claus",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Various",
+        "subarea": "",
+        "map": "",
+        "version": "",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": []
+    },
+    {
         "name": "Saraki",
         "job": "Queen",
         "race": "Naga",
@@ -19842,6 +19982,28 @@
             32879,
             32111,
             7
+        ]
+    },
+    {
+        "name": "Sprout_Sentinel",
+        "job": "Unknown",
+        "race": "Rootthing",
+        "gender": "Unknown",
+        "location": "Oramond",
+        "subarea": "Podzilla_Stalk",
+        "map": "https://tibiamaps.io/map#33819,31998,9:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Podzilla Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33819,
+            31998,
+            9
         ]
     },
     {
@@ -22400,23 +22562,6 @@
         ]
     },
     {
-        "name": "Walter_Jaeger",
-        "job": "Organisation",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Thais",
-        "subarea": "",
-        "map": "https://tibiamaps.io/map#32380,32206,7:2",
-        "version": "12.30.9287",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": [
-            32380,
-            32206,
-            7
-        ]
-    },
-    {
         "name": "Walter,_The_Guard",
         "job": "Guard",
         "race": "Human",
@@ -22430,6 +22575,23 @@
         "coordinates": [
             32338,
             32277,
+            7
+        ]
+    },
+    {
+        "name": "Walter_Jaeger",
+        "job": "Organisation",
+        "race": "Human",
+        "gender": "Male",
+        "location": "Thais",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#32380,32206,7:2",
+        "version": "12.30.9287",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            32380,
+            32206,
             7
         ]
     },
@@ -23619,146 +23781,6 @@
             33158,
             31224,
             7
-        ]
-    },
-    {
-        "name": "Hoaxette",
-        "job": "Jester",
-        "race": "Human",
-        "gender": "Female",
-        "location": "Thais",
-        "subarea": "",
-        "map": "",
-        "version": "",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": []
-    },
-    {
-        "name": "Bolfona_And_Drog",
-        "job": "Dwarf",
-        "race": "Human",
-        "gender": "Female",
-        "location": "Yalahar",
-        "subarea": "Beregar",
-        "map": "",
-        "version": "",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": []
-    },
-    {
-        "name": "Santa_Claus",
-        "job": "Santa Claus",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Various",
-        "subarea": "",
-        "map": "",
-        "version": "",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": []
-    },
-    {
-        "name": "Morax_Dream",
-        "job": "Inquisitor",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Roshamuul",
-        "subarea": "Upper Roshamuul",
-        "map": "",
-        "version": "",
-        "quests": [],
-        "dialogues": [],
-        "coordinates": []
-    },
-    {
-        "name": "Atui",
-        "job": "Unknown",
-        "race": "Corym",
-        "gender": "Male",
-        "location": "Oramond",
-        "subarea": "Podzilla_Maw",
-        "map": "https://tibiamaps.io/map#33833,32011,7:2",
-        "version": "13.40",
-        "quests": [
-            {
-                "quest-name": "Podzilla Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
-            }
-        ],
-        "dialogues": [],
-        "coordinates": [
-            33833,
-            32011,
-            7
-        ]
-    },
-    {
-        "name": "Candis",
-        "job": "Supervisor",
-        "race": "Candy",
-        "gender": "Male",
-        "location": "Candia",
-        "subarea": "Chocolate_Mines",
-        "map": "https://tibiamaps.io/map#33362,32138,8:2",
-        "version": "13.40",
-        "quests": [
-            {
-                "quest-name": "Threatened Dreams Quest - Sweet Dreams",
-                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest#Sweet_Dreams"
-            }
-        ],
-        "dialogues": [],
-        "coordinates": [
-            33362,
-            32138,
-            8
-        ]
-    },
-    {
-        "name": "Gunther",
-        "job": "Trader",
-        "race": "Human",
-        "gender": "Male",
-        "location": "Edron",
-        "subarea": "",
-        "map": "https://tibiamaps.io/map#33173,31775,7:2",
-        "version": "13.40",
-        "quests": [
-            {
-                "quest-name": "Podzilla_Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
-            }
-        ],
-        "dialogues": [],
-        "coordinates": [
-            33173,
-            31775,
-            7
-        ]
-    },
-    {
-        "name": "Petaloid",
-        "job": "Guardian",
-        "race": "Rootthing",
-        "gender": "Unknown",
-        "location": "Oramond",
-        "subarea": "Podzilla_Maw",
-        "map": "https://tibiamaps.io/map#33825,31982,6:2",
-        "version": "13.40",
-        "quests": [
-            {
-                "quest-name": "Podzilla Quest",
-                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
-            }
-        ],
-        "dialogues": [],
-        "coordinates": [
-            33825,
-            31982,
-            6
         ]
     }
 ]
