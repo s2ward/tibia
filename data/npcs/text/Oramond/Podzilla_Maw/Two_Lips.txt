@@ -1,0 +1,20 @@
+Player: hi
+Two Lips: <greets stranger>
+Player: name
+Two Lips: <Two Lips>
+Player: job
+Two Lips: <Priest, preserver, leader.>
+Player: stranger
+Two Lips: <You outsider. But you may help.>
+Player: help / preserver
+Two Lips: <My people desperate. Invaders came. Invaders destroy!>
+Player: Invaders
+Two Lips: <You go down! Destroy leader of invaders!>
+Player: leader
+Two Lips: <Before you go, prove worth!>
+Player: worth
+Two Lips: <You Go! You destroy Crimson Death Blossom!>
+Player: worth
+Two Lips: <You go! Prove worth!>
+Player: bye
+Two Lips: <Bye.>
