@@ -12349,6 +12349,23 @@
         ]
     },
     {
+        "name": "Jelly",
+        "job": "Unknown",
+        "race": "Fae",
+        "gender": "Female",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33363,32131,7:2",
+        "version": "13.40",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33363,
+            32131,
+            7
+        ]
+    },
+    {
         "name": "Jerom",
         "job": "Merchant",
         "race": "Human",
