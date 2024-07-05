@@ -1,6 +1,7 @@
 import os
 import json
 import requests
+import re
 from github import Github
 from datetime import datetime, timezone
 
@@ -12,6 +13,10 @@ def load_pr_data(pr_event_path):
 
 def get_timestamp():
     return datetime.now(timezone.utc).strftime("%Y-%m-%d UTC")
+
+def extract_contributor(title):
+    match = re.search(r'@(\w+)', title)
+    return match.group(1) if match else None
 
 def update_contributions_table(issue, pr_info, repo_name):
     timestamp = get_timestamp()
@@ -47,10 +52,10 @@ def update_contributions_table(issue, pr_info, repo_name):
     new_entries = []
     for f in pr_info['files']:
         file_url = f'https://github.com/{repo_name}/blob/main/{f}'
-        current_count = contributor_counts.get(pr_info["opener"], 0) + 1
-        entry = f'| {pr_info["opener"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | {current_count} | {timestamp} |'
+        current_count = contributor_counts.get(pr_info["contributor"], 0) + 1
+        entry = f'| {pr_info["contributor"]} | [{f}]({file_url}) | [{pr_info["title"]}]({pr_info["url"]}) | {current_count} | {timestamp} |'
         new_entries.append(entry)
-        contributor_counts[pr_info["opener"]] = current_count
+        contributor_counts[pr_info["contributor"]] = current_count
 
     table_header = f'### Contributions Table\n\nLast updated: {timestamp}\n\n| Opener | Changed File | PR Link | Count | Timestamp |\n| --- | --- | --- | --- | --- |\n'
     table_content = '\n'.join(table_lines + new_entries).rstrip()
@@ -62,7 +67,7 @@ def update_contributions_table(issue, pr_info, repo_name):
 
 def prepare_discord_message(pr_info, npc_status, repo_name):
     content_lines = [
-        f"**{pr_info['opener']}** has made a contribution! :first_place:",
+        f"**{pr_info['contributor']}** has made a contribution! :first_place:",
         f"Issue: [{pr_info['title']}](<{pr_info['url']}>)",
         "\n**File Changes:**"
     ]
@@ -124,9 +129,12 @@ def main():
     pr_data = load_pr_data(env['pr_event_path'])
     pr = repo.get_pull(pr_data['pull_request']['number'])
 
+    # Extract contributor from title or use PR opener
+    contributor = extract_contributor(pr.title) or pr.user.login
+
     # Get relevant PR information
     pr_info = {
-        'opener': pr.user.login,
+        'contributor': contributor,
         'title': pr.title,
         'url': pr.html_url,
         'files': [f.filename for f in pr.get_files() if f.filename.startswith('data/npcs/text/') and '_EMPTY.txt' not in f.filename]
