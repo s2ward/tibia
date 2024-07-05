@@ -1024,5 +1024,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Petaloid</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Oramond/Podzilla_Maw/Petaloid.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Two Lips</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Oramond/Podzilla_Maw/Two_Lips.txt)  
 └─&nbsp;&nbsp;<strong>Candia</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Chocolate Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Chocolate_Mines)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Candis</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Chocolate_Mines/Candis.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Chocolate Mines</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Chocolate_Mines)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Candis</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Chocolate_Mines/Candis.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Floating Sugar Ball</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Floating_Sugar_Ball.txt)  

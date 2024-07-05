@@ -329,6 +329,23 @@
         ]
     },
     {
+        "name": "A_Floating_Sugar_Ball",
+        "job": "Unknown",
+        "race": "Candy",
+        "gender": "Unknown",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33358,32136,7:1",
+        "version": "13.40",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33358,
+            32136,
+            7
+        ]
+    },
+    {
         "name": "A_Fluffy_Squirrel",
         "job": "Collector",
         "race": "Squirrels",
