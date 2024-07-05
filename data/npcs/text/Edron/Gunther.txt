@@ -1,0 +1,39 @@
+Player: (idle)
+Gunther: Oh my!
+Gunther: They have to believe me!
+Gunther: What a mess.
+Player: hi
+Gunther: Greetings adventurer!
+Player: name
+Gunther: My name is Gunther Holz.
+Player: job
+Gunther: I am an overseas-trader by trade.
+Player: time
+Gunther: Our time might be running out!
+Player: adventurer
+Gunther: I hoped to meet an adventurer such as you! No one is listening to me, they claim I am mad, but I am not!
+Player: mad
+Gunther: Yes, YES! I've seen IT!
+Player: seen
+Gunther: It was a plant! On open seas!!! I swear! And it was humongous!
+Player: humongous
+Gunther: It was as big as a castle! And that was only the part I could see over water! And it moved!!!
+Player: moved
+Gunther: Yes it was slowly but steadily heading straight for the mainland.
+Player: mainland
+Gunther: I can't tell where or when it arrives at the shores. But somewhere at some point it will! And it will be a disaster!
+Player: disaster
+Gunther: Can you imagine the damage a gigantic walking plant will cause? It will raze cities, stomp out armies! It has to be stopped!
+Player: stopped
+Gunther: I called in a few favours from the adventurer's guild and the explorer society to fund an expedition to seek out that monster. ...
+Gunther: All I need now is some brave souls to man the ships and destroy that monster!
+Player: souls
+Gunther: Say, will you be one of the heroes to save the day? Yes or no?
+Player: no
+Gunther: By the gods! Please reconsider!
+Player: yes
+Gunther: I knew you had it in you! Please hurry, talk to the captain and tell him Gunther sent you!
+Player: souls
+Gunther: I am so glad, you are taking care of this problem.
+Player: bye
+Gunther: Take care, friend!
