@@ -21815,6 +21815,28 @@
         ]
     },
     {
+        "name": "Two_Lips",
+        "job": "Priest",
+        "race": "Rootthing",
+        "gender": "Unknown",
+        "location": "Oramond",
+        "subarea": "Podzilla_Maw",
+        "map": "https://tibiamaps.io/map#33809,31984,6:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Podzilla Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Podzilla_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33809,
+            31984,
+            6
+        ]
+    },
+    {
         "name": "Tylius",
         "job": "Combat",
         "race": "Human",
