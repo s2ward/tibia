@@ -1,25 +1,25 @@
 {
-  "total_npcs": 1141,
+  "total_npcs": 1142,
   "verified": {
-    "count": 893,
-    "percentage": 78.26
+    "count": 894,
+    "percentage": 78.28
   },
   "unverified": {
     "count": 105,
-    "percentage": 9.2
+    "percentage": 9.19
   },
   "empty": {
     "count": 143,
-    "percentage": 12.53
+    "percentage": 12.52
   },
   "unverified_or_empty": {
     "count": 248,
-    "percentage": 21.74
+    "percentage": 21.72
   },
   "last_updated": {
-    "date": "2024-07-05T09:58:30Z",
-    "pr_number": 702,
-    "pr_title": "New NPC: A Taffy Bunny @s2ward",
-    "pr_url": "https://github.com/s2ward/tibia/pull/702"
+    "date": "2024-07-05T10:05:39Z",
+    "pr_number": 703,
+    "pr_title": "New NPC: Sugar Plum Fairy @s2ward",
+    "pr_url": "https://github.com/s2ward/tibia/pull/703"
   }
 }
