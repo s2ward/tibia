@@ -21591,6 +21591,23 @@
         ]
     },
     {
+        "name": "Toffee",
+        "job": "Baker",
+        "race": "Candy",
+        "gender": "Male",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33381,32182,7:2",
+        "version": "13.40",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33381,
+            32182,
+            7
+        ]
+    },
+    {
         "name": "Tokel",
         "job": "Farmer",
         "race": "Human",
