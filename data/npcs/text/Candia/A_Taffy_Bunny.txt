@@ -1,0 +1,6 @@
+Player: (idle)
+A Taffy Bunny: *nibble*
+A Taffy Bunny: *scamper*
+A Taffy Bunny: *sniff*
+Player: hi
+A Taffy Bunny: *The bunny briefly sits on its hind legs and sniffs, but then pays no further attention to you.*
