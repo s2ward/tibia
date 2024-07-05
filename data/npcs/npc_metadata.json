@@ -888,6 +888,28 @@
         ]
     },
     {
+        "name": "A_Taffy_Bunny",
+        "job": "Unknown",
+        "race": "Candy",
+        "gender": "Unknown",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33423,32147,7:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Threatened Dreams Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33423,
+            32147,
+            7
+        ]
+    },
+    {
         "name": "A_Taffy_Bunny_(Cherry)",
         "job": "Unknown",
         "race": "Candy",
