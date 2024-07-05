@@ -1,0 +1,83 @@
+Player: (idle)
+Tooth Fairy: Children simply have to look after their teeth. Why doesn't she want to understand that?
+Tooth Fairy: My sister is inconvincible.
+Tooth Fairy: Good to be back home!
+Player: hi
+Tooth Fairy: Greetings, human being.
+Player: name
+Tooth Fairy: My name is a secret. Sorry but I won't tell you.
+Player: job
+Tooth Fairy: I'm the tooth fairy. I would think that says it all.
+Player: time
+Tooth Fairy: Time is getting short because quite a few children are waiting for their presents.
+Player: tooth fairy
+Tooth Fairy: I'm a fae. A rather unique kind of fae, because - as I said - I have a special responsibility for mortal children's milk teeth.
+Player: seagull
+Tooth Fairy: Outside of our secret realm my siblings and I can't keep our true shape. If we want to travel other parts of the world, we must take over the bodies of animals. But we are causing them no harm and we just take control if necessary.
+Player: fae / siblings
+Tooth Fairy: Some call us nature spirits or peri but we prefer the term fae. Most of us are rather reclusive and live peaceful lives in our secret realm. We only leave it in order to protect our home. ...
+Tooth Fairy: As we tend to be secretive about our true nature I'm afraid I can't tell you more.
+Player: realm
+Tooth Fairy: We call it Feyrist and it is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world.
+Player: feyrist
+Tooth Fairy: It is a secret, hidden place. Just few mortals get permission to enter it. A long time ago, we learned how to hide our realm from the outside world.
+Player: protect / evil
+Tooth Fairy: Something is threatening our realm. But I don't know the details. If you are interested you should talk to Alkestios.
+Player: Alkestios
+Tooth Fairy: He's a brother of mine. He took it upon himself to kind of lead our mission in the outside world. You may find him south of Ab'Dendriel.
+Player: maelyrra
+Tooth Fairy: She the fae queen of Feyrist.
+Player: ikassis
+Tooth Fairy: She's one of my sisters. I guess she took over the body of a snake in the world out there.
+Player: aurita
+Tooth Fairy: She's a beautiful mermaid, dwelling in the warm waters at Feyrist's shores. She stole Taegen's heart.
+Player: taegen
+Tooth Fairy: He's one of my brethren, a faun. He never left Feyrist - mainly because of Aurita, I assume.
+Player: valindara
+Tooth Fairy: She is a swan maiden and if you are nice you can surely ask her for a trade.
+Player: talila
+Tooth Fairy: She is a pixie and if you are nice you can surely ask her for a trade.
+Player: benevola
+Tooth Fairy: She's a druid who is living near Ab'Dendriel. Alkestios befriended her, so I guess she is trustworthy.
+Player: sugar plum fairy
+Tooth Fairy: Listen, I love my sister. But it's not easy. She just won't realise that so many sweets aren't good for children's teeth. That's also the reason why I live here in Feyrist. For me, Candia is just as much a nightmare as Roshamuul.
+Player: candia
+Tooth Fairy: I have to admit that I'm not very enthusiastic about this island, fae realm or not. Far too many sweets, bad for the teeth.
+Player: candis
+Tooth Fairy: He is the forecube in the Chocolate Mines. Very hard-working, but I wish he wouldn't increase the influx of chocolate and sugar into the world.
+Player: dulcineo
+Tooth Fairy: He is a faun who has left Feyrist to live in Candia. He's one of my sister's cavaliers - a kind of knight at her court, that is. Well, she has always attracted many suitors.
+Player: jelly
+Tooth Fairy: Jelly, hm ... I think I once met a sugar sprite with that name in Candia.
+Player: coco
+Tooth Fairy: She is a candy designer and also sews gowns for my sister. All made from sugar and fondant, of course! Terrible.
+Player: toffee
+Tooth Fairy: Hm, I think he's one of my sister's royal confectioners.
+Player: tibia
+Tooth Fairy: This is the world we are living in.
+Player: ab'dendriel
+Tooth Fairy: It's a place full of life, huge trees, lush plants and various animals.
+Player: roshamuul
+Tooth Fairy: This is a dark and dangerous place. It is full of terrible monsters and made of nightmares - literally.
+Player: oramond / rathleton / darama
+Tooth Fairy: I have never heard of this place.
+Player: thais / carlin / venore / edron / darashia
+Tooth Fairy: It's a place full of stone buildings and people.
+Player: child
+Tooth Fairy: Small creatures, the offspring of mortals like humans, elves or dwarves. They have the most colourful and vivid dreams. And they lose their first teeth when they grow. I gather these teeth and give them a present in return.
+Player: darashia
+Tooth Fairy: It's a place full of stone buildings and people.
+Player: humans
+Tooth Fairy: They inhabit these huge places filled with stone buildings. They call them towns, I guess.
+Player: elves
+Tooth Fairy: They are inhabiting Ab'Dendriel and live in close touch with nature.
+Player: dwarves
+Tooth Fairy: They are living underneath the earth and are ... digging. Or so I heard.
+Player: kazordoon
+Tooth Fairy: It has something to do with ... dwarves, I guess.
+Player: mission
+Tooth Fairy: Ah, I know you. We have met in the outside world. But there's nothing else you can do for me at the moment.
+Player: milk teeth
+Tooth Fairy: Children's milk teeth are precious. You can use them to ... Well, if I think it through this is nothing you have to know. I'm sorry, that's exclusive fae knowledge.
+Player: bye
+Tooth Fairy: Take care of your teeth!

@@ -21786,6 +21786,28 @@
         ]
     },
     {
+        "name": "Tooth_Fairy_(Candia)",
+        "job": "Tooth Fairy",
+        "race": "Fae",
+        "gender": "Female",
+        "location": "Feyrist",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33514,32251,7:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Threatened Dreams Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33514,
+            32251,
+            7
+        ]
+    },
+    {
         "name": "Toothless_Tim",
         "job": "Unknown",
         "race": "Human",
