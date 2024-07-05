@@ -1303,4 +1303,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jelly</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Jelly.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Coco</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Coco.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Toffee</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Toffee.txt)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dulcineo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dulcineo.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dulcineo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dulcineo.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Stressed Sugar Cube Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Stressed_Sugar_Cube_Worker.txt)  

@@ -1032,4 +1032,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Taffy Bunny</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Taffy_Bunny.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sugar Plum Fairy</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Sugar_Plum_Fairy.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jelly</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Jelly.txt)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dulcineo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dulcineo.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dulcineo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dulcineo.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Stressed Sugar Cube Worker</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Stressed_Sugar_Cube_Worker.txt)  
