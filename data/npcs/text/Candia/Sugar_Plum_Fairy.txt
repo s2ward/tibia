@@ -1,0 +1,51 @@
+Player: (idle)
+Sugar Plum Fairy: Oh, Cherry, you little runaway.
+Sugar Plum Fairy: The cotton candy garb or the peppermint gown? Which shall I wear for the Candy Carnival?
+Sugar Plum Fairy: My sister is so stubborn ...
+Player: hi
+Sugar Plum Fairy: *The beautiful fairy greets you but you don't understand her. She makes a gesture as if to apply some lipstick. Then she is pointing upstairs. But what does that mean?*
+Player: hi
+Sugar Plum Fairy: Ah, I see, you used the candy lipstick. Now I understand you! Sweet greetings, dear visitor!
+Player: hi
+Sugar Plum Fairy: Sweet greetings, dear visitor!
+Player: name
+Sugar Plum Fairy: I'm the Sugar Plum Fairy. My true name, though ... Well, that's very private and only those closest to me do know it.
+Player: job
+Sugar Plum Fairy: I'm responsible for all the sweet things here in Candia. A kind of queen, you might call me.
+Player: time
+Sugar Plum Fairy: Time for dessert, I guess.
+Player: toffee
+Sugar Plum Fairy: He is one of my royal confectioners. His creations are incredibly delicious. You should definitely try his sesame and almond cake.
+Player: jelly
+Sugar Plum Fairy: Jelly is a sugar sprite. She lives in the sugar sprite village in the western part of the island. If you have any questions about Candia, it's best to ask her, she can tell you a lot.
+Player: candis
+Sugar Plum Fairy: He is the forecube in the Chocolate Mines. He enjoys my complete trust when it comes to the delivery of chocolate and cherry drops.
+Player: coco
+Sugar Plum Fairy: She has designed some of my most beautiful dresses, for example the cotton candy garb or the strawberry cake dress.
+Player: maelyrra
+Sugar Plum Fairy: She is the queen of Feyrist and has a fairy court there, just like I do here in Candia.
+Player: tooth fairy
+Sugar Plum Fairy: Yes, my sister ... *sighs* All I ever hear is that sweets are bad for the teeth. That may be true, but children need to have a bit of fun, don't they? Adults like sweets too, by the way, even if they rarely dream about them. ...
+Sugar Plum Fairy: I mean, she can give them toothbrushes if that helps her sleep better.
+Player: mission
+Sugar Plum Fairy: Four of my rarest and most prized sweets were stolen: a matcha turtle, a nightsky cupcake, a rose milk cake and rainbow waffles. It was Kroazur, a wicked creature from the nightmare realms, who took them. Bring them back, will you?
+Player: no
+Sugar Plum Fairy: Not very sweet of you! If you change your opinion and are willing to help me, come back.
+Player: yes
+Sugar Plum Fairy: How very sweet of you! I hope, the monster has not eaten them yet.
+Player: mission / sweets
+Sugar Plum Fairy: Did you already find my stolen sweets? I hope, the monster has not eaten them yet.
+Player: taffy bunny / cherry
+Sugar Plum Fairy: Yes, one of my cute taffy bunnies has run away. Her name is Cherry and I'm really worried. She loves underground tunnels and caves, but there are nightmares from Roshamuul lurking down there with an appetite for sweet smaller creatures. ...
+Sugar Plum Fairy: Maybe you can keep an eye out for Cherry on your travels through Candia?
+Player: no
+Sugar Plum Fairy: Please reconsider this. She could really be in danger.
+Player: yes
+Sugar Plum Fairy: Thank you! I hope, you will find her.
+Player: taffy bunny / cherry
+Sugar Plum Fairy: I'm really worried about Cherry. I hope, you will find her.
+Player: taffy bunny / cherry
+Sugar Plum Fairy: So the little runaway is down at the Hot Milk Springs? Unbelievable that she ran so far away, but she was always the more curious of my two taffies. I think she'll want to stay down there for a while. ...
+Sugar Plum Fairy: But at least now I know where she is. And the truffles who are relaxing there will certainly keep an eye on her. Thanks for your help, my friend!
+Player: bye
+Sugar Plum Fairy: Farewell. May your dreams be sweet.
