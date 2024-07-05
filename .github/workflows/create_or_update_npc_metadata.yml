@@ -50,6 +50,8 @@ jobs:
       run: pip install requests
 
     - name: Update metadata and create empty file
+      env:
+        GITHUB_ACTOR: ${{ github.actor }}
       run: |
         import json
         import os
@@ -57,6 +59,9 @@ jobs:
         
         def replace_spaces_with_underscores(text):
             return text.replace(' ', '_')
+        
+        def replace_underscores_with_spaces(text):
+            return text.replace('_', ' ')
         
         # Load existing metadata
         with open('data/npcs/npc_metadata.json', 'r') as f:
@@ -67,9 +72,8 @@ jobs:
         
         # Find existing NPC or create new entry
         npc_index = next((index for (index, npc) in enumerate(metadata) if npc["name"] == npc_name), None)
-        if npc_index is not None:
-            new_npc = metadata[npc_index]
-        else:
+        is_new_npc = npc_index is None
+        if is_new_npc:
             new_npc = {
                 "name": npc_name,
                 "job": "",
@@ -83,6 +87,8 @@ jobs:
                 "dialogues": [],
                 "coordinates": []
             }
+        else:
+            new_npc = metadata[npc_index]
         
         # Update fields only if input is provided
         if '${{ github.event.inputs.job }}':
@@ -129,10 +135,10 @@ jobs:
         }
         
         # Update or add NPC to metadata
-        if npc_index is not None:
-            metadata[npc_index] = ordered_npc
-        else:
+        if is_new_npc:
             metadata.append(ordered_npc)
+        else:
+            metadata[npc_index] = ordered_npc
         
         # Save updated metadata
         with open('data/npcs/npc_metadata.json', 'w') as f:
@@ -148,8 +154,11 @@ jobs:
                 os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 open(file_path, 'w').close()
         
+        # Get the GitHub actor (user who triggered the workflow)
+        github_actor = os.environ['GITHUB_ACTOR']
+        
         # Prepare PR description
-        pr_description = f"This PR updates the NPC metadata for {ordered_npc['name']}.\n\nUpdated metadata fields:\n"
+        pr_description = f"This PR {'adds' if is_new_npc else 'updates'} the NPC metadata for {ordered_npc['name']}.\n\nUpdated metadata fields:\n"
         for key, value in ordered_npc.items():
             if value and key != "name":
                 if isinstance(value, list):
@@ -158,17 +167,25 @@ jobs:
                 else:
                     pr_description += f"- {key}: {value}\n"
         
+        pr_description += f"\nContributed by @{github_actor}\n"
         pr_description += "\nPlease review and merge if everything looks correct.\nNote, you may optionally add an NPC image to `images/npcs/Your_Npc.png|gif` and transcripts to this branch by editing it from the changed files view, this can be done in a separate Pull Request at a later time as well."
         
         # Save PR description to a file
         with open('pr_description.txt', 'w') as f:
             f.write(pr_description)
+        
+        # Save PR title to a file
+        npc_name_with_spaces = replace_underscores_with_spaces(ordered_npc['name'])
+        pr_title = f"{'New NPC' if is_new_npc else 'Update NPC metadata'}: {npc_name_with_spaces} @{github_actor}"
+        with open('pr_title.txt', 'w') as f:
+            f.write(pr_title)
 
       shell: python
 
-    - name: Ignore pr_description.txt
+    - name: Ignore pr_description.txt and pr_title.txt
       run: |
         echo "pr_description.txt" >> .git/info/exclude
+        echo "pr_title.txt" >> .git/info/exclude
 
     - name: Create Pull Request
       env:
@@ -180,5 +197,6 @@ jobs:
         git add .
         git commit -m "Update NPC metadata for ${{ github.event.inputs.name }}"
         git push -u origin update-npc-${{ github.event.inputs.name }}
-        pr_url=$(gh pr create --title "Update NPC metadata: ${{ github.event.inputs.name }}" --body-file pr_description.txt --base main)
+        pr_title=$(cat pr_title.txt)
+        pr_url=$(gh pr create --title "$pr_title" --body-file pr_description.txt --base main)
         echo "PR_URL=$pr_url" >> $GITHUB_ENV
