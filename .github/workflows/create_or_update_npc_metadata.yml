@@ -140,9 +140,13 @@ jobs:
         else:
             metadata[npc_index] = ordered_npc
         
+        # Sort metadata by name
+        metadata.sort(key=lambda x: x['name'])
+        
         # Save updated metadata
         with open('data/npcs/npc_metadata.json', 'w') as f:
             json.dump(metadata, f, indent=4)
+            f.write('\n')  # Add an empty newline at the end of the file
         
         # Create empty file only if it doesn't exist
         if ordered_npc["location"]:
@@ -179,13 +183,19 @@ jobs:
         pr_title = f"{'New NPC' if is_new_npc else 'Update NPC metadata'}: {npc_name_with_spaces} @{github_actor}"
         with open('pr_title.txt', 'w') as f:
             f.write(pr_title)
+        
+        # Save branch name to a file
+        branch_name = f"update-npc-{ordered_npc['name'].lower()}"
+        with open('branch_name.txt', 'w') as f:
+            f.write(branch_name)
 
       shell: python
 
-    - name: Ignore pr_description.txt and pr_title.txt
+    - name: Ignore pr_description.txt, pr_title.txt, and branch_name.txt
       run: |
         echo "pr_description.txt" >> .git/info/exclude
         echo "pr_title.txt" >> .git/info/exclude
+        echo "branch_name.txt" >> .git/info/exclude
 
     - name: Create Pull Request
       env:
@@ -193,10 +203,11 @@ jobs:
       run: |
         git config user.name github-actions
         git config user.email github-actions@github.com
-        git checkout -b update-npc-${{ github.event.inputs.name }}
+        branch_name=$(cat branch_name.txt)
+        git checkout -b "$branch_name"
         git add .
         git commit -m "Update NPC metadata for ${{ github.event.inputs.name }}"
-        git push -u origin update-npc-${{ github.event.inputs.name }}
+        git push -u origin "$branch_name"
         pr_title=$(cat pr_title.txt)
         pr_url=$(gh pr create --title "$pr_title" --body-file pr_description.txt --base main)
         echo "PR_URL=$pr_url" >> $GITHUB_ENV
