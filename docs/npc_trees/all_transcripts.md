@@ -1302,4 +1302,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Sugar Plum Fairy</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Sugar_Plum_Fairy.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jelly</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Jelly.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Coco</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Coco.txt)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Toffee</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Toffee.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Toffee</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Toffee.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Dulcineo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dulcineo.txt)  
