@@ -6446,6 +6446,23 @@
         ]
     },
     {
+        "name": "Dulcineo",
+        "job": "Guard",
+        "race": "Fae",
+        "gender": "Male",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33352,32168,7:2",
+        "version": "13.40",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33352,
+            32168,
+            7
+        ]
+    },
+    {
         "name": "Duncan",
         "job": "Rebel",
         "race": "Human",
