@@ -1,0 +1,4 @@
+Player: hi
+Toffee: *The globose cook greets you but you don't understand him. He makes a gesture as if to apply some lipstick. Then he is pointing to the east. But what does that mean?*
+Player: hi
+Toffee: Ah, you found the candy lipstick, right? It's nice that we can talk now. But I'm afraid the Candy Carnival is still closed. The Sugar Plum Fairy has some concerns and we will not reopen until they have been resolved.
