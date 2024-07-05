@@ -1443,6 +1443,9 @@
         "Chocolate_Mines": {
             "Candis": "VERIFIED"
         },
-        "A_Floating_Sugar_Ball": "VERIFIED"
+        "A_Floating_Sugar_Ball": "VERIFIED",
+        "Dessert_Dungeon": {
+            "A_Taffy_Bunny_(Cherry)": "VERIFIED"
+        }
     }
 }
