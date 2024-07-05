@@ -1298,4 +1298,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Floating Sugar Ball</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Floating_Sugar_Ball.txt)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Dessert Dungeon</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dessert_Dungeon)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Taffy Bunny (Cherry)</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Dessert_Dungeon/A_Taffy_Bunny_(Cherry).txt)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Taffy Bunny</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Taffy_Bunny.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Taffy Bunny</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/A_Taffy_Bunny.txt)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Sugar Plum Fairy</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Candia/Sugar_Plum_Fairy.txt)  

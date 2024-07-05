@@ -20235,6 +20235,28 @@
         ]
     },
     {
+        "name": "Sugar_Plum_Fairy",
+        "job": "Queen",
+        "race": "Fae",
+        "gender": "Female",
+        "location": "Candia",
+        "subarea": "",
+        "map": "https://tibiamaps.io/map#33429,32144,5:2",
+        "version": "13.40",
+        "quests": [
+            {
+                "quest-name": "Threatened Dreams Quest",
+                "quest-url": "https://tibia.fandom.com/wiki/Threatened_Dreams_Quest"
+            }
+        ],
+        "dialogues": [],
+        "coordinates": [
+            33429,
+            32144,
+            5
+        ]
+    },
+    {
         "name": "Sundara",
         "job": "Magic",
         "race": "Naga",
