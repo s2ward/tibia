@@ -1,0 +1,33 @@
+Dulcineo: There must be a way to resolve these disagreements.
+Dulcineo: Ah, the Candy Carnival ... one of the best festivities in Candia.
+Dulcineo: It's like tilting at windmills.
+Player: hi
+Dulcineo: *The pastel-coloured faun greets you but you don't understand him. He makes a gesture as if to apply some lipstick. Then he is pointing to the east. But what does that mean?*
+Player: hi
+Dulcineo: Ah, I guess, you found the candy lipstick. Now I understand you! But I'm afraid the Candy Carnival is still closed. We will only reopen when my lady's worries have been allayed.
+Player: name
+Dulcineo: I'm Dulcineo. It means 'sweet one'.
+Player: job
+Dulcineo: I'm the Sugar Plum Fairy's cavalier.
+Player: time
+Dulcineo: Time for some sweets, if you ask me.
+Player: lady
+Dulcineo: I'm talking about the Sugar Plum Fairy. She takes care of Candia's well-being. And I take care of hers. I am her cavalier, so to speak.
+Player: cavalier
+Dulcineo: Well, a fae cavalier is many things, my friend: an attendant, an escort, an admirer of a lady. Also a lady's dancing partner which is very important among the sugar fairies. They love dancing. And we fauns are exceptional dancers.
+Player: Sugar Plum Fairy
+Dulcineo: She's the most beautiful and shrewd sugar fairy! She takes care of Candia's well-being. Our queen, so to say, and I'm very proud to be one of her knights and cavaliers.
+Player: Candia
+Dulcineo: Oh, there's a lot to tell, but we're all pretty busy here. Why don't you ask Jelly? She lives in the sugar fairy village north of here and she likes to talk a lot. I'm sure she'll be able to tell you a lot about Candia and its inhabitants.
+Player: jelly
+Dulcineo: Jelly is funny. She talks a lot, likes to dance and knows lots of stories. If you want to know anything about Candia, it's best to ask her.
+Player: coco
+Dulcineo: She is an excellent designer of sugar dresses. She made me a fondant tailcoat and also some of the most beautiful gowns for my lady, the Sugar Plum Fairy.
+Player: candis
+Dulcineo: Thanks to his excellent work in the Chocolate Mines, the supply of cherry drops is always guaranteed.
+Player: tooth fairy
+Dulcineo: Ah, my lady's sister. Unfortunately, their relationship is a bit strained. But I have hope that something can be done about it.
+Player: maelyrra
+Dulcineo: She is the fairy queen of Feyrist. I used to live at her court, but now I'm residing in Candia permanently. I am a cavalier of the Sugar Plum Fairy after all.
+Player: bye
+Dulcineo: Sweet dreams!
