@@ -1,0 +1,4 @@
+Player: hi
+Coco: *The sugar fairy greets you but you don't understand her. She makes a gesture as if to apply some lipstick. Then she is pointing to the east. But what does that mean?*
+Player: hi
+Coco: Ah, you found the candy lipstick! I am pleased to be able to understand you now. But I'm afraid the Candy Carnival is still closed. The Sugar Plum Fairy has some concerns and we will not reopen until they have been resolved. (idle)
