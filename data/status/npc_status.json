@@ -1,25 +1,25 @@
 {
-  "total_npcs": 1136,
+  "total_npcs": 1137,
   "verified": {
-    "count": 888,
-    "percentage": 78.17
+    "count": 889,
+    "percentage": 78.19
   },
   "unverified": {
     "count": 105,
-    "percentage": 9.24
+    "percentage": 9.23
   },
   "empty": {
     "count": 143,
-    "percentage": 12.59
+    "percentage": 12.58
   },
   "unverified_or_empty": {
     "count": 248,
-    "percentage": 21.83
+    "percentage": 21.81
   },
   "last_updated": {
-    "date": "2024-07-05T08:50:51Z",
-    "pr_number": 696,
-    "pr_title": "New NPC: Sprout Sentinel @s2ward",
-    "pr_url": "https://github.com/s2ward/tibia/pull/696"
+    "date": "2024-07-05T08:58:49Z",
+    "pr_number": 697,
+    "pr_title": "New NPC: Two Lips @s2ward",
+    "pr_url": "https://github.com/s2ward/tibia/pull/697"
   }
 }
