@@ -888,6 +888,23 @@
         ]
     },
     {
+        "name": "A_Taffy_Bunny_(Cherry)",
+        "job": "Unknown",
+        "race": "Candy",
+        "gender": "Unknown",
+        "location": "Candia",
+        "subarea": "Dessert_Dungeon",
+        "map": "https://tibiamaps.io/map#33413,32187,8:2",
+        "version": "13.40",
+        "quests": [],
+        "dialogues": [],
+        "coordinates": [
+            33413,
+            32187,
+            8
+        ]
+    },
+    {
         "name": "A_Tainted_Soul",
         "job": "Unknown",
         "race": "Undead",
