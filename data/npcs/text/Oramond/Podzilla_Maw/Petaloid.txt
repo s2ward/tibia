@@ -1,0 +1,42 @@
+Player: hi
+Petaloid: <Greeting, requiring help! Take advice? Have blue leaves? Ask!>
+Player: name
+Petaloid: <Petaloid.>
+Player: job
+Petaloid: <Guardian, guide, advisor.>
+Player: guide
+Petaloid: <Help stranger find bottom and keep home safe!>
+Player: home
+Petaloid: <This biosphere! Around us, everything. Protect!>
+Player: advisor / advice
+Petaloid: <This place, home for all. Forced change! Many <invaders> in short time. Petaloid and Two Lips need help protecting home!>
+Player: Two Lips
+Petaloid: <Friend.>
+Player: help / quest
+Petaloid: <Three ways to help Petaloid and Two Lips. Tend corrupted blossom, heal damaged heart, find twisted cocoons. Report Two Lips.>
+Player: blossom
+Petaloid: <Crimson. Death. Flower. Blooming and looming still! Rooting evil! Find and cut roots! Using tools for help!>
+Player: tools
+Petaloid: <Using tools to build and clean home. Amber tools. Cutting roots with sickle. Tending plant with potent dew.>
+Player: heart
+Petaloid: <Plant hearts need tending! Tending hearts since youth. Invaders tantalise heart - invaders gain resin! Heart will burn unless stopped - using tools for help!>
+Player: resin
+Petaloid: <Fragile resin, powerful resin, one with biosphere. Flow of life, life of home, our home - all in danger!>
+Player: cocoons
+Petaloid: <Blossom blooms, last breath before death - spores! Manifest dangerous cocoons. Kill fast, or create indestructible monsters... stop corruption!>
+Player: blue leaves
+Petaloid: <Blue leaves, bottom of the sea. Exquisity! Interest?>
+Player: no
+Petaloid: <Minding own business.>
+Player: yes
+Petaloid: <Leaves with you? Made room for reward?>
+Player: no
+Petaloid: <Sea creatures surrounding! Processing blue leaves. Once bottom reached, growth spots manifold. Extinguish processors! Gather processed leaves - deliver 20. Petaloid grateful!>
+Player: yes
+Petaloid: <Petaloid need 20. Will reward. Grateful!>
+Player: danger
+Petaloid: <Tried advance! Went haywire! Have to defeat invaders soon!>
+Player: invaders
+Petaloid: <Attack! Biosphere great danger! Ask Two Lips!>
+Player: bye
+Petaloid: <waves>
