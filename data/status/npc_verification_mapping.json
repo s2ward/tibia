@@ -1432,6 +1432,9 @@
         "Podzilla_Maw": {
             "Atui": "VERIFIED",
             "Petaloid": "VERIFIED"
+        },
+        "Podzilla_Stalk": {
+            "Sprout_Sentinel": "EMPTY"
         }
     },
     "Candia": {
