@@ -23,5 +23,7 @@ Player: darama
 Captain Seahorse: The only cities on Darama I travel to are Ankrahmun, and Port Hope.  
 Player: ghost  
 Captain Seahorse: Many people who sailed to Darashia never returned because they were attacked by a ghost ship! I'll never sail there!  
+Player: gunther
+Captain Seahorse: Ah, yes. I am aware you are to rendezvous with a ship at the high seas. Are you ready to embark? Yes or no or do you want me to take a shortcut?
 Player: bye  
 Captain Seahorse: Good bye. Recommend us if you were satisfied with our service.  
