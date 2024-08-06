@@ -4,3 +4,6 @@ A Taffy Bunny: *scamper*
 A Taffy Bunny: *sniff*
 Player: hi
 A Taffy Bunny: *The bunny briefly sits on its hind legs and sniffs, but then pays no further attention to you.*
+Player: hello
+A Taffy Bunny: *Surprisingly, this time the bunny doesn't just sniff, but talks to you.* You brought me a LOT of marzipan carrots, friend. Really nice of you. ...
+A Taffy Bunny: Let me tell you a little secret in return: I know where a treasure is hidden. If you dig around the northern headlands of the island, you'll find it. Right up north, right by the water, yes?
