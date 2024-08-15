@@ -30,6 +30,11 @@ Morpel: Mr. West often buys weapons and armor for his men. I think that proves t
 Player: yalahar  
 Morpel: I guess for a city that does not consist of caves, it's ok.  
 Player: yalahari  
-Morpel: Can't say much about them. It's not like they would interact much with anyone from the outer city.  
+Morpel: Can't say much about them. It's not like they would interact much with anyone from the outer city. 
+Player: (Iddle)
+Morpel: <whispers> Morpel clean the shop, Morpel wash your hand .. stupid cyclops, jawoll!
+Morpel: WEAPONS! ARMOR! HIGHEST QUALITY, JAWOLL!
+Morpel: Buy an armor, your enemies might be close!
+Morpel: Buy a weapon before your enemy does!
 Player: bye  
 Morpel: You really should have bought some extra stuff, just in case.  
