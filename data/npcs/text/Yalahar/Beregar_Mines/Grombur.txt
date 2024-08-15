@@ -1,5 +1,7 @@
 NPC: Grombur  
-Note: This is the first test transcription. All the words were discovered after all the Beregar missions were completed.  
+Note: This is the first test transcription. All the words were discovered after all the Beregar missions were completed.
+Player: Hi
+Grombur: STOP RIGHT THERE!..... Oh, just a human. What's up big guy? Why do you disturb me? 
 Player: beer  
 Grombur: THAT is a problem....I tell you. My shift lasts for 48 hours and no one cares about my thirst. That's such a shame! The barrel over there is already empty and I still have 37 hours to go.  
 Player: beregar  
@@ -32,4 +34,7 @@ Grombur: I don't mind who sits on that throne as long as I have enough to drink.
 Player: Rerun  
 Grombur: I'm sure he's still drunk after THAT amount of beer he drank yesterday.  
 Player: ring  
-Grombur: Oh well, I liked Nokmir. He used to be a good dwarf until that day on which he stole the ring from Rerun.  
+Grombur: Oh well, I liked Nokmir. He used to be a good dwarf until that day on which he stole the ring from Rerun.
+Player: (Iddle)
+Grombur: <sings> What shall we do with the drunken dwaharf! Lalala!
+Grombur: Darn! How could I get more beer without leaving my post?
