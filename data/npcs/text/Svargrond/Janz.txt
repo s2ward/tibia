@@ -40,7 +40,7 @@ Player: jarl
 Janz: Our jarl is a fine man. I named a cupboard after him.  
 Player: leader  
 Janz: You are probably referring to our jarl.  
-Player: join / honourary  
+Player: Barbarian Test / join / honourary  
 Janz: Ask Sven on how to become an honourary barbarian.  
 Player: king  
 Janz: I know nothing about kings.  
