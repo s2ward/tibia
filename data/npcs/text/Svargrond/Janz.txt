@@ -1,4 +1,4 @@
-Player: hi / hello  
+Player: hi / hello (after completing Warlord arena)
 Janz: HAIL to the Warlord of the arena! Player, Hero of Svargrond! Welcome to my shop of wonderful carpentry and furniture.  
 Player: barbarian  
 Janz: I am proud to be a barbarian, even though a civilised one of course.  
