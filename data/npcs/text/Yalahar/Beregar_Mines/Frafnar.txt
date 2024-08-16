@@ -33,3 +33,8 @@ Player: write
 Frafnar: I'm writing it for Bolfona. I'm rather a shy dwarf, you know. Don't dare to go to her and tell her about my feelings, but maybe you could help me.  
 Player: bye  
 Frafnar: Yeye, I won't miss you!  
+Player: (Iddle)
+Frafnar: You're so beautiful like a gold vein that...makes me insane...ARGHH..NO
+Frafnar: ...I love you like the most beautiful crystal I own....nonono
+Frafnar: My sweet chocolate pie, why don't you come by? UAHAHA, I'm so untalented!
+Frafnar: Where have I been?......Bolfona my love, you can hit me with a glove...THAT'S IT!
