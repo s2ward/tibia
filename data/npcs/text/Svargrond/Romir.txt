@@ -143,6 +143,8 @@ Romir: Have a look. You can also look at wands or runes.
 Player: wands  
 Romir: Have a look. You can also look at potions or runes.  
 Player: runes  
-Romir: Have a look. You can also look at wands or potions.  
+Romir: Have a look. You can also look at wands or potions.
+Player: Barbarian Test
+Romir: There is some kind of test you can take to become an honourary barbarian. Talk to Sven the Younger about that issue.
 Player: bye  
 Romir: Good bye.  
