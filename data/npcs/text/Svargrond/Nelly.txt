@@ -76,7 +76,7 @@ Player: enemy
 Nelly: The city seems to be surrounded by enemies. It's just horrible.  
 Player: everspring  
 Nelly: That's some superstitious thing the locals are talking about now and then.  
-Player: honourary  
+Player: Barbarian Test / honourary  
 Nelly: If you are foolish enough, just ask the local jarl if he allows you to join their ranks as an honourary barbarian.  
 Player: leader  
 Nelly: This city is lead by jarl Sven the Younger.  
