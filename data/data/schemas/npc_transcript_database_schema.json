@@ -1,0 +1,48 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"$id": "data/schemas/npc_transcript_database_schema.json",
+	"type": "array",
+	"items": [
+		{
+			"type": "object",
+			"properties": {
+				"file": {
+					"type": "string"
+				},
+				"name": {
+					"type": "string"
+				},
+				"conversation": {
+					"type": "array",
+					"items": [
+						{
+							"type": "object",
+							"properties": {
+								"prompt": {
+									"type": "string"
+								},
+								"answer": {
+									"type": "array",
+									"items": [
+										{
+											"type": "string"
+										}
+									]
+								}
+							},
+							"required": [
+								"prompt",
+								"answer"
+							]
+						}
+					]
+				}
+			},
+			"required": [
+				"file",
+				"name",
+				"conversation"
+			]
+		}
+	]
+}
