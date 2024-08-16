@@ -60,7 +60,7 @@ Hjaern: At this place the spirits are strong, their voices are loud, and the bor
 Hjaern: Our live is a constant learning from the spirits around us and this is the place where we come to learn more.
 Player: camps
 Hjaern: The raiders have at least three camps to the south but raiding parties can be encountered almost everywhere.
-Player: join
+Player: Barbarian Test / join
 Hjaern: To become one of us is a long way. To reach an honour rank in our society, talk to Sven the Younger about the barbarian test.
 Player: jarl
 Hjaern: Sven the younger is a good spokesperson for his people. He knows what to do in a case of urgency and this is what counts. This earns him the respect that is necessary to succeed as a leader.
