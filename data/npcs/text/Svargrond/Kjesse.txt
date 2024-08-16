@@ -54,7 +54,7 @@ Player: camps
 Kjesse: The raiders maintain at least three more or less steady camps.
 Player: nibelor
 Kjesse: The isle of Nibelor has been the centre of our shamanistic forefathers in ancient times.
-Player: join
+Player: Barbarian Test / join
 Kjesse: To get some respect you will have to speak to our jarl first.
 Player: honourary
 Kjesse: The jarl rewards those outsiders who show the right spirit with a position of honour among our people.
