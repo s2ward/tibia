@@ -70,13 +70,12 @@ Player: druid
 Bertha: The druids of Carlin have quite good connections to the local druids here.  
 Player: cult  
 Bertha: Well, we heard of some strangers that travelled through this city. Not exchanging many words with the people here. The locals claim they headed straight to our old mines ...  
-Bertha: As far as I can tell though, not much has changed at the mines. Our scouts are still attacked or even killed. So I assume the strangers were either killed or they are friends of the raiders ...  
-Bertha: I have no clue what has happened and I don't have the resources to find out.  
+Bertha: As far as I can tell though, not much has changed at the mines. Our scouts are still attacked or even killed. So I assume the strangers were either killed or they are friends of the raiders ... Bertha: I have no clue what has happened and I don't have the resources to find out.  
 Player: enemy  
 Bertha: Our major enemy are the trade barons of Venore, of course. They never gained foothold here though. Given how bad business is progressing in this settlement, it is not such a big surprise. They probably simply lost interest.  
 Player: everspring  
 Bertha: I believe that's some nice hunting spot somewhere hidden on this isle.  
-Player: Barbarian Test/Honourary  
+Player: Barbarian Test / honourary  
 Bertha: If you pass some disgusting barbarian test, you might become what they call an honorary barbarian. Just talk to jarl Sven the Younger about this nonsense and don't bother me.  
 Player: jarl  
 Bertha: The jarl here is of no great help. Our equipment and wood is welcome, but we get little profit out of these deals.  
