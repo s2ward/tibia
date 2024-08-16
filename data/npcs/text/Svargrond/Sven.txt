@@ -114,3 +114,5 @@ Player: yeti
 Sven: The yetis are mythical beasts. Only few that encountered those creatures lived to tell the tale. The chakoyas worship them as divine beings, although they have no real relations to them as far as we can tell.  
 Player: bye  
 Sven: May wind and weather be with you, Player.  
+Player: (Iddle)
+Sven: There is something in the air that worries me...
