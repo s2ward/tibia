@@ -76,7 +76,7 @@ Player: enemy
 Bertha: Our major enemy are the trade barons of Venore, of course. They never gained foothold here though. Given how bad business is progressing in this settlement, it is not such a big surprise. They probably simply lost interest.  
 Player: everspring  
 Bertha: I believe that's some nice hunting spot somewhere hidden on this isle.  
-Player: honourary  
+Player: Barbarian Test/Honourary  
 Bertha: If you pass some disgusting barbarian test, you might become what they call an honorary barbarian. Just talk to jarl Sven the Younger about this nonsense and don't bother me.  
 Player: jarl  
 Bertha: The jarl here is of no great help. Our equipment and wood is welcome, but we get little profit out of these deals.  
