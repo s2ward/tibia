@@ -84,5 +84,7 @@ Player: svargrond
 Captain Haba: Already got enough, huh? I kind o' expected that, landlubber! Let's head for Svargrond! Ready?  
 Player: yes  
 Captain Haba: See ya, landlubber!  
+Player: Barbarian Test
+Captain Haba: Har, test! I can give ya a mission if you want to. Name it as ya want, it's the result that counts.
 Player: bye  
 Captain Haba: Bye.  
