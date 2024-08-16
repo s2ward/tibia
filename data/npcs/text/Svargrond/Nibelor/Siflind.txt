@@ -1,5 +1,3 @@
-Siflind: Need potions or magical equipment, my children? Let me know.
-Siflind: Hmm... the northwind brings bad news.
 Player: hi
 Siflind: Be greeted, Player If you are in need of potions or magical equipment, just ask me about my offers.
 Player: how are you
@@ -51,7 +49,7 @@ Player: svargrond
 Siflind: The city seems to have brought the needed stability and peace to my people.
 Player: nibelor
 Siflind: This is a place of spirituality. I assume that this seems boring for someone as young as you are, my child.
-Player: join / honourary
+Player: Barbarian Test / join / honourary
 Siflind: Some people are granted the position of an honourary barbarian.
 Player: leader
 Siflind: Sven the Younger has been our jarl for quite a while and he is the best jarl I have ever seen.
@@ -75,5 +73,8 @@ Player: ferumbras
 Siflind: Isn't it sad to hear about such a fallen creature.
 Player: excalibug
 Siflind: It's not here I guess.
+Player: (Idle)
+Siflind: Need potions or magical equipment, my children? Let me know.
+Siflind: Hmm... the northwind brings bad news.
 Player: bye
 Siflind: Good bye and take care, Player
