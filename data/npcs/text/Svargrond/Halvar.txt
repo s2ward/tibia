@@ -1,4 +1,4 @@
-Player: hi
+Player: hi (after completing Warlord arena)
 Halvar: HAIL to the Warlord of the arena, Player! Hero of Svargrond!
 Player: job
 Halvar: My job is to explain about the rules and to get the fee from the competitors.
