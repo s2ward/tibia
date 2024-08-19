@@ -90,4 +90,3 @@ Dankwart: Good bye.
 Player: (Iddle)
 Dankwart: Come to my tavern if you're hungry or thirsty, traveller.
 Dankwart: You'll never taste such fine mead and tea like here in this tavern.
-
