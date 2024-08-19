@@ -27,7 +27,7 @@ Player: excalibug
 Bertha: I toyed with the idea to spread the rumour that Excalibug might be hidden in the mines. I think if enough adventurers were lured into the mines, they might drive out the ones that occupy them now ...  
 Bertha: So do me a favour, when somebody asks about Excalibug, tell them it's down there in those mines.  
 Player: mines  
-Bertha: The mines are actually Carlin's property. If only the queen would send soldiers to get them back from this rabble. Venore is probably planning to take over these mines just as we are talking.  
+Bertha: The mines are actually Carlin's property. If only the queen would send soldiers to get them back from this rabble. Venore is probably planning to take over these mines just as we are talking. 
 Player: venore  
 Bertha: Venore's power and greed is a constant threat to our operations.  
 Player: chakoya  
@@ -70,7 +70,8 @@ Player: druid
 Bertha: The druids of Carlin have quite good connections to the local druids here.  
 Player: cult  
 Bertha: Well, we heard of some strangers that travelled through this city. Not exchanging many words with the people here. The locals claim they headed straight to our old mines ...  
-Bertha: As far as I can tell though, not much has changed at the mines. Our scouts are still attacked or even killed. So I assume the strangers were either killed or they are friends of the raiders ... Bertha: I have no clue what has happened and I don't have the resources to find out.  
+Bertha: As far as I can tell though, not much has changed at the mines. Our scouts are still attacked or even killed. So I assume the strangers were either killed or they are friends of the raiders ... 
+Bertha: I have no clue what has happened and I don't have the resources to find out.  
 Player: enemy  
 Bertha: Our major enemy are the trade barons of Venore, of course. They never gained foothold here though. Given how bad business is progressing in this settlement, it is not such a big surprise. They probably simply lost interest.  
 Player: everspring  
