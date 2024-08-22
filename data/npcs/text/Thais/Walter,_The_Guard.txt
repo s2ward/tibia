@@ -69,6 +69,6 @@ Walter, The Guard: I am busy. Please ask the citizens for news.
 Player: scum  
 Walter, The Guard: We will get rid of all scum.  
 Player: trouble  
-Walter, The Guard: I don't feel like chatting. 
+Walter, The Guard: I don't feel like chatting.  
 Player: bye / farewell  
 Walter, The Guard: LONG LIVE THE KING!  
