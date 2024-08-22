@@ -1,7 +1,9 @@
 Player: hi / hello  
 Frodo: Welcome to Frodo's Hut. You heard about the news?  
 Player: hi Frodo / hello Frodo  
-Frodo: Hello, hello, Player and welcome. You heard about the news?  
+Frodo: Hello, hello, Player and welcome. You heard about the news?
+Player: Hi (Kingsday)
+Frodo: Hello and happy Kingsday, Cavaleiro Kyon Efusa! Feel free to take a seat and have something to drink. There are many free drinks available in the city, but of course you can also still buy better quality from me.
 Player: alistair / cropwell  
 Frodo: No idea who that is, but maybe you'll find something in the Royal Archives...  
 Player: archives  
