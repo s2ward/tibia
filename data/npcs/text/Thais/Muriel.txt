@@ -112,6 +112,6 @@ Muriel: Excellent! Now I can try to put my theoretical thoughts into practice an
 Player: bye
 Muriel: Farewell.
 Player: (Iddle)
-17:10 Muriel: The wisdom of spellcasting is the source of power.
-17:09 Muriel: Did you hear about the missing member of the Explorer Society?
-17:09 Muriel: There are rumours about a mysterious inscription underneath Thais.
+Muriel: The wisdom of spellcasting is the source of power.
+Muriel: Did you hear about the missing member of the Explorer Society?
+Muriel: There are rumours about a mysterious inscription underneath Thais.
