@@ -1,5 +1,7 @@
 Player: hi / hello  
-Dorian: Greetings, Player! Why do you disturb me?  
+Dorian: Greetings, Player! Why do you disturb me?
+Player: Hi (Kingsday)
+Dorian: Kings, queens, celebrations... please don't bother me with these trivia. At least there's free beer.
 Player: Ab'Dendriel  
 Dorian: The elves are a curious lot. Even though they distrust humans, it's quite easy to steal from them. To scam them, however, is not that easy. ...  
 Dorian: Elven laws are also very cruel. They might kill you for a minor occurrence or throw you into Hellgate.  
