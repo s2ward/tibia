@@ -1,7 +1,9 @@
 Player: hi / hello / hail / salutations  
-Harkath Bloodblade: Address me with my title, commoner Davaref!  
+Harkath Bloodblade: Address me with my title, commoner Player!  
 Player: hail general / salutations general  
-Harkath Bloodblade: Salutations, commoner Davaref!  
+Harkath Bloodblade: Salutations, commoner Player!  
+Player: hail general / salutations general (Kingsday)
+Harkath Bloodblade: Salutations, commoner Cavaleiro Kyon Efusa. Please excuse me, but I have a lot to do on this special day. (Ends conversation)
 Player: army / guard  
 Harkath Bloodblade: The army protects our city. I divided it into 3 battle groups.  
 Player: banor  
