@@ -1,5 +1,7 @@
 Player: Hi  
-Topsy: Hello, dear Player. How can I help you? If you need magical equipment such as runes or wands, just ask me for a trade.  
+Topsy: Hello, dear Player. How can I help you? If you need magical equipment such as runes or wands, just ask me for a trade.
+Player: Hi (Kingsday)
+Topsy: Happy Kingsday, Cavaleiro Kyon Efusa! How can I help you? If you need magical equipment such as runes or wands, just ask me for a trade.
 Player: Sewer  
 Topsy: The Thais sewerage system is a model of modern rat breeding and for some reason is very popular with young adventurers such as yourself.  
 Player: God  
