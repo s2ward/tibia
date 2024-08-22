@@ -37,7 +37,9 @@ Bozo: That's me: Bozo, the jester!
 Player: Gorn  
 Bozo: He sells spell scrolls each day at midnight, but you have to address him that very second.  
 Player: Joke  
-Bozo: I know some 'monstrous' jokes!  
+Bozo: I know some 'monstrous' jokes!
+Player: Joke (Kingsday)
+Bozo: I know some 'royal' jokes! Come on, ask me about the king.
 Player: Muriel  
 Bozo: Better don't mess with sorcerers!  
 Player: Noodles  
@@ -145,6 +147,15 @@ Bozo: He's a smart one. I heard he hid in a foreign country when the first bugs 
 Player: wallcarving  
 Bozo: Oh, I saw some demon carvings in the dungeons as I hid there after a little joke on old Stutch.  
 Player: demoncarving  
-Bozo: Yes, they showed demons, seven actually, dancing around a sword! In something like a flaming pit.  
+Bozo: Yes, they showed demons, seven actually, dancing around a sword! In something like a flaming pit.
+Player: King (Kingsday)
+Bozo: Kings worry about a receding heir line! Hahahaha!
+Bozo: Kings sometimes found that uprisings were a.... peasant surprise.
+Bozo: Royal chairs are rarely throne out! Hehehehe come on, that's funny!
+Bozo: What do you call a mean Ancient Egyptian leader? Say? Say? Un-fair-oh!
+Bozo: Queen Eloise was recently caught gambling. She had a royal flush! Hahahahaha!
+Bozo: Queen Eloise told King Tibianus that he was a royal pain in the butt. Mwhihihihi!
+Bozo: Countess Sorrow recently started to think about her count-less opportunities. Get it? Get it? Hahahah!
+Bozo: The people stand up for royalty. The queen sits down for royal TEA. Ah, not one of my best ones, I admit.
 Player: Bye/Farewell  
 Bozo: Remember: A joke a day keeps the ghouls away!  
