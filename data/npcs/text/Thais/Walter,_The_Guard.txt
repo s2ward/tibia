@@ -70,7 +70,5 @@ Player: scum
 Walter, The Guard: We will get rid of all scum.  
 Player: trouble  
 Walter, The Guard: I don't feel like chatting.
-Player: Kingsday
-Walter, The Guard: Yes, today is Kingsday. Us guards have to keep an extra eye open.
 Player: bye / farewell  
 Walter, The Guard: LONG LIVE THE KING!  
