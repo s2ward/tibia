@@ -1,5 +1,7 @@
 Player: Hi  
-Xodet: Oh, please come in, Player. If you need magical equipment such as runes or wands, just ask me for a trade.  
+Xodet: Oh, please come in, Player. If you need magical equipment such as runes or wands, just ask me for a trade.
+Player: Hi (Kingsday)
+Xodet: Oh, please come in, Cavaleiro Kyon Efusa. If you need magical equipment such as runes or wands, just ask me for a trade. Sorry, no special offers on Kingsday. Don't know why everyone keeps asking me about it.
 Player: buy/stuff/sell/offer/equipment/runes/goods  
 Xodet: I'm selling spirit, health and mana potions, runes, wands, rods and spellbooks. If you'd like to see all of my offers, ask me for a trade.  
 Player: potion  
