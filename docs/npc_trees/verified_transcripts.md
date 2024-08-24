@@ -202,6 +202,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">A Dark Priestess</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Demonwar_Dungeon/A_Dark_Priestess.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ebenizer</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Ebenizer.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eliza</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Eliza.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilio</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Emilio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fiona</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Fiona.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fury Hell</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Fury_Hell)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Falonzo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Fury_Hell/Falonzo.txt)  
