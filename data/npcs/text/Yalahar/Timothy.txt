@@ -33,6 +33,6 @@ Timothy: Oh, didn't I mention it? A friend of mine, a local officer named Palimu
 Player: blood crystal  
 Timothy: Oh yes, I heard about a gem like that. Nowadays they seem incredibly hard to acquire. The explorer's society doesn't own one, else I'd help you.  
 Player: research notes  
-Timothy: You've already received my notes.  
+Timothy: You've already received my notes.
 Player: farewell / bye  
 Timothy: Good bye.  

@@ -1,5 +1,7 @@
 Player: Hi  
 Robin: Ah, a visitor. Greetings Player!  
+Player: hi (kingsday)
+Robin: Have a good Kingsday, Player. Don't drink too much!
 Player: Visitor  
 Robin: I am the Chief Huntsman of Thais.  
 Player: Eclesius  

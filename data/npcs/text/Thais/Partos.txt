@@ -1,5 +1,7 @@
 Player: Hi  
-Partos: Welcome to my little kingdom, Player.  
+Partos: Welcome to my little kingdom, Player.
+Player: Hi (Kingsday)
+Partos: And once again, I'll miss Kingsday. Well, at least I get some company here with all those drunk fools cursing the king and ending up in a cell.
 Player: Army  
 Partos: Bah, the king's pawns. I spit on them.  
 Player: Baa'leal/Djinns/Mal'ouquah/Supplies  
