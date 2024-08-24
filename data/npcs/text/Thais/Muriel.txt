@@ -1,3 +1,7 @@
+Player: (Idle)
+Muriel: The wisdom of spellcasting is the source of power.
+Muriel: Did you hear about the missing member of the Explorer Society?
+Muriel: There are rumours about a mysterious inscription underneath Thais.
 Player: Hi
 Muriel: Greetings, Player! Looking for wisdom and power, eh?
 Player: Hi (Kingsday)
@@ -111,7 +115,3 @@ Player: mission
 Muriel: Excellent! Now I can try to put my theoretical thoughts into practice and find a cure for the symptoms of undead. Here, take this for your efforts.
 Player: bye
 Muriel: Farewell.
-Player: (Iddle)
-Muriel: The wisdom of spellcasting is the source of power.
-Muriel: Did you hear about the missing member of the Explorer Society?
-Muriel: There are rumours about a mysterious inscription underneath Thais.
