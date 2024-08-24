@@ -1,3 +1,8 @@
+Player: Idle (Kingsday - Maybe common days)
+Bozo: Come chat with ol' Bozo!
+Bozo: Welcome, welcome, step closer!
+Bozo: The fools' guild? Are you serious? No, of course not! Hahaha!
+Bozo: Do you know the one with the dragon? Where - and then ... hahahaha! Oh no, I guess I ruined it.
 Player: Hi  
 Bozo: Hi there, how's it hanging, Player! What brings you here?  
 Player: Job  
@@ -159,8 +164,3 @@ Bozo: Countess Sorrow recently started to think about her count-less opportuniti
 Bozo: The people stand up for royalty. The queen sits down for royal TEA. Ah, not one of my best ones, I admit.
 Player: Bye/Farewell  
 Bozo: Remember: A joke a day keeps the ghouls away!
-Player: Iddle (Kingsday - Maybe common days)
-Bozo: Come chat with ol' Bozo!
-Bozo: Welcome, welcome, step closer!
-Bozo: The fools' guild? Are you serious? No, of course not! Hahaha!
-Bozo: Do you know the one with the dragon? Where - and then ... hahahaha! Oh no, I guess I ruined it.
