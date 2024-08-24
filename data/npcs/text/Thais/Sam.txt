@@ -1,5 +1,7 @@
 Player: Hi  
 Sam: Welcome to my shop, adventurer Player! I trade with weapons and armor.  
+Player: hi (kingsday)
+Sam: Welcome to my shop and happy Kingsday, Player!
 Player: Name  
 Sam: My name is Samuel, but you can call me Sam.  
 Player: Trade  
