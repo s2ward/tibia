@@ -1,3 +1,5 @@
+Player: (idle) (kingsday)
+Baxter: Celebrate Kingsday on the roof of the castle.
 Player: hi / hello  
 Baxter: LONG LIVE KING TIBIANUS!
 Player: hi (Kingsday)
@@ -75,5 +77,3 @@ Player: fuck / idiot / ass / homophobic word / tyrant / stupid / shit / lunatic
 Baxter: Take this!  
 Player: bye / farewell  
 Baxter: LONG LIVE THE KING!  
-Player: Iddle (Kingsday)
-Baxter: Celebrate Kingsday on the roof of the castle.
