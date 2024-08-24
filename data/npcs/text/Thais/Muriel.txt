@@ -1,5 +1,11 @@
+Player: (Idle)
+Muriel: The wisdom of spellcasting is the source of power.
+Muriel: Did you hear about the missing member of the Explorer Society?
+Muriel: There are rumours about a mysterious inscription underneath Thais.
 Player: Hi
 Muriel: Greetings, Player! Looking for wisdom and power, eh?
+Player: Hi (Kingsday)
+Muriel: They've forced me to put up some decoration in the sorcerer's guild, can you imagine that? Bah. Distracts me from teaching spells.
 Player: Name
 Muriel: You may call me Muriel.
 Player: Muriel

@@ -53,7 +53,7 @@ Player: nibelor
 Robert: It's a haunted isle where the shamans call spirits and such to our world.
 Player: join
 Robert: If you plan to become one of the barbarians, you are mad.
-Player: honourary
+Player: Barbarian Test / honourary
 Robert: In some gruesome and dangerous test you might become a honourary barbarian.
 Player: jarl / leader
 Robert: The local jarl is a fine man, measured by local standards that is. Still he can't bring me back from the dead when some of the barbarians go berserk and kill me.

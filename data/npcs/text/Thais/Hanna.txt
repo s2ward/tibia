@@ -1,5 +1,7 @@
 Player: hi / hello
 Hanna: Oh, please come in, Player. What do you need? Have a look at my wonderful offers in gems and jewellery.
+Player: Kingsday
+Hanna: Oh, do you wish to buy a special something for Kingsday? Have a look at my offers in gems and jewellery!
 Player: offers / sell / buy
 Hanna: Well, I sell gems and goblets. If you'd like to see my offers, ask me for a trade.
 Player: goblets

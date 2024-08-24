@@ -60,7 +60,9 @@ Player: dogs of war
 Grof, The Guard: Brave warriors, indeed.  
 Player: news  
 Grof, The Guard: I am busy. Please ask the citizens for news.  
-Player: palavra ofensiva  
-Grof, The Guard: Take this! (burning effect, 5 turnos de 10 hitpoints)  
+Player: (offensive word)  
+Grof, The Guard: Take this! (burning effect, 5 turns of 10 hitpoints)
+Player: Kingsday
+Grof, the guard: Yes, today is Kingsday. Us guards have to keep an extra eye open.
 Player: bye  
 Grof, The Guard: LONG LIVE THE KING!  

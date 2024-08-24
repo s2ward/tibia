@@ -1,4 +1,5 @@
-NPC: Sven  
+Player: (idle)
+Sven: There is something in the air that worries me...
 Note: Transcription made after completing the Barbarian Test Quest  
 Player: hi  
 Sven: Be greeted, Player! What brings you here?  

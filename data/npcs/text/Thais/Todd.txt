@@ -1,5 +1,7 @@
 Player: hi / hello  
 Todd: Uhm oh hello Player... not so loud please... my head... What ... do you want?  
+Player: hi (kingsday)
+Todd: Uhm oh hello Player... not so loud please... it's what? Kingsday? Feels like any other day with a hangover... what do you want?
 Player: want / job  
 Todd: I am... a traveller. Just leave me alone if you have nothing interesting to talk about.  
 Player: interesting / trade  
