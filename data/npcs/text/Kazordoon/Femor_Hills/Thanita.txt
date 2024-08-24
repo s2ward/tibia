@@ -1,0 +1,21 @@
+Player: hi
+Thanita: How could you sneak up on me like this, Dago? I thought you were one of THEM! Well, since you are not, what brings you to this wilderness?
+Player: name
+Thanita: My name is Thanita. Nice to meet you.
+Player: job
+Thanita: I'm an amazon guard. It's my job to keep my eyes open and to keep enemies from passing by. My job here is surely one of the toughest - all because of these nerve-racking beasts.
+Player: sneak
+Thanita: I'm an amazon guard. It's my job to keep my eyes open and to keep enemies from passing by. My job here is surely one of the toughest - all because of these nerve-racking beasts.
+Player: beasts
+Thanita: These green, orcish raiders come in masses, hundreds of them. They are worse than those goblins I have to deal with from time to time. ...
+Thanita: Some of them come on beastly warwolves, others shoot fireballs at you and some are just plain ugly. ...
+Thanita: They have never succeeded though in capturing this tower. So far I have always been able to put them to flight.
+Player: amazon
+Thanita: I see you've heard of amazons before. Well let me tell you, probably everything you heard is true. We are much stronger and tougher than most people think. Also, we know how to fight and we could teach many men how to handle a weapon. ...
+Thanita: Not that we would do such a foolish thing.
+Player: fight
+Thanita: To get rid of them, you need to be quite good in various martial arts.
+Player: tower
+Thanita: This is a watchtower of the city of Carlin. From here I can see pretty much all of the surrounding lands. Hardly anybody can scare me up here. I see all enemies long before they can see me.
+Player: bye
+Thanita: Take good care of yourself, traveller Dago. Would be a shame to lose such a courageous wanderer to those green monsters.
