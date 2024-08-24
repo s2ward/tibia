@@ -1,4 +1,4 @@
-Player: hi
+Player: hi (after completing Warlord arena)
 Hawkyr: HAIL to the Warlord of the arena! Hero of Svargrond! Are you looking for paladin spells?
 Player: how are you
 Hawkyr: I only feel alive when I'm on a hunt. But even I need some time to rest and regain strength.
@@ -44,7 +44,7 @@ Player: camps
 Hawkyr: The camps of the raiders are to the south. Although, you can find hunting parties almost everywhere on those isles.
 Player: nibelor
 Hawkyr: An isle on which the shamans live.
-Player: join
+Player: Barbarian Test / join
 Hawkyr: You will have to speak with our jarl Sven to begin the barbarian test.
 Player: leader
 Hawkyr: Our city benefits much from the strength and wisdom of our jarl. He is a great top dog who knows what is best for his kin.

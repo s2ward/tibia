@@ -1,3 +1,4 @@
+Player: (idle)
 Siflind: Need potions or magical equipment, my children? Let me know.
 Siflind: Hmm... the northwind brings bad news.
 Player: hi
@@ -51,7 +52,7 @@ Player: svargrond
 Siflind: The city seems to have brought the needed stability and peace to my people.
 Player: nibelor
 Siflind: This is a place of spirituality. I assume that this seems boring for someone as young as you are, my child.
-Player: join / honourary
+Player: Barbarian Test / join / honourary
 Siflind: Some people are granted the position of an honourary barbarian.
 Player: leader
 Siflind: Sven the Younger has been our jarl for quite a while and he is the best jarl I have ever seen.

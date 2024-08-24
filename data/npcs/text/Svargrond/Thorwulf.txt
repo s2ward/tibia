@@ -1,4 +1,4 @@
-Player: hi
+Player: hi (after completing Warlord arena)
 Thorwulf: HAIL to the Warlord of the arena, Player! Hero of Svargrond! What can I do for you?
 Player: how are you
 Thorwulf: As long as I am not fighting, I am bored.
@@ -49,9 +49,7 @@ Player: camps
 Thorwulf: The raiders have some camps in the South. If I want some fun, I go there and challenge some of those cowards.
 Player: nibelor
 Thorwulf: A boring piece of ice and rock on which only shamans live.
-Player: join
-Thorwulf: Even if someone passes the barbarian test, there is still much left to prove. I don't accept foreigners that easily.
-Player: honourary
+Player: Barbarian Test / join / honourary
 Thorwulf: Even if someone passes the barbarian test, there is still much left to prove. I don't accept foreigners that easily.
 Player: leader
 Thorwulf: Our city is lead by our jarl Sven the Younger. A jarl is a person that is respected by the people, not like those kings or queens of far away lands.
