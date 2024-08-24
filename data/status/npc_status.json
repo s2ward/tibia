@@ -1,25 +1,25 @@
 {
   "total_npcs": 1148,
   "verified": {
-    "count": 898,
-    "percentage": 78.22
+    "count": 899,
+    "percentage": 78.31
   },
   "unverified": {
-    "count": 107,
-    "percentage": 9.32
+    "count": 106,
+    "percentage": 9.23
   },
   "empty": {
     "count": 143,
     "percentage": 12.46
   },
   "unverified_or_empty": {
-    "count": 250,
-    "percentage": 21.78
+    "count": 249,
+    "percentage": 21.69
   },
   "last_updated": {
-    "date": "2024-08-24T14:05:30Z",
-    "pr_number": 716,
-    "pr_title": "[Feature] Svargrond missing keywords",
-    "pr_url": "https://github.com/s2ward/tibia/pull/716"
+    "date": "2024-08-24T14:11:05Z",
+    "pr_number": 713,
+    "pr_title": "Update Emilio.txt",
+    "pr_url": "https://github.com/s2ward/tibia/pull/713"
   }
 }

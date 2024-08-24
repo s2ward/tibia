@@ -76,7 +76,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Daniel Steelsoul</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Daniel_Steelsoul.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edron Guardsman</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Edron_Guardsman.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edvard</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Edvard.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilio</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Emilio.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eremo</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Eremo.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Falk</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Falk.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gundralph</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Edron/Gundralph.txt)  
