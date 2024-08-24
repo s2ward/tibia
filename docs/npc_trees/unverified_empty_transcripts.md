@@ -133,7 +133,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Burt</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Burt.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dwarf Outpost Soldier</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Dwarf_Outpost_Soldier.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Femor Hills</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Femor_Hills)  
-│&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Thanita</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Femor_Hills/Thanita.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Uzon</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Femor_Hills/Uzon.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Grotto of the Lost</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Grotto_of_the_Lost)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">GNOPS Member</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Kazordoon/Grotto_of_the_Lost/GNOPS_Member.txt)  
