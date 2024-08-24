@@ -4,6 +4,8 @@ Benjamin: Hey, send a letter to your friend now and then. Keep in touch, you kno
 Benjamin: Welcome to the post office!
 Player: hi  
 Benjamin: Hello. How may I help you Player? Ask me for a trade if you want to buy something. I can also explain the mail system.  
+Player: hi (kingsday)
+Benjamin: Hello and have a good Kingsday, Player. Ask me for a trade if you want to buy something. I can also explain the mail system.
 Player: trade  
 Benjamin: Don't forget that you need to buy a label too if you want to send a parcel. Always write the name of the receiver in the first line and make sure you entered it correctly.  
 Player: send
