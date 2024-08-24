@@ -2,9 +2,9 @@ Player: hi / hello
 Naji: Welcome to the Tibian bank, Player! What can I do for you?
 Player: hi (Kingsday)
 Naji: Welcome to the Tibian bank, Player! And happy Kingsday. May your fortune grow and prosper.
-Player: hi (Bank Robbery mini world change)
+Player: hi (Bank Robbery MWC)
 Naji: HELP! We have been robbed! I can't give you any gold until the robber has been brought to justice or we have received a compensation from the king. I think the robbers ran towards the Ancient Temple.
-Player: hi (Bank Robbery mini world change - having Bag with Stolen Gold )
+Player: hi (Bank Robbery MWC - having Bag with Stolen Gold)
 Naji: I'm sorry, but we have been robb- hey, what's that bag? Have you hunted down the bank robbers?
 Player: yes
 Naji: Hey, awesome. Good job. Here's some gold for all your work. Thanks to you we can open the bank again.
