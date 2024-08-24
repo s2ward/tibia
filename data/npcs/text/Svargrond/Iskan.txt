@@ -1,4 +1,4 @@
-Player: hi
+Player: hi (after completing Warlord arena)
 Iskan: HAIL to the Warlord of the arena! Player Hero of Svargrond! What can I do for you?
 Player: name
 Iskan: I am Iskan.

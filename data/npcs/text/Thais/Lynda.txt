@@ -113,6 +113,8 @@ Player: no
 Lynda: As you wish.
 Player: yes
 Lynda: May the Gods bless you!
+Player: Kingsday
+Lynda: I don't care about worldly celebrations.
 Player: bye
 Lynda: Good bye, Player May the Gods watch over you, my child!
 Lynda: May the Gods be with you!

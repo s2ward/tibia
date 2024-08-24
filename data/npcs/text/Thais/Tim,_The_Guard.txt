@@ -58,7 +58,9 @@ Player: dogs of war
 Tim, The Guard: Brave warriors, indeed.  
 Player: news  
 Tim, The Guard: I am busy. Please ask the citizens for news.  
-Player: palavra ofensiva  
-Tim, The Guard: Take this! (burning effect, 5 turnos de 10 hitpoints)  
+Player: Kingsday
+Tim, the guard: Yes, today is Kingsday. Us guards have to keep an extra eye open.
+Player: (offensive word)
+Tim, The Guard: Take this! (burn)  
 Player: bye  
 Tim, The Guard: LONG LIVE THE KING!  

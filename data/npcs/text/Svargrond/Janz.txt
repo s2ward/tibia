@@ -1,4 +1,4 @@
-Player: hi / hello  
+Player: hi / hello (after completing Warlord arena)
 Janz: HAIL to the Warlord of the arena! Player, Hero of Svargrond! Welcome to my shop of wonderful carpentry and furniture.  
 Player: barbarian  
 Janz: I am proud to be a barbarian, even though a civilised one of course.  
@@ -40,7 +40,7 @@ Player: jarl
 Janz: Our jarl is a fine man. I named a cupboard after him.  
 Player: leader  
 Janz: You are probably referring to our jarl.  
-Player: join / honourary  
+Player: Barbarian Test / join / honourary  
 Janz: Ask Sven on how to become an honourary barbarian.  
 Player: king  
 Janz: I know nothing about kings.  

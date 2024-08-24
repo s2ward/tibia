@@ -42,7 +42,7 @@ Player: nibelor
 Jessica: Some mysterious isle which was hardly seen by any outsider. I wonder what's happening there in all that secrecy.
 Player: join
 Jessica: In an obscure ceremony, people might become honourary barbarians.
-Player: honourary
+Player: Barbarian Test / honourary
 Jessica: A questionable honour if you ask me. And I heard the test is quite dangerous too.
 Player: jarl / leader
 Jessica: The local chieftain does nothing to help us. It would be so easy for him to drive those other barbarians away from the mines. I suspect he was bribed to remain inactive by agents of Venore.

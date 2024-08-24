@@ -2,6 +2,8 @@ Player: hi (male)
 Aruda: Oh, hello, handsome! It's a pleasure to meet you Player. Gladly I have the time to chat a bit.
 Player: hi (female)
 Aruda: Oh, hello Player your hair looks great! Who did it for you? Gladly I have the time to chat a bit.
+Player: Hi (Kingsday)
+Aruda: Ooooh I love Kingsday! People are so generous on this day.
 Player: (any word)
 Aruda: I would never have guessed that.
 Player: how are you

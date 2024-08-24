@@ -107,6 +107,8 @@ Player: tibia / land
 King Tibianus: Soon the whole land will be ruled by me once again!  
 Player: time / hero / adventurer  
 King Tibianus: It's a time for heroes!  
+Player: kingsday (kingsday)
+King Tibianus: There are numerous good reasons for celebrations and to please my loyal subjects with a few happy days.
 Player: zathroth  
 King Tibianus: Please ask a priest about the Gods.  
 Player: promot  

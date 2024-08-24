@@ -1,3 +1,6 @@
+Player: (idle)
+Dankwart: Come to my tavern if you're hungry or thirsty, traveller.
+Dankwart: You'll never taste such fine mead and tea like here in this tavern.
 Player: hi
 Dankwart: Hi there and welcome to my tavern. Have a drink.
 Player: how are you
@@ -58,7 +61,7 @@ Player: nibelor
 Dankwart: Most of the shamans live on the isle Nibelor.
 Player: camps
 Dankwart: The raiders are nomads, but they have at least three camps somewhere in the South.
-Player: join / honourary
+Player: Barbarian Test / join / honourary
 Dankwart: If you want to become an honourary barbarian better ask Sven the Younger about it.
 Player: leader
 Dankwart: Sven the Younger is our leader here.

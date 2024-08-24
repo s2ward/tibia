@@ -1,5 +1,7 @@
 Player: hi
 Galuna: Oh, please come in, Player. What do you need? Distance weapons? I sell lots of them.
+Player: hi (kingsday)
+Galuna: Happy Kingsday, Player! What do you need? Distance weapons? I sell lots of them.
 Player: name
 Galuna: I am Galuna, paladin and fletcher.
 Player: job / fletcher

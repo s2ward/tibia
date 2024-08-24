@@ -68,5 +68,7 @@ Player: scum
 Miles, The Guard: We will get rid of all scum.
 Player: trouble
 Miles, The Guard: I don't feel like chatting.
+Player: Kingsday
+Miles, The Guard: Yes, today is Kingsday. Us guards have to keep an extra eye open.
 Player: bye / farewell
 Miles, The Guard: LONG LIVE THE KING

@@ -25,5 +25,7 @@ Player: sniff banana / sniff fur / sniff cheese
 Noodles: Woof!  
 Player: th  
 Noodles: <sniff>  
+Player: kingsday (kingsday)
+Noodles: Wooooof! 
 Player: bye / farewell  
 Noodles: Woof! <wiggle>

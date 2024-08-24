@@ -24,7 +24,7 @@ Player: news
 Nilsor: I don't care much about the gossip that people are constantly spreading.
 Player: rumour
 Nilsor: Okay, I tell you what.......A fisherman from Svargrond was near Okolnir when he saw it. A frozen dragon! But all of a sudden it was gone. The question is did that poor dead creature disappear or was that fisherman telling lies?
-Player: join / honourary
+Player: Barbarian Test / join / honourary
 Nilsor: I heard you can become a honourary barbarian by passing a test. Better ask the jarl about it.
 Player: jarl / leader
 Nilsor: Having a jarl as a leader seems acceptable, at least for human standards.

@@ -2,6 +2,8 @@ Player: hi
 Gamon: Well, hello there, Lady, Player welcome to Gamon's humble furniture shop!
 Player: Hi
 Gamon: Nice to meet you, Mister Player! Looking for furniture? You've come to the right place!
+Player: Hi (Kingsday)
+Gamon: Happy Kingsday, Cavaleiro Kyon Efusa! Need to buy furniture? You've come to the right place!
 Player: how are you
 Gamon: Excellent! Never felt better in my life!
 Player: name

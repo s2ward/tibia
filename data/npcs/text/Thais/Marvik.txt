@@ -64,5 +64,7 @@ Player: Excalibug
 Marvik: Even in my visions, I couldn't get any enlightenment about the whereabouts of this weapon of legend.
 Player: Ferumbras
 Marvik: A misguided follower of evil.
+Player: Kingsday
+Marvik: Don't get distracted from your real tasks.
 Player: Bye
 Marvik: Farewell.
