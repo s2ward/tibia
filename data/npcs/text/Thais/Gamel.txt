@@ -1,5 +1,7 @@
 Player: hi / hello  
 Gamel: Pssst! Be silent. Do you wish to buy something?  
+Player: hi / rebellion (kingsday)
+Gamel: Shh. Especially on Kingsday it's important not too attract too much attention.
 Player: Eclesius  
 Gamel: Shhh! That's of no concern to me.  
 Player: buy / sell / offer / stuff / equipment / weapon / goods / armor  

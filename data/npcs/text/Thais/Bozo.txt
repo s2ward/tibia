@@ -1,3 +1,8 @@
+Player: (idle)
+Bozo: Come chat with ol' Bozo!
+Bozo: Welcome, welcome, step closer!
+Bozo: The fools' guild? Are you serious? No, of course not! Hahaha!
+Bozo: Do you know the one with the dragon? Where - and then ... hahahaha! Oh no, I guess I ruined it.
 Player: Hi  
 Bozo: Hi there, how's it hanging, Player! What brings you here?  
 Player: Job  
@@ -11,7 +16,16 @@ Bozo: My name is Bozo. But it's more than a name, it's a lifestyle for me!
 Player: Durin  
 Bozo: Isn't he the author of the book 'Fun with Demons'?  
 Player: King  
-Bozo: Nah, no jests about His Royal Highness.  
+Bozo: Nah, no jests about His Royal Highness. 
+Player: King (Kingsday)
+Bozo: Kings worry about a receding heir line! Hahahaha!
+Bozo: Kings sometimes found that uprisings were a.... peasant surprise.
+Bozo: Royal chairs are rarely throne out! Hehehehe come on, that's funny!
+Bozo: What do you call a mean Ancient Egyptian leader? Say? Say? Un-fair-oh!
+Bozo: Queen Eloise was recently caught gambling. She had a royal flush! Hahahahaha!
+Bozo: Queen Eloise told King Tibianus that he was a royal pain in the butt. Mwhihihihi!
+Bozo: Countess Sorrow recently started to think about her count-less opportunities. Get it? Get it? Hahahah!
+Bozo: The people stand up for royalty. The queen sits down for royal TEA. Ah, not one of my best ones, I admit. 
 Player: Eclesius  
 Bozo: Mwehehehe I like that guys humour. Although his gags and puns are most likely not intended. I wonder how he's doing, haven't seen him for a while.  
 Player: Orc  
@@ -37,7 +51,9 @@ Bozo: That's me: Bozo, the jester!
 Player: Gorn  
 Bozo: He sells spell scrolls each day at midnight, but you have to address him that very second.  
 Player: Joke  
-Bozo: I know some 'monstrous' jokes!  
+Bozo: I know some 'monstrous' jokes!
+Player: Joke (Kingsday)
+Bozo: I know some 'royal' jokes! Come on, ask me about the king.
 Player: Muriel  
 Bozo: Better don't mess with sorcerers!  
 Player: Noodles  
@@ -56,7 +72,7 @@ Player: Bonelord
 Bozo: Why are bonelords so ugly? ... Because their mom and dad were bonelords, too!  
 Player: Guild  
 Bozo: Ever since the first guild was created, there is a great demand of jesters and fools to join them.  
-Player: Magic/Spells  
+Player: Magic / Spells  
 Bozo: I actually do know some spells! Do you want to learn how to 'reduce your load' for 200 gold?  
 Player: No  
 Bozo: You don't know what offer you are missing!  
@@ -126,7 +142,7 @@ Player: News
 Bozo: I know the newest jokes in Tibia.  
 Player: Oswald  
 Bozo: If you believe half the rumours he's spreading, you will get in a lot of trouble.  
-Player: Poodle/Dog  
+Player: Poodle / Dog  
 Bozo: Are we talking about Noodles?  
 Player: Quentin  
 Bozo: He's my baby brother. If you tell him I sent you, he will grant you an extra spell or two.  
@@ -145,6 +161,6 @@ Bozo: He's a smart one. I heard he hid in a foreign country when the first bugs 
 Player: wallcarving  
 Bozo: Oh, I saw some demon carvings in the dungeons as I hid there after a little joke on old Stutch.  
 Player: demoncarving  
-Bozo: Yes, they showed demons, seven actually, dancing around a sword! In something like a flaming pit.  
-Player: Bye/Farewell  
-Bozo: Remember: A joke a day keeps the ghouls away!  
+Bozo: Yes, they showed demons, seven actually, dancing around a sword! In something like a flaming pit.
+Player: Bye / Farewell  
+Bozo: Remember: A joke a day keeps the ghouls away!

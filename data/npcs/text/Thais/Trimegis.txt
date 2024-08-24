@@ -1,5 +1,7 @@
 Player: Hi  
-Trimegis: <mumbles> Greetings, brother Player. Sorry, I am a bit lost in my thoughts.  
+Trimegis: <mumbles> Greetings, brother Player. Sorry, I am a bit lost in my thoughts.
+Player: Hi (Kingsday)
+Trimegis: These stupid Kingsday festivities are the worst idea I've ever seen. Especially because drunk mundanes run through MY room all the time. I prefer to hide in the execution archives.
 Player: Name  
 Trimegis: I am commonly known as Trimegis.  
 Player: Job  

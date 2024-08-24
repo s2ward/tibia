@@ -1,5 +1,7 @@
 Player: Hi
 Quero: Welcome Player! Can I help you?
+Player: Hi (Kingsday)
+Quero: Interested in some instruments for the Kingsday party? Come on, make some noise!
 Player: Name
 Quero: My name is Quero.
 Player: Job
