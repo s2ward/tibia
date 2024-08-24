@@ -1,7 +1,7 @@
 Player: hi
 Suzy: Welcome to the Tibian bank, Player! What can I do for you?
 Player: Hi (Kingsday)
-Suzy: Welcome to the Tibian bank, Cavaleiro Kyon Efusa! And happy Kingsday. May your fortune grow and prosper.
+Suzy: Welcome to the Tibian bank, Player! And happy Kingsday. May your fortune grow and prosper.
 Player: time
 Suzy: It is exactly 1:02 pm.
 Player: job
