@@ -1,3 +1,6 @@
+Player: (idle)
+Siflind: Need potions or magical equipment, my children? Let me know.
+Siflind: Hmm... the northwind brings bad news.
 Player: hi
 Siflind: Be greeted, Player If you are in need of potions or magical equipment, just ask me about my offers.
 Player: how are you
@@ -73,8 +76,5 @@ Player: ferumbras
 Siflind: Isn't it sad to hear about such a fallen creature.
 Player: excalibug
 Siflind: It's not here I guess.
-Player: (Idle)
-Siflind: Need potions or magical equipment, my children? Let me know.
-Siflind: Hmm... the northwind brings bad news.
 Player: bye
 Siflind: Good bye and take care, Player
