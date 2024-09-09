@@ -5964,7 +5964,7 @@
         "gender": "Male",
         "location": "Thais",
         "subarea": "Monster Arena",
-        "map": "https://tibiamaps.io/map#32254,32207,8:3",
+        "map": "https://tibiamaps.io/map#32254,32207,8:2",
         "version": "10.94",
         "quests": [],
         "dialogues": [
@@ -18192,7 +18192,7 @@
         "gender": "Male",
         "location": "Kazordoon",
         "subarea": "",
-        "map": "https://tibiamaps.io/map#33387,31429,15:1",
+        "map": "https://tibiamaps.io/map#33387,31429,15:2",
         "version": "13.30",
         "quests": [
             {
