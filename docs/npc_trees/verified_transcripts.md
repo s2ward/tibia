@@ -573,6 +573,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Gnomprona</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomfurry</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomfurry.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnominer</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnominer.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomish Operative (Moss)</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomish_Operative_(Moss).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Urks The Mute</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Urks_The_Mute.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Port_Hope)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Andrew Lyze</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Port_Hope/Andrew_Lyze.txt)  
