@@ -1,0 +1,22 @@
+Player: hi
+Gnomish Operative: Hello! Please let's hurry and proceed with the operation, so we can get out as soon as possible!
+Player: name
+Gnomish Operative: If you are tardy you can call me gnomcrispy soon enough.
+Player: job
+Gnomish Operative: I'm in the unfortunate position of overseeing this insanely hot part of our operation.
+Player: news
+Gnomish Operative: The news is: HURRY!
+Player: time
+Gnomish Operative: It seems it's some minutes before I'm 'well done'.
+Player: operation
+Gnomish Operative: Let's go through this quick. In this cave we discovered certain magma crystals that are attuned to the volcanic core and seem to be part of the process that heats it up.
+Player: crystals
+Gnomish Operative: The crystals must be destroyed. We hope that has a positive influence on the core's stability and heat level. ...
+Gnomish Operative: The problem is, they heat up the area around them to insane levels. ...
+Gnomish Operative: We can provide you with some gnomish heat protection. Just use the crystal machine to charge your shield. ...
+Gnomish Operative: The shield will begin to detoriate rapidly as soon as you are in the superheated area. ...
+Gnomish Operative: Better have an eye on your heat protection and plan your way back too. As soon as the shield runs out, you will take massive damage. ...
+Gnomish Operative: If your heatshield is low, better leave the superheated area and get a new shield charge. ...
+Gnomish Operative: It might take a few runs to get those pesky crystals destroyed. You need to destroy all three of them, so we can see if it does what our scientists expect.
+Player: bye
+Gnomish Operative: Good bye.
