@@ -571,6 +571,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Silvertides</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Silvertides)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Candra</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Silvertides/Candra.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Gnomprona</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona)  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomadness</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomadness.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomfurry</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomfurry.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Urks The Mute</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Urks_The_Mute.txt)  
 ├─&nbsp;&nbsp;<strong>Port Hope</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Port_Hope)  

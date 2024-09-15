@@ -1,25 +1,25 @@
 {
   "total_npcs": 1148,
   "verified": {
-    "count": 903,
-    "percentage": 78.66
+    "count": 904,
+    "percentage": 78.75
   },
   "unverified": {
     "count": 106,
     "percentage": 9.23
   },
   "empty": {
-    "count": 139,
-    "percentage": 12.11
+    "count": 138,
+    "percentage": 12.02
   },
   "unverified_or_empty": {
-    "count": 245,
-    "percentage": 21.34
+    "count": 244,
+    "percentage": 21.25
   },
   "last_updated": {
-    "date": "2024-09-15T08:06:23Z",
-    "pr_number": 733,
-    "pr_title": "Gnomfurry",
-    "pr_url": "https://github.com/s2ward/tibia/pull/733"
+    "date": "2024-09-15T08:08:21Z",
+    "pr_number": 734,
+    "pr_title": "Gnomadness",
+    "pr_url": "https://github.com/s2ward/tibia/pull/734"
   }
 }
