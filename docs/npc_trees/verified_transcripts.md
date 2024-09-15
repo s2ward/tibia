@@ -60,6 +60,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Fenech</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Fenech.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Guide Rahlkora</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Guide_Rahlkora.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Ishebad</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Ishebad.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Jean_Pierre.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jezzara</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Jezzara.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Mal'ouquah</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Mal'ouquah)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Alesar</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Mal'ouquah/Alesar.txt)  

@@ -10,7 +10,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Captain Sinbeard</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Captain_Sinbeard.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Hercule.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jakahr</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Jakahr.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Jean_Pierre.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Secretive Rascoohan</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Secretive_Rascoohan.txt)  
 ├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Boss_Lairs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">A Bloodshade</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Boss_Lairs/A_Bloodshade.txt)  
