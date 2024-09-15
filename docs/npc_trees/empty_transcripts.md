@@ -117,7 +117,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Stardance Mountains</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Stardance_Mountains)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Kaumudi</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Stardance_Mountains/Kaumudi.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<strong>Gnomprona</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona)  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomish Operative (Firefoot)</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomish_Operative_(Firefoot).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomish Operative (Testing)</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomish_Operative_(Testing).txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Gnomish Operative (Volcano)</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Marapur/Gnomprona/Gnomish_Operative_(Volcano).txt)  
 ├─&nbsp;&nbsp;<strong>Rathleton</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Rathleton)  
