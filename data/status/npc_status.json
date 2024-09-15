@@ -1,25 +1,25 @@
 {
   "total_npcs": 1148,
   "verified": {
-    "count": 900,
-    "percentage": 78.4
+    "count": 901,
+    "percentage": 78.48
   },
   "unverified": {
     "count": 106,
     "percentage": 9.23
   },
   "empty": {
-    "count": 142,
-    "percentage": 12.37
+    "count": 141,
+    "percentage": 12.28
   },
   "unverified_or_empty": {
-    "count": 248,
-    "percentage": 21.6
+    "count": 247,
+    "percentage": 21.52
   },
   "last_updated": {
-    "date": "2024-09-15T07:49:00Z",
-    "pr_number": 726,
-    "pr_title": "Opticorder Forge",
-    "pr_url": "https://github.com/s2ward/tibia/pull/726"
+    "date": "2024-09-15T07:51:46Z",
+    "pr_number": 727,
+    "pr_title": "Jean Pierre",
+    "pr_url": "https://github.com/s2ward/tibia/pull/727"
   }
 }

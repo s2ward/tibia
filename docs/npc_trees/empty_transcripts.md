@@ -8,7 +8,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Agostina</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Agostina.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Brutus</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Brutus.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Hercule</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Hercule.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Jean Pierre</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Jean_Pierre.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;&nbsp;<span style="font-size: 90%;">Secretive Rascoohan</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Ankrahmun/Secretive_Rascoohan.txt)  
 ├─&nbsp;&nbsp;<strong>Boss Lairs</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Boss_Lairs)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Airclairebear</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Boss_Lairs/Airclairebear.txt)  
