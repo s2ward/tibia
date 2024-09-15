@@ -1,0 +1,18 @@
+Player: hi
+Urks the Mute: <the dwarf bows slightly>
+Player: name / job / time / news
+Urks the Mute: <the dwarf looks at you, then he slowly shakes his head>
+Player: passage
+Urks the Mute: <the dwarf quizzically raises his brow - the only destinations he accepts seems to be Cormaya or Kazordoon>
+Player: cormaya / kazordoon
+Urks the Mute: <the dwarf smiles slightly, shows you a piece of paper with ' 200 gold ' written on it, as expecting a yes or no>
+Player: no
+Urks the Mute: <the dwarf just shrugs>
+Player: yes
+Urks the Mute: <the dwarf nods>
+Player: thais / venore / edron / carlin / issavi / oramond / rathleton / roshamuul / svargrond / farmine / ab'dendriel / liberty bay / folda / senja / vega
+Urks the Mute: <the dwarf shakes his head - the only destination he accepts seems to be Cormaya or Kazordoon>
+Player: bye
+Urks the Mute: <the dwarf waves his hand>
+Player: (vanish)
+Urks the Mute: <the dwarf shrugs>
