@@ -1,0 +1,51 @@
+Player: hi
+Gnomfurry: Hi there.
+Player: name
+Gnomfurry: I'm known as gnomfurry.
+Player: job
+Gnomfurry: I'm the local liaison of the adventurers guild.
+Player: time
+Gnomfurry: It's about 8:46 pm.
+Player: candy
+Gnomfurry: Sure, just ask me for a trade
+Player: trade
+Gnomfurry: Of course, I sell candy and ... well more candy. Lots of it.
+Player: gnomprona
+Gnomfurry: It's a wonder to behold. A land in the depths of the earth, constanly illuminated by those strange foggy clouds that hang over the area. ...
+Gnomfurry: And the life forms here seem to have been preserved from a distant past. ...
+Gnomfurry: I assume we can learn much about the worlds history when we figure out some of this places secrets.
+Player: steamboat
+Gnomfurry: It's too loud for my taste. I fear for good Urks to become deaf too.
+Player: Urks
+Gnomfurry: I play cards with him in our spare time now and then.
+Player: adventurers guild
+Gnomfurry: The guild was a tremendous help to me in locating my people, the rascoohans. And adventures are just my thing anyway. ...
+Gnomfurry: I guess this is part of my rascoohan heritage but it serves my adoptive people, the gnomes quite well.
+Player: rascoohans
+Gnomfurry: I lived with them for a while after I found out about my origin. But in the end I didn't really fit in. But I enjoy my visits to my distant cousins once in a while.
+Player: gnomadness
+Gnomfurry: I'm more into practical things but if you are in need of some scientific wisdom, Gnomadness is the gnome to go to. Provided you understand a fraction of what he's telling you.
+Player: gnominer
+Gnomfurry: He's an efficient leader. And as he would put it: With small power comes little responsibility.
+Player: gnomfurry
+Gnomfurry: A gnomish expedition found me in a collapsed tunnel when I was a mere baby. ...
+Gnomfurry: They couldn't find my parents, so they raised me as one of their own. ...
+Gnomfurry: While I was happy amongst gnomes, I constantly wondered about my people. ...
+Gnomfurry: I joined the adventurers guild to travel the world and find more people like me. ...
+Gnomfurry: Eventually we discovered the rascoohans. You can't imagine what a delight that was to me. ...
+Gnomfurry: Since then I served as a laiison for the gnomes and the adventurers guild. ...
+Gnomfurry: The guild funded most of operation challenger. When the gnomes discovered the exaltation forge it was decided to uncover its secret in a joined effort and the forge was moved to the guild ...
+Gnomfurry: We expect to make even more exciting discoveries in gnomprona. Gnomadness, who is a bit of an slightly unhinged genius, is on the trail of some other huge discovery already. ...
+Gnomfurry: But you better speak to Gnomadness himself about that.
+Player: dwarfs
+Gnomfurry: The dwarfs are industrious people. Gnomes and dwarfs work together since quite a while and share many common goals. Rather to compete they complement each other.
+Player: gnomes
+Gnomfurry: Admittedly I feel more like a gnome then a rascoohan.
+Player: bigfoot
+Gnomfurry: I was part of the bigfoot initiative for quite a while. ...
+Gnomfurry: Well, as a matter of fact they tested a lot of their procedures on me first but beeing almost a gnome I mastered them with ease of course.
+Player: those below
+Gnomfurry: Those below are an ever-present foe in the depths. They ceaselessly come up with new machinations and all seem to aim to reshape the world in their liking. ...
+Gnomfurry: That is: to burn it down.
+Player: bye
+Gnomfurry: See you soon.
