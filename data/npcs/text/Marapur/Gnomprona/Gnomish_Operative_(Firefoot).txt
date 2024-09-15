@@ -1,0 +1,22 @@
+Player: hi
+Gnomish Operative: Hello! Good you are here to assist in our operation!
+Player: name
+Gnomish Operative: I'm too unimportant to mention my name.
+Player: job
+Gnomish Operative: I'm a gnomish archeologist and I am overseeing this part of our operation.
+Player: time
+Gnomish Operative: It's 9:18 am right now.
+Player: news
+Gnomish Operative: The biggest news is waiting just around the corner so to say.
+Player: operation
+Gnomish Operative: In this tunnel awaits one of the greatest discoveries in gnomish archaeology.
+Player: archaeology
+Gnomish Operative: Our devices hint at some artificial structure in the depths of this cave. ...
+Gnomish Operative: And there is a source of strange energy emissions in that structure. ...
+Gnomish Operative: Sadly fires are constantly blocking our way. There is a way through the fires as they are waxing and waning, but it is still dangerous. ...
+Gnomish Operative: There is gnomish heat protection technology, yet it is expensive and restricted. ...
+Gnomish Operative: Unless we can prove that it's worth the effort, we won't get the protection we need for a safe exploration. ...
+Gnomish Operative: We need you to verify that there is indeed an ancient structure and some device in this cave. ...
+Gnomish Operative: Don't worry, if you get caught in the heat you'll be retrieved to safety. Yet you will have to make it through that tunnel at some point.
+Player: bye
+Gnomish Operative: Good bye.
