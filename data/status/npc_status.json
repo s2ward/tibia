@@ -1,25 +1,25 @@
 {
   "total_npcs": 1148,
   "verified": {
-    "count": 905,
-    "percentage": 78.83
+    "count": 906,
+    "percentage": 78.92
   },
   "unverified": {
     "count": 107,
     "percentage": 9.32
   },
   "empty": {
-    "count": 136,
-    "percentage": 11.85
+    "count": 135,
+    "percentage": 11.76
   },
   "unverified_or_empty": {
-    "count": 243,
-    "percentage": 21.17
+    "count": 242,
+    "percentage": 21.08
   },
   "last_updated": {
-    "date": "2024-09-15T08:14:24Z",
-    "pr_number": 736,
-    "pr_title": "Gnomish_Operative_(Moss)",
-    "pr_url": "https://github.com/s2ward/tibia/pull/736"
+    "date": "2024-09-15T08:16:38Z",
+    "pr_number": 738,
+    "pr_title": "Gnomish_Operative_(GT-M-01)",
+    "pr_url": "https://github.com/s2ward/tibia/pull/738"
   }
 }
