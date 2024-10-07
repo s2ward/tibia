@@ -1,0 +1,42 @@
+name: Create Document Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      inputs:
+        description: 'Files, folders, or predefined inputs to include'
+        required: true
+        default: ''
+      include:
+        description: 'Files or directories to always include without filtering'
+        required: false
+        default: ''
+      exclude:
+        description: 'Patterns of files or directories to exclude'
+        required: false
+        default: ''
+      extensions:
+        description: 'File extensions to include. Include all if empty'
+        required: false
+        default: ''
+
+jobs:
+  create-document:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run create_document.py
+        run: |
+          python create_document.py ${{ github.event.inputs.inputs }} --include ${{ github.event.inputs.include }} --exclude ${{ github.event.inputs.exclude }} --extensions ${{ github.event.inputs.extensions }}
