@@ -1,25 +1,25 @@
 {
   "total_npcs": 1148,
   "verified": {
-    "count": 908,
-    "percentage": 79.09
+    "count": 909,
+    "percentage": 79.18
   },
   "unverified": {
-    "count": 106,
-    "percentage": 9.23
+    "count": 105,
+    "percentage": 9.15
   },
   "empty": {
     "count": 134,
     "percentage": 11.67
   },
   "unverified_or_empty": {
-    "count": 240,
-    "percentage": 20.91
+    "count": 239,
+    "percentage": 20.82
   },
   "last_updated": {
-    "date": "2024-10-20T12:54:54Z",
-    "pr_number": 742,
-    "pr_title": "Emilie",
-    "pr_url": "https://github.com/s2ward/tibia/pull/742"
+    "date": "2024-10-20T12:59:24Z",
+    "pr_number": 743,
+    "pr_title": "Gruffy",
+    "pr_url": "https://github.com/s2ward/tibia/pull/743"
   }
 }
