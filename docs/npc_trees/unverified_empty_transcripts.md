@@ -216,7 +216,6 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Denominator</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Denominator.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dino</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Dino.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dog Lady</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Dog_Lady.txt)  
-│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilie</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Emilie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Excited Tibian</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Excited_Tibian.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Dermot</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Fibula/Dermot.txt)  
