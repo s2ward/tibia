@@ -781,6 +781,7 @@
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edgar-Ellen</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Edgar-Ellen.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Edowir</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Edowir.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Elane</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Elane.txt)  
+│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Emilie</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Emilie.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<strong>Fibula</strong> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Fibula)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Eddy</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Fibula/Eddy.txt)  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;&nbsp;<span style="font-size: 90%;">Simon the Beggar</span> [↗](https://github.com/s2ward/tibia/blob/main/data/npcs/text/Thais/Fibula/Simon_the_Beggar.txt)  

@@ -1,20 +1,46 @@
-Player: hi  
-Emilie: Hello helpful citizen Player! Finally!  
-Player: helpful  
-Emilie: We agents of the Combined Magical Winterberry Society try to ensure the harvesting and processing of winterberries into all sorts of useful, magical fluids. ...  
-Emilie: AND we have an important mission for you - yes you. One that will influence practically all of Tibia.  
-Player: winterberries  
-Emilie: Winterberries are special berries only harvestable during a short time of the year. They are used to refine potions of all sorts. They can severely enhance their magical effects. ...  
-Emilie: Without them it is generally a little more difficult to create effective potions.  
-Player: Combined Magical Winterberry Society  
-Emilie: The Combined Magical Winterberry Society was founded more than one hundred years ago by mage Tolwyn Winter. ...  
-Emilie: It's our duty to ensure the harvesting and processing of winterberries to secure a steady flow of the appropriate magical resources for potions and other magical fluids in this world.  
-Player: potions  
-Emilie: We oversee the treading of winterberries in all of Tibia. The processed berries will be used to refine magical potions such as health or mana potions.  
-Player: mission  
-Emilie: Ahem... WELCOME! The Combined Magical Winterberry Society is proud to have you on board... mumble... mmh... which thank you very much... in our humble opinion... is our duty to... mumble ...  
-Emilie: And that is why you are here now. To help us, yourself and everyone around you of course. Are you ready to join us and do you have at least 3 bunches of winterberries with you?  
-Player: yes  
-Emilie: Good! Then I'm officially allowed and encouraged to transport you to one of our cellars. Are you prepared to leave?  
-Player: yes  
-Emilie: Just perfect! Have a safe journey! And good treading...  
+Player: (idle)
+Emilie: Annual Autumn Vintaaage!
+Emilie: It's this time of the year again - help us gathering winterberries!
+Emilie: You have a fine taste? You feel in touch with nature? Forget about that and help us gathering winterberries in time for everyone to enjoy!
+Player: hi
+Emilie: Hello helpful citizen Player! Finally!
+Player: name
+Emilie: I'm Emilie, proud representative of the Combined Magical Winterberry Society.
+Player: job / helpful
+Emilie: We agents of the Combined Magical Winterberry Society try to ensure the harvesting and processing of winterberries into all sorts of useful, magical fluids. ...
+Emilie: AND we have an important mission for you - yes you. One that will influence practically all of Tibia.
+Player: news
+Emilie: It's the Annual Autumn Vintage! What other news can there possibly be!
+Player: autumn
+Emilie: The Annual Autumn Vintage is our chance to gather the rare and valuable winterberries. Our job is it to oversee the gathering and especially the treading of the berries which then will be used to refine all sorts of magical potions.
+Player: Combined Magical Winterberry Society
+Emilie: The Combined Magical Winterberry Society was founded more than one hundred years ago by mage Tolwyn Winter. ...
+Emilie: It's our duty to ensure the harvesting and processing of winterberries to secure a steady flow of the appropriate magical resources for potions and other magical fluids in this world.
+Player: winterberries / berries
+Emilie: Winterberries are special berries only harvestable during a short time of the year. They are used to refine potions of all sorts. They can severely enhance their magical effects. ...
+Emilie: Without them it is generally a little more difficult to create effective potions.
+Player: potions
+Emilie: We oversee the treading of winterberries in all of Tibia. The processed berries will be used to refine magical potions such as health or mana potions.
+Player: king
+Emilie: I sure hope he's gathering berries right now.
+Player: mission
+Emilie: Ahem... WELCOME! The Combined Magical Winterberry Society is proud to have you on board... mumble... mmh... which thank you very much... in our humble opinion... is our duty to... mumble ...
+Emilie: And that is why you are here now. To help us, yourself and everyone around you of course. Are you ready to join us and do you have at least 3 bunches of winterberries with you?
+Player: (any)
+Emilie: Well, in this case I'm really sorry and would like to advise you to reconsider your position in this matter.
+Player: yes
+Emilie: Hmm... I'm sorry but I don't see any berries there. If you don't show me at least 3 berries, I'm unfortunately in no position to let you in.
+Player: yes
+Emilie: Good! Then I'm officially allowed and encouraged to transport you to one of our cellars. Are you prepared to leave?
+Player: no
+Emilie: Please return to me as soon as you made up your undecisive mind.
+Player: yes
+Emilie: Just perfect! Have a safe journey! And good treading...
+Player: status
+Emilie: As of now, no berries have been processed. Try to find some winterberries and join the Winterberry Society in their everlasting struggle to provide even better potions for everyone!
+Player: status
+Emilie: As of now, 11 loads have been processed. Keep it up!
+Player: bye
+Emilie: Goodbye, I really hope we can do this right in time this year.
+Player: (vanish)
+Emilie: Wh... but you didn't even... hmpf!
