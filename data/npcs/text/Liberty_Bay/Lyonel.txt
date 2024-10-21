@@ -1,4 +1,6 @@
 NPC: Lyonel  
+Player: (Idle)
+Lyonel: Relax in my tavern after an exhausting hunt!
 Player: hi / hello  
 Lyonel: Welcome, my friend. Make yourself comfortable and have some food and rum.  
 Player: Carlin  
