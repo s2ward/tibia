@@ -37,6 +37,6 @@ Player: ring
 Grombur: Oh well, I liked Nokmir. He used to be a good dwarf until that day on which he stole the ring from Rerun.
 Player: (Leave)
 Grombur: Wait! I need BEEEER!
-Player: (Iddle)
+Player: (Idle)
 Grombur: <sings> What shall we do with the drunken dwaharf! Lalala!
 Grombur: Darn! How could I get more beer without leaving my post?
