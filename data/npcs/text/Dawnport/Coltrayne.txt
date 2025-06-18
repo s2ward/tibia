@@ -26,3 +26,5 @@ Player: Richard
 Coltrayne: He's just in the next shop to the left, selling food and equipment like ropes and shovels and fishing rods and such.  
 Player: Ser Tybald  
 Coltrayne: I'm sure I've seen his face before somewhere... never mind. Anyway, he's the knight and paladin spell teacher around here, letting you try them out for free. Don't underestimate the use of spells, even if you're not a mage.  
+Player: Key
+Coltrayne: Sorry, friend. I've been very busy forging armor. No time to look after a key of any sort.
