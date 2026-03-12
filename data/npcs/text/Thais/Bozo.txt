@@ -102,6 +102,8 @@ Player: Elane
 Bozo: She's pretty but too serious for my taste.  
 Player: First Dragon  
 Bozo: I heard he moved to a dungeon.  
+Player: Dungeon  
+Bozo: If you are a bad jester, you get a chance to visit them now and then.  
 Player: Flaming pit  
 Bozo: Ah, don't ask me! Usually mages and mystics know more about such stuff.  
 Player: Fool  
